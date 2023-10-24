@@ -1260,3 +1260,150 @@ assert(celo(brakapogilo,'apog.brak0ilo.MEBL','胳臂 [gē bì] ')).
 assert(celo(malapogi,'apog.mal0i.FIG','吐弃,吐棄 [tǔ qì] ')).
 assert(celo(malapogi,'apog.mal0i.FIG','却,卻 [què] ')).
 assert(celo(malapogi,'apog.mal0i.FIG','姍,姗 [shān] ')).
+assert(celo(apogeo,'apoge.0o.FIG','升限 [shēng xiàn] ')).
+assert(celo(apokrifo,'apokri.0o.KAT','伪经,偽經 [wěi jīng] ')).
+assert(celo('Apolono','apolon.0o.MIT','阿波罗,阿波羅 [ā bō luó] ')).
+assert(celo(apostolo,'aposto.0o.KRI','使徒 [shǐ tú] ')).
+assert(celo(apraĵo,'apr.0ajxo.KUI','野猪肉,野豬肉 [yě zhū ròu] ')).
+assert(celo(apro,'','野猪,野豬 [yě zhū] ')).
+assert(celo(aprobi,'aprob.0i.parole','核定 [hé dìng] ')).
+assert(celo(aprobi,'aprob.0i.parole','贊成,赞成 [zàn chéng] ')).
+assert(celo(aprobi,'aprob.0i.pense','善 [shǎn] ')).
+assert(celo(aprobi,'aprob.0i.pense','允諾,允诺 [yǔn nuò] ')).
+assert(celo(malaprobi,'aprob.mal0i.KOMUNE','姍,姗 [shān] ')).
+assert(celo(malaprobi,'aprob.mal0i.KOMUNE','吐弃,吐棄 [tǔ qì] ')).
+assert(celo(malaprobi,'aprob.mal0i.KOMUNE','不同意 [bù tóng yì] ')).
+assert(celo(malaprobi,'aprob.mal0i.KOMUNE','不接受 [bù jiē shòu] ')).
+assert(celo(malaprobi,'aprob.mal0i.KOMUNE','判处,判處 [pàn chǔ] ')).
+assert(celo(malaprobi,'aprob.mal0i.KOMUNE','不受理 [bù shòu lǐ] ')).
+assert(celo(apuda,'apud.0a.KOMUNE','交界地 [jiāo jiè de] ')).
+assert(celo(apudo,'apud.0eco.KOMUNE','周围,周圍 [zhōu wéi] ')).
+assert(celo('apude de','apud.0ede.kie','切近 [qiè jìn] ')).
+assert(celo('apude de','apud.0ede.kie','一旁 [yī páng] ')).
+assert(celo(malapud,'apud.mal0.KOMUNE','偏远,偏遠 [piān yuǎn] ')).
+assert(celo(malapud,'apud.mal0.KOMUNE','偏僻的 [piān pì de] ')).
+assert(celo(aro,'ar.0o.KOMUNE','一帮,一幫 [yī bāng] ')).
+assert(celo(aro,'ar.0o.KOMUNE','合众,合眾 [hé zhòng] ')).
+assert(celo(aro,'ar.0o.KOMUNE','好些 [hǎo xiē] ')).
+assert(celo(aro,'ar.0o.MAT','数量,數量 [shù liàng] ')).
+assert(celo('Arabujo','arab.A0ujo.tuto','大食 [dà shí] ')).
+assert(celo(arabo,'','阿拉伯人 [ā lā bó rén] ')).
+assert(celo('Arabujo','arab.A0ujo.tuto','阿拉伯世界 [ā lā bó shì jiè] ')).
+assert(celo('Arabujo','arab.A0ujo.duoninsulo','阿拉伯半岛,阿拉伯半島 [ā lā bó bàn dǎo] ')).
+assert(celo('Arabujo','arab.A0ujo.lando','沙特 [shā tè] ')).
+assert(celo('Arabujo','arab.A0ujo.lando','沙特阿拉伯 [shā tè ā lā bó] ')).
+assert(celo(arabesko,'arabes.0o.ornamo','阿拉伯式花紋,阿拉伯式花纹 [ā lā bó shì huā wén] ')).
+assert(celo(arakido,'arakid.0o.BOT','花生 [huā shēng] ')).
+assert(celo(arakido,'arakid.0o.mangxo','花生糖 [huā shēng táng] ')).
+assert(celo(arakido,'arakid.0o.mangxo','地豆 [dì dòu] ')).
+assert(celo(arakido,'arakid.0o.mangxo','落花生 [luò huā shēng] ')).
+assert(celo(arakido,'arakid.0o.mangxo','土豆 [tǔ dòu] ')).
+assert(celo(arakido,'arakid.0o.mangxo','带壳花生,帶殼花生 [dài ké huā shēng] ')).
+assert(celo(aramea,'arame.0a.rilata','亚拉姆语,亞拉姆語 [yà lā mǔ yǔ] ')).
+assert(celo(araneaĵo,'arane.0ajxo.ZOO','蛛網,蛛网 [zhū wǎng] ')).
+assert(celo(araneo,'arane.0o.genro','圆蛛科,圓蛛科 [yuán zhū kē] ')).
+assert(celo(aranĝaĵo,'arangx.0ajxo.TEK','全套装备,全套裝備 [quán tào zhuāng bèi] ')).
+assert(celo(aranĝaĵo,'arangx.0ajxo.TEK','全部工具 [quán bù gōng jù] ')).
+assert(celo(aranĝi,'arangx.0i.ordigi','不变,不變 [bù biàn] ')).
+assert(celo(aranĝi,'arangx.0i.ordigi','佈置,布置 [bù zhì] ')).
+assert(celo(aranĝi,'arangx.0i.pretigi','全面考慮全面安排,全面考虑全面安排 [quán miàn kǎo lü quán miàn ān pái] ')).
+assert(celo(aranĝi,'arangx.0i.pretigi','协办,協辦 [xié bàn] ')).
+assert(celo(aranĝi,'','安排 [an pai] ')).
+assert(celo(aranĝo,'arangx.0o.KOMUNE','上部构造,上部構造 [shàng bù gòu zào] ')).
+assert(celo(aranĝo,'arangx.0o.evento','主办,主辦 [zhǔ bàn] ')).
+assert(celo(alaranĝi,'arangx.al0i.KOMUNE','匹 [pī] ')).
+assert(celo(alaranĝi,'arangx.al0i.KOMUNE','坒 [bì] ')).
+assert(celo(alaranĝi,'arangx.al0i.KOMUNE','印版定位套准,印版定位套準 [yìn bǎn dìng wèi tào zhǔn] ')).
+assert(celo(alaranĝi,'arangx.al0i.KOMUNE','套入 [tào rù] ')).
+assert(celo(finaranĝi,'arangx.fin0i.KOMUNE','做好装备准备,做好裝備準備 [zuò hǎo zhuāng bèi zhǔn bèi] ')).
+assert(celo(finaranĝi,'arangx.fin0i.KOMUNE','作好 [zuò hǎo] ')).
+assert(celo(kunaranĝo,'arangx.kun0o.KOMUNE','协作,協作 [xié zuò] ')).
+assert(celo(malaranĝi,'arangx.mal0i.KOMUNE','使混乱,使混亂 [shǐ hùn luàn] ')).
+assert(celo(araŭkario,'arauxk.0o.BOT','南洋杉 [nán yáng shān] ')).
+assert(celo(arbaĵo,'arb.0ajxo.dehakitaj','堆积的柴薪,堆積的柴薪 [duī jī de chái xīn] ')).
+assert(celo(arbetaro,'arb.0etaro.HOR','灌木林 [guàn mù líng] ')).
+assert(celo(arbetaro,'arb.0etaro.HOR','丛,叢 [cóng] ')).
+assert(celo(arbetaro,'arb.0etaro.HOR','楚 [chǔ] ')).
+assert(celo(arbeto,'arb.0eto.arbusto','灌木丛,灌木叢 [guàn mù cóng] ')).
+assert(celo(drakarbo,'arb.drak0o.BOT','富貴竹,富贵竹 [fù guì zhú] ')).
+assert(celo('genealogia arbo','arb.genealogia0o.GEN','世系 [shì xì] ')).
+assert(celo('genealogia arbo','arb.genealogia0o.GEN','家譜,家谱 [jiā pǔ] ')).
+assert(celo(panarbo,'arb.pan0o.BOT','面包树,麵包樹 [miàn bāo shù] ')).
+assert(celo(arbo,'','植树,植樹 [zhí shù] ')).
+assert(celo(jakvarbo,'','菠萝蜜,菠蘿蜜 [bō luó mì] ')).
+assert(celo(pinglarbo,'arb.pingl0o.BOT','松柏 [sōng bó] ')).
+assert(celo(santalo,'','欃 [chān] ')).
+assert(celo(terminalio,'','榄仁树,欖仁樹 [lǎn rén shù] ')).
+assert(celo(pluvarbaro,'arb.pluv0aro.GEOG','热带雨林,熱帶雨林 [rè dài yǔ lín] ')).
+assert(celo(pluvarbaro,'arb.pluv0aro.GEOG','原始森林 [yuán shǐ sēn lín] ')).
+assert(celo(senarbarigo,'','垦过的地,墾過的地 [kěn guò dì de] ')).
+assert(celo(senarbarigo,'','开垦,開墾 [kāi kěn] ')).
+assert(celo(senarbarigo,'','毀林開荒,毁林开荒 [huǐ lín kāi huāng] ')).
+assert(celo(arbo,'','木 [mù] ')).
+assert(celo(arbitracii,'arbitr1.0i.JUR','刨光 [páo guāng] ')).
+assert(celo(arbitracio,'arbitr1.0o.JUR','仲裁裁决,仲裁裁決 [zhòng cái cái jué] ')).
+assert(celo(arbitracio,'arbitr1.0o.JUR','公断,公斷 [gōng duàn] ')).
+assert(celo(arbitracianto,'arbitr1.0ulo.JUR','仲裁人 [zhòng cái rén] ')).
+assert(celo(arbitracianto,'arbitr1.0ulo.JUR','介紹人,介绍人 [jiè shào rén] ')).
+assert(celo(arbitracianto,'arbitr1.0ulo.SPO','公断人,公斷人 [gōng duàn rén] ')).
+assert(celo(arbitracianto,'arbitr1.0ulo.SPO','仲裁员,仲裁員 [zhòng cái yuán] ')).
+assert(celo(arbitraĝo,'arbitr2.0o.EKON','仲裁 [zhòng cái] ')).
+assert(celo(arbitraĝo,'arbitr2.0o.EKON','公断,公斷 [gōng duàn] ')).
+assert(celo(arbuto,'arbut.0o.arbedo','杨梅属,楊梅屬 [yáng méi shǔ] ')).
+assert(celo(arbuto,'arbut.0o.arbedo','藤地莓 [téng de méi] ')).
+assert(celo(arbuto,'arbut.0o.arbedo','野草莓树,野草莓樹 [yě cǎo méi shù] ')).
+assert(celo(arĉo,'arcx.0o.MUZ','弓 [gōng] ')).
+assert(celo(arda,'ard.0a.fervora','煊 [xuān] ')).
+assert(celo(arda,'ard.0a.varmega','灼热,灼熱 [zhuó rè] ')).
+assert(celo(arda,'ard.0a.varmega','炎炎 [yán yán] ')).
+assert(celo(arda,'ard.0a.varmega','热切,熱切 [rè qiè] ')).
+assert(celo(arda,'ard.0a.varmega','热辣,熱辣 [rè là] ')).
+assert(celo(ardi,'ard.0i.brili','沒有火焰地燃燒,没有火焰地燃烧 [méi yǒu huǒ yán de rán shāo] ')).
+assert(celo(ardi,'ard.0i.brili','炜,煒 [wěi] ')).
+assert(celo(ardi,'ard.0i.brulegi','沒有火焰地燃燒,没有火焰地燃烧 [méi yǒu huǒ yán de rán shāo] ')).
+assert(celo(ardo,'ard.0o.pasio','灼热,灼熱 [zhuó rè] ')).
+assert(celo(blankarda,'ard.blank0a.KOL','极亮,極亮 [jí liàng] ')).
+assert(celo(karbardaĵo,'ard.karb0ajxo.bragxo','火炭 [huǒ tàn] ')).
+assert(celo(areaĵo,'are.0ajxo.MAT','分佈區,分布区 [fēn bù qū] ')).
+assert(celo(areo,'are.0o.KOMUNE','地盘,地盤 [dì pán] ')).
+assert(celo(samarea,'are.sam0a.MAT','平面相等 [píng miàn xiāng děng] ')).
+assert(celo(samarea,'are.sam0a.MAT','面积相等,面積相等 [miàn ji xiāng děng] ')).
+assert(celo(areknukso,'arek.0nukso.BOT','梹 [bīng] ')).
+assert(celo(areko,'arek.0o.arbo','槟榔,檳榔 [bīng lang] ')).
+assert(celo(areko,'arek.0o.nukso','梹 [bīng] ')).
+assert(celo(arekacoj,'arekac.0oj.BOT','槟榔科,檳榔科 [bīn láng kē] ')).
+assert(celo(liliacoj,'','百合科 [bǎi hé kē] ')).
+assert(celo(violacoj,'','百合科 [bǎi hé kē] ')).
+assert(celo(arekacoj,'arekac.0oj.BOT','棕榈科,棕櫚科 [zōng lü kē] ')).
+assert(celo(kaktacoj,'','仙人掌 [xiān rén zhǎng] ')).
+assert(celo(brasikacoj,'','十字花科 [shí zì huā kē] ')).
+assert(celo(berberisacoj,'','小檗科 [xiǎo bò kē] ')).
+assert(celo(fagacoj,'','山毛榉科,山毛櫸科 [shān máo jǔ kē] ')).
+assert(celo(magnoliacoj,'','木兰科,木蘭科 [mù lán kē] ')).
+assert(celo(onagracoj,'','柳叶菜科,柳葉菜科 [liǔ yè cài kē] ')).
+assert(celo(fagacoj,'','壳斗科,殼斗科 [ké dòu kē] ')).
+assert(celo(areno,'aren.0o.SPO','场所,場所 [chǎng suǒ] ')).
+assert(celo(areno,'aren.0o.SPO','比賽場,比赛场 [bǐ sài chǎng] ')).
+assert(celo(aresto,'','拘役 [jū yì] ')).
+assert(celo(arestito,'','坐禁閉的人,坐禁闭的人 [zuò jìn bì de rén] ')).
+assert(celo('hejma aresto','arest.hejma0o.JUR','軟禁,软禁 [ruǎn jìn] ')).
+assert(celo(argumenti,'argume.0i.LOG','好争论,好爭論 [hǎo zhēng lùn] ')).
+assert(celo(argumenti,'argume.0i.LOG','愛爭辯,爱争辩 [ài zhēng biàn] ')).
+assert(celo(argumenti,'argume.0i.LOG','提出論證,提出论证 [tí chū lùn zhèng] ')).
+assert(celo(argumenti,'argume.0i.LOG','声辩,聲辯 [shēng biàn] ')).
+assert(celo(argumenti,'argume.0i.LOG','咯 [luò] ')).
+assert(celo(argumento,'argume.0o.MAT','幅角 [fú jiǎo] ')).
+assert(celo(arĝenta,'argxen.0a.FIG','像銀,像银 [xiàng yín] ')).
+assert(celo(arĝenta,'argxen.0a.KEM','含銀,含银 [hán yín] ')).
+assert(celo('viva arĝento','argxen.viva0o.hidrargo','水銀,水银 [shuǐ yín] ')).
+assert(celo('viva arĝento','argxen.viva0o.hidrargo','汞 [gǒng] ')).
+assert(celo(arĝenta,'','銀錠,银锭 [yín dìng] ')).
+assert(celo(arĝento,'','銀子,银子 [yín zi] ')).
+assert(celo(arhato,'arhat.0o.HIN','罗汉,羅漢 [luó hàn] ')).
+assert(celo(arĥaismo,'arhxaism.0o.LIN','之乎者也 [zhī hū zhě yě] ')).
+assert(celo(arĥaismo,'arhxaism.0o.stilo','之乎者也 [zhī hū zhě yě] ')).
+assert(celo(arĥaismo,'arhxaism.0o.stilo','古語,古语 [gǔ yǔ] ')).
+assert(celo(arĥaika,'','已废弃,已廢棄 [yǐ fèi qì] ')).
+assert(celo('Arĥimedo','arhxim.0o.greko','阿基米德 [ā jī mǐ dé] ')).
+assert(celo(arĥitekturo,'arhxitektur.0o.FIG','建筑学,建築學 [jiàn zhú xué] ')).
+assert(celo(arĥivo,'arhxiv.0o.arhxivejo','卷宗 [juàn zōng] ')).
