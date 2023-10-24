@@ -683,3 +683,580 @@ assert(celo(algebro,'algebr.0o.fako','代数,代數 [dài shù] ')).
 assert(celo(algebro,'algebr.0o.strukturo','代数结构,代數結構 [dài shù jié gòu] ')).
 assert(celo('bulea algebro','algebr.bulea0o.fako','布尔代数,布爾代數 [bù ěr dài shù] ')).
 assert(celo('lineara algebro','algebr.lineara0o.fako','線性代數,线性代数 [xiàn xìng dài shù] ')).
+assert(celo('Alĝero','algxer.0o.cxefurbo','阿尔及尔,阿爾及爾 [ā ěr jí ěr] ')).
+assert(celo(alia,'ali.0a.diferenca','別人,别人 [bié rén] ')).
+assert(celo(alie,'ali.0e.kontraue','否则,否則 [fǒu zé] ')).
+assert(celo(aliigi,'ali.0igi.KOMUNE','修订 [xiū dìng] ')).
+assert(celo(aliiĝi,'ali.0igxi.KOMUNE','不断的变化,不斷的變化 [bù duàn dì biàn huà] ')).
+assert(celo(aliiĝi,'ali.0igxi.KOMUNE','不断发展,不斷發展 [bù duàn fā zhǎn] ')).
+assert(celo(alianco,'alianc.0o.POL','协约,協約 [xié yuē] ')).
+assert(celo(alianco,'alianc.0o.POL','同盟 [tóng méng] ')).
+assert(celo(aliancano,'alianc.0ano.POL','同盟者 [tóng méng zhě] ')).
+assert(celo(alibio,'alibi.0o.ekskuzo','不在场证明,不在場證明 [bù zài chǎng zhèng míng] ')).
+assert(celo(alibio,'alibi.0o.ekskuzo','无罪证明,無罪證明 [wú zuì zhèng míng] ')).
+assert(celo(alibio,'alibi.0o.ekskuzo','托辞,託辭 [tuō cí] ')).
+assert(celo(aligatoredoj,'aligat1.0oj.ZOO','短吻鱷,短吻鳄 [duǎn wěn è] ')).
+assert(celo(alimento,'','抚养费,撫養費 [fǔ yǎng fèi] ')).
+assert(celo(alineo,'aline.0o.tekstopeco','残余料,殘餘料 [cán yú liào] ')).
+assert(celo(alineo,'aline.0o.tekstopeco','成段 [chéng duàn] ')).
+assert(celo(alkalo,'alkal.0o.KEM','強鹼,强碱 [qiáng jiǎn] ')).
+assert(celo(alkaloido,'alkalo.0o.KEM','生物碱,生物鹼 [shēng wù jiǎn] ')).
+assert(celo(alkoholaĵo,'alkoho.0ajxo.KUI','烈酒 [liè jiǔ] ')).
+assert(celo(alkoholaĵo,'alkoho.0ajxo.KUI','私运入的酒,私運入的酒 [sī yùn rù de jiǔ] ')).
+assert(celo(alkoholaĵo,'alkoho.0ajxo.KUI','私酒 [sī jiǔ] ')).
+assert(celo(alkoholismo,'alkoho.0ismo.MED','使隶属,使隸屬 [shǐ lì shǔ] ')).
+assert(celo(alkoholismo,'alkoho.0ismo.MED','依賴性,依赖性 [yī lài xìng] ')).
+assert(celo(alkoholismo,'alkoho.0ismo.MED','成瘾,成癮 [chéng yǐn] ')).
+assert(celo(alkoholismo,'alkoho.0ismo.MED','放置在下級,放置在下级 [fàng zhì zài xià jí] ')).
+assert(celo(alkoholo,'alkoho.0o.KUI','乙醇 [yǐ chún] ')).
+assert(celo(almanako,'almana.0o.libro','历书,曆書 [lì shū] ')).
+assert(celo(almanako,'almana.0o.libro','年鑑 [nián jiàn] ')).
+assert(celo(almenaŭ,'almena.0.malfavore','不亚于,不亞於 [bù yà yú] ')).
+assert(celo(almozi,'almoz.0i.almozpeti','化緣,化缘 [huà yuán] ')).
+assert(celo(almozi,'almoz.0i.almozpeti','告饒,告饶 [gào ráo] ')).
+assert(celo(almozi,'almoz.0i.almozpeti','乞求 [qǐ qiú] ')).
+assert(celo(almozisto,'almoz.0isto.KOMUNE','叫花子 [jiào huā ze] ')).
+assert(celo(almozisto,'almoz.0isto.KOMUNE','乞丐 [qǐ gài] ')).
+assert(celo(almozisto,'almoz.0isto.KOMUNE','乞食 [qǐ shí] ')).
+assert(celo(almozisto,'almoz.0isto.KOMUNE','叫化子 [jiào huā zi] ')).
+assert(celo(almozo,'almoz.0o.KOMUNE','施舍 [shī shě] ')).
+assert(celo(almozo,'almoz.0o.KOMUNE','周济,賙濟 [zhōu jì] ')).
+assert(celo(almozo,'almoz.0o.KOMUNE','檀那 [tán nà] ')).
+assert(celo(almozo,'almoz.0o.KOMUNE','佈施,布施 [bù shī] ')).
+assert(celo(almozo,'almoz.0o.KOMUNE','残羹剩饭,殘羹剩飯 [cáng ēng shèng fàn] ')).
+assert(celo(almozulejo,'almoz.0ulejo.KOMUNE','救济院,救濟院 [jiù jì yuàn] ')).
+assert(celo(almozulo,'almoz.0ulo.KOMUNE','叫花子 [jiào huā ze] ')).
+assert(celo(almozulo,'almoz.0ulo.KOMUNE','乞丐 [qǐ gài] ')).
+assert(celo(almozulo,'almoz.0ulo.KOMUNE','乞食 [qǐ shí] ')).
+assert(celo(almozulo,'almoz.0ulo.KOMUNE','叫化子 [jiào huā zi] ')).
+assert(celo(aloo,'alo.0o.BOT','芦荟,蘆薈 [lú huì] ')).
+assert(celo(alofono,'alofon.0o.FON','同位异音,同位異音 [tóng wèi yì yīn] ')).
+assert(celo(alofono,'alofon.0o.FON','同位音 [tóng wèi yīn] ')).
+assert(celo(alpismo,'alp.0ismo.SPO','白化症 [bái huà zhèng] ')).
+assert(celo(alpisto,'alp.0isto.SPO','登山家 [dēng shān jiā] ')).
+assert(celo(alpisto,'alp.0isto.SPO','阿尔卑斯登山家,阿爾卑斯登山家 [ā ěr bēi sī dēng shān jiā] ')).
+assert(celo('Alpoj','alp.A0oj.GEOG','阿尔卑士山,阿爾卑士山 [ā ěr bēi shì shān] ')).
+assert(celo('Alpoj','alp.A0oj.GEOG','阿尔卑斯山,阿爾卑斯山 [ā ěr bēi sī shān] ')).
+assert(celo(alpako,'alpak.0o.besto','艸坭馬,艸坭马 [cǎo ní mǎ] ')).
+assert(celo(alpako,'alpak.0o.lano','羊駝,羊驼 [yáng tuó] ')).
+assert(celo(alpinisto,'alpinist.0o.SPO','登山家 [dēng shān jiā] ')).
+assert(celo(alpinisto,'alpinist.0o.SPO','阿尔卑斯登山家,阿爾卑斯登山家 [ā ěr bēi sī dēng shān jiā] ')).
+assert(celo(alta,'alt.0a.FIG','嵯 [cuó] ')).
+assert(celo(alta,'alt.0a.FIG','嶒 [céng] ')).
+assert(celo(alta,'alt.0a.dimensio','嵯 [cuó] ')).
+assert(celo(alta,'alt.0a.dimensio','嶒 [céng] ')).
+assert(celo(altaĵeto,'alt.0ajxeto.GEOG','地层升高,地層升高 [dì céng shēng gāo] ')).
+assert(celo(altaĵeto,'alt.0ajxeto.GEOG','丘 [qiū] ')).
+assert(celo(altaĵeto,'alt.0ajxeto.GEOG','土地升高 [tǔ dì shēng gāo] ')).
+assert(celo(altaĵo,'alt.0ajxo.GEOG','岗,崗 [gǎng] ')).
+assert(celo(alteco,'alt.0eco.eco','水准,水準 [shuǐ zhǔn] ')).
+assert(celo(altigi,'alt.0igi.KOMUNE','吊起 [diào qǐ] ')).
+assert(celo(altigi,'alt.0igi.KOMUNE','升运,升運 [shēng yùn] ')).
+assert(celo(altigi,'alt.0igi.KOMUNE','催谷 [cuī gǔ] ')).
+assert(celo(alto,'alt.0o.dimensio','水准,水準 [shuǐ zhǔn] ')).
+assert(celo(malalta,'alt.mal0a.FIG','下等 [xià děng] ')).
+assert(celo(malalta,'alt.mal0a.FIG','低微 [dī wēi] ')).
+assert(celo(malalta,'alt.mal0a.MUZ','低調,低调 [dī diào] ')).
+assert(celo(malalta,'alt.mal0a.dimensio','使平整 [shǐ píng zhěng] ')).
+assert(celo(malaltigi,'alt.mal0igi.KOMUNE','使丟臉,使丢脸 [shǐ diū liǎn] ')).
+assert(celo(malaltigi,'alt.mal0igi.KOMUNE','使蒙羞 [shǐ méng xiū] ')).
+assert(celo(malaltigi,'alt.mal0igi.KOMUNE','使降級,使降级 [shǐ jiàng jí] ')).
+assert(celo(malaltigi,'alt.mal0igi.KOMUNE','侮慢 [wǔ màn] ')).
+assert(celo('Altairo','altair.0o.AST','河鼓二 [hé gǔ èr] ')).
+assert(celo('Altairo','altair.0o.AST','牵牛,牽牛 [qiān niú] ')).
+assert(celo('Altairo','altair.0o.AST','牵牛星,牽牛星 [qiān niú xīng] ')).
+assert(celo(altaro,'altar.0o.eklezio','圣坛,聖壇 [shèng tán] ')).
+assert(celo(altaro,'altar.0o.eklezio','祭坛,祭壇 [jì tán] ')).
+assert(celo(altaro,'altar.0o.eklezio','神坛,神壇 [shén tán] ')).
+assert(celo(rozalteo,'alte.roz0o.BOT','蜀葵 [shǔ kuí] ')).
+assert(celo(alterni,'altern.0i.sekvi','互生 [hù shēng] ')).
+assert(celo(alternativo,'altern2.0o.dilemo','两难推理,兩難推理 [liǎng nán tuī lǐ] ')).
+assert(celo(alternativo,'altern2.0o.dilemo','窘境 [jiǒng jìng] ')).
+assert(celo(alternativo,'altern2.0o.dilemo','进退两难,進退兩難 [jìn tuì liǎng nán] ')).
+assert(celo(alternativo,'altern2.0o.elekto','二选一,二選一 [èr xuǎn yī] ')).
+assert(celo(altitudo,'altitud.0o.GEOD','海平面 [hǎi píng miàn] ')).
+assert(celo(altitudo,'altitud.0o.GEOD','海拔 [hǎi bá] ')).
+assert(celo(altruisma,'altrui.0a.FIL','不顧自己,不顾自己 [bù gù zì jǐ] ')).
+assert(celo(altruisma,'altrui.0a.FIL','不謀取私利,不谋取私利 [bù móu qǔ sī lì] ')).
+assert(celo(altruisma,'altrui.0a.FIL','利他 [lì tā] ')).
+assert(celo('Alzaco','alzac.0o.regiono','阿尔萨斯,阿爾薩斯 [ā ěr sà sī] ')).
+assert(celo(amaĵo,'am.0ajxo.KOMUNE','勾 [gòu] ')).
+assert(celo(amanto,'am.0anto.amatoro','愛好者,爱好者 [ài hǎo zhě] ')).
+assert(celo(amanto,'am.0anto.sekse','情人 [qíng rén] ')).
+assert(celo(amanto,'am.0anto.sekse','倾慕者,傾慕者 [qīng mù zhě] ')).
+assert(celo(amanto,'am.0anto.sekse','求愛者,求爱者 [qiú ài zhě] ')).
+assert(celo(amanto,'am.0anto.sekse','情郎 [qíng láng] ')).
+assert(celo(amanto,'am.0anto.sekse','嫪 [láo] ')).
+assert(celo(aminda,'am.0inda.KOMUNE','和蔼,和藹 [hé ǎi] ')).
+assert(celo(aminda,'am.0inda.KOMUNE','友好地 [yǒu hǎo de] ')).
+assert(celo(aminda,'am.0inda.KOMUNE','侃 [kǎn] ')).
+assert(celo(aminda,'am.0inda.KOMUNE','惇,敦 [dūn] ')).
+assert(celo(aminda,'am.0inda.KOMUNE','可愛,可爱 [kě ài] ')).
+assert(celo(aminda,'am.0inda.KOMUNE','惹人愛,惹人爱 [rě rén ài] ')).
+assert(celo(amindumi,'am.0indumi.MOR','勾勾搭搭 [gōu gou dā dā] ')).
+assert(celo(enamiĝi,'am.en0igxi.PSI','愛上,爱上 [ài shàng] ')).
+assert(celo(enamiĝi,'am.en0igxi.PSI','恋,戀 [liàn] ')).
+assert(celo(enamiĝi,'am.en0igxi.PSI','戀 [liàn] ')).
+assert(celo(gloramo,'am.glor0o.KOMUNE','野心 [yě xīn] ')).
+assert(celo(gloramo,'am.glor0o.KOMUNE','意志 [yì zhì] ')).
+assert(celo(homamo,'am.hom0o.KOMUNE','仁慈 [rén cí] ')).
+assert(celo(malami,'am.mal0i.iun','仇視,仇视 [chóu shì] ')).
+assert(celo(malami,'am.mal0i','柸 [pēi] ')).
+assert(celo(malami,'am.mal0i','憝 [duì] ')).
+assert(celo(malamo,'am.mal0o.malinklino','冤仇 [yuān chóu] ')).
+assert(celo(malamo,'am.mal0o.malinklino','厌恨,厭恨 [yàn hèn] ')).
+assert(celo(malamo,'am.mal0o.malinklino','堲 [jí] ')).
+assert(celo(malamo,'am.mal0o.malinklino','忌恨 [jì hèn] ')).
+assert(celo(malamo,'am.mal0o.malinklino','怨恨 [yuàn hèn] ')).
+assert(celo(malamo,'am.mal0o.pasio','务必痛恨,務必痛恨 [wù bì tòng hèn] ')).
+assert(celo('Amadeo','','阿馬德烏斯,阿马德乌斯 [ā mǎ dé wū sī] ')).
+assert(celo(amara,'amar.0a.gusto','悲痛地 [bēi tòng de] ')).
+assert(celo(amara,'amar.0a.gusto','不鏽鋼的痛苦,不锈钢的痛苦 [bù xiù gāng de tòng kǔ] ')).
+assert(celo(amasa,'amas.0a.KOMUNE','充沛 [chōng pèi] ')).
+assert(celo(amasigi,'amas.0igi.KOMUNE','屯聚 [tún jù] ')).
+assert(celo(amasigi,'amas.0igi.KOMUNE','屯集 [tún jí] ')).
+assert(celo(amasigi,'amas.0igi.KOMUNE','垜 [duò] ')).
+assert(celo(amasigi,'amas.0igi.KOMUNE','堆制 [duī zhì] ')).
+assert(celo(amasinformilo,'amas.0informilo.INF','大众传播媒介,大眾傳播媒介 [dà zhòng chuán bò méi jiè] ')).
+assert(celo(amasinformilo,'amas.0informilo.INF','大众媒体,大眾媒體 [dà zhòng méi tǐ] ')).
+assert(celo(amasinformilo,'amas.0informilo.INF','传媒,傳媒 [chuán méi] ')).
+assert(celo(amasinformilo,'amas.0informilo.INF','大众媒介,大眾媒介 [dà zhòng méi jiè] ')).
+assert(celo(amasinformilo,'amas.0informilo.INF','传播媒体,傳播媒體 [chuán bò méi tǐ] ')).
+assert(celo(amasinformilo,'amas.0informilo.INF','大众传播,大眾傳播 [dà zhòng chuán bò] ')).
+assert(celo(amaso,'amas.0o.KOMUNE','合众,合眾 [hé zhòng] ')).
+assert(celo(homamaso,'amas.hom0o.KOMUNE','人海 [rén hǎi] ')).
+assert(celo(homamaso,'amas.hom0o.KOMUNE','人潮 [rén cháo] ')).
+assert(celo(homamaso,'amas.hom0o.KOMUNE','傇 [rǒng] ')).
+assert(celo(amatoreca,'amator.0eca.KOMUNE','外行 [wài háng] ')).
+assert(celo(amatoreca,'amator.0eca.KOMUNE','不专业,不專業 [bù zhuān yè] ')).
+assert(celo(amatoreca,'amator.0eca.KOMUNE','不熟練,不熟练 [bù shú liàn] ')).
+assert(celo(amatoreca,'amator.0eca.KOMUNE','不覺察,不觉察 [bù jué chá] ')).
+assert(celo(amatoro,'amator.0o.BELA','愛好者,爱好者 [ài hǎo zhě] ')).
+assert(celo(amatoro,'amator.0o.KOMUNE','半瓶子醋,半缾子醋 [bàn píng zi cù] ')).
+assert(celo(amatoro,'amator.0o.KOMUNE','俗家 [sú jiā] ')).
+assert(celo(amazono,'amazon.0o.MIT','女傑,女杰 [nǚ jié] ')).
+assert(celo(amazono,'amazon.0o.MIT','有侵略性的女人 [yǒu qīn lüè xìng de nǚ rén] ')).
+assert(celo(amazono,'amazon.0o.MIT','进取的女人,進取的女人 [jìn qǔ de nǚ rén] ')).
+assert(celo(amazono,'amazon.0o.MIT','高的女人 [gāo dì nǚ rén] ')).
+assert(celo('Amazono','amazon2.A0o.rivero','亚马孙河,亞馬孫河 [yà mǎ sūn hé] ')).
+assert(celo('Amazono','amazon2.A0o.rivero','亚马逊河,亞馬遜河 [yà mǎ xùn hé] ')).
+assert(celo('Amazono','amazon2.A0o.rivero','亚马孙,亞馬孫 [yà mǎ sūn] ')).
+assert(celo('Amazono','amazon2.A0o.subsxtato','亚马逊盆地,亞馬遜盆地 [yà mǎ xùn pén dì] ')).
+assert(celo(ambasadejo,'ambasa.0ejo.ambasadorejo','大使館,大使馆 [dà shǐ guǎn] ')).
+assert(celo(ambasado,'ambasa.0o.delegitaro','使節,使节 [shǐ jié] ')).
+assert(celo(ambasado,'ambasa.0o.delegitaro','使館工作人員,使馆工作人员 [shǐ guǎn gōng zuò rén yuán] ')).
+assert(celo(ambasado,'ambasa.0o.delegitaro','使者的派遣 [shǐ zhě de pài qiǎn] ')).
+assert(celo(ambicia,'ambici.0a.PSI','好強,好强 [hào qiáng] ')).
+assert(celo(ambicia,'ambici.0a.PSI','有虚荣心,有虛榮心 [yǒu xū róng xīn] ')).
+assert(celo(ambicia,'ambici.0a.PSI','有志气 [yǒu zhì qì] ')).
+assert(celo(ambicii,'ambici.0i.PSI','力争上游,力爭上游 [lì zhēng shàng yóu] ')).
+assert(celo(ambicii,'ambici.0i.PSI','努 [nǔ] ')).
+assert(celo(ambicii,'ambici.0i.PSI','努力争取,努力爭取 [nǔ lì zhēng qǔ] ')).
+assert(celo(ambigua,'ambigu.0a.LIN','含糊 [hán hú] ')).
+assert(celo(ambigua,'ambigu.0a.LIN','多值 [duō zhí] ')).
+assert(celo(amblo,'ambl.0o.RAJ','溜达,溜達 [liù da] ')).
+assert(celo(amboso,'ambos.0o.KOMUN','砧 [zhēn] ')).
+assert(celo(amboso,'ambos.0o.KOMUN','鐵砧,铁砧 [tiě zhēn] ')).
+assert(celo(ambrozio,'ambroz.0o.MIT','果冻,果凍 [guǒ dòng] ')).
+assert(celo(ĵeleo,'','果子冻,果子凍 [guǒ zi dòng] ')).
+assert(celo(ambulanco,'ambula.0o.MIL','野战医院,野戰醫院 [yě zhàn yī yuàn] ')).
+assert(celo(amendi,'','修订 [xiū dìng] ')).
+assert(celo(amendi,'','涂改 [tú gǎi] ')).
+assert(celo('Nordameriko','amerik.Nord0o.GEOG','北美洲 [běi měi zhōu] ')).
+assert(celo('Sudameriko','amerik.Sud0o.GEOG','南美 [nán měi] ')).
+assert(celo('Sudameriko','amerik.Sud0o.GEOG','南美洲 [nán měi zhōu] ')).
+assert(celo('Latinameriko','amerik.latin0o.GEOG','拉美 [lā měi] ')).
+assert(celo('Latinameriko','amerik.latin0o.GEOG','拉丁美洲 [lā dīng měi zhōu] ')).
+assert(celo(ametisto,'ametis.0o.MIN','紫晶 [zǐ jīng] ')).
+assert(celo(ametisto,'ametis.0o.MIN','紫水晶 [zǐ shuǐ jīng] ')).
+assert(celo(amfibia,'amfibi.0a.TEK','两用,兩用 [liǎng yòng] ')).
+assert(celo(amfibia,'amfibi.0a.TEK','水陆两栖,水陸兩棲 [shuǐ liù liǎng qī] ')).
+assert(celo(amfibia,'amfibi.0a.TEK','水陆两用,水陸兩用 [shuǐ liù liǎng yòng] ')).
+assert(celo(amfibio,'amfibi.0o.ZOO','两栖类,兩棲類 [liǎng qī lèi] ')).
+assert(celo(amfibioj,'amfibi.0oj.ZOO','两栖类,兩棲類 [liǎng qī lèi] ')).
+assert(celo(amfibio,'','水陆两用飞机,水陸兩用飛機 [shuǐ liù liǎng yòng fēi jī] ')).
+assert(celo(amfiteatro,'amfite.0o.ARKI','竞技场,競技場 [jìng jì chǎng] ')).
+assert(celo(amfiteatro,'amfite.0o.ARKI','舞台 [wǔ tái] ')).
+assert(celo(amfiteatro,'amfite.0o.ARKI','袁行露天剧场,袁行露天劇場 [yuán xíng lù tiān jù chǎng] ')).
+assert(celo(amfiteatro,'amfite.0o.ARKI','阶梯式座位区,階梯式座位區 [jiē tī shì zuò wèi qū] ')).
+assert(celo(amfiteatro,'amfite.0o.ARKI','斗兽场,鬥獸場 [dòu shòu chǎng] ')).
+assert(celo(amika,'amik.0a.KOMUNE','友好 [yǒu hǎo] ')).
+assert(celo(amikema,'amik.0ema.PSI','平易近人 [píng yì jìn rén] ')).
+assert(celo(amiko,'','好朋友 [hǎo péng yǒu] ')).
+assert(celo('falsa amiko','amik.falsa0o.LIN','伪友,偽友 [wěi yǒu] ')).
+assert(celo(malamiko,'amik.mal0o.de_io','反对者,反對者 [fǎn duì zhě] ')).
+assert(celo(malamiko,'amik.mal0o.kontraubatalanto','仇敌,仇敵 [chóu dí] ')).
+assert(celo(malamiko,'amik.mal0o.kontraubatalanto','冤家 [yuān jiā] ')).
+assert(celo(malamiko,'amik.mal0o.persono','仇敌,仇敵 [chóu dí] ')).
+assert(celo(malamiko,'amik.mal0o.persono','冤家 [yuān jiā] ')).
+assert(celo(ŝajnamiko,'amik.sxajn0o.LIN','伪友,偽友 [wěi yǒu] ')).
+assert(celo(amnezio,'amnezi.0o.MED','健忘症 [jiàn wàng zhèng] ')).
+assert(celo(amnezio,'amnezi.0o.MED','失忆,失憶 [shī yì] ')).
+assert(celo(amnezio,'amnezi.0o.MED','失忆症,失憶症 [shī yì zhèng] ')).
+assert(celo(amoranto,'amor.0anto.homo','倾慕者,傾慕者 [qīng mù zhě] ')).
+assert(celo(amori,'amor.0i.sekskunigxi','交媾 [jiāo gòu] ')).
+assert(celo(amori,'amor.0i.sekskunigxi','上床 [shàng chuáng] ')).
+assert(celo(amoro,'','性愛,性爱 [xìng ài] ')).
+assert(celo(amoristino,'amor.0istino.virino','娼优,娼優 [chāng yōu] ')).
+assert(celo(amoristino,'amor.0istino.virino','妓女 [jì nǚ] ')).
+assert(celo(amoristino,'amor.0istino.virino','三陪 [sān péi] ')).
+assert(celo(amoristino,'amor.0istino.virino','女流氓 [nǚ liú máng] ')).
+assert(celo(amoristino,'amor.0istino.virino','妓 [jì] ')).
+assert(celo(amoristino,'amor.0istino.virino','坐台小姐 [zuò tái xiǎo jiě] ')).
+assert(celo(amoro,'amor.0o.seksa','交合 [jiāo hé] ')).
+assert(celo(amoro,'amor.0o.seksa','两性关系,兩性關係 [liǎng xìng guān xì] ')).
+assert(celo('Amoro','amor.A0o.MIT','厄洛斯 [è luò sī] ')).
+assert(celo(ampleksa,'','大規模,大规模 [dà guī mó] ')).
+assert(celo(ampleksa,'','广大,廣大 [guǎng dà] ')).
+assert(celo(ampleksa,'','广博,廣博 [guǎng bó] ')).
+assert(celo(ampleksa,'','氾 [fàn] ')).
+assert(celo(ampleksa,'','大規模的,大规模的 [dà guī mó de] ')).
+assert(celo(ampleksa,'','广,廣 [guǎng] ')).
+assert(celo(ampleksi,'amplek.0i.KOMUNE','幠 [hū] ')).
+assert(celo(ampleksi,'amplek.0i.KOMUNE','幪 [méng] ')).
+assert(celo(amplekso,'amplek.0o.KOMUNE','大小範圍,大小范围 [dà xiǎo fàn wéi] ')).
+assert(celo(grandampleksa,'amplek.grand0a.KOMUNE','大範圍,大范围 [dà fàn wéi] ')).
+assert(celo(grandampleksa,'amplek.grand0a.KOMUNE','博 [bó] ')).
+assert(celo(grandampleksa,'amplek.grand0a.KOMUNE','大而言之 [dà ér yán zhī] ')).
+assert(celo(korpampleksa,'amplek.korp0a.KOMUNE','便便 [pián pián] ')).
+assert(celo(ampolo,'ampol.0o.boteleto','安瓿 [ān pou] ')).
+assert(celo(ampolo,'ampol.0o.boteleto','安瓿瓶 [ān bù píng] ')).
+assert(celo(ampolo,'ampol.0o.boteleto','任何瓶状容器,任何瓶狀容器 [rèn hé píng zhuàng róng qì] ')).
+assert(celo(ampolo,'ampol.0o.boteleto','小瓶 [xiǎo píng] ')).
+assert(celo(ampolo,'ampol.0o.elektra','电灯泡,電燈泡 [diàn dēng pào] ')).
+assert(celo(ampolo,'ampol.0o.elektra','灯泡,燈泡 [dēng pào] ')).
+assert(celo(ampolo,'ampol.0o.elektra','白炽灯,白熾燈 [bái chì dēng] ')).
+assert(celo(ampolo,'ampol.0o.elektra','白炽灯泡,白熾燈泡 [bái chì dēng pào] ')).
+assert(celo(amputi,'amput.0i.KIR','切除 [qiē chú] ')).
+assert(celo(amuleto,'amulet.0o.MAGI','桃符 [táo fú] ')).
+assert(celo(amuza,'amuz.0a.KOMUNE','好玩 [hǎo wán] ')).
+assert(celo(amuza,'amuz.0a.KOMUNE','愉悅,愉悦 [yú yuè] ')).
+assert(celo(amuza,'amuz.0a.KOMUNE','妖娆,妖嬈 [yāo ráo] ')).
+assert(celo(amuza,'amuz.0a.KOMUNE','滑稽 [huá ji] ')).
+assert(celo(amuza,'amuz.0a.KOMUNE','很好玩 [hěn hǎo wán] ')).
+assert(celo(amuzaĵo,'amuz.0ajxo.KOMUNE','娛樂,娱乐 [yú lè] ')).
+assert(celo(amuziĝi,'amuz.0igxi.KOMUNE','好玩 [hǎo wán] ')).
+assert(celo(amuziĝi,'amuz.0igxi.KOMUNE','嬉游,嬉遊 [xī yóu] ')).
+assert(celo(amuzisto,'amuz.0isto.KOMUNE','傻瓜 [shǎ guā] ')).
+assert(celo(malamuzi,'amuz.mal0i.KOMUNE','使生气,使生氣 [shǐ shēng qì] ')).
+assert(celo(malamuzi,'amuz.mal0i.KOMUNE','使感到不便 [shǐ gǎn dào bù biàn] ')).
+assert(celo(malamuzi,'amuz.mal0i.KOMUNE','使感到困难,使感到困難 [shǐ gǎn dào kùn nan] ')).
+assert(celo(aniĝi,'an.0igxi.POL','入伍 [rù wǔ] ')).
+assert(celo(aniĝi,'an.0igxi.POL','加入 [jiā rù] ')).
+assert(celo(anabaptismo,'anabaptism.0o.KRI','浸信教徒 [jìn xìn jiào tú] ')).
+retract(celo(anabaptismo,'anabaptism.0o.KRI','浸信教徒 [jìn xìn jiào tú] ')).
+assert(celo(anabaptisto,'anabaptist.0o.KRI','浸信教徒 [jìn xìn jiào tú] ')).
+assert(celo(anabolo,'anabol.0o.FIZL','同化作用 [tóng huà zuò yòng] ')).
+assert(celo(anabolo,'anabol.0o.FIZL','代謝,代谢 [dài xiè] ')).
+assert(celo(anaerobia,'anaerobi.0a.KOMUNE','缺氧 [quē yǎng] ')).
+assert(celo(analekto,'analekt.0o.BELE','論語,论语 [lún yǔ] ')).
+assert(celo(analfabeteco,'analfa.0eco.gxenerala','識字率,识字率 [shí zì shuài] ')).
+assert(celo(analgeziko,'analgezik.0o.MED','鎮痛藥,镇痛药 [zhèn tòng yào] ')).
+assert(celo(analiza,'analiz.0a.KOMUNE','析 [xī] ')).
+assert(celo(analizisto,'analiz.0isto.KOMUNE','分析师,分析師 [fēn xī shī] ')).
+assert(celo(analizisto,'analiz.0isto.KOMUNE','分析家 [fēn xī jiā] ')).
+assert(celo(analizisto,'analiz.0isto.KOMUNE','分析者 [fēn xī zhě] ')).
+assert(celo(analoga,'analog.0a.TEK','模拟,模擬 [mó nǐ] ')).
+assert(celo(analoga,'analog.0a.KOMUNE','一样,一樣 [yī yàng] ')).
+assert(celo(analoga,'analog.0a.KOMUNE','依此 [yī cǐ] ')).
+assert(celo(analogia,'analog1.0a.konforma','依此 [yī cǐ] ')).
+assert(celo(analogia,'analog1.0a.konforma','切合 [qiè hé] ')).
+assert(celo(analogio,'analog1.0o.analogeco','一一对应,一一對應 [yī yī duì yìng] ')).
+assert(celo(anamnezo,'anamnez.0o.FIL','問診,问诊 [wèn zhěn] ')).
+assert(celo(anamnezo,'anamnez.0o.FIL','病史 [bìng shǐ] ')).
+assert(celo(anarĥio,'anarhx.0o.POL','个人无政府主义,個人無政府主義 [gè rén wú zhèng fǔ zhǔ yì] ')).
+assert(celo(anarĥio,'anarhx.0o.POL','乱,亂 [luàn] ')).
+assert(celo(fajfanaso,'anas.fajf0o.ZOO','赤頸鴨,赤颈鸭 [chì jǐng yā] ')).
+assert(celo(kuleranaso,'anas.kuler0o.ZOO','琵嘴鴨,琵嘴鸭 [pí zuǐ yā] ')).
+assert(celo(anatemi,'anatem.0i.malbeni','咒 [zhòu] ')).
+assert(celo(anatemi,'anatem.0i.malbeni','咒詛,咒诅 [zhòu zǔ] ')).
+assert(celo(anatomio,'anatom.0o.SCI','解剖学,解剖學 [jiě pǒu xué] ')).
+assert(celo('Andoj','and.0oj.montaro','安地斯山脈,安地斯山脉 [ān de sī shān mài] ')).
+assert(celo('Andoj','and.0oj.montaro','安第斯山脈,安第斯山脉 [ān dì sī shān mài] ')).
+assert(celo(androgina,'androg.0a.BIO','两性,兩性 [liǎng xìng] ')).
+assert(celo(androido,'','机器人,機器人 [jī qì rén] ')).
+assert(celo(androido,'','人造人 [rén zào rén] ')).
+assert(celo(androido,'','仿生人 [fǎng shēng rén] ')).
+assert(celo(anekdoto,'anekdo.0o.BELE','奇聞,奇闻 [qí wén] ')).
+assert(celo(anekdota,'','多軼事趣聞,多轶事趣闻 [duō yì shì qù wén] ')).
+assert(celo(aneksado,'aneks.0ado.POL','吞併,吞并 [tūn bìng] ')).
+assert(celo(aneksaĵo,'aneks.0ajxo.KOMUNE','副頁,副页 [fù yè] ')).
+assert(celo(aneksi,'aneks.0i.KOMUNE','加进,加進 [jiā jìn] ')).
+assert(celo(aneksi,'aneks.0i.KOMUNE','围绕,圍繞 [wéi rào] ')).
+assert(celo(aneksi,'aneks.0i.POL','侵吞 [qīn tūn] ')).
+assert(celo(aneksi,'aneks.0i.POL','兼併,兼并 [jiān bìng] ')).
+assert(celo(aneksi,'aneks.0i.POL','划归,劃歸 [huà guī] ')).
+assert(celo(aneksi,'aneks.0i.POL','吞併,吞并 [tūn bìng] ')).
+assert(celo(anelidoj,'anelid.0oj.ZOO','环节动物门,環節動物門 [huán jié dòng wù mén] ')).
+assert(celo(anemio,'anemi.0o.MED','貧血,贫血 [pín xiě] ')).
+assert(celo(anemio,'anemi.0o.MED','貧血症,贫血症 [pín xuè zhèng] ')).
+assert(celo(maranemonoj,'anemon.mar0oj.ZOO','海葵 [hǎi kuí] ')).
+assert(celo(maranemonoj,'anemon.mar0oj.ZOO','海葵目 [hǎi kuí mù] ')).
+assert(celo(anemono,'','銀蓮花,银莲花 [yín lián huā] ')).
+assert(celo(anestezi,'aneste.0i.MED','使麻木 [shǐ má mù] ')).
+assert(celo(anestezi,'aneste.0i.MED','使麻醉 [shǐ má zuì] ')).
+assert(celo(anestezi,'aneste.0i.MED','使耳聋,使耳聾 [shǐ ěr lóng] ')).
+assert(celo(anestezilo,'aneste.0ilo.MED','犯毒 [fàn dú] ')).
+assert(celo(anestezo,'aneste.0o.MED','乾式噴粉,干式喷粉 [gān shì pēn fěn] ')).
+assert(celo(aneto,'anet.0o.BOT','莳萝,蒔蘿 [shí luó] ')).
+assert(celo(aneto,'anet.0o.BOT','莳萝的果实,蒔蘿的果實 [shí luó de guǒ shí] ')).
+assert(celo(angino,'angin.0o.MED','咽峡炎,咽峽炎 [yān xiá yán] ')).
+assert(celo(angino,'angin.0o.MED','嗓子疼 [sǎng zi téng] ')).
+assert(celo(angla,'angl.0a.rilatanta','会说英语,會說英語 [huì shuō yīng yǔ] ')).
+assert(celo('Angolo','angol.A0o.GEOG','安哥拉 [ān gē lā] ')).
+assert(celo(angulo,'angul.0o.KOMUNE','一隅 [yī yú] ')).
+assert(celo(triangula,'','三角形 [sān jiǎo xíng] ')).
+assert(celo(anĝelo,'angxel.0o.REL','安琪儿,安琪兒 [ān qí ér] ')).
+assert(celo(anĝelo,'angxel.0o.REL','仙女 [xiān nǚ] ')).
+assert(celo(anĝelo,'angxel.0o.REL','天使 [tiān shǐ] ')).
+assert(celo(ĉefanĝelo,'angxel.cxef0o.REL','大天使 [dà tiān shǐ] ')).
+assert(celo(ĉefanĝelo,'angxel.cxef0o.REL','天使長,天使长 [tiān shǐ zhǎng] ')).
+assert(celo(anheli,'','喘 [chuǎn] ')).
+assert(celo(anheli,'','呼哧 [hū chī] ')).
+assert(celo(anheli,'','嗽喘 [sòu chuǎn] ')).
+assert(celo(anheli,'','哮 [xiāo] ')).
+assert(celo(animi,'anim.0i.inspiri','感召 [gǎn zhào] ')).
+assert(celo(animi,'anim.0i.inspiri','启发,啟發 [qǐ fā] ')).
+assert(celo(animi,'anim.0i.inspiri','启迪,啟迪 [qǐ dí] ')).
+assert(celo(animi,'anim.0i.vigligi','促动,促動 [cù dòng] ')).
+assert(celo(animi,'anim.0i.vigligi','促使 [cù shǐ] ')).
+assert(celo(animi,'anim.0i.vigligi','刺激 [cì jī] ')).
+assert(celo(animi,'anim.0i.vigligi','助兴,助興 [zhù xìng] ')).
+assert(celo(animi,'anim.0i.vigligi','勖 [xù] ')).
+assert(celo(animi,'anim.0i.vigligi','勗 [xù] ')).
+assert(celo(animi,'anim.0i.vigligi','唆 [suō] ')).
+assert(celo(animi,'anim.0i.vivigi','使精神振奋,使精神振奮 [shǐ jīng shén zhèn fèn] ')).
+assert(celo(animi,'anim.0i.vivigi','弄活 [lòng huó] ')).
+assert(celo(animismo,'anim.0ismo.REL','泛灵论,泛靈論 [fàn líng lùn] ')).
+assert(celo(animismo,'anim.0ismo.REL','万物有灵论,萬物有靈論 [wàn wù yǒu líng lùn] ')).
+assert(celo(etanima,'anim.et0a.PSI','井底之蛙 [jǐng dǐ zhī wā] ')).
+assert(celo(etanimeco,'','偏執,偏执 [piān zhí] ')).
+assert(celo(etanimeco,'','偏狭,偏狹 [piān xiá] ')).
+assert(celo(etanimeco,'','頑固,顽固 [wán gù] ')).
+assert(celo(etanimeco,'','頑迷,顽迷 [wán mí] ')).
+assert(celo(etanima,'','心胸狭隘,心胸狹隘 [xīn xiōng xiá ài] ')).
+assert(celo(etanima,'','吝啬,吝嗇 [lìn sè] ')).
+assert(celo(etanima,'','固執,固执 [gù zhí] ')).
+assert(celo(etanima,'','死板 [sǐ bǎn] ')).
+assert(celo(etanima,'','无教养,無教養 [wú jiào yǎng] ')).
+assert(celo(etanima,'','窄額,窄额 [zhǎi é] ')).
+assert(celo(facilanima,'anim.facil0a.PSI','不經心,不经心 [bù jīng xīn] ')).
+assert(celo(facilanimeco,'anim.facil0eco.PSI','愚笨 [yú bèn] ')).
+assert(celo(facilanimeco,'anim.facil0eco.PSI','漫不經心,漫不经心 [màn bù jīng xīn] ')).
+assert(celo(facilanima,'','冒失 [mào shi] ')).
+assert(celo(facilanima,'','恌 [tiāo] ')).
+assert(celo(facilanima,'','慵 [yōng] ')).
+assert(celo(facilanima,'','挑 [tāo] ')).
+assert(celo(grandanima,'anim.grand0a.PSI','傲然地 [ào rán de] ')).
+assert(celo(grandanima,'anim.grand0a.PSI','厚道 [hòu dao] ')).
+assert(celo(grandanimeco,'anim.grand0eco.PSI','宽大,寬大 [kuān dà] ')).
+assert(celo(grandanimeco,'anim.grand0eco.PSI','盛意 [shèng yì] ')).
+assert(celo(rektanima,'anim.rekt0a.PSI','耿直 [gěng zhí] ')).
+assert(celo(simplanima,'','可欺 [kě qī] ')).
+assert(celo(animacio,'animaci.0o.KIN','动画,動畫 [dòng huà] ')).
+assert(celo(animacio,'animaci.0o.KIN','动漫,動漫 [dòng màn] ')).
+assert(celo(animalo,'animal.0o.BIO','动物,動物 [dòng wù] ')).
+assert(celo(anizo,'aniz.0o.KUI','大茴香 [dà huí xiāng] ')).
+assert(celo(anizo,'aniz.0o.KUI','茴芹 [huí qín] ')).
+assert(celo(anizujo,'aniz.0ujo.BOT','茴芹 [huí qín] ')).
+assert(celo(stelanizo,'aniz.stel0o.KUI','大茴香 [dà huí xiāng] ')).
+assert(celo(anjono,'anjon.0o.KEM','阴离子,陰離子 [yīn lí zǐ] ')).
+assert(celo('Ankaro','ankar.0o.urbo','安卡拉 [ān kǎ lā] ')).
+assert(celo(ankaŭ,'ankaux.0.KOMUNE','也是 [yě shì] ')).
+assert(celo('ne sole... sed ankaŭ...','ankaux.ne_sole_sed_0.KOMUNE','不但而且 [bù dàn ér qiě] ')).
+assert(celo('ne sole... sed ankaŭ...','ankaux.ne_sole_sed_0.KOMUNE','不仅仅,不僅僅 [bù jǐn jǐn] ')).
+assert(celo('ne sole... sed ankaŭ...','ankaux.ne_sole_sed_0.KOMUNE','不仅而且,不僅而且 [bù jǐn ér qiě] ')).
+assert(celo(ankri,'ankr.0i.ekankri','傢伙,家伙 [jiā huo] ')).
+assert(celo(ankrejo,'','放錨處,放锚处 [fàng máo chù] ')).
+assert(celo('Anno','ann.0o.SNC','安哪 [ān nǎ] ')).
+assert(celo('Anno','ann.0o.SNC','安娜 [ān nà] ')).
+assert(celo(anomalia,'anomal.0a.SCI','媮 [tōu] ')).
+assert(celo(anomalia,'anomal.0a.SCI','岐 [qí] ')).
+assert(celo(anomalio,'anomal.0o.SCI','差异性,差異性 [chā yì xìng] ')).
+assert(celo(anomalio,'anomal.0o.SCI','乖离,乖離 [guāi lí] ')).
+assert(celo(anomalio,'anomal.0o.SCI','因絕食而衰弱,因绝食而衰弱 [yīn jué shí ér shuāi ruò] ')).
+assert(celo(anonarbo,'anon.0arbo.BOT','刺果番荔枝 [cì guǒ fān lì zhī] ')).
+assert(celo(anonci,'anonc.0i.antausciigi','前奏 [qián zòu] ')).
+assert(celo(anonci,'anonc.0i.vizitanton','宣 [xuān] ')).
+assert(celo(anonci,'anonc.0i.publike','宣告 [xuān gào] ')).
+assert(celo(anonci,'anonc.0i.publike','公布 [gōng bù] ')).
+assert(celo(anonci,'anonc.0i.publike','宣布 [xuān bù] ')).
+assert(celo(anonci,'anonc.0i.publike','宣讀,宣读 [xuān dú] ')).
+assert(celo(anonco,'anonc.0o.KOMUNE','公佈,公布 [gōng bù] ')).
+assert(celo(anonco,'anonc.0o.KOMUNE','公函 [gōng hán] ')).
+assert(celo(anonco,'anonc.0o.KOMUNE','传讲,傳講 [chuán jiǎng] ')).
+assert(celo(anonco,'anonc.0o.KOMUNE','公告 [gōng gào] ')).
+assert(celo(anso,'ans.0o.tenilo','句柄 [jù bǐng] ')).
+assert(celo(anso,'ans.0o.tenilo','執手,执手 [zhí shǒu] ')).
+assert(celo(ansero,'anser.0o.hejmbesto','呆头鹅,獃頭鵝 [dāi tóu é] ')).
+assert(celo(anstataŭ,'anstat.0.konj','反而 [fǎn ér] ')).
+assert(celo(anstataŭigebla,'','可交代 [kě jiāo dài] ')).
+assert(celo(anstataŭigebla,'','可更换,可更換 [kě gēng huàn] ')).
+assert(celo(anstataŭigebla,'','可偿还,可償還 [kě cháng huán] ')).
+assert(celo(anstataŭigebla,'','可补偿,可補償 [kě bǔ cháng] ')).
+assert(celo(anstataŭigi,'anstat.0igi.KOMUNE','代替,代購 [dài gòu] ')).
+assert(celo(anstataŭigi,'anstat.0igi.KOMUNE','替身 [tì shēn] ')).
+assert(celo(angstromo,'anstrom.0o.FIZ','埃格斯特朗 [āi gé sī tè lǎng] ')).
+assert(celo(angstromo,'anstrom.0o.FIZ','埃 [āi] ')).
+assert(celo(antagonismo,'antago.0o.KOMUNE','乖张,乖張 [guāi zhāng] ')).
+assert(celo(antagonismo,'antago.0o.KOMUNE','不一致性 [bù yī zhì xìng] ')).
+assert(celo('Antarkto','antark.A0o.regiono','南极洲,南極洲 [nán jí zhōu] ')).
+assert(celo(antarkta,'antark.a0a.GEOG','南极地带,南極地帶 [nán jí dì dài] ')).
+assert(celo(antaŭ,'antaux.0.tempe','前 [qián] ')).
+assert(celo(antaŭa,'antaux.0a.pliFrua','上个,上個 [shàng gè] ')).
+assert(celo(antaŭa,'antaux.0a.pliProksima','充分条件,充分條件 [chōng fèn tiáo jiàn] ')).
+assert(celo(antaŭaĵo,'antaux.0ajxo.loke','前十字韌帶,前十字韧带 [qián shí zì rèn dài] ')).
+assert(celo(antaŭaĵo,'antaux.0ajxo.loke','前敌,前敵 [qián dí] ')).
+assert(celo(antaŭaĵo,'antaux.0ajxo.loke','前端处理器,前端處理器 [qián duān chǔ lǐ qì] ')).
+assert(celo(antaŭanto,'antaux.0anto.KOMUNE','前一任 [qián yī rèn] ')).
+assert(celo(antaŭanto,'antaux.0anto.KOMUNE','前身 [qián shēn] ')).
+assert(celo(antaŭanto,'antaux.0anto.KOMUNE','前任 [qián rèn] ')).
+assert(celo(antaŭanto,'antaux.0anto.KOMUNE','前輩,前辈 [qián bèi] ')).
+assert(celo(antaŭe,'antaux.0e.loke','前面 [qián mian] ')).
+assert(celo(antaŭe,'antaux.0e.loke','前 [qián] ')).
+assert(celo(antaŭe,'antaux.0e.loke','前边,前邊 [qián bian] ')).
+assert(celo(antaŭe,'antaux.0e.loke','前头,前頭 [qián tou] ')).
+assert(celo(antaŭe,'antaux.0e.tempe','事前 [shì qián] ')).
+assert(celo(antaŭe,'antaux.0e.tempe','之前 [zhī qián] ')).
+assert(celo(antaŭe,'antaux.0e.tempe','久远,久遠 [jiǔ yuǎn] ')).
+assert(celo(antaŭe,'antaux.0e.tempe','以前发生,以前發生 [yǐ qián fā shēng] ')).
+assert(celo(antaŭe,'antaux.0e.tempe','保不定 [bǎo bù dìng] ')).
+assert(celo(antaŭe,'antaux.0e.tempe','保不齊,保不齐 [bǎo bù qí] ')).
+assert(celo(antaŭen,'antaux.0en.celante','事先 [shì xiān] ')).
+assert(celo(antaŭen,'antaux.0en.celante','向前 [xiàng qián] ')).
+assert(celo(pioniro,'','刀鋒邊緣,刀锋边缘 [dāo fēng biān yuán] ')).
+assert(celo(antaŭenigi,'antaux.0enigi.FIG','促进发展,促進發展 [cù jìn fā zhǎn] ')).
+assert(celo(antaŭenigi,'antaux.0enigi.FIG','促 [cù] ')).
+assert(celo(antaŭenigi,'antaux.0enigi.FIG','升迁,升遷 [shēng qiān] ')).
+assert(celo(antaŭulo,'antaux.0ulo.GEN','前一任 [qián yī rèn] ')).
+assert(celo(antaŭulo,'antaux.0ulo.GEN','前身 [qián shēn] ')).
+assert(celo(antaŭulo,'antaux.0ulo.GEN','列祖列宗 [liè zǔ liè zōng] ')).
+assert(celo(antaŭulo,'antaux.0ulo.GEN','先 [xiān] ')).
+assert(celo(antaŭulo,'antaux.0ulo.GEN','前任 [qián rèn] ')).
+assert(celo(antaŭulo,'antaux.0ulo.GEN','前輩,前辈 [qián bèi] ')).
+assert(celo(malantaŭo,'','尾 [wěi] ')).
+assert(celo(malantaŭo,'','尾巴 [wěi ba] ')).
+assert(celo(antibiotiko,'antibi.0o.MED','抗菌素 [kàng jùn sù] ')).
+assert(celo(antibiotiko,'antibi.0o.MED','抗生素 [kàng shēng sù] ')).
+assert(celo(anticipa,'antici.0a.KOMUNE','不适时,不適時 [bù shì shí] ')).
+assert(celo(anticiklono,'anticiklon.0o.MET','反气旋,反氣旋 [fǎn qì xuán] ')).
+assert(celo(antidoto,'antido.0o.MED','反作用剂,反作用劑 [fǎn zuò yòng jì] ')).
+assert(celo('Antigvo','antigv.0o.insulo','安地卡岛,安地卡島 [ān dì kǎ dǎo] ')).
+assert(celo(antikorpo,'antikorp.0o.FIZL','抗体,抗體 [kàng tǐ] ')).
+assert(celo(antikva,'antikv.0a.malnova','古色古香 [gǔ sè gǔ xiāng] ')).
+assert(celo(antikvaĵisto,'antikv.0ajxisto.KOMUNE','古文物商 [gǔ wén wù shāng] ')).
+assert(celo(antikvaĵisto,'antikv.0ajxisto.KOMUNE','古董商 [gǔ dǒng shāng] ')).
+assert(celo(antikveco,'antikv.0eco.epoko','古代 [gǔ dài] ')).
+assert(celo(antikveco,'antikv.0eco.epoko','古代珍品 [gǔ dài zhēn pǐn] ')).
+assert(celo(antikveco,'antikv.0eco.epoko','古典时期,古典時期 [gǔ diǎn shí qī] ')).
+assert(celo(antikvaĵo,'antikv.0ajxo.KOMUNE','古玩 [gǔ wàn] ')).
+assert(celo(antikvaĵo,'antikv.0ajxo.KOMUNE','古物 [gǔ wù] ')).
+assert(celo(antikvo,'antikv.0o.epoko','古代史 [gǔ dài shǐ] ')).
+assert(celo(antikvo,'antikv.0o.epoko','古代珍品 [gǔ dài zhēn pǐn] ')).
+assert(celo('Antiloj','antil.0oj.insularo','安的列斯群岛,安的列斯群島 [ān dì liè sī qún dǎo] ')).
+assert(celo(antipatia,'antipa.0a.kauxzanta','寡恩 [guǎ ēn] ')).
+assert(celo(antipatio,'antipa.0o.malsimpatio','厌恶,厭惡 [yàn wù] ')).
+assert(celo(antipatio,'antipa.0o.malsimpatio','反感 [fǎn gǎn] ')).
+assert(celo(antipatia,'','令人反感 [lìng rén fǎn gǎn] ')).
+assert(celo(antipatii,'','嫌弃,嫌棄 [xián qì] ')).
+assert(celo(antisepsi,'antise1.0i.MED','杀菌,殺菌 [shā jùn] ')).
+assert(celo('Antonenoj','antonen.0oj.HIS','五賢君,五贤君 [wǔ xián jūn] ')).
+assert(celo(antrakso,'antrak.0o.infekta_malsano','炭疽热,炭疽熱 [tàn jū rè] ')).
+assert(celo(antrakso,'antrak.0o.infekta_malsano','炭疽病 [tàn jū bìng] ')).
+assert(celo(antrakso,'antrak.0o.infekta_malsano','炭疽 [tàn jū] ')).
+assert(celo(antropoida,'antrop.0a.KOMUNE','具有人类特点,具有人類特點 [jù yǒu rén lèi tè diǎn] ')).
+assert(celo(antropologo,'antrop1.0o.antropologiisto','人类学家,人類學家 [rén lèi xué jiā] ')).
+assert(celo(antropomorfismo,'antrop4.0o.KOMUNE','拟人论,擬人論 [nǐ rén lùn] ')).
+assert(celo(antropomorfismo,'antrop4.0o.KOMUNE','拟人化美少女,擬人化美少女 [nǐ rén huà měi shào nǚ] ')).
+assert(celo(antropomorfismo,'antrop4.0o.KOMUNE','拟人化,擬人化 [nǐ rén huà] ')).
+assert(celo('Antverpeno','antverp.A0o.prov','安特卫普,安特衛普 [ān tè wèi pǔ] ')).
+assert(celo(anuroj,'anur.0oj.ZOO','无尾目,無尾目 [wú wěi mù] ')).
+assert(celo(aparataro,'aparat.0aro.aro','備,备 [bèi] ')).
+assert(celo(aparato,'aparat.0o.TEK','仪器,儀器 [yí qì] ')).
+assert(celo(aparataro,'','仪器和系统,儀器和系統 [yí qì hé xì tǒng] ')).
+assert(celo(aparato,'aparat.0o.TEK','仪,儀 [yí] ')).
+assert(celo(aparato,'','具 [jù] ')).
+assert(celo(flugaparato,'aparat.flug0o.AVI','鶖 [qiū] ')).
+assert(celo(aparta,'apart.0a.malkuna','个别,個別 [gè bié] ')).
+assert(celo(aparta,'apart.0a.speciala','不普通 [bù pǔ tōng] ')).
+assert(celo(aparta,'apart.0a.speciala','份外,分外 [fèn wài] ')).
+assert(celo(aparta,'apart.0a.speciala','不俗 [bù sú] ')).
+assert(celo(aparta,'apart.0a.speciala','例外地 [lì wài de] ')).
+assert(celo(aparta,'apart.0a.speciala','傑,杰 [jié] ')).
+assert(celo(apartaĵo,'apart.0ajxo.proprajxo','分离性,分離性 [fēn lí xìng] ')).
+assert(celo(apartaĵo,'apart.0ajxo.proprajxo','可分性 [kě fèn xìng] ')).
+assert(celo(apartaĵo,'apart.0ajxo.proprajxo','分则,分則 [fēn zé] ')).
+assert(celo(apartigi,'apart.0igi.KOMUNE','仳 [pǐ] ')).
+assert(celo(apartigi,'apart.0igi.KOMUNE','分泌 [fēn mì] ')).
+assert(celo(apartigi,'apart.0igi.KOMUNE','囡 [nān] ')).
+assert(celo(apartamento,'aparta.0o.hotela','套房 [tào fáng] ')).
+assert(celo(apartamento,'aparta.0o.hotela','公寓式住房 [gōng yù shì zhù fáng] ')).
+assert(celo(apartamento,'aparta.0o.kastela','公寓式住房 [gōng yù shì zhù fáng] ')).
+assert(celo(apartamento,'aparta.0o.kastela','公寓 [gōng yù] ')).
+assert(celo(apartamento,'aparta.0o.kastela','公寓房間,公寓房间 [gōng yù fáng jiān] ')).
+assert(celo(aparteni,'aparte.0i.aro','一事 [yī shì] ')).
+assert(celo(aparteni,'aparte.0i.partoDe','一事 [yī shì] ')).
+assert(celo(aparteni,'aparte.0i.proprajxo','属于,屬於 [shǔ yú] ')).
+assert(celo(apeli,'apel.0i.posteni','糾集,纠集 [jiū jí] ')).
+assert(celo(apelacii,'apelac.0i.FIG','呼吁,呼籲 [hū yù] ')).
+assert(celo(apelacii,'apelac.0i.FIG','俛 [miǎn] ')).
+assert(celo(apelacii,'apelac.0i.JUR','不服 [bù fú] ')).
+assert(celo(apenaŭ,'apenau.0.jxuse','刚,剛 [gāng] ')).
+assert(celo(apenaŭ,'apenau.0.jxuse','刚刚才,剛剛才 [gāng gāng cái] ')).
+assert(celo(apenaŭ,'apenau.0.nePli','不应超出,不應超出 [bù yīng chāo chū] ')).
+assert(celo(apenaŭa,'apenau.0a.KOMUNE','不重要 [bù zhòng yào] ')).
+assert(celo(apenaŭa,'apenau.0a.KOMUNE','些微 [xiē wéi] ')).
+assert(celo(apendico,'apendi.0o.ANA','闌尾,阑尾 [lán wěi] ')).
+assert(celo(apendico,'apendi.0o.ANA','盲肠,盲腸 [máng cháng] ')).
+assert(celo(apendico,'apendi.0o.kromajxo','剩下的一人 [shèng xia de yī rén] ')).
+assert(celo(apendico,'apendi.0o.kromajxo','副頁,副页 [fù yè] ')).
+assert(celo(aperaĵo,'aper.0ajxo.lauxverba','吉斯 [jí sī] ')).
+assert(celo(aperaĵo,'aper.0ajxo.lauxverba','外貌 [wài mào] ')).
+assert(celo(aperi,'aper.0i.publigata','出版 [chū bǎn] ')).
+assert(celo(aperi,'aper.0i.publigata','徕,徠 [lái] ')).
+assert(celo(aperi,'aper.0i.sinVidigi','出面 [chū miàn] ')).
+assert(celo(aperi,'aper.0i.sinVidigi','仿佛,彷彿 [fǎng fú] ')).
+assert(celo(aperi,'aper.0i.sin_prezenti','出面 [chū miàn] ')).
+assert(celo(apero,'aper.0o.okazo','吉斯 [jí sī] ')).
+assert(celo(malaperi,'aper.mal0i.nevidebligxi','泥牛入海 [ní niú rù hǎi] ')).
+assert(celo(malaperi,'aper.mal0i.nevidebligxi','消 [xiāo] ')).
+assert(celo(malaperi,'aper.mal0i.nevidebligxi','不翼而飛,不翼而飞 [bù yì ér fēi] ')).
+assert(celo(malaperi,'aper.mal0i.neniigxi','化为乌有,化為烏有 [huà wéi wū yǒu] ')).
+assert(celo(malaperi,'aper.mal0i.nevidebligxi','失縱,失纵 [shī zōng] ')).
+assert(celo(malaperi,'aper.mal0i.nevidebligxi','杳如黃鶴,杳如黄鹤 [yǎo rú huáng hè] ')).
+assert(celo(malaperi,'aper.mal0i.neniigxi','毫无踪影,毫無蹤影 [háo wú zōng yǐng] ')).
+assert(celo(malaperi,'aper.mal0i.nevidebligxi','沒,没 [mò] ')).
+assert(celo(malaperi,'aper.mal0i.neniigxi','泯滅,泯灭 [mǐn miè] ')).
+assert(celo(malaperi,'aper.mal0i.neniigxi','消失 [xiāo shī] ')).
+assert(celo(malaperi,'aper.mal0i.neniigxi','消退 [xiāo tuì] ')).
+assert(celo(malaperigi,'aper.mal0igi.forigi','慾刪除,欲删除 [yù shān chú] ')).
+assert(celo(malaperigi,'aper.mal0igi.forigi','慾移動,欲移动 [yù yí dòng] ')).
+assert(celo(apetitveka,'apetit.0veka.propre','香喷喷,香噴噴 [xiāng pēn pēn] ')).
+assert(celo(apetitveka,'apetit.0veka.propre','增进食欲,增進食慾 [zēng jìn shí yù] ')).
+assert(celo(apetitveka,'apetit.0veka.propre','开胃,開胃 [kāi wèi] ')).
+assert(celo(aperitivo,'','开胃物,開胃物 [kāi wèi wù] ')).
+assert(celo(aperitivo,'','开胃食品,開胃食品 [kāi wèi shí pǐn] ')).
+assert(celo(apliki,'aplik.0i.rimedon','努 [nǔ] ')).
+assert(celo(apogi,'apog.0i.FIG','受到支持 [shòu dào zhī chí] ')).
+assert(celo(apogi,'apog.0i.FIG','慰勉 [wèi miǎn] ')).
+assert(celo(apogi,'apog.0i.FIG','持支 [chí zhī] ')).
+assert(celo(apogi,'apog.0i.FIG','捧哏 [pěng gén] ')).
+assert(celo(apogi,'apog.0i.KOMUNE','增援 [zēng yuán] ')).
+assert(celo(apogi,'apog.0i.KOMUNE','受到支持 [shòu dào zhī chí] ')).
+assert(celo(apogi,'','提携,提攜 [tí xié] ')).
+assert(celo(apogi,'','助 [zhù] ')).
+assert(celo(apogiĝi,'apog.0igxi.KOMUNE','仰賴,仰赖 [yǎng lài] ')).
+assert(celo(apogiĝi,'apog.0igxi.KOMUNE','倚 [yǐ] ')).
+assert(celo(apogiĝi,'apog.0igxi.KOMUNE','仰 [yǎng] ')).
+assert(celo(apogilo,'apog.0ilo.KOMUNE','叉木 [chā mù] ')).
+assert(celo(apogilo,'apog.0ilo.KOMUNE','叉状架,叉狀架 [chā zhuàng jià] ')).
+assert(celo(apogilo,'','支撐柱,支撑柱 [zhī cheng zhù] ')).
+assert(celo(apogilo,'','支柱 [zhī zhù] ')).
+assert(celo(apogilo,'','手靠 [shǒu kào] ')).
+assert(celo(apogilo,'','斜坡 [xié pō] ')).
+assert(celo(apogilo,'','斜靠 [xié kào] ')).
+assert(celo(apogo,'apog.0o.ago','光顧,光顾 [guāng gù] ')).
+assert(celo(brakapogilo,'apog.brak0ilo.MEBL','胳臂 [gē bì] ')).
+assert(celo(malapogi,'apog.mal0i.FIG','吐弃,吐棄 [tǔ qì] ')).
+assert(celo(malapogi,'apog.mal0i.FIG','却,卻 [què] ')).
+assert(celo(malapogi,'apog.mal0i.FIG','姍,姗 [shān] ')).
