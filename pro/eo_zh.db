@@ -621,3 +621,65 @@ assert(celo(akvarelo,'akvare.0o.BELA','水彩画,水彩畫 [shuǐ cǎi huà] '))
 assert(celo(akvarelo,'akvare.0o.KOL','水彩 [shuǐ cǎi] ')).
 assert(celo(akvarelo,'akvare.0o.KOL','水墨 [shuǐ mò] ')).
 assert(celo(akvarelo,'akvare.0o.KOL','水彩顏料,水彩颜料 [shuǐ cǎi yán liào] ')).
+assert(celo(aligi,'al.0igi.KOMUNE','划归,劃歸 [huà guī] ')).
+assert(celo(aligi,'al.0igi.KOMUNE','一体化,一體化 [yī tǐ huà] ')).
+assert(celo(aliĝi,'al.0igxi.KOMUNE','上學,参加 [cān jiā] ')).
+assert(celo(aliĝi,'al.0igxi.KOMUNE','入会,入會 [rù huì] ')).
+assert(celo('Alabamo','','亚拉巴马,亞拉巴馬 [yà lā bā mǎ] ')).
+assert(celo('Alabamo','','亚拉巴马州,亞拉巴馬州 [yà lā bā mǎ zhōu] ')).
+assert(celo('Alabamo','','亚拉巴吗,亞拉巴嗎 [yà lā bā ma] ')).
+assert(celo('Alabamo','','阿拉巴馬州,阿拉巴马州 [ā lā bā mǎ zhōu] ')).
+assert(celo(alarmi,'alarm.0i.KOMUNE','大声疾呼,大聲疾呼 [dà shēng jí hū] ')).
+assert(celo(alarmi,'alarm.0i.KOMUNE','報警,报警 [bào jǐng] ')).
+assert(celo(alarmi,'alarm.0i.KOMUNE','惋 [wǎn] ')).
+assert(celo(alarmilo,'alarm.0ilo.KOMUNE','報警系統,报警系统 [bào jǐng xì tǒng] ')).
+assert(celo(alarmo,'alarm.0o.KOMUNE','報警信號,报警信号 [bào jǐng xìn hào] ')).
+assert(celo(alarmo,'alarm.0o.KOMUNE','危险信号,危險信號 [wéi xiǎn xìn hào] ')).
+assert(celo(alarmo,'alarm.0o.KOMUNE','警報信號,警报信号 [jǐng bào xìn hào] ')).
+assert(celo(alaŭdo,'alauxd.0o.genro','羽毛褐色 [yǔ máo hè sè] ')).
+assert(celo(alaŭdo,'alauxd.0o.genro','告天子 [gào tiān zǐ] ')).
+assert(celo(alaŭdo,'alauxd.0o.genro','告天鳥,告天鸟 [gào tiān niǎo] ')).
+assert(celo(alaŭdo,'alauxd.0o.genro','大鷚,大鹨 [dà liù] ')).
+assert(celo(alaŭdo,'alauxd.0o.genro','阿蘭 [ā lǎn] ')).
+assert(celo(alaŭdo,'alauxd.0o.genro','云雀,雲雀 [yún què] ')).
+assert(celo(albergo,'alberg.0o.TUR','安排膳宿 [ān pái shàn sù] ')).
+assert(celo(albergo,'alberg.0o.TUR','庐,廬 [lú] ')).
+assert(celo('Alberto','albert1.A0o.GEOG','艾伯塔 [ài bó tǎ] ')).
+assert(celo(albino,'albin.0o.GNT','白公 [bái gōng] ')).
+assert(celo(albino,'albin.0o.GNT','白化病者 [bái huà bìng zhě] ')).
+assert(celo(albino,'albin.0o.GNT','白化变种,白化變種 [bái huà biàn zhǒng] ')).
+assert(celo(albizio,'albizi.0o.BOT','合欢,合歡 [hé huān] ')).
+assert(celo(albumo,'album.0o.TIP','像片簿 [xiàng piàn bù] ')).
+assert(celo(albumo,'album.0o.TIP','剪貼簿,剪贴簿 [jiǎn tiē bù] ')).
+assert(celo(albumeno,'albume.0o.albumino','蛋白 [dàn bái] ')).
+assert(celo(alceo,'alce.0o.BOT','蜀葵 [shǔ kuí] ')).
+assert(celo(alciono,'alcion.0o.birdo','普通翠鳥,普通翠鸟 [pǔ tōng cuì niǎo] ')).
+assert(celo(aleo,'ale.0o.HOR','林荫道,林蔭道 [lín yìn dào] ')).
+assert(celo(aleatora,'aleator.0a.KOMUNE','偶然地 [ǒu rán de] ')).
+assert(celo(aleatora,'aleator.0a.KOMUNE','偶然 [ǒu rán] ')).
+assert(celo(aleatora,'aleator.0a.KOMUNE','意外 [yì wài] ')).
+assert(celo(aleatora,'aleator.0a.KOMUNE','意外的 [yì wài de] ')).
+assert(celo(aleatora,'aleator.0a.KOMUNE','碰巧 [pèng qiǎo] ')).
+assert(celo(aleatora,'aleator.0a.arto','偶然 [ǒu rán] ')).
+assert(celo(alegorio,'alegor.0o.esprimo','喻 [yù] ')).
+assert(celo(alelo,'','基因等位 [jī yīn děng wèi] ')).
+assert(celo(alero,'aler.0o.ARKI','天幕 [tiān mù] ')).
+assert(celo(alergio,'alergi.0o.FIZL','敏感症 [mǐn gǎn zhèng] ')).
+assert(celo(alergio,'alergi.0o.FIZL','敏症 [mǐn zhèng] ')).
+assert(celo('Alfonso','alfons.0o.NOM','阿方索十三世 [ā fāng suǒ shí sān shì] ')).
+assert(celo('Alfredo','alfred.0o.NOM','阿尔弗雷德,阿爾弗雷德 [ā ěr fú léi dé] ')).
+assert(celo(blualgo,'','蓝藻,藍藻 [lán zǎo] ')).
+assert(celo(brunalgoj,'alg.brun0oj.BOT','棕藻 [zōng zǎo] ')).
+assert(celo(brunalgoj,'alg.brun0oj.BOT','石花菜 [shí huā cài] ')).
+assert(celo(ruĝalgoj,'alg.rugx0oj.BOT','紅藻,红藻 [hóng zǎo] ')).
+assert(celo(ruĝalgoj,'alg.rugx0oj.BOT','紫菜 [zǐ cài] ')).
+assert(celo(ruĝalgoj,'alg.rugx0oj.BOT','原紅藻綱,原红藻纲 [yuán hóng zǎo gāng] ')).
+assert(celo(ruĝalgoj,'alg.rugx0oj.BOT','条斑紫菜,條斑紫菜 [tiáo bān zǐ cài] ')).
+assert(celo(ruĝalgoj,'alg.rugx0oj.BOT','乌菜,烏菜 [wū cài] ')).
+assert(celo(ruĝalgoj,'alg.rugx0oj.BOT','紅毛菜科,红毛菜科 [hóng máo cài kē] ')).
+assert(celo(verdalgoj,'alg.verd0oj.BOT','綠藻門,绿藻门 [lü zǎo mén] ')).
+assert(celo(verdalgoj,'alg.verd0oj.BOT','綠藻,绿藻 [lü zǎo] ')).
+assert(celo(algebro,'algebr.0o.fako','代数,代數 [dài shù] ')).
+assert(celo(algebro,'algebr.0o.strukturo','代数结构,代數結構 [dài shù jié gòu] ')).
+assert(celo('bulea algebro','algebr.bulea0o.fako','布尔代数,布爾代數 [bù ěr dài shù] ')).
+assert(celo('lineara algebro','algebr.lineara0o.fako','線性代數,线性代数 [xiàn xìng dài shù] ')).
