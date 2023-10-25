@@ -1476,3 +1476,156 @@ assert(celo(aerarmeo,'arme.aer0o.MIL','德国空军,德國空軍 [dé guó kōng
 assert(celo('Ruĝa Armeo','','紅軍,红军 [hóng jūn] ')).
 assert(celo('Ruĝa Armeo','','苏联红军,蘇聯紅軍 [sū lián hóng jūn] ')).
 assert(celo('Savarmeo','arme.sav0o.NRO','救世军,救世軍 [jiù shì jūn] ')).
+assert(celo(armeno,'','亚美尼亚人,亞美尼亞人 [yà měi ní yà rén] ')).
+assert(celo('Armenujo','armen.A0ujo.GEOG','亚美尼亚,亞美尼亞 [yà měi ní yà] ')).
+assert(celo('Armenujo','armen.A0ujo.GEOG','亚美尼亚共和国,亞美尼亞共和國 [yà měi ní yà gòng hé guó] ')).
+assert(celo('Arnoldo','arnold.0o.NOM','阿諾德,阿诺德 [ā nuò dé] ')).
+assert(celo('Arnoldo','arnold.0o.NOM','阿尔诺德,阿爾諾德 [ā ěr nuò dé] ')).
+assert(celo(aroganta,'arogan.0a.trofiera','傲慢 [ào màn] ')).
+assert(celo(aroganta,'arogan.0a.trofiera','不可一世的 [bù kě yī shì de] ')).
+assert(celo(aroganta,'arogan.0a.trofiera','做大 [zuò dà] ')).
+assert(celo(aromaĵo,'arom.0ajxo.KOMUNE','調味劑,调味剂 [tiáo wèi jì] ')).
+assert(celo(aromo,'arom.0o.SEN','浓香,濃香 [nóng xiāng] ')).
+assert(celo(aromo,'arom.0o.SEN','滋味 [zī wèi] ')).
+assert(celo(aromo,'arom.0o.SEN','气味,氣味 [qì wèi] ')).
+assert(celo(aromo,'','膻 [dàn] ')).
+assert(celo(aromo,'','芳泽,芳澤 [fāng zé] ')).
+assert(celo(aromi,'arom.0i.SEN','发出香味,發出香味 [fā chū xiāng wèi] ')).
+assert(celo(arsenalo,'arsena.0o.armilejo','作战机械,作戰機械 [zuò zhàn jī xiè] ')).
+assert(celo(arseniko,'arseni.0o.KEM','三氧化二砷 [sān yǎng huà èr shēn] ')).
+assert(celo(arsenalo,'','武器库,武器庫 [wǔ qì kù] ')).
+assert(celo(artaĵo,'art.0ajxo.KOMUNE','作品 [zuò pǐn] ')).
+assert(celo('Novarto','art.Nov0o.secesia','新艺术风格,新藝術風格 [xīn yì shù fēng gé] ')).
+assert(celo(batalarto,'','武术,武術 [wǔ shù] ')).
+assert(celo(belartaĵo,'art.bel0ajxo.BELA','作品 [zuò pǐn] ')).
+assert(celo(belarto,'art.bel0o.BELA','文学艺术,文學藝術 [wén xué yì shù] ')).
+assert(celo(inĝenierarto,'art.ingxenier0o.TEK','工科 [gōng kē] ')).
+assert(celo(inĝenierarto,'art.ingxenier0o.TEK','工程 [gōng chéng] ')).
+assert(celo(kuirarto,'art.kuir0o.KUI','烹調術,烹调术 [pēng tiáo shù] ')).
+assert(celo(kuirarto,'art.kuir0o.KUI','美食法 [měi shí fǎ] ')).
+assert(celo(kuirarto,'art.kuir0o.KUI','菜係,菜系 [cài xì] ')).
+assert(celo(kuirarto,'art.kuir0o.KUI','菜 [cài] ')).
+assert(celo(kuracarto,'art.kurac0o.MED','医道,醫道 [yī dào] ')).
+assert(celo(memorarto,'art.memor0o.TEK','記憶朮,记忆术 [jì yì shù] ')).
+assert(celo(memorarto,'art.memor0o.TEK','助忆码,助憶碼 [zhù yì mǎ] ')).
+assert(celo(memorarto,'art.memor0o.TEK','記憶術 [jì yì shù] ')).
+assert(celo(sorĉarto,'art.sorcx0o.MAG','巫蛊,巫蠱 [wū gǔ] ')).
+assert(celo(artefakto,'artefakt.0o.ARKE','人工产物,人工產物 [rén gōng chǎn wù] ')).
+assert(celo(artefakto,'artefakt.0o.ARKE','人工制品,人工製品 [rén gōng zhì pǐn] ')).
+assert(celo(artefakto,'artefakt.0o.ARKE','手工艺品,手工藝品 [shǒu gōng yì pǐn] ')).
+assert(celo(artefakto,'artefakt.0o.ARKE','文物件 [wén wù jiàn] ')).
+assert(celo(arterio,'arteri.0o.ANA','动脉,動脈 [dòng mài] ')).
+assert(celo(arterio,'arteri.0o.FIG','交通干线,交通幹線 [jiāo tōng gàn xiàn] ')).
+assert(celo(arterio,'arteri.0o.FIG','主动脉,主動脈 [zhǔ dòng mài] ')).
+assert(celo(arterio,'arteri.0o.FIG','主要道路 [zhǔ yào dào lù] ')).
+assert(celo(arterio,'arteri.0o.FIG','主通道 [zhǔ tōng dào] ')).
+assert(celo(artifiko,'artifi.0o.KOMUNE','伎 [jì] ')).
+assert(celo(artifiko,'artifi.0o.KOMUNE','伎俩,伎倆 [jì liǎng] ')).
+assert(celo(artiko,'artik.0o.ANA','活節,活节 [huó jié] ')).
+assert(celo(artiko,'artik.0o.TEK','人工关节,人工關節 [rén gōng guān jié] ')).
+assert(celo(artikuloj,'artik.0uloj.ZOO','節肢動物,节肢动物 [jié zhī dòng wù] ')).
+assert(celo(artikuloj,'artik.0uloj.ZOO','節支動物,节支动物 [jié zhī dòng wù] ')).
+assert(celo(kromartikuloj,'artik.krom0uloj.ZOO','貧齒目,贫齿目 [pín chǐ mù] ')).
+assert(celo(piedartiko,'artik.pied0o.ANA','脚脖子,腳脖子 [jiǎo bó zi] ')).
+assert(celo(artikolo,'artiko.0o.GRA','冠詞,冠词 [guàn cí] ')).
+assert(celo(ĉefartikolo,'artiko.cxef0o.TIP','社論,社论 [shè lùn] ')).
+assert(celo(ĉefartikolo,'artiko.cxef0o.TIP','封面文章 [fēng miàn wén zhāng] ')).
+assert(celo(ĉefartikolo,'artiko.cxef0o.TIP','編者按,编者按 [biān zhě àn] ')).
+assert(celo(ĉefartikolo,'artiko.cxef0o.TIP','編者的話,编者的话 [biān zhě de huà] ')).
+assert(celo('difina artikolo','artiko.difina0o.GRA','定冠詞,定冠词 [dìng guàn cí] ')).
+assert(celo(artileriano,'artile.0ano.MIL','炮兵 [pào bīng] ')).
+assert(celo(artileriano,'artile.0ano.MIL','炮手,砲手 [pào shǒu] ')).
+assert(celo(artilerio,'artile.0o.MIL_armiloj','重炮 [zhòng pào] ')).
+assert(celo(artiŝoko,'artisx.0o.specio','朝鮮薊,朝鲜蓟 [cháo xiān jì] ')).
+assert(celo(artiŝoko,'artisx.0o.specio','洋蓟,洋薊 [yáng jì] ')).
+assert(celo(artropodo,'artropod.0o.ZOO','節肢動物,节肢动物 [jié zhī dòng wù] ')).
+assert(celo(artropodo,'artropod.0o.ZOO','節支動物,节支动物 [jié zhī dòng wù] ')).
+assert(celo(artrozo,'','关节炎,關節炎 [guān jié yán] ')).
+assert(celo(arundo,'arund.0o.BOT','籐 [téng] ')).
+assert(celo(arundo,'arund.0o.BOT','藤 [téng] ')).
+assert(celo('Asamo','','阿萨姆邦,阿薩姆邦 [ā sà mǔ bāng] ')).
+assert(celo(ascendi,'ascend.0i.spirite','攀升 [pān shēng] ')).
+assert(celo(ascendi,'ascend.0i.spirite','攀升,攀昇 [pān shēng] ')).
+assert(celo(ascendi,'ascend.0i.supreniri','上浮 [shàng fú] ')).
+assert(celo(ascendi,'ascend.0i.supreniri','上馬,上马 [shàng mǎ] ')).
+assert(celo(ascendi,'ascend.0i.supreniri','向上升起,向上昇起 [xiàng shàng shēng qǐ] ')).
+assert(celo(ascendi,'ascend.0i.supreniri','崛起 [jué qǐ] ')).
+assert(celo(ascendi,'ascend.0i.supreniri','涌 [yǒng] ')).
+assert(celo(ascendi,'ascend.0i.supreniri','涨,漲 [zhǎng] ')).
+assert(celo(ascendi,'ascend.0i.supreniri','爬 [pá] ')).
+assert(celo(asekuro,'','保险商,保險商 [bǎo xiǎn shāng] ')).
+assert(celo(asekuro,'','保险业者,保險業者 [bǎo xiǎn yè zhě] ')).
+assert(celo(asekuro,'','保险机构,保險機構 [bǎo xiǎn jī gòu] ')).
+assert(celo('asekura makleristo','asekur.0amakleristo.EKON','保险经纪人,保險經紀人 [bǎo xiǎn jīng jì rén] ')).
+assert(celo(asekuristo,'asekur.0isto.EKON','保险商,保險商 [bǎo xiǎn shāng] ')).
+assert(celo(asekuristo,'asekur.0isto.EKON','保险业者,保險業者 [bǎo xiǎn yè zhě] ')).
+assert(celo(asekuristo,'asekur.0isto.EKON','保险机构,保險機構 [bǎo xiǎn jī gòu] ')).
+assert(celo(asekuristo,'asekur.0isto.kompanio','保险公司,保險公司 [bǎo xiǎn gōng sī] ')).
+assert(celo(asekuratesto,'','保险单,保險單 [bǎo xiǎn dān] ')).
+assert(celo(asesoro,'asesor.0o.JUR','审核员,審核員 [shěn hé yuán] ')).
+assert(celo(asfalti,'asfalt.0i.KON','沥青化,瀝靑化 [lì qīng huà] ')).
+assert(celo(asfalto,'asfalt.0o.KON','柏油 [bǎi yóu] ')).
+assert(celo(asfalto,'asfalt.0o.KON','沥青,瀝靑 [lì qīng] ')).
+assert(celo(asfiksio,'asfiks.0o.FIZL','呼吸停止 [hū xī tíng zhǐ] ')).
+assert(celo(asfiksio,'asfiks.0o.FIZL','窒息 [zhì xī] ')).
+assert(celo(asigni,'','分配 [fēn pèi] ')).
+assert(celo(asimili,'','同化 [tóng huà] ')).
+assert(celo('Asirio','asiri.A0o.GEOG','亚西利亚人,亞西利亞人 [yà xī lì yà rén] ')).
+assert(celo('Asirio','asiri.A0o.GEOG','亚述人,亞述人 [yà shù rén] ')).
+assert(celo('Asirio','asiri.A0o.GEOG','亚西利亚,亞西利亞 [yà xī lì yà] ')).
+assert(celo('Asirio','asiri.A0o.GEOG','亚述,亞述 [yà shù] ')).
+assert(celo('Asirio','asiri.A0o.GEOG','在它的強盛時期,在它的强盛时期 [zài tā dì qiáng shèng shí qī] ')).
+assert(celo(asistanto,'asist.0anto.KOMUNE','佴 [èr] ')).
+assert(celo(asistanto,'asist.0anto.KOMUNE','助教 [zhù jiào] ')).
+assert(celo(asistanto,'asist.0anto.KOMUNE','助理 [zhù lǐ] ')).
+assert(celo(asistanto,'asist.0anto.KOMUNE','助理研究员,助理研究員 [zhù lǐ yán jiū yuán] ')).
+assert(celo(asistanto,'asist.0anto.KOMUNE','助理医生,助理醫生 [zhù lǐ yī shēng] ')).
+assert(celo(asistanto,'asist.0anto.KOMUNE','向导,嚮導 [xiàng dǎo] ')).
+assert(celo(asisti,'asist.0i.KOMUNE','佐 [zuǒ] ')).
+assert(celo(asisti,'asist.0i.KOMUNE','儭 [chèn] ')).
+assert(celo(asistanto,'','大学助教,大學助教 [dà xué zhù jiào] ')).
+assert(celo(asketismo,'asket.0ismo.REL','苦行 [kǔ xíng] ')).
+assert(celo(asketismo,'asket.0ismo.REL','禁慾主義,禁欲主义 [jìn yù zhǔ yì] ')).
+assert(celo(asketismo,'asket.0ismo.REL','禁欲 [jìn yù] ')).
+assert(celo(asketismo,'asket.0ismo.REL','禁慾,禁欲 [jìn yù] ')).
+assert(celo(asklepiado,'asklep.0o.BOT','萝藦科,蘿藦科 [luó mó kē] ')).
+assert(celo(asocii,'','联想,聯想 [lián xiǎng] ')).
+assert(celo(asocio,'asoci.0o.kunligiteco','交际,交際 [jiāo jì] ')).
+assert(celo(asocio,'asoci.0o.kunligiteco','公会,公會 [gōng huì] ')).
+assert(celo(asocio,'asoci.0o.societo','协会,協會 [xié huì] ')).
+assert(celo(asparago,'aspara.0o.BOT','文竹 [wén zhú] ')).
+assert(celo(asparagacoj,'','天門冬目,天门冬目 [tiān mén dōng mù] ')).
+assert(celo(aspekte,'aspekt.0e.KOMUNE','仿彿 [fǎng fú] ')).
+assert(celo(aspekte,'aspekt.0e.KOMUNE','似乎 [sì hū] ')).
+assert(celo(aspekti,'aspekt.0i.KOMUNE','一摸一样,一摸一樣 [yī mō yī yàng] ')).
+assert(celo(aspekto,'aspekt.0o.KOMUNE','仪容,儀容 [yí róng] ')).
+assert(celo(aspekto,'aspekt.0o.KOMUNE','外形 [wài xíng] ')).
+assert(celo(aspekto,'aspekt.0o.KOMUNE','外貌 [wài mào] ')).
+assert(celo(aspergi,'asperg.0i.sxpruci','喷雾给湿,噴霧給濕 [pēn wù gěi shī] ')).
+assert(celo(aspergi,'asperg.0i.sxpruci','喷洒,噴灑 [pēn sǎ] ')).
+assert(celo(aspergi,'asperg.0i.sxpruci','喷射,噴射 [pēn shè] ')).
+assert(celo(aspergi,'asperg.0i.sxpruci','使粘上斑点,使粘上斑點 [shǐ zhān shàng bān diǎn] ')).
+assert(celo(aspiri,'','努 [nǔ] ')).
+assert(celo(aspiri,'','力求 [lì qiú] ')).
+assert(celo(aspiri,'','愒 [kài] ')).
+assert(celo(aspiri,'','嗜好 [shì hào] ')).
+assert(celo(aspiri,'','意愿,意願 [yì yuàn] ')).
+assert(celo(aspiri,'','应聘,應聘 [yìng pìn] ')).
+assert(celo(aspiri,'','找工作 [zhǎo gōng zuò] ')).
+assert(celo(astero,'aster.0o.BOT','星状体,星狀體 [xīng zhuàng tǐ] ')).
+assert(celo(asteracoj,'astera.0oj.BOT','菊科 [jú kē] ')).
+assert(celo(laŭracoj,'','樟科 [zhāng kē] ')).
+assert(celo(asterio,'asteri.0o.ZOO','海盘车,海盤車 [hǎi pán chē] ')).
+assert(celo(asterio,'asteri.0o.ZOO','海星 [hǎi xīng] ')).
+assert(celo(asterio,'asteri.0o.ZOO','星星魚,星星鱼 [xīng xing yú] ')).
+assert(celo(asteroido,'astero.0o.AST','小行星 [xiǎo xíng xīng] ')).
+assert(celo(astro,'astr.0o.AST','天体,天體 [tiān tǐ] ')).
+assert(celo(astrologo,'astrol1.0o.astrologiisto','占星家 [zhàn xīng jiā] ')).
+assert(celo(astronomia,'astron1.0a.AST','天文学,天文學 [tiān wén xué] ')).
+assert(celo(astronomia,'astron1.0a.AST','天文数字,天文數字 [tiān wén shù zì] ')).
+assert(celo(astronomia,'astron1.0a.KOM','天价,天價 [tiān jià] ')).
+assert(celo(astronomiisto,'','天文学家,天文學家 [tiān wén xué jiā] ')).
+assert(celo(astronomio,'astron1.0o.AST','天文学,天文學 [tiān wén xué] ')).
+assert(celo(astronaŭto,'astronauxt.0o.AVI','航天员,航天員 [háng tiān yuán] ')).
+assert(celo(astronaŭto,'astronauxt.0o.AVI','太空人 [tài kōng rén] ')).
+assert(celo(astronaŭto,'astronauxt.0o.AVI','宇航员,宇航員 [yǔ háng yuán] ')).
