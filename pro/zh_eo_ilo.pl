@@ -50,7 +50,6 @@ csv_hande('pro/handedict_nb.u8').
 %csv_celo('tmp/eo_zh.csv').
 db_celo('pro/eo_zh.db').
 
-% expand_query(Q,Q,B,B) :- writeln('query').
 
 legu :-
     db_celo(DB),
@@ -92,6 +91,23 @@ hande_redukt :-
         assertz(zhde(Zh,D))
     ).
 
+% Ni iom simpligas la dialogon 
+% permesante doni komencan demandsignon kaj serĉvorton,
+% do ?<serĉvorto>. anstataŭ p(<serĉvorto>).
+%expand_query(Query,Query,Bind,Bind) :- 
+%    format('~w ~w~n',[Query,Bind]),
+%    sub_atom(Query,0,1,_,'?'),
+%    sub_atom(Query,1,_,0,QV),
+%    normalize_space(QV,Vorto),
+%    format('~w ~w ~w~n',[Query,Vorto,Bind]).
+
+:- op(1200,fy,user:(?)).
+?(X) :- p(X).
+
+% informu pri kelkaj mankantaj tradukvortoj (eo)
+% dum mankas ĉiuj, pli facile estas verŝajne simple trairi supre malsupren la
+% CSV-dosieron per ordinara redaktilo / rigardilo.
+
 m(Prefix) :- forall(
     limit(20,(
         manko(Eo,_,_,_,_),
@@ -121,7 +137,7 @@ p(Eo) :- proponoj_eo(Eo,20).
 % se ni scias, ke por devia germana traduko ni trovos ĉinan tradukon...
 pde(Eo,De) :-
     retractall(propono(1,_,_,_,_)),
-    proponoj_de([De],20,1,Eo,'').
+    proponoj_de(De,20,1,Eo,'').
 
 % memoru proponon <N>.<N1> por posta skribo al csv_celo
 s(N-N1) :- s(N,N1).
@@ -165,29 +181,46 @@ proponoj_eo(Eo,Max) :-
     atomic_list_concat(LOfc,',',SOfc),    
     trad_stat(Tradukita,TStat),    
     format('~d~w ~w [~w] (~w) ~w~n',[N,TStat,Eo,Mrk,SOfc,SDe]),
-    proponoj_de(LDe,Max,N,Eo,Mrk).
+    proponoj_de(SDe,Max,N,Eo,Mrk).
 
-proponoj_de(LstDe,Max,N,Eo,Mrk) :-
-    Max2 is Max * 2,
+proponoj_de(SDe,Max,N,Eo,Mrk) :-
+    Max3 is 3*Max,
     forall(
-        call_nth(
-            order_by([desc(Poentoj)], limit(Max,(
-                % serĉu ĉinajn tradukojn por ĉiuj unuopaj germanaj tradukoj
-                % kaj grupigu laŭ la ĉian traduko
-                group_by(Zh,Simil-De1,(
-                    member(De,LstDe),
-                    limit(Max2,de_zh(_,De,De1,Zh,Simil))
-                ), Rezultoj),
-                % ni nun adicias la similecojn al poentoj, se ĉina traduko troviĝas plurfoje
-                foldl(trdkunigo,Rezultoj,0-'',Poentoj-DeTrdj)
-        ))),
+        call_nth(limit(Max, % post ordigo ni limigas al kiom ni volas
+            order_by([desc(Simil)], 
+                limit(Max3,( % ni serĉas trioble tiom kiom ni bezonas
+                    de_zh(Mtd,SDe,De1,Zh,Simil))
+                )
+            )),
             N1), 
         (
             % N-N1 servas por poste identigi unuopan traduk-proponon, ni memoras ilin tiucele
             assertz(propono(N,N1,Eo,Mrk,Zh)),
-            format('~d-~d (~1f): ~w, ~w~n',[N,N1,Poentoj,DeTrdj,Zh])
+            format('~d-~d (~w~1f): ~w, ~w~n',[N,N1,Mtd,Simil,De1,Zh])
         )
     ).
+    
+%proponoj_de(LstDe,Max,N,Eo,Mrk) :-
+%    Max2 is Max * 2,
+%    forall(
+%        call_nth(
+%            order_by([desc(Poentoj)], limit(Max,(
+%                % serĉu ĉinajn tradukojn por ĉiuj unuopaj germanaj tradukoj
+%                % kaj grupigu laŭ la ĉian traduko
+%                group_by(Zh,Simil-De1,(
+%                    member(De,LstDe),
+%                    limit(Max2,de_zh(_,De,De1,Zh,Simil))
+%                ), Rezultoj),
+%                % ni nun adicias la similecojn al poentoj, se ĉina traduko troviĝas plurfoje
+%                foldl(trdkunigo,Rezultoj,0-'',Poentoj-DeTrdj)
+%        ))),
+%            N1), 
+%        (
+%            % N-N1 servas por poste identigi unuopan traduk-proponon, ni memoras ilin tiucele
+%            assertz(propono(N,N1,Eo,Mrk,Zh)),
+%            format('~d-~d (~1f): ~w, ~w~n',[N,N1,Poentoj,DeTrdj,Zh])
+%        )
+%    ).
 
 trdkunigo(P1-T1,P2-T2,P-T) :- 
     P is P1+P2, 
@@ -239,7 +272,7 @@ kmp_isub(T1,T2,Simil) :-
     downcase_atom(T1,S1),
     downcase_atom(T2,S2),
     isub(S1,S2,Simil,[zero_to_one(true)]),
-    Simil > 0.6 .
+    Simil > 0.5 .
 
 kmp_ngram(T1,T2,Simil) :-
     atom_length(T1,L), L>3,
@@ -250,7 +283,7 @@ kmp_ngram(T1,T2,Simil) :-
 kmp_ngram_(NGrams,Atom,Percentage) :-
     proper_length(NGrams,Len), Len>0,
     ngram_count(NGrams,Atom,0,Count),
-    Percentage is Count / Len.   % >= 0.7    
+    Percentage is Count / Len * 1.0. % ni multiplikas per 1.0 por evit entjeron "1"
 
 ngram_count([],_,C,C).
 ngram_count([NGram|More],Atom,C,Count) :-
