@@ -104,6 +104,11 @@ hande_redukt :-
 :- op(1200,fy,user:(?)).
 ?(X) :- p(X).
 
+% per kajsigno ni aldonas tradukojn per siaj numberoj
+:- op(1200,fy,user:(&)).
+&(N-N1) :- s(N,N1).
+&(N,N1) :- s(N,N1).
+
 % informu pri kelkaj mankantaj tradukvortoj (eo)
 % dum mankas ĉiuj, pli facile estas verŝajne simple trairi supre malsupren la
 % CSV-dosieron per ordinara redaktilo / rigardilo.
@@ -189,7 +194,7 @@ proponoj_de(SDe,Max,N,Eo,Mrk) :-
         call_nth(limit(Max, % post ordigo ni limigas al kiom ni volas
             order_by([desc(Simil)], 
                 limit(Max3,( % ni serĉas trioble tiom kiom ni bezonas
-                    de_zh(Mtd,SDe,De1,Zh,Simil))
+                    distinct(Zh,de_zh(Mtd,SDe,De1,Zh,Simil)))
                 )
             )),
             N1), 
@@ -239,10 +244,12 @@ manko_grup(Eo,Mrk,Tradukita,OfcLst,DeLst) :-
     )),    
     % germanaj tradukoj - listo por sama mrk
     group_by(Mrk,De,
-        manko(Eo,Mrk,_,_,De),DeLst),
+        distinct(De,manko(Eo,Mrk,_,_,De)),
+        DeLst),
     % oficialeecoj - listo por sama mrk
     group_by(Mrk,Ofc,
-        manko(Eo,Mrk,_,Ofc,_),LOfc),
+        distinct(Ofc,manko(Eo,Mrk,_,Ofc,_)),
+        LOfc),
     exclude(=('NULL'),LOfc,OfcLst).
 
 trad_stat(Tradukita,TStat) :- member(Tradukita-TStat,[true-'+',false-'-']).
