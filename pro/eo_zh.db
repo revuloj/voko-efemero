@@ -1629,3 +1629,196 @@ assert(celo(astronomio,'astron1.0o.AST','天文学,天文學 [tiān wén xué] '
 assert(celo(astronaŭto,'astronauxt.0o.AVI','航天员,航天員 [háng tiān yuán] ')).
 assert(celo(astronaŭto,'astronauxt.0o.AVI','太空人 [tài kōng rén] ')).
 assert(celo(astronaŭto,'astronauxt.0o.AVI','宇航员,宇航員 [yǔ háng yuán] ')).
+assert(celo(astragalo,'astrag.0o.ANA','距骨 [jù gǔ] ')).
+assert(celo(astragalo,'astrag.0o.BOT','黃芪,黄芪 [huáng qí] ')).
+assert(celo('Asturio','asturi.0o.GEOG','阿斯图里亚斯,阿斯圖里亞斯 [ā sī tú lǐ yà sī] ')).
+assert(celo('Asunciono','asuncion.0o.cxefurbo','亚松森,亞松森 [yà sōng sēn] ')).
+assert(celo('Asunciono','asuncion.0o.cxefurbo','亚松森,亞鬆森 [yà sōng sēn] ')).
+assert(celo(aŝkenazo,'asxkenaz.0o.ETN','阿肯納西猶太人,阿肯纳西犹太人 [ā kěn nà xī yóu tài rén] ')).
+assert(celo('Aŝoko','asxok.0o.PERS','阿育王 [ā yù wáng] ')).
+assert(celo(atakantino,'atak.0antino.batalo','袭击者,襲擊者 [xí jī zhě] ')).
+assert(celo(atakanto,'atak.0anto.batalo','攻击者,攻擊者 [gōng jī zhě] ')).
+assert(celo(atakanto,'atak.0anto.batalo','进攻者,進攻者 [jìn gōng zhě] ')).
+assert(celo(atakanto,'atak.0anto.batalo','侵略者 [qīn lüè zhě] ')).
+assert(celo(atakanto,'atak.0anto.FIG','冒犯者 [mào fàn zhě] ')).
+assert(celo(atakema,'atak.0ema.KOMUNE','气势汹汹,氣勢洶洶 [qì shì xiōng xiōng] ')).
+assert(celo(atakema,'atak.0ema.KOMUNE','忮 [zhì] ')).
+assert(celo(atakema,'atak.0ema.KOMUNE','好斗 [hǎo dòu] ')).
+assert(celo(ataki,'atak.0i.batali','抨 [pēng] ')).
+assert(celo(ataki,'atak.0i.batali','攻打 [gōng dǎ] ')).
+assert(celo(ataki,'atak.0i.batali','抨击,抨擊 [pēng jī] ')).
+assert(celo(atako,'atak.0o.batalo','歼击,殲擊 [jiān jī] ')).
+assert(celo(atako,'atak.0o.ekkapto','瞬間衝動,瞬间冲动 [shùn jiān chōng dòng] ')).
+assert(celo(atako,'atak.0o.ekkapto','狂怒 [kuáng nù] ')).
+assert(celo(kontraŭatako,'atak.kontraux0o.MIL','回击,回擊 [huí jī] ')).
+assert(celo(kontraŭatako,'atak.kontraux0o.MIL','逆袭,逆襲 [nì xí] ')).
+assert(celo(kontraŭatako,'atak.kontraux0o.MIL','还击,還擊 [huán jī] ')).
+assert(celo(surprizatako,'atak.surpriz0o.MIL','突袭,突襲 [tú xí] ')).
+assert(celo(surprizatako,'atak.surpriz0o.MIL','偷袭,偷襲 [tōu xí] ')).
+assert(celo(trompatako,'atak.tromp0o.MIL','佯攻 [yáng gōng] ')).
+assert(celo(ateismano,'ateism.0ano.FIL','无神论者,無神論者 [wú shén lùn zhě] ')).
+assert(celo(ateisto,'ateist.0o.REL','无神论者,無神論者 [wú shén lùn zhě] ')).
+assert(celo(ateliero,'','工作室 [gōng zuò shì] ')).
+assert(celo(ateliero,'','画坊,畫坊 [huà fāng] ')).
+assert(celo(ateliero,'','文化艺术坊,文化藝術坊 [wén huà yì shù fāng] ')).
+assert(celo(ateliero,'','照相摄影室,照相攝影室 [zhào xiàng shè yǐng shì] ')).
+assert(celo(ateliero,'','时装店,時裝店 [shí zhuāng diàn] ')).
+assert(celo(ateliero,'','斋,齋 [zhāi] ')).
+assert(celo('Ateno','aten.0o.diino','雅典娜 [yǎ diǎn nà] ')).
+assert(celo('Ateno','aten.0o.diino','雅典娜 [yǎ diǎn nuó] ')).
+assert(celo(afiŝo,'','規紙板,规纸板 [guī zhǐ bǎn] ')).
+assert(celo(atendejo,'atend.0ejo.KOMUNE','候車室,候车室 [hòu chē shì] ')).
+assert(celo(atendi,'atend.0i.antauxvidi','等候 [děng hòu] ')).
+assert(celo(atendi,'atend.0i.antauxvidi','盼到 [pàn dào] ')).
+assert(celo(atendi,'atend.0i.antauxvidi','期盼 [qī pàn] ')).
+assert(celo(atendi,'atend.0i.antauxvidi','守侯 [shǒu hóu] ')).
+assert(celo(atendi,'atend.0i.antauxvidi','希 [xī] ')).
+assert(celo(atendi,'atend.0i.antauxvidi','期 [qī] ')).
+assert(celo(atendi,'atend.0i.antauxvidi','預留,预留 [yù liú] ')).
+assert(celo(atendi,'atend.0i.resti','等待 [děng dài] ')).
+assert(celo(atendi,'atend.0i.resti','守侯 [shǒu hóu] ')).
+assert(celo(atendo,'atend.0o.KOMUNE','被期待物 [bèi qī dài wù] ')).
+assert(celo(atendo,'atend.0o.KOMUNE','憧憬 [chōng jǐng] ')).
+assert(celo(atendo,'atend.0o.KOMUNE','繼承遺產的指望,继承遗产的指望 [jì chéng yí chǎn de zhǐ wàng] ')).
+assert(celo(atendo,'atend.0o.KOMUNE','将来的指望,將來的指望 [jiāng lái de zhǐ wàng] ')).
+assert(celo(ĝisatendi,'atend.gxis0i.KOMUNE','候 [hòu] ')).
+assert(celo(ĝisatendi,'atend.gxis0i.KOMUNE','等待 [děng dài] ')).
+assert(celo(neatendita,'','不料 [bù liào] ')).
+assert(celo(neatendita,'','出乎預料,出乎预料 [chū hū yù liào] ')).
+assert(celo(neatendita,'','卒 [cù] ')).
+assert(celo(neatendita,'','鬼使神差 [guǐ shǐ shén chāi] ')).
+assert(celo(neatendita,'','忽而 [hū ér] ')).
+assert(celo(neatendita,'','居然 [jū rán] ')).
+assert(celo(neatendita,'','求之不得 [qiú zhī bù dé] ')).
+assert(celo(neatendita,'','意想不到 [yì xiǎng bù dào] ')).
+assert(celo(neatendita,'','意向不到 [yì xiàng bù dào] ')).
+assert(celo(neatendita,'','出人意外 [chū rén yì wài] ')).
+assert(celo(neatendita,'','竟 [jìng] ')).
+assert(celo(atenta,'atent.0a.KOMUNE','諦,谛 [dì] ')).
+assert(celo(atenta,'atent.0a.KOMUNE','細心,细心 [xì xīn] ')).
+assert(celo(atenta,'atent.0a.KOMUNE','用心 [yòng xīn] ')).
+assert(celo(atenta,'atent.0a.KOMUNE','仔細地,仔细地 [zǐ xì de] ')).
+assert(celo(atenta,'atent.0a.KOMUNE','机警,機警 [jī jǐng] ')).
+assert(celo(atenti,'atent.0i.sinturni','注意 [zhù yì] ')).
+assert(celo(atenti,'atent.0i.sinturni','看待 [kàn dài] ')).
+assert(celo(atenti,'atent.0i.sinturni','留意 [liú yì] ')).
+assert(celo(atenti,'atent.0i.sinturni','觀看,观看 [guān kàn] ')).
+assert(celo(atenti,'atent.0i.sinturni','伺 [sì] ')).
+assert(celo(atenti,'atent.0i.gravigi','听从,聽從 [tīng cóng] ')).
+assert(celo(atenti,'atent.0i.gravigi','皈 [guī] ')).
+assert(celo(atenti,'atent.0i.gravigi','踵 [zhǒng] ')).
+assert(celo(atenti,'atent.0i.gravigi','循 [xún] ')).
+assert(celo(atentigi,'','提示 [tí shì] ')).
+assert(celo(atento,'atent.0o.KOMUNE','出席 [chū xí] ')).
+assert(celo(atento,'atent.0o.KOMUNE','注意力 [zhù yì lì] ')).
+assert(celo(atento,'atent.0o.KOMUNE','警覺,警觉 [jǐng jué] ')).
+assert(celo(malatenti,'atent.mal0i.KOMUNE','忽 [hū] ')).
+assert(celo(malatenti,'atent.mal0i.KOMUNE','漠視,漠视 [mò shì] ')).
+assert(celo(malatenti,'atent.mal0i.KOMUNE','不理 [bù lǐ] ')).
+assert(celo(malatenti,'atent.mal0i.KOMUNE','沒注意到,没注意到 [méi zhù yì dào] ')).
+assert(celo(malatenti,'atent.mal0i.KOMUNE','无视,無視 [wú shì] ')).
+assert(celo(malatentigi,'atent.mal0igi.PSI','分散注意 [fēn sàn zhù yì] ')).
+assert(celo(preteratenti,'','失掉 [shī diào] ')).
+assert(celo(preteratenti,'','忽 [hū] ')).
+assert(celo(preteratenti,'','忽視,忽视 [hū shì] ')).
+assert(celo(preteratenti,'','漏 [lòu] ')).
+assert(celo(senatenta,'atent.sen0a.KOMUNE','不周到 [bù zhōu dào] ')).
+assert(celo(senatenta,'atent.sen0a.KOMUNE','不专心,不專心 [bù zhuān xīn] ')).
+assert(celo(senatenta,'atent.sen0a.KOMUNE','失神 [shī shén] ')).
+assert(celo(senatenta,'atent.sen0a.KOMUNE','健忘 [jiàn wàng] ')).
+assert(celo(senatenta,'atent.sen0a.KOMUNE','恍惚 [huǎng hū] ')).
+assert(celo(senatenta,'atent.sen0a.KOMUNE','茫然 [máng rán] ')).
+assert(celo(senatenta,'atent.sen0a.KOMUNE','心不在焉 [xīn bù zài yān] ')).
+assert(celo(atestanto,'atest.0anto.JUR','見證人,见证人 [jiàn zhèng rén] ')).
+assert(celo(atestanto,'atest.0anto.JUR','證人,证人 [zhèng rén] ')).
+assert(celo(atestanto,'atest.0anto.JUR','見證,见证 [jiàn zhèng] ')).
+assert(celo(atesti,'atest.0i.JUR','指證,指证 [zhǐ zhèng] ')).
+assert(celo(atesti,'atest.0i.JUR','證明,证明 [kāi shì] ')).
+assert(celo(atesti,'atest.0i.KOMUNE','作證,作证 [zuò zhèng] ')).
+assert(celo(atestilo,'atest.0ilo.JUR','契据,契據 [qì jù] ')).
+assert(celo(atestilo,'atest.0ilo.JUR','特許證,特许证 [tè xǔ zhèng] ')).
+assert(celo(atestilo,'atest.0ilo.JUR','文契 [wén qì] ')).
+assert(celo(atestilo,'atest.0ilo.JUR','證物,证物 [zhèng wù] ')).
+assert(celo(atestilo,'atest.0ilo.JUR','證書,证书 [zhèng shū] ')).
+assert(celo(atestilo,'atest.0ilo.JUR','証件,证件 [zhèng jiàn] ')).
+assert(celo(atestilo,'atest.0ilo.JUR','券 [quàn] ')).
+assert(celo(atesto,'atest.0o.KOMUNE','見證,见证 [jiàn zhèng] ')).
+assert(celo(atesto,'atest.0o.KOMUNE','證詞,证词 [zhèng cí] ')).
+assert(celo(atestilo,'','电子证书,電子證書 [diàn zǐ zhèng shū] ')).
+assert(celo(geedziĝatestilo,'atest.geedzigx0ilo.POL','結婚證,结婚证 [jié hūn zhèng] ')).
+assert(celo(geedziĝatestilo,'atest.geedzigx0ilo.POL','婚姻證,婚姻证 [hūn yīn zhèng] ')).
+assert(celo(naskiĝatestilo,'atest.naskigx0ilo.POL','出生證,出生证 [chū shēng zhèng] ')).
+assert(celo(naskiĝatestilo,'atest.naskigx0ilo.POL','出生證明書,出生证明书 [chū shēng zhèng míng shū] ')).
+assert(celo(ŝarĝatesto,'atest.sxargx0o.EKON','提貨單,提货单 [tí huò dān] ')).
+assert(celo(ŝarĝatesto,'atest.sxargx0o.EKON','貨運單據,货运单据 [huò yùn dān jù] ')).
+assert(celo(ŝarĝatesto,'atest.sxargx0o.EKON','云单,雲單 [yún dān] ')).
+assert(celo(ŝarĝatesto,'atest.sxargx0o.EKON','貨票,货票 [huò piào] ')).
+assert(celo(ŝarĝatesto,'atest.sxargx0o.EKON','运单,運單 [yùn dān] ')).
+assert(celo(atingebla,'ating.0ebla.KOMUNE','易取得 [yì qǔ dé] ')).
+assert(celo(atingebla,'ating.0ebla.KOMUNE','可达成,可達成 [kě dá chéng] ')).
+assert(celo(atingebla,'ating.0ebla.KOMUNE','可达到,可達到 [kě dá dào] ')).
+assert(celo(atingebla,'ating.0ebla.KOMUNE','可得到的 [kě dé dào dí] ')).
+assert(celo(atingebla,'ating.0ebla.KOMUNE','可以达到,可以達到 [kě yǐ dá dào] ')).
+assert(celo(atingebla,'ating.0ebla.KOMUNE','所及 [suǒ jí] ')).
+assert(celo(atingi,'ating.0i.FIG','达,達 [dá] ')).
+assert(celo(atingi,'ating.0i.FIG','达成,達成 [dá chéng] ')).
+assert(celo(atingi,'ating.0i.FIG','高达,高達 [gāo dá] ')).
+assert(celo(atingi,'ating.0i.spacon','达到,達到 [dá dào] ')).
+assert(celo(atingi,'ating.0i.tusxi','达,達 [dá] ')).
+assert(celo(atingi,'ating.0i.tusxi','达到,達到 [dá dào] ')).
+assert(celo(atingo,'ating.0o.KOMP','存取法 [cún qǔ fǎ] ')).
+assert(celo(atingo,'ating.0o.KOMP','訪問法,访问法 [fǎng wèn fǎ] ')).
+assert(celo(atingo,'ating.0o.KOMP','訪問方式,访问方式 [fǎng wèn fāng shì] ')).
+assert(celo(kuratingi,'ating.kur0i.KOMUNE','追上 [zhuī shàng] ')).
+assert(celo(kuratingi,'ating.kur0i.KOMUNE','跟上 [gēn shàng] ')).
+assert(celo(kuratingi,'ating.kur0i.KOMUNE','赶,趕 [gǎn] ')).
+assert(celo(neatingebla,'ating.ne0ebla.KOMUNE','不能到达,不能到達 [bù néng dào dá] ')).
+assert(celo(neatingebla,'ating.ne0ebla.KOMUNE','不能得到 [bù néng dé dào] ')).
+assert(celo(neatingebla,'ating.ne0ebla.KOMUNE','不能及 [bù néng jí] ')).
+assert(celo(neatingebla,'ating.ne0ebla.KOMUNE','不能完 [bù néng wán] ')).
+assert(celo(neatingebla,'ating.ne0ebla.KOMUNE','不好接近 [bù hǎo jiē jìn] ')).
+assert(celo('Atlantiko','atlant.A0o.GEOG','大西洋 [dà xī yáng] ')).
+assert(celo(transatlantika,'','大西洋彼岸 [dà xī yáng bǐ àn] ')).
+assert(celo(atlanto,'','地图册,地圖册 [dì tú cè] ')).
+assert(celo(atlanto,'','大地图,大地圖 [dà dì tú] ')).
+assert(celo(atlanto,'','頸部第一椎骨,颈部第一椎骨 [jǐng bù dì yī zhuī gǔ] ')).
+assert(celo(atlanto,'','图表集,圖表集 [tú biǎo jí] ')).
+assert(celo('Atlantido','atlantid.0o.MIT','亚特兰蒂斯,亞特蘭蒂斯 [yà tè lán dì sī] ')).
+assert(celo('Atlantido','atlantid.0o.MIT','亚特兰蒂斯大陆,亞特蘭蒂斯大陸 [yà tè lán dì sī dà lù] ')).
+assert(celo(atlaso,'atlas.0o.maparo','地图册,地圖册 [dì tú cè] ')).
+retractall(celo(atlanto,_,'地图册,地圖册 [dì tú cè] '),1).
+assert(celo(atlaso,'atlas.0o.maparo','大地图,大地圖 [dà dì tú] ')).
+retractall(celo(atlanto,_,'大地图,大地圖 [dà dì tú] '),1).
+assert(celo(atlaso,'atlas.0o.ANA','頸部第一椎骨,颈部第一椎骨 [jǐng bù dì yī zhuī gǔ] ')).
+retractall(celo(atlanto,_,'頸部第一椎骨,颈部第一椎骨 [jǐng bù dì yī zhuī gǔ] '),1).
+assert(celo(atlaso,'atlas.0o.maparo','图表集,圖表集 [tú biǎo jí] ')).
+retractall(celo(atlanto,_,'图表集,圖表集 [tú biǎo jí] '),1).
+assert(celo(atleto,'atlet.0o.SPO','大力士 [dà lì shì] ')).
+assert(celo(atleto,'atlet.0o.SPO','比賽者,比赛者 [bǐ sài zhě] ')).
+assert(celo(atleto,'atlet.0o.SPO','运动家,運動家 [yùn dòng jiā] ')).
+assert(celo(atleto,'atlet.0o.SPO','运动员,運動員 [yùn dòng yuán] ')).
+assert(celo(atletiko,'atletik.0o.SPO','崇尚运动,崇尚運動 [chóng shàng yùn dòng] ')).
+assert(celo(atletiko,'atletik.0o.SPO','竞技热,競技熱 [jìng jì rè] ')).
+assert(celo(atletiko,'atletik.0o.SPO','运动竞赛,運動競賽 [yùn dòng jìng sài] ')).
+assert(celo(atletiko,'atletik.0o.SPO','运动术,運動術 [yùn dòng shù] ')).
+assert(celo(atletiko,'atletik.0o.SPO','体育活动,體育活動 [tǐ yù huó dòng] ')).
+assert(celo(atletiko,'atletik.0o.SPO','竞技,競技 [jìng jì] ')).
+assert(celo(atmosfero,'atmosf.0o.AST','气压单位,氣壓單位 [qì yā dān wèi] ')).
+assert(celo(atmosfero,'atmosf.0o.AST','气氛,氣氛 [qì fēn] ')).
+assert(celo(atmosfero,'atmosf.0o.AST','包围天体的气体,包圍天體的氣體 [bāo wéi tiān tǐ de qì tǐ] ')).
+assert(celo(atmosfero,'atmosf.0o.AST','大气,大氣 [dà qì] ')).
+assert(celo(atmosfero,'atmosf.0o.AST','大气圈,大氣圈 [dà qì quān] ')).
+assert(celo(atmosfero,'atmosf.0o.AST','地球大气层,地球大氣層 [dì qiú dà qì céng] ')).
+assert(celo(atmosfero,'atmosf.0o.AST','地球大气,地球大氣 [dì qiú dà qì] ')).
+assert(celo(atmosfero,'atmosf.0o.AST','太空 [tài kōng] ')).
+assert(celo(atmosfero,'atmosf.0o.etoso','氛围,氛圍 [fēn wéi] ')).
+assert(celo(atmosfero,'atmosf.0o.etoso','色 [sè] ')).
+assert(celo(atmosfero,'atmosf.0o.unuo','气压单位,氣壓單位 [qì yā dān wèi] ')).
+assert(celo(atmosfero,'atmosf.0o.unuo','大气压力,大氣壓力 [dà qì yā lì] ')).
+retract(celo(atmosfero,'atmosf.0o.AST','气压单位,氣壓單位 [qì yā dān wèi] ')).
+assert(celo(atrakcio,'atrakci.0o.TEA','叫座之物 [jiào zuò zhī wù] ')).
+assert(celo(atrakcio,'atrakci.0o.TEA','精彩表演 [jīng cǎi biǎo yǎn] ')).
+assert(celo(atrakcio,'atrakci.0o.TEA','精彩節目,精彩节目 [jīng cǎi jié mù] ')).
+assert(celo(atrakcio,'atrakci.0o.TEA','惹眼之物 [rě yǎn zhī wù] ')).
+assert(celo(atrakcio,'atrakci.0o.TEA','有趣之物 [yǒu qù zhī wù] ')).
+assert(celo(atrakcio,'atrakci.0o.TEA','旅游胜地,旅遊勝地 [lǚ yóu shèng dì] ')).
