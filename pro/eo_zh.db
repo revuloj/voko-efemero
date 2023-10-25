@@ -1407,3 +1407,72 @@ assert(celo(arĥaika,'','已废弃,已廢棄 [yǐ fèi qì] ')).
 assert(celo('Arĥimedo','arhxim.0o.greko','阿基米德 [ā jī mǐ dé] ')).
 assert(celo(arĥitekturo,'arhxitektur.0o.FIG','建筑学,建築學 [jiàn zhú xué] ')).
 assert(celo(arĥivo,'arhxiv.0o.arhxivejo','卷宗 [juàn zōng] ')).
+assert(celo(nobelaro,'','上层,上層 [shàng céng] ')).
+assert(celo(nobelaro,'','特权阶层,特權階層 [tè quán jiē céng] ')).
+assert(celo(nobelaro,'','貴族社會,贵族社会 [guì zú shè huǐ] ')).
+assert(celo(nobelaro,'','貴族統治,贵族统治 [guì zú tǒng zhì] ')).
+assert(celo(nobelaro,'','貴族階層,贵族阶层 [guì zú jiē céng] ')).
+assert(celo(aristokratio,'aristo1.0o.POL','上层,上層 [shàng céng] ')).
+assert(celo('Aristotelo','aristotel.0o.PERS','亚里士多德,亞里士多德 [yà lǐ shì duō dé] ')).
+assert(celo('Aristotelo','aristotel.0o.PERS','亚里斯多德,亞里斯多德 [yà lǐ sī duō dé] ')).
+assert(celo(aritmetika,'aritme.0a.gxenerale','数学上,數學上 [shù xué shàng] ')).
+assert(celo(aritmetika,'aritme.0a.gxenerale','算术上,算術上 [suàn shù shàng] ')).
+assert(celo('Arizono','','亚利桑那,亞利桑那 [yà lì sāng nà] ')).
+assert(celo(arkaĵo,'ark.0ajxo.ARKI','弓 [gōng] ')).
+assert(celo(arkigi,'ark.0igi.KOMUNE','使弯曲,使彎曲 [shǐ wān qǔ] ')).
+assert(celo(arko,'ark.0o.ELE','光弧 [guāng hú] ')).
+assert(celo(arko,'ark.0o.KOMUNE','弓 [gōng] ')).
+assert(celo(arko,'','弧形 [hú xíng] ')).
+assert(celo(arko,'','弧線,弧线 [hú xiàn] ')).
+assert(celo(ĉielarko,'ark.cxiel0o.MET','彩虹 [cǎi hóng] ')).
+assert(celo(ĉielarko,'ark.cxiel0o.MET','虹 [jiàng] ')).
+assert(celo(ĉielarko,'ark.cxiel0o.MET','蜨蝀 [diè dòng] ')).
+assert(celo(ĉielarko,'ark.cxiel0o.MET','蜨蝀 [tiě dòng] ')).
+assert(celo(ĉielarko,'ark.cxiel0o.MET','蝶蝀 [diè dòng] ')).
+assert(celo(ĉielarko,'ark.cxiel0o.MET','虹 [hóng] ')).
+assert(celo(lunarko,'ark.lun0o.AST','半月形 [bàn yuè xíng] ')).
+assert(celo(pafarko,'','弓箭 [gōng jiàn] ')).
+assert(celo(pluvarko,'ark.pluv0o.MET','彩虹 [cǎi hóng] ')).
+assert(celo(pluvarko,'ark.pluv0o.MET','虹 [jiàng] ')).
+assert(celo(pluvarko,'ark.pluv0o.MET','蜨蝀 [diè dòng] ')).
+assert(celo(pluvarko,'ark.pluv0o.MET','蜨蝀 [tiě dòng] ')).
+assert(celo(pluvarko,'ark.pluv0o.MET','蝶蝀 [diè dòng] ')).
+assert(celo(pluvarko,'ark.pluv0o.MET','虹 [hóng] ')).
+assert(celo('Arkansaso','','阿肯色州 [ā kěn sè zhōu] ')).
+assert(celo(arkeano,'arkean.0o.GEOL','太古代 [tài gǔ dài] ')).
+assert(celo(arkeano,'arkean.0o.GEOL','太古宙 [tài gǔ zhòu] ')).
+assert(celo(arkeologo,'arkeol.0o.arkeologiisto','考古学家,考古學家 [kǎo gǔ xué jiā] ')).
+assert(celo(arkeologio,'arkeol1.0o.ARKE','考古学,考古學 [kǎo gǔ xué] ')).
+assert(celo(arkeologio,'arkeol1.0o.ARKE','考古 [kǎo gǔ] ')).
+assert(celo(arkeologia,'arkeol1.0a.praepoka','原始 [yuán shǐ] ')).
+assert(celo(arkeologia,'arkeol1.0a.scienca','拟古,擬古 [nǐ gǔ] ')).
+assert(celo(arkeologia,'','考古学上,考古學上 [kǎo gǔ xué shàng] ')).
+assert(celo(arkeologia,'','古風,古风 [gǔ fēng] ')).
+assert(celo(arkeologiisto,'arkeol1.0isto.ARKE','考古学家,考古學家 [kǎo gǔ xué jiā] ')).
+assert(celo(arkeopterigo,'arkeop.0o.ZOO','始祖鳥,始祖鸟 [shǐ zǔ niǎo] ')).
+assert(celo(arketipo,'arketip.0o.FIL','原型 [yuán xíng] ')).
+assert(celo(arĥeo,'','古細菌,古细菌 [gǔ xī jūn] ')).
+assert(celo(arkipelago,'arkipe.0o.egeamaro','愛琴海,爱琴海 [ài qín hǎi] ')).
+assert(celo(arkipelago,'arkipe.0o.insularo','列岛,列島 [liè dǎo] ')).
+assert(celo(arlekeno,'arleke.0o.bufono','傻子 [shǎ zi] ')).
+assert(celo(kantarido,'','蝥 [máo] ')).
+assert(celo(kantarido,'','蟊 [máo] ')).
+assert(celo(armaĵo,'arm.0ajxo.armilo','盔甲 [kuī jiǎ] ')).
+assert(celo(armilo,'arm.0ilo.ARM','武器 [wǔ qì] ')).
+assert(celo(armo,'arm.0o.ARM','必要手段 [bì yào shǒu duàn] ')).
+assert(celo('amasdetrua armilo','arm.amasdetrua0ilo.MIL','大破坏 [dài pò huài] ')).
+assert(celo('amasdetrua armilo','arm.amasdetrua0ilo.MIL','大規模殺傷,大规模杀伤 [dà guī mó shā shāng] ')).
+assert(celo('amasdetrua armilo','arm.amasdetrua0ilo.MIL','大規模殺傷性武器,大规模杀伤性武器 [dà guī mó shā shāng xìng wǔ qì] ')).
+assert(celo('amasdetrua armilo','arm.amasdetrua0ilo.MIL','大規模毀滅性武器,大规模毁灭性武器 [dà guī mó huǐ miè xìng wǔ qì] ')).
+assert(celo('amasdetrua armilo','arm.amasdetrua0ilo.MIL','大量毀滅性武器,大量毁灭性武器 [dà liàng huǐ miè xìng wǔ qì] ')).
+assert(celo(malarmi,'arm.mal0isen0igi.MIL','解除武装,解除武裝 [jiě chú wǔ zhuāng] ')).
+assert(celo(malarmi,'arm.mal0isen0igi.MIL','放下武器 [fàng xia wǔ qì] ')).
+assert(celo(armaturo,'','操作面板 [cāo zuò miàn bǎn] ')).
+assert(celo(armaturo,'','甲冑,甲胄 [jiǎ zhòu] ')).
+assert(celo(armaturo,'','脚手架,腳手架 [jiǎo shǒu jià] ')).
+assert(celo(armaturo,'','防卫器官,防衛器官 [fáng wèi qì guān] ')).
+assert(celo(armeo,'arme.0o.sxtata','兵团,兵團 [bīng tuán] ')).
+assert(celo(aerarmeo,'arme.aer0o.MIL','德国空军,德國空軍 [dé guó kōng jūn] ')).
+assert(celo('Ruĝa Armeo','','紅軍,红军 [hóng jūn] ')).
+assert(celo('Ruĝa Armeo','','苏联红军,蘇聯紅軍 [sū lián hóng jūn] ')).
+assert(celo('Savarmeo','arme.sav0o.NRO','救世军,救世軍 [jiù shì jūn] ')).
