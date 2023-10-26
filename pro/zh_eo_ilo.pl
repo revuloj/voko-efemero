@@ -46,8 +46,7 @@ csv_mankoj('pro/eo_zh_mank.csv').
 */
 
 csv_hande('pro/handedict_nb.u8').
-
-%csv_celo('tmp/eo_zh.csv').
+csv_celo('vrt/eo_zh.csv').
 db_celo('pro/eo_zh.db').
 
 
@@ -64,7 +63,16 @@ legu :-
     csv_hande(H), format('legante ~w...~n',H),
     legu_csv(hande, H, [separator(0'/),ignore_quotes(true),skip_header('#'),match_arity(false)]),
     hande_redukt.
-    
+
+% skribas kolektiajn en celo tradukojn al CSV-dosiero
+skribu :-
+    csv_celo(Cel),
+    setup_call_cleanup(
+        open(Cel, write, Out),
+        forall(celo(Eo,Mrk,Zh),
+               csv_write_stream(Out,[row(Eo,Mrk,Zh)],[separator(0';)])),
+        close(Out)).    
+
 % legas CSV-dosieron kaj kreas faktojn    
 legu_csv(Pred,Dos,Opt) :-    
     csv_read_file(Dos, Dat, Opt),
