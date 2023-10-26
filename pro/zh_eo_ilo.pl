@@ -182,8 +182,8 @@ seo(Eo,Mrk,N,N1) :-
 proponoj_eo(Eo,Max) :-
     call_nth(manko_grup(Eo,Mrk,Tradukita,LOfc,LDe),N),
     retractall(propono(N,_,_,_,_)),
-    atomic_list_concat(LDe,',',SDe),
-    atomic_list_concat(LOfc,',',SOfc),    
+    atomic_list_concat(LDe,', ',SDe),
+    atomic_list_concat(LOfc,', ',SOfc),    
     trad_stat(Tradukita,TStat),    
     format('~d~w ~w [~w] (~w) ~w~n',[N,TStat,Eo,Mrk,SOfc,SDe]),
     proponoj_de(SDe,Max,N,Eo,Mrk).

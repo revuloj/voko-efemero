@@ -1822,3 +1822,414 @@ assert(celo(atrakcio,'atrakci.0o.TEA','精彩節目,精彩节目 [jīng cǎi ji�
 assert(celo(atrakcio,'atrakci.0o.TEA','惹眼之物 [rě yǎn zhī wù] ')).
 assert(celo(atrakcio,'atrakci.0o.TEA','有趣之物 [yǒu qù zhī wù] ')).
 assert(celo(atrakcio,'atrakci.0o.TEA','旅游胜地,旅遊勝地 [lǚ yóu shèng dì] ')).
+assert(celo(atribui,'atribu.0i.imputi','出乎 [chū hū] ')).
+assert(celo(atribui,'','审结,審結 [shěn jié] ')).
+assert(celo(atribui,'','比例分配 [bǐ lì fēn pèi] ')).
+assert(celo(atributo,'atribu1.0o.GRA','定語,定语 [dìng yǔ] ')).
+assert(celo(atributo,'atribu1.0o.KOMUNE','属性,屬性 [shǔ xìng] ')).
+assert(celo(atributo,'atribu1.0o.KOMUNE','档案属性,檔案屬性 [dàng àn shǔ xìng] ')).
+assert(celo(atrofiiĝi,'atrofi.0igxi.MED','渐渐枯萎,漸漸枯萎 [jiàn jiàn kū wěi] ')).
+assert(celo(atrofiiĝi,'atrofi.0igxi.MED','失去生活乐趣,失去生活樂趣 [shī qù shēng huó lè qù] ')).
+assert(celo(atrofiiĝi,'atrofi.0igxi.MED','已萎縮,已萎缩 [yǐ wēi suō] ')).
+assert(celo(atrofiiĝi,'atrofi.0igxi.MED','荒废,荒廢 [huāng fèi] ')).
+assert(celo(atrofio,'atrofi.0o.MED','发育停止,發育停止 [fā yù tíng zhǐ] ')).
+assert(celo(atuto,'atut.0o.SPO','更大的牌 [gèng dà de pái] ')).
+assert(celo(atuto,'atut.0o.SPO','决定性的一手,決定性的一手 [jué dìng xìng de yī shǒu] ')).
+assert(celo(atuto,'atut.0o.SPO','王牌 [wáng pái] ')).
+assert(celo(atuti,'','翻底牌 [fān dǐ pái] ')).
+assert(celo(superatuti,'','出更大的牌 [chū gèng dà de pái] ')).
+assert(celo(superatuti,'','出王牌 [chū wáng pái] ')).
+assert(celo(superatuti,'','勝過,胜过 [shèng guò] ')).
+assert(celo(superatuti,'','舀 [yǎo] ')).
+assert(celo(superatuti,'','喊价高于,喊價高於 [hǎn jià gāo yú] ')).
+assert(celo(superatuti,'','优于,優於 [yōu yú] ')).
+assert(celo(aŭdilo,'auxd.0ilo.ELE','听筒,聽筒 [tīng tǒng] ')).
+assert(celo(aŭdilo,'auxd.0ilo.ELE','电话听筒,電話聽筒 [diàn huà tīng tǒng] ')).
+assert(celo(aŭdpovo,'auxd.0povo.SEN','听觉,聽覺 [tīng jué] ')).
+assert(celo(aŭdpovo,'auxd.0povo.SEN','兽耳,獸耳 [shòu ěr] ')).
+assert(celo(aŭdpovo,'auxd.0povo.SEN','听官,聽官 [tīng guān] ')).
+assert(celo(aŭdpovo,'auxd.0povo.SEN','听力,聽力 [tīng lì] ')).
+assert(celo(kapaŭdilo,'auxd.kap0ilo.ELE','耳机,耳機 [ěr jī] ')).
+assert(celo(kapaŭdilo,'auxd.kap0ilo.ELE','耳筒 [ěr tǒng] ')).
+assert(celo(kapaŭdilo,'auxd.kap0ilo.ELE','听筒,聽筒 [tīng tǒng] ')).
+assert(celo(neaŭdita,'auxd.ne0ita.ignorata','沒聽到,没听到 [méi tīng dào] ')).
+assert(celo(neaŭdita,'auxd.ne0ita.ignorata','前所未聞,前所未闻 [qián suǒ wèi wén] ')).
+assert(celo(neaŭdita,'auxd.ne0ita.ignorata','听不到,聽不到 [tīng bu dào] ')).
+assert(celo(neaŭdita,'auxd.ne0ita.ignorata','聞所未聞,闻所未闻 [wén suǒ wèi wén] ')).
+assert(celo(neaŭdita,'auxd.ne0ita.neordinara','艰苦卓越,艱苦卓越 [jiān kǔ zhuó yuè] ')).
+assert(celo(neaŭdita,'auxd.ne0ita.neordinara','岂有此理,豈有此理 [qǐ yǒu cǐ lǐ] ')).
+assert(celo(neaŭdita,'auxd.ne0ita.neordinara','史无前例,史無前例 [shǐ wú qián lì] ')).
+assert(celo(aŭdaci,'','冒風險,冒风险 [mào fēng xiǎn] ')).
+assert(celo(aŭdaco,'','厚脸皮,厚臉皮 [hòu liǎn pí] ')).
+assert(celo(aŭdaco,'','气魄,氣魄 [qì pò] ')).
+assert(celo(aŭdaco,'','勇敢 [yǒng gǎn] ')).
+assert(celo(aŭdaco,'','无耻,無恥 [wú chǐ] ')).
+assert(celo(aŭdaco,'','魯莽,鲁莽 [lǔ mǎng] ')).
+assert(celo(aŭditorio,'auxdit.0o.ARKI','大學教室 [dà xué jiào shì] ')).
+assert(celo(aŭditorio,'auxdit.0o.ARKI','大教室 [dà jiào shì] ')).
+assert(celo(aŭguri,'','預知,预知 [yù zhī] ')).
+assert(celo(aŭguri,'','卜 [bǔ] ')).
+assert(celo(aŭguri,'','推断,推斷 [tuī duàn] ')).
+assert(celo(aŭguri,'','佔,占 [zhān] ')).
+assert(celo(aŭguri,'','占卜 [zhān bǔ] ')).
+assert(celo(aŭguri,'','千里眼 [qiān lǐ yǎn] ')).
+assert(celo(aŭguristo,'auxgur.0isto.DIV','算命者 [suàn mìng zhě] ')).
+assert(celo(aŭguristo,'auxgur.0isto.DIV','預言者,预言者 [yù yán zhě] ')).
+assert(celo(aŭguristo,'auxgur.0isto.DIV','占卜者 [zhān bǔ zhě] ')).
+assert(celo(aŭguristo,'','有洞察力的人 [yǒu dòng chá lì de rén] ')).
+assert(celo(aŭguro,'','卜 [bǔ] ')).
+assert(celo(aŭguro,'','前兆 [qián zhào] ')).
+assert(celo('Aŭgusto','auxgus1.0o.NOM','奥古斯塔,奧古斯塔 [ào gǔ sī tǎ] ')).
+assert(celo('Aŭgusto','auxgus1.0o.NOM','奥古斯特,奧古斯特 [ào gǔ sī tè] ')).
+assert(celo(aŭkciisto,'auxkci.0isto.EKON','拍卖商,拍賣商 [pāi mài shāng] ')).
+assert(celo(aŭkcio,'auxkci.0o.EKON','拍卖,拍賣 [pāi mài] ')).
+assert(celo(aŭkcio,'auxkci.0o.EKON','公开销售,公開銷售 [gōng kāi xiāo shòu] ')).
+assert(celo(aŭkcio,'auxkci.0o.EKON','官卖,官賣 [guān mài] ')).
+assert(celo(aŭkcii,'','拍卖,拍賣 [pāi mài] ')).
+assert(celo(aŭlo,'auxl.0o.ARKI','礼堂,禮堂 [lǐ táng] ')).
+assert(celo(aŭreolo,'auxreo.0o.REL','日月晕,日月暈 [rì yuè yùn] ')).
+assert(celo(aŭreolo,'auxreo.0o.REL','灵光,靈光 [líng guāng] ')).
+assert(celo(aŭriklo,'auxrik.0o.orelo','外耳 [wài ěr] ')).
+assert(celo(aŭroro,'auxror.0o.AST','极光,極光 [jí guāng] ')).
+assert(celo(aŭroro,'auxror.0o.KAL','曙光 [shù guāng] ')).
+assert(celo(aŭroro,'auxror.0o.KAL','早霞 [zǎo xiá] ')).
+assert(celo(aŭroro,'auxror.0o.KAL','朝霞 [zhāo xiá] ')).
+assert(celo(aŭskultanto,'auxsku.0anto.iu','听者,聽者 [tīng zhě] ')).
+assert(celo(aŭskulti,'auxsku.0i.FIG','收听,收聽 [shōu tīng] ')).
+assert(celo(aŭskulti,'auxsku.0i.FIG','聆 [líng] ')).
+assert(celo(aŭskulti,'auxsku.0i.FIG','所聞,所闻 [suǒ wén] ')).
+assert(celo(aŭskulti,'auxsku.0i.FIG','听允,聽允 [tīng yǔn] ')).
+assert(celo(aŭskulti,'auxsku.0i.FIG','注意听,注意聽 [zhù yì tīng] ')).
+assert(celo(aŭskulti,'auxsku.0i.FIG','倾听,傾聽 [qīng tīng] ')).
+assert(celo(aŭskulti,'auxsku.0i.FIG','属于,屬於 [shǔ yú] ')).
+assert(celo(aŭskulti,'auxsku.0i.KOMUNE','洗耳而听,洗耳而聽 [xǐ ěr ér tīng] ')).
+assert(celo(aŭskulti,'auxsku.0i.KOMUNE','洗耳恭听,洗耳恭聽 [xǐ ěr gōng tīng] ')).
+assert(celo(aŭskulti,'auxsku.0i.KOMUNE','聆 [líng] ')).
+assert(celo(aŭskulti,'auxsku.0i.KOMUNE','所聞,所闻 [suǒ wén] ')).
+assert(celo(aŭskulti,'auxsku.0i.KOMUNE','听允,聽允 [tīng yǔn] ')).
+assert(celo(aŭskulti,'auxsku.0i.KOMUNE','注意听,注意聽 [zhù yì tīng] ')).
+assert(celo(aŭskultilo,'','电话听筒,電話聽筒 [diàn huà tīng tǒng] ')).
+assert(celo(aŭskultilo,'','听筒,聽筒 [tīng tǒng] ')).
+assert(celo(kapaŭskultilo,'auxsku.kap0ilo.ELE','耳机,耳機 [ěr jī] ')).
+assert(celo(kapaŭskultilo,'auxsku.kap0ilo.ELE','耳筒 [ěr tǒng] ')).
+assert(celo(fiksaŭskulti,'','垂听,垂聽 [chuí tīng] ')).
+assert(celo(subaŭskulti,'auxsku.sub0i.KOMUNE','偷听,偷聽 [tōu tīng] ')).
+assert(celo(subaŭskulti,'','监听,監聽 [jiān tīng] ')).
+assert(celo(subaŭskulti,'','听取,聽取 [tīng qǔ] ')).
+assert(celo(subaŭskulti,'','窃听,竊聽 [qiè tīng] ')).
+assert(celo(aŭspicio,'auxspi.0o.DIV','前兆 [qián zhào] ')).
+assert(celo('Aŭstrujo','auxstr.A0ujo.GEOG','奥地利,奧地利 [ào dì lì] ')).
+assert(celo('Aŭstralio','auxstr1.A0o.kontinento','澳大利亚,澳大利亞 [ào dà lì yà] ')).
+assert(celo(aŭstralopiteko,'auxstralopitek.0o.PRA','露西 [lòu xī] ')).
+assert(celo(aŭstralopiteko,'auxstralopitek.0o.PRA','澳元 [ào yuán] ')).
+assert(celo(aŭstralopiteko,'auxstralopitek.0o.PRA','南方古猿 [nán fāng gǔ yuán] ')).
+retract(celo(aŭstralopiteko,'auxstralopitek.0o.PRA','澳元 [ào yuán] ')).
+assert(celo('Aŭstrio','auxstri.A0o.GEOG','奥地利,奧地利 [ào dì lì] ')).
+assert(celo('Aŭstrio','auxstri.A0o.GEOG','奥地利共和国,奧地利共和國 [ào dì lì gòng hé guó] ')).
+assert(celo(aŭtejo,'auxt.0ejo.AUT','車場,车场 [chē chǎng] ')).
+assert(celo(aŭtejo,'auxt.0ejo.AUT','車位,车位 [chē wèi] ')).
+assert(celo(aŭti,'auxt.0i.AUT','駕車,驾车 [jià chē] ')).
+assert(celo(aŭti,'auxt.0i.AUT','坐車,坐车 [zuò chē] ')).
+assert(celo(aŭti,'auxt.0i.AUT','坐車去,坐车去 [zuò chē qù] ')).
+assert(celo(aŭtisto,'auxt.0isto.AUT','常坐汽車者,常坐汽车者 [cháng zuò qì chē zhě] ')).
+assert(celo(aŭtisto,'auxt.0isto.AUT','乘坐汽車的人,乘坐汽车的人 [chéng zuò qì chē de rén] ')).
+assert(celo(aŭtisto,'auxt.0isto.AUT','汽車司機,汽车司机 [qì chē sī jī] ')).
+assert(celo(aŭto,'','汽車,汽车 [qì chē] ')).
+assert(celo(loĝaŭto,'auxt.logx0o.AUT','大篷車,大篷车 [dà péng chē] ')).
+assert(celo(loĝaŭto,'auxt.logx0o.AUT','活动房屋,活動房屋 [huó dòng fáng wū] ')).
+assert(celo(loĝaŭto,'auxt.logx0o.AUT','露營車,露营车 [lù yíng chē] ')).
+assert(celo(ŝarĝaŭto,'auxt.sxargx0o.AUT','載重汽車,载重汽车 [zài zhòng qì chē] ')).
+assert(celo(ŝarĝaŭto,'auxt.sxargx0o.AUT','大型貨車,大型货车 [dà xíng huò chē] ')).
+assert(celo(ŝarĝaŭto,'auxt.sxargx0o.AUT','卡車,卡车 [kǎ chē] ')).
+assert(celo(ŝarĝaŭtisto,'auxt.sxargx0isto.TRA','卡車司機,卡车司机 [kǎ chē sī jī] ')).
+assert(celo(terenaŭto,'auxt.teren0o.AUT','越野車,越野车 [yuè yě chē] ')).
+assert(celo(aŭtentika,'auxten.0a.KOMUNE','被認證,被认证 [bèi rèn zhèng] ')).
+assert(celo(aŭtentika,'auxten.0a.KOMUNE','道地 [dào dì] ')).
+assert(celo(aŭtentika,'auxten.0a.KOMUNE','真正地 [zhēn zhèng de] ')).
+assert(celo(aŭtentikeco,'auxten.0eco.KOMUNE','创作力,創作力 [chuàng zuò lì] ')).
+assert(celo(aŭtentikigi,'auxten.0igi.KOMUNE','确认个人,確認個人 [què rèn gè rén] ')).
+assert(celo(aŭtentikigi,'auxten.0igi.KOMUNE','真实身份,真實身份 [zhēn shí shēn fèn] ')).
+assert(celo(malaŭtentika,'auxten.mal0a.KOMUNE','伪,偽 [wěi] ')).
+assert(celo(aŭtismo,'auxtism.0o.MED','自閉症,自闭症 [zì bì zhèng] ')).
+assert(celo(aŭtismo,'auxtism.0o.MED','自閉癥,自闭症 [zì bì zhèng] ')).
+assert(celo(aŭtismo,'auxtism.0o.MED','选择性缄默症,選擇性緘默症 [xuǎn zé xìng jiān mò zhèng] ')).
+retract(celo(aŭtismo,'auxtism.0o.MED','选择性缄默症,選擇性緘默症 [xuǎn zé xìng jiān mò zhèng] ')).
+assert(celo(aŭtobiografio,'auxtob.0o.membiografio','亲笔,親筆 [qīn bǐ] ')).
+assert(celo(aŭtobuso,'auxtob1.0o.AUT','客車,客车 [kè chē] ')).
+assert(celo(aŭtobuso,'auxtob1.0o.AUT','公共汽車,公共汽车 [gōng gòng qì chē] ')).
+assert(celo(aŭtobuso,'auxtob1.0o.AUT','游览车,遊覽車 [yóu lǎn chē] ')).
+assert(celo(aŭtobuso,'auxtob1.0o.AUT','气车,氣車 [qì chē] ')).
+assert(celo(aŭtodidakto,'auxtod1.0o.memlernanto','草根艺人,草根藝人 [cǎo gēn yì rén] ')).
+assert(celo(aŭtodidakto,'auxtod1.0o.memlernanto','自主学习,自主學習 [zì zhǔ xué xí] ')).
+assert(celo(aŭtodidakto,'auxtod1.0o.memlernanto','自学者,自學者 [zì xué zhě] ')).
+assert(celo(aŭtografo,'','签名,簽名 [qiān míng] ')).
+assert(celo(aŭtografo,'','題名,题名 [tí míng] ')).
+assert(celo(aŭtografo,'','題字,题字 [tí zì] ')).
+assert(celo(aŭtoĥtona,'auxtohxton.0a.ETN','土产,土產 [tú chǎn] ')).
+assert(celo(aŭtoĥtono,'auxtohxton.0o.ETN','当地人,當地人 [dāng dì rén] ')).
+assert(celo(aŭtomata,'auxtom.0a.FIG','自然而然 [zì rán ér rán] ')).
+assert(celo(aŭtomata,'auxtom.0a.MAS','全自动,全自動 [quán zì dòng] ')).
+assert(celo(aŭtomato,'auxtom.0o.KOMP','图灵机,圖靈機 [tú líng jī] ')).
+assert(celo(bankaŭtomato,'auxtom.bank0o.KOMUNE','取款机,取款機 [qǔ kuǎn jī] ')).
+assert(celo(bankaŭtomato,'auxtom.bank0o.KOMUNE','去款机,去款機 [qù kuǎn jī] ')).
+assert(celo(bankaŭtomato,'auxtom.bank0o.KOMUNE','提款机,提款機 [tí kuǎn jī] ')).
+assert(celo(bankaŭtomato,'auxtom.bank0o.KOMUNE','自动柜员机,自動櫃員機 [zì dòng guì yuán jī] ')).
+assert(celo(bankaŭtomato,'auxtom.bank0o.KOMUNE','自动取款机,自動取款機 [zì dòng qǔ kuǎn jī] ')).
+assert(celo(bankaŭtomato,'auxtom.bank0o.KOMUNE','自动提款机,自動提款機 [zì dòng tí kuǎn jī] ')).
+assert(celo(aŭtomobilisto,'auxtom1.0isto.auxtisto','汽車司機,汽车司机 [qì chē sī jī] ')).
+assert(celo(aŭtomobilo,'auxtom1.0o.AUT','汽車,汽车 [qì chē] ')).
+assert(celo(aŭtomatiko,'','自动化装置,自動化裝置 [zì dòng huà zhuāng zhì] ')).
+assert(celo(aŭtomatiko,'','自动控制,自動控制 [zì dòng kòng zhì] ')).
+assert(celo(aŭtomatiko,'','自动操作,自動操作 [zì dòng cāo zuò] ')).
+assert(celo(aŭtonoma,'auxton.0a.POL','独立,獨立 [dú lì] ')).
+assert(celo(aŭtonoma,'auxton.0a.POL','自治 [zì zhì] ')).
+assert(celo(aŭtonoma,'auxton.0a.TEK','自动导向的,自動導向的 [zì dòng dǎo xiàng de] ')).
+assert(celo(aŭtonoma,'auxton.0a.TEK','自主操縱的,自主操纵的 [zì zhǔ cāo zòng de] ')).
+assert(celo(aŭtonomeco,'auxton.0eco.POL','自給自足,自给自足 [zì jǐ zì zú] ')).
+assert(celo(aŭtonomeco,'auxton.0eco.POL','自營,自营 [zì yíng] ')).
+assert(celo(aŭtonomeco,'auxton.0eco.POL','自治 [zì zhì] ')).
+assert(celo(aŭtonomeco,'auxton.0eco.POL','自治权,自治權 [zì zhì quán] ')).
+assert(celo(aŭtonomeco,'auxton.0eco.POL','自主 [zì zhǔ] ')).
+assert(celo(aŭtonomio,'auxton1.0o.POL','自治权,自治權 [zì zhì quán] ')).
+assert(celo(aŭtonomio,'auxton1.0o.POL','自主 [zì zhǔ] ')).
+assert(celo(aŭtonomio,'auxton1.0o.POL','自給自足,自给自足 [zì jǐ zì zú] ')).
+assert(celo(aŭtopsio,'auxtopsi.0o.nekropsio','解剖 [jiě pǒu] ')).
+assert(celo(aŭtopsio,'auxtopsi.0o.nekropsio','尸检,尸檢 [shī jiǎn] ')).
+assert(celo(aŭtopsio,'auxtopsi.0o.nekropsio','尸体剖检,尸體剖檢 [shī tǐ pōu jiǎn] ')).
+assert(celo(aŭtori,'auxtor.0i.JUR','編寫,编写 [biān xiě] ')).
+assert(celo(aŭtori,'auxtor.0i.JUR','撰,譔 [zhuàn] ')).
+assert(celo(aŭtori,'auxtor.0i.JUR','編著,编著 [biān zhù] ')).
+assert(celo(aŭtori,'auxtor.0i.JUR','著作 [zhù zuò] ')).
+assert(celo(aŭtoro,'auxtor.0o.FIG','创造主,創造主 [chuàng zào zhǔ] ')).
+assert(celo(aŭtoro,'auxtor.0o.FIG','创始者,創始者 [chuàng shǐ zhě] ')).
+assert(celo(aŭtoro,'auxtor.0o.FIG','着作人,著作人 [zhù zuò rén] ')).
+assert(celo(aŭtoro,'auxtor.0o.JUR','著作权人,著作權人 [zhù zuò quán rén] ')).
+assert(celo(aŭtoro,'auxtor.0o.JUR','作者 [zuò zhě] ')).
+assert(celo(kunaŭtoro,'auxtor.kun0o.JUR','合着者,合著者 [hé zhuó zhě] ')).
+assert(celo(kunaŭtoro,'auxtor.kun0o.JUR','共同執筆者,共同执笔者 [gòng tóng zhí bǐ zhě] ')).
+assert(celo(aŭtoritata,'auxtor1.0a.kompetenta','权威性,權威性 [quán wēi xìng] ')).
+assert(celo(aŭtoritata,'auxtor1.0a.ordonpova','独裁主义,獨裁主義 [dú cái zhǔ yì] ')).
+assert(celo(aŭtoritatismo,'auxtor1.0ismo.POL','权威主义,權威主義 [quán wēi zhǔ yì] ')).
+assert(celo(aŭtoritato,'auxtor1.0o.havanto','当政者,當政者 [dāng zhèng zhě] ')).
+assert(celo(aŭtoritato,'auxtor1.0o.havanto','強人,强人 [qiáng rén] ')).
+assert(celo(aŭtoritato,'auxtor1.0o.havanto','当权者,當權者 [dāng quán zhě] ')).
+assert(celo(aŭtoritato,'auxtor1.0o.havanto','統治者,统治者 [tǒng zhì zhē] ')).
+assert(celo(aŭtoritato,'auxtor1.0o.potenco','权威人士,權威人士 [quán wēi rén shì] ')).
+assert(celo(aŭtoritato,'auxtor1.0o.potenco','威望 [wēi wàng] ')).
+assert(celo(aŭtoritato,'auxtor1.0o.morala','体面,體面 [tǐ miàn] ')).
+assert(celo(aŭtuna,'auxtun.0a.KAL','秋色 [qiū sè] ')).
+assert(celo(aŭtuno,'auxtun.0o.KAL','秋季 [qiū jì] ')).
+assert(celo(aŭtuno,'auxtun.0o.KAL','秋天 [qiū tiān] ')).
+assert(celo(aŭtuno,'auxtun.0o.KAL','葡萄採摘,葡萄采摘 [pú táo cǎi zhāi] ')).
+assert(celo(aŭtuno,'auxtun.0o.KAL','衰落期 [shuāi luò qī] ')).
+assert(celo(aŭtuno,'auxtun.0o.KAL','秋 [qiū] ')).
+assert(celo('Aŭvernjo','auxvernj.0o.regiono','奥弗涅,奧弗涅 [ào fú niè] ')).
+assert(celo(avino,'av.0ino.patra','婆 [pó] ')).
+assert(celo(avino,'av.0ino.patra','姥 [lǎo] ')).
+assert(celo(avo,'av.0o.patra','大爷,大爺 [dà yé] ')).
+assert(celo(avo,'av.0o.patra','爷,爺 [yé] ')).
+assert(celo(geavoj,'av.ge0oj.GEN','外公外婆 [wài gōng wài pó] ')).
+assert(celo(geavoj,'av.ge0oj.GEN','祖父母 [zǔ fù mǔ] ')).
+assert(celo(praavino,'av.pra0ino.GEN','太婆 [tài pó] ')).
+assert(celo(praavino,'av.pra0ino.GEN','父母的祖母 [fù mǔ de zǔ mǔ] ')).
+assert(celo(praavino,'av.pra0ino.GEN','老祖母 [lǎo zǔ mǔ] ')).
+assert(celo(praavino,'av.pra0ino.GEN','太奶奶 [tài nǎi nai] ')).
+assert(celo(praavino,'av.pra0ino.GEN','太祖母 [tài zǔ mǔ] ')).
+assert(celo(praavo,'av.pra0o.GEN','太爷爷,太爺爺 [tài yé yé] ')).
+assert(celo(avanci,'avanc.0i.MIL','推进,推進 [tuī jìn] ')).
+assert(celo(avanci,'avanc.0i.POL','升职,升職 [shēng zhí] ')).
+assert(celo(avanci,'avanc.0i.POL','升任,陞任 [shēng rèn] ')).
+assert(celo(avanci,'avanc.0i.POL','晉,晋 [jìn] ')).
+assert(celo(avangarda,'avanga.0a.FIG','前卫,前衛 [qián wèi] ')).
+assert(celo(avangarda,'avanga.0a.FIG','先进,先進 [xiān jìn] ')).
+assert(celo(avangardo,'avanga.0o.FIG','先鋒派,先锋派 [xiān fēng pài] ')).
+assert(celo(avangardo,'avanga.0o.FIG','时尚风向标,時尚風向標 [shí shàng fēng xiàng biāo] ')).
+assert(celo(avangardo,'avanga.0o.MIL','先鋒隊,先锋队 [xiān fēng duì] ')).
+assert(celo(avangardo,'avanga.0o.MIL','先鋒,先锋 [xiān fēng] ')).
+assert(celo(avara,'avar.0a.egoisma','抠门,摳門 [kōu mén] ')).
+assert(celo(avara,'avar.0a.egoisma','婪 [lán] ')).
+assert(celo(avara,'avar.0a.egoisma','吝 [lìn] ')).
+assert(celo(avara,'avar.0a.egoisma','悭,慳 [qiān] ')).
+assert(celo(avara,'avar.0a.egoisma','抠,摳 [kōu] ')).
+assert(celo(avara,'avar.0a.egoisma','抠门儿,摳門兒 [kōu mén ēr] ')).
+assert(celo(avara,'avar.0a.egoisma','如饑似渴,如饥似渴 [rú jī sì kě] ')).
+assert(celo(avara,'avar.0a.egoisma','啬,嗇 [sè] ')).
+assert(celo(avara,'avar.0a.FIG','小气,小氣 [xiǎo qì] ')).
+assert(celo(avara,'avar.0a.feticxisma','婪 [lán] ')).
+assert(celo(avara,'avar.0a.feticxisma','一毛不拔 [yī máo bù bá] ')).
+assert(celo(avataro,'avatar.0o.KOMP','紙娃娃系統,纸娃娃系统 [zhǐ wá wá xì tǒng] ')).
+assert(celo(avataro,'avatar.0o.HIN','阿梵达,阿梵達 [ā fàn dá] ')).
+assert(celo(avataro,'avatar.0o.FIG','具体化替身,具體化替身 [jù tǐ huà tì shēn] ')).
+assert(celo(avelo,'avel.0o.nukso','榛果 [zhēn guǒ] ')).
+assert(celo(avelo,'avel.0o.nukso','榛仁 [zhēn rén] ')).
+assert(celo(avelo,'avel.0o.planto','榛 [zhēn] ')).
+assert(celo(aventurema,'','有进取心,有進取心 [yǒu jìn qǔ xīn] ')).
+assert(celo(aventurema,'','有事业心,有事業心 [yǒu shì yè xīn] ')).
+assert(celo(aventuristo,'aventu.0isto.KOMUNE','冒险家,冒險家 [mào xiǎn jiā] ')).
+assert(celo(aventuristo,'aventu.0isto.KOMUNE','女冒险家,女冒險家 [nǚ mào xiǎn jiā] ')).
+assert(celo(aventuristo,'aventu.0isto.KOMUNE','女騙徒,女骗徒 [nǚ piàn tú] ')).
+assert(celo(aventuristo,'aventu.0isto.KOMUNE','騙徒,骗徒 [piàn tú] ')).
+assert(celo(aventuristo,'aventu.0isto.KOMUNE','投机者,投機者 [tóu jī zhě] ')).
+assert(celo(aventuristo,'aventu.0isto.KOMUNE','探险家,探險家 [tàn xiǎn jiā] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','刺激經歷,刺激经历 [cì jī jīng lì] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','敢为,敢為 [gǎn wéi] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','冒险尝试,冒險嘗試 [mào xiǎn cháng shì] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','冒险心,冒險心 [mào xiǎn xīn] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','冒险者,冒險者 [mào xiǎn zhě] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','冒着危险,冒著危險 [mào zhuó wēi xiǎn] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','奇遇 [qí yù] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','意想不到的經驗,意想不到的经验 [yì xiǎng bù dào de jīng yàn] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','惊险,驚險 [jīng xiǎn] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','冒险,冒險 [mào xiǎn] ')).
+assert(celo(aventuro,'aventu.0o.KOMUNE','投机,投機 [tóu jī] ')).
+assert(celo(aventurulo,'aventu.0ulo.KOMUNE','冒险家,冒險家 [mào xiǎn jiā] ')).
+assert(celo(aventurulo,'aventu.0ulo.KOMUNE','女冒险家,女冒險家 [nǚ mào xiǎn jiā] ')).
+assert(celo(aventurulo,'aventu.0ulo.KOMUNE','女騙徒,女骗徒 [nǚ piàn tú] ')).
+assert(celo(aventurulo,'aventu.0ulo.KOMUNE','騙徒,骗徒 [piàn tú] ')).
+assert(celo(aventurulo,'aventu.0ulo.KOMUNE','投机者,投機者 [tóu jī zhě] ')).
+assert(celo(aventurulo,'aventu.0ulo.KOMUNE','探险家,探險家 [tàn xiǎn jiā] ')).
+assert(celo(averaĝo,'averagx.0o.MAT','百分位数,百分位數 [bǎi fēn wèi shù] ')).
+assert(celo(averaĝo,'averagx.0o.MAT','平均率 [píng jūn shuài] ')).
+assert(celo(averaĝulo,'averagx.0ulo.homo','凡胎 [fán tāi] ')).
+assert(celo(averaĝulo,'averagx.0ulo.homo','庸才 [yōng cái] ')).
+assert(celo(averaĝulo,'averagx.0ulo.homo','普通老百姓 [pǔ tōng lǎo bǎi xìng] ')).
+assert(celo(averaĝulo,'averagx.0ulo.homo','俗物 [sú wù] ')).
+assert(celo(averii,'averi.0i.SHI','受损害,受損害 [shòu sǔn hài] ')).
+assert(celo(averio,'','故障 [gù zhàng] ')).
+assert(celo(averti,'avert.0i.KOMUNE','警告 [jǐng gào] ')).
+assert(celo(averti,'avert.0i.KOMUNE','儆 [jǐng] ')).
+assert(celo(averti,'avert.0i.deadmoni','俛 [miǎn] ')).
+assert(celo(averti,'avert.0i.deadmoni','劝诫,勸誡 [quàn jiè] ')).
+assert(celo(averti,'avert.0i.deadmoni','斥 [chì] ')).
+assert(celo(averti,'avert.0i.deadmoni','敦請,敦请 [dūn qǐng] ')).
+assert(celo(averti,'avert.0i.deadmoni','諫,谏 [jiàn] ')).
+assert(celo(averti,'avert.0i.deadmoni','箴 [zhēn] ')).
+assert(celo(averti,'avert.0i.deadmoni','告誡,告诫 [gào jiè] ')).
+assert(celo(averti,'avert.0i.deadmoni','警戒 [jǐng jiè] ')).
+assert(celo(averti,'avert.0i.deadmoni','鉴,鑒 [jiàn] ')).
+assert(celo(averti,'avert.0i.deadmoni','警告 [jǐng gào] ')).
+assert(celo(averti,'avert.0i.pridangxero','儆 [jǐng] ')).
+assert(celo(averti,'avert.0i.pridangxero','警告地 [jǐng gào de] ')).
+assert(celo(averti,'avert.0i.pridangxero','劝戒,勸戒 [quàn jiè] ')).
+assert(celo(averti,'avert.0i.pridangxero','示警 [shì jǐng] ')).
+assert(celo(averti,'avert.0i.pridangxero','告急 [gào jí] ')).
+assert(celo(averti,'avert.0i.pridangxero','警 [jǐng] ')).
+assert(celo(averti,'avert.0i.pridangxero','警示 [jǐng shì] ')).
+assert(celo(averti,'avert.0i.pridangxero','警醒 [jǐng xǐng] ')).
+assert(celo(averti,'avert.0i.pridangxero','井 [jǐng] ')).
+assert(celo(averti,'avert.0i.pridangxero','戒 [jiè] ')).
+assert(celo(averti,'avert.0i.pridangxero','警覺,警觉 [jǐng jué] ')).
+assert(celo(avertilo,'avert.0ilo.KOMUNE','警告牌 [jǐng gào pái] ')).
+assert(celo(averto,'','鉴戒,鑒戒 [jiàn jiè] ')).
+assert(celo(averto,'','誡,诫 [jiè] ')).
+assert(celo(averto,'','警示 [jǐng shì] ')).
+assert(celo(averto,'','告誡,告诫 [gào jiè] ')).
+assert(celo('Avesta','avest.0a.REL','阿維斯陀語,阿维斯陀语 [ā wéi sī tuó yǔ] ')).
+assert(celo('Avesto','','阿維斯陀語,阿维斯陀语 [ā wéi sī tuó yǔ] ')).
+assert(celo(avii,'avi.0i.AVI','飛機去,飞机去 [fēi jī qù] ')).
+assert(celo(avio,'','乘人飛機,载人飞机 [chéng rén fēi jī] ')).
+assert(celo(avio,'','飛機,飞机 [fēi jī] ')).
+assert(celo(aviadi,'aviad.0i.AVI','开飞机,開飛機 [kāi fēi jī] ')).
+assert(celo(aviadilo,'aviad.0ilo.AVI','乘人飛機,载人飞机 [chéng rén fēi jī] ')).
+assert(celo(aviadilo,'aviad.0ilo.AVI','飛機,飞机 [fēi jī] ')).
+assert(celo(aviadilaro,'aviad.0ilaro.AVI','机队,機隊 [jī duì] ')).
+assert(celo(aviadilaro,'aviad.0ilaro.MIL','联队,聯隊 [lián duì] ')).
+assert(celo(aviadisto,'aviad.0isto.AVI','試飛員,试飞员 [shì fēi yuán] ')).
+assert(celo(aviadisto,'aviad.0isto.AVI','飛機駕駛員,飞机驾驶员 [fēi jī jià shǐ yuán] ')).
+assert(celo(aviadisto,'aviad.0isto.AVI','女飛機駕駛員,女飞机驾驶员 [nǚ fēi jī jià shǐ yuán] ')).
+assert(celo(aviadisto,'aviad.0isto.AVI','女飛行員,女飞行员 [nǚ fēi xíng yuán] ')).
+assert(celo(aviadisto,'aviad.0isto.AVI','駕駛員,驾驶员 [jià shǐ yuán] ')).
+assert(celo(aviado,'aviad.0o.AVI','飛行術,飞行术 [fēi xíng shù] ')).
+assert(celo(aviado,'aviad.0o.AVI','航空 [háng kōng] ')).
+assert(celo(kargaviadilo,'','运输机,運輸機 [yùn shū jī] ')).
+assert(celo(militaviadilo,'aviad.milit0ilo.AVI','战斗机,戰鬥機 [zhàn dòu jī] ')).
+assert(celo(militaviadilo,'aviad.milit0ilo.AVI','军用飞机,軍用飛機 [jūn yòng fēi jī] ')).
+assert(celo(militaviadilo,'aviad.milit0ilo.AVI','军机,軍機 [jūn jī] ')).
+assert(celo(militaviadilo,'aviad.milit0ilo.AVI','军用航空飞行器,軍用航空飛行器 [jūn yòng háng kōng fēi xíng qì] ')).
+assert(celo(militaviadilo,'aviad.milit0ilo.AVI','攻击机,攻擊機 [gōng jí jī] ')).
+assert(celo(pasaĝeraviadilo,'aviad.pasagxer0ilo.AVI','客机,客機 [kè jī] ')).
+assert(celo(pasaĝeraviadilo,'aviad.pasagxer0ilo.AVI','客运飞机,客運飛機 [kè yùn fēi jī] ')).
+assert(celo(pasaĝeraviadilo,'aviad.pasagxer0ilo.AVI','喷气发动机客机,噴氣發動機客機 [pēn qì fā dòng jī kè jī] ')).
+assert(celo(reakciaviadilo,'aviad.reakci0ilo.AVI','喷气发动机飞机,噴氣發動機飛機 [pēn qì fā dòng jī fēi jī] ')).
+assert(celo(reakciaviadilo,'aviad.reakci0ilo.AVI','喷气式飞机,噴氣式飛機 [pēn qì shì fēi jī] ')).
+assert(celo(avida,'avid.0a.KOMUNE','悁 [juàn] ')).
+assert(celo(avida,'avid.0a.KOMUNE','貪,贪 [tān] ')).
+assert(celo(avida,'avid.0a.KOMUNE','永不满足,永不滿足 [yǒng bù mǎn zú] ')).
+assert(celo(avida,'avid.0a.KOMUNE','慾壑難填,欲壑难填 [yù hè nán tián] ')).
+assert(celo(avidi,'','眼热,眼熱 [yǎn rè] ')).
+assert(celo(avidi,'','覬,觊 [jì] ')).
+assert(celo(avidi,'','嗜好 [shì hào] ')).
+assert(celo(avido,'','成瘾性,成癮性 [chéng yǐn xìng] ')).
+assert(celo(avido,'','瘾,癮 [yǐn] ')).
+assert(celo(avido,'','慾望,欲望 [yù wàng] ')).
+assert(celo(avido,'','色慾,色欲 [sè yù] ')).
+assert(celo(avido,'','食慾,食欲 [shí yù] ')).
+assert(celo(avido,'','意 [yì] ')).
+assert(celo(avido,'','肉慾,肉欲 [ròu yù] ')).
+assert(celo(gloravida,'','野心太大 [yě xīn tài dài] ')).
+assert(celo(malavida,'','慷慨 [kāng kǎi] ')).
+assert(celo(malavida,'','仁慈 [rén cí] ')).
+assert(celo(profitavida,'','愛財,爱财 [ài cái] ')).
+assert(celo(avizo,'aviz.0o.EKON','回執,回执 [huí zhí] ')).
+assert(celo(avizo,'aviz.0o.EKON','收据,收據 [shōu jù] ')).
+assert(celo(avizo,'aviz.0o.KOMUNE','提示 [tí shì] ')).
+assert(celo(avizo,'aviz.0o.KOMUNE','証明,证明 [zhèng míng] ')).
+assert(celo(avizo,'','名片 [míng piàn] ')).
+assert(celo(avizo,'','警告标志,警告標誌 [jǐng gào biāo zhì] ')).
+assert(celo(avizo,'','警訊,警讯 [jǐng xùn] ')).
+assert(celo(avizo,'','警告牌 [jǐng gào pái] ')).
+assert(celo(avizo,'','指示标志,指示標誌 [zhǐ shì biāo zhì] ')).
+assert(celo(avizo,'','路牌 [lù pái] ')).
+assert(celo(avizo,'','指示牌 [zhǐ shì pái] ')).
+assert(celo('Avogadro','avogadr.0o.PERS','阿伏伽德罗,阿伏伽德羅 [ā fú jiā dé luó] ')).
+assert(celo(avokado,'avokad.0o.KUI','鱷梨,鳄梨 [è lí] ')).
+assert(celo(avokado,'avokad.0o.KUI','酪梨 [luò lí] ')).
+assert(celo(avokado,'avokad.0o.KUI','牛油果 [niú yóu guǒ] ')).
+assert(celo(avokado,'avokad.0o.KUI','油梨 [yóu lí] ')).
+assert(celo(azeno,'azen.0o.ZOO','驢,驴 [lü] ')).
+assert(celo(azeno,'azen.0o.ZOO','驢子,驴子 [lü zi] ')).
+assert(celo(azeno,'azen.0o.ZOO','毛驢,毛驴 [máo lü] ')).
+assert(celo(azeno,'azen.0o.FIG','笨蛋 [bèn dàn] ')).
+assert(celo(azeno,'azen.0o.FIG','痴呆傻,痴獃傻 [chī dāi shǎ] ')).
+assert(celo(azeno,'azen.0o.FIG','蠢人 [chǔn rén] ')).
+assert(celo(azeno,'azen.0o.FIG','呆子 [dāi zi] ')).
+assert(celo(azeno,'azen.0o.FIG','浑人,渾人 [hún rén] ')).
+assert(celo(azeno,'azen.0o.FIG','混人 [hùn rén] ')).
+assert(celo(azeno,'azen.0o.FIG','傻蛋 [shǎ dàn] ')).
+assert(celo(azeno,'azen.0o.FIG','傻帽 [shǎ mào] ')).
+assert(celo(azeno,'azen.0o.FIG','傻冒 [shǎ mao] ')).
+assert(celo(azeno,'azen.0o.FIG','山炮 [shān pào] ')).
+assert(celo(azeno,'azen.0o.FIG','檮 [táo] ')).
+assert(celo(azeno,'azen.0o.FIG','鐵頭,铁头 [tiě tóu] ')).
+assert(celo(azeno,'azen.0o.FIG','土老冒,土老帽 [tú lǎo mao] ')).
+assert(celo(azeno,'azen.0o.FIG','愚氓 [yú méng] ')).
+assert(celo(azeno,'azen.0o.FIG','痴 [chī] ')).
+assert(celo(azeno,'azen.0o.FIG','檮杌 [táo wù] ')).
+assert(celo(azeno,'azen.0o.FIG','笨人 [bèn rén] ')).
+assert(celo(azeno,'azen.0o.FIG','傻子 [shǎ zi] ')).
+assert(celo(azero,'azer.0o.tjurko','阿塞拜疆族 [ā sài bài jiāng zú] ')).
+assert(celo(azera,'azer.0a.rilata','阿塞拜疆語,阿塞拜疆语 [ā sài bài jiāng yǔ] ')).
+assert(celo('Azerujo','azer.A0ujo.etna','阿塞拜疆 [ā sài bài jiāng] ')).
+assert(celo('Azerujo','azer.A0ujo.respubliko','阿塞拜疆共和国,阿塞拜疆共和國 [ā sài bài jiāng gòng hé guó] ')).
+assert(celo('Azerbajĝano','azerbajg.A0o.GEOG','阿塞拜疆 [ā sài bài jiāng] ')).
+assert(celo('Azerio','azeri.A0o.respubliko','阿塞拜疆共和国,阿塞拜疆共和國 [ā sài bài jiāng gòng hé guó] ')).
+assert(celo(aziano,'azi.0ano.GEOG','亚洲人,亞洲人 [yà zhōu rén] ')).
+assert(celo('Azio','azi.A0o.GEOG','亚细亚洲,亞細亞洲 [yà xì yà zhōu] ')).
+assert(celo('Azio','azi.A0o.GEOG','亚洲,亞洲 [yà zhōu] ')).
+assert(celo('Azio','azi.A0o.GEOG','泰东,泰東 [tài dōng] ')).
+assert(celo('Interna Azio','','中亚,中亞 [zhōng yà] ')).
+assert(celo('Malgranda Azio','azi.MalgrandA0o.GEOG','安那托利亚,安那託利亞 [ān nà tuō lì yà] ')).
+assert(celo('Orienta Azio','azi.OrientaA0o.GEOG','东亚,東亞 [dōng yà] ')).
+assert(celo('Orienta Azio','azi.OrientaA0o.HIS','东南亚,東南亞 [dōng nán yà] ')).
+assert(celo('Suda Azio','azi.SudaA0o.GEOG','南亚,南亞 [nán yà] ')).
+assert(celo(azilejo,'azil.0ejo.KOMUNE','收容所 [shōu róng suǒ] ')).
+assert(celo(azilejo,'azil.0ejo.KOMUNE','养育院,養育院 [yǎng yù yuàn] ')).
+assert(celo(azilejo,'azil.0ejo.KOMUNE','隐藏所,隱藏所 [yǐn cáng suǒ] ')).
+assert(celo(azilejo,'azil.0ejo.KOMUNE','救济院,救濟院 [jiù jì yuàn] ')).
+assert(celo(azili,'','庇护,庇護 [bì hù] ')).
+assert(celo(azoto,'azot.0o.elemento','氮 [dàn] ')).
+assert(celo(azoto,'azot.0o.elemento','氮气,氮氣 [dàn qì] ')).
+assert(celo(azoto,'azot.0o.elemento','淡氣 [dàn qì] ')).
+assert(celo('Azovo','azov.0o.GEOG','亚速,亞速 [yà sù] ')).
+assert(celo(azteko,'aztek.0o.ETN','阿兹特克,阿茲特克 [ā zī tè kè] ')).
+assert(celo(azteko,'aztek.0o.ETN','阿兹特克文明,阿茲特克文明 [ā zī tè kè wén míng] ')).
