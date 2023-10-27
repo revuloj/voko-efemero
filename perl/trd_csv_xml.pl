@@ -23,17 +23,11 @@ use utf8;
 binmode(STDOUT, "encoding(UTF-8)");
 
 my $debug = 0;
-my $reverse = 0; # skribo de dekstre maldekstren (ekz-e hebrea)
 
 # ĉu ni havas tri kolumnojn <eo>;<mrk>;<trd> aŭ ni havas nur eo>;<trd>
 # ni eltrovos en read_csv
 my $kun_mrk = 0;
 
-# regulesprimo por trovi klarigojn ene de tradukoj
-# ni rekonas klarigojn per teksto en rondaj krampoj
-# aŭ en angulaj/rondaj laŭ azia/japana skribo
-my $trd_klr = '(.*?)([\(（].*?[\)）])';
-my $trd_ind = '(.*?)[\[［](.*?)[\]］]';
 
 unless ($#ARGV>1) {
     print "\n=> Certigu, ke vi troviĝas en la dosierujo kie enestas la artikoloj al kiuj\n";
@@ -46,6 +40,23 @@ my $lingvo = shift @ARGV;
 my $csvfile = shift @ARGV;
 my @artikoloj = @ARGV;
 
+my $reverse = ($lingvo eq 'he'); # skribo de dekstre maldekstren (ekz-e hebrea)
+my $pr_sen_spac = ($lingvo eq 'zh'); # forigi spacojn en ĉina prononco (pinjino)
+
+# regulesprimo por trovi klarigojn ene de tradukoj
+# ni rekonas klarigojn per teksto en rondaj krampoj
+# aŭ en angulaj/rondaj laŭ azia/japana skribo
+my $trd_klr = '(.*?)([\(（].*?[\)）])';
+my $trd_pr = '(.*?)[\[［](.*?)[\]］]';
+
+
+
+my $trd_xpath = XML::LibXML::XPathExpression
+    ->new(".//trd[\@lng='$lingvo']|.//trdgrp[\@lng='$lingvo']");
+ 
+
+
+
 #$artikolo = 'tmp/abel.xml';
 #$artout = $artikolo.".out";
 #%tradukoj = (
@@ -55,7 +66,9 @@ my @artikoloj = @ARGV;
 #);
 
 my $tradukoj = read_csv($csvfile);
+dump_tradukoj() if ($debug);
 
+my $dosiero;
 my %radikoj;
 my %drvmap;
 my %mrkmap;
@@ -67,15 +80,16 @@ my $doc;
 #}
 #exit 1;
 
-my $trd_xpath = XML::LibXML::XPathExpression
-    ->new(".//trd[\@lng='$lingvo']|.//trdgrp[\@lng='$lingvo']");
- 
 for $art (@artikoloj) {
+    if ($art =~ /([a-z0-9]+)\.xml/) {
+        $dosiero = $1;
+    };
     process_art($art);
 }
 
 sub process_art {
     my $artikolo = shift;
+    
     # ni reskribas ĉion al la sama artikolo, kiam ni
     # uzas git-versiadon!
     my $artout = $artikolo; #.".out";
@@ -135,10 +149,13 @@ sub process_art {
 
     # unue trkuru ĉiujn elmentojn kun @mrk, se ni rimarkis 3-kolumn CSV
     if ($kun_mrk) {
-        for my $m (keys(%drvmap)) {
+        for my $m (keys(%mrkmap)) {
             print "mrk: |$m|...\n" if ($debug);
             my $t = $tradukoj->{$m};
-            aldonu_trd_al($m,$t) if ($t);            
+            if ($t) {
+                my $mod = aldonu_trd_al($m,$t);
+                $modified ||= $mod;            
+            }
         }
     }
 
@@ -146,7 +163,11 @@ sub process_art {
     # kaj provos aldoni la tradukojn inter la aliaj lingvoj laŭalfabete
     for my $k (keys(%drvmap)) {
         print "kap: |$k|...\n" if ($debug);
-        aldonu_trd_al($k);
+        my $t = $tradukoj->{$k};
+        if ($t) {
+            my $mod = aldonu_trd_al($k,$t);
+            $modified ||= $mod;            
+        }
     }
 
     # nur skribu, se ni efektive aldonis tradukojn, ĉar
@@ -162,72 +183,81 @@ WRITE:
 ############ helpaj funkcioj.... #############
 
 sub aldonu_trd_al {
+    # mrk/kap, tradukoj
     my $k = shift;
-    my @t = @_; # mrk/kap, tradukoj
+    my $t_ = shift;
+    # malreferenci tradukliston 
+    my @t = @$t_;
 
     my $te;
     my $el;
+    my $modified = 0;
 
-    print "- trd: $t\n" if ($debug);
+    print "- trd: ".join(',',@t)."\n" if ($debug);
 
     # markon ni rekonas per komenco de dosiernomo + punkto
-    if ($k =~ /^$artikolo\./) {
-        $el = %drvmap{$k};
-    } else {
+    if ($k =~ /^$dosiero\./) {
         $el = %mrkmap{$k};
+    } else {
+        $el = %drvmap{$k};
     }
 
-    my $inserted = 0;
-    my $ignore = 0;
+    if ($el) {
 
-    # unue ni kontrolu ĉu en la derivaĵo jam estas tradukoj de tiu lingvo
-    # se jes ni ne tuŝos ĝin.
-    my $trd_en_el = $el->find($trd_xpath);
-    
-    if ($trd_en_el) {
+        my $inserted = 0;
+        my $ignore = 0;
 
-        # se jam enestas tradukoj ni ne aldonas...
-        $ignore = 1;
-        print "!!! jam enestas trd '$lingvo' !!!\n" if ($debug);
+        # unue ni kontrolu ĉu en la derivaĵo jam estas tradukoj de tiu lingvo
+        # se jes ni ne tuŝos ĝin.
+        my $trd_en_el = $el->find($trd_xpath);
+        
+        if ($trd_en_el) {
 
-    } else {
-        # ne enestas jam tradukoj serĉu kie enŝovi la novan tradukon
+            # se jam enestas tradukoj ni ne aldonas...
+            $ignore = 1;
+            print "!!! jam enestas trd '$lingvo' !!!\n" if ($debug);
 
-        # kreu <trd> aŭ <trdgrp>
-        #my @t = split(/\s*,\s*/,$t);
-        my $te, $nl;
-        if ($#t < 1) {
-            $te = make_trd($t);            
         } else {
-            $te = make_trdgrp(@t);
-        }
-        $nl = XML::LibXML::Text->new("\n  ");
+            # ne enestas jam tradukoj serĉu kie enŝovi la novan tradukon
 
-        for $ch ($drv->childNodes()) {
-            if ($ch->nodeName eq 'trd' || $ch->nodeName eq 'trdgrp') {
-                my $l = attr($ch,'lng');
-
-                if ($l gt $lingvo) {
-                    # aldonu novajn tradukojn antaŭ la nuna
-                    $drv->insertBefore($te,$ch);
-                    $drv->insertBefore($nl,$ch);
-                    $inserted = 1;
-                    $modified = 1;
-
-                    print "+ $te\n...\n" if ($debug);
-                    last;
-                }                
-                print "  $ch\n" if ($debug);
+            # kreu <trd> aŭ <trdgrp>
+            #my @t = split(/\s*,\s*/,$t);
+            my $te, $nl;
+            if ($#t < 1) {
+                $te = make_trd(@t);            
+            } else {
+                $te = make_trdgrp(@t);
             }
-        } # for
-        if (! $inserted && ! $ignore) {
-            # aldonu fine, se ne jam antaŭe troviĝis loko por enŝovi
-            $drv->appendText("  ");
-            $drv->appendChild($te);
-            $drv->appendText("\n");
-            $modified = 1;
-        }
-    } # else
+            $nl = XML::LibXML::Text->new("\n  ");
+
+            for $ch ($el->childNodes()) {
+                if ($ch->nodeName eq 'trd' || $ch->nodeName eq 'trdgrp') {
+                    my $l = attr($ch,'lng');
+
+                    if ($l gt $lingvo) {
+                        # aldonu novajn tradukojn antaŭ la nuna
+                        $el->insertBefore($te,$ch);
+                        $el->insertBefore($nl,$ch);
+                        $inserted = 1;
+                        $modified = 1;
+
+                        print "+ $te\n...\n" if ($debug);
+                        last;
+                    }                
+                    print "  $ch\n" if ($debug);
+                }
+            } # for
+            if (! $inserted && ! $ignore) {
+                # aldonu fine, se ne jam antaŭe troviĝis loko por enŝovi
+                $el->appendText("  ");
+                $el->appendChild($te);
+                $el->appendText("\n");
+                $modified = 1;
+            }
+        } # else
+    } # if $el
+
+    return $modified;
 }
 
 # eltrovu atributon var el <rad resp. <tld
@@ -291,15 +321,21 @@ sub trd_enhavo {
     my $el = shift;
     my $txt = shift;
 
-    if ($lingvo eq 'ja') {
-        while ($txt =~ s/^$trd_ind//) {
+    if ($lingvo eq 'ja'|| $lingvo eq 'zh' || $lingvo eq 'hi') {
+        # ĉe aziaj lingvoj prononco povas esti indikita en rektaj krampoj:
+        while ($txt =~ s/^$trd_pr//) {
             $t = $1;
             $i = $2;
-            $el->appendText($t." [");
-            $ind = make_el('ind');
-            $ind->appendText($i);
-            $el->appendChild($ind);
-            $el->appendText("]");
+
+            if ($pr_sen_spac) {
+                $i =~ s/\s+//g;
+            }
+
+            $el->appendText($t." ");
+            # aldonu prononcon en id-elemento
+            $pr = make_el('pr');
+            $pr->appendText($i);
+            $el->appendChild($pr);
         }
     } else {
         while ($txt =~ s/^$trd_klr//) {
@@ -354,7 +390,7 @@ sub extract_kap {
 
 sub extract_mrk {
     my $node = shift;
-    my $mrk = $node->attributes()->getNamedItem('mrk');
+    my $mrk = attr($node,'mrk');
     $mrkmap{$mrk} = $node;
 }
 
@@ -370,20 +406,22 @@ sub read_csv {
     my $tradukoj;
 
     # aŭ ni havas tri kolumnojn <eo>;<mrk>;<trd> aŭ ni havas nur eo>;<trd>
-    $kun_mrk = scalar($recs->[0]) = 2; 
+    my $kolumnoj = (scalar @{$recs->[0]});
+    print "# kolumnoj en CSV: $kolumnoj\n" if ($debug);
+    $kun_mrk = ($kolumnoj == 3); 
 
     for $r (@$recs) {
         # s ni havas markon en la dua kolumkno ni uzos tiun kiel indekso
         my $eo; my $trd;
         if ($kun_mrk) {
-            $eo = $->[1]||$r->[0];
+            $eo = $r->[1]||$r->[0];
             $trd = $r->[2];
         } else {
             $eo = $r->[0];
             $trd = $r->[1];
         }
 
-        if ($reverse) $trd = reverse($trd);
+        $trd = reverse($trd) if ($reverse);
 
         # povas esti unu aŭ pluraj tradukoj
         my @trd = split(/\s*,\s*/,$trd);
@@ -391,15 +429,21 @@ sub read_csv {
         for my $t (@trd) {
             unless (defined $tradukoj->{$eo}) {
                 # traduklisto por tiu kap/mrk malplena, aldonu kiel unua elemento
-                $tradukoj->{$eo} = ($t);            
+                $tradukoj->{$eo} = [$t];            
             } elsif (not in_array($t,$tradukoj->{$eo} )) {
                 # ankoraŭ ne estas en la listo de tradukoj, do aldonu
-                push($tradukoj->{$eo},$t);
+                push(@{$tradukoj->{$eo}},$t);
             }
         }
     }
 
     return $tradukoj;
+}
+
+sub dump_tradukoj {
+    for $k (keys %{$tradukoj}) {
+        print "$k: ".join(',',@{$tradukoj->{$k}})."\n";
+    }
 }
 
 sub in_array {

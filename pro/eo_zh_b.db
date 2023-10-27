@@ -1,0 +1,147 @@
+created(1698404233.9453483).
+assert(celo(ba,'ba.0.miro','喔[ō]')).
+assert(celo(ba,'ba.0.miro','嗬[he]')).
+assert(celo('Babelo','babel.B0o.BIB','巴比伦[bā bǐ lún]')).
+assert(celo(babilaĉi,'babil.0acxi.KOMUNE','乱侃[luàn kǎn]')).
+assert(celo(babilaĉi,'babil.0acxi.KOMUNE','絮叨[xù dāo]')).
+assert(celo(babilaĉi,'babil.0acxi.KOMUNE','瞎扯[xiā chě]')).
+assert(celo(babilaĉi,'babil.0acxi.KOMUNE','饒舌[ráo shé]')).
+assert(celo(babilejo,'babil.0ejo.KOMP','網路聊天室[wǎng lù liáo tiān shì]')).
+assert(celo(babilejo,'babil.0ejo.KOMP','聊天室[liáo tiān shì]')).
+assert(celo(babilema,'babil.0ema.KOMUNE','哝[nóng]')).
+assert(celo(babili,'babil.0i.babilacxi','乱侃[luàn kǎn]')).
+assert(celo(babili,'babil.0i.babilacxi','聊聊[liáo liao]')).
+assert(celo(babili,'babil.0i.familiare','聊聊[liáo liao]')).
+retract(celo(babili,'babil.0i.babilacxi','聊聊[liáo liao]')).
+assert(celo(babilulo,'','大嘴巴[dà zuǐ ba]')).
+assert(celo(babilulo,'','話多的人[huà duō de rén]')).
+assert(celo(babuŝo,'babusx.0o.TEKS','蹝[xǐ]')).
+assert(celo(babuŝo,'babusx.0o.TEKS','靸[sǎ]')).
+assert(celo(bacilo,'bacil.0o.BAK','杆形細菌[gān xíng xī jūn]')).
+assert(celo(bacilo,'bacil.0o.BAK','杆菌[gǎn jūn]')).
+assert(celo(badmintono,'badminton.0o.SPO','羽毛球[yǔ máo qiú]')).
+assert(celo(bagaĝo,'bagagx.0o.TRA','旅行带[lǚ xíng dài]')).
+assert(celo(bagaĝo,'bagagx.0o.TRA','行李[xíng lǐ]')).
+assert(celo(bagaĝo,'bagagx.0o.TRA','皮箱[pí xiāng]')).
+assert(celo(bagaĝo,'bagagx.0o.TRA','行囊[xíng náng]')).
+assert(celo(bagaĝo,'bagagx.0o.TRA','行装[xíng zhuāng]')).
+assert(celo(bagatela,'bagate.0a.KOMUNE','可忽視[kě hū shì]')).
+assert(celo(bagatela,'bagate.0a.KOMUNE','可忽略[kě hū lüè]')).
+assert(celo(bagatelema,'bagate.0ema.PSI','自私[zì sī]')).
+assert(celo(bagatelema,'bagate.0ema.PSI','浅见[qiǎn jiàn]')).
+assert(celo(bagatelema,'bagate.0ema.PSI','吝啬[lìn sè]')).
+assert(celo(bagatelema,'bagate.0ema.PSI','小家子气[xiǎo jiā zi qì]')).
+assert(celo(bagatelema,'','学究式[xué jiū shì]')).
+assert(celo(bagatelema,'','咬文嚼字[yǎo wén jiáo zì]')).
+assert(celo(bagatelema,'','迂腐[yū fǔ]')).
+assert(celo(bagateli,'bagate.0i.KOMUNE','无关宏旨[wú guān hóng zhǐ]')).
+assert(celo(bagatelo,'bagate.0o.KOMUNE','脞[cuǒ]')).
+assert(celo(bagatelo,'bagate.0o.KOMUNE','雞毛蒜皮[jī máo suàn pí]')).
+assert(celo(bagatelo,'bagate.0o.KOMUNE','小事[xiǎo shì]')).
+assert(celo(bagatelo,'bagate.0o.KOMUNE','枝節[zhī jié]')).
+assert(celo('Bagdado','bagdad.B0o.urbo','巴格达[bā gé dá]')).
+assert(celo(bagno,'bagn.0o.JUR','習蓺所[xí yì suǒ]')).
+assert(celo(bahaano,'baha.0ano.REL','巴哈伊教[bā hā yī jiào]')).
+assert(celo(bahaano,'baha.0ano.REL','巴哈伊信仰[bā hā yī xìn yǎng]')).
+assert(celo('Bahao','','米尔扎侯赛因阿里[mǐ ěr zhā hóu sài yīn ā lǐ]')).
+assert(celo('Bahao','','米尔扎侯赛因阿里[mǐ ěr zhā hóu sài yin ā lǐ]')).
+assert(celo('Bahamoj','baham.0oj.GEOG','巴哈馬[bā hā mǎ]')).
+assert(celo('Bahamoj','baham.0oj.GEOG','巴哈馬群島[bā hā mǎ qún dǎo]')).
+assert(celo(bakaĵo,'bak.0ajxo.KUI','糒[bèi]')).
+assert(celo(bakaĵo,'bak.0ajxo.POT','窰[yáo]')).
+assert(celo(baki,'bak.0i.KOMUNE','烘[hōng]')).
+assert(celo(baki,'bak.0i.KOMUNE','烤乾[kǎo gān]')).
+assert(celo(bakisto,'bak.0isto.KUI','面点师[miàn diǎn shī]')).
+assert(celo(bakisto,'bak.0isto.KUI','面包工人[miàn bāo gōng rén]')).
+assert(celo(bakisto,'bak.0isto.KUI','面包师[miàn bāo shī]')).
+assert(celo(bakisto,'bak.0isto.KUI','面包师傅[miàn bāo shī fù]')).
+assert(celo(bakujo,'bak.0ujo.KOMUNE','火炉[huǒ lú]')).
+assert(celo(bakujo,'bak.0ujo.KOMUNE','炉膛[lú táng]')).
+assert(celo(bakŝiŝo,'baksxisx.0o.gratifiko','奖赏[jiǎng shǎng]')).
+assert(celo(bakŝiŝo,'baksxisx.0o.gratifiko','特別費用[tè bié fèi yòng]')).
+assert(celo(bakŝiŝo,'baksxisx.0o.gratifiko','专用款项[zhuān yòng kuǎn xiàng]')).
+assert(celo(bakterio,'bakter.0o.BAK','細菌[xī jūn]')).
+assert(celo(bakterio,'bakter.0o.BAK','細菌繁殖[xī jūn fán zhí]')).
+assert(celo(cianobakterioj,'','蓝藻[lán zǎo]')).
+assert(celo(cianobakterioj,'','蓝藻界[lán zǎo jiè]')).
+assert(celo(bakteriofago,'bakteriofag.0o.BAK','噬菌体[shì jùn tǐ]')).
+assert(celo(bakteriologo,'','細菌學家[xī jūn xué jiā]')).
+assert(celo(bakteriologiisto,'bakteriologi.0isto.SCI','細菌學家[xī jūn xué jiā]')).
+assert(celo(balaaĵo,'bala.0ajxo.balaitajxo','垃圾[lā jī]')).
+assert(celo(balai,'bala.0i.FIG','打扫[dǎ sǎo]')).
+assert(celo(balai,'bala.0i.FIG','掉向[diào xiàng]')).
+assert(celo(balai,'bala.0i.malpurajxon','掉向[diào xiàng]')).
+assert(celo(balai,'bala.0i.malpurajxon','打扫[dǎ sǎo]')).
+assert(celo(balailo,'bala.0ilo.HEJM','篲[huì]')).
+assert(celo(balailo,'bala.0ilo.HEJM','埽[sào]')).
+assert(celo(balailo,'bala.0ilo.HEJM','扫[sào]')).
+assert(celo(balailo,'bala.0ilo.HEJM','笤帚[tiáo zhou]')).
+assert(celo(balailo,'bala.0ilo.HEJM','帚[zhǒu]')).
+assert(celo(balailo,'bala.0ilo.HEJM','扫把[sào bǎ]')).
+assert(celo(balailo,'bala.0ilo.HEJM','扫帚[sào zhou]')).
+assert(celo(elbalai,'bala.el0i.FIG','扫[sǎo]')).
+assert(celo(forbalai,'bala.for0i.FIG','横扫[héng sǎo]')).
+assert(celo(forbalai,'bala.for0i.FIG','扫除[sǎo chú]')).
+assert(celo(forbalai,'bala.for0i.FIG','所向披靡[suǒ xiàng pī mǐ]')).
+assert(celo(forbalai,'bala.for0i.FIG','卷[juǎn]')).
+assert(celo(balado,'balad.0o.fiksforma','短歌[duǎn gē]')).
+assert(celo(balado,'balad.0o.fiksforma','叙事曲[xù shì qǔ]')).
+assert(celo(balado,'balad.0o.fiksforma','民謠[mín yáo]')).
+assert(celo(balalajko,'','三角琴[sān jiǎo qín]')).
+assert(celo(balano,'balan.0o.ANA','阴茎头[yīn jīng tóu]')).
+assert(celo(balanci,'balanc1.0i.MOV','盪秋千[dàng qiū qiān]')).
+assert(celo(balanci,'balanc1.0i.kapon','点头[diǎn tóu]')).
+assert(celo(balanci,'balanc1.0i.kapon','搖頭[yáo tóu]')).
+assert(celo(balanciĝi,'balanc1.0igxi.MOV','盪秋千[dàng qiū qiān]')).
+assert(celo(balancilo,'balanc1.0ilo.SPO','跷跷板[qiāo qiāo bǎn]')).
+assert(celo(balasti,'balast.0i.KOMUNE','載重[zài zhòng]')).
+assert(celo(balasto,'balast.0o.FER','道渣[dào zhā]')).
+assert(celo(balasto,'balast.0o.TEK','压载[yā zài]')).
+assert(celo(balasto,'balast.0o.TEK','鎮定[zhèn dìng]')).
+assert(celo(senbalastigi,'balast.sen0igi.KOMUNE','賑[zhèn]')).
+assert(celo(balbuti,'balbut.0i.MED','口吃[kǒu chī]')).
+assert(celo(balbuti,'balbut.0i.MED','嗫嚅[niè rú]')).
+assert(celo(balbuti,'balbut.0i.MED','巴巴結結[bā ba jie jie]')).
+assert(celo(balbuti,'balbut.0i.MED','結巴[jiē ba]')).
+assert(celo(baldakeno,'baldak.0o.TEKS','天盖[tiān gài]')).
+assert(celo(baldaŭ,'baldau.0.KOMUNE','不久之后[bù jiǔ zhī hòu]')).
+assert(celo(baldaŭ,'baldau.0.KOMUNE','快[kuài]')).
+assert(celo(baldaŭa,'baldau.0a.KOMUNE','随即[suí jí]')).
+assert(celo(baldaŭa,'baldau.0a.KOMUNE','靠近[kào jìn]')).
+assert(celo(baldaŭo,'baldau.0o.KOMUNE','近期[jìn qī]')).
+assert(celo(baleno,'balen.0o.KOMUNE','鯨魚[jīng yú]')).
+assert(celo(baleno,'balen.0o.KOMUNE','须鲸[xū jīng]')).
+assert(celo('Baleno','balen.B0o.AST','鯨魚座[jīng yú zuò]')).
+assert(celo(baleto,'balet.0o.grupo','芭蕾[bā lěi]')).
+assert(celo(baleto,'balet.0o.grupo','舞剧[wǔ jù]')).
+assert(celo(baleto,'balet.0o.teatrajxo','芭蕾舞[bā lěi wǔ]')).
+assert(celo(baleto,'balet.0o.teatrajxo','古典芭蕾[gǔ diǎn bā lěi]')).
+assert(celo('Balkano','balkan.0o.regiono','巴尔干半岛各国[bā ěr gàn bàn dǎo gè guó]')).
+assert(celo(balkono,'balkon.0o.ARKI','楼台[lóu tái]')).
+assert(celo(balkono,'balkon.0o.ARKI','凉台[liáng tái]')).
+assert(celo(balkono,'balkon.0o.ARKI','阳臺[yáng tái]')).
+assert(celo(balkono,'balkon.0o.ARKI','阳台[yáng tái]')).
+assert(celo(balono,'balon.0o.KEM','玻璃烧瓶[bō li shāo píng]')).
+assert(celo(balono,'balon.0o.KOMUNE','脑袋瓜[nǎo dài guā]')).
+assert(celo(balono,'balon.0o.KOMUNE','气罐[qì guàn]')).
+assert(celo(balono,'balon.0o.KOMUNE','气瓶[qì píng]')).
+assert(celo(balono,'balon.0o.KOMUNE','球形玻璃容器[qiú xíng bō li róng qì]')).
+assert(celo(balono,'balon.0o.KOMUNE','气球[qì qiú]')).
+assert(celo(baloti,'balot.0i.ntr','調諧[tiáo xié]')).
+assert(celo(baloto,'balot.0o.momento','調律[diào lü]')).
+assert(celo(baloto,'balot.0o.momento','投票[tuó piào]')).
+assert(celo(baloto,'balot.0o.rezulto','投票[tóu piào]')).
+assert(celo(balta,'balt.0a.Baltia','巴尔[bā ěr]')).
+assert(celo('Baltazaro','baltazar.0o.NOM','巴尔特萨[bā ěr tè sà]')).
+assert(celo(baltika,'baltik.0a.GEOG','巴尔[bā ěr]')).
+assert(celo('Baltiko','baltik.0o.GEOG','波罗的海[bō luó dì hǎi]')).
+assert(celo(balustrado,'balust1.0o.ARKI','闌[lán]')).
+assert(celo(balustrado,'balust1.0o.ARKI','栏楯[lán shǔn]')).
+assert(celo(balustrado,'balust1.0o.ARKI','闌檻[lán kǎn]')).
+assert(celo(balustrado,'balust1.0o.ARKI','栏槛[lán kǎn]')).
+assert(celo(balzami,'balzam.0i.PAR','使永存[shǐ yǒng cún]')).
+assert(celo(balzamo,'balzam.0o.PAR','香膏[xiāng gāo]')).
+assert(celo(balzamo,'balzam.0o.PAR','药水[yào shuǐ]')).
+assert(celo(balzamo,'balzam.0o.PAR','香脂[xiāng zhī]')).
+assert(celo('Bamako','bamak.0o.cxefurbo','巴馬科[bā mǎ kē]')).
+assert(celo(bambuo,'bambu.0o.BOT','篁[huáng]')).

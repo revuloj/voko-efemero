@@ -2233,3 +2233,5 @@ assert(celo(azoto,'azot.0o.elemento','淡氣 [dàn qì] ')).
 assert(celo('Azovo','azov.0o.GEOG','亚速,亞速 [yà sù] ')).
 assert(celo(azteko,'aztek.0o.ETN','阿兹特克,阿茲特克 [ā zī tè kè] ')).
 assert(celo(azteko,'aztek.0o.ETN','阿兹特克文明,阿茲特克文明 [ā zī tè kè wén míng] ')).
+assert(celo(ablacio,'ablaci.0o.GEOL','消蝕,消蚀 [xiao1 shi2] ')).
+retract(celo(ablacio,'ablaci.0o.GEOL','消蝕 消蚀 [xiao1 shi2] ')).
