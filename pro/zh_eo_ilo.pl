@@ -221,7 +221,10 @@ proponoj_de(SDe,Max,N,Eo,Mrk) :-
         (
             % N-N1 servas por poste identigi unuopan traduk-proponon, ni memoras ilin tiucele
             assertz(propono(N,N1,Eo,Mrk,Zh)),
-            format('~d-~d (~w~1f): ~w, ~w~n',[N,N1,Mtd,Simil,De1,Zh])
+            catch( % okazas iuj nevalidaj unikod-literoj !?
+                format('~d-~d (~w~1f): ~w, ~w~n',[N,N1,Mtd,Simil,De1,Zh]),
+                E,
+                writeln(E))
         )
     ).
     
