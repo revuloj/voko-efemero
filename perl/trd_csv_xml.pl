@@ -186,7 +186,7 @@ sub aldonu_trd_al {
     
     if ($trd_en_el) {
 
-        # se jam enestas tradukoj ni ne aldonas...
+        # se jam enestas iuj tradukoj ni ne aldonas...!
         $ignore = 1;
         print "!!! jam enestas trd '$lingvo' !!!\n" if ($debug);
 
