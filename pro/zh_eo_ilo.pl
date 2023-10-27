@@ -22,7 +22,9 @@
 :- dynamic manko/6, zhde/2, celo/3, propono/5.
 :- persistent celo(eo:atom, mrk: atom, zh: atom).
 
-:- initialization(writeln('Enlegu vortarojn per ''legu.'' antaŭ serĉi iujn proponojn per ''proponoj_eo(Vorto,Max).''')).
+:- initialization((
+    writeln('Enlegu vortarojn per ''legu.'' antaŭ serĉi iujn proponojn per ''proponoj_eo(Vorto,Max).''!'),nl
+    )).
 
 
 /* ricevi vortojn sen trd 'zh' kun evtl. trd 'de'
@@ -32,11 +34,11 @@
   LEFT JOIN r3trd AS de ON (de.mrk = r3mrk.mrk or de.mrk = r3mrk.drv) AND de.lng = 'de' 
   LEFT JOIN r3kap ON r3kap.mrk = r3mrk.drv 
   LEFT JOIN r3ofc ON r3kap.mrk = r3ofc.mrk
-  WHERE r3mrk.mrk like 'a%' AND ele = 'snc' AND zh.mrk IS NULL 
+  WHERE r3mrk.mrk like 'a%' AND (ele='snc' OR ele='drv') AND zh.mrk IS NULL 
+    AND (de.ekz = '' OR de.ekz is null)
   ORDER BY r3mrk.mrk LIMIT 200;
 */
 
-csv_mankoj('pro/eo_zh_mank.csv').
 
 /* HanDeDict
  vd http://www.handedict.de/chinesisch_deutsch.php?mode=dl
@@ -45,9 +47,12 @@ csv_mankoj('pro/eo_zh_mank.csv').
  kao3 ya1 ->  kǎo yā
 */
 
-csv_hande('pro/handedict_nb.u8').
-csv_celo('vrt/eo_zh.csv').
-db_celo('pro/eo_zh.db').
+csv_hande('vrt/handedict_nb.u8').
+
+% ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
+csv_mankoj('vrt/eo_de_b.csv').
+db_celo('pro/eo_zh_b.db').
+csv_celo('vrt/eo_zh_b.csv').
 
 
 legu :-
@@ -58,7 +63,7 @@ legu :-
     % legu_csv(celo, C, [separator(0';),skip_header('#')]),
 
     csv_mankoj(M), format('legante ~w...~n',M),
-    legu_csv(manko, M, [separator(0';),skip_header('#')]),
+    legu_csv(manko, M, [separator(9),skip_header('#')]), % anst. tAB vi povas uzi ekz-e punktokomon: separator(0';)
 
     csv_hande(H), format('legante ~w...~n',H),
     legu_csv(hande, H, [separator(0'/),ignore_quotes(true),skip_header('#'),match_arity(false)]),
@@ -69,9 +74,16 @@ skribu :-
     csv_celo(Cel),
     setup_call_cleanup(
         open(Cel, write, Out),
-        forall(celo(Eo,Mrk,Zh),
-               csv_write_stream(Out,[row(Eo,Mrk,Zh)],[separator(0';)])),
+        forall(
+            celo(Eo,Mrk,Zh),
+            csv_write_stream(Out,[row(Eo,Mrk,Zh)],[separator(0';)])
+        ),
         close(Out)).    
+
+skr_pr(Pr,Zh,ZhPr) :-
+    normalize_space(atom(ZhN),Zh),
+    normalize_space(atom(PrN),Pr),
+    atomic_list_concat([ZhN,PrN],ZhPr).
 
 % legas CSV-dosieron kaj kreas faktojn    
 legu_csv(Pred,Dos,Opt) :-    
@@ -319,6 +331,7 @@ ngrams(Atom,Len,NGrams) :-
 % traduku prononcon, troviĝantan inter angulaj krampoj 
 % de ciferaj sufiksoj al supersignaj
 zh_prononco(Zh, ZhPr) :-
+    % elprenu la prononcon el inter rektaj krampoj
     sub_atom(Zh,K1,1,_,'['),
     sub_atom(Zh,K2,1,_,']'),
     K2>K1, 
@@ -333,14 +346,30 @@ zh_prononco(Zh, ZhPr) :-
     atomic_list_concat(SilabS,' ',PrS),
     % remetu transformitan prononcon
     sub_atom(Zh,0,K1,_,Ant),
-    sub_atom(Zh,K2,_,0,Post),
-    zh_listo(Ant,Ant1), % forigu duoblajn metu komojn
-    atomic_list_concat([Ant1,' [',PrS,Post],ZhPr),!.
+    % ni ne atendu tekston post la prononco, cu?
+    % sub_atom(Zh,K2,_,0,Post),
 
-zh_listo(L,L1) :-
+    % forigu tradukojn duoblajn metu komojn
+    zh_listo(Ant,ZhPr,PrS),!. 
+
+zh_listo(L,L1,Pr) :-
     atomic_list_concat(Tj,' ',L),
-    setof(T,(member(T,Tj), T\= ''),T1j),
-    atomic_list_concat(T1j,',',L1).
+    % forigu evtl. duoblajn
+    setof(T1,
+        (
+            member(T,Tj), 
+            normalize_space(atom(T1),T), 
+            T1\= ''
+        ),
+        T1j),
+    % aldonu prononcon al ĉiu unuopa
+    normalize_space(atom(PrN),Pr),
+    maplist(zh_map_pr(PrN),T1j,T2j),
+    % ĉenigu kun interaj komoj
+    atomic_list_concat(T2j,',',L1).
+
+zh_map_pr(Pr,Zh,ZhPr) :-
+    atomic_list_concat([Zh,'[',Pr,']'],ZhPr).   
 
 zh_prononco_s([],[]).
 zh_prononco_s([S1|Rest],[SS1|RestS]) :-

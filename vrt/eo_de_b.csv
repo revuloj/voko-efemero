@@ -1,0 +1,2240 @@
+# mrk	kap	num	dos	ind	trd
+ba.0.miro	ba	2	NULL	oh!	
+ba.0.miro	ba	2	NULL	huch!	
+ba.0.senzorga	ba	1	NULL	pah!	
+ba.0.senzorga	ba	1	NULL	papperlapapp	
+bab.0ano.REL	babano		NULL	Babist	
+bab.0ismo.REL	Babismo		NULL	Babismus	
+bab.la0o.PERS	Babo		NULL	Bab	
+babel.B0o.BIB	Babelo		NULL	Babel	
+babel.B0o.BIB	Babelo		NULL	Babylon	
+babil.0acxi.KOMUNE	babilaĉi		NULL	quasseln	
+babil.0acxi.KOMUNE	babilaĉi		NULL	herumlabern	
+babil.0acxi.KOMUNE	babilaĉi		NULL	herumsülzen	
+babil.0acxi.KOMUNE	babilaĉi		NULL	schwafeln	
+babil.0ejo.KOMP	babilejo		NULL	Chat	Chat(room)
+babil.0ema.KOMUNE	babilema		uv_E	geschwätzig	
+babil.0ema.KOMUNE	babilema		uv_E	geschwätzig	
+babil.0ema.KOMUNE	babilema		uv_E	geschwätzig	
+babil.0ema.KOMUNE	babilema		uv_E	geschwätzig	
+babil.0ema.KOMUNE	babilema		ekz_19	geschwätzig	
+babil.0ema.KOMUNE	babilema		ekz_19	geschwätzig	
+babil.0ema.KOMUNE	babilema		ekz_19	geschwätzig	
+babil.0ema.KOMUNE	babilema		ekz_19	geschwätzig	
+babil.0ema.KOMUNE	babilema		ekz_19	geschwätzig	
+babil.0ema.KOMUNE	babilema		uv_E	schwatzhaft	
+babil.0ema.KOMUNE	babilema		uv_E	schwatzhaft	
+babil.0ema.KOMUNE	babilema		uv_E	schwatzhaft	
+babil.0ema.KOMUNE	babilema		uv_E	schwatzhaft	
+babil.0ema.KOMUNE	babilema		ekz_19	schwatzhaft	
+babil.0ema.KOMUNE	babilema		ekz_19	schwatzhaft	
+babil.0ema.KOMUNE	babilema		ekz_19	schwatzhaft	
+babil.0ema.KOMUNE	babilema		ekz_19	schwatzhaft	
+babil.0ema.KOMUNE	babilema		ekz_19	schwatzhaft	
+babil.0i.babilacxi	babili	2	ekz_19	quatschen	
+babil.0i.babilacxi	babili	2	ekz_19	quatschen	
+babil.0i.babilacxi	babili	2	ekz_19	quatschen	
+babil.0i.babilacxi	babili	2	ekz_19	quatschen	
+babil.0i.babilacxi	babili	2	ekz_19	quatschen	
+babil.0i.babilacxi	babili	2	ekz_20	quatschen	
+babil.0i.babilacxi	babili	2	ekz_19	schwatzen	
+babil.0i.babilacxi	babili	2	ekz_19	schwatzen	
+babil.0i.babilacxi	babili	2	ekz_19	schwatzen	
+babil.0i.babilacxi	babili	2	ekz_19	schwatzen	
+babil.0i.babilacxi	babili	2	ekz_19	schwatzen	
+babil.0i.babilacxi	babili	2	ekz_20	schwatzen	
+babil.0i.babilacxi	babili	2	ekz_19	plaudern	
+babil.0i.babilacxi	babili	2	ekz_19	plaudern	
+babil.0i.babilacxi	babili	2	ekz_19	plaudern	
+babil.0i.babilacxi	babili	2	ekz_19	plaudern	
+babil.0i.babilacxi	babili	2	ekz_19	plaudern	
+babil.0i.babilacxi	babili	2	ekz_20	plaudern	
+babil.0i.familiare	babili	1	ekz_19	quatschen	
+babil.0i.familiare	babili	1	ekz_19	quatschen	
+babil.0i.familiare	babili	1	ekz_19	quatschen	
+babil.0i.familiare	babili	1	ekz_19	quatschen	
+babil.0i.familiare	babili	1	ekz_19	quatschen	
+babil.0i.familiare	babili	1	ekz_20	quatschen	
+babil.0i.familiare	babili	1	ekz_19	schwatzen	
+babil.0i.familiare	babili	1	ekz_19	schwatzen	
+babil.0i.familiare	babili	1	ekz_19	schwatzen	
+babil.0i.familiare	babili	1	ekz_19	schwatzen	
+babil.0i.familiare	babili	1	ekz_19	schwatzen	
+babil.0i.familiare	babili	1	ekz_20	schwatzen	
+babil.0i.familiare	babili	1	ekz_19	plaudern	
+babil.0i.familiare	babili	1	ekz_19	plaudern	
+babil.0i.familiare	babili	1	ekz_19	plaudern	
+babil.0i.familiare	babili	1	ekz_19	plaudern	
+babil.0i.familiare	babili	1	ekz_19	plaudern	
+babil.0i.familiare	babili	1	ekz_20	plaudern	
+babil.0ulo.KOMUNE	babilulo		NULL	Schwätzer	
+babil.0ulo.KOMUNE	babilulo		NULL	Plaudertasche	
+babil.0ulo.KOMUNE	babilulo		NULL	Quatschkopf	
+babil.0ulo.KOMUNE	babilulo		NULL	Phrasendrescher	
+babil.0ulo.KOMUNE	babilulo		NULL	Labertasche	
+babil.0ulo.KOMUNE	babilulo		NULL	Plappermaul	
+babil.0ulo.KOMUNE	babilulo		NULL	Quasselstrippe	
+babil.ret0ejo.KOMP	retbabilejo		NULL	Chat	Chat (online)
+babiru.0o.genro	babiruso		NULL	Hirscheber	
+babusx.0o.TEKS	babuŝo		NULL	Babusche	
+babusx.0o.TEKS	babuŝo		NULL	Pusche	
+babusx.0o.TEKS	babuŝo		NULL	Stoffpantoffel	
+bac.0.SON	bac		NULL	NULL	NULL
+bacil.0o.BAK	bacilo		oa_2	Bazillus	
+bacil.0o.BAK	bacilo		oa_2	Bazillus	
+bacil.0o.BAK	bacilo		oa_2	Bazille	
+bacil.0o.BAK	bacilo		oa_2	Bazille	
+bacil.0o.BAK	bacilo		oa_2	Spaltpilz	
+bacil.0o.BAK	bacilo		oa_2	Spaltpilz	
+bacil.kojlo0o.BAK	kojlobacilo		NULL	NULL	NULL
+badminton.0o.SPO	badmintono		NULL	Badminton	
+baf.0.KOMUNE	baf		NULL	NULL	NULL
+bagagx.0o.TRA	bagaĝo		NULL	Gepäck	
+bagas.0o.AGR	bagaso		NULL	NULL	NULL
+bagate.0a.KOMUNE	bagatela		NULL	unbedeutend	
+bagate.0a.KOMUNE	bagatela		NULL	nichtig	
+bagate.0ema.PSI	bagatelema		NULL	kleinlich	
+bagate.0ema.PSI	bagatelema		NULL	detailversessen	
+bagate.0ema.PSI	bagatelema		NULL	detailverliebt	
+bagate.0ema.PSI	bagatelema		NULL	pedantisch	
+bagate.0i.KOMUNE	bagateli		NULL	unbedeutend	unbedeutend sein
+bagate.0i.KOMUNE	bagateli		NULL	unwichtig	unwichtig sein
+bagate.0i.KOMUNE	bagateli		NULL	Bedeutung	keine Bedeutung haben
+bagate.0igi.OPI	bagateligi		NULL	bagatellisieren	
+bagate.0igi.OPI	bagateligi		NULL	herunterreden	
+bagate.0igi.OPI	bagateligi		NULL	kleinreden	
+bagate.0o.KOMUNE	bagatelo		ekz_41	Bagatelle	
+bagate.0o.KOMUNE	bagatelo		ekz_41	Kleinigkeit	
+bagate.0o.KOMUNE	bagatelo		ekz_41	Kleinkram	
+bagate.0o.KOMUNE	bagatelo		ekz_41	Nichtigkeit	
+bagate.0o.KOMUNE	bagatelo		ekz_41	Schnickschnack	
+bagavadgit.0o.HIN	Bagavadgito		NULL	NULL	NULL
+bagdad.B0o.urbo	Bagdado		NULL	Bagdad	
+bagn.0o.JUR	bagno		NULL	Strafanstalt	
+bagn.0o.JUR	bagno		NULL	Strafkolonie	
+bagn.0o.JUR	bagno		NULL	Bagno	
+bagn.0ulo.JUR	bagnulo		NULL	NULL	NULL
+baha.0a.REL	bahaa		NULL	NULL	NULL
+baha.0ano.REL	bahaano		NULL	Bahai	
+baha.0ismo.REL	Bahaismo		NULL	Bahaismus	
+baha.B0o.REL	Bahao		NULL	NULL	NULL
+baham.0oj.GEOG	Bahamoj		NULL	Bahamas	
+bajade.0o.TEA	bajadero		NULL	Bajadere	
+bajkal.B0o.GEOG	Bajkalo		NULL	Baikalsee	
+bak.0ajxo.KOMUNE	bakaĵo		NULL	NULL	NULL
+bak.0i.FIG	baki	2	NULL	NULL	NULL
+bak.0i.KOMUNE	baki	1	NULL	backen	
+bak.0isto.KUI	bakisto		NULL	Bäcker	
+bak.0ujo.KOMUNE	bakujo		NULL	Ofen	
+bak.nov0ita.FIG	novbakita		NULL	NULL	NULL
+bak.nov0ita.FIG	freŝbakita		NULL	NULL	NULL
+bak.nov0ita.FIG	freŝe bakita		NULL	NULL	NULL
+bakana.0o.HIS	bakanalo	1	NULL	Bacchanal	
+bakana.0o.HIS	bakanalo	1	NULL	Bacchusfest	
+bakana.0o.MOR	bakanalo	2	NULL	Trinkgelage	
+bakana.0o.MOR	bakanalo	2	NULL	Orgie	
+bakarat.0o.SPO	bakarato		NULL	NULL	NULL
+bakgamon.0o.SPO	bakgamono		NULL	NULL	NULL
+baksxisx.0o.gratifiko	bakŝiŝo		NULL	Sonderzuwendung	
+baksxisx.0o.gratifiko	bakŝiŝo		NULL	Sonderzahlung	
+baksxisx.0o.gratifiko	bakŝiŝo		NULL	Zahlung	freiwillige Zahlung
+baksxisx.0o.gratifiko	bakŝiŝo		NULL	Gratifikation	
+baksxisx.0o.gratifiko	bakŝiŝo		NULL	Prämie	
+bakter.0o.BAK	bakterio		oa_2	Bakterie	
+bakter.ciano0oj.BAK	cianobakterioj		NULL	NULL	NULL
+bakteriofag.0o.BAK	bakteriofago		NULL	Bakteriophage	
+bakteriofag.0o.BAK	bakteriofaĝo		NULL	Bakteriophage	
+bakteriolog.0o.SCI	bakteriologo		NULL	NULL	NULL
+bakteriologi.0isto.SCI	bakteriologiisto		NULL	Bakteriologe	
+bakteriologi.0o.SCI	bakteriologio		NULL	Bakteriologie	
+baktri.b0akamelo.ZOO	Baktria kamelo		NULL	NULL	NULL
+bala.0ajxo.balaitajxo	balaaĵo	1	NULL	Kehricht	
+bala.0ajxo.senvalorajxo	balaaĵo	2	NULL	Kehricht	
+bala.0i.FIG	balai	2	NULL	kehren	
+bala.0i.FIG	balai	2	NULL	fegen	
+bala.0i.malpurajxon	balai	1	NULL	kehren	
+bala.0i.malpurajxon	balai	1	NULL	fegen	
+bala.0ilo.HEJM	balailo		NULL	Besen	
+bala.bros0ilo.HEJM	brosbalailo		NULL	NULL	NULL
+bala.el0i.FIG	elbalai		NULL	ausfegen	
+bala.for0i.FIG	forbalai		NULL	wegfegen	
+balad.0o.fiksforma	balado	2	oa_2	Ballade	
+balad.0o.rakonta	balado	1	oa_2	Ballade	
+balafon.0o.MUZ	balafono		NULL	Balafon	
+balalajk.0o.MUZ	balalajko		NULL	NULL	NULL
+balan.0o.ANA	balano		NULL	Eichel	Eichel (Penis)
+balan1.0o.ZOO	balano		NULL	Seepocke	
+balanc.0o.velsxipo	balancelo		NULL	Bilancella	Bilancella (Einmaster)
+balanc.0o.velsxipo	balancelo		NULL	Paranzella	Paranzella (Einmaster)
+balanc1.0i.MOV	balanci	1	NULL	schaukeln	
+balanc1.0i.MOV	balanci	1	NULL	schwenken	
+balanc1.0i.MOV	balanci	1	NULL	wippen	
+balanc1.0i.MOV	balanci	1	NULL	wiegen	
+balanc1.0i.kapon	balanci	2	NULL	schütteln	schütteln (Kopf)
+balanc1.0i.kapon	balanci	2	NULL	nicken	
+balanc1.0i.kapon	balanci	2	NULL	wiegen	wiegen (Kopf)
+balanc1.0igxi.MOV	balanciĝi		NULL	schaukeln	
+balanc1.0igxi.MOV	balanciĝi		NULL	wiegen	sich wiegen
+balanc1.0igxi.MOV	balanciĝi		NULL	schwingen	
+balanc1.0ilo.SPO	balancilo		NULL	Wippe	
+balanc1.0ilo.SPO	balancilo		NULL	Schaukel	
+balast.0i.KOMUNE	balasti		NULL	beballasten	
+balast.0i.KOMUNE	balasti		NULL	belasten	
+balast.0i.KOMUNE	balasti		NULL	Ballast	Ballast nehmen lassen
+balast.0i.KOMUNE	balasti		NULL	schottern	schottern [Bahn]
+balast.0i.KOMUNE	balasti		NULL	beschottern	beschottern [Bahn]
+balast.0i.KOMUNE	balasti		NULL	beschweren	beschweren (schwer machen)
+balast.0o.FER	balasto	2	NULL	Schotter	
+balast.0o.FER	balasto	2	NULL	Schüttung	
+balast.0o.FER	balasto	2	NULL	Bettung	
+balast.0o.FIG	balasto	3	NULL	Ballast	
+balast.0o.FIG	balasto	3	NULL	Klotz	Klotz am Bein
+balast.0o.TEK	balasto	1	NULL	Ballast	
+balast.lastesedne0e.KOMUNE	laste sed ne balaste		NULL	Letzt	zu guter Letzt
+balast.sen0igi.KOMUNE	senbalastigi		NULL	entballasten	
+balast.sen0igi.KOMUNE	senbalastigi		NULL	Ballast	vom Ballast befreien
+balast.sen0igi.KOMUNE	senbalastigi		NULL	freilegen	freilegen [Bahn]
+balast.sen0igi.KOMUNE	senbalastigi		NULL	erleichtern	
+balbo.0o.EKON	balboo		NULL	Balboa	
+balbut.0i.LIN	balbuti	1	NULL	stammeln	
+balbut.0i.LIN	balbuti	1	NULL	lallen	
+balbut.0i.MED	balbuti	2	NULL	stottern	
+balbut.0ulo.MED	balbutulo		NULL	Stotterer	
+baldak.0o.TEKS	baldakeno		NULL	Baldachin	
+baldau.0.KOMUNE	baldaŭ		ekz_23	bald	
+baldau.0.KOMUNE	baldaŭ		uv_B	bald	
+baldau.0.KOMUNE	baldaŭ		akkor_ru	bald	
+baldau.0.KOMUNE	baldaŭ		akkor_pl	bald	
+baldau.0a.KOMUNE	baldaŭa		NULL	bevorstehend	
+baldau.0a.KOMUNE	baldaŭa		NULL	baldigst	
+baldau.0o.KOMUNE	baldaŭo		NULL	Zukunft	nahe Zukunft
+baldau.0o.KOMUNE	baldaŭo		NULL	Morgen	das Morgen
+baldau.0o.KOMUNE	baldaŭo		NULL	Zeit	die nächste Zeit
+balduen.0o.NOM	Baldueno		NULL	Balduin	
+balen.0ajxo.BARTO	balenaĵo		uv_B	NULL	NULL
+balen.0ajxo.BARTO	balenosto		uv_B	NULL	NULL
+balen.0o.KOMUNE	baleno	1	NULL	Wal	
+balen.0o.KOMUNE	baleno	1	NULL	Bartenwal	
+balen.0o.KOMUNE	baleno	1	NULL	Wal	
+balen.0o.genro	baleno	2	NULL	Glattwal	
+balen.0o.genro	baleno	2	NULL	Grönlandwal	
+balen.0o.genro	baleno	2	NULL	Wal	
+balen.B0o.AST	Baleno		NULL	Walfisch	
+balen.gxibdorsa0o.ZOO	ĝibdorsa baleno		NULL	NULL	NULL
+balen.gxibdorsa0o.ZOO	ĝiba baleno		NULL	NULL	NULL
+balet.0o.grupo	baleto	2	oa_6	Ballet	
+balet.0o.grupo	baledo	2	oa_6	Ballet	
+balet.0o.teatrajxo	baleto	1	oa_6	Ballet	
+balet.0o.teatrajxo	baledo	1	oa_6	Ballet	
+balist.0o.MIL	balisto		NULL	Balliste	
+balist.0o.MIL	balisto		NULL	Katapult	römisches Katapult
+balkan.0o.montaro	Balkano	1	NULL	Balkan	
+balkan.0o.montaro	Balkana Montaro	1	NULL	Balkan	
+balkan.0o.regiono	Balkano	2	NULL	Balkan	
+balkan.0o.regiono	Balkana Montaro	2	NULL	Balkan	
+balkani.0o.GEOG	Balkanio		NULL	NULL	NULL
+balkasx.0o.GEOG	Balkaŝo		NULL	Balkasch-See	
+balkon.0o.ARKI	balkono		NULL	Balkon	
+balon.0eto.ludilo	baloneto		NULL	Luftballon	
+balon.0o.KEM	balono	2	oa_2	Glaskolben	
+balon.0o.KEM	balono	2	oa_2	Ballon	
+balon.0o.KOMUNE	balono	1	oa_2	Ballon	
+balon.prov0o.FIG	provbalono	2	NULL	Testballon	
+balon.prov0o.MET	provbalono	1	NULL	Testballon	
+balot.0i.ntr	baloti	1	oa_2	wählen	
+balot.0i.ntr	baloti	1	oa_2	abstimmen	
+balot.0i.tr	baloti	2	oa_2	wählen	
+balot.0i.tr	baloti	2	oa_2	abstimmen	
+balot.0o.momento	baloto	2	NULL	Wahl	
+balot.0o.momento	baloto	2	NULL	Abstimmung	
+balot.0o.rezulto	baloto	1	NULL	Stimmabgabe	
+balot.0o.rezulto	baloto	1	NULL	Wählen	
+balt.0a.Baltia	balta	2	NULL	baltisch	
+balt.0a.etne	balta	1	NULL	baltisch	
+balt.0o.praa	balto		NULL	Balte	
+baltazar.0o.NOM	Baltazaro		NULL	Balthazar	
+baltik.0a.GEOG	baltika		NULL	Ostsee-	
+baltik.0a.GEOG	baltika		NULL	baltisch	
+baltik.0o.GEOG	Baltiko		NULL	Ostsee	
+balust1.0o.ARKI	balustrado		NULL	Geländer	
+balust1.0o.ARKI	balustrado		NULL	Balustrade	
+balust1.0o.ARKI	balustrado		NULL	Brüstung	
+balust1.0o.ARKI	balustrado		NULL	Säulengeländer	
+balzam.0a.PAR	balzama		NULL	balsamisch	
+balzam.0ado.PAR	balzamado		NULL	Einbalsamieren	
+balzam.0i.PAR	balzami		NULL	einbalsamieren	
+balzam.0i.PAR	enbalzamigi		NULL	einbalsamieren	
+balzam.0isto.FUN	balzamisto		NULL	Balsamierer	
+balzam.0o.FIG	balzamo	3	oa_2	Balsam	
+balzam.0o.MED	balzamo	2	oa_2	Balsam	
+balzam.0o.PAR	balzamo	1	oa_2	Balsam	
+balzam.en0igisto.FUN	enbalzamigisto		NULL	Einbalsamierer	
+bamak.0o.cxefurbo	Bamako		NULL	Bamako	
+bamb.0o.MUZ	bambo		NULL	NULL	NULL
+bambu.0o.BOT	bambuo		NULL	Bambus	
+ban.0gastoj.MED	bangastoj		NULL	Badegäste	
+ban.0i.KOMUNE	bani	1	ekz_40	baden	baden (jmd.)
+ban.0i.TEK	bani	4	ekz_40	baden	baden (jmd.)
+ban.0i.en_abundo	bani	3	ekz_40	baden	baden (jmd.)
+ban.0urbo0loko.MED	banurbo		NULL	Badeort	
+ban.0urbo0loko.MED	banloko		NULL	Badeort	
+ban.bol0o.KUI	bolbano		NULL	Wasserbad	
+banal.0a.ordinara	banala		oa_2	banal	
+banal.0a.ordinara	banala		oa_2	alltäglich	
+banal.0a.ordinara	banala		oa_2	platt	
+banal.0igi.KOMUNE	banaligi		NULL	NULL	NULL
+banal.mal0a.KOMUNE	malbanala		NULL	originell	
+banal.mal0a.KOMUNE	malbanala		NULL	besonders	
+banal.mal0a.KOMUNE	malbanala		NULL	einzigartig	
+band.0acxo.bando	bandaĉo		NULL	Bande	
+band.0ano.KOMUNE	bandano		NULL	NULL	NULL
+band.0o.MUZ	bando	3	NULL	Band	
+band.0o.MUZ	bando	3	NULL	Kapelle	
+band.0o.MUZ	bando	3	NULL	Gruppe	
+band.0o.bandacxo	bando	4	NULL	Bande	
+band.0o.bandacxo	bando	4	NULL	Meute	
+band.0o.bandacxo	bando	4	NULL	Gruppe	
+band.0o.irantaro	bando	1	NULL	Gruppe	
+band.0o.irantaro	bando	1	NULL	Schar	
+band.0o.irantaro	bando	1	NULL	Meute	
+band.0o.irantaro	bando	1	NULL	Gruppe	
+band.0o.samideanoj	bando	2	NULL	Gruppe	
+band.jxaz0o.MUZ	ĵazbando		NULL	Jazzband	
+band.jxaz0o.MUZ	ĝazbando		NULL	Jazzband	
+band.jxaz0o.MUZ	ĵazbando		NULL	Jazzkapelle	
+band.jxaz0o.MUZ	ĝazbando		NULL	Jazzkapelle	
+bander.0o.devizo	banderolo	2	NULL	Banderole	
+bander.0o.devizo	banderolo	2	NULL	Banner	
+bander.0o.devizo	banderolo	2	NULL	Spruchband	
+bandolier.0o.KOMUNE	bandoliero		NULL	Bandelier	
+banglade.B0o.GEOG	Bangladeŝo		NULL	NULL	NULL
+bangx.0o.MUZ	banĝo		NULL	Banjo	
+banjan.0o.BOT	banjano		NULL	NULL	NULL
+bank.0ejo.butiko	bankejo		NULL	NULL	NULL
+bank.0estro.EKON	bankestro		NULL	Bankdirektor	
+bank.0estro.EKON	bankestro		NULL	Bankier	
+bank.0isto.EKON	bankisto		NULL	Bankangestellter	
+bank.0o.EKON	banko	1	NULL	Bank	
+bank.0o.FIG	banko	2	NULL	Bank	
+bankro.0i.EKON	bankroti	1	NULL	bankrottieren	
+bankro.0i.EKON	bankroti	1	NULL	Bankrott machen	
+bankro.0i.EKON	bankroti	1	NULL	Konkurs machen	
+bankro.0i.EKON	bankroti	1	NULL	Pleite machen	
+bankro.0i.EKON	bankroti	1	NULL	pleite gehen	
+bankro.0i.EKON	bankroti	1	NULL	Konkurs gehen	in Konkurs gehen
+bankro.0i.FIG	bankroti	2	NULL	Schiffbruch	Schiffbruch erleiden
+bankro.0i.FIG	bankroti	2	NULL	einbrechen	
+bankro.0i.FIG	bankroti	2	NULL	versagen	
+bankro.0i.FIG	bankroti	2	NULL	Pleite	eine Pleite erleben
+bankro.0i.FIG	bankroti	2	NULL	Misserfolg	Misserfolg haben
+bankro.0o.EKON	bankroto		NULL	Bankrott	
+bankro.0o.EKON	bankroto		NULL	Konkurs	
+bankro.0o.EKON	bankroto		NULL	Pleite	
+bant.0o.TEKS	banto		NULL	Schleife	
+bapt.0anino.KRI	baptanino		NULL	NULL	NULL
+bapt.0ano.KRI	baptano		uv_B	NULL	NULL
+bapt.0ano.KRI	baptano		akkor_en	NULL	NULL
+bapt.0ato.KRI	baptato		NULL	Täufling	
+bapt.0i.KOMUNE	bapti	2	NULL	taufen	
+bapt.0i.KRI	bapti	1	NULL	taufen	
+bapt.0ismano.KRI	baptismano		NULL	NULL	NULL
+bapt.0ismo.KRI	baptismo		NULL	NULL	NULL
+bapt.0isto.KRI_propre	baptisto	1	NULL	NULL	NULL
+bapt.0isto.KRI_sekte	baptisto	2	NULL	NULL	NULL
+bapt.0ofilo.KRI	baptofilo		uv_B	Patenkind	
+bapt.0opatrino.KRI	baptopatrino		NULL	Taufmutter	
+bapt.0opatro.KRI	baptopatro		uv_B	Taufpate	
+bapt.0opatro.KRI	baptopatro		akkor_en	Taufpate	
+bapt.B0isto.NOM	Baptisto		NULL	NULL	NULL
+bar.0ajxo.KOMUNE	baraĵo		NULL	Hürde	
+bar.0ajxo.KOMUNE	baraĵo		NULL	Damm	
+bar.0ajxo.KOMUNE	baraĵo		NULL	Sperre	
+bar.0i.malhelpi	bari	2	NULL	versperren	
+bar.0i.malhelpi	bari	2	NULL	verhindern	
+bar.0i.vojon	bari	1	NULL	sperren	
+bar.0ilo.HOR	barilo		uv_B	Absperrung	
+bar.0ilo.HOR	barilo		akkor_en	Absperrung	
+bar.0ilo.HOR	barilo		uv_B	Barriere	
+bar.0ilo.HOR	barilo		akkor_en	Barriere	
+bar.0ilo.HOR	barilo		uv_B	Zaun	
+bar.0ilo.HOR	barilo		akkor_en	Zaun	
+bar.0ilo.HOR	barilo		uv_B	Schranke	
+bar.0ilo.HOR	barilo		akkor_en	Schranke	
+bar.0ilo.HOR	barilo		uv_B	Sperre	
+bar.0ilo.HOR	barilo		akkor_en	Sperre	
+bar.0ilo.HOR	barilo		uv_B	Schlagbaum	
+bar.0ilo.HOR	barilo		akkor_en	Schlagbaum	
+bar.0ita.KOMUNE	barita	1	NULL	NULL	NULL
+bar.0ita.MAT	barita	2	NULL	beschränkt	
+bar.0o.KOMUNE	baro	1	NULL	Sperre	
+bar.0o.KOMUNE	baro	1	NULL	Hindernis	
+bar.0o.KOMUNE	baro	1	NULL	Schranke	
+bar.0o.KOMUNE	baro	1	NULL	Barriere	
+bar.0o.KOMUNE	baro	1	NULL	Hemmnis	
+bar.0o.MAT	baro	2	NULL	Schranke	
+bar.cxirkaux0i.fermi	ĉirkaŭbari	1	NULL	umzäunen	
+bar.cxirkaux0i.fermi	ĉirkaŭbari	1	NULL	umhegen	
+bar.cxirkaux0i.malhelpi	ĉirkaŭbari	2	NULL	behindern	überall behindern
+bar.de0i.KOMUNE	debari		NULL	absperren	
+bar.de0i.KOMUNE	debari		NULL	versperren	
+bar.de0i.KOMUNE	debari		NULL	abscheiden	
+bar.dis0i.KOMUNE	disbari		NULL	sperren	auseinander sperren
+bar.dis0i.KOMUNE	disbari		NULL	trennen	
+bar.dis0i.KOMUNE	disbari		NULL	separieren	
+bar.dis0i.KOMUNE	disbari		NULL	scheiden	voneinander scheiden
+bar.ne0ita.KOMUNE	nebarita	1	NULL	unbeschränkt	
+bar.ne0ita.KOMUNE	nebarita	1	NULL	begehbar	
+bar.ne0ita.KOMUNE	nebarita	1	NULL	begänglich	
+bar.ne0ita.KOMUNE	nebarita	1	NULL	möglich	möglich (Durchgang)
+bar.ne0ita.KOMUNE	nebarita	1	NULL	offen	offen (Weg)
+bar.ne0ita.MAT	nebarita	2	NULL	unbeschränkt	
+bar.plekto0ilo.HOR	plektobarilo		NULL	Flechtzaun	
+bar.tabul0ilo.HOR	tabulbarilo		NULL	Lattenzaun	
+bar.tabul0ilo.HOR	tabulbarilo		NULL	Bretterzaun	
+barakt.0i.FIG	barakti	2	NULL	strampeln	
+barakt.0i.FIG	barakti	2	NULL	ringen	
+barakt.0i.FIG	barakti	2	NULL	kämpfen	
+barakt.0i.skui	barakti	1	NULL	zappeln	
+barakt.0i.skui	barakti	1	NULL	strampeln	
+barakt.0i.skui	barakti	1	NULL	ringen	
+barakt.0i.skui	barakti	1	NULL	kämpfen	
+barat.B0o.GEOG	Barato		NULL	Indien	
+barb.0a.KOS	barba		NULL	bärtig	
+barb.0a.KOS	barbhava		NULL	bärtig	
+barb.0isto.barbiro	barbisto		NULL	Bartschneider	
+barb.0o.ANA	barbo		NULL	Bart	
+barb.0ulo.FRIZ	barbulo		NULL	Rotbart	
+barb.0ulo.FRIZ	barbulo		NULL	Bartträger	
+barb.0ulo.FRIZ	barbulo		NULL	Bärtiger	
+barb.lip0o.FRIZ	lipbarbo		NULL	Oberlippenbarthaare	
+barb.lip0o.FRIZ	lipbarbo		NULL	Schnauzer	
+barb.lip0o.FRIZ	lipbarbo		NULL	Bart	Bart(haare)
+barbad.B0o.GEOG	Barbado		NULL	Barbados	
+barbakan.0o.ARKI	barbakano		NULL	Barbakane	
+barbar.0a.MOR	barbara		NULL	wild	
+barbar.0a.MOR	barbara		NULL	roh	
+barbar.0a.MOR	barbara		NULL	barbarisch	
+barbar.0ajxo.MOR	barbaraĵo		NULL	Barbarei	
+barbar.0ajxo.MOR	barbaraĵo		NULL	Rohheit	
+barbar.0ajxo.MOR	barbaraĵo		NULL	grausame Taten	
+barbar.0eco.MOR	barbareco		NULL	Wildheit	
+barbar.0eco.MOR	barbareco		NULL	Rohheit	
+barbar.0eco.MOR	barbareco		NULL	Barbarentum	
+barbar.0ismo.MOR	barbarismo		NULL	Barbarei	
+barbar.0o.FIG	barbaro	2	NULL	Rohling	
+barbar.0o.FIG	barbaro	2	NULL	Wüstling	
+barbar.0o.FIG	barbaro	2	NULL	grausamer Mensch	
+barbar.0o.MOR	barbaro	1	NULL	Wilder	
+barbar.0o.MOR	barbaro	1	NULL	Barbar	
+barbar1.0o.GRA_eraro	barbarismo	2	NULL	Sprachwidrigkeit	
+barbar1.0o.GRA_eraro	barbarismo	2	NULL	grober sprachlicher Fehler	
+barbar1.0o.GRA_eraro	barbarismo	2	NULL	Barbarismus	
+barbar1.0o.GRA_fremdismo	barbarismo	1	NULL	Barbarismus	
+barbaros.0o.HIS	Barbaroso		NULL	NULL	NULL
+barbir.0o.KOS	barbiro		NULL	Frisör	
+barbir.0o.KOS	barbiro		NULL	Haarschneider	
+barbir.0o.KOS	barbiro		NULL	Barbier	Barbier [ark]
+barbud.0o.GEOG	Barbudo		NULL	Barbuda	
+barcelon.0o.urbo	Barcelono		NULL	Barcelona	
+bard.0o.FIG	bardo	2	NULL	Barde	
+bard.0o.HIS	bardo	1	NULL	Barde	
+baregx.0o.TEKS	bareĝo		NULL	Barege	
+baregx.0o.TEKS	bareĝo		NULL	Barrege	
+barejn.0o.GEOG	Barejno		NULL	Bahrain	
+barel.0ejo.TEK	barelejo		NULL	Böttcherei	
+barel.0ejo.TEK	barelejo		NULL	Fassmacherei	
+barel.0ejo.TEK	barelejo		NULL	Küferei	
+barel.0eto.formo	bareleto	2	NULL	Kammer	
+barel.0eto.formo	bareleto	2	NULL	Trommel	
+barel.0eto.formo	bareleto	2	NULL	Gehäuse	
+barel.0eto.malgranda	bareleto	1	NULL	Fässchen	
+barel.0igxi.FIG	bareliĝi		NULL	zunehmen	
+barel.0igxi.FIG	bareliĝi		NULL	Fett ansetzen	
+barel.0igxi.FIG	bareliĝi		NULL	kugelrund werden	
+barel.0isto.TEK	barelisto		NULL	Böttcher	
+barel.0isto.TEK	barelisto		NULL	Fassmacher	
+barel.0isto.TEK	barelisto		NULL	Küfer	
+barel.0o.MEZ	barelo	3	NULL	NULL	NULL
+barel.0o.TEK	barelo	1	NULL	Fass	
+barel.0o.similforma	barelo	2	NULL	NULL	NULL
+barel.el0igi.TEK	elbareligi		NULL	holen	aus dem Fass holen
+barel.el0igi.TEK	elbareligi		NULL	zapfen	
+barel.el0igi.TEK	elbareligi		NULL	abschütten	
+barel.en0igi.TEK	enbareligi		NULL	eindosen	
+barel.en0igi.TEK	enbareligi		NULL	einfassen	
+barel.nagx0o.MAR	naĝbarelo		NULL	Boje	
+bargx.0o.SHI	barĝo		NULL	Barkasse	
+bargx.0o.SHI	barĝo		NULL	Schute	
+bargx.0o.SHI	barĝo		NULL	Lastkahn	
+bargx.0o.SHI	barĝo		NULL	Binnenfrachtschiff	
+bargx.hauxl0o.SHI	haŭlbarĝo		NULL	NULL	NULL
+barier.0o.TRA	bariero		NULL	Schranke	
+barier.0o.TRA	bariero		NULL	Schlagbaum	
+barika.0i.KOMUNE	barikadi		NULL	sperren	
+barika.0i.KOMUNE	barikadi		NULL	versperren	
+barika.0i.KOMUNE	barikadi		NULL	verrammeln	
+barika.0i.KOMUNE	barikadi		NULL	verbarrikadieren	
+barika.0o.KOMUNE	barikado		oa_2	Barrikade	
+barika.0o.KOMUNE	barikado		oa_2	Sperre	
+barika.0o.KOMUNE	barikado		oa_2	Straßensperre	
+barito.0o.kantisto	baritono	2	NULL	Bariton	Bariton (Sänger)
+barito.0o.kantisto	baritono	2	NULL	Bariton	
+barito.0o.registro	baritono	1	NULL	Bariton	Bariton (Stimmlage)
+barito.0o.registro	baritono	1	NULL	Bariton	
+barkar.0o.kanto	barkarolo	1	NULL	Barkarole	
+barkar.0o.kanto	barkarolo	1	NULL	Gondellied	
+barkar.0o.komponajho	barkarolo	2	NULL	Barkarole	
+barkar.0o.komponajho	barkarolo	2	NULL	Gondellied	
+barmicv.0o.JUD	barmicvo		NULL	NULL	NULL
+barnab.0o.NOM	Barnabo		NULL	Barnabas	
+barok.0a.stila	baroka		NULL	barock	
+barok.0a.stila	baroka		NULL	überladen	überladen (Stil)
+barok.0o.gxenerala	baroko	2	NULL	Barock	
+barok.0o.historia	baroko	1	NULL	Barock	
+baron.0o.nobela	barono		NULL	Freiherr	
+baron.0o.nobela	barono		NULL	Baron	
+barosk.0o.pesaparato	baroskopo		NULL	NULL	NULL
+bartolome.0o.NOM	Bartolomeo		NULL	Bartholomeus	
+bas.0o.registro	baso	1	NULL	Bassstimme	
+bas.0o.registro	baso	1	NULL	Bass	
+bas.0o.ulo	baso	2	NULL	Bass	
+basbal.0o.SPO	basbalo		NULL	NULL	NULL
+basen.0o.GEOG	baseno	2	oa_2	Becken	
+basen.0o.HOR	baseno	1	oa_2	Becken	
+basen.0o.MAR	baseno	3	oa_2	Becken	
+basen.nagx0o.SPO	naĝbaseno		NULL	Schwimmbecken	
+bask.0o.FIG	basko	2	NULL	Rockschoß	
+bask.0o.vestoparto	basko	1	NULL	Rockschoß	
+basketbal.0o.SPO	basketbalo		NULL	Basketball	
+baskul.0o.ELE	baskulo	4	oa_9	Kippschalter	
+baskul.0o.ELE	baskulo	4	oa_9	Umschalter	
+baskul.0o.ELE	baskulo	4	oa_9	Wippschalter	
+baskul.0o.KOMP	baskulo	3	oa_9	Schalter	
+baskul.0o.TEK	baskulo	1	oa_9	Schwenkhebel	
+baskul.0o.TEK	baskulo	1	oa_9	Schwinghebel	
+baskul.0o.TEK	baskulo	1	oa_9	Wippbaum	
+baskul.0o.TEK	baskulo	1	oa_9	Hebebaum	
+baskul.0o.ludilo	baskulo	2	oa_9	Wippe	
+baskul.0o.ludilo	baskulo	2	oa_9	Wippschaukel	
+bastar.0eco.stato	bastardeco		NULL	uneheliche Kindschaft	
+bastar.0o.infano	bastardo		NULL	uneheliches Kind	
+bastar.0o.infano	bastardo		NULL	Bastard	Bastard [pej]
+bastar.0o.infano	bastardo		NULL	Kethel	Kethel [ark]
+bastio.0o.FIG	bastiono	3	NULL	Bollwerk	
+bastio.0o.FIG	bastiono	3	NULL	Bastion	
+bastio.0o.FIG	bastiono	3	NULL	Schutzwall	
+bastio.0o.fortikajxo	bastiono	2	NULL	Bollwerk	
+bastio.0o.fortikajxo	bastiono	2	NULL	Bastion	
+bastio.0o.fortikajxo	bastiono	2	NULL	Bastei	
+bastio.0o.siegxturo	bastiono	1	NULL	Belagerungsturm	
+baston.0eto.FIZL	bastoneto		NULL	Stäbchen	Stäbchen (Zelle)
+baston.0i.KOMUNE	bastoni		NULL	Stockschläge	Stockschläge verabreichen
+baston.0i.KOMUNE	bastoni		NULL	verprügeln	
+baston.0o.KOMUNE	bastono		ekz_31	Schlagstock	
+baston.0o.KOMUNE	bastono		ekz_31	Gummiknüppel	
+baston.0o.KOMUNE	bastono		ekz_31	Stock	
+baston.0o.KOMUNE	bastono		ekz_31	Stab	
+baston.0o.KOMUNE	bastono		ekz_31	Stecken	
+baston.lam0o.MED	lambastono		uv_L	Krücke	
+baston.promen0o.KOMUNE	promenbastono		NULL	NULL	NULL
+baston.sorcxista0o.MAG	sorĉbastono		NULL	Zauberstab	
+baston.sorcxista0o.MAG	sorĉista bastono		NULL	Zauberstab	
+basx.0o.KOMUNE	baŝo		NULL	Persenning	
+basx.0o.KOMUNE	baŝo		NULL	Tarpaulin	
+basx.0o.KOMUNE	baŝo		NULL	Plane	
+basx.0o.KOMUNE	baŝo		NULL	Zeltbahn	
+basx.0o.KOMUNE	baŝo		NULL	Tarp	
+basx.0o.KOMUNE	baŝo		NULL	Abdeckung	
+basxibozuk.0o.MIL	baŝibozuko		NULL	Baschi-Bosuk	
+basxlik.0o.TEKS	baŝliko		NULL	NULL	NULL
+bat.0.SON	bat		NULL	bum!	
+bat.0ado.MOV	batado		NULL	Schlagen	
+bat.0i.ektusxegi	bati	1	ekz_9	schlagen	
+bat.0i.ektusxegi	bati	1	ekz_9	hauen	
+bat.0i.ektusxegi	bati	1	ekz_9	prügeln	
+bat.0i.movi	bati	2	ekz_9	schlagen	
+bat.0i.movi	bati	2	ekz_9	hauen	
+bat.0i.movi	bati	2	ekz_9	prügeln	
+bat.0i.puni	bati	3	ekz_9	schlagen	
+bat.0i.puni	bati	3	ekz_9	hauen	
+bat.0i.puni	bati	3	ekz_9	prügeln	
+bat.0ilo.KOMUNE	batilo		NULL	Schläger	
+bat.0ilo.KOMUNE	batilo		NULL	Prügel	
+bat.0o.FIG	bato	2	NULL	Schlag	
+bat.0o.ago	bato	1	NULL	Schlag	
+bat.de0i.KOMUNE	debati		NULL	abschlagen	
+bat.de0i.KOMUNE	forbati		NULL	abschlagen	
+bat.dis0i.KOMUNE	disbati	1	NULL	zerschlagen	
+bat.dis0i.venki	disbati	2	NULL	zerschlagen	
+bat.el0i.KOMUNE	elbati		NULL	herausschlagen	
+bat.en0i.KOMUNE	enbati	1	NULL	einschlagen	
+bat.en0i.memorigi	enbati	2	NULL	eintrichtern	
+bat.en0i.memorigi	enbati	2	NULL	einhämmern	einhämmern (ins Gedächtnis)
+bat.en0i.memorigi	enbati	2	NULL	einschlagen	
+bat.inter0igxo.KOMUNE	interbatiĝo		NULL	NULL	NULL
+bat.kor0o.FIZL	korbato		NULL	Herzschlag	
+bat.korno0i.KOMUNE	kornobati		NULL	stoßen	mit den Hörnern stoßen
+bat.kun0i.KOMUNE	kunbati		NULL	zusammenschlagen	
+bat.lav0ilo.HEJM	lavbatilo		NULL	Bleuel	
+bat.mort0i.KOMUNE	mortbati		NULL	totschlagen	
+bat.pied0i.KOMUNE	piedbati		NULL	treten	mit den Füßen treten
+bat.polmflanka0o.SPO	polmflanka bato		NULL	Vorhand	
+bat.re0i.parole	rebati	3	NULL	geben	zurück geben
+bat.re0i.parole	rebati	3	NULL	erwidern	
+bat.re0i.redoni	rebati	1	NULL	schlagen	zurück schlagen
+bat.re0i.repusxi	rebati	2	NULL	abwehren	
+bat.re0i.repusxi	rebati	2	NULL	zurückschlagen	
+bat.sorto0o.okazajxo	sortobato		NULL	Schicksalsschlag	
+bat.sorto0o.okazajxo	bato de l' sorto		NULL	Schicksalsschlag	
+bat.sven0i.KOMUNE	svenbati		NULL	schlagen	ohnmächtig schlagen
+bat.sven0i.KOMUNE	svenbati		NULL	niederschlagen	
+bat.tra0ebla.KOMUNE	trabatebla		NULL	zerstörbar	
+bat.tra0ebla.KOMUNE	trabatebla		NULL	durchdringlich	
+bat.tra0i.KOMUNE	trabati	1	NULL	durchschlagen	
+bat.tra0i.KOMUNE	trabati	1	NULL	freischlagen	
+bat.tra0i.vojon	trabati	2	NULL	durchschlagen	
+bat.tra0i.vojon	trabati	2	NULL	freischlagen	
+bat.venko0i.MIL	venkobati		NULL	besiegen	
+bat.venko0i.MIL	venkobati		NULL	schlagen	
+batak.0o.ETN	batako		NULL	Batak	
+batal.0ejo.MIL	batalejo		NULL	Kampfstätte	
+batal.0ejo.MIL	batalejo		NULL	Schlachtfeld	
+batal.0ema.KOMUNE	batalema		NULL	kämpferisch	
+batal.0ema.KOMUNE	batalema		NULL	kampflustig	
+batal.0ema.KOMUNE	batalema		NULL	streitlustig	
+batal.0i.kontrauxajxon	batali	2	NULL	kämpfen	
+batal.0i.kontrauxajxon	batali	2	NULL	fechten	
+batal.0i.kontrauxajxon	batali	2	NULL	streiten	
+batal.0i.milito	batali	1	NULL	kämpfen	
+batal.0i.milito	batali	1	NULL	fechten	
+batal.0i.milito	batali	1	NULL	streiten	
+batal.0i.spirite	batali	3	NULL	kämpfen	
+batal.0i.spirite	batali	3	NULL	fechten	
+batal.0i.spirite	batali	3	NULL	streiten	
+batal.0ilo.ARM	batalilo		uv_B	Waffe	
+batal.0ilo.ARM	batalilo		akkor_de	Waffe	
+batal.0ilo.ARM	batalilo		uv_B	Kampfmittel	
+batal.0ilo.ARM	batalilo		akkor_de	Kampfmittel	
+batal.0isto.MIL	batalisto		NULL	Kämpfer	
+batal.0isto.MIL	batalisto		NULL	Krieger	
+batal.0isto.MIL	batalisto		NULL	Streiter	Streiter [ark, poez]
+batal.0o.KOMUNE	batalo		NULL	Gefecht	
+batal.0o.KOMUNE	batalo		NULL	Kampf	
+batal.0o.KOMUNE	batalo		NULL	Schlacht	
+batal.inter0i.KOMUNE	interbatali		NULL	bekämpfen	sich bekämpfen
+batal.kontraux0anto.KOMUNE	kontraŭbatalanto		NULL	Gegner	
+batal.kontraux0anto.KOMUNE	kontraŭbatalanto		NULL	Feind	
+batal.kontraux0anto.KOMUNE	kontraŭbatalanto		NULL	Kontrahent	
+batal.kontraux0i.KOMUNE	kontraŭbatali		NULL	kämpfen (mit)	
+batal.kontraux0i.KOMUNE	kontraŭbatali		NULL	ankämpfen (gegen)	
+batal.kontraux0i.KOMUNE	kontraŭbatali		NULL	bekämpfen	
+batal.kontraux0i.KOMUNE	kontraŭbatali		NULL	anfechten	
+batal.kontraux0i.KOMUNE	kontraŭbatali		NULL	ausfechten	
+batal.kontraux0i.KOMUNE	kontraŭbatali		NULL	streiten	streiten (wider)
+batal.kun0anto.KOMUNE	kunbatalanto		NULL	Kampfgefährte	
+batal.kun0anto.KOMUNE	kunbatalanto		NULL	Mitkämpfer	
+batal.kun0anto.KOMUNE	kunbatalanto		NULL	Kombattant	
+batal.vorto0i.KOMUNE	vortobatali		NULL	Streit	
+batal.vorto0i.KOMUNE	vortobatali		NULL	Wortstreit	
+batal.vorto0i.KOMUNE	vortobatali		NULL	Wortgefecht	
+batali.0o.MIL	bataliono		NULL	Bataillon	
+batat.0o.BOT	batato	1	NULL	Knollenwinde	
+batat.0o.BOT	patato	1	NULL	Knollenwinde	
+batat.0o.KUI	batato	2	NULL	Batate	
+batat.0o.KUI	patato	2	NULL	Batate	
+bateri.0o.ELE	baterio	2	NULL	Batterie	
+bateri.0o.ELE	baterio	2	NULL	Akku	
+bateri.0o.MIL	baterio	1	NULL	Batterie	
+bateri.0o.MIL	baterio	1	NULL	Geschützbatterie	
+batik.0o.TEKS_precedo	batiko	1	NULL	Batik	
+batik.0o.TEKS_sxtofo	batiko	2	NULL	Batik	
+batist.0o.TEKS	batisto		oa_2	Batist	
+batu1.0o.pelcxaso	batuo		NULL	Treibjagd	
+bauxksit.0o.MIN	baŭksito		NULL	Bauxit	
+bauxm.0i.FIG	baŭmi	2	NULL	auftürmen	sich auftürmen
+bauxm.0i.FIG	baŭmi	2	NULL	türmen	sich türmen
+bauxm.0i.FIG	baŭmi	2	NULL	aufstreben	
+bauxm.0i.FIG	baŭmi	2	NULL	aufragen	
+bauxm.0i.RAJ	baŭmi	1	NULL	aufbäumen	sich aufbäumen
+baz.0a.KOMUNE	baza	2	NULL	grundlegend	
+baz.0a.rilata	baza	1	NULL	Basis-	
+baz.0o.KEM	bazo	4	NULL	Base	
+baz.0o.MAT	bazo	5	NULL	NULL	NULL
+baz.0o.MIL	bazo	3	NULL	Stützpunkt	
+baz.0o.postamento	bazo	1	NULL	Fuß	
+baz.0o.postamento	bazo	1	NULL	Basis	
+baz.0o.principo	bazo	2	NULL	Grundlage	
+baz.0o.principo	bazo	2	NULL	Basis	
+baz.sur0ede.KOMUNE	surbaze de		NULL	Basis	auf der Basis von
+baz.sur0ede.KOMUNE	baze de		NULL	Basis	auf der Basis von
+baz.sur0ede.KOMUNE	surbaze de		NULL	Grundlage	auf Grundlage von
+baz.sur0ede.KOMUNE	baze de		NULL	Grundlage	auf Grundlage von
+bazar.0ejo.EKON	bazarejo		NULL	NULL	NULL
+bazar.0o.magazeno	bazaro	2	NULL	Supermarkt	
+bazar.0o.magazeno	bazaro	2	NULL	Kaufhaus	
+bazar.0o.placo	bazaro	1	NULL	Markt	
+bazar.0o.placo	bazaro	1	NULL	Basar	
+bazar.flos0o.EKON	flosbazaro		NULL	NULL	NULL
+bazar.flos0o.EKON	flosa bazaro		NULL	NULL	NULL
+bazar.pul0o.EKON	pulbazaro		NULL	Flohmarkt	
+bazar.pul0o.EKON	pulbazaro		NULL	Antikmarkt	
+bazar.super0o.EKON	superbazaro		NULL	Supermarkt	
+bazar.super0o.EKON	superbazaro		NULL	Kaufhaus	
+bazil.0o.NOM	Bazilo		NULL	Basil	
+bazili1.0o.MIT	bazilisko	1	NULL	Basilisk	
+bazili1.0o.ZOO	bazilisko	2	NULL	Basilisk	Basilisk (Gattung)
+bazili2.0o.BOT	bazilio		NULL	Basilikum	
+bazuk.0o.MIL	bazuko		NULL	Panzerbüchse	
+bazuk.0o.MIL	bazuko		NULL	Panzerfaust	
+bazuk.0o.MIL	bazuko		NULL	Bazooka	
+be.0.KOMUNE	be		NULL	NULL	NULL
+be.0i.ZOO	bei		NULL	NULL	NULL
+be.0o.ZOO	beo		NULL	NULL	NULL
+be1.0.KOMUNE	be	1	NULL	ach je	
+be1.0.KOMUNE	be	1	NULL	oh je	
+be1.0.KOMUNE	be	1	NULL	oje	
+be1.0.vando	be	2	NULL	bah	
+be1.0.vando	be	2	NULL	ach was	
+beat.0a.KAT	beata	2	NULL	selig	
+beat.0a.felicxa	beata	1	NULL	selig	
+beat.0ulo.KAT	beatulo		NULL	Seliger	
+beb.0o.infaneto	bebo		oa_8	Baby	
+bed.0o.HOR	bedo		NULL	Beet	
+bed.flor0o.HOR	florbedo		NULL	Blumenbeet	
+bed.herbo0o.HOR	herbobedo		NULL	Rasenfläche	
+bedaux.0i.cxagrene	bedaŭri	1	NULL	bedauern	
+bedaux.0i.cxagrene	bedaŭri	1	NULL	leid tun	
+bedaux.0i.malkontente	bedaŭri	2	NULL	bedauern	
+bedaux.0i.malkontente	bedaŭri	2	NULL	leid tun	
+bedeli.0o.BIB	bedelio		NULL	Bedolach	
+bedeli.0o.BIB	bedelio		NULL	Bedellium	
+behaviorism.0o.ETOL	behaviorismo		NULL	Behaviorismus	
+behemot.0o.BELE	Behemoto	3	NULL	NULL	NULL
+behemot.0o.BIB	Behemoto	1	NULL	Behemoth	
+behemot.0o.FIG	Behemoto	2	NULL	NULL	NULL
+bej.0o.RANGO	bejo		NULL	NULL	NULL
+bej1.0a.KOL	beja		NULL	rotbraun	rotbraun (Pferd)
+bej1.0a.KOL	beja		NULL	fuchsbraun	fuchsbraun (Pferd)
+bek.0i.bekpiki	beki	1	NULL	picken	
+bek.0i.bekpiki	bekumi	1	NULL	picken	
+bek.0o.ZOO	beko	1	NULL	Schnabel	
+bek.cikonio0o.BOT	cikoniobeko		NULL	NULL	NULL
+bek.cxapo0o.TEKS	ĉapobeko		NULL	Schild	
+bek.kruc0ulo.ZOO	krucbekulo		NULL	Kreuzschnabel	
+bek.kun0igxi.FIG	kunbekiĝi	2	NULL	NULL	NULL
+bek.kun0igxi.ZOO	kunbekiĝi	1	NULL	schnäbeln	
+bek.sxu0ulo.ZOO	ŝubekulo		NULL	Schuhschnabel	
+bekerel.0o.MEZ	bekerelo		NULL	Becquerel	
+bekvad.0o.MUZ	bekvadrato		NULL	Auflösungszeichen	Auflösungszeichen (Musik)
+bel.0a.KOMUNE	bela		ekz_10	schön	
+bel.0a.KOMUNE	bela		ekz_37	schön	
+bel.0a.KOMUNE	bela		ekz_37	schön	
+bel.0ajxo.KOMUNE	belaĵo		NULL	NULL	NULL
+bel.0eco.KOMUNE	beleco		NULL	Schönheit	
+bel.0ega.KOMUNE	belega		NULL	wunderschön	
+bel.0eta.KOMUNE	beleta		NULL	hübsch	
+bel.0igajxo.KOMUNE	beligaĵo		NULL	NULL	NULL
+bel.0o.KOMUNE	belo		NULL	Schöne	das Schöne
+bel.0ulo.KOMUNE	belulo		uv_U	NULL	NULL
+bel.0ulo.KOMUNE	belulo		uv_U	NULL	NULL
+bel.0ulo.KOMUNE	belulo		ekz_37	NULL	NULL
+bel.0ulo.KOMUNE	belulo		ekz_37	NULL	NULL
+bel.mal0a.KOMUNE	malbela		NULL	hässlich	
+bel.pli0igi.KOMUNE	plibeligi		NULL	NULL	NULL
+bel1.0odeci.FIZ	decibelo		NULL	Dezibel	
+beletr.0ismo.BELE	beletrismo		NULL	NULL	NULL
+beletr.0isto.BELE	beletristo		oa_9	Belletrist	
+beletr.0isto.BELE	beletristo		oa_9	Schriftsteller	Schriftsteller (Belletristik)
+beletr.0o.BELE	beletro		oa_9	Belletristik	
+beletr1.0o.BELE	beletristiko	1	NULL	Belletristik	
+beletr1.0o.BELE	beletristiko	1	NULL	Literaturwissenschaft	
+beletr1.0o.beletro	beletristiko	2	NULL	Belletristik	
+beletr1.0o.beletro	beletristiko	2	NULL	schöne Literatur	
+beletr1.0o.beletro	beletristiko	2	NULL	schöngeistige Literatur	
+belfast.0o.havenurbo	Belfasto		NULL	Belfast	
+beliz.B0o.GEOG	Belizo		NULL	Belize	
+bemol.0o.MUZ	bemolo		oa_9	b	b (Notenschrift)
+bemol.du0o.MUZ	dubemolo		NULL	b	Doppel-b (Notenschrift)
+ben.0i.alvoki	beni	1	ekz_33	segnen	
+ben.0i.danki	beni	3	ekz_33	segnen	
+ben.0i.doni	beni	2	ekz_33	segnen	
+ben.0o.FIG	beno	3	NULL	Segen	
+ben.0o.ago	beno	1	NULL	Segen	
+ben.0o.favoro	beno	2	NULL	Segen	
+ben.mal0i.FIG	malbeni	2	NULL	verdammen	
+ben.mal0i.FIG	malbeni	2	NULL	verfluchen	
+ben.mal0i.REL	malbeni	1	NULL	verdammen	
+ben.mal0i.REL	malbeni	1	NULL	verfluchen	
+ben.mal0o.ago	malbeno	1	NULL	Fluch	
+ben.mal0o.malfavoro	malbeno	2	NULL	Pech	
+ben.mal0o.malfavoro	malbeno	2	NULL	Fluch	
+bend.0o.KOMUNE	bendo		oa_8	Band	
+bend.glu0o.KOMUNE	glubendo		NULL	Klebeband	
+bend.son0o.TEK	sonbendo		NULL	Tonband	
+bend.sur0igi.KOMUNE	surbendigi		NULL	aufnehmen	aufnehmen (auf ein Band)
+bend.sur0igilo.KOMUNE	surbendigilo		NULL	NULL	NULL
+bend.vid0o.KIN	vidbendo		NULL	Video(-band)	
+bend.vide0o.KIN	videbendo		NULL	Video(-band)	
+bend.vide0o.KIN	videobendo		NULL	Video(-band)	
+benedikt.0ano.KAT	benediktano		NULL	Benediktiner	
+benedikt.0o.NOM	Benedikto		NULL	Benedikt	
+benefi.0o.avantagxo	benefico	1	NULL	Vorteil	Geldwerter Vorteil
+benefi.0o.prezento	benefico	2	NULL	Benefizveranstaltung	
+benefi.0o.prezento	benefico	2	NULL	Wohltätigkeitsveranstaltung	
+benelu.B0o.KOMUNE	Benelukso	2	NULL	Benelux	
+benelu.B0o.POL	Benelukso	1	NULL	Benelux	
+bengal.0o.GEOG	Bengalo		NULL	NULL	NULL
+bengal.okcidenta0o.GEOG	Okcidenta Bengalo		NULL	NULL	NULL
+bengalur.0o.urbo	Bengaluro		NULL	Bengaluru	
+benin.B0o.GEOG	Benino		NULL	Benin	
+benjamen.0o.NOM	Benjameno	1	NULL	Benjamin	
+benjamen.0o.NOM	Benjamen	1	NULL	Benjamin	
+benjamen.0o.PERS	Benjameno	2	NULL	Benjamin	
+benjamen.0o.PERS	Benjamen	2	NULL	Benjamin	
+benk.0aro.KOMUNE	benkaro		NULL	NULL	NULL
+benk.0o.MEBL	benko		ekz_26	Bank	
+benk.0o.MEBL	benko		ekz_26	Sitzbank	
+benk.konduk0o.TRA	kondukbenko		NULL	NULL	NULL
+benk.konduk0o.TRA	koĉera benko		NULL	NULL	NULL
+benk.pied0eto.MEBL	piedbenketo		NULL	Fußbank	
+benk.pied0eto.MEBL	piedbenketo		NULL	Fußschemel	
+benzin.0ejo.AUT	benzinejo		NULL	Tankstelle	
+benzin.0ejo.AUT	benzinstacio		NULL	Tankstelle	
+benzin.0o.KEM	benzino		NULL	Benzin	
+benzin.0ujo.AUT	benzinujo		NULL	Benzintank	
+benzin.0umi.AUT	benzinumi		NULL	NULL	NULL
+benzin.rafinita0.KEM	rafinita benzino		NULL	Reinigungsbenzin	
+benzo.0o.KEM	benzoo		NULL	Benzoe	
+benzodiazepin.0o.KEM	benzodiazepino		NULL	Benzodiazepin	
+benzol.0o.benzeno	benzolo	1	NULL	Benzol	
+benzol.0o.miksajxo	benzolo	2	NULL	Benzol-Toluol-Gemisch	
+beovulf.0o.BELE	Beovulfo	2	NULL	NULL	NULL
+beovulf.0o.PERS	Beovulfo	1	NULL	NULL	NULL
+ber.0aro.BOT	beraro		NULL	Traube	
+ber.0o.BOT	bero	1	NULL	Beere	
+ber.0o.KOMUNE	bero	2	NULL	Beere	
+ber.roz0o.BOT	rozbero		NULL	Hagebutte	
+ber.sekvin0o.KUI	sekvinbero		uv_V	Rosine	
+ber.vin0o.BOT	vinbero		uv_V	Weinbeere	
+ber.vin0o.BOT	vinbero		akkor_de	Weinbeere	
+beret.0o.TEKS	bereto		NULL	Barett	
+bergam.0o.BOT	bergamoto		NULL	Bergamottefrucht	
+bergam.0ujo.BOT	bergamotujo		NULL	Bergamotte	
+beribe.0o.MED	beribero		NULL	Beriberi	
+beril.0o.MIN	berilo		oa_2	Beryll	
+berili.0o.KEM	berilio		NULL	Beryllium	
+berkeli.0o.KEM	berkelio		NULL	Berkelium	
+bernard.0o.NOM	Bernardo		NULL	Bernhard	
+berserk.0o.HIS	berserko		NULL	Berserker	
+bert.0o.SNC	Berto		ekz_39	Bertha	
+bertrand.0o.NOM	Bertrando		NULL	Bertrand	
+besarabi.0o.GEOG	Besarabio		NULL	Bessarabien	
+best.0aro.ZOO	bestaro		NULL	Fauna	
+best.0aro.ZOO	bestaro		NULL	Tierwelt	
+best.0o.BIO	besto	2	ekz_5	Tier	
+best.0o.homo	besto	3	ekz_5	Tier	
+best.0o.nehomo	besto	1	ekz_5	Tier	
+best.0oj.BIO	bestoj		NULL	Tierreich	
+best.dom0o.HEJM	dombesto		NULL	Haustier	
+best.dorlot0o.KOMUNE	dorlotbesto		NULL	Haustier	
+best.hejm0o.KOMUNE	hejmbesto		NULL	Haustier	
+best.mam0oj.ZOO	mambestoj		NULL	Säugetiere	
+best.rabo0o.iu_el	rabobesto		NULL	NULL	NULL
+best.rabo0oj.ZOO	rabobestoj		NULL	Raubtiere	
+best.sxargxo0o.KOMUNE	ŝarĝobesto		NULL	Lasttier	
+best.sxargxo0o.KOMUNE	ŝarĝbesto		NULL	Lasttier	
+best.tir0o.KOMUNE	tirbesto		NULL	Zugtier	
+besti.0a.KOMUNE	bestia		NULL	bestialisch	
+besti.0a.KOMUNE	bestia		NULL	brutal	
+besti.0o.KOMUNE	bestio		NULL	Bestie	
+bet.0o.genro	beto	1	NULL	Rübe	
+bet.0o.radiko	beto	2	NULL	Rübe	
+bet.foli0o.KUI	folibeto		NULL	Mangold	
+bet.furagx0o.AGR	furaĝbeto		NULL	Futterrübe	
+bet.furagx0o.AGR	furaĝbeto		NULL	Runkelrübe	
+bet.furagx0o.AGR	furaĝbeto		NULL	Vieh-Mangold	
+bet.rugxa0o.KUI	ruĝa beto		NULL	Rote Bete	
+bet.suker0o.AGR	sukerbeto		NULL	Zuckerrübe	
+bet1.0o.LIN	beto		NULL	Beta	
+betel.0o.drogo	betelo	2	NULL	Betel	
+betel.0o.piprujo	betelo	1	NULL	Betelpfeffer	
+betlehxem.0o.urbo	Betleĥemo		NULL	Betlehem	
+beton.0o.KON	betono		oa_9	Beton	
+beton.prem0o.KON	prembetono		NULL	NULL	NULL
+beton.sxtal0o.KON	ŝtalbetono		NULL	Stahlbeton	
+beton.sxtal0o.KON	armita betono		NULL	Stahlbeton	
+beton.sxtal0o.KON	ŝtalbetono		NULL	armierter Beton	
+beton.sxtal0o.KON	armita betono		NULL	armierter Beton	
+bevel.0i.TEK	beveli		NULL	abschrägen	
+bevel.0o.TEK	bevelo		NULL	schräge Kante	
+bezoar.0o.FIZL	bezoaro		NULL	Bezoar	
+bezon.0a.bezonata	bezona		NULL	nötig	
+bezon.0ajxo.KOMUNE	bezonaĵo		NULL	NULL	NULL
+bezon.0i.postuli	bezoni	2	ekz_14	brauchen	
+bezon.0i.postuli	bezoni	2	ekz_14	benötigen	
+bezon.0i.suferi	bezoni	1	ekz_14	brauchen	
+bezon.0i.suferi	bezoni	1	ekz_14	benötigen	
+bezon.0o.manko	bezono	3	NULL	Bedürfnis	
+bezon.0o.postulo	bezono	2	NULL	Bedürfnis	
+bezon.0o.sufero	bezono	1	NULL	Bedürfnis	
+bezon.sen0a.KOMUNE	senbezona		NULL	unnötig	
+bezon.viv0ajxo.EKON	vivbezonaĵo		NULL	Lebensmittel	
+bias.0a.SCI	biasa		NULL	verzerrt	
+bias.0o.SCI	biaso		NULL	Verzerrung	
+bias.0o.SCI	biaso		NULL	Bias	
+bias.0o.SCI	biaso		NULL	Fehler	systematischer Fehler
+bias.sen0a.SCI	senbiasa		NULL	erwartungstreu	
+bibli.0o.ekz	Biblio	2	oa_1	Bibel	
+bibli.0o.kolekto	Biblio	1	oa_1	Bibel	
+biblio1.0o.KOMP	biblioteko	4	NULL	Lib	Lib (Programmbibliothek)
+biblio1.0o.KOMP	biblioteko	4	NULL	Programmbibliothek	
+biblio1.0o.KOMP	biblioteko	4	NULL	Bibliothek	
+biblio1.0o.ejo	biblioteko	1	NULL	Bücherei	
+biblio1.0o.ejo	biblioteko	1	NULL	Bibliothek	
+biblio1.0o.kolekto	biblioteko	2	NULL	Büchersammlung	private Büchersammlung
+biblio1.0o.kolekto	biblioteko	2	NULL	Bibliothek	
+biblio1.0o.serio	biblioteko	3	NULL	Buchreihe	
+biblio1.0o.serio	biblioteko	3	NULL	Schriftenreihe	
+biblio1.0o.serio	biblioteko	3	NULL	Werk	Gesammelte Werke
+biblio1.0o.serio	biblioteko	3	NULL	Bibliothek	
+biblio1.0o.sxranko	biblioteko	5	NULL	Bibliothek	
+bibliofil.0o.TIP	bibliofilo		NULL	Bücherfreund	
+bibliofil.0o.TIP	bibliofilo		NULL	Bibliophiler	
+bibliofil.0o.TIP	bibliofilo		NULL	Bücherliebhaber	
+biceps.0o.ANA	bicepso		NULL	NULL	NULL
+bicikl.0i.BIC	bicikli		NULL	fahren	Fahrrad fahren
+bicikl.0i.BIC	bicikli		NULL	radeln	
+bicikl.0o.velocipedo	biciklo		NULL	Fahrrad	
+bicikl.0o.velocipedo	biciklo		NULL	Rad	Rad (Fahrrad)
+bicikl.elektro0o.BIC	elektrobiciklo		NULL	NULL	NULL
+bicikl.elektro0o.BIC	elektra biciklo		NULL	NULL	NULL
+bicikl.motor0o.BIC	motorbiciklo		NULL	Moped	
+bicikl.motor0o.BIC	zumbiciklo		NULL	Moped	
+bicikl.motor0o.BIC	motorbiciklo		NULL	Mofa	
+bicikl.motor0o.BIC	zumbiciklo		NULL	Mofa	
+bid.0aro.JUV	bidaro		NULL	Kette	Kette (mit Kügelchen)
+bid.0o.JUV	bido		NULL	Perle	Perle (Lochkügelchen)
+bide.0o.MEB	bideo		NULL	Bidet	
+bidermajr.0o.BELA	bidermajro		NULL	Biedermeier	
+biel.0o.TEK	bielo		NULL	Pleuelstange	
+bien.0o.kampara	bieno		NULL	Landgut	
+bien.0o.kampara	bieno		NULL	Bauernhof	
+bienal.0o.BELA	bienalo		NULL	Biennale	
+bier.0ejo.KUI	bierejo		NULL	Kneipe	
+bier.barel0o.KUI	barelbiero		NULL	NULL	NULL
+bier.barel0o.KUI	barela biero		NULL	NULL	NULL
+bier.botel0o.KUI	botelbiero		NULL	NULL	NULL
+bier.botel0o.KUI	botela biero		NULL	NULL	NULL
+bifste.0o.hakita	bifsteko	2	NULL	Beefsteak	
+bigami.0o.GEN	bigamio	1	NULL	Doppelehe	
+bigami.0o.JUR	bigamio	2	NULL	Bigamie	
+bigos.0o.SNC	bigoso		NULL	NULL	NULL
+bihar.0o.GEOG	Biharo		NULL	NULL	NULL
+bikin.0o.TEKS	bikino		NULL	Bikini	
+biks.0o.BOT	bikso		NULL	NULL	NULL
+biksxu.0ino.BUD	bikŝuino		NULL	Bhikkhuni	
+biksxu.0o.BUD	bikŝuo		NULL	Bhikkhu	
+bilanc.0i.EKON	bilanci	1	NULL	bilanzieren	
+bilanc.0i.FIG	bilanci	2	NULL	bilanzieren	
+bilanc.0o.EKON	bilanco	1	NULL	Bilanz	
+bilanc.0o.FIG	bilanco	2	NULL	Aufstellung	
+bilanc.0o.FIG	bilanco	2	NULL	Abrechnung	
+bilanc.0o.FIG	bilanco	2	NULL	Bilanz	
+bilard.0ejo.SPO	bilardejo		NULL	Billardsaal	
+bilard.0o.SPO	bilardo	1	oa_2	Billard	
+bilard.0o.bilardotablo	bilardo	2	oa_2	Billardtisch	
+bilba.0o.urbo	Bilbao		NULL	Bilbao	
+bild.0aro.KOMUNE	bildaro	1	NULL	Bildsammlung	
+bild.0aro.KOMUNE	bildaro	1	NULL	Bildgeschichte	
+bild.0aro.MAT	bildaro	2	NULL	Bildmenge	Bildmenge (einer Abbildung)
+bild.0aro.MAT	bildaro	2	NULL	Bildsammlung	
+bild.0aro.MAT	bildaro	2	NULL	Bildgeschichte	
+bild.0igi.KOMP	bildigi	2	NULL	abbilden	
+bild.0igi.KOMP	bildigi	2	NULL	darstellen	
+bild.0igi.KOMUNE	bildigi	1	NULL	abbilden	
+bild.0igi.KOMUNE	bildigi	1	NULL	darstellen	
+bild.0igo.KOMUNE	bildigo	1	NULL	Darstellung	
+bild.0igo.KOMUNE	bildigo	1	NULL	Abbildung	
+bild.0igo.MAT	bildigo	2	NULL	Abbildung	
+bild.0o.KOMUNE	bildo	1	NULL	Abbild	
+bild.0o.KOMUNE	bildo	1	NULL	Ansicht	
+bild.0o.KOMUNE	bildo	1	NULL	Bild	
+bild.0o.MAT	bildo	3	NULL	Bild	
+bild.0o.metaforo	bildo	2	NULL	NULL	NULL
+bild.idento0igo.MAT	idento-bildigo		NULL	Abbildung	identische Abbildung
+bild.inversa0igo.MAT	inversa bildigo		NULL	Abbildung	inverse Abbildung
+bild.inversa0o.MAT	inversa bildo		NULL	Urbild	
+bild.inversa0o.MAT	inversa bildo		NULL	Bild	inverses Bild
+bild.lum0o.FOT	lumbildo		NULL	Lichtbild	
+bild.lum0o.FOT	lumbildo		NULL	Dia	
+bild.mal0o.MAT	malbildo		NULL	Urbild	
+bild.mal0o.MAT	malbildo		NULL	inverses Bild	
+bild.mem0o.PSI	membildo		NULL	Selbstbild	
+bild.mok0o.KOMUNE	mokbildo		NULL	Spottbild	
+bild.mond0o.FIL	mondbildo		NULL	Weltbild	
+bild.mov0o.KIN	movbildo		NULL	Bewegtbild	
+bild.rekta0o.MAT	rekta bildo		NULL	NULL	NULL
+bild.son0a.TEL	sonbilda		NULL	audiovisuell	
+bild.spegul0o.KOMUNE	spegulbildo		NULL	Spiegelbild	
+bild.sub0igo.MAT	subbildigo		NULL	Einschränkung	Einschränkung (einer Abbildung)
+bilet.0isto.KOMUNE	biletisto		NULL	NULL	NULL
+bilet.0o.EKON	bileto	2	NULL	NULL	NULL
+bilet.0o.KOMUNE	bileto	1	NULL	Eintrittskarte	
+bilet.0o.KOMUNE	bileto	1	NULL	Fahrkarte	
+bilet.0o.KOMUNE	bileto	1	NULL	Fahrschein	
+bilet.0o.KOMUNE	bileto	1	NULL	Flugschein	
+bilet.0o.KOMUNE	bileto	1	NULL	Billett [CH]	
+bilet.0ujo.mona	biletujo		NULL	Geldbörse	
+bilet.enir0o.TUR	enirbileto		NULL	NULL	NULL
+bilet.flug0o.AVI	flugbileto		NULL	NULL	NULL
+bilet.mon0o.EKON	monbileto		NULL	Banknote	
+bilet.mon0o.EKON	bankbileto		NULL	Banknote	
+bilet.mon0o.EKON	monbileto		NULL	Geldschein	
+bilet.mon0o.EKON	bankbileto		NULL	Geldschein	
+bilet.sen0ulo.KOMUNE	senbiletulo		NULL	NULL	NULL
+bilion.0o.duiliono	biliono	1	NULL	Billion	
+bilion.0o.miliardo	biliono	2	NULL	Milliarde	
+bind.0ajxo.librokovrilo	bindaĵo		NULL	Einband	
+bind.0ajxo.librokovrilo	bindo		NULL	Einband	
+bind.0i.KOMP	bindi	2	NULL	binden	binden (Programm)
+bind.0i.TIP	bindi	1	NULL	binden	binden (Buch)
+bind.0ilo.KOMP	bindilo	2	NULL	Binder	Binder (Software)
+bind.0ilo.TIP	bindilo	1	NULL	Bindemaschine	
+bind.0ilo.TIP	bindilo	1	NULL	Heftmaschine	
+bind.0isto.metiisto	bindisto		NULL	Buchbinder	
+bing.0o.SPO	bingo		NULL	Bingo	Bingo (Lotteriespiel)
+bio.0.SCI	bio-		NULL	bio-	
+biodinamik.0o.AGR	biodinamiko		NULL	NULL	NULL
+biodinamik.0o.AGR	biodinamika agrikulturo		NULL	NULL	NULL
+biodiversec.0o.EKOL	biodiverseco		NULL	NULL	NULL
+bioenergi.0o.EKOL	bioenergio		NULL	NULL	NULL
+biofizik.0isto.SCI	biofizikisto		NULL	Biophysiker	
+biofizik.0o.SCI	biofiziko		NULL	Biophysik	
+biogas.0o.KEM	biogaso		NULL	Biogas	
+biogeografi.0o.BIO	biogeografio		NULL	NULL	NULL
+biohxemi.0isto.SCI	bioĥemiisto		NULL	Biochemiker	
+biohxemi.0isto.SCI	biokemiisto		NULL	Biochemiker	
+biohxemi.0o.SCI	bioĥemio		NULL	Biochemie	
+biohxemi.0o.SCI	biokemio		NULL	Biochemie	
+biolog.0o.BIO	biologo		NULL	Biologe	
+biolog.astro0o.BIO	astrobiologo		NULL	NULL	NULL
+biolog1.0a.fenomeno	biologia	2	NULL	biologisch	
+biolog1.0isto.SCI	biologiisto		NULL	Biologe	
+biolog1.0o.SCI	biologio	1	NULL	Biologie	
+biolog1.0o.aspekto	biologio	2	NULL	Biologie	
+biolog1.astro0o.BIO	astrobiologio		NULL	NULL	NULL
+biolog1.molekula0o.BIO	molekula biologio		NULL	NULL	NULL
+biolog1.soci0o.SCI	socibiologio		NULL	NULL	NULL
+biomas.0o.EKOL	biomaso		NULL	Biomasse	
+biomehxanik.0o.BIO	biomeĥaniko		NULL	Biomechanik	
+biomehxanik.0o.BIO	biomekaniko		NULL	Biomechanik	
+biometri.0a.BIO	biometria		NULL	biometrisch	
+biometri.0o.BIO	biometrio		NULL	Biometrie	
+bionik.0isto.TEK	bionikisto		NULL	Bioniker	
+bionik.0o.TEK	bioniko		NULL	Bionik	
+bionto.0o.SCI	biontologio		NULL	Biontologie	
+biopsi.0o.MED	biopsio		NULL	Biopsie	
+biosfer.0o.EKOL	biosfero		NULL	NULL	NULL
+biostatistik.0o.BIO	biostatistiko		NULL	Biostatistik	
+biostratigrafi.0o.PAL	biostratigrafio		NULL	NULL	NULL
+biotop.0o.EKOL	biotopo		NULL	NULL	NULL
+biplan.0o.AVI	biplano		NULL	Doppeldecker	
+biplan.0o.AVI	biplano		NULL	Zweidecker	
+bird.0oj.ZOO	birdoj		NULL	Vögel	
+bird.korto0o.AGR	kortobirdo		NULL	Geflügel	
+bird.korto0o.AGR	kortbirdo		NULL	Geflügel	
+bird.musx0o.ZOO	muŝbirdo		NULL	Kolibri	
+bird.nagxo0o.ZOO	naĝobirdo		NULL	Schwimmvogel	
+bird.nagxo0o.ZOO	naĝbirdo		NULL	Schwimmvogel	
+bird.nagxo0o.ZOO	naĝobirdo		NULL	Wasservogel	
+bird.nagxo0o.ZOO	naĝbirdo		NULL	Wasservogel	
+bird.paradiz0o.SNC	paradizbirdo	1	NULL	NULL	NULL
+bird.paradiz0o.fenikso	paradizbirdo	2	NULL	NULL	NULL
+bird.rabo0oj.ZOO	rabobirdoj		NULL	Taggreife	
+bird.rabo0oj.ZOO	rabbirdoj		NULL	Taggreife	
+bird.rabo0oj.ZOO	rabobirdoj		NULL	Greifvögel	
+bird.rabo0oj.ZOO	rabbirdoj		NULL	Greifvögel	
+bird.rabo0oj.ZOO	rabobirdoj		NULL	Raubvögel	
+bird.rabo0oj.ZOO	rabbirdoj		NULL	Raubvögel	
+bird.vad0oj.ZOO	vadbirdoj		NULL	Schreitvögel	
+bird.vad0oj.ZOO	vadobirdoj		NULL	Schreitvögel	
+biret.0o.TEKS	bireto		oa_4	Barett	Barett (Kirche)
+biret.0o.TEKS	bireto		oa_4	Barett	Barett (Kirche)
+birm.B0o.GEOG	Birmo		oa_8	Myanmar	
+birm.B0o.GEOG	Birmo		oa_8	Birma	
+birm.B0o.GEOG	Birmo		oa_8	Burma	
+bis.0i.peti	bisi	1	NULL	schreien	Zugabe! schreien
+bis.0i.peti	bisi	1	NULL	verlangen	nach Zugabe verlangen
+bis.0i.ripeti	bisi	2	NULL	NULL	NULL
+bisin.0o.TEKS	bisino		NULL	Byssus	
+biskvi.0o.dubakita	biskvito	1	NULL	Zwieback	
+biskvi.0o.dubakita	biskvito	1	NULL	Dauerbrot	
+biskvi.0o.frandajxo	biskvito	2	NULL	Keks	
+biskvi.0o.porcelano	biskvito	3	NULL	Biskuit-Porzellan	
+bistort.0o.BOT	bistorto		NULL	Wiesenknöterich	
+bistort.0o.BOT	bistorto		NULL	Schlangenknöterich	
+bit.0o.KOMP	bito		oa_9	Bit	
+bit.0o.KOMP	bito		oa_9	Bit	
+bit.0o.KOMP	bito		oa_9	Bit	
+bit.0oko.KOMP	bitoko		oa_9	Byte	
+bit1.0o.MAR	bito		NULL	Poller	
+bitini.0o.antikva_regiono	Bitinio		NULL	Bithynien	
+bitnik.0o.MOD	bitniko		NULL	NULL	NULL
+bitotek.0o.TIP	bitoteko		NULL	NULL	NULL
+bitum.0i.kovri	bitumi		NULL	NULL	NULL
+biv.0o.MUZ	bivo		NULL	Biwa	
+bivak.0o.halto	bivako	1	NULL	Feldlager	
+bivak.0o.halto	bivako	1	NULL	Biwak	
+bivak.0o.loko	bivako	2	NULL	Feldlager	
+bivak.0o.loko	bivako	2	NULL	Biwak	
+bizanc.0o.antikva	Bizanco		NULL	Byzanz	
+bizanc.0o.antikva	Bizantio		NULL	Byzanz	
+bizanci.0a.HIS	bizancia		NULL	byzantinisch	
+bizanci.0ano.HIS	bizanciano		NULL	Byzantiner	
+bizanci.0o.HIS	Bizancio		NULL	Byzanz	
+bizanci.0o.HIS	Bizancio		NULL	Byzantinisches Reich	
+bjalistok.0o.urbo	Bjalistoko		NULL	Białystok	
+blabla.0.SON	blabla		NULL	NULL	NULL
+blabla.0i.SON	blablai		NULL	NULL	NULL
+blag.0i.KOMUNE	blagi		NULL	aufschneiden	
+blag.0i.KOMUNE	blagi		NULL	flunkern	
+blag.0i.KOMUNE	blagi		NULL	prahlen	
+blag.0i.KOMUNE	blagi		NULL	veralbern	
+blag.0i.KOMUNE	blagi		NULL	verarschen	
+blag.0o.KOMUNE	blago		NULL	Flunkerei	
+blag.0o.KOMUNE	blago		NULL	Humbug	
+blag.0o.KOMUNE	blago		NULL	Prahlerei	
+blag.0o.KOMUNE	blago		NULL	Unsinn	
+blag.0o.KOMUNE	blago		NULL	Verarsche	
+blag.0ulo.KOMUNE	blagulo		NULL	Aufschneider	
+blag.0ulo.KOMUNE	blagulo		NULL	Prahlhans	
+blank.0ajxo.KOMUNE	blankaĵo		NULL	NULL	NULL
+blank.0ajxo.KOMUNE	blanko		NULL	NULL	NULL
+blank.0eta.KOL	blanketa		NULL	weißlich	
+blank.0igi.KOL	blankigi		NULL	weißen	
+blank.0igi.KOL	blankigi		NULL	bleichen	
+blank.0igxi.KOL	blankiĝi		NULL	NULL	NULL
+blank.0o.ludanto	blanko	2	NULL	Weiß	
+blank.0ulo.ETN	blankulo		NULL	Weißer	
+blank.ovo0o.KUI	ovblanko		uv_O	Eiweiß	
+blank.ovo0o.KUI	ovoblanko		uv_O	Eiweiß	
+blank.ovo0o.KUI	ovoblankaĵo		uv_O	Eiweiß	
+blastomer.0o.FIZL	blastomero		NULL	NULL	NULL
+blat.0o.ZOO	blato	2	NULL	Schabe	
+blat.0o.ZOO	blato	2	NULL	Küchenschabe	
+blat.0o.ic	blato	3	NULL	Schabe	
+blat.0o.ic	blato	3	NULL	Chip	
+blaz.0o.MED	blazo		NULL	Blase	Blase (Haut)
+blazi.0o.NOM	Blazio		NULL	Blasius	
+blazi.0o.NOM	Blazio		NULL	Blaise	
+blazon.0i.HER	blazoni		NULL	NULL	NULL
+blazon.0o.HER	blazono		NULL	Wappen	
+blefarit.0o.MED	blefarito		NULL	NULL	NULL
+blek.0i.FIG	bleki	2	NULL	blöken	
+blek.0i.FIG	bleki	2	NULL	heulen	
+blek.0i.FIG	bleki	2	NULL	kreischen	
+blek.0i.beste	bleki	1	NULL	blöken	
+blek.0i.beste	bleki	1	NULL	heulen	
+blek.0i.beste	bleki	1	NULL	kreischen	
+blek.0o.FIG	bleko	2	NULL	Blöken	
+blek.0o.FIG	bleko	2	NULL	Heulen	
+blek.0o.FIG	bleko	2	NULL	Kreischen	
+blekn.0o.BOT	blekno		NULL	Rippenfarn	
+blend1.0i.MIL	blendi		NULL	panzern	
+blend1.0o.MIL	blendo		NULL	Panzerung	
+blenor.0o.MED	blenoragio		NULL	Blennorrhagie	
+blenor1.0o.MED	blenoreo		NULL	Blennorrhoe	
+blez.0o.urbo	Blezo		NULL	Blois	
+blind.0a.FIG	blinda	2	NULL	Brett	mit einem Brett vorm Kopf
+blind.0a.FIG	blinda	2	NULL	blind	
+blind.0a.FIG_netravidebla	blinda	3	NULL	trüb	
+blind.0a.FIG_netravidebla	blinda	3	NULL	blind	
+blind.0a.MED	blinda	1	NULL	blind	
+blind.0e.FIG	blinde	2	NULL	blind	
+blind.0e.MED	blinde	1	NULL	blind	
+blind.0eco.MED	blindeco		NULL	Blindheit	
+blind.0igi.FIG	blindigi	2	NULL	blenden	
+blind.0igi.MED	blindigi	1	NULL	blenden	
+blind.0igxi.FIG	blindiĝi	2	NULL	erblinden	
+blind.0igxi.MED	blindiĝi	1	NULL	erblinden	
+blind.0ulo.FIG	blindulo	2	NULL	Blinder	
+blind.0ulo.MED	blindulo	1	NULL	Blinder	
+blind.0umi.KOMUNE	blindumi		NULL	blenden	
+blind.mal0igi.FIG	malblindigi	2	NULL	Vernunft	zur Vernunft bringen
+blind.mal0igi.MED	malblindigi	1	NULL	Augenlicht	das Augenlicht zurückgeben
+blind.mal0igi.MED	malblindigi	1	NULL	sehend	wieder sehend machen
+blind.mal0igxi.FIG	malblindiĝi	2	NULL	bewusst	sich bewusst werden
+blind.mal0igxi.FIG	malblindiĝi	2	NULL	aufwachen	aufwachen (i.ü.S.)
+blind.mal0igxi.FIG	malblindiĝi	2	NULL	Vernunft	zur Vernunft kommen
+blind.mal0igxi.MED	malblindiĝi	1	NULL	NULL	NULL
+blind.vort0a.MED	vortblinda		NULL	NULL	NULL
+blind.vort0eco.MED	vortblindeco		NULL	Legasthenie	
+blind.vort0eco.MED	vortblindeco		NULL	Leseschwäche	
+blis.0o.LIN	Bliso		NULL	NULL	NULL
+blis.0o.LIN	Blisa skribo		NULL	NULL	NULL
+blok.0i.KOMUNE	bloki	1	NULL	abriegeln	
+blok.0i.KOMUNE	bloki	1	NULL	absperren	
+blok.0i.KOMUNE	bloki	1	NULL	blockieren	
+blok.0i.blokadi	bloki	2	NULL	abblocken	
+blok.0i.blokadi	bloki	2	NULL	blockieren	
+blok.0o.POL	bloko	5	NULL	NULL	NULL
+blok.0o.agregata	bloko	2	NULL	Aggregat	
+blok.0o.agregata	bloko	2	NULL	Block	(Motor-)Block
+blok.0o.foliaro	bloko	3	NULL	NULL	NULL
+blok.0o.kohera_teksto	bloko	4	NULL	Textblock	
+blok.0o.maso	bloko	1	NULL	Block	
+blok.0o.maso	bloko	1	NULL	Klotz	
+blok.0o.maso	bloko	1	NULL	Brocken	
+blok.dom0o.ARKI	dombloko		NULL	Häuserblock	
+blok.sxton0o.GEOL	ŝtonbloko		NULL	Steinblock	
+blok.sxton0o.GEOL	ŝtonbloko		NULL	Felsbrocken	
+blokad.0o.MIL	blokado	1	NULL	Blockade	
+blokad.0o.baro	blokado	2	NULL	Blockade	
+blond.0a.biero	blonda	2	NULL	blond	
+blond.0a.hararo	blonda	1	NULL	blond	
+blov.0ado.KOMUNE	blovado		NULL	NULL	NULL
+blov.0ajxo.KOMUNE	blovaĵo		NULL	Brise	
+blov.0ajxo.KOMUNE	blovaĵo		NULL	Hauch	
+blov.0ajxo.KOMUNE	blovaĵo		NULL	Puste	
+blov.0i.ntr	blovi	1	ekz_39	blasen	
+blov.0i.ntr	blovi	1	ekz_39	wehen	
+blov.0i.ntr	blovi	1	ekz_39	pusten	
+blov.0i.tr	blovi	2	ekz_39	blasen	
+blov.0i.tr	blovi	2	ekz_39	wehen	
+blov.0i.tr	blovi	2	ekz_39	pusten	
+blov.0ilo.KOMUNE	blovilo		NULL	Blasebalg	
+blov.0o.KOMUNE	blovo		NULL	NULL	NULL
+blov.cxirkaux0i.KOMUNE	ĉirkaŭblovi		NULL	umwehen	
+blov.dis0i.KOMUNE	disblovi		NULL	wegblasen	
+blov.dis0i.KOMUNE	disblovi		NULL	verwehen	
+blov.dis0igxi.KOMUNE	disbloviĝi		NULL	NULL	NULL
+blov.en0i.FIG	enblovi	2	NULL	blasen	hinein blasen
+blov.en0i.KOMUNE	enblovi	1	NULL	blasen	hinein blasen
+blov.for0i.KOMUNE	forblovi		NULL	wegblasen	
+blov.for0i.KOMUNE	forblovi		NULL	verwehen	
+blov.plen0i.KOMUNE	plenblovi		NULL	aufblasen	
+blov.plen0i.KOMUNE	plenblovi		NULL	aufpusten	
+blov.spir0i.KOMUNE	spirblovi		NULL	pusten	
+blov.tra0o.KOMUNE	trablovo		NULL	Zug	
+blov.tra0o.KOMUNE	trablovo		NULL	Durchzug	
+blu.0ajxo.KOMUNE	bluaĵo	1	NULL	NULL	NULL
+blu.0ajxo.MED	bluaĵo	2	NULL	Bluterguss	
+blu.0ajxo.MED	bluaĵo	2	NULL	Blaues Auge	Blaues Auge (u.ä.)
+blu.0o.KOL	bluo		NULL	Blau	
+blunderbuz.0o.ARM	blunderbuzo		NULL	Donnerbüchse	
+blus.0o.MUZ	bluso		NULL	Blues	
+bluz.0o.TEKS	bluzo		NULL	Bluse	
+boa.0o.KOMUNE	boao	1	NULL	Boa	
+boa.0o.TEKS	boao	3	NULL	Boa (Schal)	
+boa.0o.TEKS	boao	3	NULL	Boa	
+boa.0o.ZOO	boao	2	NULL	Boa (Schlange)	
+boa.0o.ZOO	boao	2	NULL	Boa	
+board.0i.MAR	boardi		NULL	kreuzen	
+boat.0i.SHI	boati		NULL	NULL	NULL
+boat.0i.SHI	boatumi		NULL	NULL	NULL
+boat.0o.SHI	boato		NULL	Boot	
+boat.gum0o.SHI	gumboato		NULL	NULL	NULL
+boat.motor0o.SHI	motorboato		NULL	Motorboot	
+boat.pedal0o.SHI	pedalboato		NULL	Tretboot	
+boat.platfunda0o.SHI	platfunda boato		NULL	NULL	NULL
+boat.sav0o.SHI	savboato		NULL	Rettungsboot	
+boat.vel0o.SHI	velboato		NULL	NULL	NULL
+bobel.0i.KOMUNE	bobeli		NULL	blubbern	
+bobel.0o.KOMUNE	bobelo		NULL	Blase	
+boben.0ego.TEK	bobenego		NULL	Trommel	(Kabel-)Trommel
+boben.0ego.TEK	bobenego		NULL	Rolle	(Seil-)Rolle
+boben.0i.TEK	bobeni		NULL	aufspulen	
+boben.0o.ELE	bobeno	2	NULL	Spule	
+boben.0o.ELE	bobeno	2	NULL	Induktionsspule	
+boben.0o.ELE	bobeno	2	NULL	Magnetspule	
+boben.0o.ELE	bobeno	2	NULL	elektrische Spule	
+boben.0o.ELE	bobeno	2	NULL	Induktion	Induktion [Physikjargon]
+boben.0o.KOMUNE	bobeno	1	NULL	Spule	
+boben.0o.KOMUNE	bobeno	1	NULL	Fadenrolle	
+boben.el0igi.FIG	elbobenigi	2	NULL	abspulen	
+boben.el0igi.KOMUNE	elbobenigi	1	NULL	abspulen	
+boben.glit0o.TEKS	glitbobeno		NULL	Schiffchen	
+boben.lud0o.SPO	ludbobeno		NULL	Jo-Jo	
+bobsled.0o.SPO	bobsledo		NULL	Bob	
+bobsled.0o.SPO	bobsledo		NULL	Bobschlitten	
+bocvan.B0o.GEOG	Bocvano		NULL	Botswana	
+bodisatv.0o.BUD	bodisatvo		NULL	Bodhisattva	
+bogolan.0o.TEKS	bogolano		NULL	NULL	NULL
+bogomil.0o.HIS	bogomilo		NULL	Bogomile	
+bohem.0a.GEOG	bohema		NULL	Böhmen	
+bohem.0ujo.GEOG	Bohemujo		NULL	NULL	NULL
+bohemi.0o.bohemujo	Bohemio		NULL	Böhmen	
+boj.0.SON	boj		NULL	wau	
+boj.0i.ZOO	boji	1	NULL	bellen	
+boj.0i.al	boji	2	NULL	verbellen	
+boj.tir0i.SON	tirboji		NULL	heulen	
+bojar.0o.POL	bojaro		NULL	NULL	NULL
+boks.0i.lukti	boksi		NULL	boxen	
+boks.0o.SPO	bokso		NULL	Boxen	
+boks.0o.SPO	bokso		NULL	Faustkampf	
+boks.angla0o.SPO	angla bokso		NULL	englisches Boxen	
+boks.angla0o.SPO	angla bokso		NULL	Boxen	Boxen (nach Queensberry-Regeln)
+boks.franca0o.SPO	franca bokso		NULL	Savate	Savate (französischer Kampfsport)
+boks.taja0o.SPO	taja bokso		NULL	Thaiboxen	
+boks.taja0o.SPO	taja bokso		NULL	Muay Thai	
+bol.0i.fervori	boli	3	ekz_25	sieden	
+bol.0i.fervori	boli	3	ekz_25	kochen	kochen (sieden)
+bol.0i.malkvieti	boli	2	ekz_25	sieden	
+bol.0i.malkvieti	boli	2	ekz_25	kochen	kochen (sieden)
+bol.0i.vaporigxi	boli	1	ekz_25	sieden	
+bol.0i.vaporigxi	boli	1	ekz_25	kochen	kochen (sieden)
+bol.0igi.ek	boligi	1	NULL	aufkochen	
+bol.0igi.ek	boligi	1	NULL	sieden	zum sieden bringen
+bol.0igi.ek	boligi	1	NULL	aufkochen	
+bol.0igi.ek	boligi	1	NULL	zum sieden bringen	
+bol.0igi.teni	boligi	2	NULL	kochen	
+bol.0igi.teni	boligi	2	NULL	garen	
+bol.0igi.teni	boligi	2	NULL	aufkochen	
+bol.0igi.teni	boligi	2	NULL	zum sieden bringen	
+bol.0o.komune	bolo		NULL	Sieden	
+bol.0o.komune	bolado		NULL	Sieden	
+bol.0o.komune	bolo		NULL	Kochen	Kochen (Sieden)
+bol.0o.komune	bolado		NULL	Kochen	Kochen (Sieden)
+bolard.0o.MAR	bolardo	1	NULL	Poller	
+bolard.0o.MAR	bolardo	1	NULL	Vertäuungspfosten	
+bolard.0o.TRA	bolardo	2	NULL	Poller	
+bolard.0o.TRA	bolardo	2	NULL	Vertäuungspfosten	
+boler.0o.TEKS	bolero		NULL	Bolero	Bolero (Jacke)
+boler1.0o.hispana_danco	bolero	1	NULL	Bolero	
+boler1.0o.kariba_stilo	bolero	2	NULL	Bolero	
+boleslav.0o.NOM	Boleslavo		NULL	Boleslaw	
+boleslav.0o.NOM	Boleslavo		NULL	Bolesław	
+bolivud.0o.KIN	bolivudo		NULL	NULL	NULL
+bolsxevik.0a.POL	bolŝevika		NULL	bolschewikisch	
+bolsxevik.0a.POL	bolŝevika		NULL	bolschewistisch	
+bolsxevik.0o.POL	bolŝeviko		NULL	Bolschewik	
+bolsxevik.0o.POL	bolŝeviko		NULL	Bolschewist	
+bolt.0i.TEK	bolti		NULL	schrauben	
+bolt.0i.TEK	bolti		NULL	verschrauben	
+bolt.0ingo.TEK	boltingo		NULL	Unterlegscheibe	
+bolt.0o.TEK	bolto		NULL	Schraube	
+bolt.0o.TEK	bolto		NULL	Metallschraube	
+bolt.mal0i.TEK	malbolti		NULL	NULL	NULL
+bolus.0o.digestado	boluso	2	NULL	Bissen	
+bolus.0o.pilolo	boluso	1	NULL	Bissen	
+bomb.0ado.MIL	bombado		NULL	Bombardierung	
+bomb.0i.MIL	bombi		NULL	NULL	NULL
+bomb.0o.armilo	bombo		oa_2	Bombe	
+bomb.0o.armilo	bombo		oa_2	Sprengkörper	
+bomb.horlogx0o.ARM	horloĝbombo		NULL	Zeitbombe	
+bomb.horlogx0o.ARM	prokrasta bombo		NULL	Zeitbombe	
+bombak.0o.BOT	bombako		NULL	Wollbaum	
+bombar.0i.FIG	bombardi	2	NULL	bombardieren	
+bombar.0i.MIL	bombardi	1	NULL	beschießen	
+bombar.0i.MIL	bombardi	1	NULL	bombardieren	
+bombazin.0o.TEKS	bombazino		NULL	Bombasin	
+bombicil.0o.ZOO	bombicilo		NULL	Seidenschwanz	Seidenschwanz (Vogel)
+bombon.0o.KUI	bombono		NULL	Bonbon	
+bon.0ajxo.KOMUNE	bonaĵo		NULL	Gutes	
+bon.0ajxo.KOMUNE	bonaĵo		NULL	Erfolg	
+bon.0ajxo.KOMUNE	bonaĵo		NULL	Nutzen	
+bon.0e.konsentite	bone	2	uv_E	einverstanden!	
+bon.0e.konsentite	bone	2	uv_E	einverstanden!	
+bon.0e.konsentite	bone	2	uv_E	einverstanden!	
+bon.0e.konsentite	bone	2	uv_E	einverstanden!	
+bon.0e.konsentite	bone	2	uv_E	einverstanden!	
+bon.0e.konsentite	bone	2	uv_E	gut	
+bon.0e.konsentite	bone	2	uv_E	gut	
+bon.0e.konsentite	bone	2	uv_E	gut	
+bon.0e.konsentite	bone	2	uv_E	gut	
+bon.0e.konsentite	bone	2	uv_E	gut	
+bon.0e.maniero	bone	1	uv_E	gut	
+bon.0e.maniero	bone	1	uv_E	gut	
+bon.0e.maniero	bone	1	uv_E	gut	
+bon.0e.maniero	bone	1	uv_E	gut	
+bon.0e.maniero	bone	1	uv_E	gut	
+bon.0eco.humaneco	boneco	1	ekz_11	Güte	
+bon.0eco.humaneco	boneco	1	ekz_11	Güte	
+bon.0eco.humaneco	boneco	1	ekz_11	Güte	
+bon.0eco.humaneco	boneco	1	ekz_11	Güte	
+bon.0eco.humaneco	boneco	1	ekz_11	Güte	
+bon.0eco.humaneco	boneco	1	uv_E	Güte	
+bon.0eco.humaneco	boneco	1	uv_E	Güte	
+bon.0eco.humaneco	boneco	1	uv_E	Güte	
+bon.0eco.humaneco	boneco	1	uv_E	Güte	
+bon.0eco.humaneco	boneco	1	uv_E	Güte	
+bon.0eco.komplezemo	boneco	3	ekz_11	Güte	
+bon.0eco.komplezemo	boneco	3	ekz_11	Güte	
+bon.0eco.komplezemo	boneco	3	ekz_11	Güte	
+bon.0eco.komplezemo	boneco	3	ekz_11	Güte	
+bon.0eco.komplezemo	boneco	3	ekz_11	Güte	
+bon.0eco.komplezemo	boneco	3	uv_E	Güte	
+bon.0eco.komplezemo	boneco	3	uv_E	Güte	
+bon.0eco.komplezemo	boneco	3	uv_E	Güte	
+bon.0eco.komplezemo	boneco	3	uv_E	Güte	
+bon.0eco.komplezemo	boneco	3	uv_E	Güte	
+bon.0eco.kvalito	boneco	2	ekz_11	Güte	
+bon.0eco.kvalito	boneco	2	ekz_11	Güte	
+bon.0eco.kvalito	boneco	2	ekz_11	Güte	
+bon.0eco.kvalito	boneco	2	ekz_11	Güte	
+bon.0eco.kvalito	boneco	2	ekz_11	Güte	
+bon.0eco.kvalito	boneco	2	uv_E	Güte	
+bon.0eco.kvalito	boneco	2	uv_E	Güte	
+bon.0eco.kvalito	boneco	2	uv_E	Güte	
+bon.0eco.kvalito	boneco	2	uv_E	Güte	
+bon.0eco.kvalito	boneco	2	uv_E	Güte	
+bon.0i.KOMUNE	boni		NULL	NULL	NULL
+bon.0o.FIL	bono	1	NULL	Gutes	
+bon.0o.FIL	bono	1	NULL	Erfolg	
+bon.0o.FIL	bono	1	NULL	Nutzen	
+bon.0o.ajxo	bono	2	NULL	Gutes	
+bon.0o.ajxo	bono	2	NULL	Erfolg	
+bon.0o.ajxo	bono	2	NULL	Nutzen	
+bon.0o.faro	bono	3	NULL	Gutes	
+bon.0o.faro	bono	3	NULL	Erfolg	
+bon.0o.faro	bono	3	NULL	Nutzen	
+bon.0ulo.simplanima	bonulo	2	NULL	Gutmensch	
+bon.0ulo.simplanima	bonulo	2	NULL	Gemüt	schlichtes Gemüt
+bon.0ulo.virtulo	bonulo	1	NULL	Mensch	guter Mensch
+bon.komuna0o.FIL	komuna bono		NULL	Wohl	aller Wohl
+bon.mal0a.malfelicxa	malbona	2	uv_M	schlecht	
+bon.mal0a.malfelicxa	malbona	2	uv_M	schlecht	
+bon.mal0a.malfelicxa	malbona	2	uv_M	schlecht	
+bon.mal0a.malfelicxa	malbona	2	uv_M	schlecht	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	schlecht	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	schlecht	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	schlecht	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	schlecht	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	schlecht	
+bon.mal0a.malfelicxa	malbona	2	uv_M	unvorteilhaft	
+bon.mal0a.malfelicxa	malbona	2	uv_M	unvorteilhaft	
+bon.mal0a.malfelicxa	malbona	2	uv_M	unvorteilhaft	
+bon.mal0a.malfelicxa	malbona	2	uv_M	unvorteilhaft	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	unvorteilhaft	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	unvorteilhaft	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	unvorteilhaft	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	unvorteilhaft	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	unvorteilhaft	
+bon.mal0a.malfelicxa	malbona	2	uv_M	schlecht	
+bon.mal0a.malfelicxa	malbona	2	uv_M	schlecht	
+bon.mal0a.malfelicxa	malbona	2	uv_M	schlecht	
+bon.mal0a.malfelicxa	malbona	2	uv_M	schlecht	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	schlecht	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	schlecht	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	schlecht	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	schlecht	
+bon.mal0a.malfelicxa	malbona	2	ekz_10	schlecht	
+bon.mal0a.malhumana	malbona	3	uv_M	böse	
+bon.mal0a.malhumana	malbona	3	uv_M	böse	
+bon.mal0a.malhumana	malbona	3	uv_M	böse	
+bon.mal0a.malhumana	malbona	3	uv_M	böse	
+bon.mal0a.malhumana	malbona	3	ekz_10	böse	
+bon.mal0a.malhumana	malbona	3	ekz_10	böse	
+bon.mal0a.malhumana	malbona	3	ekz_10	böse	
+bon.mal0a.malhumana	malbona	3	ekz_10	böse	
+bon.mal0a.malhumana	malbona	3	ekz_10	böse	
+bon.mal0a.malhumana	malbona	3	uv_M	boshaft	
+bon.mal0a.malhumana	malbona	3	uv_M	boshaft	
+bon.mal0a.malhumana	malbona	3	uv_M	boshaft	
+bon.mal0a.malhumana	malbona	3	uv_M	boshaft	
+bon.mal0a.malhumana	malbona	3	ekz_10	boshaft	
+bon.mal0a.malhumana	malbona	3	ekz_10	boshaft	
+bon.mal0a.malhumana	malbona	3	ekz_10	boshaft	
+bon.mal0a.malhumana	malbona	3	ekz_10	boshaft	
+bon.mal0a.malhumana	malbona	3	ekz_10	boshaft	
+bon.mal0a.malhumana	malbona	3	uv_M	schlecht	
+bon.mal0a.malhumana	malbona	3	uv_M	schlecht	
+bon.mal0a.malhumana	malbona	3	uv_M	schlecht	
+bon.mal0a.malhumana	malbona	3	uv_M	schlecht	
+bon.mal0a.malhumana	malbona	3	ekz_10	schlecht	
+bon.mal0a.malhumana	malbona	3	ekz_10	schlecht	
+bon.mal0a.malhumana	malbona	3	ekz_10	schlecht	
+bon.mal0a.malhumana	malbona	3	ekz_10	schlecht	
+bon.mal0a.malhumana	malbona	3	ekz_10	schlecht	
+bon.mal0a.maltauxga	malbona	1	uv_M	schlecht	
+bon.mal0a.maltauxga	malbona	1	uv_M	schlecht	
+bon.mal0a.maltauxga	malbona	1	uv_M	schlecht	
+bon.mal0a.maltauxga	malbona	1	uv_M	schlecht	
+bon.mal0a.maltauxga	malbona	1	ekz_10	schlecht	
+bon.mal0a.maltauxga	malbona	1	ekz_10	schlecht	
+bon.mal0a.maltauxga	malbona	1	ekz_10	schlecht	
+bon.mal0a.maltauxga	malbona	1	ekz_10	schlecht	
+bon.mal0a.maltauxga	malbona	1	ekz_10	schlecht	
+bon.mal0a.maltauxga	malbona	1	uv_M	schlecht	
+bon.mal0a.maltauxga	malbona	1	uv_M	schlecht	
+bon.mal0a.maltauxga	malbona	1	uv_M	schlecht	
+bon.mal0a.maltauxga	malbona	1	uv_M	schlecht	
+bon.mal0a.maltauxga	malbona	1	ekz_10	schlecht	
+bon.mal0a.maltauxga	malbona	1	ekz_10	schlecht	
+bon.mal0a.maltauxga	malbona	1	ekz_10	schlecht	
+bon.mal0a.maltauxga	malbona	1	ekz_10	schlecht	
+bon.mal0a.maltauxga	malbona	1	ekz_10	schlecht	
+bon.mal0ajxo.faro	malbonaĵo	3	NULL	Unheil	
+bon.mal0ajxo.faro	malbonaĵo	3	NULL	Untat	
+bon.mal0ajxo.okazajxo	malbonaĵo	1	NULL	Missgeschick	
+bon.mal0ajxo.okazajxo	malbonaĵo	1	NULL	MIssstand	
+bon.mal0ajxo.okazajxo	malbonaĵo	1	NULL	Unglück	
+bon.mal0ajxo.okazajxo	malbonaĵo	1	NULL	Mist	Mist (Schlechtes)
+bon.mal0ega.maltauxga	malbonega		NULL	NULL	NULL
+bon.mal0igi.KOMUNE	malbonigi		NULL	verschlechtern	
+bon.mal0igi.KOMUNE	malbonigi		NULL	verschlimmern	
+bon.mal0igi.KOMUNE	malbonigi		NULL	verderben	
+bon.mal0igxi.KOMUNE	malboniĝi		NULL	verschlechtern	sich verschlechtern
+bon.mal0igxi.KOMUNE	malboniĝi		NULL	verschlimmern	sich verschlimmern
+bon.mal0igxi.KOMUNE	malboniĝi		NULL	verderben	
+bon.mal0o.FIL	malbono	1	NULL	Böse	das Böse
+bon.mal0o.ajxo	malbono	2	NULL	Missgeschick	
+bon.mal0o.ajxo	malbono	2	NULL	Unglück	
+bon.mal0o.faro	malbono	2	NULL	Untat	
+bon.mal0o.faro	malbono	2	NULL	Schandtat	
+bon.plej0eco.KOMUNE	plejboneco		NULL	NULL	NULL
+bon.pli0igi.KOMUNE	plibonigi		NULL	verbessern	
+bon.re0igi.KOMUNE	rebonigi		NULL	gut	wieder gutmachen
+bon.re0igi.KOMUNE	rebonigi		NULL	ausbessern	
+bon.re0igi.KOMUNE	rebonigi		NULL	sanieren	
+bonaventur.0o.NOM	Bonaventuro		NULL	Bonaventura	
+bong.0o.MUZ	bongo		NULL	Bongo	Bongo (Trommel)
+bonifac.0o.NOM	Bonifaco		NULL	Bonifatius	
+bonifik.0o.EKON	bonifiko		NULL	Zulage	(benannte) Zulage
+bonifik.0o.EKON	bonifiko		NULL	Zuschlag	
+bonob.0o.ZOO	bonobo		NULL	Bonobo	
+bonob.0o.ZOO	bonobo		NULL	Zwergschimpanse	
+bonsaj.0o.arbo	bonsajo		NULL	Bonsai	
+bonus.0o.EKON	bonuso	1	NULL	Bonus	
+bonus.0o.FIG	bonuso	2	NULL	Bonus	
+bonz.0o.oficisto	bonzo	2	NULL	Bonze	
+bor.0i.FIG	bori	2	NULL	bohren	
+bor.0i.TEK	bori	1	NULL	bohren	
+bor.0ilo.TEK	borilo		NULL	Bohrer	
+bor.tra0i.TEK	trabori		NULL	durchbohren	
+bord.0ede.KOMUNE	borde de		NULL	Ufer	am Ufer von
+bord.0o.FIG	bordo	2	ekz_32	Ufer	
+bord.0o.FIG	bordo	2	ekz_32	Rand	
+bord.0o.GEOG	bordo	1	ekz_32	Ufer	
+bord.0o.GEOG	bordo	1	ekz_32	Rand	
+bord.al0igxejo.MAR	albordiĝejo		NULL	Landestelle	
+bord.al0igxejo.MAR	albordiĝejo		NULL	Anleger	
+bord.al0igxi.MAR	albordiĝi		NULL	anlegen	
+bord.al0igxi.MAR	albordiĝi		NULL	landen	
+bord.de0igxi.MAR	debordiĝi		NULL	ablegen	
+bord.mar0o.GEOG	marbordo		NULL	Küste	
+border.0i.io	borderi	2	NULL	säumen	
+border.0i.iu	borderi	1	NULL	säumen	
+border.refaldo0i.TEKS	refaldoborderi		NULL	säumen	doppelt eingeschlagen säumen
+bordoz.0o.urbo	Bordozo		NULL	Bordeaux	
+boris.0o.NOM	Boriso		NULL	Boris	
+born.0o.SNC	borno		NULL	Klemme	
+borne.0o.insulo	Borneo		NULL	Borneo	
+borne.0o.insulo	Kalimantano		NULL	Borneo	
+borneol.0o.KEM	borneolo		NULL	Borneol	
+bors.0ejo.EKON	borsejo		NULL	Börsenplatz	
+bors.0ejo.EKON	borsejo		NULL	Handelsplatz	Handelsplatz (Börse)
+bors.0o.komercejo	borso	1	NULL	Handelsbörse	
+bors.0o.komercejo	borso	1	NULL	Börse	
+bors.0o.merkato	borso	2	NULL	Wertpapiermarkt	
+bors.0o.merkato	borso	2	NULL	Börse	
+bosanov.0o.MUZ	bosanovo		NULL	Bossa Nova	
+bosn.0o.naciano	bosno	2	NULL	Bosnier	
+bosn.0o.sxtatano	bosno	1	NULL	Bosnier	
+bosn.B0ujo.GEOG	Bosnujo		NULL	Bosnien	
+bosn.B0ujoHercegovino.sxtato	Bosnujo kaj Hercegovino		NULL	Bosnien und Herzegowina	
+bosni.B0o.GEOG	Bosnio		NULL	Bosnien	
+bosni.B0oHercegovino.sxtato	Bosnio kaj Hercegovino		NULL	Bosnien und Herzegowina	
+boston1.0o.SPO	bostono		NULL	Boston	Boston (Kartenspiel)
+bosx.0ano.GEOG	boŝano		NULL	NULL	NULL
+bosx.0o.GEOG	boŝo		NULL	NULL	NULL
+bot.0eto.TEKS	boteto		NULL	Stiefeletten	
+bot.0eto.TEKS	duonboto		NULL	Stiefeletten	
+bot.0eto.TEKS	boteto		NULL	Schnürstiefel	
+bot.0eto.TEKS	duonboto		NULL	Schnürstiefel	
+bot.0eto.TEKS	boteto		NULL	Halbschaftstiefel	
+bot.0eto.TEKS	duonboto		NULL	Halbschaftstiefel	
+bot.0isto.TEKS	botisto		ekz_31	Stiefelmacher	
+bot.0isto.TEKS	botisto		ekz_31	Stiefelmacher	
+bot.0isto.TEKS	botisto		ekz_31	Stiefelmacher	
+bot.0isto.TEKS	botisto		ekz_31	Stiefelmacher	
+bot.0isto.TEKS	botisto		ekz_31	Stiefelmacher	
+bot.0isto.TEKS	botisto		uv_I	Stiefelmacher	
+bot.0isto.TEKS	botisto		uv_I	Stiefelmacher	
+bot.0isto.TEKS	botisto		uv_I	Stiefelmacher	
+bot.0isto.TEKS	botisto		uv_I	Stiefelmacher	
+bot.0o.TEKS	boto		ekz_31	Stiefel	
+bot.0o.TEKS	boto		ekz_31	Stiefel	
+bot.0o.TEKS	boto		ekz_31	Stiefel	
+bot.0o.TEKS	boto		ekz_31	Stiefel	
+bot.0o.TEKS	boto		ekz_31	Stiefel	
+bot.0o.TEKS	boto		ekz_37	Stiefel	
+bot.lekila0ojn.KOMUNE	leki la botojn		NULL	Stiefel	die Stiefel lecken
+bot.rajd0o.TEKS	rajdboto		NULL	Reitstiefel	
+botani.0o.SCI	botaniko		NULL	Botanik	
+botaux.0o.ZOO	botaŭro		NULL	Rohrdommel	
+botel.0eto.VAZ	boteleto		NULL	Fläschchen	
+botel.0o.VAZ	botelo		ekz_34	Flasche	
+botel.brul0o.ARM	brulbotelo		NULL	Molotov cocktail	
+botel.gas0o.ujo	gasbotelo		NULL	Gasflasche	
+botel.sucx0o.KOMUNE	suĉbotelo		NULL	NULL	NULL
+botel.trans0igi.KOMUNE	transboteligi		NULL	umgießen	
+botel.varm0o.VAZ	varmbotelo		NULL	Isolierkanne	
+botel.varm0o.VAZ	vakubotelo		NULL	Isolierkanne	
+botel.varm0o.VAZ	varmbotelo		NULL	Thermoskanne	
+botel.varm0o.VAZ	vakubotelo		NULL	Thermoskanne	
+botel.varm0o.VAZ	varmbotelo		NULL	Thermosflasche	
+botel.varm0o.VAZ	vakubotelo		NULL	Thermosflasche	
+bov.0ajxo.KUI	bovaĵo		NULL	Rindfleisch	
+bov.0idajxo.KUI	bovidaĵo		NULL	NULL	NULL
+bov.0ido.AGR	bovido		uv_I	Kalb	
+bov.0ido.AGR	bovido		uv_I	Kalb	
+bov.0ido.AGR	bovido		uv_I	Kalb	
+bov.0ido.AGR	bovido		uv_I	Kalb	
+bov.0ido.AGR	bovido		uv_I	Kalb	
+bov.0ido.AGR	bovido		ekz_36	Kalb	
+bov.0ido.AGR	bovido		ekz_36	Kalb	
+bov.0ido.AGR	bovido		ekz_36	Kalb	
+bov.0ido.AGR	bovido		ekz_36	Kalb	
+bov.0ido.AGR	bovido		ekz_36	Kalb	
+bov.0o.ZOO	bovo		ekz_33	Rind	
+bov.0o.ZOO	bovo		ekz_36	Rind	
+bov.0o.ZOO	bovo		ekz_36	Rind	
+bov.0o.ZOO	bovo		ekz_36	Rind	
+bov.0o.ZOO	bovo		ekz_36	Rind	
+bov.0o.ZOO	bovo		ekz_36	Rind	
+bov.B0o.AST	Bovo		NULL	Stier	
+bov.grunt0o.ZOO	gruntbovo		NULL	NULL	NULL
+bov.vir0o.AGR	virbovo		NULL	Stier	
+boved.0oj.ZOO	bovedoj		NULL	Horntiere	
+bovl.0o.KOMUNE	bovlo	1	oa_8	Schale	
+bovl.0o.LIN	bovlo	2	oa_8	NULL	NULL
+bovling.0o.SPO	bovlingo		NULL	Bowling	
+brahxicefal.0o.ANA	braĥicefalo		NULL	Brachyzephale	
+brahxicefal.0o.ANA	brakicefalo		NULL	Brachyzephale	
+brahxicefal.0o.ANA	braĥicefalo		NULL	Kurzkopf	
+brahxicefal.0o.ANA	brakicefalo		NULL	Kurzkopf	
+brak.0en0e.MIEN	brakenbrake		NULL	Arm	Arm in Arm
+brak.0en0e.MIEN	brakenbrake		NULL	untergehakt	
+brak.0o.FIG	brako	3	ekz_40	Arm	
+brak.0o.homa_membro	brako	1	ekz_40	Arm	
+brak.0o.sxultro_gxis_kubuto	brako	2	ekz_40	Oberarm	
+brak.antaux0o.ANA	antaŭbrako		NULL	Unterarm	
+brak.cxirkaux0i.brakumi	ĉirkaŭbraki		NULL	umarmen	
+brak.en0igi.cxirkauxbraki	enbrakigi	1	NULL	Arm	in die Arme nehmen
+brak.en0igi.surbrakigi	enbrakigi	2	NULL	Arm	in die Arme nehmen
+brak.sub0o.ANA	subbrako		NULL	Achsel	
+brakte.0o.BOT	brakteo		NULL	Tragblatt	
+brakte.0o.BOT	brakteo		NULL	Deckblatt	
+brakte.0o.BOT	brakteo		NULL	Hüllblatt	
+bram.0o.ZOO	bramo		NULL	Blei	
+bram1.0o.SHI	bramo		NULL	Bram	
+bram1.0o.SHI	bramo		NULL	Bramstenge	
+brancx.0aro.BOT	branĉaro		NULL	Geäst	
+brancx.0aro.BOT	branĉaro		NULL	Krone	Krone (Baum)
+brancx.0o.BOT	branĉo	1	ekz_39	Ast	
+brancx.0o.BOT	branĉo	1	ekz_39	Zweig	
+brancx.0o.FIG	branĉo	2	ekz_39	Arm	
+brancx.0o.FIG	branĉo	2	ekz_39	Zweig	
+brancx.0o.FIG	branĉo	2	ekz_39	Branche	
+brancx.0o.FIG	branĉo	2	ekz_39	Ausläufer	
+brancx.dis0igxi.KOMUNE	disbranĉiĝi		NULL	verzweigen	sich verzweigen
+brancx.dis0igxi.KOMUNE	disbranĉiĝi		NULL	verästeln	sich verästeln
+brand.0o.KUI	brando		ekz_34	Schnaps	
+brand.0o.KUI	brando		ekz_34	Branntwein	
+brand.cxeriz0o.KUI	ĉerizbrando		NULL	Kirschwasser	
+brand.juniper0o.KUI	juniperbrando		NULL	Wacholderbranntwein	
+brand.juniper0o.KUI	juniperbrando		NULL	Wacholderschnaps	
+brand.juniper0o.KUI	juniperbrando		NULL	Gin	
+brand.prun0o.KUI	prunbrando		NULL	Zwetschgenwasser	
+brande.0o.lando	Brandenburgo	2	NULL	Brandenburg	
+brande.0o.urbo	Brandenburgo	1	NULL	NULL	NULL
+brank.0o.ZOO	branko		NULL	Kiemen	
+brank.0okovrilo.ZOO	brankokovrilo		NULL	Kiemendeckel	
+brank.0okovrilo.ZOO	brankoklapo		NULL	Kiemendeckel	
+branka.0isto.MED	brankardisto		NULL	Krankenträger	
+branka.0o.MED	brankardo		NULL	Tragbahre	
+branka.0o.MED	brankardo		NULL	Trage	
+branka.0o.MED	brankardo		NULL	Bahre	
+brasik.0o.BOT	brasiko		NULL	Kohl	
+brasik.0rapo.BOT	brasikrapo		NULL	NULL	NULL
+brasik.burgxon0o.BOT	burĝonbrasiko		NULL	Rosenkohl	
+brasik.burgxon0o.BOT	bruselbrasiko		NULL	Rosenkohl	
+brasik.flor0o.BOT	florbrasiko		NULL	Blumenkohl	
+brasik.gxarden0o.BOT	ĝardenbrasiko		NULL	Gemüsekohl	
+brasik.tigo0o.BOT	tigobrasiko		NULL	Kohlrabi	
+brauxning.0o.ARM	braŭningo		NULL	Browning	Browning (Schusswaffe)
+brav.0a.honesta	brava	2	ekz_34	brav	
+brav.0a.honesta	brava	2	ekz_34	treu	
+brav.0a.honesta	brava	2	ekz_34	fidel	
+brav.0a.honesta	brava	2	ekz_34	tüchtig	
+brav.0a.kuragxa	brava	1	ekz_34	tapfer	
+brav.0a.kuragxa	brava	1	ekz_34	edel	
+brav.0a.kuragxa	brava	1	ekz_34	wacker	
+brav.0acxa.KOMUNE	bravaĉa		NULL	NULL	NULL
+brav.0e.bone	brave	2	NULL	bravo	
+brav.0e.maniere	brave	1	NULL	tapfer	
+brav.0e.maniere	brave	1	NULL	edel	
+brav.0e.maniere	brave	1	NULL	wacker	
+brav.0e.maniere	brave	1	NULL	brav	
+brav.0e.maniere	brave	1	NULL	treu	
+brav.0e.maniere	brave	1	NULL	fidel	
+brav.0e.maniere	brave	1	NULL	tüchtig	
+brav.0e.maniere	brave	1	NULL	gütig	
+brav.0eco.KOMUNE	braveco		NULL	NULL	NULL
+brav.0ulino.KOMUNE	bravulino		NULL	Heldin	
+brav.0ulino.KOMUNE	bravulino		NULL	Kind	tapferes Kind
+brav.0ulino.KOMUNE	bravulino		NULL	Streiterin	tapfere Streiterin
+brav.0ulino.KOMUNE	bravulino		NULL	Weib	wackeres Weib
+brav.0ulino.KOMUNE	bravulino		NULL	Weib	braves Weib
+brav.0ulino.KOMUNE	bravulino		NULL	Seele	treue Seele
+brav.0ulino.KOMUNE	bravulino		NULL	Mädchen	tüchtiges Mädchen
+brav.0ulino.KOMUNE	bravulino		NULL	Frau	gütige Frau
+brav.0ulo.KOMUNE	bravulo		NULL	Held	
+brav.0ulo.KOMUNE	bravulo		NULL	Heldin	
+brav.0ulo.KOMUNE	bravulo		NULL	Kerl	tapferer Kerl
+brav.0ulo.KOMUNE	bravulo		NULL	Mann	wackerer Mann
+brav.0ulo.KOMUNE	bravulo		NULL	Mann	braver Mann
+brav.0ulo.KOMUNE	bravulo		NULL	Seele	treue Seele
+brav.0ulo.KOMUNE	bravulo		NULL	Kamerad	fideler Kamerad
+brav.0ulo.KOMUNE	bravulo		NULL	Bursche	tüchtiger Bursche
+brav.0ulo.KOMUNE	bravulo		NULL	Mensch	gütiger Mensch
+bravis.0e.ekkrio	bravisime		NULL	NULL	NULL
+brazavil.0o.cxefurbo	Brazavilo		NULL	Brazzaville	
+brec.0o.KUI	breco		NULL	Brezel	
+brecx.0eto.KOMUNE	breĉeto		NULL	Scharte	
+brecx.0i.KOMUNE	breĉi		NULL	aufbrechen	
+brecx.0i.KOMUNE	breĉi		NULL	spalten	
+brecx.0i.KOMUNE	breĉi		NULL	zerklüften	
+brecx.0o.FIG	breĉo	2	oa_2	Bresche	
+brecx.0o.FIG	breĉo	2	oa_2	Lücke	
+brecx.0o.FIG	breĉo	2	oa_2	Riss	
+brecx.0o.FIG	breĉo	2	oa_2	Verwerfung	Verwerfung (Bresche)
+brecx.0o.KOMUNE	breĉo	1	oa_2	Bresche	
+brecx.0o.KOMUNE	breĉo	1	oa_2	Lücke	
+brecx.0o.KOMUNE	breĉo	1	oa_2	Riss	
+brecx.0o.KOMUNE	breĉo	1	oa_2	Verwerfung	Verwerfung (Bresche)
+bred.0ado.AGR	bredado		NULL	Zucht	
+bred.0ejo.AGR	bredejo		NULL	NULL	NULL
+bred.0i.AGR	bredi		oa_8	züchten	
+bred.0isto.AGR	bredisto		NULL	Züchter	
+brek.0o.TRA	breko		NULL	Break	Break (Kutsche)
+brem.0o.urbo	Bremo		NULL	Bremen	
+bremen.0o.subsxtato	Bremeno	2	NULL	Bremen	(Stadtstaat) Bremen
+bremen.0o.subsxtato	Bremeno	2	NULL	Bremen	
+bremen.0o.urbo	Bremeno	1	NULL	Bremen	
+bremen.0o.urbo	Bremeno	1	NULL	Bremen	
+brems.0i.FIG	bremsi	2	NULL	bremsen	
+brems.0i.MAS	bremsi	1	NULL	bremsen	
+brems.0o.MAS	bremso		oa_5	Bremse	
+brems.0sxuo.MAS	bremsŝuo		NULL	Bremsklotz	
+brems.0sxuo.MAS	bremsŝuo		NULL	Bremsbacke	
+bret.0aro.MEBL	bretaro		NULL	Regal	
+bret.0o.MEBL	breto		NULL	Brett	
+bret.fenestro0o.ARKI	fenestrobreto		NULL	Fensterbrett	
+bret.kontinento0o.GEOL	kontinentobreto		NULL	NULL	NULL
+bret.kontinento0o.GEOL	kontinentbreto		NULL	NULL	NULL
+bret.libro0aro.MEBL	librobretaro		NULL	Bücherregal	
+brevie.0o.FIG	breviero	2	NULL	Handbuch	
+brevie.0o.FIG	breviero	2	NULL	Brevier	
+brevie.0o.KAT	breviero	1	NULL	Brevier	
+brid.0i.FIG	bridi	3	NULL	zügeln	
+brid.0i.RAJ	bridi	1	NULL	halftern	
+brid.0i.RAJ	bridi	1	NULL	Zügel	die Zügel anlegen
+brid.0i.malrapidigi	bridi	2	NULL	zügeln	
+brid.0o.RAJ	brido		NULL	Zügel	
+brid.ne0ebla.KOMUNE	nebridebla		NULL	unbändig	
+brid.ne0ebla.KOMUNE	nebridebla		NULL	ungestüm	
+brid.sen0a.FIG	senbrida	2	NULL	zügellos	
+brid.sen0a.FIG	senbrida	2	NULL	ungezügelt	
+brid.sen0a.FIG	senbrida	2	NULL	ungestüm	
+brid.sen0a.RAJ	senbrida	1	NULL	ungezügelt	
+brid.sen0a.RAJ	senbrida	1	NULL	ungestüm	
+brid.sen0igi.FIG	senbridigi	3	NULL	Lauf	freien Lauf lassen
+brid.sen0igi.RAJ	senbridigi	1	NULL	abhalftern	
+brid.sen0igi.RAJ	senbridigi	1	NULL	Zügel	die Zügel abnemen
+brid.sen0igi.lasi	senbridigi	2	NULL	NULL	NULL
+brig.0o.MAR	brigo		NULL	Brigg	
+brigad.0o.FIG	brigado	2	oa_2	Trupp	
+brigad.0o.FIG	brigado	2	oa_2	Brigade	
+brigad.0o.MIL	brigado	1	oa_2	Brigade	
+brik.0o.FIG_elemento	briko	2	NULL	NULL	NULL
+brik.0o.bakita	briko	1	NULL	Ziegel	
+brik.0o.formo	briko	3	NULL	NULL	NULL
+brikabrak.0o.KOMUNE	brikabrako		NULL	NULL	NULL
+bril.0eto.KOMUNE	brileto		NULL	Schimmer	
+bril.0i.FIG	brili	2	ekz_5	glänzen	
+bril.0i.lumo	brili	1	ekz_5	scheinen	
+bril.0i.lumo	brili	1	ekz_5	glitzern	
+bril.0i.lumo	brili	1	ekz_5	glänzen	
+bril.0o.FIZ	brilo		NULL	Glanz	
+bril.0o.FIZ	brilo		NULL	Schein	
+bril.mal0a.FIG	malbrila	2	NULL	blass	blass (unscheinbar)
+bril.mal0a.FIG	senbrila	2	NULL	blass	blass (unscheinbar)
+bril.mal0a.FIG	malbrila	2	NULL	unscheinbar	
+bril.mal0a.FIG	senbrila	2	NULL	unscheinbar	
+bril.mal0a.FIG	malbrila	2	NULL	glanzlos	
+bril.mal0a.FIG	senbrila	2	NULL	glanzlos	
+bril.mal0a.lume	malbrila	1	NULL	matt	matt glänzend
+bril.mal0a.lume	senbrila	1	NULL	matt	matt glänzend
+bril.mal0a.lume	malbrila	1	NULL	glanzlos	
+bril.mal0a.lume	senbrila	1	NULL	glanzlos	
+bril.re0i.FIZ	rebrili		NULL	widerspiegeln	sich widerspiegeln
+bril.trem0i.FIZ	trembrili		NULL	flimmern	
+bril.trem0i.FIZ	trembrili		NULL	glitzern	
+bril.trem0i.FIZ	trembrili		NULL	flackern	
+brilantin.0o.KOS	brilantino		NULL	NULL	NULL
+brilia.0a.FIG	brilianta	2	NULL	NULL	NULL
+brilia.0a.MIN	brilianta	1	NULL	NULL	NULL
+brilia.0o.MIN	brilianto		NULL	Brillant	
+briocx.0o.KUI	brioĉo		NULL	NULL	NULL
+bristol.0o.urbo	Bristolo		NULL	Bristol	
+brit.0a.HIS	brita	1	NULL	britisch	
+brit.0a.insula	brita	3	NULL	britisch	
+brit.0a.landa	brita	2	NULL	britisch	
+brit.0o.HIS	brito	1	oa_9	Brite	
+brit.0o.britujano	brito	2	oa_9	Brite	
+brit.0ujano.ETN	britujano		NULL	NULL	NULL
+brit.B0aInsularo.GEOG	Brita Insularo		NULL	Britische Inseln	
+brit.B0ujo.GEOG	Britujo		oa_9	Großbritannien	
+briti.B0o.insulo	Britio	2	NULL	Großbritannien	Großbritannien (Insel)
+briti.B0o.sxtato	Britio	1	NULL	Großbritannien	Großbritannien (Staat)
+briz.0o.MET	brizo		NULL	Brise	
+brn.0o.urbo	Brno		NULL	Brünn	
+brocx.0o.JUV	broĉo	1	NULL	Brosche	
+brocx.0o.JUV	broĉo	1	NULL	Anstecknadel	
+brocx.0o.pinglo	broĉo	2	NULL	NULL	NULL
+brodkast.0i.TEL	brodkasti		NULL	senden	senden (Rundfunk)
+brog.0ajxo.akvo	brogaĵo		NULL	Brühe	
+brog.0i.KUI	brogi	1	NULL	brühen	
+brog.0i.KUI	brogi	1	NULL	blanchieren	
+brog.0i.vundi	brogi	2	NULL	verbrühen	
+brokan.0ajxo.EKON	brokantaĵo		NULL	Altware	
+brokan.0ajxo.EKON	brokantaĵo		NULL	Gebrauchtware	
+brokan.0ajxo.EKON	brokantaĵo		NULL	Trödel	
+bronz.0a.KEM	bronza	1	NULL	Bronze	aus Bronze
+bronz.0a.KEM	bronza	1	NULL	bronzen	
+bronz.0a.bronzaspekta	bronza	2	NULL	NULL	NULL
+bronz.0ajxo.BELA	bronzaĵo		NULL	Bronze	
+bronz.0i.KEM	bronzi	1	NULL	NULL	NULL
+bronz.0i.bronzaspektigi	bronzi	2	NULL	NULL	NULL
+bronz.0o.KEM	bronzo		NULL	Bronze	
+bros.0i.HEJM	brosi		NULL	bürsten	
+bros.0o.HEJM	broso		ekz_39	Bürste	
+bros.dent0o.KOS	dentbroso		NULL	Zahnbürste	
+bros.dent0o.KOS	dentobroso		NULL	Zahnbürste	
+bros.har0o.KOS	harbroso		NULL	Haarbürste	
+brosm.0o.ZOO	brosmo		NULL	Lumb	
+brosxu.0i.TIP	broŝuri		NULL	heften	
+brosxu.0i.TIP	broŝuri		NULL	broschieren	
+brosxu.0i.TIP	broŝuri		NULL	klammern	klammern (Broschüre)
+brosxu.0o.TIP	broŝuro		NULL	Broschüre	
+brosxu.0o.TIP	broŝuro		NULL	Heft	(gedrucktes) Heft
+brov.0o.ANA	brovo		NULL	Augenbraue	
+brov.kuntirila0ojn.MIEN	kuntiri la brovojn		NULL	die Augenbrauen runzeln	
+brov.kuntirila0ojn.MIEN	sulkigi la brovojn		NULL	die Augenbrauen runzeln	
+brov.kuntirila0ojn.MIEN	kuntiri la brovojn		NULL	Augenbrauen	die Augenbrauen zusammen ziehen
+brov.kuntirila0ojn.MIEN	sulkigi la brovojn		NULL	Augenbrauen	die Augenbrauen zusammen ziehen
+brr.0.ekkrio	brr		NULL	brr!	
+bru.0a.FIG	brua	2	NULL	aufsehenerregend	
+bru.0a.lauxta	brua	1	NULL	lärmig	
+bru.0a.lauxta	brua	1	NULL	laut	
+bru.0anto.FON	bruanto		NULL	Geräuschkonsonant	
+bru.0ero.FON	bruero		NULL	NULL	NULL
+bru.0i.FIG	brui	3	ekz_38	Aufsehen	Aufsehen erregen
+bru.0i.FIG	brui	3	ekz_38	Aufheben	viel Aufheben verursachen
+bru.0i.FIG	brui	3	ekz_38	Aufmerksamkeit	Aufmerksamkeit auf sich ziehen
+bru.0i.FIG	brui	3	ekz_38	Rummel	einen Rummel veranstalten
+bru.0i.krii	brui	2	ekz_38	Lärm	Lärm machen
+bru.0i.soni	brui	1	ekz_38	lärmen	
+bru.0i.soni	brui	1	ekz_38	tosen	
+bru.0o.FIG	bruo	2	NULL	Aufsehen	
+bru.0o.FIG	bruo	2	NULL	Aufhebens	
+bru.0o.FIG	bruo	2	NULL	Rummel	Rummel (Aufsehen)
+bru.0o.FIG	bruo	2	NULL	Unruhe	
+bru.0o.sonaro	bruo	1	NULL	Lärm	
+bru.fon0o.SON	fonbruo		NULL	Hintergrundrauschen	
+bru.fon0o.SON	fonbruo		NULL	Hintergrundgeräusch	
+brul.0a.brulanta	brula	1	NULL	brennend	
+brul.0a.bruligebla	brula	2	NULL	Brenn-	
+brul.0a.bruligebla	brula	2	NULL	brennbar	
+brul.0ego.KOMUNE	brulego		NULL	Feuersbrunst	
+brul.0ego.KOMUNE	brulego		NULL	Großbrand	
+brul.0ema.KOMUNE	brulema		NULL	entzündlich	
+brul.0i.FIG	bruli	4	ekz_13	brennen	
+brul.0i.FIG	bruli	4	ekz_13	brennen	
+brul.0i.FIG	bruli	4	ekz_13	brennen	
+brul.0i.FIG	bruli	4	ekz_31	brennen	
+brul.0i.konsumi	bruli	2	ekz_13	brennen	
+brul.0i.konsumi	bruli	2	ekz_13	brennen	
+brul.0i.konsumi	bruli	2	ekz_13	brennen	
+brul.0i.konsumi	bruli	2	ekz_31	brennen	
+brul.0i.konsumigxi	bruli	1	ekz_13	brennen	
+brul.0i.konsumigxi	bruli	1	ekz_13	brennen	
+brul.0i.konsumigxi	bruli	1	ekz_13	brennen	
+brul.0i.konsumigxi	bruli	1	ekz_31	brennen	
+brul.0i.varmi	bruli	3	ekz_13	brennen	
+brul.0i.varmi	bruli	3	ekz_13	brennen	
+brul.0i.varmi	bruli	3	ekz_13	brennen	
+brul.0i.varmi	bruli	3	ekz_31	brennen	
+brul.0igajxo.KOMUNE	bruligaĵo		NULL	Brennstoff	
+brul.0igajxo.KOMUNE	bruligaĵo		NULL	Brennmaterial	
+brul.0igajxo.KOMUNE	bruligaĵo		NULL	Treibstoff	
+brul.0igebla.KOMUNE	bruligebla		NULL	brennbar	
+brul.0igi.konsumigi	bruligi	1	ekz_13	verbrennen	
+brul.0igi.konsumigi	bruligi	1	ekz_13	verbrennen	
+brul.0igi.konsumigi	bruligi	1	ekz_13	verbrennen	
+brul.0igi.konsumigi	bruligi	1	uv_I	verbrennen	
+brul.0igi.konsumigi	bruligi	1	uv_I	verbrennen	
+brul.0igi.konsumigi	bruligi	1	uv_I	verbrennen	
+brul.0igi.vundi	bruligi	2	ekz_13	verbrennen	
+brul.0igi.vundi	bruligi	2	ekz_13	verbrennen	
+brul.0igi.vundi	bruligi	2	ekz_13	verbrennen	
+brul.0igi.vundi	bruligi	2	uv_I	verbrennen	
+brul.0igi.vundi	bruligi	2	uv_I	verbrennen	
+brul.0igi.vundi	bruligi	2	uv_I	verbrennen	
+brul.0ilo.TEK	brulilo		NULL	Brenner	
+brul.0o.KOMUNE	brulo		NULL	Brand	
+brul.0umo.MED	brulumo		uv_B	Entzündung	Entzündung (Körperreaktion)
+brul.al0i.KUI	albruli		NULL	anbrennen	anbrennen (am Topfboden usw.)
+brul.cxirkaux0i.KOMUNE	ĉirkaŭbruli		NULL	anbrennen	anbrennen (außen herum)
+brul.ek0igi.KOMUNE	ekbruligi		NULL	anzünden	
+brul.ek0igi.KOMUNE	ekbruligi		NULL	entzünden	
+brul.ek0igi.KOMUNE	ekbruligi		NULL	entflammen	
+brul.ek0igi.KOMUNE	ekbruligi		NULL	entfachen	
+brun.0ulino.hare	brunulino	1	NULL	NULL	NULL
+brun.0ulino.hauxte	brunulino	2	NULL	NULL	NULL
+brun.0ulo.hare	brunulo	1	NULL	NULL	NULL
+brun.0ulo.hauxte	brunulo	2	NULL	NULL	NULL
+brun1.0o.NOM	Bruno		NULL	NULL	NULL
+brunej.B0o.GEOG	Brunejo		NULL	Brunei	
+brunsvik.novaB0o.GEOG	Nova Brunsviko		NULL	New Brunswick	
+brunsvik.novaB0o.GEOG	Nov-Brunsviko		NULL	New Brunswick	
+brusel.B0o.reg	Bruselo	2	NULL	Brüssel	
+brusel.B0o.urb	Bruselo	1	NULL	Brüssel	
+brusk.0a.KOMUNE	bruska		NULL	brüsk	
+brusk.0a.KOMUNE	bruska		NULL	schroff	
+brusk.0e.malmilde	bruske		NULL	brüsk	
+brusk.0e.malmilde	bruske		NULL	barsch	
+brusk.0e.malmilde	bruske		NULL	schroff	
+brusk.0i.KOMUNE	bruski		NULL	brüskieren	
+brusk.0i.KOMUNE	bruski		NULL	Kopf	vor den Kopf stoßen
+brust.0o.mamo	brusto	2	NULL	Brust	
+brust.sur0ajxo.KOMUNE	surbrustaĵo	1	NULL	Mieder	
+brust.sur0ajxo.KOMUNE	surbrusto	1	NULL	Mieder	
+brust.sur0ajxo.KOMUNE	surbrustaĵo	1	NULL	Choschen	
+brust.sur0ajxo.KOMUNE	surbrusto	1	NULL	Choschen	
+brut.0a.FIG	bruta	2	NULL	brutal	
+brut.0a.de_bruto	bruta	1	NULL	Tier-	
+brut.0aro.AGR	brutaro		NULL	Vieh	
+brut.0igi.FIG	brutigi		NULL	NULL	NULL
+brut.0o.AGR	bruto	1	ekz_34	Vieh	
+brut.0o.AGR	bruto	1	ekz_34	Haustier	
+brut.0o.FIG	bruto	2	ekz_34	NULL	NULL
+brut.korn0o.AGR	kornbruto		NULL	Hornvieh	
+brutal.0a.FIG	brutala	2	NULL	brutal	
+brutal.0a.perforta	brutala	1	NULL	brutal	
+bub.0acxo.HOM	bubaĉo		NULL	Bengel	
+bub.0acxo.HOM	bubaĉo		NULL	Schlingel	
+bub.0acxo.HOM	bubaĉo		NULL	Lümmel	
+bub.0ajxo.KOMUNE	bubaĵo		NULL	NULL	NULL
+bub.0ino.HOM	bubino		NULL	NULL	NULL
+bub.0o.infano	bubo	1	NULL	Bube	
+bub.0o.infano	bubo	1	NULL	Junge	
+bub.0o.karta	bubo	2	NULL	Bube	Bube [francaj bildoj]
+bub.0o.karta	bubo	2	NULL	Unter	Unter [germanaj bildoj]
+bubal.0o.ZOO	bubalo		NULL	Büffel	
+bubon.0o.MED	bubono		NULL	Lymphknotenschwellung	
+bubon.0o.MED	bubono		NULL	Beule	(Pest-)Beule
+bubu.0o.TEKS	bubuo		NULL	NULL	NULL
+bucer.0o.ZOO	bucero		NULL	Hornvogel	
+bucer.0o.ZOO	bucero		NULL	Nashornvogel	
+bucx.0ejo.FIG	buĉejo	2	NULL	Schlachtfeld	
+bucx.0ejo.KOMUNE	buĉejo	1	NULL	Schlachthof	
+bucx.0i.FIG	buĉi	2	NULL	schlachten	
+bucx.0i.FIG	buĉi	2	NULL	abschlachten	
+bucx.0i.KOMUNE	buĉi	1	NULL	schlachten	
+bucx.0i.KOMUNE	buĉi	1	NULL	abschlachten	
+bucx.0isto.EKON	buĉisto		NULL	NULL	NULL
+bucx.amas0i.KOMUNE	amasbuĉi		NULL	NULL	NULL
+bud.0o.ARKI	budo		NULL	Bude	
+bud.0o.ARKI	budo		NULL	Kabine	
+bud.0o.ARKI	budo		NULL	Kiosk	
+bud.balot0o.POL	balotbudo		NULL	Wahlkabine	
+bud.muzik0o.ARKI	muzikbudo		NULL	Musikpavillon	
+bud.muzik0o.ARKI	muzikbudo		NULL	Musikkiosk	
+bud.prov0o.TEKS	provbudo		NULL	Umkleidekabine	
+bud.telefon0o.TEL	telefonbudo		NULL	Telefonzelle	
+buda.0ismo.BUD	budaismo		NULL	Buddhismus	
+buda.0ismo.BUD	buddismo		NULL	Buddhismus	
+buda.0ismo.BUD	budhismo		NULL	Buddhismus	
+buda.0isto.BUD	budaisto		NULL	Buddhist	
+buda.0isto.BUD	buddisto		NULL	Buddhist	
+buda.0isto.BUD	budhisto		NULL	Buddhist	
+buda.0isto.BUD	budhano		NULL	Buddhist	
+buda.0isto.BUD	budaano		NULL	Buddhist	
+buda.0o.Sidarto	budao	3	NULL	Buddha	
+buda.0o.Sidarto	buddo	3	NULL	Buddha	
+buda.0o.Sidarto	budho	3	NULL	Buddha	
+buda.0o.figuro	budao	2	NULL	Buddha	
+buda.0o.figuro	buddo	2	NULL	Buddha	
+buda.0o.figuro	budho	2	NULL	Buddha	
+buda.0o.nivelo	budao	1	NULL	Buddha	
+buda.0o.nivelo	buddo	1	NULL	Buddha	
+buda.0o.nivelo	budho	1	NULL	Buddha	
+budapesxt.0o.cxefurbo	Budapeŝto		NULL	Budapest	
+budle.0o.BOT	budleo		NULL	Sommerflieder	
+budle.0o.BOT	budleo		NULL	Schmetterlingsflieder	
+buduar.0o.ARKI	buduaro		NULL	NULL	NULL
+bufed.0ejo.KUI	bufedejo		NULL	Lounge	
+bufed.0ejo.KUI	bufedejo		NULL	Büffetzimmer	
+bufed.0ejo.KUI	bufedejo		NULL	Frühstücksraum	Frühstücksraum (Büffet)
+bufed.0o.MEBL	bufedo	1	NULL	Büffet	
+bufed.0o.MEBL	bufedo	1	NULL	Anrichte	
+bufed.0o.ejo	bufedo	3	NULL	Lounge	
+bufed.0o.servo	bufedo	2	NULL	Frühstücksbüffet	
+bufon.0ajxo.KOMUNE	bufonaĵo		NULL	NULL	NULL
+bufon.0i.KOMUNE	bufoni		NULL	NULL	NULL
+bufon.0o.KOMUNE	bufono		NULL	Spaßmacher	
+bufon.0o.KOMUNE	bufono		NULL	Hofnarr	
+bufr.0o.ELET	bufro	3	NULL	Pufferschaltung	
+bufr.0o.ELET	bufro	3	NULL	Puffer	
+bufr.0o.FIG	bufro	6	NULL	Puffer	
+bufr.0o.KEM	bufro	4	NULL	Puffer	Puffer(lösung)
+bufr.0o.KEM	bufro	4	NULL	Puffer	
+bufr.0o.KOMP	bufro	2	NULL	Pufferspeicher	
+bufr.0o.KOMP	bufro	2	NULL	Zwischenspeicher	
+bufr.0o.KOMP	bufro	2	NULL	Cache	
+bufr.0o.KOMP	bufro	2	NULL	Puffer	
+bufr.0o.POL	bufro	5	NULL	Pufferzone	
+bufr.0o.POL	bufro	5	NULL	Puffer	
+bufr.0o.TEK	bufro	1	NULL	Puffer	
+bugenvil.0o.BOT	bugenvilo		NULL	Bougainvillea	
+bugxet.0i.EKON	buĝeti		NULL	budgetieren	
+bugxet.0i.EKON	buĝeti		NULL	finanzieren	
+bugxet.0o.EKON_efektiva	buĝeto	3	oa_8	Haushalt	
+bugxet.0o.EKON_efektiva	buĝeto	3	oa_8	Haushalt	
+bugxet.0o.EKON_efektiva	buĝeto	3	oa_8	Haushalt	
+bugxet.0o.EKON_efektiva	buĝeto	3	oa_8	Haushalt	
+bugxet.0o.EKON_efektiva	buĝeto	3	oa_8	Haushalt	
+bugxet.0o.EKON_efektiva	budĝeto	3	oa_8	Haushalt	
+bugxet.0o.EKON_efektiva	budĝeto	3	oa_8	Haushalt	
+bugxet.0o.EKON_efektiva	budĝeto	3	oa_8	Haushalt	
+bugxet.0o.EKON_efektiva	budĝeto	3	oa_8	Haushalt	
+bugxet.0o.EKON_efektiva	budĝeto	3	oa_8	Haushalt	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Haushaltsplan	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Haushaltsplan	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Haushaltsplan	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Haushaltsplan	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Haushaltsplan	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Haushaltsplan	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Haushaltsplan	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Haushaltsplan	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Haushaltsplan	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Haushaltsplan	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Budget	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Budget	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Budget	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Budget	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Budget	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Budget	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Budget	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Budget	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Budget	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Budget	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Etat	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Etat	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Etat	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Etat	
+bugxet.0o.EKON_plana	buĝeto	1	oa_8	Etat	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Etat	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Etat	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Etat	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Etat	
+bugxet.0o.EKON_plana	budĝeto	1	oa_8	Etat	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Budget	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Budget	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Budget	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Budget	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Budget	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Budget	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Budget	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Budget	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Budget	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Budget	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Haushalt	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Haushalt	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Haushalt	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Haushalt	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Haushalt	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Haushalt	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Haushalt	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Haushalt	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Haushalt	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Haushalt	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Kostenrahmen	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Kostenrahmen	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Kostenrahmen	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Kostenrahmen	
+bugxet.0o.disponebla_sumo	buĝeto	2	oa_8	Kostenrahmen	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Kostenrahmen	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Kostenrahmen	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Kostenrahmen	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Kostenrahmen	
+bugxet.0o.disponebla_sumo	budĝeto	2	oa_8	Kostenrahmen	
+buhxor.B0o.GEOG	Buĥoro		NULL	Buchara	
+buhxor.B0o.GEOG	Buĥaro		NULL	Buchara	
+buhxt.0o.KUI	buĥto		NULL	Buchtel	
+buhxt1.0o.GEOG	buĥto		NULL	Bucht	
+bukcen.0o.MUZ	bukceno		NULL	NULL	NULL
+buked.0o.FIG	bukedo	2	NULL	Strauß	
+buked.0o.fasko	bukedo	1	NULL	Strauß	
+bukl.0a.havanta	bukla	2	NULL	lockig	
+bukl.0a.havanta	bukliĝa	2	NULL	lockig	
+bukl.0a.volvigxa	bukla	1	NULL	lockig	
+bukl.0a.volvigxa	bukliĝa	1	NULL	lockig	
+bukl.0i.bukleformi	bukli		NULL	locken	
+bukl.0i.bukleformi	bukligi		NULL	locken	
+bukl.0ilo.KOS	buklilo		NULL	Lockenwickler	
+bukl.0o.benda	buklo	2	NULL	Schleife	
+bukl.0o.benda	buklo	2	NULL	Schlaufe	
+bukl.0o.grafeo	buklo	3	NULL	Schlinge	
+bukl.0o.grafeo	buklo	3	NULL	Kante	singuläre Kante
+bukl.0o.grafeo	buklo	3	NULL	Einkreis	
+bukl.0o.grafeo	buklo	3	NULL	Schleife	
+bukl.0o.hara	buklo	1	NULL	Locke	
+bukl.sen0a.KOMUNE	senbukla	1	NULL	NULL	NULL
+bukl.sen0a.grafeo	senbukla	2	NULL	Schleife	(Graph) ohne Schleife
+bul.0eto.KOMUNE	buleto	1	NULL	Knöllchen	
+bul.0eto.KOMUNE	buleto	1	NULL	Klümpchen	
+bul.0eto.KUI	buleto	2	NULL	Klößchen	
+bul.0eto.KUI	buleto	2	NULL	Knödel	
+bul.0eto.KUI	buleto	2	NULL	Nocke	
+bul.0eto.KUI	buleto	2	NULL	Klops	
+bul.0igi.KOMUNE	buligi		NULL	zusammenknäueln	
+bul.0igi.KOMUNE	buligi		NULL	formen	einen Kloß formen
+bul.0igi.KOMUNE	buligi		NULL	verknüllen	
+bul.0igxi.KOMUNE	buliĝi		NULL	verknäueln	sich verknäueln
+bul.0igxi.KOMUNE	kunbuliĝi		NULL	verknäueln	sich verknäueln
+bul.0igxi.KOMUNE	buliĝi		NULL	verklumpen	
+bul.0igxi.KOMUNE	kunbuliĝi		NULL	verklumpen	
+bul.0igxi.KOMUNE	buliĝi		NULL	zusammenbacken	
+bul.0igxi.KOMUNE	kunbuliĝi		NULL	zusammenbacken	
+bul.0o.KOMUNE	bulo		NULL	Kloß	
+bul.0o.KOMUNE	bulo		NULL	Ball	
+bul.0o.KOMUNE	bulo		NULL	Brocken	
+bul.0o.KOMUNE	bulo		NULL	Klumpen	
+bul.0o.KOMUNE	bulo		NULL	Batzen	
+bul.faden0o.TEKS	fadenbulo		NULL	Knäuel	
+bul.har0o.KOS	harbulo		NULL	Dutt	
+bul.karbo0eto.HEJM	karbobuleto		NULL	Brikett	
+bul.karbo0eto.HEJM	karbobuleto		NULL	Eierkohle	
+bul.ter0o.AGR	terbulo		NULL	Erdklumpen	
+bul.ter0o.AGR	terbulo		NULL	Brocken	Brocken (Erde)
+bulb.0o.BOT	bulbo	1	NULL	Zwiebel	
+bulb.0o.cepo	bulbo	2	NULL	Zwiebel	
+bulb.0o.formo	bulbo	3	NULL	Zwiebel	
+buldog.0o.ZOO	buldogo		NULL	Bulldogge	
+bule1.b0a.KOMP	bulea	2	NULL	Boolesche	
+bule1.b0a.MAT	bulea	1	NULL	Boolesche	
+bulgar.0a.HIS	bulgara	2	NULL	bulgarisch	
+bulgar.0a.KOMUNE	bulgara	1	NULL	bulgarisch	
+bulgar.0a.KOMUNE	bulgara	1	NULL	bulgarisch	
+bulgar.0o.HIS	bulgaro	2	oa_8	Bulgare	
+bulgar.0o.KOMUNE	bulgaro	1	oa_8	Bulgare	
+bulgar.0o.KOMUNE	bulgaro	1	oa_8	Bulgare	
+bulgar.B0ujo.KOMUNE	Bulgarujo		NULL	Bulgarien	
+bulgari.B0o.GEOG	Bulgario		NULL	Bulgarien	
+bulimi.0o.malsano	bulimio		NULL	Bulimie	
+buljon.0o.KUI	buljono		NULL	Brühe	Brühe (Suppe)
+buljon.0o.KUI	buljono		NULL	Bouillon	
+bulk.0o.paneto	bulko		NULL	Brötchen	
+bulonj.0o.havenurbo	Bulonjo		NULL	NULL	NULL
+bum1.0.brui	bum		NULL	NULL	NULL
+bumerang.0i.FIG	bumerangi		NULL	NULL	NULL
+bumerang.0o.FIG	bumerango	2	NULL	Bumerang	
+bumerang.0o.MIL	bumerango	1	NULL	Bumerang	
+bunkr.0o.sxirmejo	bunkro		NULL	Bunker	
+bunt.0a.FIG	bunta	2	NULL	vielfältig	
+bunt.0a.FIG	bunta	2	NULL	bunt	
+bunt.0a.KOL	bunta	1	NULL	bunt	
+bunt.0eco.FIG	bunteco	2	NULL	Vielfältigkeit	
+bunt.0eco.FIG	bunto	2	NULL	Vielfältigkeit	
+bunt.0eco.FIG	bunteco	2	NULL	Buntheit	
+bunt.0eco.FIG	bunto	2	NULL	Buntheit	
+bunt.0eco.KOL	bunteco	1	NULL	Buntheit	
+bunt.0eco.KOL	bunto	1	NULL	Buntheit	
+burask.0o.MET	burasko		NULL	Windbö	
+burbon.0o.KUI	burbono		NULL	Bourbon	Bourbon (Whiskey)
+burbon1.0a.rilata	burbona		NULL	NULL	NULL
+burbon1.0oj.gento	Burbonoj		NULL	Haus Bourbon	
+burd.0o.ZOO	burdo		NULL	Hummel	
+bure.0o.danco	bureo	1	NULL	Bourrée	
+bure.0o.muzikajxo	bureo	2	NULL	Bourrée	
+burg.0o.ARKI	burgo		NULL	Burg	
+burgx.0o.etburgxo	burĝo	4	NULL	Bourgeois	
+burgx.0o.kapitalisto	burĝo	3	NULL	Kapitalist	
+burgx.0o.mezklasano	burĝo	2	NULL	Mittelschichtbürger	
+burgx.0o.urbano	burĝo	1	NULL	Bürger	
+burgxo.0i.BOT	burĝoni	1	NULL	knospen	
+burgxo.0i.BOT	burĝoni	1	NULL	sprießen	
+burgxo.0i.FIG	burĝoni	2	NULL	aufblühen	
+burgxo.0o.BOT	burĝono	1	NULL	Knospe	
+burgxo.0o.FIG	burĝono	2	NULL	Knospe	
+burk.0o.islamo	burko	1	NULL	Burka	
+burk.0o.kauxkazo	burko	2	NULL	NULL	NULL
+burkin.B0o.GEOG	Burkino		NULL	Burkina Faso	
+burles.0a.TEA	burleska		oa_2	burlesk	
+burles.0o.TEA	burlesko		NULL	Burlesque	
+burles.0ulo.BELE	burleskulo		NULL	NULL	NULL
+burnus.0o.TEKS	burnuso		oa_2	Burnus	
+buro.0o.POL	buroo		NULL	Büro	
+buro.0o.POL	buroo		NULL	Verwaltungsstelle	
+burokr.0aro.POL	burokrataro		oa_9	Bürokratie	
+burokr.0ismo.POL	burokratismo	1	oa_9	NULL	NULL
+burokr.0ismo.malsxate	burokratismo	2	oa_9	NULL	NULL
+burokr.0o.POL	burokrato	1	oa_9	NULL	NULL
+burokr.0o.malsxate	burokrato	2	oa_9	Bürokrat	
+burokrati.0o.burokrataro	burokratio	1	NULL	Bürokratie	
+burokrati.0o.burokratismo	burokratio	2	NULL	Bürokratie	
+burund.B0o.GEOG	Burundo		NULL	Burundi	
+bus.0i.TRA	busi		NULL	NULL	NULL
+bus.0o.AUT	buso	1	NULL	Bus	
+bus.0o.AUT	buso	1	NULL	Omnibus	
+bus.0o.KOMP	buso	2	NULL	NULL	NULL
+bus.trole0o.AUT	trolebuso		NULL	Oberleitungsbus	
+bus.trole0o.AUT	trolebuso		NULL	Trolleybus	
+buspri.0o.MAR	busprito		NULL	Bugspriet	
+bust.0o.ANA	busto	1	NULL	Torso	
+bust.0o.BELA	busto	2	NULL	Büste	
+busx.0a.ANA	buŝa	1	NULL	NULL	NULL
+busx.0a.FON	buŝa	3	NULL	NULL	NULL
+busx.0a.parola	buŝa	2	NULL	mündlich	
+busx.0ego.ZOO	buŝego		NULL	Schnauze	
+busx.0o.ANA	buŝo	1	ekz_8	Mund	Mund (ĉe homo)
+busx.0o.ANA	buŝo	1	ekz_8	Maul	Maul (ĉe bestoj)
+busx.0o.FIG	buŝo	4	ekz_8	Mündung	
+busx.0o.parolilo	buŝo	3	ekz_8	NULL	NULL
+busx.0o.vizagxa	buŝo	2	ekz_8	NULL	NULL
+busx.0umo.KOMUNE	buŝumo		akkor_en	Maulkorb	
+busx.0umo.KOMUNE	buŝumo		uv_B	Maulkorb	
+busx.el0igi.FIG	elbuŝigi		NULL	äußern	
+busx.en0ajxo.RAJ	enbuŝaĵo		NULL	Trense	
+busx.en0ajxo.RAJ	enbuŝaĵo		NULL	Kandare	
+busx.en0ajxo.RAJ	enbuŝaĵo		NULL	Pelham	
+busx.en0igi.KOMUNE	enbuŝigi		NULL	Mund	in den Mund schieben
+busx.plen0o.KOMUNE	plenbuŝo		NULL	Mundvoll	
+busx.plen0o.KOMUNE	plenbuŝo		NULL	Schluck	
+busx.post0o.ANA	postbuŝo		NULL	hintere Mundhöhle	
+busx.rond0uloj.ZOO	rondbuŝuloj		NULL	Rundmäuler	
+busxel.0o.MEZ	buŝelo		NULL	Scheffel	
+butan.B0o.GEOG	Butano		NULL	Bhutan	
+buter.0o.simila	butero	2	NULL	Butter	
+butik.0isto.EKON	butikisto		NULL	Verkäufer	Verkäufer (in einem Laden)
+butik.ret0o.EKON	retbutiko		NULL	NULL	NULL
+butler.0o.KUI	butlero		NULL	Butler	
+butler.0o.KUI	butlero		NULL	Diener	
+butler.0o.KUI	butlero		NULL	Haushofmeister	
+buton.0o.KOMUNE	butono		NULL	NULL	NULL
+buton.0umi.TEKS	butonumi		uv_B	zuknöpfen	
+buton.0umi.TEKS	butoni		uv_B	zuknöpfen	
+buton.ekrana0o.KOMP	ekrana butono		NULL	Bildschirmknopf	
+buton.ekrana0o.KOMP	ekrana butono		NULL	Knopf	
+buton.ekrana0o.KOMP	ekrana butono		NULL	Schaltfläche	
+buton.flor0o.BOT	florbutono		NULL	NULL	NULL
+buton.gxu0o.AMOR	ĝubutono		NULL	NULL	NULL
+buton.gxu0o.AMOR	plezurbutono		NULL	NULL	NULL
+buton.mal0umi.TEKS	malbutonumi		NULL	aufknöpfen	
+buton.mal0umi.TEKS	disbutonumi		NULL	aufknöpfen	
+buton.mal0umi.TEKS	malbutoni		NULL	aufknöpfen	
+buzuk.0o.MUZ	buzuko		NULL	Bouzouki	
