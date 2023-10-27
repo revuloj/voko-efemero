@@ -145,3 +145,227 @@ assert(celo(balzamo,'balzam.0o.PAR','药水[yào shuǐ]')).
 assert(celo(balzamo,'balzam.0o.PAR','香脂[xiāng zhī]')).
 assert(celo('Bamako','bamak.0o.cxefurbo','巴馬科[bā mǎ kē]')).
 assert(celo(bambuo,'bambu.0o.BOT','篁[huáng]')).
+assert(celo(bangastoj,'ban.0gastoj.MED','入浴者[rù yù zhě]')).
+assert(celo(bangastoj,'ban.0gastoj.MED','浴疗者[yù liáo zhě]')).
+assert(celo(bani,'','浴[yù]')).
+assert(celo(banurbo,'ban.0urbo0loko.MED','温泉浴场[wēn quán yù chǎng]')).
+assert(celo(banurbo,'ban.0urbo0loko.MED','矿泉浴场[kuàng quán yù chǎng]')).
+assert(celo(bolbano,'ban.bol0o.KUI','水浴[shuǐ yù]')).
+assert(celo(bolbano,'ban.bol0o.KUI','达到水准[dá dào shuǐ zhǔn]')).
+retract(celo(bolbano,'ban.bol0o.KUI','达到水准[dá dào shuǐ zhǔn]')).
+assert(celo(banala,'banal.0a.ordinara','庸庸碌碌[yōng yōng lù lù]')).
+assert(celo(banala,'banal.0a.ordinara','家常便飯[jiā cháng biàn fàn]')).
+assert(celo(banala,'banal.0a.ordinara','家常[jiā cháng]')).
+assert(celo(banala,'banal.0a.ordinara','平凡地[píng fán de]')).
+assert(celo(banala,'banal.0a.ordinara','猥[wěi]')).
+assert(celo(malbanala,'banal.mal0a.KOMUNE','有创意[yǒu chuàng yì]')).
+assert(celo(malbanala,'banal.mal0a.KOMUNE','特殊[tè shū]')).
+assert(celo(bandaĉo,'band.0acxo.bando','帮[bāng]')).
+assert(celo(bando,'band.0o.MUZ','流行乐团[liú xíng lè tuán]')).
+assert(celo(bando,'band.0o.MUZ','音乐组合[yīn yuè zǔ hé]')).
+assert(celo(bando,'band.0o.MUZ','搖滾樂隊[yáo gǔn yuè duì]')).
+assert(celo(bando,'band.0o.bandacxo','帮[bāng]')).
+assert(celo(bando,'band.0o.irantaro','群[qún]')).
+assert(celo(bando,'band.0o.samideanoj','班[bān]')).
+assert(celo(bando,'band.0o.samideanoj','队[duì]')).
+assert(celo(banderolo,'bander.0o.devizo','横幅[héng fú]')).
+assert(celo('Bangladeŝo','','孟加拉国[mèng jiā lā guó]')).
+assert(celo(banĝo,'bangx.0o.MUZ','班卓琴[bān zhuó qín]')).
+assert(celo(bankejo,'','銀行支行[yín háng zhī xíng]')).
+assert(celo(bankisto,'bank.0isto.EKON','銀行擔保[yín háng dān bǎo]')).
+assert(celo(bankisto,'bank.0isto.EKON','銀行信用卡[yín háng xìn yòng kǎ]')).
+assert(celo(bankroti,'bankro.0i.EKON','破产[pò chǎn]')).
+assert(celo(bankroti,'bankro.0i.FIG','受挫[shòu cuò]')).
+assert(celo(bankroto,'bankro.0o.EKON','无偿还能力[wú cháng huán néng lì]')).
+assert(celo(bankroto,'bankro.0o.EKON','猛撞[měng chuáng]')).
+assert(celo(banko,'','銀行[yín háng]')).
+assert(celo(banto,'bant.0o.TEKS','蝴蝶結[hú dié jié]')).
+assert(celo(banto,'bant.0o.TEKS','头绳[tóu shéng]')).
+assert(celo(baptano,'','施洗者[shī xǐ zhě]')).
+assert(celo(baraĵo,'bar.0ajxo.KOMUNE','栏架[lán jià]')).
+assert(celo(baraĵo,'bar.0ajxo.KOMUNE','难关[nán guān]')).
+assert(celo(baraĵo,'bar.0ajxo.KOMUNE','大关[dà guān]')).
+assert(celo(baraĵo,'bar.0ajxo.KOMUNE','围篱[wéi lí]')).
+assert(celo(baraĵo,'bar.0ajxo.KOMUNE','障碍[zhàng ài]')).
+assert(celo(baraĵo,'bar.0ajxo.KOMUNE','栏[lán]')).
+assert(celo(bari,'bar.0i.malhelpi','閡[hé]')).
+assert(celo(bari,'bar.0i.malhelpi','封鎖[fēng suǒ]')).
+assert(celo(bari,'bar.0i.malhelpi','妨碍[fǎng ài]')).
+assert(celo(bari,'bar.0i.malhelpi','傺[chì]')).
+assert(celo(bari,'bar.0i.vojon','閼[è]')).
+assert(celo(bari,'bar.0i.vojon','封鎖[fēng suǒ]')).
+assert(celo(bari,'bar.0i.vojon','閡[hé]')).
+assert(celo(bari,'bar.0i.vojon','禁止通行[jìn zhǐ tōng xíng]')).
+assert(celo(bari,'bar.0i.vojon','抑制[yì zhì]')).
+assert(celo(barilo,'bar.0ilo.HOR','栏栅[lán shān]')).
+assert(celo(barilo,'bar.0ilo.HOR','壁垒[bì lěi]')).
+assert(celo(barilo,'bar.0ilo.HOR','障碍物[zhàng ài wù]')).
+assert(celo(barilo,'bar.0ilo.HOR','隔离[gé lí]')).
+assert(celo(barita,'bar.0ita.MAT','有界的[yǒu jiè de]')).
+assert(celo(baro,'bar.0o.KOMUNE','壁垒[bì lěi]')).
+assert(celo(baro,'bar.0o.KOMUNE','栏栅[lán shān]')).
+assert(celo(baro,'bar.0o.MAT','界[jiè]')).
+assert(celo(ĉirkaŭbari,'bar.cxirkaux0i.fermi','围起[wéi qǐ]')).
+assert(celo(ĉirkaŭbari,'bar.cxirkaux0i.fermi','围[wéi]')).
+assert(celo(nebarita,'bar.ne0ita.KOMUNE','不加拘束[bù jiā jū shù]')).
+assert(celo(nebarita,'bar.ne0ita.KOMUNE','无拘无束[wú jū wú shù]')).
+assert(celo(nebarita,'bar.ne0ita.KOMUNE','全权[quán quán]')).
+assert(celo(tabulbarilo,'bar.tabul0ilo.HOR','寨[zhài]')).
+assert(celo(tabulbarilo,'bar.tabul0ilo.HOR','木头做的栅栏[mù tou zuò dì zhà lán]')).
+assert(celo(tabulbarilo,'bar.tabul0ilo.HOR','围栏[wéi lán]')).
+assert(celo(tabulbarilo,'bar.tabul0ilo.HOR','篱笆[lí ba]')).
+assert(celo(tabulbarilo,'bar.tabul0ilo.HOR','围篱[wéi lí]')).
+assert(celo(barakti,'barakt.0i.FIG','奋斗[fèn dòu]')).
+assert(celo(barakti,'barakt.0i.skui','扑腾[pū teng]')).
+assert(celo(barakti,'barakt.0i.skui','搏[bó]')).
+assert(celo('Barato','barat.B0o.GEOG','天竺[tiān zhú]')).
+assert(celo('Barato','barat.B0o.GEOG','南亚次大陆[nán yà cì dà lù]')).
+assert(celo(barba,'barb.0a.KOS','有大胡子[yǒu dài hú zi]')).
+assert(celo(barba,'barb.0a.KOS','有胡子[yǒu hú zǐ]')).
+assert(celo(barbo,'barb.0o.ANA','胡子[hú zi]')).
+assert(celo(lipbarbo,'barb.lip0o.FRIZ','胡[hú]')).
+assert(celo(lipbarbo,'barb.lip0o.FRIZ','髭须[zī xū]')).
+assert(celo('Barbado','barbad.B0o.GEOG','巴巴多斯[bā bā duō sī]')).
+assert(celo(barbara,'barbar.0a.MOR','兽性[shòu xìng]')).
+assert(celo(barbara,'barbar.0a.MOR','野蛮[yě mán]')).
+assert(celo(barbaro,'','蛮族[mán zú]')).
+assert(celo(barbaro,'','夷狄[yí dí]')).
+assert(celo(barbaro,'','野蛮人[yě mán rén]')).
+assert(celo(barbaro,'','兽[shòu]')).
+assert(celo(barbaro,'','夷[yí]')).
+assert(celo(barbaro,'','异教徒[yì jiào tú]')).
+assert(celo(barbaro,'barbar.0o.FIG','放荡主义[fàng dàng zhǔ yì]')).
+assert(celo('Barbudo','barbud.0o.GEOG','巴布达岛[bā bù dá dǎo]')).
+assert(celo('Barcelono','barcelon.0o.urbo','巴塞罗纳[bā sāi luó nà]')).
+assert(celo('Barcelono','barcelon.0o.urbo','巴塞罗那[bā sāi luó nà]')).
+assert(celo(bardo,'bard.0o.HIS','吟游诗人[yín yóu shī rén]')).
+assert(celo(bardo,'bard.0o.FIG','古代詩人[gǔ dài shī rén]')).
+assert(celo(bardo,'bard.0o.FIG','族的吟游诗人[zú de yín yóu shī rén]')).
+assert(celo('Barejno','barejn.0o.GEOG','巴林[bā lín]')).
+assert(celo('Barejno','barejn.0o.GEOG','巴林国[bā lín guó]')).
+assert(celo(barelisto,'barel.0isto.TEK','制木桶工人[zhì mù tǒng gōng rén]')).
+assert(celo(barelisto,'barel.0isto.TEK','制桶工[zhì tǒng gōng]')).
+assert(celo(barelo,'barel.0o.TEK','屏蔽罐[píng bì guàn]')).
+assert(celo(bareliĝi,'barel.0igxi.FIG','发胖[fā pàng]')).
+assert(celo(elbareligi,'','放掉[fàng diào]')).
+assert(celo(naĝbarelo,'barel.nagx0o.MAR','浮标[fú biāo]')).
+assert(celo(naĝbarelo,'barel.nagx0o.MAR','浮筒[fú tǒng]')).
+assert(celo(naĝbarelo,'barel.nagx0o.MAR','救生圈[jiù shēng quān]')).
+assert(celo(bariero,'','壁垒[bì lěi]')).
+assert(celo(bariero,'','拦路[lán lù]')).
+assert(celo(barikado,'barika.0o.KOMUNE','路障[lù zhàng]')).
+assert(celo(barkarolo,'barkar.0o.kanto','船歌[chuán gē]')).
+assert(celo('Barnabo','barnab.0o.NOM','巴拿巴[bā ná bā]')).
+assert(celo(baroko,'barok.0o.gxenerala','巴洛克風格[bā luò kè fēng gé]')).
+assert(celo(baroko,'barok.0o.gxenerala','巴洛克艺术[bā luò kè yì shù]')).
+assert(celo(barono,'','外国贵族[wài guó guì zú]')).
+assert(celo(barono,'','男爵[nán jué]')).
+assert(celo(barono,'','貴族[guì zú]')).
+assert(celo('Bartolomeo','bartolome.0o.NOM','巴尔托洛梅乌斯[bā ěr tuō luò méi wū sī]')).
+assert(celo(baso,'bas.0o.ulo','低音歌手[dī yīn gē shǒu]')).
+assert(celo(naĝbaseno,'basen.nagx0o.SPO','游泳池[yóu yǒng chí]')).
+assert(celo(basketbalo,'basketbal.0o.SPO','篮球[lán qiú]')).
+assert(celo(baskulo,'baskul.0o.ELE','翻轉開關[fān zhuǎn kāi guān]')).
+assert(celo(baskulo,'baskul.0o.KOMP','开关[kāi guān]')).
+assert(celo(baskulo,'baskul.0o.TEK','摆动杆[bǎi dòng gān]')).
+assert(celo(baskulo,'baskul.0o.ludilo','跷跷板[qiāo qiāo bǎn]')).
+assert(celo(bastardo,'bastar.0o.infano','私孩子[sī hái zǐ]')).
+assert(celo(bastono,'baston.0o.KOMUNE','杖[zhàng]')).
+assert(celo(bastono,'baston.0o.KOMUNE','警棍[jǐng gùn]')).
+assert(celo(lambastono,'baston.lam0o.MED','叉木[chā mù]')).
+assert(celo(lambastono,'baston.lam0o.MED','叉状架[chā zhuàng jià]')).
+assert(celo(lambastono,'baston.lam0o.MED','放置脚跟的部份[fàng zhì jiǎo gēn de bù fen]')).
+assert(celo(sorĉbastono,'baston.sorcxista0o.MAG','魔术棒[mó shù bàng]')).
+assert(celo(sorĉbastono,'baston.sorcxista0o.MAG','魔杖[mó zhàng]')).
+assert(celo(bati,'bat.0i.ektusxegi','掴[guó]')).
+assert(celo(bati,'bat.0i.ektusxegi','击[jī]')).
+assert(celo(batilo,'bat.0ilo.KOMUNE','棒[bàng]')).
+assert(celo(batilo,'','板球球棒[bǎn qiú qiú bàng]')).
+assert(celo(bati,'','被鞭打[bèi biān dǎ]')).
+assert(celo(bati,'','被打[bèi dǎ]')).
+assert(celo(disbati,'bat.dis0i.KOMUNE','成泡影[chéng pào yǐng]')).
+assert(celo(disbati,'bat.dis0i.KOMUNE','掼[guàn]')).
+assert(celo(elbati,'bat.el0i.KOMUNE','磕掉[kē diào]')).
+assert(celo(enbati,'bat.en0i.KOMUNE','封面折边[fēng miàn zhé biān]')).
+assert(celo(korbato,'bat.kor0o.FIZL','心跳[xīn tiào]')).
+assert(celo(kornobati,'bat.korno0i.KOMUNE','顶[dǐng]')).
+assert(celo(kunbati,'bat.kun0i.KOMUNE','殴打[ōu dǎ]')).
+assert(celo(piedbati,'bat.pied0i.KOMUNE','践踏[jiàn tà]')).
+assert(celo('polmflanka bato','bat.polmflanka0o.SPO','正手[zhèng shǒu]')).
+assert(celo(rebati,'bat.re0i.redoni','反击[fǎn jī]')).
+assert(celo(rebati,'bat.re0i.repusxi','反击[fǎn jī]')).
+assert(celo(sortobato,'bat.sorto0o.okazajxo','命运的打击[mìng yùn de dǎ jī]')).
+assert(celo(sortobato,'bat.sorto0o.okazajxo','厄运[è yùn]')).
+assert(celo(trabatebla,'bat.tra0ebla.KOMUNE','会腐蚀[huì fǔ shí]')).
+assert(celo(trabatebla,'bat.tra0ebla.KOMUNE','可破坏[kě pò huài]')).
+assert(celo(trabatebla,'bat.tra0ebla.KOMUNE','可穿过[kě chuān guò]')).
+assert(celo(trabatebla,'bat.tra0ebla.KOMUNE','可渗入[kě shèn rù]')).
+assert(celo(venkobati,'bat.venko0i.MIL','抶[chì]')).
+assert(celo(venkobati,'bat.venko0i.MIL','拷[kǎo]')).
+assert(celo(venkobati,'bat.venko0i.MIL','拷打[kǎo dǎ]')).
+assert(celo(venkobati,'bat.venko0i.MIL','擂[lèi]')).
+assert(celo(venkobati,'bat.venko0i.MIL','忍[rěn]')).
+assert(celo(venkobati,'bat.venko0i.MIL','拍[pāi]')).
+assert(celo(batalejo,'batal.0ejo.MIL','疆场[jiāng chǎng]')).
+assert(celo(batalejo,'batal.0ejo.MIL','战地[zhàn dì]')).
+assert(celo(batali,'batal.0i.kontrauxajxon','挌[gé]')).
+assert(celo(batali,'batal.0i.milito','战[zhàn]')).
+assert(celo(batali,'batal.0i.milito','殴[ōu]')).
+assert(celo(batalilo,'batal.0ilo.ARM','作战武器[zuò zhàn wǔ qì]')).
+assert(celo(batalilo,'batal.0ilo.ARM','军火[jūn huǒ]')).
+assert(celo(batalo,'batal.0o.KOMUNE','战[zhàn]')).
+assert(celo(kontraŭbatalanto,'batal.kontraux0anto.KOMUNE','冤家[yuān jiā]')).
+assert(celo(kontraŭbatalanto,'batal.kontraux0anto.KOMUNE','仇敌[chóu dí]')).
+assert(celo(kontraŭbatalanto,'batal.kontraux0anto.KOMUNE','敌人[dí rén]')).
+assert(celo(kontraŭbatalanto,'batal.kontraux0anto.KOMUNE','反对者[fǎn duì zhě]')).
+assert(celo(kontraŭbatalanto,'batal.kontraux0anto.KOMUNE','对抗者[duì kàng zhě]')).
+assert(celo(kontraŭbatalanto,'batal.kontraux0anto.KOMUNE','魔鬼[mó guǐ]')).
+assert(celo(kontraŭbatalanto,'batal.kontraux0anto.KOMUNE','訂約人[dìng yuē rén]')).
+assert(celo(vortobatali,'batal.vorto0i.KOMUNE','抬杠[tái gàng]')).
+assert(celo(bataliono,'batali.0o.MIL','大部队[dà bù duì]')).
+assert(celo(bataliono,'batali.0o.MIL','一大夥[yī dài huǒ]')).
+assert(celo(bataliono,'batali.0o.MIL','阵容整齐的军队[zhèn róng zhěng qí de jūn duì]')).
+assert(celo(bataliono,'batali.0o.MIL','營[yíng]')).
+assert(celo(batato,'batat.0o.KUI','地瓜[dì guā]')).
+assert(celo(batato,'batat.0o.KUI','番薯[fān shǔ]')).
+assert(celo(baterio,'bateri.0o.ELE','电池[diàn chí]')).
+assert(celo(baterio,'bateri.0o.MIL','炮臺[pào tái]')).
+assert(celo(batiko,'batik.0o.TEKS_precedo','蜡染[là rǎn]')).
+assert(celo(batisto,'batist.0o.TEKS','麻紗[má shā]')).
+assert(celo(batuo,'batu1.0o.pelcxaso','政治迫害[zhèng zhì pò hài]')).
+assert(celo(baŭksito,'bauxksit.0o.MIN','鋁土礦[lǚ tǔ kuàng]')).
+assert(celo(baŭmi,'','反抗者[fǎn kàng zhě]')).
+assert(celo(baŭmi,'','叛[pàn]')).
+assert(celo(baza,'baz.0a.KOMUNE','基本上[jī běn shàng]')).
+assert(celo(baza,'baz.0a.KOMUNE','根本[gēn běn]')).
+assert(celo(baza,'baz.0a.KOMUNE','基[jī]')).
+assert(celo(baza,'baz.0a.KOMUNE','枢[chū]')).
+assert(celo(baza,'baz.0a.rilata','基层[jī céng]')).
+assert(celo(bazo,'baz.0o.postamento','鄙[bǐ]')).
+assert(celo(bazo,'baz.0o.postamento','底[dǐ]')).
+assert(celo(bazo,'baz.0o.principo','根底[gēn dǐ]')).
+assert(celo(bazo,'baz.0o.principo','本[běn]')).
+assert(celo(bazo,'baz.0o.principo','基础[jī chǔ]')).
+assert(celo(bazo,'baz.0o.principo','根柢[gēn dǐ]')).
+assert(celo(bazo,'baz.0o.principo','底線[dì xiàn]')).
+assert(celo('surbaze de','baz.sur0ede.KOMUNE','依据[yī jù]')).
+assert(celo(bazaro,'bazar.0o.magazeno','超市[chāo shì]')).
+assert(celo(bazaro,'bazar.0o.magazeno','超級市場[chāo jí shì chǎng]')).
+assert(celo(bazaro,'bazar.0o.magazeno','自选商场[zì xuǎn shāng chǎng]')).
+assert(celo(bazaro,'bazar.0o.placo','市集[shì jí]')).
+assert(celo(bazaro,'bazar.0o.placo','巿场[shì chǎng]')).
+assert(celo(bazaro,'bazar.0o.placo','市场[shì chǎng]')).
+assert(celo(bazaro,'bazar.0o.placo','传统市场[chuán tǒng shì chǎng]')).
+assert(celo(pulbazaro,'bazar.pul0o.EKON','跳蚤市场[tiào zǎo shì chǎng]')).
+assert(celo(pulbazaro,'bazar.pul0o.EKON','旧货集市[jiù huò shì chǎng]')).
+assert(celo(superbazaro,'bazar.super0o.EKON','超市[chāo shì]')).
+assert(celo(superbazaro,'bazar.super0o.EKON','超級市場[chāo jí shì chǎng]')).
+assert(celo(superbazaro,'bazar.super0o.EKON','自选商场[zì xuǎn shāng chǎng]')).
+assert(celo(bazilio,'bazili2.0o.BOT','九层塔[jiǔ céng tǎ]')).
+assert(celo(bazilio,'bazili2.0o.BOT','罗勒[luó lè]')).
+assert(celo(bazilio,'bazili2.0o.BOT','金不换[jīn bù huàn]')).
+assert(celo(bazuko,'bazuk.0o.MIL','反坦克步枪[fǎn tǎn kè bù qiāng]')).
+assert(celo(bazuko,'bazuk.0o.MIL','反坦克火箭[fǎn tǎn kè huǒ jiàn]')).
+assert(celo(bazuko,'bazuk.0o.MIL','反坦克手雷发射器[fǎn tǎn kè shǒu léi fā shè qì]')).
+assert(celo(bazuko,'bazuk.0o.MIL','火箭筒[huǒ jiàn tǒng]')).
+assert(celo(bazuko,'bazuk.0o.MIL','火箭炮[huǒ jiàn pào]')).
