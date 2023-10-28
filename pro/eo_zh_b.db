@@ -369,3 +369,149 @@ assert(celo(bazuko,'bazuk.0o.MIL','反坦克火箭[fǎn tǎn kè huǒ jiàn]')).
 assert(celo(bazuko,'bazuk.0o.MIL','反坦克手雷发射器[fǎn tǎn kè shǒu léi fā shè qì]')).
 assert(celo(bazuko,'bazuk.0o.MIL','火箭筒[huǒ jiàn tǒng]')).
 assert(celo(bazuko,'bazuk.0o.MIL','火箭炮[huǒ jiàn pào]')).
+assert(celo(be,'be1.0.KOMUNE','唉[āi]')).
+assert(celo(be,'be1.0.KOMUNE','啊[ā]')).
+assert(celo(be,'be1.0.KOMUNE','噫[yī]')).
+assert(celo(be,'be1.0.vando','哪裏[nǎ lǐ]')).
+assert(celo(beata,'beat.0a.KAT','幸福地[xìng fú de]')).
+assert(celo(bebo,'beb.0o.infaneto','宝宝[bǎo bǎo]')).
+assert(celo(bebo,'beb.0o.infaneto','仯[chào]')).
+assert(celo(bebo,'beb.0o.infaneto','娃子[wá zi]')).
+assert(celo(bebo,'beb.0o.infaneto','婴儿[yīng ér]')).
+assert(celo(bedo,'bed.0o.HOR','苗床[miáo chuáng]')).
+assert(celo(bedo,'bed.0o.HOR','畦[qí]')).
+assert(celo(florbedo,'bed.flor0o.HOR','花床[huā chuáng]')).
+assert(celo(florbedo,'bed.flor0o.HOR','花圃[huā pǔ]')).
+assert(celo(florbedo,'bed.flor0o.HOR','花坛[huā tán]')).
+assert(celo(florbedo,'bed.flor0o.HOR','苗圃[miáo pǔ]')).
+assert(celo(bedaŭri,'','歉意[qiàn yì]')).
+assert(celo(bedaŭri,'','憾[hàn]')).
+assert(celo(bedaŭri,'','歉疚[qiàn jiù]')).
+assert(celo(bedaŭri,'','缺憾[quē hàn]')).
+assert(celo(bedaŭri,'','痛惜[tòng xí]')).
+assert(celo(behaviorismo,'behaviorism.0o.ETOL','行为主义[xíng wéi zhǔ yì]')).
+assert(celo('Behemoto','behemot.0o.BIB','比蒙[bǐ méng]')).
+assert(celo(beja,'bej1.0a.KOL','紅棕色[hóng zōng sè]')).
+assert(celo(beko,'bek.0o.ZOO','松口[sōng kǒu]')).
+assert(celo(beko,'bek.0o.ZOO','喙[huì]')).
+assert(celo(beko,'bek.0o.ZOO','鳥嘴[niǎo zuǐ]')).
+assert(celo(krucbekulo,'bek.kruc0ulo.ZOO','鶡[hé]')).
+assert(celo(bekvadrato,'bekvad.0o.MUZ','本位号[běn wèi hào]')).
+assert(celo(bela,'bel.0a.KOMUNE','标致[biāo zhi]')).
+assert(celo(bela,'bel.0a.KOMUNE','华丽[huá lì]')).
+assert(celo(beleco,'bel.0eco.KOMUNE','美丽的东西[měi lì de dōng xi]')).
+assert(celo(beleco,'bel.0eco.KOMUNE','娇滴滴[jiāo dī dī]')).
+assert(celo(beleco,'bel.0eco.KOMUNE','美丽的人[měi lì de rén]')).
+assert(celo(beleco,'bel.0eco.KOMUNE','艳色[yàn sè]')).
+assert(celo(belega,'bel.0ega.KOMUNE','极美[jí měi]')).
+assert(celo(belega,'bel.0ega.KOMUNE','精彩[jīng cǎi]')).
+assert(celo(belega,'bel.0ega.KOMUNE','勝景[shèng jǐng]')).
+assert(celo(malbela,'bel.mal0a.KOMUNE','丑陋[chǒu lòu]')).
+assert(celo(malbela,'bel.mal0a.KOMUNE','难看[nán kàn]')).
+assert(celo(malbela,'bel.mal0a.KOMUNE','难看的[nán kàn de]')).
+assert(celo(malbela,'bel.mal0a.KOMUNE','丑[chǒu]')).
+assert(celo(plibeligi,'','美化了[měi huà liǎo]')).
+assert(celo(plibeligi,'','修飾[xiū shì]')).
+assert(celo(plibeligi,'','美化[měi huà]')).
+assert(celo(plibeligi,'','装饰[zhuāng shì]')).
+assert(celo(plibeligi,'','修[xiū]')).
+assert(celo(decibelo,'bel1.0odeci.FIZ','分貝[fēn bèi]')).
+assert(celo(beletristo,'beletr.0isto.BELE','作家[zuò jiā]')).
+assert(celo(beletristo,'beletr.0isto.BELE','作手[zuò shǒu]')).
+assert(celo(beletro,'beletr.0o.BELE','虚构小说[xū gòu xiǎo shuō]')).
+assert(celo(beletristiko,'beletr1.0o.beletro','虚构小说[xū gòu xiǎo shuō]')).
+assert(celo('Belfasto','belfast.0o.havenurbo','貝爾法斯特[bèi ěr fǎ sī tè]')).
+assert(celo('Belizo','beliz.B0o.GEOG','貝爾莫潘[bèi ěr mò pān]')).
+assert(celo('Belizo','beliz.B0o.GEOG','伯里兹[bó lǐ zī]')).
+assert(celo(beni,'ben.0i.alvoki','佑[yòu]')).
+assert(celo(beno,'ben.0o.FIG','礽[réng]')).
+assert(celo(beno,'ben.0o.FIG','福分[fú fēn]')).
+assert(celo(beno,'ben.0o.favoro','惠[huì]')).
+assert(celo(malbeni,'ben.mal0i.REL','詛[zǔ]')).
+assert(celo(malbeni,'ben.mal0i.FIG','詈[lì]')).
+assert(celo(malbeni,'ben.mal0i.FIG','詛咒[zǔ zhòu]')).
+assert(celo(malbeni,'ben.mal0i.FIG','被詛咒[bèi zǔ zhòu]')).
+assert(celo(malbeno,'ben.mal0o.malfavoro','丧气[sàng qì]')).
+assert(celo(glubendo,'bend.glu0o.KOMUNE','单面胶[dān miàn jiāo]')).
+assert(celo(glubendo,'bend.glu0o.KOMUNE','胶粘带[jiāo nián dài]')).
+assert(celo(bendo,'','胶带[jiāo dài]')).
+assert(celo(glubendo,'bend.glu0o.KOMUNE','絕緣膠布[jué yuán jiāo bù]')).
+assert(celo(sonbendo,'bend.son0o.TEK','录音带[lù yīn dài]')).
+assert(celo(sonbendo,'bend.son0o.TEK','音带[yīn dài]')).
+assert(celo(vidbendo,'bend.vid0o.KIN','录影带[lù yǐng dài]')).
+assert(celo(vidbendo,'bend.vid0o.KIN','卷带[juǎn dài]')).
+assert(celo(bendo,'','卷带[juǎn dài]')).
+assert(celo(surbendigi,'bend.sur0igi.KOMUNE','磁带录音[cí dài lù yīn]')).
+assert(celo(surbendigilo,'','記錄器[jì lù qì]')).
+assert(celo(benefico,'benefi.0o.avantagxo','员工福利[yuán gōng fú lì]')).
+assert(celo(benefico,'benefi.0o.prezento','獲益[huò yì]')).
+assert(celo(benefico,'benefi.0o.prezento','給付[jǐ fù]')).
+assert(celo(benefico,'benefi.0o.prezento','享受利益[xiǎng shòu lì yì]')).
+assert(celo(benefico,'benefi.0o.prezento','义演[yì yǎn]')).
+assert(celo(benefico,'benefi.0o.prezento','年金[nián jīn]')).
+assert(celo('Benelukso','benelu.B0o.POL','比荷卢三国关税同盟[bǐ hé lú sān guó guān shuì tóng méng]')).
+assert(celo('Bengalo','','孟加拉[mèng jiā lā]')).
+assert(celo('Benino','benin.B0o.GEOG','貝寧[bèi níng]')).
+assert(celo('Benino','benin.B0o.GEOG','貝寧共和國[bèi níng gòng hé guó]')).
+assert(celo('Benjameno','benjamen.0o.NOM','便雅悯[biàn yǎ mǐn]')).
+assert(celo(piedbenketo,'benk.pied0eto.MEBL','脚蹬[jiǎo dèng]')).
+assert(celo(piedbenketo,'benk.pied0eto.MEBL','矮凳[ǎi dèng]')).
+assert(celo(benzinejo,'benzin.0ejo.AUT','加油站[jiā yóu zhàn]')).
+assert(celo(benzino,'benzin.0o.KEM','費油[fèi yóu]')).
+assert(celo(benzino,'benzin.0o.KEM','汽油[qì yóu]')).
+assert(celo(benzino,'benzin.0o.KEM','石油醚[shí yóu mí]')).
+assert(celo(benzinujo,'benzin.0ujo.AUT','汽油箱[qì yóu xiāng]')).
+assert(celo(benzinujo,'benzin.0ujo.AUT','油箱[yóu xiāng]')).
+assert(celo(benzolo,'benzol.0o.benzeno','苯[běn]')).
+assert(celo('Beovulfo,','','貝奧武夫[bèi ào wǔ fū]')).
+assert(celo(beraro,'ber.0aro.BOT','蔟[cù]')).
+assert(celo(beraro,'ber.0aro.BOT','累累[léi léi]')).
+assert(celo(bero,'ber.0o.BOT','浆果[jiāng guǒ]')).
+assert(celo(bero,'ber.0o.BOT','莓[méi]')).
+assert(celo(rozbero,'ber.roz0o.BOT','野玫瑰果差[yě méi guī guǒ chā]')).
+assert(celo(sekvinbero,'ber.sekvin0o.KUI','乾葡萄[gān pú táo]')).
+assert(celo(sekvinbero,'ber.sekvin0o.KUI','葡萄乾[pú táo gān]')).
+assert(celo(vinbero,'ber.vin0o.BOT','葡[pú]')).
+assert(celo(vinbero,'ber.vin0o.BOT','萄[táo]')).
+assert(celo(bereto,'beret.0o.TEKS','貝雷帽[bèi léi mào]')).
+assert(celo(bergamotujo,'bergam.0ujo.BOT','香柠檬[xiāng níng méng]')).
+assert(celo(beribero,'beribe.0o.MED','脚气病[jiǎo qì bìng]')).
+assert(celo(berilo,'beril.0o.MIN','綠柱石[lü zhù shí]')).
+assert(celo(berilio,'berili.0o.KEM','鈹[pí]')).
+assert(celo(berkelio,'berkeli.0o.KEM','鉳[běi]')).
+assert(celo(berkelio,'berkeli.0o.KEM','錇[péi]')).
+assert(celo('Bernardo','bernard.0o.NOM','伯恩哈德[bó ēn hā dé]')).
+assert(celo('Berto','bert.0o.SNC','貝莎[bèi shā]')).
+assert(celo(bestaro,'best.0aro.ZOO','动物群[dòng wù qún]')).
+assert(celo(besto,'best.0o.BIO','动物[dòng wù]')).
+assert(celo(besto,'best.0o.nehomo','畜生[chù shēng]')).
+assert(celo(besto,'best.0o.nehomo','动物[dòng wù]')).
+assert(celo(dombesto,'best.dom0o.HEJM','宠物[chǒng wù]')).
+assert(celo(dombesto,'best.dom0o.HEJM','畜生[chù shēng]')).
+assert(celo(dombesto,'best.dom0o.HEJM','牲[shēng]')).
+assert(celo(dombesto,'best.dom0o.HEJM','愛寵[ài chǒng]')).
+assert(celo(hejmbesto,'best.hejm0o.KOMUNE','宠物[chǒng wù]')).
+assert(celo(rabobestoj,'best.rabo0oj.ZOO','食肉目[shí ròu mù]')).
+assert(celo(ŝarĝobesto,'best.sxargxo0o.KOMUNE','赶驮马的人[gǎn duò mǎ de rén]')).
+assert(celo(ŝarĝobesto,'best.sxargxo0o.KOMUNE','馱獸[tuó shòu]')).
+assert(celo(tirbesto,'','牛馬[niú mǎ]')).
+assert(celo(bestia,'besti.0a.KOMUNE','野兽般[yě shòu bān]')).
+assert(celo(bestia,'besti.0a.KOMUNE','残忍的[cán rěn de]')).
+assert(celo(bestia,'besti.0a.KOMUNE','兽性[shòu xìng]')).
+assert(celo(bestia,'besti.0a.KOMUNE','兽[shòu]')).
+assert(celo(bestio,'besti.0o.KOMUNE','人面兽心[rén miàn shòu xīn]')).
+assert(celo(beto,'bet.0o.radiko','葑[fēng]')).
+assert(celo(beto,'bet.0o.radiko','蔓菁[mán jing]')).
+assert(celo(beto,'bet.0o.radiko','芜菁[wú jīng]')).
+assert(celo(beto,'bet.0o.radiko','甜菜根[tián cài gēn]')).
+assert(celo(beto,'bet.0o.radiko','甜菜[tián cài]')).
+assert(celo(beto,'bet.0o.radiko','厚顏無恥[hòu yán wú chǐ]')).
+assert(celo(beto,'bet.0o.genro','甜菜[tián cài]')).
+assert(celo(folibeto,'bet.foli0o.KUI','厚皮菜[hòu pí cài]')).
+assert(celo(folibeto,'bet.foli0o.KUI','莙荙菜[jūn dá cài]')).
+assert(celo(folibeto,'bet.foli0o.KUI','糖莴苣[táng wō jù]')).
+assert(celo(sukerbeto,'bet.suker0o.AGR','菾[tián]')).
+assert(celo(sukerbeto,'bet.suker0o.AGR','甜菜[tián cài]')).
+assert(celo('ruĝa beto','bet.rugxa0o.KUI','甜菜根[tián cài gēn]')).
+assert(celo(betelo,'','梹[bīng]')).
+assert(celo(betelo,'','槟榔[bīng lang]')).
