@@ -515,3 +515,146 @@ assert(celo(sukerbeto,'bet.suker0o.AGR','甜菜[tián cài]')).
 assert(celo('ruĝa beto','bet.rugxa0o.KUI','甜菜根[tián cài gēn]')).
 assert(celo(betelo,'','梹[bīng]')).
 assert(celo(betelo,'','槟榔[bīng lang]')).
+assert(celo('Betleĥemo','betlehxem.0o.urbo','伯利恆[bó lì héng]')).
+assert(celo(betono,'beton.0o.KON','三合土[sān hé tǔ]')).
+assert(celo(ŝtalbetono,'beton.sxtal0o.KON','鋼筋水泥[gāng jīn shuǐ ní]')).
+assert(celo(ŝtalbetono,'beton.sxtal0o.KON','鋼筋混凝土[gāng jīn hùn níng tǔ]')).
+assert(celo(ŝtalbetono,'beton.sxtal0o.KON','鋼筋砼[gāng jīn tóng]')).
+assert(celo(beveli,'bevel.0i.TEK','切斜面[qiē xié miàn]')).
+assert(celo(bevelo,'bevel.0o.TEK','对切[duì qiē]')).
+assert(celo(bevelo,'bevel.0o.TEK','切角[qiè jiǎo]')).
+assert(celo(bevelo,'bevel.0o.TEK','去角[qù jué]')).
+assert(celo(bevelo,'bevel.0o.TEK','有房間[yǒu fáng jiān]')).
+assert(celo(bezona,'','切要[qiè yào]')).
+assert(celo(bezona,'','必要[bì yào]')).
+assert(celo(bezona,'','不可或缺[bù kě huò quē]')).
+assert(celo(bezona,'','所需[suǒ xū]')).
+assert(celo(bezona,'','必備[bì bèi]')).
+assert(celo(bezoni,'bezon.0i.postuli','要有[yào yǒu]')).
+assert(celo(bezoni,'bezon.0i.postuli','甘心[gān xīn]')).
+assert(celo(bezoni,'bezon.0i.suferi','急需[jí xū]')).
+assert(celo(bezono,'bezon.0o.postulo','迫切需要[pò qiè xū yào]')).
+assert(celo(senbezona,'bezon.sen0a.KOMUNE','不必要[bú bì yào]')).
+assert(celo(senbezona,'bezon.sen0a.KOMUNE','不用[bù yòng]')).
+assert(celo(senbezona,'bezon.sen0a.KOMUNE','多餘[duō yú]')).
+assert(celo(senbezona,'bezon.sen0a.KOMUNE','无须[wú xū]')).
+assert(celo(senbezona,'bezon.sen0a.KOMUNE','多余[duō yú]')).
+assert(celo(vivbezonaĵo,'bezon.viv0ajxo.EKON','副食品[fù shí pǐn]')).
+assert(celo(vivbezonaĵo,'bezon.viv0ajxo.EKON','食品[shí pǐn]')).
+assert(celo(biasa,'bias.0a.SCI','使失真[shǐ shī zhēn]')).
+assert(celo(biasa,'bias.0a.SCI','歪曲[wāi qū]')).
+assert(celo(biasa,'bias.0a.SCI','弄歪[nòng wāi]')).
+assert(celo(senbiasa,'bias.sen0a.SCI','不出所料[bù chū suǒ liào]')).
+assert(celo(biblioteko,'biblio1.0o.ejo','图书馆[tú shū guǎn]')).
+assert(celo(biblioteko,'biblio1.0o.ejo','书库[shū kù]')).
+assert(celo(biblioteko,'biblio1.0o.ejo','图书室[tú shū shì]')).
+assert(celo(biblioteko,'biblio1.0o.ejo','文库[wén kù]')).
+assert(celo(biblioteko,'biblio1.0o.ejo','公共图书馆[gōng gòng tú shū guǎn]')).
+assert(celo(biblioteko,'biblio1.0o.ejo','藏书[cáng shū]')).
+assert(celo(biblioteko,'biblio1.0o.kolekto','图书[tú shū]')).
+assert(celo(biblioteko,'biblio1.0o.serio','丛书[cóng shū]')).
+assert(celo(bibliofilo,'bibliofil.0o.TIP','藏书家[cáng shū jiā]')).
+assert(celo(bicepso,'','強健的筋肉[qiáng jiàn de jīn ròu]')).
+assert(celo(bicepso,'','双头肌[shuāng tóu jī]')).
+assert(celo(bicikli,'bicikl.0i.BIC','騎自行車[qí zì xíng chē]')).
+assert(celo(bicikli,'bicikl.0i.BIC','騎車[qí chē]')).
+assert(celo(bicikli,'bicikl.0i.BIC','騎[qí]')).
+assert(celo(biciklo,'bicikl.0o.velocipedo','自行車[zì xíng chē]')).
+assert(celo(biciklo,'bicikl.0o.velocipedo','脚踏车[jiǎo tà chē]')).
+assert(celo(motorbiciklo,'bicikl.motor0o.BIC','輕便摩托車[qīng biàn mó tuō chē]')).
+assert(celo(motorbiciklo,'bicikl.motor0o.BIC','輕型摩托車[qīng xíng mó tuō chē]')).
+assert(celo(bidaro,'','項鏈[xiàng liàn]')).
+assert(celo(bido,'bid.0o.JUV','丸[wán]')).
+assert(celo(bielo,'biel.0o.TEK','连杆[lián gān]')).
+assert(celo(bieno,'bien.0o.kampara','农场[nóng chǎng]')).
+assert(celo(bieno,'bien.0o.kampara','农庄[nóng zhuāng]')).
+assert(celo(bieno,'bien.0o.kampara','庄[zhuāng]')).
+assert(celo(bieno,'bien.0o.kampara','飼養場[sì yǎng chǎng]')).
+assert(celo(bienalo,'bienal.0o.BELA','柏林当代艺术双年展[bó lín dāng dài yì shù shuāng nián zhǎn]')).
+assert(celo(bienalo,'bienal.0o.BELA','两年期[liǎng nián qī]')).
+assert(celo(bienalo,'bienal.0o.BELA','两年期间[liǎng nián qī jiān]')).
+assert(celo(bienalo,'bienal.0o.BELA','双年展[shuāng nián zhǎn]')).
+retract(celo(bienalo,'bienal.0o.BELA','柏林当代艺术双年展[bó lín dāng dài yì shù shuāng nián zhǎn]')).
+assert(celo(bierejo,'bier.0ejo.KUI','酒館[jiǔ guǎn]')).
+assert(celo(barelbiero,'','生啤[shēng pí]')).
+assert(celo(barelbiero,'','桶装啤酒[tǒng zhuāng pí jiǔ]')).
+assert(celo(barelbiero,'','扎啤[zhā pí]')).
+assert(celo(bigamio,'bigami.0o.JUR','重婚[chóng hūn]')).
+assert(celo(bikino,'bikin.0o.TEKS','比基尼[bǐ jī ní]')).
+assert(celo(bikino,'bikin.0o.TEKS','比基尼泳衣[bǐ jī ní yǒng yì]')).
+assert(celo(bikino,'bikin.0o.TEKS','两件头[liǎng jiàn tóu]')).
+assert(celo(bikino,'bikin.0o.TEKS','三点式[sān diǎn shì]')).
+assert(celo(bikino,'bikin.0o.TEKS','三点式泳衣[sān diǎn shì yǒng yì]')).
+assert(celo(bikino,'bikin.0o.TEKS','三角泳装[sān jiǎo yǒng zhuāng]')).
+assert(celo(bikŝuo,'biksxu.0o.BUD','和尚[hé shàng]')).
+assert(celo(bilanci,'bilanc.0i.EKON','編製資產負債表[biān zhì zī chǎn fù zhài biǎo]')).
+assert(celo(bilanco,'bilanc.0o.EKON','产本负债表[chǎn běn fù zhài biǎo]')).
+assert(celo(bilanco,'bilanc.0o.EKON','結存[jié cún]')).
+assert(celo(bilanco,'bilanc.0o.EKON','均衡[jūn héng]')).
+assert(celo(bilanco,'bilanc.0o.EKON','收支平衡表[shōu zhī píng héng biǎo]')).
+assert(celo(bilanco,'bilanc.0o.EKON','資產負責表[zī chǎn fù zé biǎo]')).
+assert(celo(bilanco,'bilanc.0o.EKON','資產負債表[zī chǎn fù zhài biǎo]')).
+assert(celo(bilanco,'bilanc.0o.EKON','决算[jué suàn]')).
+assert(celo(bilanci,'bilanc.0i.EKON','总结工作[zǒng jié gōng zuò]')).
+assert(celo(bilanci,'bilanc.0i.FIG','回顧[huí gù]')).
+assert(celo(bilardo,'bilard.0o.SPO','台球[tái qiú]')).
+assert(celo(bilardo,'bilard.0o.SPO','台球游戏[tái qiú yóu xì]')).
+assert(celo(bilardo,'bilard.0o.SPO','撞球[zhuàng qiú]')).
+assert(celo(bilardo,'bilard.0o.SPO','弹球[dàn qiú]')).
+assert(celo('Bilbao','bilba.0o.urbo','毕尔巴鄂[bì ěr bā è]')).
+assert(celo(bildigi,'bild.0igi.KOMUNE','标征[biāo zhēng]')).
+retract(celo(bildigi,'bild.0igi.KOMUNE','标征[biāo zhēng]')).
+assert(celo(bildigi,'bild.0igi.KOMUNE','成象[chéng xiàng]')).
+assert(celo(bildigo,'bild.0igo.KOMUNE','表述[biǎo shù]')).
+assert(celo(bildigo,'bild.0igo.KOMUNE','打印賬單[dǎ yìn zhàng dān]')).
+assert(celo(bildigo,'bild.0igo.KOMUNE','插图[chā tú]')).
+assert(celo(bildo,'bild.0o.KOMUNE','图[tú]')).
+assert(celo(bildo,'bild.0o.KOMUNE','展望[zhǎn wàng]')).
+assert(celo(lumbildo,'bild.lum0o.FOT','护照照[hù zhào zhào]')).
+assert(celo(sonbilda,'bild.son0a.TEL','視聽[shì tīng]')).
+assert(celo(sonbilda,'bild.son0a.TEL','視聽教學[shì tīng jiào xué]')).
+assert(celo(sonbilda,'bild.son0a.TEL','音像[yīn xiàng]')).
+assert(celo(spegulbildo,'bild.spegul0o.KOMUNE','鏡像[jìng xiàng]')).
+assert(celo(spegulbildo,'bild.spegul0o.KOMUNE','影子[yǐng zi]')).
+assert(celo(bileto,'bilet.0o.KOMUNE','門票[mén piào]')).
+assert(celo(bileto,'bilet.0o.KOMUNE','門券[mén quàn]')).
+assert(celo(bileto,'bilet.0o.KOMUNE','入场卷[rù chǎng juan]')).
+assert(celo(bileto,'bilet.0o.KOMUNE','車票[chē piào]')).
+assert(celo(biletujo,'bilet.0ujo.mona','錢袋[qián dài]')).
+assert(celo(biletujo,'bilet.0ujo.mona','私囊[sī náng]')).
+assert(celo(enirbileto,'','电影票[diàn yǐng piào]')).
+assert(celo(enirbileto,'','門票[mén piào]')).
+assert(celo(enirbileto,'','門券[mén quàn]')).
+assert(celo(enirbileto,'','入场卷[rù chǎng juan]')).
+assert(celo(flugbileto,'','飛機票[fēi jī piào]')).
+assert(celo(flugbileto,'','机票[jī piào]')).
+assert(celo(monbileto,'bilet.mon0o.EKON','鈔票[chāo piào]')).
+assert(celo(monbileto,'bilet.mon0o.EKON','票子[piào zi]')).
+assert(celo(biliono,'bilion.0o.duiliono','兆[zhào]')).
+assert(celo(biliono,'bilion.0o.miliardo','十亿[shí yì]')).
+assert(celo(bindaĵo,'bind.0ajxo.librokovrilo','精装书[jīng zhuāng shū]')).
+assert(celo(bindaĵo,'bind.0ajxo.librokovrilo','书籍封面[shū jí fēng miàn]')).
+assert(celo(bindisto,'bind.0isto.metiisto','书籍装订工[shū jí zhuāng dìng gōng]')).
+assert(celo(bindaĵo,'','书籍装订[shū jí zhuāng dìng]')).
+assert(celo(bindilo,'','装订机械[zhuāng dìng jī xiè]')).
+assert(celo(biofiziko,'biofizik.0o.SCI','生物物理学[shēng wù wù lǐ xué]')).
+assert(celo(biogaso,'biogas.0o.KEM','生化气体[shēng huà qì tǐ]')).
+assert(celo(biogaso,'biogas.0o.KEM','生物气[shēng wù qì]')).
+assert(celo(biogaso,'biogas.0o.KEM','生物气体[shēng wù qì tǐ]')).
+assert(celo(bioĥemiisto,'biohxemi.0isto.SCI','生物化学家[shēng wù huà xué jiā]')).
+assert(celo(bioĥemio,'biohxemi.0o.SCI','生物化学[shēng wù huà xué]')).
+assert(celo(bioĥemio,'biohxemi.0o.SCI','生化[shēng huà]')).
+assert(celo(biologo,'biolog.0o.BIO','生物学家[shēng wù xué jiā]')).
+assert(celo(biologo,'biolog.0o.BIO','研究生物学的人[yán jiū shēng wù xué dì rén]')).
+assert(celo(biologio,'biolog1.0o.SCI','生物学[shēng wù xué]')).
+assert(celo(biomaso,'biomas.0o.EKOL','生物量[shēng wù liàng]')).
+assert(celo(biomaso,'biomas.0o.EKOL','生物質[shēng wù zhì]')).
+assert(celo(biomaso,'biomas.0o.EKOL','生物質能[shēng wù zhì néng]')).
+assert(celo(biomeĥaniko,'biomehxanik.0o.BIO','生物力学[shēng wù lì xué]')).
+assert(celo(biometrio,'biometri.0o.BIO','生物特征識別[shēng wù tè zhēng shí bié]')).
+assert(celo(bioniko,'bionik.0o.TEK','仿生学[fǎng shēng xué]')).
+assert(celo(biopsio,'biopsi.0o.MED','活检[huó jiǎn]')).
+assert(celo(biopsio,'biopsi.0o.MED','活体检视[huó tǐ jiǎn shì]')).
+assert(celo(biopsio,'biopsi.0o.MED','活組織檢查[huó zǔ zhī jiǎn chá]')).
+assert(celo(biostatistiko,'biostatistik.0o.BIO','生物統計學[shēng wù tǒng jì xué]')).
+assert(celo(biostatistiko,'biostatistik.0o.BIO','医学统计学[yī xué tǒng jì xué]')).
