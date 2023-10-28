@@ -658,3 +658,271 @@ assert(celo(biopsio,'biopsi.0o.MED','活体检视[huó tǐ jiǎn shì]')).
 assert(celo(biopsio,'biopsi.0o.MED','活組織檢查[huó zǔ zhī jiǎn chá]')).
 assert(celo(biostatistiko,'biostatistik.0o.BIO','生物統計學[shēng wù tǒng jì xué]')).
 assert(celo(biostatistiko,'biostatistik.0o.BIO','医学统计学[yī xué tǒng jì xué]')).
+assert(celo(biotopo,'','群落生境[qún là shēng jìng]')).
+assert(celo(biotopo,'','生境[shēng jìng]')).
+assert(celo(biplano,'biplan.0o.AVI','双层飞艇[shuāng céng fēi tǐng]')).
+assert(celo(birdoj,'bird.0oj.ZOO','百鳥[bǎi niǎo]')).
+assert(celo(birdoj,'bird.0oj.ZOO','飛禽[fēi qín]')).
+assert(celo(birdoj,'bird.0oj.ZOO','鳥綱[niǎo gāng]')).
+retractall(celo(birdoj,_,_),3).
+assert(celo(birdoj,'bird.0oj.ZOO','鳥綱[niǎo gāng]')).
+assert(celo(kortbirdo,'bird.korto0o.AGR','家禽[jiā qín]')).
+assert(celo(kortbirdo,'bird.korto0o.AGR','家禽的肉[jiā qín de ròu]')).
+assert(celo(kortbirdo,'bird.korto0o.AGR','野禽[yě qín]')).
+assert(celo(kortbirdo,'bird.korto0o.AGR','禽[qín]')).
+assert(celo(muŝbirdo,'bird.musx0o.ZOO','蜂雀[fēng què]')).
+assert(celo(naĝbirdo,'bird.nagxo0o.ZOO','水鳥[shuǐ niǎo]')).
+assert(celo(naĝbirdo,'bird.nagxo0o.ZOO','水禽[shuǐ qín]')).
+assert(celo(rabobirdoj,'bird.rabo0oj.ZOO','猛禽[měng qín]')).
+assert(celo(rabobirdoj,'bird.rabo0oj.ZOO','隼形目[zhǔn xíng mù]')).
+assert(celo(vadbirdoj,'bird.vad0oj.ZOO','鸛形目[guàn xíng mù]')).
+assert(celo(bireto,'biret.0o.TEKS','貝雷帽[bèi léi mào]')).
+assert(celo('Birmo','birm.B0o.GEOG','缅甸[miǎn diàn]')).
+assert(celo(biskvito,'biskvi.0o.dubakita','面包干[miàn bāo gān]')).
+assert(celo(biskvito,'biskvi.0o.frandajxo','餅乾[bǐng gān]')).
+assert(celo(biskvito,'biskvi.0o.frandajxo','曲奇[qǔ qí]')).
+assert(celo(biskvito,'biskvi.0o.frandajxo','曲奇餅[qǔ qí bǐng]')).
+assert(celo(bito,'bit.0o.KOMP','比特[bǐ tè]')).
+assert(celo(bito,'bit1.0o.MAR','系船柱[xì chuán zhù]')).
+assert(celo(bivo,'biv.0o.MUZ','日本琵琶[rì běn pí pá]')).
+assert(celo(bivako,'bivak.0o.loko','寨[zhài]')).
+assert(celo(bivako,'bivak.0o.loko','帷幄[wéi wò]')).
+assert(celo('Bizanco','bizanc.0o.antikva','拜佔庭[bài zhàn tíng]')).
+assert(celo('Bizanco','bizanc.0o.antikva','拜占庭[bài zhàn tíng]')).
+assert(celo('Bjalistoko','bjalistok.0o.urbo','比亚韦斯托克[bǐ yà wéi sī tuō kè]')).
+assert(celo(blagi,'','撩[liáo]')).
+assert(celo(blagi,'','嬲[niǎo]')).
+assert(celo(blagulo,'blag.0ulo.KOMUNE','撕裂的人[sī liè de rén]')).
+assert(celo(blanketa,'blank.0eta.KOL','有些苍白[yǒu xiē cāng bái]')).
+assert(celo(ovblanko,'blank.ovo0o.KUI','蛋淸[dàn qīng]')).
+assert(celo(ovblanko,'blank.ovo0o.KUI','蛋靑[dàn qīng]')).
+assert(celo(blato,'blat.0o.ZOO','小強[xiǎo qiáng]')).
+assert(celo(blato,'blat.0o.ZOO','蜚蠊[fěi lián]')).
+assert(celo(blato,'blat.0o.ic','电子芯片[diàn zǐ xìn piàn]')).
+assert(celo(blazo,'','水疱[shuǐ pào]')).
+assert(celo(blazono,'blazon.0o.HER','国徽[guó huī]')).
+assert(celo(blazono,'blazon.0o.HER','紋章[wén zhāng]')).
+assert(celo(blendi,'blend1.0i.MIL','披甲[pī jiǎ]')).
+assert(celo(blendi,'blend1.0i.MIL','有甲[yǒu jiǎ]')).
+assert(celo(blendo,'blend1.0o.MIL','鋼甲[gāng jiǎ]')).
+assert(celo(blendo,'blend1.0o.MIL','装甲[zhuāng jiǎ]')).
+assert(celo(blinda,'blind.0a.MED','瞎[xiā]')).
+assert(celo(blinda,'blind.0a.MED','瞎眼[xiā yǎn]')).
+assert(celo(blinda,'blind.0a.FIG_netravidebla','浑然[hún rán]')).
+assert(celo(blinda,'blind.0a.FIG_netravidebla','使暗淡[shǐ àn dàn]')).
+assert(celo(blinda,'blind.0a.FIG_netravidebla','使浑浊[shǐ hún zhuó]')).
+assert(celo(blinda,'blind.0a.FIG_netravidebla','淟[tiǎn]')).
+assert(celo(blinda,'blind.0a.FIG_netravidebla','影影綽綽[yǐng yǐng chuò chuò]')).
+assert(celo(blinda,'blind.0a.FIG_netravidebla','魚似[yú sì]')).
+assert(celo(blinda,'blind.0a.FIG_netravidebla','使模糊[shǐ mó hu]')).
+assert(celo(blindeco,'blind.0eco.MED','失明[shī míng]')).
+assert(celo(blindeco,'blind.0eco.MED','无辨别力[wú biàn bié lì]')).
+assert(celo(blindigi,'blind.0igi.MED','夺目[duó mù]')).
+assert(celo(blindigi,'blind.0igi.MED','晃眼[huǎng yǎn]')).
+assert(celo(blindigi,'blind.0igi.MED','使失明[shǐ shī míng]')).
+assert(celo(blindigi,'blind.0igi.MED','耀眼[yào yǎn]')).
+assert(celo(blindigi,'blind.0igi.FIG','熀[huǎng]')).
+assert(celo(blindigi,'blind.0igi.FIG','矇蔽[méng bì]')).
+assert(celo(blindigi,'blind.0igi.FIG','炫[xuàn]')).
+assert(celo(blindiĝi,'blind.0igxi.MED','失明[shī míng]')).
+assert(celo(blindulo,'blind.0ulo.MED','盲人[máng rén]')).
+assert(celo(malblindigi,'blind.mal0igi.FIG','开导[kāi dǎo]')).
+assert(celo(malblindiĝi,'blind.mal0igxi.FIG','覺[jué]')).
+assert(celo(vortblindeco,'blind.vort0eco.MED','难语症[nàn yǔ zhèng]')).
+assert(celo(vortblindeco,'blind.vort0eco.MED','閱讀障礙[yuè dú zhàng ài]')).
+assert(celo(vortblinda,'','誦讀困難[sòng dú kùn nan]')).
+assert(celo(bloki,'','街段[jiē duàn]')).
+assert(celo(bloki,'','木块[mù kuài]')).
+assert(celo(bloki,'','挡[dǎng]')).
+assert(celo(bloki,'','被冻结[bèi dòng jié]')).
+assert(celo(bloki,'','被阻塞[bèi zǔ sè]')).
+assert(celo(bloki,'','力阻[lì zǔ]')).
+assert(celo(bloki,'','阻絕[zǔ jué]')).
+assert(celo(bloki,'','抑制[yì zhì]')).
+assert(celo(bloko,'blok.0o.agregata','汽缸本体[qì gāng běn tǐ]')).
+assert(celo(bloko,'blok.0o.agregata','一組[yī zǔ]')).
+assert(celo(bloko,'blok.0o.agregata','一个人[yí gè rén]')).
+assert(celo(bloko,'blok.0o.maso','断块[duàn kuài]')).
+assert(celo(bloko,'blok.0o.maso','木头[mù tou]')).
+assert(celo(ŝtonbloko,'blok.sxton0o.GEOL','砬[lá]')).
+assert(celo(ŝtonbloko,'blok.sxton0o.GEOL','磥[lěi]')).
+assert(celo(blokado,'','柏林封鎖[bó lín fēng suǒ]')).
+assert(celo(blokado,'','堵塞队[dǔ sè duì]')).
+assert(celo(blokado,'','堵塞物[dǔ sè wù]')).
+assert(celo(blokado,'','阻断[zǔ duàn]')).
+assert(celo(blonda,'blond.0a.hararo','金发[jīn fǎ]')).
+assert(celo(blonda,'blond.0a.hararo','金黃色[jīn huáng sè]')).
+assert(celo(blonda,'blond.0a.hararo','金黃[jīn huáng]')).
+assert(celo(blovaĵo,'blov.0ajxo.KOMUNE','一吹[yī chuī]')).
+assert(celo(blovaĵo,'blov.0ajxo.KOMUNE','和風[hé fēng]')).
+assert(celo(blovi,'blov.0i.ntr','吹[chuī]')).
+assert(celo(blovi,'blov.0i.ntr','刮风[guā fēng]')).
+assert(celo(blovilo,'blov.0ilo.KOMUNE','摺式風箱[zhé shì fēng xiāng]')).
+assert(celo(blovilo,'blov.0ilo.KOMUNE','胱[guāng]')).
+assert(celo(disblovi,'blov.dis0i.KOMUNE','吹散[chuī sǎn]')).
+assert(celo(forblovi,'blov.for0i.KOMUNE','吹散[chuī sǎn]')).
+assert(celo(spirblovi,'blov.spir0i.KOMUNE','歕[pēn]')).
+assert(celo(spirblovi,'blov.spir0i.KOMUNE','歕[pèn]')).
+assert(celo(spirblovi,'blov.spir0i.KOMUNE','喷[pēn]')).
+assert(celo(bluso,'blus.0o.MUZ','布魯斯[bù lǔ sī]')).
+assert(celo(bluso,'blus.0o.MUZ','蓝调[lán diào]')).
+assert(celo(bluzo,'bluz.0o.TEKS','军便服上衣[jūn biàn fú shàng yī]')).
+assert(celo(bluzo,'bluz.0o.TEKS','宽松的上衣[kuān sōng de shàng yī]')).
+assert(celo(bluzo,'bluz.0o.TEKS','女衬衫[nǚ chèn shān]')).
+assert(celo(bluzo,'bluz.0o.TEKS','女上衣[nǚ shàng yī]')).
+assert(celo(bluzo,'bluz.0o.TEKS','上衫[shàng shān]')).
+assert(celo(bluzo,'bluz.0o.TEKS','罩衫[zhào shān]')).
+assert(celo(boardi,'board.0i.MAR','掉抢[diào qiǎng]')).
+assert(celo(boato,'boat.0o.SHI','艖[chā]')).
+assert(celo(boato,'boat.0o.SHI','舡[chuán]')).
+assert(celo(motorboato,'boat.motor0o.SHI','机船[jī chuán]')).
+assert(celo(motorboato,'boat.motor0o.SHI','馬達船[mǎ dá chuán]')).
+assert(celo(motorboato,'boat.motor0o.SHI','摩托艇[mó tuō tǐng]')).
+assert(celo(motorboato,'boat.motor0o.SHI','汽艇[qì tǐng]')).
+assert(celo(pedalboato,'boat.pedal0o.SHI','脚踏船[jiǎo tà chuán]')).
+assert(celo(savboato,'boat.sav0o.SHI','救生船[jiù shēng chuán]')).
+assert(celo(savboato,'boat.sav0o.SHI','救生艇[jiù shēng tǐng]')).
+assert(celo(bobeli,'bobel.0i.KOMUNE','啵[bō]')).
+assert(celo(bobeli,'bobel.0i.KOMUNE','冒泡泡[mào pào pào]')).
+assert(celo(bobeli,'bobel.0i.KOMUNE','沤[ōu]')).
+assert(celo(bobeli,'bobel.0i.KOMUNE','小声说[xiǎo shēng shuō]')).
+assert(celo(bobeli,'bobel.0i.KOMUNE','泡沫[pào mò]')).
+assert(celo(bobeli,'bobel.0i.KOMUNE','泡[pào]')).
+assert(celo(bobelo,'bobel.0o.KOMUNE','水疱[shuǐ pào]')).
+assert(celo(bobenego,'boben.0ego.TEK','角色[jué sè]')).
+assert(celo(bobenego,'boben.0ego.TEK','卷绳筒[juǎn shéng tǒng]')).
+assert(celo(bobeni,'boben.0i.TEK','上弦[shàng xián]')).
+assert(celo(bobeni,'boben.0i.TEK','纏[chán]')).
+assert(celo(bobeno,'boben.0o.ELE','感应圈[gǎn yìng quān]')).
+assert(celo(bobeno,'boben.0o.KOMUNE','纏[chán]')).
+assert(celo(bobeno,'boben.0o.KOMUNE','線軸[xiàn zhòu]')).
+assert(celo(elbobenigi,'boben.el0igi.KOMUNE','解下[jiě xià]')).
+assert(celo(elbobenigi,'boben.el0igi.KOMUNE','上弦[shàng xián]')).
+assert(celo(glitbobeno,'boben.glit0o.TEKS','梭子[suō zi]')).
+assert(celo(glitbobeno,'boben.glit0o.TEKS','梭[suō]')).
+assert(celo('Bocvano','bocvan.B0o.GEOG','博茨瓦那[bó cí wǎ nà]')).
+assert(celo('Bocvano','bocvan.B0o.GEOG','博兹瓦纳[bó zī wǎ nà]')).
+assert(celo(bodisatvo,'bodisatv.0o.BUD','菩[pú]')).
+assert(celo('Bohemujo','','波希米亚[bō xī mǐ yà]')).
+assert(celo('Bohemio','bohemi.0o.bohemujo','波希米亚[bō xī mǐ yà]')).
+assert(celo(boj,'boj.0.SON','汪汪[wāng wāng]')).
+assert(celo(tirboji,'boj.tir0i.SON','怒吼[nù hǒu]')).
+assert(celo(bleki,'','怒吼[nù hǒu]')).
+assert(celo(boksi,'boks.0i.lukti','用拳打揍[yòng quán dǎ zòu]')).
+assert(celo(boksi,'boks.0i.lukti','拳击[quán jí]')).
+assert(celo(bokso,'boks.0o.SPO','互殴[hù ōu]')).
+assert(celo(bokso,'boks.0o.SPO','拳击[quán jí]')).
+assert(celo(bokso,'boks.0o.SPO','拳击比赛[quán jī bǐ sài]')).
+assert(celo('franca bokso','boks.franca0o.SPO','法国拳击[fǎ guó quán jī]')).
+assert(celo('taja bokso','boks.taja0o.SPO','泰拳[tài quán]')).
+assert(celo(boli,'bol.0i.vaporigxi','烀[hū]')).
+assert(celo(boli,'bol.0i.vaporigxi','煲[bāo]')).
+assert(celo(boli,'bol.0i.vaporigxi','起泡沫[qǐ pào mò]')).
+assert(celo(boli,'bol.0i.fervori','沸腾[fèi téng]')).
+assert(celo(boligi,'bol.0igi.teni','煮熟[zhǔ shóu]')).
+assert(celo(boligi,'bol.0igi.teni','煮沸[zhǔ fèi]')).
+assert(celo(boligi,'bol.0igi.teni','蒸煮[zhēng zhǔ]')).
+assert(celo(bolardo,'bolard.0o.MAR','系船柱[xì chuán zhù]')).
+assert(celo(bolero,'boler1.0o.hispana_danco','波利乐舞[bō lì yuè wǔ]')).
+assert(celo(bolivudo,'','宝莱坞[bǎo lái wù]')).
+assert(celo(bolŝeviko,'bolsxevik.0o.POL','极端份子[jí duān fèn zǐ]')).
+assert(celo(bolŝeviko,'bolsxevik.0o.POL','苏联共产党员[sū lián gòng chǎn dǎng yuán]')).
+assert(celo(bolti,'bolt.0i.TEK','拧紧螺丝[níng jǐn luó sī]')).
+assert(celo(boltingo,'bolt.0ingo.TEK','垫圈[diàn juàn]')).
+assert(celo(boltingo,'bolt.0ingo.TEK','垫片[diàn piàn]')).
+assert(celo(bolto,'bolt.0o.TEK','螺輪汽船[luó lún qì chuán]')).
+assert(celo(bolto,'bolt.0o.TEK','螺旋形的东西[luó xuán xíng de dōng xi]')).
+assert(celo(bombado,'bomb.0ado.MIL','大轟炸[dà hōng zhà]')).
+assert(celo(bombado,'bomb.0ado.MIL','炮火[pào huǒ]')).
+assert(celo(bombo,'bomb.0o.armilo','爆炸物[bào zhà wù]')).
+assert(celo(bombo,'bomb.0o.armilo','引爆装置[yǐn bào zhuāng zhì]')).
+assert(celo(bombo,'bomb.0o.armilo','爆炸装置[bào zhà zhuāng zhì]')).
+assert(celo(bombo,'bomb.0o.armilo','炸弹[zhà dàn]')).
+assert(celo(horloĝbombo,'bomb.horlogx0o.ARM','定时炸弹[dìng shí zhà dàn]')).
+assert(celo(bombako,'bombak.0o.BOT','木棉[mù mián]')).
+assert(celo(bombardi,'bombar.0i.MIL','轟炸[hōng zhà]')).
+assert(celo(bombardi,'bombar.0i.MIL','检获[jiǎn huò]')).
+assert(celo(bombono,'bombon.0o.KUI','糖果[táng guǒ]')).
+assert(celo(bone,'bon.0e.maniero','干得好[gàn dé hǎo]')).
+assert(celo(bone,'bon.0e.maniero','得手[dé shǒu]')).
+assert(celo(bone,'bon.0e.konsentite','好不好[hǎo bù hǎo]')).
+assert(celo(bone,'bon.0e.konsentite','照准[zhào zhǔn]')).
+assert(celo(bone,'bon.0e.konsentite','好吧[hǎo ba]')).
+retract(celo(bone,'bon.0e.konsentite','照准[zhào zhǔn]')).
+assert(celo(boneco,'bon.0eco.kvalito','佳度[jiā dù]')).
+assert(celo(boneco,'bon.0eco.humaneco','恩[ēn]')).
+assert(celo('komuna bono','bon.komuna0o.FIL','公共福利[gōng gòng fú lì]')).
+assert(celo(bonulo,'','恩人[ēn rén]')).
+assert(celo(malbona,'bon.mal0a.malfelicxa','恶劣[è liè]')).
+assert(celo(malbona,'bon.mal0a.malfelicxa','不賺錢[bù zhuàn qián]')).
+assert(celo(malbona,'bon.mal0a.malfelicxa','不順[bù shùn]')).
+assert(celo(malbona,'bon.mal0a.maltauxga','蹩脚[bié jiǎo]')).
+assert(celo(malbona,'bon.mal0a.maltauxga','不良[bù liáng]')).
+assert(celo(malbona,'bon.mal0a.maltauxga','不太好[bù tài hǎo]')).
+assert(celo(malbona,'bon.mal0a.malhumana','邪恶[xié è]')).
+assert(celo(malbona,'bon.mal0a.malhumana','恶性[è xìng]')).
+assert(celo(malbona,'bon.mal0a.malhumana','恶毒[è dú]')).
+assert(celo(malbona,'bon.mal0a.malhumana','孬[nāo]')).
+assert(celo(malbonaĵo,'bon.mal0ajxo.faro','不幸和罪恶之源[bù xìng huó zuì è zhī yuán]')).
+assert(celo(malbonaĵo,'bon.mal0ajxo.faro','浩劫[hào jié]')).
+assert(celo(malbonaĵo,'bon.mal0ajxo.okazajxo','不順利的事[bù shùn lì de shì]')).
+assert(celo(malbonaĵo,'bon.mal0ajxo.okazajxo','背运[bèi yùn]')).
+assert(celo(malbonaĵo,'bon.mal0ajxo.okazajxo','恶运[è yùn]')).
+assert(celo(malboniĝi,'bon.mal0igxi.KOMUNE','变馊[biàn sōu]')).
+assert(celo(malboniĝi,'bon.mal0igxi.KOMUNE','变坏[biàn huài]')).
+assert(celo(malbono,'bon.mal0o.ajxo','不順利的事[bù shùn lì de shì]')).
+assert(celo(malbono,'bon.mal0o.ajxo','逆境[nì jìng]')).
+assert(celo(malbono,'bon.mal0o.ajxo','閃失[shǎn shī]')).
+assert(celo(malbono,'bon.mal0o.ajxo','不幸之事[bù xìng zhī shì]')).
+assert(celo(plibonigi,'bon.pli0igi.KOMUNE','改进[gǎi jìn]')).
+assert(celo(plibonigi,'bon.pli0igi.KOMUNE','繩正[shéng zhèng]')).
+assert(celo(plibonigi,'bon.pli0igi.KOMUNE','完善[wán shàn]')).
+assert(celo(plibonigi,'bon.pli0igi.KOMUNE','增強了[zēng qiáng liǎo]')).
+assert(celo(plibonigi,'bon.pli0igi.KOMUNE','矫正[jiǎo zhèng]')).
+assert(celo(plibonigi,'bon.pli0igi.KOMUNE','进步[jìn bù]')).
+assert(celo(plibonigi,'bon.pli0igi.KOMUNE','糾正[jiū zhèng]')).
+assert(celo(rebonigi,'bon.re0igi.KOMUNE','葺[qì]')).
+assert(celo(rebonigi,'bon.re0igi.KOMUNE','补正[bǔ zhèng]')).
+assert(celo(bongo,'bong.0o.MUZ','邦戈鼓[bāng gē gǔ]')).
+assert(celo(bongo,'bong.0o.MUZ','邦哥鼓[bāng gē gǔ]')).
+assert(celo(bonobo,'bonob.0o.ZOO','倭黑猩猩[wō hēi xīng xing]')).
+assert(celo(bonsajo,'bonsaj.0o.arbo','盆景[pén jǐng]')).
+assert(celo(bonsajo,'bonsaj.0o.arbo','盆景树[pén jǐng shù]')).
+assert(celo(bonuso,'bonus.0o.EKON','額外品[é wài pǐn]')).
+assert(celo(bonuso,'bonus.0o.EKON','花紅[huā hóng]')).
+assert(celo(bonuso,'bonus.0o.EKON','紅包[hóng bāo]')).
+assert(celo(bori,'bor.0i.TEK','鑽進[zuān jìn]')).
+assert(celo(bori,'bor.0i.TEK','鑽鑿[zuān záo]')).
+assert(celo(bori,'bor.0i.TEK','穿孔[chuān kǒng]')).
+assert(celo(bori,'bor.0i.TEK','貫通[guàn tōng]')).
+assert(celo(bori,'bor.0i.TEK','凿洞[záo dòng]')).
+assert(celo(bori,'bor.0i.TEK','貫[guàn]')).
+assert(celo(borilo,'bor.0ilo.TEK','穿孔者[chuān kǒng zhě]')).
+assert(celo(borilo,'bor.0ilo.TEK','打眼工[dǎ yǎn gōng]')).
+assert(celo(borilo,'bor.0ilo.TEK','电钻[diàn zuàn]')).
+assert(celo(borilo,'bor.0ilo.TEK','蛀虫[zhù chóng]')).
+assert(celo(borilo,'bor.0ilo.TEK','鑽工[zuān gōng]')).
+assert(celo(borilo,'bor.0ilo.TEK','鑽孔的蟲[zuān kǒng de chóng]')).
+assert(celo(borilo,'bor.0ilo.TEK','鑽孔器[zuān kǒng qì]')).
+assert(celo(borilo,'bor.0ilo.TEK','鑽子[zuàn zi]')).
+assert(celo(borilo,'bor.0ilo.TEK','鑽[zuān]')).
+assert(celo(borilo,'bor.0ilo.TEK','鑚子[zuàn zǐ]')).
+assert(celo(trabori,'bor.tra0i.TEK','鉾[móu]')).
+assert(celo(trabori,'bor.tra0i.TEK','厹[qiú]')).
+assert(celo(trabori,'bor.tra0i.TEK','鎩[shā]')).
+assert(celo(trabori,'bor.tra0i.TEK','穿洞[chuān dòng]')).
+assert(celo(trabori,'bor.tra0i.TEK','鏦[cōng]')).
+assert(celo(trabori,'bor.tra0i.TEK','貫通[guàn tōng]')).
+assert(celo(trabori,'bor.tra0i.TEK','貫[guàn]')).
+assert(celo(bordo,'bord.0o.FIG','津岸[jīn àn]')).
+retract(celo(bordo,'bord.0o.FIG','津岸[jīn àn]')).
+assert(celo(bordo,'bord.0o.GEOG','津岸[jīn àn]')).
+assert(celo(bordo,'bord.0o.GEOG','津涯[jīn yá]')).
+assert(celo(bordo,'bord.0o.GEOG','海滨[hǎi bīn]')).
+assert(celo(albordiĝejo,'bord.al0igxejo.MAR','停泊处[tíng bó chù]')).
+assert(celo(borderi,'border.0i.iu','縿[shān]')).
+assert(celo('Bordozo','bordoz.0o.urbo','波尔多[bō ěr duō]')).
+assert(celo('Boriso','boris.0o.NOM','鮑裡斯[bào lǐ sī]')).
+assert(celo(borno,'born.0o.SNC','端子[duān zi]')).
+assert(celo(borno,'born.0o.SNC','卡子[qiǎ zi]')).
+assert(celo('Borneo','borne.0o.insulo','婆罗洲[pó luó zhōu]')).
