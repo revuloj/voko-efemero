@@ -134,7 +134,7 @@ hande_redukt :-
 % CSV-dosieron per ordinara redaktilo / rigardilo.
 
 m(Prefix) :- forall(
-    limit(20,(
+    limit(30,(
         manko(Eo,_,_,_,_),
         sub_atom(Eo,0,_,_,Prefix),
         mg(Eo,_))
@@ -209,20 +209,30 @@ proponoj_eo(Eo,Max) :-
     proponoj_de(SDe,Max,N,Eo,Mrk).
 
 proponoj_de(SDe,Max,N,Eo,Mrk) :-
-    Max3 is 3*Max,
+    Max2 is Max*5,
     forall(
         call_nth(limit(Max, % post ordigo ni limigas al kiom ni volas
             order_by([desc(Simil)], 
-                limit(Max3,( % ni serĉas trioble tiom kiom ni bezonas
-                    distinct(Zh,de_zh(Mtd,SDe,De1,Zh,Simil)))
+                    distinct(Zh,
+                        (
+                            member(Mtd,[e,s,n]),
+                            limit(Max2,de_zh(Mtd,SDe,De1,Zh,Simil))
+                        )
+                        %concurrent(3,
+                        %    [
+                        %        (Mtd = e, limit(Max2,de_zh(Mtd,SDe,De1,Zh,Simil))),
+                        %        (Mtd = s, limit(Max2,de_zh(Mtd,SDe,De1,Zh,Simil))),
+                        %        (Mtd = n, limit(Max2,de_zh(Mtd,SDe,De1,Zh,Simil)))
+                        %    ],[])
+                    )
                 )
-            )),
+            ),
             N1), 
         (
             % N-N1 servas por poste identigi unuopan traduk-proponon, ni memoras ilin tiucele
             assertz(propono(N,N1,Eo,Mrk,Zh)),
             catch( % okazas iuj nevalidaj unikod-literoj !?
-                format('~d-~d (~w~1f): ~w, ~w~n',[N,N1,Mtd,Simil,De1,Zh]),
+                format('~d-~d (~w~1f): ~w, ~w~n',[N,N1,Mtd,Simil,De1,Zh]), 
                 E,
                 writeln(E))
         )
