@@ -1195,3 +1195,241 @@ assert(celo(brui,'bru.0i.krii','大吹大擂[dà chuī dà léi]')).
 assert(celo(brui,'bru.0i.soni','哗哗[huā huā]')).
 assert(celo(brui,'bru.0i.soni','喧闹[xuān nào]')).
 assert(celo(bruo,'','噪声[zào shēng]')).
+assert(celo(brula,'brul.0a.brulanta','烤[kǎo]')).
+assert(celo(brula,'brul.0a.brulanta','驕陽如伙[jiāo yáng rú huǒ]')).
+assert(celo(brula,'brul.0a.bruligebla','易燃的[yì rán de]')).
+assert(celo(brulego,'brul.0ego.KOMUNE','燹[xiǎn]')).
+assert(celo(bruli,'brul.0i.konsumi','烧掉[shāo diào]')).
+assert(celo(bruli,'brul.0i.konsumigxi','燃起[rán qǐ]')).
+assert(celo(bruli,'brul.0i.konsumigxi','燃烧[rán shāo]')).
+assert(celo(bruligaĵo,'brul.0igajxo.KOMUNE','荛[ráo]')).
+assert(celo(bruligaĵo,'brul.0igajxo.KOMUNE','薪[xīn]')).
+assert(celo(bruligaĵo,'brul.0igajxo.KOMUNE','燃料[rán liào]')).
+assert(celo(bruligaĵo,'brul.0igajxo.KOMUNE','燃烧物[rán shāo wù]')).
+assert(celo(bruligi,'brul.0igi.konsumigi','火辣辣[huǒ lā lā]')).
+assert(celo(bruligi,'brul.0igi.konsumigi','烧掉[shāo diào]')).
+assert(celo(bruligi,'brul.0igi.konsumigi','有糊味[yǒu hú wèi]')).
+assert(celo(bruligi,'brul.0igi.konsumigi','烧焦[shāo jiāo]')).
+assert(celo(bruligi,'brul.0igi.konsumigi','烫[tàng]')).
+assert(celo(bruligi,'brul.0igi.konsumigi','焚[fén]')).
+assert(celo(brulilo,'brul.0ilo.TEK','燃烧器[rán shāo qì]')).
+assert(celo(brulilo,'brul.0ilo.TEK','烧火的人[shāo huǒ de rén]')).
+assert(celo(brulilo,'brul.0ilo.TEK','烧录机[shāo lù jī]')).
+assert(celo(brulilo,'brul.0ilo.TEK','烧嘴[shāo zuǐ]')).
+assert(celo(brulilo,'brul.0ilo.TEK','灯[dēng]')).
+assert(celo(brulilo,'brul.0ilo.TEK','喷嘴[pēn zuǐ]')).
+assert(celo(brulo,'','自动开火[zì dòng kāi huǒ]')).
+assert(celo(brulo,'','火势[huǒ shì]')).
+assert(celo(albruli,'brul.al0i.KUI','烧过[shāo guò]')).
+assert(celo(albruli,'brul.al0i.KUI','烧焦[shāo jiāo]')).
+assert(celo(ekbruligi,'brul.ek0igi.KOMUNE','点火[diǎn huǒ]')).
+assert(celo(ekbruligi,'brul.ek0igi.KOMUNE','点火燃烧[diǎn huǒ rán shāo]')).
+assert(celo(ekbruligi,'brul.ek0igi.KOMUNE','点着[diǎn zháo]')).
+assert(celo(ekbruligi,'brul.ek0igi.KOMUNE','点燃[diǎn rán]')).
+assert(celo('Brunejo','brunej.B0o.GEOG','文莱[wén lái]')).
+assert(celo('Bruselo','brusel.B0o.urb','比利时首都[bǐ lì shí shǒu dū]')).
+assert(celo('Bruselo','brusel.B0o.urb','布魯塞爾[bù lǔ sè ěr]')).
+assert(celo(bruski,'brusk.0i.KOMUNE','冒犯[mào fàn]')).
+assert(celo(bruski,'brusk.0i.KOMUNE','得罪人[dé zuì rén]')).
+assert(celo(brusto,'brust.0o.mamo','胸脯[xiōng pú]')).
+assert(celo(surbrustaĵo,'brust.sur0ajxo.KOMUNE','紧身围腰[jǐn shēn wéi yāo]')).
+assert(celo(bruta,'brut.0a.FIG','不講理[bù jiǎng lǐ]')).
+assert(celo(bruta,'brut.0a.FIG','血腥[xuè xīng]')).
+assert(celo(bruta,'brut.0a.FIG','残[cán]')).
+assert(celo(bruta,'brut.0a.FIG','強暴[qiáng bào]')).
+assert(celo(bruta,'brut.0a.FIG','残酷[cán kù]')).
+assert(celo(brutaro,'brut.0aro.AGR','牲畜[shēng chù]')).
+assert(celo(brutaro,'brut.0aro.AGR','牲口[shēng kǒu]')).
+assert(celo(brutaro,'brut.0aro.AGR','家畜[jiā chù]')).
+assert(celo(brutaro,'brut.0aro.AGR','存栏量[cún lán liàng]')).
+assert(celo(bruto,'brut.0o.AGR','畜生[chù shēng]')).
+assert(celo(bruto,'brut.0o.AGR','牲[shēng]')).
+assert(celo(brutala,'brutal.0a.FIG','不講理[bù jiǎng lǐ]')).
+assert(celo(brutala,'brutal.0a.FIG','血腥[xuè xīng]')).
+assert(celo(brutala,'brutal.0a.FIG','残[cán]')).
+assert(celo(brutala,'brutal.0a.perforta','強暴[qiáng bào]')).
+assert(celo(brutala,'brutal.0a.perforta','残酷[cán kù]')).
+assert(celo(bubaĉo,'bub.0acxo.HOM','頑童[wán tóng]')).
+assert(celo(bubo,'bub.0o.infano','崽[zǎi]')).
+assert(celo(bubino,'','臭小子[chòu xiǎo zi]')).
+assert(celo(bubalo,'bubal.0o.ZOO','水牛[shuǐ niú]')).
+assert(celo(bucero,'bucer.0o.ZOO','犀鳥科[xī niǎo kē]')).
+assert(celo(buĉejo,'bucx.0ejo.KOMUNE','肉类加工厂[ròu lèi jiā gōng chǎng]')).
+assert(celo(buĉejo,'bucx.0ejo.KOMUNE','公共屠宰场[gōng gòng tú zǎi chǎng]')).
+assert(celo(buĉejo,'bucx.0ejo.KOMUNE','屠宰场[tú zǎi chǎng]')).
+assert(celo(buĉejo,'bucx.0ejo.FIG','疆场[jiāng chǎng]')).
+assert(celo(buĉejo,'bucx.0ejo.FIG','战地[zhàn dì]')).
+assert(celo(buĉi,'bucx.0i.KOMUNE','被屠宰[bèi tú zǎi]')).
+assert(celo(buĉi,'bucx.0i.FIG','宰杀[zǎi shā]')).
+assert(celo(buĉi,'bucx.0i.FIG','屠[tú]')).
+assert(celo(buĉisto,'','屠戶[tú hù]')).
+assert(celo(buĉisto,'','屠夫[tú fū]')).
+assert(celo(buĉisto,'','宰杀[zǎi shā]')).
+assert(celo(buĉisto,'','卖肉的[mài ròu de]')).
+assert(celo(budo,'bud.0o.ARKI','摊子[tān zi]')).
+assert(celo(budo,'bud.0o.ARKI','棚子[péng zi]')).
+assert(celo(muzikbudo,'bud.muzik0o.ARKI','演奏台[yǎn zòu tái]')).
+assert(celo(muzikbudo,'bud.muzik0o.ARKI','音乐台[yīn yuè tái]')).
+assert(celo(provbudo,'bud.prov0o.TEKS','試衣間[shì yī jiān]')).
+assert(celo(telefonbudo,'bud.telefon0o.TEL','电话亭[diàn huà tíng]')).
+assert(celo(telefonbudo,'bud.telefon0o.TEL','公用电话亭[gōng yòng diàn huà tíng]')).
+assert(celo(budaismo,'buda.0ismo.BUD','僧[sēng]')).
+assert(celo(budaismo,'buda.0ismo.BUD','佛教[fó jiào]')).
+assert(celo(budaismo,'buda.0ismo.BUD','佛門[fó mén]')).
+assert(celo(budaismo,'buda.0ismo.BUD','佛学[fó xué]')).
+assert(celo(budaismo,'buda.0ismo.BUD','释教[shì jiào]')).
+assert(celo(budaismo,'buda.0ismo.BUD','象教[xiàng jiào]')).
+assert(celo(budaisto,'buda.0isto.BUD','佛教徒[fó jiào tú]')).
+assert(celo(budao,'','佛[fó]')).
+assert(celo(budao,'','佛陀[fó tuó]')).
+assert(celo(budao,'','佛爷[fó ye]')).
+assert(celo(budao,'','浮图[fú tú]')).
+assert(celo(budao,'','老佛爷[lǎo fó ye]')).
+assert(celo(budao,'','六根[liù gēn]')).
+assert(celo(budao,'','如來彿[rú lái fú]')).
+assert(celo('Budapeŝto','budapesxt.0o.cxefurbo','布达佩斯[bù dá pèi sī]')).
+assert(celo(budleo,'budle.0o.BOT','蜜蒙花[mì méng huā]')).
+assert(celo(bufedo,'','自助餐[zì zhù cān]')).
+assert(celo(bufedo,'','自助餐柜台[zì zhù cān guì tái]')).
+assert(celo(bufro,'bufr.0o.TEK','緩沖器[huǎn chōng qì]')).
+assert(celo(bufro,'bufr.0o.TEK','减震器[jiǎn zhèn qì]')).
+assert(celo(bufro,'bufr.0o.TEK','消音器[xiāo yīn qì]')).
+assert(celo(bufro,'bufr.0o.POL','緩衝區[huǎn chōng qū]')).
+assert(celo(bufro,'bufr.0o.KOMP','緩沖存儲器[huǎn chōng cún chǔ qì]')).
+assert(celo(bufro,'bufr.0o.KOMP','緩存[huǎn cún]')).
+assert(celo(bufro,'bufr.0o.KOMP','緩衝台[huǎn chōng tái]')).
+assert(celo(bufono,'','傻子[shǎ zi]')).
+assert(celo(buĝeti,'bugxet.0i.EKON','出資[chū zī]')).
+assert(celo(buĝeti,'bugxet.0i.EKON','集資[jí zī]')).
+assert(celo(buĝeti,'bugxet.0i.EKON','提供資金[tí gōng zī jīn]')).
+assert(celo(buĝeti,'bugxet.0i.EKON','融通[róng tōng]')).
+assert(celo(buĝeto,'bugxet.0o.disponebla_sumo','預算[yù suàn]')).
+assert(celo(buĝeto,'bugxet.0o.disponebla_sumo','預算案[yù suàn àn]')).
+assert(celo(buĝeto,'bugxet.0o.EKON_plana','財政預算案[cái zhèng yù suàn àn]')).
+assert(celo(buĝeto,'bugxet.0o.EKON_plana','預算計劃[yù suàn jì huà]')).
+assert(celo(buĝeto,'bugxet.0o.EKON_efektiva','家庭財產[jiā tíng cái chǎn]')).
+assert(celo(buĥto,'buhxt1.0o.GEOG','隩[yù]')).
+assert(celo(buĥto,'buhxt1.0o.GEOG','海湾[hǎi wān]')).
+assert(celo(buĥto,'buhxt1.0o.GEOG','湾[wān]')).
+assert(celo(bukedo,'buked.0o.fasko','施特劳斯[shī tè láo sī]')).
+assert(celo(bukedo,'buked.0o.fasko','争执[zhēng zhí]')).
+assert(celo(buklilo,'bukl.0ilo.KOS','卷发夹子[juǎn fà jiā zi]')).
+assert(celo(buklo,'bukl.0o.hara','鬈发[quán fǎ]')).
+assert(celo(buligi,'bul.0igi.KOMUNE','球化[qiú huà]')).
+assert(celo(buligi,'bul.0igi.KOMUNE','成球[chéng qiú]')).
+assert(celo(bulo,'','丸子[wán zi]')).
+assert(celo(bulo,'','团[tuán]')).
+assert(celo(bulo,'','土块[tǔ kuài]')).
+assert(celo(buliĝi,'','成团[chéng tuán]')).
+assert(celo(harbulo,'bul.har0o.KOS','纂[zuǎn]')).
+assert(celo(harbulo,'bul.har0o.KOS','髻[jì]')).
+assert(celo(harbulo,'bul.har0o.KOS','纂儿[zuǎn ēr]')).
+assert(celo(karbobuleto,'bul.karbo0eto.HEJM','型煤[xíng méi]')).
+assert(celo(bulbo,'','鱗莖[lín jīng]')).
+assert(celo(bulbo,'','球葱[qiú cōng]')).
+assert(celo(bulbo,'','洋葱[yáng cōng]')).
+assert(celo(bulbo,'','蒜头[suàn tóu]')).
+assert(celo(buldogo,'buldog.0o.ZOO','斗牛狗[dòu niú gǒu]')).
+assert(celo(buldogo,'buldog.0o.ZOO','牛头犬[niú tóu quǎn]')).
+assert(celo(buldogo,'buldog.0o.ZOO','左輪手槍[zuǒ lún shǒu qiāng]')).
+assert(celo(bulea,'','布尔[bù ěr]')).
+assert(celo('Bulgarujo','bulgar.B0ujo.KOMUNE','保加利亚[bǎo jiā lì yà]')).
+assert(celo('Bulgario','bulgari.B0o.GEOG','保加利亚[bǎo jiā lì yà]')).
+assert(celo(bulimio,'bulimi.0o.malsano','暴食症[bào shí zhèng]')).
+assert(celo(buljono,'buljon.0o.KUI','汤[tāng]')).
+assert(celo(buljono,'','淸湯[qīng tāng]')).
+assert(celo(buljono,'','白汤[bái tāng]')).
+assert(celo(bulko,'bulk.0o.paneto','小面包[xiǎo miàn bāo]')).
+assert(celo(bumerango,'bumerang.0o.MIL','飛去來器[fēi qù lái qì]')).
+assert(celo(bunkro,'bunkr.0o.sxirmejo','碉堡[diāo bǎo]')).
+assert(celo(bunkro,'bunkr.0o.sxirmejo','煤仓[méi cāng]')).
+assert(celo(bunkro,'bunkr.0o.sxirmejo','避弹室[bì dàn shì]')).
+assert(celo(bunta,'bunt.0a.KOL','花色的[huā sè de]')).
+assert(celo(bunta,'bunt.0a.KOL','五彩繽紛[wǔ cǎi bīn fēn]')).
+assert(celo(bunta,'bunt.0a.KOL','有色的[yǒu sè de]')).
+assert(celo(bunta,'bunt.0a.KOL','猥[wěi]')).
+assert(celo(bunta,'bunt.0a.KOL','灰白[huī bái]')).
+assert(celo(bunta,'bunt.0a.KOL','采采[cǎi cǎi]')).
+assert(celo(bunta,'bunt.0a.KOL','花[huā]')).
+assert(celo(bunta,'bunt.0a.KOL','彩色的[cǎi sè de]')).
+assert(celo(bunta,'bunt.0a.FIG','猥杂[wěi zá]')).
+assert(celo(bunta,'bunt.0a.FIG','花哨[huā shao]')).
+assert(celo(bunteco,'bunt.0eco.KOL','多样性[duō yàng xìng]')).
+assert(celo('Burbonoj','burbon1.0oj.gento','波旁王朝[bō páng wáng cháo]')).
+assert(celo(burdo,'burd.0o.ZOO','丸花蜂[wán huā fēng]')).
+assert(celo(burdo,'burd.0o.ZOO','熊蜂[xióng fēng]')).
+assert(celo(burdo,'burd.0o.ZOO','花蜂[huā fēng]')).
+assert(celo(bureo,'bure.0o.danco','布列[bù liè]')).
+assert(celo(burĝo,'burgx.0o.kapitalisto','資本家[zī běn jiā]')).
+assert(celo(burĝo,'burgx.0o.etburgxo','資產階級[zī chǎn jiē jí]')).
+assert(celo(burĝono,'burgxo.0o.BOT','蓓蕾[bèi lěi]')).
+assert(celo(burĝono,'burgxo.0o.BOT','朵[duǒ]')).
+assert(celo(burĝono,'burgxo.0o.BOT','含苞[hán bāo]')).
+assert(celo(burĝono,'burgxo.0o.FIG','芽体[yá tǐ]')).
+assert(celo(burĝoni,'burgxo.0i.BOT','萌[méng]')).
+assert(celo(burĝoni,'burgxo.0i.BOT','薆[ài]')).
+assert(celo(burĝoni,'burgxo.0i.FIG','全盛[quán shèng]')).
+assert(celo(burko,'burk.0o.islamo','波卡[bō kǎ]')).
+assert(celo('Burkino','burkin.B0o.GEOG','布基納法索[bù jī nà fǎ suǒ]')).
+assert(celo('Burkino','burkin.B0o.GEOG','布吉納法索[bù jí nà fǎ suǒ]')).
+assert(celo(buroo,'buro.0o.POL','管理处[guǎn lǐ chù]')).
+assert(celo(burokrataro,'burokr.0aro.POL','公务员作风[gōng wù yuán zuò fēng]')).
+assert(celo(burokrataro,'burokr.0aro.POL','官僚政治[guān liáo zhèng zhì]')).
+assert(celo(burokrataro,'burokr.0aro.POL','形式主义[xíng shì zhǔ yì]')).
+assert(celo(burokrataro,'burokr.0aro.POL','官僚主义[guān liáo zhǔ yì]')).
+assert(celo(burokrataro,'burokr.0aro.POL','官僚制[guān liáo zhì]')).
+retractall(celo(burokrataro,_,_),5).
+assert(celo(burokrataro,'burokr.0aro.POL','宦海[huàn hǎi]')).
+assert(celo(burokratio,'burokrati.0o.burokrataro','宦海[huàn hǎi]')).
+assert(celo(burokratio,'burokrati.0o.burokratismo','公务员作风[gōng wù yuán zuò fēng]')).
+assert(celo(burokratio,'burokrati.0o.burokratismo','官僚政治[guān liáo zhèng zhì]')).
+assert(celo(burokratio,'burokrati.0o.burokratismo','形式主义[xíng shì zhǔ yì]')).
+assert(celo(burokratio,'burokrati.0o.burokratismo','官僚主义[guān liáo zhǔ yì]')).
+assert(celo(burokratio,'burokrati.0o.burokratismo','官僚制[guān liáo zhì]')).
+assert(celo(burokratio,'burokrati.0o.burokratismo','科层制[kē céng zhì]')).
+assert(celo(burokrato,'burokr.0o.malsxate','官僚主义者[guān liáo zhǔ yì zhě]')).
+assert(celo(burokrato,'burokr.0o.malsxate','僚[liáo]')).
+assert(celo(burokrato,'burokr.0o.malsxate','官僚[guān liáo]')).
+assert(celo('Burundo','burund.B0o.GEOG','布隆迪[bù lóng dí]')).
+assert(celo('Burundo','burund.B0o.GEOG','蒲隆地[pú lóng dì]')).
+assert(celo(buso,'bus.0o.AUT','客車[kè chē]')).
+assert(celo(buso,'bus.0o.AUT','公共汽車[gōng gòng qì chē]')).
+assert(celo(buso,'bus.0o.AUT','游览车[yóu lǎn chē]')).
+assert(celo(buso,'bus.0o.AUT','气车[qì chē]')).
+assert(celo(trolebuso,'bus.trole0o.AUT','无轨电车[wú guǐ diàn chē]')).
+assert(celo(buŝa,'busx.0a.parola','口头上[kǒu tóu shàng]')).
+assert(celo(buŝa,'busx.0a.parola','用声音[yòng shēng yīn]')).
+assert(celo(buŝa,'busx.0a.parola','口头[kǒu tóu]')).
+assert(celo(buŝego,'busx.0ego.ZOO','觜[zuǐ]')).
+assert(celo(buŝo,'busx.0o.ANA','口[kǒu]')).
+assert(celo(buŝo,'busx.0o.ANA','嘴[zuǐ]')).
+assert(celo(buŝo,'busx.0o.ANA','嘴巴[zuǐ ba]')).
+assert(celo(buŝo,'busx.0o.FIG','口鼻[kǒu bí]')).
+assert(celo(buŝo,'busx.0o.FIG','炮口[pào kǒu]')).
+assert(celo(buŝo,'busx.0o.FIG','枪口[qiāng kǒu]')).
+assert(celo(buŝo,'busx.0o.FIG','嘴脸[zuǐ liǎn]')).
+assert(celo(buŝo,'busx.0o.FIG','鼻口[bí kǒu]')).
+assert(celo(buŝo,'busx.0o.FIG','鼻口部分[bí kǒu bù fèn]')).
+assert(celo(elbuŝigi,'busx.el0igi.FIG','曰[yuē]')).
+assert(celo(elbuŝigi,'busx.el0igi.FIG','寄予[jì yǔ]')).
+assert(celo(elbuŝigi,'busx.el0igi.FIG','外線[wài xiàn]')).
+assert(celo(elbuŝigi,'busx.el0igi.FIG','最外[zuì wài]')).
+assert(celo(elbuŝigi,'busx.el0igi.FIG','最外层[zuì wài céng]')).
+assert(celo(enbuŝaĵo,'busx.en0ajxo.RAJ','衔[xián]')).
+assert(celo(enbuŝaĵo,'busx.en0ajxo.RAJ','馬嚼子[mǎ jiáo zǐ]')).
+assert(celo(buŝelo,'busxel.0o.MEZ','蒲式耳[pú shì ěr]')).
+assert(celo('Butano','butan.B0o.GEOG','不丹[bù dān]')).
+assert(celo(butero,'buter.0o.simila','牛油[niú yóu]')).
+assert(celo(butikisto,'butik.0isto.EKON','女售貨員[nǚ shòu huò yuán]')).
+assert(celo(butikisto,'butik.0isto.EKON','出售貨物的人[chū shòu huò wù de rén]')).
+assert(celo(butikisto,'butik.0isto.EKON','店伙[diàn huǒ]')).
+assert(celo(butikisto,'butik.0isto.EKON','卖主[mài zhǔ]')).
+assert(celo(retbutiko,'','購物網站[gòu wù wǎng zhàn]')).
+assert(celo(retbutiko,'','網店[wǎng diàn]')).
+assert(celo(butlero,'butler.0o.KUI','傭人領班[yōng rén lǐng bān]')).
+assert(celo(butonumi,'buton.0umi.TEKS','按住按鍵[àn zhù àn jiàn]')).
+assert(celo(butonumi,'buton.0umi.TEKS','按下按鍵[àn xià àn jiàn]')).
+assert(celo('ekrana butono','buton.ekrana0o.KOMP','扣[kòu]')).
+assert(celo('ekrana butono','buton.ekrana0o.KOMP','鈕[niǔ]')).
+assert(celo('ekrana butono','buton.ekrana0o.KOMP','紐[niǔ]')).
+assert(celo(malbutonumi,'buton.mal0umi.TEKS','解开[jiě kāi]')).
