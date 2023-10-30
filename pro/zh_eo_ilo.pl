@@ -42,6 +42,8 @@
 
 /* HanDeDict
  vd http://www.handedict.de/chinesisch_deutsch.php?mode=dl
+ aŭ pli nova: https://handedict.zydeo.net/de/download
+ 
  traduki la prononcindikojn de handedict, ekzemploj
  bei3 jing1 -> běi jīng
  kao3 ya1 ->  kǎo yā
@@ -50,9 +52,9 @@
 csv_hande('vrt/handedict_nb.u8').
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-csv_mankoj('vrt/eo_de_b.csv').
-db_celo('pro/eo_zh_b.db').
-csv_celo('vrt/eo_zh_b.csv').
+csv_mankoj('vrt/eo_de_c.csv').
+db_celo('pro/eo_zh_c.db').
+csv_celo('vrt/eo_zh_c.csv').
 
 
 legu :-
@@ -394,6 +396,9 @@ zh_prononco_s([S1|Rest],[SS1|RestS]) :-
     atom_chars(SS1,SS),
     zh_prononco_s(Rest,RestS).
 
+% neŭtrala tono: sen supersigno
+zh_pr_silab(Paroj,5,SilabS):- pairs_values(Paroj,SilabS).
+ 
 % la silabo finiĝas per cifero, kiu difinas la supersignon de la 
 % unua vokalo, vd. https://de.wikipedia.org/wiki/Pinyin
 % KOREKTU: foje ne la unua vokalo ricevas la supersignon,
@@ -410,13 +415,13 @@ zh_pr_silab(Paroj,D,SilabS) :-
     zh_pr_vokal_super(V,D,VS),
     pairs_values(ParojS,SilabS).
 
-zh_pr_silab(Paroj,D,SilabS) :-
+zh_pr_silab(Paroj,D,SilabS) :- 
     % ni havas pli ol unu vokalon kaj ĝi devias de a,e,o: ni metos supersignon sur la duan
     select(2-V,Paroj,2-VS,ParojS),
     zh_pr_vokal_super(V,D,VS),
     pairs_values(ParojS,SilabS).
     
-% metu supersignon super vokalo laŭ la cifero (tono)    
+% metu supersignon super vokalo laŭ la cifero D (tono)   
 zh_pr_vokal_super(V,D,VS) :-
     once((        
         member(D-V-VS,[
