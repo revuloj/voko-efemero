@@ -49,7 +49,8 @@
  kao3 ya1 ->  kǎo yā
 */
 
-csv_hande('vrt/handedict_nb.u8').
+%csv_hande('vrt/handedict_nb.u8').
+csv_hande('vrt/handedict_23.u8').
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
 csv_mankoj('vrt/eo_de_c.csv').
@@ -68,7 +69,7 @@ legu :-
     legu_csv(manko, M, [separator(9),skip_header('#')]), % anst. tAB vi povas uzi ekz-e punktokomon: separator(0';)
 
     csv_hande(H), format('legante ~w...~n',H),
-    legu_csv(hande, H, [separator(0'/),ignore_quotes(true),skip_header('#'),match_arity(false)]),
+    legu_csv(hande, H, [separator(0'/),ignore_quotes(true),convert(false),skip_header('#'),match_arity(false)]),
     hande_redukt.
 
 % skribas kolektiajn en celo tradukojn al CSV-dosiero
@@ -128,8 +129,7 @@ hande_redukt :-
 
 % per kajsigno ni aldonas tradukojn per siaj numberoj
 :- op(1200,fy,user:(&)).
-&(N-N1) :- s(N,N1).
-&(N,N1) :- s(N,N1).
+&(Kion) :- s(Kion).
 
 % informu pri kelkaj mankantaj tradukvortoj (eo)
 % dum mankas ĉiuj, pli facile estas verŝajne simple trairi supre malsupren la
@@ -166,10 +166,26 @@ pde(Eo,De) :-
     retractall(propono(1,_,_,_,_)),
     proponoj_de(De,20,1,Eo,'').
 
-% memoru proponon <N>.<N1> por posta skribo al csv_celo
-s(N-N1) :- s(N,N1).
-s(N,N1) :-
-    propono(N,N1,Eo,Mrk,Zh),
+% memoru proponon <Na><N> por posta skribo al csv_celo
+% eblas ĉenigi la Na por registri plurajn: s(abgt1).
+% cetere oni povas implice forlasi la 1
+s(Kion) :- 
+    atom_chars(Kion,Kodoj),
+    once((
+        append(Literoj,[Cifero],Kodoj),
+        atom_number(Cifero,N),
+        between(1,9,N)
+        ;
+        N = 1,
+        Literoj = Kodoj
+    )),
+    forall(
+        member(L,Literoj),
+        s(N,L)
+    ).
+
+s(N,Na) :-
+    propono(N,Na,Eo,Mrk,Zh),
     zh_prononco(Zh,ZhPr),
     once((
         celo(Eo,Mrk,ZhPr),
@@ -189,8 +205,8 @@ sf(N,N1) :-
     format('aldonita: ~w;~w;~w~n',[Eo,Mrk,ZhPr]).
 
 % registru proponon sub certa (alia) esperanto-vorto
-seo(Eo,Mrk,N,N1) :-
-    propono(N,N1,_,_,Zh),
+seo(Eo,Mrk,Na,N) :-
+    propono(N,Na,_,_,Zh),
     zh_prononco(Zh,ZhPr),
     once((
         celo(Eo,Mrk,ZhPr),
@@ -207,7 +223,7 @@ proponoj_eo(Eo,Max) :-
     atomic_list_concat(LDe,', ',SDe),
     atomic_list_concat(LOfc,', ',SOfc),    
     trad_stat(Tradukita,TStat),    
-    format('~d~w ~w [~w] (~w) ~w~n',[N,TStat,Eo,Mrk,SOfc,SDe]),
+    format('x~d~w ~w [~w] (~w) ~w~n',[N,TStat,Eo,Mrk,SOfc,SDe]),
     proponoj_de(SDe,Max,N,Eo,Mrk).
 
 proponoj_de(SDe,Max,N,Eo,Mrk) :-
@@ -232,9 +248,11 @@ proponoj_de(SDe,Max,N,Eo,Mrk) :-
             N1), 
         (
             % N-N1 servas por poste identigi unuopan traduk-proponon, ni memoras ilin tiucele
-            assertz(propono(N,N1,Eo,Mrk,Zh)),
+            Nc is 0'a + N1 -1,
+            char_code(Na,Nc),
+            assertz(propono(N,Na,Eo,Mrk,Zh)),
             catch( % okazas iuj nevalidaj unikod-literoj !?
-                format('~d-~d (~w~1f): ~w, ~w~n',[N,N1,Mtd,Simil,De1,Zh]), 
+                format('(~w~1f) ~w~d: ~w, ~w~n',[Mtd,Simil,Na,N,De1,Zh]), 
                 E,
                 writeln(E))
         )
@@ -311,9 +329,20 @@ de_zh(s,De,D1,Zh,Simil) :-
         kmp_isub(De,D1,Simil).
 
 kmp_isub(T1,T2,Simil) :-
-    downcase_atom(T1,S1),
-    downcase_atom(T2,S2),
-    isub(S1,S2,Simil,[zero_to_one(true)]),
+    catch( % okazas iuj nevalidaj unikod-literoj !?
+        (
+            downcase_atom(T1,S1),
+            downcase_atom(T2,S2),
+            isub(S1,S2,Simil,[zero_to_one(true)])
+        ), 
+        _E,
+        (
+            %writeln(E),
+            zhde(Zh,T2),
+            format('uk: ~w~n',[Zh]),
+            Simil = 0.0
+        )
+    ),
     Simil > 0.5 .
 
 kmp_ngram(T1,T2,Simil) :-
