@@ -1,0 +1,4454 @@
+#mrk	kap	num	dos	ind	trd
+e.0	-e		NULL	NULL	NULL
+e.0.adverbo	-e	1	NULL	NULL	NULL
+e.0.predikativo	-e	2	NULL	NULL	NULL
+e1.0	e		gra_fr	e	
+e1.0	e		gra_en	e	
+e1.0	e		gra_en	e	
+e1.0	e		gra_de	e	
+e1.0	e		gra_ru	e	
+e1.0	e		gra_pl	e	
+e1.0	e		ekz_7	e	
+e1.0	e		uv_E	e	
+e1.0	e		oa_7	e	
+e1.0.vokalo	e		gra_fr	e	
+e1.0.vokalo	e		gra_en	e	
+e1.0.vokalo	e		gra_en	e	
+e1.0.vokalo	e		gra_de	e	
+e1.0.vokalo	e		gra_ru	e	
+e1.0.vokalo	e		gra_pl	e	
+e1.0.vokalo	e		ekz_7	e	
+e1.0.vokalo	e		uv_E	e	
+e1.0.vokalo	e		oa_7	e	
+eben.0a	ebena		NULL	glatt	
+eben.0a.MAT	ebena	2	NULL	eben	
+eben.0a.MAT	ebena	2	NULL	glatt	
+eben.0a.facila	ebena	3	NULL	glatt	
+eben.0a.plata	ebena	1	NULL	eben	
+eben.0a.plata	ebena	1	NULL	glatt	
+eben.0a.plata	ebena	1	NULL	flach	
+eben.0a.plata	ebena	1	NULL	platt	
+eben.0a.plata	ebena	1	NULL	glatt	
+eben.0ajxo	ebenaĵo		NULL	Ebene	
+eben.0ajxo	ebenejo		NULL	Ebene	
+eben.0ajxo.GEOG	ebenaĵo		NULL	Ebene	
+eben.0ajxo.GEOG	ebenejo		NULL	Ebene	
+eben.0bati	ebenbati		NULL	platt klopfen	
+eben.0igi	ebenigi		NULL	ebenen	
+eben.0igi.FIG	ebenigi	2	NULL	ebenen	
+eben.0igi.platigi	ebenigi	1	NULL	einebnen	
+eben.0igi.platigi	ebenigi	1	NULL	glätten	
+eben.0igi.platigi	ebenigi	1	NULL	ebenen	
+eben.0o	ebeno		NULL	Ebene	
+eben.0o.MAT	ebeno	3	NULL	Ebene	
+eben.0o.elementa	ebeno	2	NULL	Ebene	
+eben.0o.tereno	ebeno	1	NULL	Flachland	
+eben.0o.tereno	ebeno	1	NULL	Ebene	
+eben.afina0o	afina ebeno		NULL	Ebene	affine Ebene
+eben.alt0ajxo	altebenaĵo		NULL	Hochebene	
+eben.alt0ajxo.GEOG	altebenaĵo		NULL	Hochebene	
+eben.duon0o	duonebeno		NULL	Halbebene	
+eben.sam0a	samebena		NULL	komplanar	
+eben.simetri0o	simetriebeno		NULL	Symmetrieebene	
+eben.simetri0o.de_figuro	simetriebeno	2	NULL	Symmetrieebene	
+eben.simetri0o.de_simetrio	simetriebeno	1	NULL	Symmetrieebene	
+eben.vektora0o	vektora ebeno		NULL	Vektorebene	
+ebl.0	-ebl		NULL	-bar	
+ebl.0.sufikso	-ebl		NULL	-bar	
+ebl.0a	ebla		ekz_29	möglich	
+ebl.0e	eble		uv_E	vielleicht	
+ebl.0e	eble		uv_E	möglicherweise	
+ebl.0eco	ebleco		NULL	Möglichkeit	
+ebl.0i	ebli		NULL	NULL	NULL
+ebl.0igi	ebligi		NULL	ermöglichen	
+ebl.0o	eblo		NULL	Möglichkeit	
+ebl.kiel_0e_plej	kiel eble plej		NULL	möglichst	
+ebl.kiel_0e_plej	kiom eble pli		NULL	möglichst	
+ebl.kiel_0e_plej	kiom eble plej		NULL	möglichst	
+ebl.kiel_0e_plej.emfaza	kiel eble plej	2	NULL	möglichst	
+ebl.kiel_0e_plej.emfaza	kiom eble pli	2	NULL	möglichst	
+ebl.kiel_0e_plej.emfaza	kiom eble plej	2	NULL	möglichst	
+ebl.kiel_0e_plej.limigita	kiel eble plej	1	NULL	möglichst	
+ebl.kiel_0e_plej.limigita	kiom eble pli	1	NULL	möglichst	
+ebl.kiel_0e_plej.limigita	kiom eble plej	1	NULL	möglichst	
+ebl.laux0e	laŭeble		NULL	möglichst	
+ebl.ne0a	neebla		NULL	unmöglich	
+ebl.ne0a.KOMUNE	neebla		NULL	unmöglich	
+ebl.ne0ajxo	neeblaĵo		NULL	Unmöglichkeit	
+ebl.ne0ajxo.KOMUNE	neeblaĵo		NULL	Unmöglichkeit	
+ebon.0a	ebona		NULL	NULL	NULL
+ebon.0arto	ebonarto		NULL	NULL	NULL
+ebon.0isto	ebonisto		NULL	NULL	NULL
+ebon.0o	ebono		NULL	Ebenholz	
+ebon.0ujo0arbo	ebonujo		NULL	NULL	NULL
+ebon.0ujo0arbo	ebonarbo		NULL	NULL	NULL
+ebonit.0o	ebonito		NULL	Ebonit	
+ebonit.0o	ebonito		NULL	Hartgummi	
+ebri.0a	ebria		NULL	betrunken	
+ebri.0a	ebria		NULL	besoffen	
+ebri.0a.droge	ebria	1	NULL	betrunken	
+ebri.0a.droge	ebria	1	NULL	besoffen	
+ebri.0a.spontanee	ebria	2	NULL	betrunken	
+ebri.0a.spontanee	ebria	2	NULL	besoffen	
+ebri.0i	ebrii		NULL	NULL	NULL
+ebri.0i.PSI	ebrii		NULL	NULL	NULL
+ebri.0iga	ebriiga		NULL	NULL	NULL
+ebri.0iga.KOMUNE	ebriiga		NULL	NULL	NULL
+ebri.0igajxo	ebriigaĵo		NULL	Alkohol	Alkohol(isches Getränk)
+ebri.0igajxo	ebriigaĵo		NULL	Gesöff	
+ebri.0igajxo.KOMUNE	ebriigaĵo		NULL	Alkohol	Alkohol(isches Getränk)
+ebri.0igajxo.KOMUNE	ebriigaĵo		NULL	Gesöff	
+ebri.0igi	ebriigi		NULL	NULL	NULL
+ebri.0igi.KOMUNE	ebriigi		NULL	NULL	NULL
+ebri.0igxi	ebriiĝi		NULL	betrunken	betrunken werden
+ebri.0igxi.KOMUNE	ebriiĝi		NULL	betrunken	betrunken werden
+ebri.0o	ebrio		NULL	Trunkenheit	
+ebri.0o	ebrieco		NULL	Trunkenheit	
+ebri.0o.PSI_alkohole	ebrio	1	NULL	Trunkenheit	
+ebri.0o.PSI_alkohole	ebrieco	1	NULL	Trunkenheit	
+ebri.0o.PSI_gxenerale	ebrio	2	NULL	Trunkenheit	
+ebri.0o.PSI_gxenerale	ebrieco	2	NULL	Trunkenheit	
+ebri.0ulo	ebriulo		NULL	Betrunkener	
+ebri.0ulo.KOMUNE	ebriulo		NULL	Betrunkener	
+ebri.mal0igxi	malebriiĝi		NULL	nüchtern	nüchtern werden
+ebri.mal0igxi	elebriiĝi		NULL	nüchtern	nüchtern werden
+ebri.mal0igxi.KOMUNE	malebriiĝi		NULL	nüchtern	nüchtern werden
+ebri.mal0igxi.KOMUNE	elebriiĝi		NULL	nüchtern	nüchtern werden
+ebri.post0o	postebrio		NULL	Kater	Kater (Kopfschmerzen)
+ebri.post0o.MED	postebrio		NULL	Kater	Kater (Kopfschmerzen)
+ebul.0o	ebulo		NULL	Zwergholunder	
+ebul.0o	ebulo		NULL	Attich	
+ebur.0a	ebura		NULL	elfenbeinern	
+ebur.0a.KOL	ebura	2	NULL	elfenbeinern	
+ebur.0a.SUB	ebura	1	NULL	elfenbeinern	
+ebur.0a.SUB	ebura	1	NULL	elfenbeinern	
+ebur.0o	eburo		oa_2	Elfenbein	
+ebur.0o.SUB	eburo		oa_2	Elfenbein	
+ebur.E0Bordo	Ebur-Bordo		NULL	Elfenbeinküste	
+ebur.E0Bordo	Eburbordo		NULL	Elfenbeinküste	
+ebur.E0Bordo.GEOG	Ebur-Bordo		NULL	Elfenbeinküste	
+ebur.E0Bordo.GEOG	Eburbordo		NULL	Elfenbeinküste	
+ec.0	-ec		ekz_11	heit	-heit
+ec.0	-ec		ekz_11	keit	-keit
+ec.0	-ec		ekz_11	schaft	-schaft
+ec.0	-ec		ekz_11	tät	-tät
+ec.0a	eca		uv_E	artig	-artig
+ec.0aro	ecaro		NULL	Beschaffenheit	
+ec.0aro	ecaro		NULL	Wesensart	
+ec.0aro	ecaro		NULL	Profil	Profil (Eigenschaften)
+ec.0aro	ecaro		NULL	Charakter	
+ec.0aro	ecaro		NULL	Naturell	
+ec.0o	eco		NULL	Eigenschaft	
+ec.0o	eco		NULL	Qualität	
+ec.0o	eco		NULL	Beschaffenheit	
+ec.0o.KLA	eco		NULL	Eigenschaft	
+ec.0o.KLA	eco		NULL	Qualität	
+ec.0o.KLA	eco		NULL	Beschaffenheit	
+ecx.0	eĉ		ekz_37	nicht einmal	
+ecx.0	eĉ		uv_E	nicht einmal	
+ecx.0.KOMUNE	eĉ	1	ekz_37	sogar	
+ecx.0.KOMUNE	eĉ	1	uv_E	sogar	
+ecx.0.KOMUNE	eĉ	1	ekz_37	selbst	
+ecx.0.KOMUNE	eĉ	1	uv_E	selbst	
+ecx.0.KOMUNE	eĉ	1	ekz_37	nicht einmal	
+ecx.0.KOMUNE	eĉ	1	uv_E	nicht einmal	
+ecx.0a	eĉa		NULL	gering	den geringsten
+ecx.0a.KOMUNE	eĉa		NULL	gering	den geringsten
+ed.0o	-ed		NULL	id(e)	-id(e)
+ed.0o	-ed		NULL	id(ae)	-id(ae)
+edam.0o	Edamo		NULL	Edam	
+edelve.0o	edelvejso		NULL	Edelweiß	
+edelve.0o.BOT	edelvejso		NULL	Edelweiß	
+edem.0o	edemo		NULL	Ödem	
+edem.0o	edemo		NULL	Gewebewassersucht	
+edem.0o.MED	edemo		NULL	Ödem	
+edem.0o.MED	edemo		NULL	Gewebewassersucht	
+eden.0o	Edeno		oa_1	NULL	NULL
+eden.0o.BIB	Edeno	1	oa_1	Eden	
+eden.0o.BIB	Edeno	1	oa_1	Paradiesgarten	
+eden.0o.FIG	Edeno	2	oa_1	Paradies	
+edgar.0o	Edgaro		NULL	Edgar	
+edgar.0o.NOM	Edgaro		NULL	Edgar	
+edif.0i	edifi		NULL	erbauen	erbauen [moralisch]
+edif.0i	edifi		NULL	bessern	
+edikt.0o	edikto		NULL	Erlass	
+edikt.0o	edikto		NULL	Edikt	Edikt [ark]
+edikt.0o	edikto		NULL	Dekret	Dekret [ark]
+edil.0o	edilo		NULL	Ädil	
+edil.0o.POL	edilo		NULL	Ädil	
+edinburg.0o	Edinburgo		NULL	Edinburgh	
+edinol.0o	edinolo		NULL	Edinol	
+edinol.0o	edinolo		NULL	Amidooxybenzylalkohol	
+edip.0o	Edipo		NULL	Ödipus	
+editor.0i	editori		NULL	edieren	
+editor.0i.TIP	editori		NULL	edieren	
+editor.0o	editoro		NULL	Herausgeber	
+editor.0o.TIP	editoro		NULL	Herausgeber	
+edmund.0o	Edmundo		NULL	Edmund	
+edmund.0o.NOM	Edmundo		NULL	Edmund	
+edr.0o	edro		NULL	Fläche	
+edr.0o.ebeno	edro		NULL	Fläche	
+edr.du0o	duedro		NULL	Dieder	
+edr.kvar0o	kvaredro		NULL	Vierflach	
+edr.kvar0o	kvaredro		NULL	Vierflächner	
+edr.kvar0o	kvaredro		NULL	Tetraeder	
+edr.n0o	n-edro		NULL	n-Flach	
+edr.plur0o	pluredro		NULL	Polyeder	
+edr.tri0o	triedro		NULL	Dreikant	
+edr.tri0o	triedro		NULL	Dreibein	
+eduard.0o	Eduardo		NULL	Eduard	
+eduard.0o	Eduardo		NULL	Edward	
+eduard.0o.NOM	Eduardo		NULL	Eduard	
+eduard.0o.NOM	Eduardo		NULL	Edward	
+eduk.0ado	edukado		NULL	Erziehung	
+eduk.0ado.ago	edukado		NULL	Erziehung	
+eduk.0i	eduki		NULL	erziehen	
+eduk.0i	eduki		NULL	aufziehen	
+eduk.0i.dresi	eduki	3	NULL	dresieren	
+eduk.0i.dresi	eduki	3	NULL	erziehen	
+eduk.0i.dresi	eduki	3	NULL	aufziehen	
+eduk.0i.infanon	eduki	1	NULL	lehren	
+eduk.0i.infanon	eduki	1	NULL	ausbilden	
+eduk.0i.infanon	eduki	1	NULL	erziehen	
+eduk.0i.infanon	eduki	1	NULL	aufziehen	
+eduk.0i.socie	eduki	2	NULL	erziehen	
+eduk.0i.socie	eduki	2	NULL	aufziehen	
+eduk.0i.vegetajxon	eduki	4	NULL	ziehen	ziehen (Pflanze)
+eduk.0i.vegetajxon	eduki	4	NULL	erziehen	
+eduk.0i.vegetajxon	eduki	4	NULL	aufziehen	
+eduk.0isto	edukisto		NULL	Erzieherin	
+eduk.0isto	edukisto		NULL	Erzieher	
+eduk.0isto	edukisto		NULL	Ausbilderin	
+eduk.0isto	edukisto		NULL	Ausbilder	
+eduk.0isto.homo	edukisto		NULL	Erzieherin	
+eduk.0isto.homo	edukisto		NULL	Erzieher	
+eduk.0isto.homo	edukisto		NULL	Ausbilderin	
+eduk.0isto.homo	edukisto		NULL	Ausbilder	
+eduk.0ita	edukita		NULL	NULL	NULL
+eduk.0ita.KOMUNE	edukita		NULL	NULL	NULL
+eduk.0o	eduko		NULL	Erziehung	
+eduk.0o.ago_rezulto	eduko		NULL	Erziehung	
+eduk.bon0iteco	bonedukiteco		NULL	Erziehung	gute Erziehung
+eduk.bon0iteco	bonedukiteco		NULL	Kinderstube	gute Kinderstube
+eduk.bon0iteco	bonedukiteco		NULL	Wohlerzogenheit	
+eduk.bon0iteco.kvalito	bonedukiteco		NULL	Erziehung	gute Erziehung
+eduk.bon0iteco.kvalito	bonedukiteco		NULL	Kinderstube	gute Kinderstube
+eduk.bon0iteco.kvalito	bonedukiteco		NULL	Wohlerzogenheit	
+eduk.ne0ita	needukita		NULL	NULL	NULL
+eduk.ne0ita.KOMUNE	needukita		NULL	NULL	NULL
+edvard.0o	Edvardo		NULL	NULL	NULL
+edvard.0o.NOM	Edvardo		NULL	NULL	NULL
+edz.0eca	edzeca		NULL	ehelich	
+edz.0eca.rilata	edzeca		NULL	ehelich	
+edz.0eco	edzeco		uv_E	Ehe	
+edz.0eco.stato	edzeco		uv_E	Ehe	
+edz.0iga	edziga		NULL	Ehe-,	
+edz.0iga	edziga		NULL	Heirats-	
+edz.0iga.geedzigxa	edziga	2	NULL	Ehe-,	
+edz.0iga.geedzigxa	edziga	2	NULL	Heirats-	
+edz.0iga.rilata	edziga	1	NULL	Ehe-,	
+edz.0iga.rilata	edziga	1	NULL	Heirats-	
+edz.0igi	edzigi		NULL	NULL	NULL
+edz.0igi.doni	edzigi	2	NULL	verheiraten	
+edz.0igi.doni	edzigi	2	NULL	vermählen	
+edz.0igi.ligi	edzigi	1	NULL	heiraten	
+edz.0igxi	edziĝi		uv_E	heiraten	
+edz.0igxi.neuxtra	edziĝi	2	uv_E	heiraten	
+edz.0igxi.vira	edziĝi	1	uv_E	heiraten	
+edz.0igxo	edziĝo		NULL	Heirat	
+edz.0igxo	edziĝo		NULL	Vermählung	
+edz.0igxo.KRI	edziĝo	2	NULL	Heirat	
+edz.0igxo.KRI	edziĝo	2	NULL	Vermählung	
+edz.0igxo.lauxlegxa	edziĝo	1	NULL	Heirat	
+edz.0igxo.lauxlegxa	edziĝo	1	NULL	Vermählung	
+edz.0inigi	edzinigi		NULL	NULL	NULL
+edz.0inigi.doni	edzinigi	1	NULL	verheiraten	
+edz.0inigi.doni	edzinigi	1	NULL	vermählen	
+edz.0inigi.preni	edzinigi	2	NULL	heiraten	
+edz.0inigxi	edziniĝi		NULL	heiraten	
+edz.0inigxi.ekesti	edziniĝi		NULL	heiraten	
+edz.0ino	edzino		NULL	Ehefrau	
+edz.0ino	edzino		NULL	Gattin	
+edz.0ino	edzino		NULL	Gemahlin	
+edz.0ino	edzino		NULL	Frau	
+edz.0ino.GEN	edzino		NULL	Ehefrau	
+edz.0ino.GEN	edzino		NULL	Gattin	
+edz.0ino.GEN	edzino		NULL	Gemahlin	
+edz.0ino.GEN	edzino		NULL	Frau	
+edz.0o	edzo		ekz_18	Ehemann	
+edz.0o	edzo		ekz_18	Gatte	
+edz.0o	edzo		ekz_18	Gemahl	
+edz.0o	edzo		ekz_18	Mann	
+edz.0o.GEN	edzo		ekz_18	Ehemann	
+edz.0o.GEN	edzo		ekz_18	Gatte	
+edz.0o.GEN	edzo		ekz_18	Gemahl	
+edz.0o.GEN	edzo		ekz_18	Mann	
+edz.eks0igxi	eksedziĝi		NULL	sich scheiden lassen	
+edz.eks0igxi	eksedziniĝi		NULL	sich scheiden lassen	
+edz.eks0igxi	eksgeedziĝi		NULL	sich scheiden lassen	
+edz.eks0igxi.GEN	eksedziĝi		NULL	sich scheiden lassen	
+edz.eks0igxi.GEN	eksedziniĝi		NULL	sich scheiden lassen	
+edz.eks0igxi.GEN	eksgeedziĝi		NULL	sich scheiden lassen	
+edz.eks0igxo	eksedziĝo		NULL	Scheidung	
+edz.eks0igxo	eksedziniĝo		NULL	Scheidung	
+edz.eks0igxo	eksgeedziĝo		NULL	Scheidung	
+edz.eks0igxo.GEN	eksedziĝo		NULL	Scheidung	
+edz.eks0igxo.GEN	eksedziniĝo		NULL	Scheidung	
+edz.eks0igxo.GEN	eksgeedziĝo		NULL	Scheidung	
+edz.ge0igxi	geedziĝi		NULL	heiraten	
+edz.ge0igxi	kunedziĝi		NULL	heiraten	
+edz.ge0igxi	interedziĝi		NULL	heiraten	
+edz.ge0igxi.GEN	geedziĝi		NULL	heiraten	
+edz.ge0igxi.GEN	kunedziĝi		NULL	heiraten	
+edz.ge0igxi.GEN	interedziĝi		NULL	heiraten	
+edz.ge0o	geedzo		NULL	Ehepartner	
+edz.ge0o.GEN	geedzo		NULL	Ehepartner	
+edz.ge0oj	geedzoj		NULL	Eheleute	
+edz.ge0oj.GEN	geedzoj		NULL	Eheleute	
+edz.krom0ino	kromedzino		NULL	Nebenfrau	
+edz.krom0ino.GEN	kromedzino		NULL	Nebenfrau	
+edz.nov0ino	novedzino		NULL	Braut	
+edz.nov0ino.MOR	novedzino		NULL	Braut	
+edz.nov0o	novedzo		NULL	Bräutigam	
+edz.nov0o.MOR	novedzo		NULL	Bräutigam	
+edz.novge0oj	novgeedzoj		NULL	Neuvermählte	
+edz.novge0oj.MOR	novgeedzoj		NULL	Neuvermählte	
+edz.plur0eco	pluredzeco		NULL	Polyandrie	
+edz.plur0eco	pluredzeco		NULL	Vielmännerei	
+edz.plur0eco.GEN	pluredzeco		NULL	Polyandrie	
+edz.plur0eco.GEN	pluredzeco		NULL	Vielmännerei	
+edz.plur0ineco	pluredzineco		NULL	Polygynie	
+edz.plur0ineco	pluredzineco		NULL	Vielweiberei	
+edz.plur0ineco.GEN	pluredzineco		NULL	Polygynie	
+edz.plur0ineco.GEN	pluredzineco		NULL	Vielweiberei	
+edz.plurge0eco	plurgeedzeco		NULL	Mehrehe	
+edz.plurge0eco	plurgeedzeco		NULL	Vielehe	
+edz.plurge0eco	plurgeedzeco		NULL	Polygamie	
+edz.plurge0eco.GEN	plurgeedzeco		NULL	Mehrehe	
+edz.plurge0eco.GEN	plurgeedzeco		NULL	Vielehe	
+edz.plurge0eco.GEN	plurgeedzeco		NULL	Polygamie	
+edz.prov0igxo	provedziĝo		NULL	Probeehe	
+edz.prov0igxo	provedziĝo		NULL	Wilde Ehe	
+edz.prov0igxo.antaux	provedziĝo		NULL	Probeehe	
+edz.prov0igxo.antaux	provedziĝo		NULL	Wilde Ehe	
+edz.sen0ineco	senedzeco		NULL	Ledigkeit	
+edz.sen0ineco	senedzineco		NULL	Ledigkeit	
+edz.sen0ineco.frauxleco	senedzeco		NULL	Ledigkeit	
+edz.sen0ineco.frauxleco	senedzineco		NULL	Ledigkeit	
+ef.0o	efo		NULL	Epha	
+ef.0o	efo		NULL	Efa	
+efedr.0o	efedro		NULL	Meerträubel	
+efedr.0o.BOT	efedro		NULL	Meerträubel	
+efekt.0a	efekta		NULL	effektvoll	
+efekt.0a	efekta		NULL	eindrucksvoll	
+efekt.0a.KOMUNE	efekta		NULL	effektvoll	
+efekt.0a.KOMUNE	efekta		NULL	eindrucksvoll	
+efekt.0i	efekti		NULL	beeindrucken	
+efekt.0i.KOMUNE	efekti		NULL	beeindrucken	
+efekt.0o	efekto		NULL	Effekt	
+efekt.0o	efekto		NULL	Eindruck	Eindruck (Effekt)
+efekt.0o.KOMUNE	efekto		NULL	Effekt	
+efekt.0o.KOMUNE	efekto		NULL	Eindruck	Eindruck (Effekt)
+efekt.bon0a	bonefekta		NULL	NULL	NULL
+efekt.bon0a.KOMUNE	bonefekta		NULL	NULL	NULL
+efekt.malbon0a	malbonefekta		NULL	NULL	NULL
+efekt.malbon0a.KOMUNE	malbonefekta		NULL	NULL	NULL
+efekti.0a	efektiva		NULL	wirklich	
+efekti.0a	efektiva		NULL	tatsächlich	
+efekti.0a	efektiva		NULL	real	
+efekti.0a	efektiva		NULL	faktisch	
+efekti.0a.KOMUNE	efektiva		NULL	wirklich	
+efekti.0a.KOMUNE	efektiva		NULL	tatsächlich	
+efekti.0a.KOMUNE	efektiva		NULL	real	
+efekti.0a.KOMUNE	efektiva		NULL	faktisch	
+efekti.0ajxo	efektivaĵo		NULL	Tatsache	
+efekti.0ajxo	efektivaĵo		NULL	Wirklichkeit	
+efekti.0ajxo.KOMUNE	efektivaĵo		NULL	Tatsache	
+efekti.0ajxo.KOMUNE	efektivaĵo		NULL	Wirklichkeit	
+efekti.0e	efektive		NULL	wirklich	
+efekti.0e	efektive		NULL	tatsächlich	
+efekti.0e.ARG	efektive	2	NULL	wirklich	
+efekti.0e.ARG	efektive	2	NULL	tatsächlich	
+efekti.0e.KOMUNE	efektive	1	NULL	wirklich	
+efekti.0e.KOMUNE	efektive	1	NULL	tatsächlich	
+efekti.0eco	efektiveco		NULL	Wirklichkeit	
+efekti.0eco.KOMUNE	efektiveco		NULL	Wirklichkeit	
+efekti.0igi	efektivigi		NULL	verwirklichen	
+efekti.0igi	efektivigi		NULL	realisieren	
+efekti.0igi.KOMUNE	efektivigi		NULL	verwirklichen	
+efekti.0igi.KOMUNE	efektivigi		NULL	realisieren	
+efekti.0igxi	efektiviĝi		NULL	verwirklichen	sich verwirklichen
+efekti.0igxi	efektiviĝi		NULL	werden	wahr werden
+efekti.0igxi	efektiviĝi		NULL	erfüllen	sich erfüllen
+efekti.0igxi	efektiviĝi		NULL	werden	wirksam werden
+efekti.0igxi	efektiviĝi		NULL	kommen	zum Einsatz kommen
+efekti.0igxi.KOMUNE	efektiviĝi		NULL	verwirklichen	sich verwirklichen
+efekti.0igxi.KOMUNE	efektiviĝi		NULL	werden	wahr werden
+efekti.0igxi.KOMUNE	efektiviĝi		NULL	erfüllen	sich erfüllen
+efekti.0igxi.KOMUNE	efektiviĝi		NULL	werden	wirksam werden
+efekti.0igxi.KOMUNE	efektiviĝi		NULL	kommen	zum Einsatz kommen
+efelid.0o	efelido		NULL	Sommersprosse	
+efelid.0o.MED	efelido		NULL	Sommersprosse	
+efemer.0a	efemera		NULL	vergänglich	
+efemer.0o	efemero		NULL	Vergänglichkeit	
+efemer.0o	efemereco		NULL	Vergänglichkeit	
+efemer1.0oj	efemeridoj		NULL	Ephemeriden	
+efemer2.0oj	efemeredoj		NULL	Eintagsfliegen	
+efemer3.0o	efemero		NULL	Eintagsfliege	
+efemer3.0o.KOMUNE	efemero	1	NULL	Eintagsfliege	
+efemer3.0o.genro	efemero	2	NULL	Eintagsfliege	
+efemer3.0oformaj	efemeroformaj		NULL	Eintagsfliegen	Eintagsfliegen (Ordnung)
+eferve.0a	eferveska		NULL	aufbrausend	
+eferve.0a	eferveska		NULL	aufwallend	
+eferve.0a	eferveska		NULL	sprudelnd	
+eferve.0i	eferveski		NULL	aufbrausen	
+eferve.0i	eferveski		NULL	aufwallen	
+eferve.0i	eferveski		NULL	sprudeln	
+eferve.0o	efervesko		NULL	Aufbrausen	
+eferve.0o	efervesko		NULL	Aufwallen	
+eferve.0o	efervesko		NULL	Aufwallung	
+efes.0ano	efesano		NULL	Ephesier	
+efes.0o	Efeso		NULL	Ephesos	
+efes.0o	Efezo		NULL	Ephesos	
+efik.0a	efika		NULL	wirksam	
+efik.0a	efika		NULL	effektiv	
+efik.0a.KOMUNE	efika		NULL	wirksam	
+efik.0a.KOMUNE	efika		NULL	effektiv	
+efik.0akauxzo	efika kaŭzo		NULL	Bewegungsursache	
+efik.0akauxzo	efika kaŭzo		NULL	Wirkursache	
+efik.0akauxzo.FIL	efika kaŭzo		NULL	Bewegungsursache	
+efik.0akauxzo.FIL	efika kaŭzo		NULL	Wirkursache	
+efik.0eco	efikeco		NULL	Wirksamkeit	
+efik.0eco	efikeco		NULL	Effektivität	
+efik.0eco.KOMUNE	efikeco		NULL	Wirksamkeit	
+efik.0eco.KOMUNE	efikeco		NULL	Effektivität	
+efik.0i	efiki		NULL	wirken	
+efik.0i	efiki		NULL	einwirken	
+efik.0i.KOMUNE	efiki		NULL	wirken	
+efik.0i.KOMUNE	efiki		NULL	einwirken	
+efik.0o	efiko		NULL	Wirkung	
+efik.0o	efiko		NULL	Effekt	
+efik.0o.ago_rezulto	efiko		NULL	Wirkung	
+efik.0o.ago_rezulto	efiko		NULL	Effekt	
+efik.krom0o	kromefiko		NULL	Nebenwirkung	
+efik.krom0o	flankefiko		NULL	Nebenwirkung	
+efik.krom0o	kromefiko		NULL	Seiteneffekt	
+efik.krom0o	flankefiko		NULL	Seiteneffekt	
+efik.krom0o.SCI	kromefiko		NULL	Nebenwirkung	
+efik.krom0o.SCI	flankefiko		NULL	Nebenwirkung	
+efik.krom0o.SCI	kromefiko		NULL	Seiteneffekt	
+efik.krom0o.SCI	flankefiko		NULL	Seiteneffekt	
+efik.placeb0o	placebefiko		NULL	Placeboeffekt	
+efik.placeb0o	placeba efiko		NULL	Placeboeffekt	
+efik.placeb0o.MED	placebefiko		NULL	Placeboeffekt	
+efik.placeb0o.MED	placeba efiko		NULL	Placeboeffekt	
+efik.post0o	postefiko		NULL	Nachwirkung	
+efik.post0o.SCI	postefiko		NULL	Nachwirkung	
+efik.sen0a	senefika		NULL	wirkungslose	
+eflore.0a	efloreska		NULL	effloreszierend	
+eflore.0a	efloreska		NULL	ausblühend	
+eflore.0a.MIN	efloreska		NULL	effloreszierend	
+eflore.0a.MIN	efloreska		NULL	ausblühend	
+eflore.0i	efloreski		NULL	effloreszieren	
+eflore.0i	efloreski		NULL	ausblühen	
+eflore.0i.MIN	efloreski		NULL	effloreszieren	
+eflore.0i.MIN	efloreski		NULL	ausblühen	
+eflore.0o	efloresko		NULL	Effloreszieren	
+eflore.0o	efloresko		NULL	Ausblühen	
+eflore.0o.MIN	efloresko		NULL	Effloreszieren	
+eflore.0o.MIN	efloresko		NULL	Ausblühen	
+efluv.0o	efluvo		NULL	NULL	NULL
+efluv.0o.ELE	efluvo	2	NULL	Koronaentladung	
+efluv.0o.ELE	efluvo	2	NULL	Elmsfeuer	
+efluv.0o.FIZ	efluvo	1	NULL	Glimmentladung	
+efluv.0o.FIZ	efluvo	1	NULL	Abstrahlung	
+efod.0o	efodo		NULL	Efod	
+efod.0o.TEKS	efodo		NULL	Efod	
+eg.0	-eg		ekz_13	Groß-	
+eg.0	-eg		ekz_13	groß-	
+eg.0a	ega		NULL	groß	
+eg.0a	ega		NULL	riesig	
+eg.0a	ega		NULL	gewaltig	
+eg.0a	ega		NULL	enorm	
+eg.0eco	egeco		NULL	Größe	
+eg.0eco	egeco		NULL	Gewaltigkeit	
+egal.0a	egala		ekz_28	gleich	
+egal.0a	egala		ekz_28	egal	
+egal.0a.MAT	egala	3	ekz_28	gleich	
+egal.0a.MAT	egala	3	ekz_28	egal	
+egal.0a.MEZ	egala	1	ekz_28	gleich	
+egal.0a.MEZ	egala	1	ekz_28	egal	
+egal.0a.simila	egala	2	ekz_28	gleich	
+egal.0a.simila	egala	2	ekz_28	egal	
+egal.0ajxo	egalaĵo		NULL	Gleichung	
+egal.0ajxo.MAT	egalaĵo	2	NULL	Gleichung	
+egal.0ajxo.io	egalaĵo	1	NULL	Gleiches	
+egal.0ajxo.io	egalaĵo	1	NULL	Vergleichbares	
+egal.0ajxo.io	egalaĵo	1	NULL	Gleichung	
+egal.0eco	egaleco		NULL	Gleichheit	
+egal.0i	egali		NULL	NULL	NULL
+egal.0i.KOMUNE	egali	1	NULL	gleichen	
+egal.0i.PSI	egali	2	NULL	NULL	NULL
+egal.0igi	egaligi		NULL	angleichen	
+egal.0igi	egaligi		NULL	ausgleichen	
+egal.0igi.KOMUNE	egaligi		NULL	angleichen	
+egal.0igi.KOMUNE	egaligi		NULL	ausgleichen	
+egal.0ismo	egalismo		NULL	NULL	NULL
+egal.0ismo.POL	egalismo		NULL	Egalismus	
+egal.0ulo	egalulo		NULL	NULL	NULL
+egal.0ulo.KOMUNE	egalulo		NULL	NULL	NULL
+egal.fek0a	fekegala		NULL	NULL	NULL
+egal.fek0a.FRAZ	fekegala		NULL	egal	scheiß egal
+egal.kontraux0a	kontraŭegala		NULL	entgegengesetzt	
+egal.kontraux0a	kontraŭegala		NULL	entgegengesetzt gleich	
+egal.kontraux0a	kontraŭegala		NULL	gegengleich	
+egal.kontraux0a.MAT	kontraŭegala		NULL	entgegengesetzt	
+egal.kontraux0a.MAT	kontraŭegala		NULL	entgegengesetzt gleich	
+egal.kontraux0a.MAT	kontraŭegala		NULL	gegengleich	
+egal.kontraux0igebla	kontraŭegaligebla		NULL	NULL	NULL
+egal.kontraux0igebla.MAT	kontraŭegaligebla		NULL	NULL	NULL
+egal.kontraux0o	kontraŭegalo		NULL	Element	entgegengesetztes Element
+egal.kontraux0o.MAT	kontraŭegalo		NULL	Element	entgegengesetztes Element
+egal.mal0a	malegala		NULL	ungleich	
+egal.mal0a	malegala		NULL	unterschiedlich	
+egal.mal0a.maljusta	malegala	2	NULL	ungleich	
+egal.mal0a.maljusta	malegala	2	NULL	unterschiedlich	
+egal.mal0eco	malegaleco		NULL	Ungleichheit	
+egal.ne0ajxo	neegalaĵo		NULL	Ungleichung	
+egal.ne0ajxo.MAT	neegalaĵo		NULL	Ungleichung	
+egal.sen0a	senegala		NULL	NULL	NULL
+egal.sen0a.unika	senegala		NULL	unvergleichlich	
+egal.sen0a.unika	senegala		NULL	ohnesgleichen	
+egal.tagnokt0eco	tagnoktegaleco		NULL	Tagundnachtgleiche	
+egal.tagnokt0eco	tagnoktegaleco		NULL	Äquinoktium	
+egal.tagnokt0eco.AST	tagnoktegaleco		NULL	Tagundnachtgleiche	
+egal.tagnokt0eco.AST	tagnoktegaleco		NULL	Äquinoktium	
+egal.tut0e	tutegale		NULL	NULL	NULL
+egal.tut0e.malgrauxe	tutegale	2	NULL	ungeachtet	dessen ungeachtet
+egal.tut0e.sendistinge	tutegale	1	NULL	egal	ganz egal
+egal.tut0e.sendistinge	tutegale	1	NULL	gleich	ganz gleich
+egid.0o	egido		NULL	Schild	
+egid.0o	egido		NULL	Schutz	
+egid.0o	egido		NULL	Ägide	
+egid.0o.MIT	egido	1	NULL	Ägis	
+egid.0o.MIT	egido	1	NULL	Aegis	
+egid.0o.MIT	egido	1	NULL	Schild	
+egid.0o.MIT	egido	1	NULL	Schutz	
+egid.0o.MIT	egido	1	NULL	Ägide	
+egid.0o.protekto	egido	2	NULL	Schild	
+egid.0o.protekto	egido	2	NULL	Schutz	
+egid.0o.protekto	egido	2	NULL	Ägide	
+egipt.0a	egipta		NULL	ägyptisch	
+egipt.0o	egipto		NULL	NULL	NULL
+egipt.0o.HIS	egipto	1	NULL	Ägypter	
+egipt.0o.Kabe	egipto	3	NULL	NULL	NULL
+egipt.0o.POL	egipto	2	NULL	Ägypter	
+egipt.0o.POL	egipto	2	NULL	Staatsbürger	ägyptischer Staatsbürger
+egipt.0ujano	egiptujano		NULL	Ägypter	
+egipt.E0ujo	Egiptujo		NULL	Ägypten	
+egipt.E0ujo.GEO	Egiptujo		NULL	Ägypten	
+egipti.0o	Egiptio		NULL	Ägypten	
+egipti.0o.GEOG	Egiptio		NULL	Ägypten	
+egiptolog.0o	egiptologo		NULL	Ägyptologe	
+egiptolog.0o.HIS	egiptologo		NULL	Ägyptologe	
+egiptologi.0isto	egiptologiisto		NULL	Ägyptologe	
+egiptologi.0isto.HIS	egiptologiisto		NULL	Ägyptologe	
+egiptologi.0o	egiptologio		NULL	Ägyptologie	
+egiptologi.0o.HIS	egiptologio		NULL	Ägyptologie	
+eglanteri.0o	eglanterio		NULL	Weinrose	
+eglanteri.0o	eglanterio		NULL	Apfelrose	
+eglanteri.0o.BOT	eglanterio		NULL	Weinrose	
+eglanteri.0o.BOT	eglanterio		NULL	Apfelrose	
+eglefi.0o	eglefino		NULL	Schellfisch	
+ego.0centra	egocentra		NULL	ichbezogen	
+ego.0centra	egocentra		NULL	egozentrisch	
+ego.0centra.rilatiganta	egocentra		NULL	ichbezogen	
+ego.0centra.rilatiganta	egocentra		NULL	egozentrisch	
+ego.0centrismo	egocentrismo		NULL	Ichbezogenheit	
+ego.0centrismo	egocentrismo		NULL	Egozentrismus	
+ego.0centrismo	egocentrismo		NULL	Egozentrik	
+ego.0centrismo.PSI	egocentrismo		NULL	Ichbezogenheit	
+ego.0centrismo.PSI	egocentrismo		NULL	Egozentrismus	
+ego.0centrismo.PSI	egocentrismo		NULL	Egozentrik	
+ego.0isma	egoisma		NULL	ichsüchtig	
+ego.0isma	egoisma		NULL	eigensüchtig	
+ego.0isma	egoisma		NULL	selbstsüchtig	
+ego.0isma	egoisma		NULL	egoistisch	
+ego.0isma.PSI	egoisma		NULL	ichsüchtig	
+ego.0isma.PSI	egoisma		NULL	eigensüchtig	
+ego.0isma.PSI	egoisma		NULL	selbstsüchtig	
+ego.0isma.PSI	egoisma		NULL	egoistisch	
+ego.0ismo	egoismo		NULL	NULL	NULL
+ego.0ismo.PSI	egoismo		NULL	Ichsucht	
+ego.0ismo.PSI	egoismo		NULL	Eigensucht	
+ego.0ismo.PSI	egoismo		NULL	Selbstsucht	
+ego.0ismo.PSI	egoismo		NULL	Egoismus	
+ego.0ismulo	egoismulo		NULL	Egoist	
+ego.0ismulo	egoismulo		NULL	selbstsüchtige Person	
+ego.0ismulo	egoismulo		NULL	Selbstsüchtiger	
+ego.0ismulo.PSI	egoismulo		NULL	Egoist	
+ego.0ismulo.PSI	egoismulo		NULL	selbstsüchtige Person	
+ego.0ismulo.PSI	egoismulo		NULL	Selbstsüchtiger	
+ego.0ista	egoista		NULL	ichsüchtig	
+ego.0ista	egoista		NULL	eigensüchtig	
+ego.0ista	egoista		NULL	selbstsüchtig	
+ego.0ista	egoista		NULL	egoistisch	
+ego.0ista.PSI	egoista		NULL	ichsüchtig	
+ego.0ista.PSI	egoista		NULL	eigensüchtig	
+ego.0ista.PSI	egoista		NULL	selbstsüchtig	
+ego.0ista.PSI	egoista		NULL	egoistisch	
+ego.0isto	egoisto		NULL	ichsüchtiger Mensch	
+ego.0isto	egoisto		NULL	eigensüchtiger Mensch	
+ego.0isto	egoisto		NULL	selbstsüchtiger Mensch	
+ego.0isto	egoisto		NULL	Egoist	
+ego.0isto.PSI	egoisto		NULL	ichsüchtiger Mensch	
+ego.0isto.PSI	egoisto		NULL	eigensüchtiger Mensch	
+ego.0isto.PSI	egoisto		NULL	selbstsüchtiger Mensch	
+ego.0isto.PSI	egoisto		NULL	Egoist	
+ego.0o	egoo		NULL	Ego	
+ego.0o.KOMUNE	egoo	2	NULL	Ego	
+ego.0o.PSI	egoo	1	NULL	Ich	
+ego.0o.PSI	egoo	1	NULL	Selbst	
+ego.0o.PSI	egoo	1	NULL	Ego	
+ego.mal0ismo	malegoismo		NULL	Altruismus	
+ego.mal0ismo	malegoismo		NULL	Selbstlosigkeit	
+ego.mal0ismo	malegoismo		NULL	Uneigennützigkeit	
+ego.mal0ismo.PSI	malegoismo		NULL	Altruismus	
+ego.mal0ismo.PSI	malegoismo		NULL	Selbstlosigkeit	
+ego.mal0ismo.PSI	malegoismo		NULL	Uneigennützigkeit	
+egopod.0o	egopodio		NULL	Giersch	
+egopod.0o	egopodio		NULL	Geißfuß	
+egret.0o	egreto		NULL	NULL	NULL
+egret.0o.ZOO	egreto	1	NULL	NULL	NULL
+egret.0o.pluma	egreto	2	NULL	Federkrone	
+egx.0o	eĝo		NULL	NULL	NULL
+egx.0o.GEOG	eĝo	1	NULL	Grat	
+egx.0o.GEOG	eĝo	1	NULL	Kamm	
+egx.0o.GEOG	eĝo	1	NULL	Kante	
+egx.0o.MAT	eĝo	2	NULL	NULL	NULL
+egx.nop0a	n-opeĝa		NULL	NULL	NULL
+ehe.0	ehe		NULL	NULL	NULL
+ehe.0.KOMUNE	ehe		NULL	NULL	NULL
+ehx.0osxangxo	eĥoŝanĝo ĉiuĵaŭde		NULL	Zwölf große Boxkämpfer jagen Viktor quer über den Sylter Deich.	
+ehxidn.0o	eĥidno		NULL	Ameisenigel	
+ehxidn.0o	ekidno		NULL	Ameisenigel	
+ehxidn.0o	eĥidno		NULL	Schnabeligel	
+ehxidn.0o	ekidno		NULL	Schnabeligel	
+ehxidn.0o.ZOO	eĥidno		NULL	Ameisenigel	
+ehxidn.0o.ZOO	ekidno		NULL	Ameisenigel	
+ehxidn.0o.ZOO	eĥidno		NULL	Schnabeligel	
+ehxidn.0o.ZOO	ekidno		NULL	Schnabeligel	
+ehximoz.0o	eĥimozo		NULL	Blutblase	
+ehximoz.0o	ekimozo		NULL	Blutblase	
+ehximoz.0o	eĥimozo		NULL	blutunterlaufene Stelle	
+ehximoz.0o	ekimozo		NULL	blutunterlaufene Stelle	
+ehximoz.0o	eĥimozo		NULL	Ekchymose	
+ehximoz.0o	ekimozo		NULL	Ekchymose	
+ehximoz.0o.MED	eĥimozo		NULL	Blutblase	
+ehximoz.0o.MED	ekimozo		NULL	Blutblase	
+ehximoz.0o.MED	eĥimozo		NULL	blutunterlaufene Stelle	
+ehximoz.0o.MED	ekimozo		NULL	blutunterlaufene Stelle	
+ehximoz.0o.MED	eĥimozo		NULL	Ekchymose	
+ehximoz.0o.MED	ekimozo		NULL	Ekchymose	
+ehxin.0o	eĥino		NULL	Seeigel	
+ehxin.0o	ekino		NULL	Seeigel	
+ehxin.0o.ZOO	eĥino		NULL	Seeigel	
+ehxin.0o.ZOO	ekino		NULL	Seeigel	
+ehxinoderm.0oj	eĥinodermoj		NULL	Stachelhäuter	
+ehxinoderm.0oj	ekinodermoj		NULL	Stachelhäuter	
+ehxinoderm.0oj.ZOO	eĥinodermoj		NULL	Stachelhäuter	
+ehxinoderm.0oj.ZOO	ekinodermoj		NULL	Stachelhäuter	
+ehxografi.0o	eĥografio		NULL	Echographie	
+ehxografi.0o.MED	eĥografio		NULL	Echographie	
+ej.0	-ej		ekz_13	ei	-ei (z.B. Bäckerei)
+ej.0	-ej		ekz_13	statt	-statt (z.B. Werkstatt)
+ej.0.sufikso	-ej		ekz_13	ei	-ei (z.B. Bäckerei)
+ej.0.sufikso	-ej		ekz_13	statt	-statt (z.B. Werkstatt)
+ej.0o	ejo		NULL	Ort	
+ej.0o	ejo		NULL	Platz	
+ej.0o	ejo		NULL	Stelle	
+ej.0o	ejo		NULL	Stätte	
+ej.0o.loko	ejo		NULL	Ort	
+ej.0o.loko	ejo		NULL	Platz	
+ej.0o.loko	ejo		NULL	Stelle	
+ej.0o.loko	ejo		NULL	Stätte	
+ej1.0	ej		NULL	NULL	NULL
+ej1.0	eh		NULL	NULL	NULL
+ej1.0.ekkrio	ej		NULL	Eh!	
+ej1.0.ekkrio	eh		NULL	Eh!	
+ejakul.0i	ejakuli		NULL	ejakulieren	
+ejakul.0i.ina	ejakuli	2	NULL	ejakulieren	
+ejakul.0i.vira	ejakuli	1	NULL	ejakulieren	
+ejakul.0o	ejakulo		NULL	Ejakulation	
+ejakul.0o.ago	ejakulo		NULL	Ejakulation	
+ejektiv.0o	ejektivo		NULL	NULL	NULL
+ejektiv.0o	ejektiva konsonanto		NULL	NULL	NULL
+ejektiv.0o.FON	ejektivo		NULL	NULL	NULL
+ejektiv.0o.FON	ejektiva konsonanto		NULL	NULL	NULL
+ejfel.0o	Ejfelo		NULL	NULL	NULL
+ejfel.0o.GEOG	Ejfelo	2	NULL	Eifel	Eifel (Gebirge)
+ejfel.0o.PERS	Ejfelo	1	NULL	Eiffel, Gustave	
+ejfel.0turo	Ejfelturo		NULL	Eiffelturm	
+ejfel.0turo	Ejfela turo		NULL	Eiffelturm	
+ejnsxtejn.0o	Ejnŝtejno		NULL	NULL	NULL
+ejnsxtejn.0o	Ejnstejno		NULL	NULL	NULL
+ejnsxtejn.0o.PERS	Ejnŝtejno		NULL	Einstein	Einstein (Albert)
+ejnsxtejn.0o.PERS	Ejnstejno		NULL	Einstein	Einstein (Albert)
+ek.0	ek		ekz_21	los	
+ek.0	ek		ekz_21	los geht's	
+ek.0	ek		ekz_21	auf	
+ek.0	ek		ekz_21	auf geht's	
+ek.0.SON	ek		ekz_21	los	
+ek.0.SON	ek		ekz_21	los geht's	
+ek.0.SON	ek		ekz_21	auf	
+ek.0.SON	ek		ekz_21	auf geht's	
+ek.0_	ek-		uv_E	los-	
+ek.0_	ek-		uv_E	er-	
+ek.0_	ek-		uv_E	an-	
+ek.0_.komenca	ek-	1	uv_E	los-	
+ek.0_.komenca	ek-	1	uv_E	er-	
+ek.0_.komenca	ek-	1	uv_E	an-	
+ek.0_.momenta	ek-	2	uv_E	los-	
+ek.0_.momenta	ek-	2	uv_E	er-	
+ek.0_.momenta	ek-	2	uv_E	an-	
+ek.0ede	eke de		NULL	von ... an	
+ek.0ede	eke de		NULL	direkt nach	
+ek.0ede	eke de		NULL	ab	
+ek.0ede.KOMUNE	eke de		NULL	von ... an	
+ek.0ede.KOMUNE	eke de		NULL	direkt nach	
+ek.0ede.KOMUNE	eke de		NULL	ab	
+ek.0i	eki		NULL	beginnen (mit)	beginnen (mit) [+Dat]
+ek.0i	eki		NULL	anfangen	
+ek.0i	eki		NULL	loslegen	
+ek.0i	eki		NULL	starten	
+ek.0i.KOMUNE	eki		NULL	beginnen (mit)	beginnen (mit) [+Dat]
+ek.0i.KOMUNE	eki		NULL	anfangen	
+ek.0i.KOMUNE	eki		NULL	loslegen	
+ek.0i.KOMUNE	eki		NULL	starten	
+ek.0igi	ekigi		NULL	beginnen	beginnen [+Akk]
+ek.0igi	ekigi		NULL	anstoßen	
+ek.0igi	ekigi		NULL	starten	starten [+Akk]
+ek.0igi.KOMUNE	ekigi		NULL	beginnen	beginnen [+Akk]
+ek.0igi.KOMUNE	ekigi		NULL	anstoßen	
+ek.0igi.KOMUNE	ekigi		NULL	starten	starten [+Akk]
+ekart.0o	ekarto		NULL	Abweichung	
+ekart.0o	ekarto		NULL	Abweichung	
+ekart.0o.MAT	ekarto	1	NULL	Approximationsfehler	
+ekart.0o.MAT	ekarto	1	NULL	Annäherungsfehler	
+ekart.0o.MAT	ekarto	1	NULL	Abweichung	
+ekart.0o.MAT	ekarto	1	NULL	Abweichung	
+ekarte.0o	ekarteo		NULL	Écarté	
+ekarte.0o.SPO	ekarteo		NULL	Écarté	
+ekbali.0o	ekbalio		NULL	Spritzgurke	
+eki.0o	ekio		NULL	Natterkopf	
+ekinokok.0o	ekinokoko		NULL	Fuchsbandwurm	
+ekinokok.0o	eĥinokoko		NULL	Fuchsbandwurm	
+ekinokok.0o	ekinokoko		NULL	Hundebandwurm	
+ekinokok.0o	eĥinokoko		NULL	Hundebandwurm	
+ekinokok.0o.ZOO	ekinokoko		NULL	Fuchsbandwurm	
+ekinokok.0o.ZOO	eĥinokoko		NULL	Fuchsbandwurm	
+ekinokok.0o.ZOO	ekinokoko		NULL	Hundebandwurm	
+ekinokok.0o.ZOO	eĥinokoko		NULL	Hundebandwurm	
+ekip.0ajxo	ekipaĵo		NULL	Ausrüstung	
+ekip.0ajxo	ekipo		NULL	Ausrüstung	
+ekip.0ajxo	ekipaĵo		NULL	Ausstattung	
+ekip.0ajxo	ekipo		NULL	Ausstattung	
+ekip.0ajxo.KOMUNE	ekipaĵo		NULL	Ausrüstung	
+ekip.0ajxo.KOMUNE	ekipo		NULL	Ausrüstung	
+ekip.0ajxo.KOMUNE	ekipaĵo		NULL	Ausstattung	
+ekip.0ajxo.KOMUNE	ekipo		NULL	Ausstattung	
+ekip.0i	ekipi		oa_2	ausrüsten	
+ekip.0i	ekipi		oa_2	ausstatten	
+ekip.0i.KOMUNE	ekipi		oa_2	ausrüsten	
+ekip.0i.KOMUNE	ekipi		oa_2	ausstatten	
+ekip.0isto	ekipisto		NULL	Ausrüster	
+ekip.0isto	ekipisto		NULL	Ausstatter	
+ekip.0isto.SHI	ekipisto		NULL	Ausrüster	
+ekip.0isto.SHI	ekipisto		NULL	Ausstatter	
+eklamp.0o	eklampsio		NULL	Eklampsie	
+eklekt.0a	eklektika		NULL	NULL	NULL
+eklekt.0a.KOMUNE	eklektika		NULL	NULL	NULL
+eklekt.0ismo	eklektikismo		NULL	Eklektizismus	
+eklekt.0ismo.FIL	eklektikismo		NULL	Eklektizismus	
+eklezi.0a	eklezia		NULL	kirchlich	
+eklezi.0a.rilata	eklezia		NULL	kirchlich	
+eklezi.0ano	ekleziano		NULL	NULL	NULL
+eklezi.0ano.REL	ekleziano		NULL	Gemeindemitglied	
+eklezi.0o	eklezio		NULL	Kirche	
+eklezi.0o.KRI	eklezio	2	NULL	Kirche	
+eklezi.0o.POL	eklezio	1	NULL	Kirche	
+eklezi.0o.klerikaro	eklezio	3	NULL	Kirche	
+eklezi.0ulo	ekleziulo		NULL	NULL	NULL
+eklezi.0ulo.REL	ekleziulo		NULL	Kleriker	
+eklezi.0ulo.REL	ekleziulo		NULL	kirchlicher Würdenträger	
+ekleziologi.0o	ekleziologio		NULL	NULL	NULL
+ekleziologi.0o.KOMUNE	ekleziologio		NULL	NULL	NULL
+eklips.0a	eklipsa		NULL	NULL	NULL
+eklips.0i	eklipsi		NULL	NULL	NULL
+eklips.0i.FIG	eklipsi	2	NULL	Schatten	in den Schatten stellen
+eklips.0i.sxirmi	eklipsi	1	NULL	verfinstern	
+eklips.0o	eklipso		NULL	Finsternis	
+eklips.0o	eklipso		NULL	Verfinsterung	
+eklips.0o	eklipso		NULL	Verdunkelung	
+eklips.0o	eklipso		NULL	Verdeckung	
+eklipt.0o	ekliptiko		NULL	Ekliptik	
+eklog.0o	eklogo		oa_2	Ekloge	
+eklog.0o.POE	eklogo		oa_2	Ekloge	
+ekolog.0o	ekologo		NULL	Ökologe	
+ekolog.0o.EKOL	ekologo		NULL	Ökologe	
+ekologi.0a	ekologia		NULL	NULL	NULL
+ekologi.0a.POL	ekologia	2	NULL	ökologisch abbaubar	
+ekologi.0a.POL	ekologia	2	NULL	ökologisch unbedenklich	
+ekologi.0a.SCI	ekologia	1	NULL	ökologisch	
+ekologi.0ismo	ekologiismo		NULL	ökologische Bewegung	
+ekologi.0ismo	ekologiismo		NULL	Ökologiebewegung	
+ekologi.0isto	ekologiisto		NULL	NULL	NULL
+ekologi.0isto.EKOL	ekologiisto	1	NULL	Ökologe	
+ekologi.0isto.POL	ekologiisto	2	NULL	NULL	NULL
+ekologi.0o	ekologio		oa_9	NULL	NULL
+ekologi.0o.POL	ekologio	3	oa_9	ökologische Bewegung	
+ekologi.0o.POL	ekologio	3	oa_9	Ökologiebewegung	
+ekologi.0o.SCI	ekologio	1	oa_9	Ökologie	
+ekologi.0o.naturprotektado	ekologio	2	oa_9	NULL	NULL
+ekonom.0o	ekonomo		NULL	Wirtschafter	
+ekonom.0o	ekonomo		NULL	Verwalter	
+ekonom.0o	ekonomo		NULL	Gutsverwalter	
+ekonom.0o	ekonomo		NULL	Intendant	
+ekonom1.0a	ekonomia		NULL	wirtschaftlich	
+ekonom1.0a	ekonomia		NULL	ökonomisch	
+ekonom1.0isto	ekonomiisto		NULL	Wirtschaftswissenschaflter	
+ekonom1.0isto	ekonomiisto		NULL	Ökonom	
+ekonom1.0o	ekonomio		NULL	NULL	NULL
+ekonom1.0o.SCI	ekonomio	2	NULL	Wirtschaftswissenschaft	
+ekonom1.0o.mastrumado	ekonomio	3	NULL	Wirtschaften	
+ekonom1.0o.mastrumado	ekonomio	3	NULL	Wirtschaft	
+ekonom1.0o.mastrumado	ekonomio	3	NULL	Wirtschaftlichkeit	
+ekonom1.0o.mastrumado	ekonomio	3	NULL	Haushalt	
+ekonom1.0o.mastrumado	ekonomio	3	NULL	Ökonomie	
+ekonom1.0o.situacio	ekonomio	1	NULL	Wirtschaft	
+ekonom1.0o.situacio	ekonomio	1	NULL	Ökonomie	
+ekonom1.0o.sxparado	ekonomio	4	NULL	Wirtschaftlichkeit	
+ekonom1.0o.sxparado	ekonomio	4	NULL	Ökonomie	
+ekonom1.0o.sxparado	ekonomio	4	NULL	Sparsamkeit	
+ekonom1.O0ajKE	Organizaĵo por Ekonomiaj Kunlaboro kaj Evoluigo		NULL	Organisation für Wirtschaftliche Zusammenarbeit	
+ekonom1.O0ajKE	Organizaĵo por Ekonomiaj Kunlaboro kaj Evoluigo		NULL	OECD	
+ekonom1.O0ajKE.EKON	Organizaĵo por Ekonomiaj Kunlaboro kaj Evoluigo		NULL	Organisation für Wirtschaftliche Zusammenarbeit	
+ekonom1.O0ajKE.EKON	Organizaĵo por Ekonomiaj Kunlaboro kaj Evoluigo		NULL	OECD	
+ekonom1.merkat0o	merkatekonomio		NULL	Marktwirtschaft	
+ekonom1.merkat0o.EKON	merkatekonomio		NULL	Marktwirtschaft	
+ekonom1.plan0o	planekonomio		NULL	Planwirtschaft	
+ekonom1.plan0o.EKON	planekonomio		NULL	Planwirtschaft	
+ekonom2.0a	ekonomika		NULL	NULL	NULL
+ekonom2.0a.SCI	ekonomika		NULL	NULL	NULL
+ekonom2.0isto	ekonomikisto		NULL	Wirtschaftswissenschaftler	
+ekonom2.0isto.SCI	ekonomikisto		NULL	Wirtschaftswissenschaftler	
+ekonom2.0o	ekonomiko		NULL	Wirtschaftswissenschaft	
+ekonom2.0o.SCI	ekonomiko		NULL	Wirtschaftswissenschaft	
+ekosistem.0o	ekosistemo		NULL	Ökosystem	
+ekosistem.0o.EKOL	ekosistemo		NULL	Ökosystem	
+ekran.0bloko	ekranbloko		NULL	Monitor	
+ekran.0bloko	ekranbloko		NULL	Anzeigeeinheit	Anzeigeeinheit [ark]
+ekran.0bloko.KOMP	ekranbloko		NULL	Monitor	
+ekran.0bloko.KOMP	ekranbloko		NULL	Anzeigeeinheit	Anzeigeeinheit [ark]
+ekran.0ego	ekranego		NULL	NULL	NULL
+ekran.0ego.MEBL	ekranego	2	NULL	NULL	NULL
+ekran.0ego.strata	ekranego	1	NULL	Leinwand	
+ekran.0ego.strata	ekranego	1	NULL	Großbildschirm	
+ekran.0i	ekrani		NULL	abschirmen	
+ekran.0i	ekrani		NULL	schirmen	
+ekran.0i.KOMUNE	ekrani		NULL	abschirmen	
+ekran.0i.KOMUNE	ekrani		NULL	schirmen	
+ekran.0kopio	ekrankopio		NULL	Bildschirmfoto	
+ekran.0kopio.KOMP	ekrankopio		NULL	Bildschirmfoto	
+ekran.0o	ekrano		oa_8	NULL	NULL
+ekran.0o.sxirmilo	ekrano	2	oa_8	Schirm	(Schutz-)Schirm
+ekran.0o.vidiga	ekrano	1	oa_8	Bildschirm	
+ekran.0o.vidiga	ekrano	1	oa_8	Leinwand	
+ekran.0o.vidiga	ekrano	1	oa_8	Projektionsfläche	
+ekran.katodradia0o	katodradia ekrano		NULL	Kathodenstrahlbildschirm	
+ekran.katodradia0o.FOT	katodradia ekrano		NULL	Kathodenstrahlbildschirm	
+ekran.likvakristala0o	likvakristala ekrano		NULL	LCD	
+ekran.likvakristala0o	LK-ekrano		NULL	LCD	
+ekran.likvakristala0o	likvakristala ekrano		NULL	Flüssigkristallanzeige	
+ekran.likvakristala0o	LK-ekrano		NULL	Flüssigkristallanzeige	
+ekran.likvakristala0o.FOT	likvakristala ekrano		NULL	LCD	
+ekran.likvakristala0o.FOT	LK-ekrano		NULL	LCD	
+ekran.likvakristala0o.FOT	likvakristala ekrano		NULL	Flüssigkristallanzeige	
+ekran.likvakristala0o.FOT	LK-ekrano		NULL	Flüssigkristallanzeige	
+ekran.plasm0o	plasmekrano		NULL	Plasmabildschirm	
+ekran.plasm0o	plasmoekrano		NULL	Plasmabildschirm	
+ekran.plasm0o	plasma ekrano		NULL	Plasmabildschirm	
+ekran.plasm0o.FOT	plasmekrano		NULL	Plasmabildschirm	
+ekran.plasm0o.FOT	plasmoekrano		NULL	Plasmabildschirm	
+ekran.plasm0o.FOT	plasma ekrano		NULL	Plasmabildschirm	
+ekran.tusx0o	tuŝekrano		NULL	Touchscreen	
+ekran.tusx0o.KOMP	tuŝekrano		NULL	Touchscreen	
+eks.0	eks-		NULL	Ex-	
+eks.0	eks-		NULL	a.D.	
+eks.0.KOMUNE	eks-		NULL	Ex-	
+eks.0.KOMUNE	eks-		NULL	a.D.	
+eks.0a	eksa		NULL	ehemalig	
+eks.0a	eksa		NULL	früher	
+eks.0a.KOMUNE	eksa		NULL	ehemalig	
+eks.0a.KOMUNE	eksa		NULL	früher	
+eks.0igi	eksigi		NULL	entlassen	
+eks.0igi	eksigi		NULL	beseitigen	
+eks.0igi.POL	eksigi	2	NULL	entlassen	
+eks.0igi.POL	eksigi	2	NULL	beseitigen	
+eks.0igi.ion	eksigi	3	NULL	entlassen	
+eks.0igi.ion	eksigi	3	NULL	beseitigen	
+eks.0igi.iun	eksigi	1	NULL	entlassen	
+eks.0igi.iun	eksigi	1	NULL	beseitigen	
+eks.0igo	eksigo		NULL	NULL	NULL
+eks.0igo.KOMUNE	eksigo	1	NULL	Entlassung	
+eks.0igo.KOMUNE	eksigo	1	NULL	Kündigung	
+eks.0igo.POL	eksigo	2	NULL	NULL	NULL
+eks.0igxi	eksiĝi		NULL	weggehen	
+eks.0igxi	eksiĝi		NULL	abdanken	
+eks.0igxi.KOMUNE	eksiĝi		NULL	weggehen	
+eks.0igxi.KOMUNE	eksiĝi		NULL	abdanken	
+eks.0igxo	eksiĝo		NULL	NULL	NULL
+eks.0igxo.KOMUNE	eksiĝo		NULL	Ausscheiden	
+eks.0igxo.KOMUNE	eksiĝo		NULL	Entlassung	
+eks.for0igi	foreksigi		NULL	entlassen	
+eks.for0igi	foreksigi		NULL	kündigen	
+eks.for0igi.KOMUNE	foreksigi		NULL	entlassen	
+eks.for0igi.KOMUNE	foreksigi		NULL	kündigen	
+eksa.0	eksa-		NULL	Exa-	
+eksa.0.MEZ	eksa-		NULL	Exa-	
+ekscel.0o	ekscelenco		NULL	Exzellenz	
+ekscen.0a	ekscentrika		NULL	exzentrisch	
+ekscen.0a	ekscentrika		NULL	unwuchtig	
+ekscen.0o	ekscentriko		NULL	Exzenter	
+ekscen.0o	ekscentriko		NULL	Unwucht	
+ekscentr.0a	ekscentra		NULL	NULL	NULL
+ekscentr.0a.KOMUNE	ekscentra		NULL	NULL	NULL
+ekscep.0o	ekscepcio		NULL	Vorbehalt	
+ekscep.0o	ekscepcio		NULL	Einwand	
+ekscep.0o	ekscepcio		NULL	Einrede	
+ekscep.0o	ekscepcio		NULL	Einspruch wegen Formfehler	
+ekscep.0o.JUR	ekscepcio		NULL	Vorbehalt	
+ekscep.0o.JUR	ekscepcio		NULL	Einwand	
+ekscep.0o.JUR	ekscepcio		NULL	Einrede	
+ekscep.0o.JUR	ekscepcio		NULL	Einspruch wegen Formfehler	
+eksces.0a	ekscesa		NULL	exzessiv	
+eksces.0a	ekscesa		NULL	maßlos	
+eksces.0a	ekscesa		NULL	übermäßig	
+eksces.0a	ekscesa		NULL	ausufernd	
+eksces.0o	eksceso		oa_2	NULL	NULL
+eksces.0o.troajxo	eksceso	1	oa_2	Exzess	
+eksces.0o.troajxo	eksceso	1	oa_2	Maßlosigkeit	
+eksces.0o.troo	eksceso	2	oa_2	Exzess	
+eksces.0o.troo	eksceso	2	oa_2	Übermaß	
+ekscit.0i	eksciti		ekz_41	anregen	
+ekscit.0i	eksciti		ekz_41	erregen	
+ekscit.0i.FIG	eksciti	2	ekz_41	entfachen	
+ekscit.0i.FIG	eksciti	2	ekz_41	anregen	
+ekscit.0i.FIG	eksciti	2	ekz_41	erregen	
+ekscit.0i.KOMUNE	eksciti	1	ekz_41	anregen	
+ekscit.0i.KOMUNE	eksciti	1	ekz_41	erregen	
+ekscit.0igxema	ekscitiĝema		NULL	NULL	NULL
+ekscit.0igxema.PSI	ekscitiĝema		NULL	NULL	NULL
+ekscit.0igxi	ekscitiĝi		NULL	erregen	sich erregen
+ekscit.0igxi.PSI	ekscitiĝi		NULL	erregen	sich erregen
+ekscit.0igxo	ekscitiĝo		NULL	NULL	NULL
+ekscit.0igxo.PSI	ekscitiĝo		NULL	NULL	NULL
+ekscit.0o	ekscito		NULL	Aufregung	
+ekscit.0o	eksciteco		NULL	Aufregung	
+ekscit.0o	ekscito		NULL	Erregtheit	
+ekscit.0o	eksciteco		NULL	Erregtheit	
+ekscit.0o.stato	ekscito		NULL	Aufregung	
+ekscit.0o.stato	eksciteco		NULL	Aufregung	
+ekscit.0o.stato	ekscito		NULL	Erregtheit	
+ekscit.0o.stato	eksciteco		NULL	Erregtheit	
+ekscit1.0o	ekscitatoro		NULL	Erregermaschine	
+eksklamaci.0i	eksklamacii		NULL	ausrufen	
+eksklamaci.0i	eksklami		NULL	ausrufen	
+eksklamaci.0o	eksklamacio		NULL	Ausruf	
+eksklamaci.0o	eksklamo		NULL	Ausruf	
+eksklamaci.0o.BELE	eksklamacio		NULL	Ausruf	
+eksklamaci.0o.BELE	eksklamo		NULL	Ausruf	
+eksklu.0a	ekskluziva		NULL	NULL	NULL
+eksklu.0a.eksterlasanta	ekskluziva	2	NULL	ausschließlich	
+eksklu.0a.esceptanta	ekskluziva	1	NULL	exklusiv	
+eksklu.0e	ekskluzive		oa_2	NULL	NULL
+eksklu.0e.eksterlasante	ekskluzive	2	oa_2	ausschließlich	
+eksklu.0e.esceptante	ekskluzive	1	oa_2	exklusiv	
+eksklu.0i	ekskluzivi		NULL	ausschließen	
+eksklu.0i	ekskluzivi		NULL	ausnehmen	
+eksklu.0i.eksterlasi	ekskluzivi		NULL	ausschließen	
+eksklu.0i.eksterlasi	ekskluzivi		NULL	ausnehmen	
+eksklud.0i	ekskludi		NULL	ausschließen	
+eksklud.0i	eskludi		NULL	ausschließen	
+eksklud.0i	ekskludi		NULL	ausnehmen	
+eksklud.0i	eskludi		NULL	ausnehmen	
+eksklud.0i.ekskluzivi	ekskludi		NULL	ausschließen	
+eksklud.0i.ekskluzivi	eskludi		NULL	ausschließen	
+eksklud.0i.ekskluzivi	ekskludi		NULL	ausnehmen	
+eksklud.0i.ekskluzivi	eskludi		NULL	ausnehmen	
+eksklud.0o	ekskludo		NULL	Ausschluss	
+eksklud.0o	ekskludo		NULL	Ausnahme	
+eksklud.0o.ago	ekskludo		NULL	Ausschluss	
+eksklud.0o.ago	ekskludo		NULL	Ausnahme	
+ekskom.0i	ekskomuniki		oa_2	NULL	NULL
+ekskom.0i.FIG	ekskomuniki	2	oa_2	ausschließen	
+ekskom.0i.FIG	ekskomuniki	2	oa_2	ausstoßen	
+ekskom.0i.REL	ekskomuniki	1	oa_2	exkommunizieren	
+ekskom.0i.REL	ekskomuniki	1	oa_2	Bann belegen	mit Bann belegen
+ekskom.0o	ekskomuniko		NULL	NULL	NULL
+ekskom.0o.REL	ekskomuniko		NULL	NULL	NULL
+ekskor.0i	ekskoriacii		NULL	abschürfen	die Haut abschürfen
+ekskor.0i	ekskoriacii		NULL	wund reiben	
+ekskor.0i.MED	ekskoriacii		NULL	abschürfen	die Haut abschürfen
+ekskor.0i.MED	ekskoriacii		NULL	wund reiben	
+ekskor.0o	ekskoriacio		NULL	Hautabschürfung	
+ekskor.0o.MED	ekskoriacio		NULL	Hautabschürfung	
+ekskre.0a	ekskrecia		NULL	ausscheidend	
+ekskre.0a	ekskrecia		NULL	absondernd	
+ekskre.0a	ekskrecia		NULL	exkretorisch	
+ekskre.0a.FIZL	ekskrecia		NULL	ausscheidend	
+ekskre.0a.FIZL	ekskrecia		NULL	absondernd	
+ekskre.0a.FIZL	ekskrecia		NULL	exkretorisch	
+ekskre.0ajxo	ekskreciaĵo		NULL	NULL	NULL
+ekskre.0ajxo.FIZL	ekskreciaĵo		NULL	NULL	NULL
+ekskre.0i	ekskrecii		NULL	ausscheiden	
+ekskre.0i	ekskrecii		NULL	absondern	
+ekskre.0i.FIZL	ekskrecii	1	NULL	ausscheiden	
+ekskre.0i.FIZL	ekskrecii	1	NULL	absondern	
+ekskre.0i.elsekrec	ekskrecii	2	NULL	ausscheiden	
+ekskre.0i.elsekrec	ekskrecii	2	NULL	absondern	
+ekskre.0o	ekskrecio		NULL	Ausscheidung	
+ekskre.0o	ekskrecio		NULL	Absonderung	
+ekskre.0o.FIZL	ekskrecio		NULL	Ausscheidung	
+ekskre.0o.FIZL	ekskrecio		NULL	Absonderung	
+ekskre1.0a	ekskrementa		NULL	exkrementierend	
+ekskre1.0a	ekskrementa		NULL	ausscheidend	
+ekskre1.0a	ekskrementa		NULL	fäkalisch	
+ekskre1.0a	ekskrementa		NULL	beschissen	
+ekskre1.0o	ekskremento		NULL	Exkrement	
+ekskre1.0o	ekskremento		NULL	Ausscheidungsprodukt	
+ekskur.0i	ekskursi		NULL	Ausflug	einen Ausflug machen
+ekskur.0i.TUR	ekskursi		NULL	Ausflug	einen Ausflug machen
+ekskur.0o	ekskurso		NULL	Ausflug	
+ekskur.0o	ekskurso		NULL	Exkursion	
+ekskur.0o	ekskurso		NULL	Tagestour	
+ekskur.0o.TUR	ekskurso		NULL	Ausflug	
+ekskur.0o.TUR	ekskurso		NULL	Exkursion	
+ekskur.0o.TUR	ekskurso		NULL	Tagestour	
+ekskuz.0i	ekskuzi		NULL	entschuldigen	
+ekskuz.0i	eskuzi		NULL	entschuldigen	
+ekskuz.0i.prezenti	ekskuzi		NULL	entschuldigen	
+ekskuz.0i.prezenti	eskuzi		NULL	entschuldigen	
+ekskuz.0o	ekskuzo		NULL	Entschuldigung	
+ekskuz.0o	eskuzo		NULL	Entschuldigung	
+ekskuz.0o	ekskuzo		NULL	Entschuldigungsgrund	
+ekskuz.0o	eskuzo		NULL	Entschuldigungsgrund	
+ekskuz.0o.motivo	ekskuzo		NULL	Entschuldigung	
+ekskuz.0o.motivo	eskuzo		NULL	Entschuldigung	
+ekskuz.0o.motivo	ekskuzo		NULL	Entschuldigungsgrund	
+ekskuz.0o.motivo	eskuzo		NULL	Entschuldigungsgrund	
+ekslib.0o	ekslibriso		NULL	Exlibris	
+ekspan.0o	ekspansio		NULL	NULL	NULL
+ekspan.0o.KOMUNE	ekspansio	1	NULL	Ausdehnung	Ausdehnung (Vorgang)
+ekspan.0o.KOMUNE	ekspansio	1	NULL	Ausweitung	
+ekspan.0o.KOMUNE	ekspansio	1	NULL	Erweiterung	Erweiterung (Vorgang)
+ekspan.0o.KOMUNE	ekspansio	1	NULL	Expansion	
+ekspan.0o.TEK	ekspansio	2	NULL	Ausdehnung	
+ekspan.0o.TEK	ekspansio	2	NULL	Expansion	
+ekspan.ekonomia0o	ekonomia ekspansio		NULL	wirtschaftliche Ausdehnung	
+ekspan.ekonomia0o	ekonomia ekspansio		NULL	wirtschaftliche Expansion	
+ekspan.politika0o	politika ekspansio		NULL	NULL	NULL
+ekspan.politika0o.POL	politika ekspansio		NULL	politische Ausdehnung	
+ekspan.politika0o.POL	politika ekspansio		NULL	politische Expansion	
+eksped.0ejo	ekspedejo		NULL	Versandbüro	
+eksped.0ejo	ekspedejo		NULL	Expeditionsbüro	
+eksped.0ejo.loko	ekspedejo		NULL	Versandbüro	
+eksped.0ejo.loko	ekspedejo		NULL	Expeditionsbüro	
+eksped.0i	ekspedi		NULL	absenden	
+eksped.0i	ekspedi		NULL	abschicken	
+eksped.0i	ekspedi		NULL	aufgeben	
+eksped.0i	ekspedi		NULL	wegschicken	
+eksped.0i	ekspedi		NULL	expedieren	expedieren [ark]
+eksped.0i.POSX	ekspedi		NULL	absenden	
+eksped.0i.POSX	ekspedi		NULL	abschicken	
+eksped.0i.POSX	ekspedi		NULL	aufgeben	
+eksped.0i.POSX	ekspedi		NULL	wegschicken	
+eksped.0i.POSX	ekspedi		NULL	expedieren	expedieren [ark]
+eksped.0isto	ekspedisto		NULL	NULL	NULL
+eksped.0isto.EKON	ekspedisto		NULL	NULL	NULL
+eksped.0o	ekspedo		NULL	NULL	NULL
+eksped.0o.ado	ekspedo	1	NULL	Absendung	
+eksped.0o.ado	ekspedo	1	NULL	Aufgabe	
+eksped.0o.ado	ekspedo	1	NULL	Expedition	Expedition [ark]
+eksped.0o.itajxo	ekspedo	2	NULL	Sendung	
+eksped1.0o	ekspedicio		NULL	Expedition	
+eksped1.0o	ekspedicio		NULL	Entdeckungsreise	
+eksped1.0o.esplorvojagxo	ekspedicio		NULL	Expedition	
+eksped1.0o.esplorvojagxo	ekspedicio		NULL	Entdeckungsreise	
+ekspek.0o	ekspekto		NULL	Erwartungswert	
+ekspektor.0i	ekspektori		NULL	NULL	NULL
+ekspektor.0i.MED	ekspektori		NULL	NULL	NULL
+eksper.0a	eksperimenta		NULL	experimentell	
+eksper.0a	eksperimenta		NULL	Test-	
+eksper.0a	eksperimenta		NULL	versuchsweise	
+eksper.0a.SCI	eksperimenta		NULL	experimentell	
+eksper.0a.SCI	eksperimenta		NULL	Test-	
+eksper.0a.SCI	eksperimenta		NULL	versuchsweise	
+eksper.0i	eksperimenti		NULL	experimentieren	
+eksper.0i	eksperimenti		NULL	untersuchen	wissenschaftlich untersuchen
+eksper.0i.SCI	eksperimenti		NULL	experimentieren	
+eksper.0i.SCI	eksperimenti		NULL	untersuchen	wissenschaftlich untersuchen
+eksper.0o	eksperimento		NULL	Experiment	
+eksper.0o	eksperimento		NULL	Versuch	wissenschaftlicher Versuch
+eksper.0o.SCI	eksperimento		NULL	Experiment	
+eksper.0o.SCI	eksperimento		NULL	Versuch	wissenschaftlicher Versuch
+eksper.best0o	besteksperimento		NULL	NULL	NULL
+eksper.best0o	bestoeksperimento		NULL	NULL	NULL
+eksper.best0o.BIO	besteksperimento		NULL	NULL	NULL
+eksper.best0o.BIO	bestoeksperimento		NULL	NULL	NULL
+eksper.pri0ato	prieksperimentato		NULL	NULL	NULL
+eksper.pri0ato.BIO	prieksperimentato		NULL	NULL	NULL
+eksper.pri0i	prieksperimenti		NULL	NULL	NULL
+eksper1.0o	eksperto		NULL	Fachmann	
+eksper1.0o	eksperto		NULL	Experte	
+eksper1.0o	eksperto		NULL	Kenner der Materie	
+eksper1.0o	eksperto		NULL	Spezialist	
+eksper1.0o.fakulo	eksperto		NULL	Fachmann	
+eksper1.0o.fakulo	eksperto		NULL	Experte	
+eksper1.0o.fakulo	eksperto		NULL	Kenner der Materie	
+eksper1.0o.fakulo	eksperto		NULL	Spezialist	
+eksper2.0i	ekspertizi		NULL	begutachten	
+eksper2.0i.JUR	ekspertizi		NULL	begutachten	
+eksper2.0isto	ekspertizisto		NULL	Sachverständiger	
+eksper2.0isto	ekspertizisto		NULL	Gutachter	
+eksper2.0isto.JUR	ekspertizisto		NULL	Sachverständiger	
+eksper2.0isto.JUR	ekspertizisto		NULL	Gutachter	
+eksper2.0o	ekspertizo		NULL	Gutachten	
+eksper2.0o	ekspertizo		NULL	Expertise	
+eksper2.0o.JUR	ekspertizo		NULL	Gutachten	
+eksper2.0o.JUR	ekspertizo		NULL	Expertise	
+ekspli.0i	ekspliki		NULL	erläutern	
+ekspli.0i	ekspliki		NULL	darlegen	
+ekspli.0i	ekspliki		NULL	ausführlich erklären	
+ekspli.0i	ekspliki		NULL	ausführlich darstellen	
+ekspli.0i	ekspliki		NULL	erläutern	
+ekspli.0i	ekspliki		NULL	darlegen	
+ekspli.0i	ekspliki		NULL	erklären	ausführlich erklären
+ekspli.0i	ekspliki		NULL	darstellen	ausführlich darstellen
+eksplic.0ita	eksplicita		NULL	NULL	NULL
+eksplic.0ita.KOMUNE	eksplicita		NULL	explizit	
+eksplic.0ita.KOMUNE	eksplicita		NULL	ausdrücklich	
+eksplic.0ita.KOMUNE	eksplicita		NULL	eindeutig	
+eksplic.0itigi	eksplicitigi		NULL	NULL	NULL
+eksplic.0itigi.KOMUNE	eksplicitigi		NULL	NULL	NULL
+eksplo.0ajxo	eksplodaĵo		NULL	Sprengstoff	
+eksplo.0ajxo.KEM	eksplodaĵo		NULL	Sprengstoff	
+eksplo.0akonsonanto	eksploda konsonanto		NULL	Plosiv	
+eksplo.0akonsonanto	eksploda konsonanto		NULL	Verschlusslaut	
+eksplo.0akonsonanto	eksploda konsonanto		NULL	Okklusiv	
+eksplo.0akonsonanto	eksploda konsonanto		NULL	Klusil	
+eksplo.0ema	eksplodema		NULL	explosiv	
+eksplo.0ema	eksplodema		NULL	cholerisch	
+eksplo.0i	eksplodi		ekz_41	explodieren	
+eksplo.0i	eksplodi		ekz_41	ausbrechen	
+eksplo.0igi	eksplodigi		NULL	zünden	
+eksplo.0igilo	eksplodigilo		NULL	NULL	NULL
+eksplo.0igilo.TEK	eksplodigilo	1	NULL	Zünder	
+eksplo.0igilo.substanco	eksplodigilo	2	NULL	NULL	NULL
+eksplo.0o	eksplodo		NULL	Explosion	
+eksplo.0o	eksplodo		NULL	Ausbruch	
+eksplo.pra0o	praeksplodo		NULL	Urknall	
+eksplo.pra0o.AST	praeksplodo		NULL	Urknall	
+eksplu.0egi	ekspluategi		NULL	NULL	NULL
+eksplu.0i	ekspluati		oa_2	abbauen	abbauen (Rohstoffe)
+eksplu.0i	ekspluati		oa_2	überstrapazieren	
+eksplu.0i	ekspluati		oa_2	ausnutzen	
+eksplu.0i	ekspluati		oa_2	ausbeuten	
+eksplu.0i.EKON	ekspluati	2	oa_2	abbauen	abbauen (Rohstoffe)
+eksplu.0i.EKON	ekspluati	2	oa_2	rücksichtslos ausnutzen	
+eksplu.0i.EKON	ekspluati	2	oa_2	überstrapazieren	
+eksplu.0i.EKON	ekspluati	2	oa_2	ausnutzen	
+eksplu.0i.EKON	ekspluati	2	oa_2	ausbeuten	
+ekspon.0ajxo	eksponaĵo		NULL	Exponat	
+ekspon.0ajxo.ekspoziciajxo	eksponaĵo		NULL	Exponat	
+ekspon.0i	eksponi		NULL	NULL	NULL
+ekspon.0i.EKON	eksponi	3	NULL	ausstellen	
+ekspon.0i.EKON	eksponi	3	NULL	auslegen	
+ekspon.0i.FOT	eksponi	1	NULL	aussetzen	
+ekspon.0i.FOT	eksponi	1	NULL	belichten	
+ekspon.0i.FOT	eksponi	1	NULL	exponieren	
+ekspon.0i.klarigi	eksponi	2	NULL	darstellen	
+ekspon1.0o	eksponencialo		NULL	Exponentialfunktion	
+ekspon2.0o	eksponento		NULL	NULL	NULL
+ekspon2.0o.algebra	eksponento	1	NULL	Exponent	
+ekspon2.0o.algebra	eksponento	1	NULL	Hochzahl	
+ekspon2.0o.glitpunkta	eksponento	2	NULL	NULL	NULL
+ekspor.0ado	eksportado		NULL	Export	
+ekspor.0ado	eksportado		NULL	Ausfuhr	
+ekspor.0ado.transportado	eksportado		NULL	Export	
+ekspor.0ado.transportado	eksportado		NULL	Ausfuhr	
+ekspor.0ajxo	eksportaĵo		NULL	Exportprodukt	
+ekspor.0ajxo	eksportaĵo		NULL	exportierte Ware	
+ekspor.0ajxo	eksportaĵo		NULL	Ausfuhrgut	
+ekspor.0ajxo.komercajxo	eksportaĵo		NULL	Exportprodukt	
+ekspor.0ajxo.komercajxo	eksportaĵo		NULL	exportierte Ware	
+ekspor.0ajxo.komercajxo	eksportaĵo		NULL	Ausfuhrgut	
+ekspor.0i	eksporti		NULL	NULL	NULL
+ekspor.0i.EKON	eksporti	1	NULL	exportieren	
+ekspor.0i.EKON	eksporti	1	NULL	ausführen	
+ekspor.0i.KOMP	eksporti	2	NULL	exportieren	
+ekspor.0isto	eksportisto		NULL	Exporteur	
+ekspor.0isto.komercisto	eksportisto		NULL	Exporteur	
+ekspor.0o	eksporto		NULL	NULL	NULL
+ekspor.0o.eksportado	eksporto	1	NULL	NULL	NULL
+ekspor.0o.eksportajxo	eksporto	2	NULL	NULL	NULL
+ekspoz.0i	ekspozi		NULL	ausstellen	
+ekspoz1.0ejo	ekspoziciejo		NULL	Ausstellungsraum	
+ekspoz1.0ejo	ekspoziciejo		NULL	Ausstellungshalle	
+ekspoz1.0ejo	ekspoziciejo		NULL	Präsentationsraum	
+ekspoz1.0ejo	ekspoziciejo		NULL	Schauraum	
+ekspoz1.0ejo.ARKI	ekspoziciejo		NULL	Ausstellungsraum	
+ekspoz1.0ejo.ARKI	ekspoziciejo		NULL	Ausstellungshalle	
+ekspoz1.0ejo.ARKI	ekspoziciejo		NULL	Präsentationsraum	
+ekspoz1.0ejo.ARKI	ekspoziciejo		NULL	Schauraum	
+ekspoz1.0i	ekspozicii		NULL	ausstellen	
+ekspoz1.0i	ekspozicii		NULL	Schau stellen	zur Schau stellen
+ekspoz1.0i.KOMUNE	ekspozicii		NULL	ausstellen	
+ekspoz1.0i.KOMUNE	ekspozicii		NULL	Schau stellen	zur Schau stellen
+ekspoz1.0o	ekspozicio		NULL	NULL	NULL
+ekspoz1.0o.kolekto	ekspozicio	2	NULL	Ausgestelltes	
+ekspoz1.0o.kolekto	ekspozicio	2	NULL	ausgestellte Ware	
+ekspoz1.0o.kolekto	ekspozicio	2	NULL	ausgestelltes Objekt	
+ekspoz1.0o.kolekto	ekspozicio	2	NULL	Schauware	
+ekspoz1.0o.kolekto	ekspozicio	2	NULL	Exponat	
+ekspoz1.0o.prezentado	ekspozicio	1	NULL	Ausstellung	
+ekspoz1.0o.prezentado	ekspozicio	1	NULL	Schau	
+ekspre.0a	ekspresa		NULL	NULL	NULL
+ekspre.0a.rapidega	ekspresa		NULL	Schnell-	
+ekspre.0a.rapidega	ekspresa		NULL	Eil-	
+ekspre.0a.rapidega	ekspresa		NULL	D-	
+ekspre.0o	ekspreso		NULL	NULL	NULL
+ekspre.0o.FER	ekspreso	2	NULL	Eilzug	
+ekspre.0o.FER	ekspreso	2	NULL	D-Zug	
+ekspre.0o.FER	ekspreso	2	NULL	Schnellzug	
+ekspre.0o.FER	ekspreso	2	NULL	Fernschnellzug	
+ekspre.0o.POSX	ekspreso	1	NULL	Eilbote	
+ekspre.0o.POSX	ekspreso	1	NULL	Eilkurier	
+ekspre.0o.POSX	ekspreso	1	NULL	Expresskurier	
+ekspresionism.0a	ekspresionisma		NULL	expressionistisch	
+ekspresionism.0a.BELA	ekspresionisma		NULL	expressionistisch	
+ekspresionism.0o	ekspresionismo		NULL	Expressionismus	
+ekspresionism.0o.BELA	ekspresionismo		NULL	Expressionismus	
+ekspresionist.0o	ekspresionisto		NULL	NULL	NULL
+ekspresionist.0o.BELA	ekspresionisto		NULL	Expressionist	
+ekstaz.0i	ekstazi		NULL	Ekstase	in Ekstase sein
+ekstaz.0i	ekstazi		NULL	verzückt	verzückt sein
+ekstaz.0o	ekstazo		NULL	Ekstase	
+ekstaz.0o	ekstazo		NULL	Verzückung	
+ekstazi.0o	ekstazio		NULL	Ecstasy	
+ekstazi.0o.MED	ekstazio		NULL	Ecstasy	
+ekstem.0o	ekstemporalo		NULL	Extemporale	
+ekstem.0o	ekstemporalo		NULL	unangekündigte Arbeit	
+ekstem.0o	ekstemporalo		NULL	Probearbeit	
+ekstem.0o.ekzerco	ekstemporalo		NULL	Extemporale	
+ekstem.0o.ekzerco	ekstemporalo		NULL	unangekündigte Arbeit	
+ekstem.0o.ekzerco	ekstemporalo		NULL	Probearbeit	
+ekster.0	ekster		ekz_26	NULL	NULL
+ekster.0	ekster		uv_E	NULL	NULL
+ekster.0.kie	ekster	1	ekz_26	außerhalb	
+ekster.0.kie	ekster	1	uv_E	außerhalb	
+ekster.0.krom	ekster	2	ekz_26	außer	
+ekster.0.krom	ekster	2	uv_E	außer	
+ekster.0a	ekstera		NULL	äußerer	
+ekster.0a.malena	ekstera	1	NULL	äußerer	
+ekster.0a.randa	ekstera	2	NULL	äußerer	
+ekster.0e	ekstere		NULL	außen	
+ekster.0e	ekstere		NULL	außerhalb	
+ekster.0e	ekstere		NULL	draußen	
+ekster.0e.malene	ekstere	1	NULL	außen	
+ekster.0e.malene	ekstere	1	NULL	außerhalb	
+ekster.0e.malene	ekstere	1	NULL	draußen	
+ekster.0e.rande	ekstere	2	NULL	außen	
+ekster.0e.rande	ekstere	2	NULL	außerhalb	
+ekster.0e.rande	ekstere	2	NULL	draußen	
+ekster.0en	eksteren		NULL	NULL	NULL
+ekster.0igxi	eksteriĝi		NULL	aussteigen	
+ekster.0igxi.eliri	eksteriĝi		NULL	aussteigen	
+ekster.0o0ajxo	ekstero eksteraĵo		NULL	Äußere	
+ekster.0o0ajxo	ekstero eksteraĵo		NULL	Aussehen	
+ekster.0ulo	eksterulo		NULL	NULL	NULL
+ekster.0ulo.fremdulo	eksterulo	1	NULL	Außenstehender	
+ekster.0ulo.fremdulo	eksterulo	1	NULL	Fremder	
+ekster.0ulo.lernanto	eksterulo	2	NULL	Heimschläfer	
+ekster.0ulo.lernanto	eksterulo	2	NULL	Externer	
+ekster.al0	al ekster		NULL	NULL	NULL
+ekster.al0	ekster ...-n		NULL	NULL	NULL
+ekster1.0i	ekstermi		NULL	ausrotten	
+ekster1.0i	ekstermi		NULL	vertilgen	
+ekster1.0i	ekstermi		NULL	auslöschen	
+ekster1.0i	ekstermi		NULL	vernichten	
+ekster2.0i	eksterpoli		NULL	extrapolieren	
+ekster2.0i	ekstrapoli		NULL	extrapolieren	
+ekstr.0a	ekstra		NULL	NULL	NULL
+ekstr.0a.aldona	ekstra	1	NULL	Sonder-	
+ekstr.0a.aldona	ekstra	1	NULL	Extra-	
+ekstr.0a.aldona	ekstra	1	NULL	zusätzlich	
+ekstr.0a.aldona	ekstra	1	NULL	Reihe	außer der Reihe
+ekstr.0a.aldona	ekstra	1	NULL	sonstige	
+ekstr.0a.eksterordinara	ekstra	2	NULL	NULL	NULL
+ekstra.0i	ekstrakti		NULL	NULL	NULL
+ekstra.0i.FIG	ekstrakti	3	NULL	herausziehen	
+ekstra.0i.FIG	ekstrakti	3	NULL	ableiten	
+ekstra.0i.KEM	ekstrakti	1	NULL	herstellen	einen Auszug herstellen
+ekstra.0i.KEM	ekstrakti	1	NULL	extrahieren	
+ekstra.0i.TIP	ekstrakti	2	NULL	anfertigen	einen Auszug anfertigen
+ekstra.0i.TIP	ekstrakti	2	NULL	zusammenfassen	
+ekstra.0o	ekstrakto		NULL	NULL	NULL
+ekstra.0o.TEK	ekstrakto	1	NULL	Auszug	
+ekstra.0o.TEK	ekstrakto	1	NULL	Extrakt	
+ekstra.0o.TIP	ekstrakto	2	NULL	Auszug	
+ekstra.0o.TIP	ekstrakto	2	NULL	Zusammenfassung	
+ekstra1.0a	ekstravaganca		NULL	extravagant	
+ekstra1.0a	ekstravaganca		NULL	verstiegen	
+ekstra1.0a	ekstravaganca		NULL	abgehoben	
+ekstra1.0a	ekstravaganca		NULL	übergeschnappt	
+ekstra1.0a.io	ekstravaganca	1	NULL	extravagant	
+ekstra1.0a.io	ekstravaganca	1	NULL	verstiegen	
+ekstra1.0a.io	ekstravaganca	1	NULL	abgehoben	
+ekstra1.0a.io	ekstravaganca	1	NULL	übergeschnappt	
+ekstra1.0a.iu	ekstravaganca	2	NULL	extravagant	
+ekstra1.0a.iu	ekstravaganca	2	NULL	verstiegen	
+ekstra1.0a.iu	ekstravaganca	2	NULL	abgehoben	
+ekstra1.0a.iu	ekstravaganca	2	NULL	übergeschnappt	
+ekstra1.0i	ekstravaganci		NULL	extravagant	sich extravagant benehmen
+ekstra1.0i	ekstravaganci		NULL	verstiegen	verstiegen sein
+ekstra1.0i	ekstravaganci		NULL	überspannt	überspannt handeln
+ekstra1.0i	ekstravaganci		NULL	überschnappen	
+ekstra1.0i.iu	ekstravaganci		NULL	extravagant	sich extravagant benehmen
+ekstra1.0i.iu	ekstravaganci		NULL	verstiegen	verstiegen sein
+ekstra1.0i.iu	ekstravaganci		NULL	überspannt	überspannt handeln
+ekstra1.0i.iu	ekstravaganci		NULL	überschnappen	
+ekstra1.0o	ekstravaganco		NULL	Extravaganz	
+ekstra1.0o	ekstravaganco		NULL	Überspanntheit	
+ekstra1.0o.MOR	ekstravaganco		NULL	Extravaganz	
+ekstra1.0o.MOR	ekstravaganco		NULL	Überspanntheit	
+ekstra2.0i	ekstradicii		NULL	ausliefern	
+ekstra2.0i	ekstradicii		NULL	überstellen	
+ekstra2.0i.JUR	ekstradicii		NULL	ausliefern	
+ekstra2.0i.JUR	ekstradicii		NULL	überstellen	
+ekstra2.0o	ekstradicio		NULL	Auslieferung	
+ekstravert.0a	ekstraverta		NULL	NULL	NULL
+ekstravert.0a.PSI	ekstraverta		NULL	NULL	NULL
+ekstravert.0ulo	ekstravertulo		NULL	NULL	NULL
+ekstravert.0ulo.PSI	ekstravertulo		NULL	NULL	NULL
+ekstravertit.0a	ekstravertita		NULL	extrovertiert	
+ekstravertit.0a.PSI	ekstravertita		NULL	extrovertiert	
+ekstravertit.0o	ekstravertito		NULL	Extrovertierter	
+ekstravertit.0o.PSI	ekstravertito		NULL	Extrovertierter	
+ekstre.0a	ekstrema		NULL	NULL	NULL
+ekstre.0a.kvante	ekstrema	2	NULL	NULL	NULL
+ekstre.0a.space	ekstrema	1	NULL	NULL	NULL
+ekstre.0ajxo	ekstremaĵo		NULL	Spitze	
+ekstre.0ajxo	ekstremaĵo		NULL	Ende	
+ekstre.0ajxo.space	ekstremaĵo		NULL	Spitze	
+ekstre.0ajxo.space	ekstremaĵo		NULL	Ende	
+ekstre.0e	ekstreme		NULL	äußerst	
+ekstre.0e	ekstreme		NULL	extrem	
+ekstre.0e.kvante	ekstreme		NULL	äußerst	
+ekstre.0e.kvante	ekstreme		NULL	extrem	
+ekstre.0eco	ekstremeco		NULL	Äußerstes	
+ekstre.0eco	ekstremeco		NULL	Extrem	
+ekstre.0eco.kvante	ekstremeco		NULL	Äußerstes	
+ekstre.0eco.kvante	ekstremeco		NULL	Extrem	
+ekstre.0ismo	ekstremismo		NULL	NULL	NULL
+ekstre.0ismo.POL	ekstremismo		NULL	NULL	NULL
+ekstre.0o	ekstremo		NULL	NULL	NULL
+ekstre.0o.ajxo	ekstremo	1	NULL	NULL	NULL
+ekstre.0o.eco	ekstremo	2	NULL	NULL	NULL
+ekstre.0umejo	ekstremumejo		NULL	NULL	NULL
+ekstre.0umiganto	ekstremumiganto		NULL	Extremstelle	
+ekstre.0umiganto	ekstremumiganto		NULL	Extremalstelle	
+ekstre.0umo	ekstremumo		NULL	Extremum	
+ekstre.0umo	ekstremumo		NULL	Extremwert	
+eksud.0ajxo	eksudaĵo		NULL	Exsudat	
+eksud.0ajxo	eksudaĵo		NULL	Absonderung	
+eksud.0ajxo.FIZL	eksudaĵo		NULL	Exsudat	
+eksud.0ajxo.FIZL	eksudaĵo		NULL	Absonderung	
+eksud.0i	eksudi		NULL	ausschwitzen	
+eksud.0i	eksudi		NULL	absondern	
+eksud.0i.FIZL	eksudi		NULL	ausschwitzen	
+eksud.0i.FIZL	eksudi		NULL	absondern	
+eksud.0o	eksudo		NULL	Ausschwitzen	
+eksud.0o	eksudo		NULL	Absonderung	
+eksud.0o.FIZL	eksudo		NULL	Ausschwitzen	
+eksud.0o.FIZL	eksudo		NULL	Absonderung	
+eksvot.0o	eksvoto		NULL	Votivgabe	
+eksvot.0o.REL	eksvoto		NULL	Votivgabe	
+ektopi.0o	ektopio		NULL	Organverlagerung	
+ektopi.0o	ektopio		NULL	Ektopie	
+ektrop.0o	ektropio		NULL	Ektropium	
+ektrop.0o	ektropio		NULL	Auswärtskehrung	
+ektrop.0o	ektropio		NULL	Ausstülpung	
+ektrop.0o	ektropio		NULL	ectropium	
+ektrop.0o	ektropio		NULL	kifordulás	
+ektrop.0o.MED	ektropio		NULL	Ektropium	
+ektrop.0o.MED	ektropio		NULL	Auswärtskehrung	
+ektrop.0o.MED	ektropio		NULL	Ausstülpung	
+ektrop.0o.MED	ektropio		NULL	ectropium	
+ektrop.0o.MED	ektropio		NULL	kifordulás	
+eku.0o	ekuo		NULL	NULL	NULL
+eku.0o.EKON	ekuo		NULL	NULL	NULL
+ekumen.0a	ekumena		NULL	ökumenisch	
+ekumen.0ismo	ekumenismo		NULL	ökumenisch	ökumenische Bewegung
+ekumen.0o	ekumeno		NULL	Ökumene	
+ekv.0o	ekvo		NULL	Pferde	
+ekv.0o	ekvo		NULL	Einhufer	
+ekvaci.0aro	ekvaciaro		NULL	Gleichungssystem	
+ekvaci.0igi	ekvaciigi		NULL	Gleichung	eine Gleichung finden (für einen Sachverhalt)
+ekvaci.0o	ekvacio		oa_2	Gleichung	
+ekvaci.diferenciala0o	diferenciala ekvacio		NULL	Differentialgleichung	
+ekvaci.integrala0o	integrala ekvacio		NULL	Integralgleichung	
+ekvaci.ne0o	neekvacio		NULL	Ungleichung	
+ekvador.E0o	Ekvadoro		oa_8	Ecuador	
+ekvato.0o	ekvatoro		NULL	Äquator	
+ekvato1.0o	ekvatorialo		NULL	Äquatorial	
+ekved.0oj	ekvedoj		NULL	Pferde	
+ekved.0oj	ekvedoj		NULL	Einhufer	
+ekvili.0i	ekvilibri		NULL	Gleichgewicht	im Gleichgewicht sein
+ekvili.0i	ekvilibri		NULL	halten	das Gleichgewicht halten
+ekvili.0i	ekvilibri		NULL	ausgleichen	
+ekvili.0igi	ekvilibrigi		NULL	Gleichgewicht	ins Gleichgewicht bringen
+ekvili.0igi	ekvilibrigi		NULL	ausbalancieren	
+ekvili.0igi	ekvilibrigi		NULL	austarieren	
+ekvili.0isto	ekvilibristo		NULL	Äquilibrist	
+ekvili.0isto	ekvilibristo		NULL	Gleichgewichtsakrobat	
+ekvili.0isto	ekvilibristo		NULL	Seiltänzer	
+ekvili.0isto.TEA	ekvilibristo		NULL	Äquilibrist	
+ekvili.0isto.TEA	ekvilibristo		NULL	Gleichgewichtsakrobat	
+ekvili.0isto.TEA	ekvilibristo		NULL	Seiltänzer	
+ekvili.0o	ekvilibro		oa_2	Gleichgewicht	
+ekvili.mal0igi	malekvilibrigi		NULL	Gleichgewicht	aus dem Gleichgewicht bringen
+ekvili.mal0igi	malekvilibrigi		NULL	destabilisieren	
+ekvino.0apunkto	ekvinoksa punkto		NULL	NULL	NULL
+ekvino.0apunkto.AST	ekvinoksa punkto		NULL	NULL	NULL
+ekvino.0o	ekvinokso		NULL	Tagundnachtgleiche	
+ekvino.0o	ekvinokso		NULL	Äquinoktium	
+ekvino.0o.AST	ekvinokso	1	NULL	Tagundnachtgleiche	
+ekvino.0o.AST	ekvinokso	1	NULL	Äquinoktium	
+ekvino.0o.punkto	ekvinokso	2	NULL	Tagundnachtgleiche	
+ekvino.0o.punkto	ekvinokso	2	NULL	Äquinoktium	
+ekvipo.0a	ekvipolenta		NULL	äquipollent	
+ekvipo.0a.punktoparoj	ekvipolenta	2	NULL	äquipollent	
+ekvipo.0a.strekoj	ekvipolenta	1	NULL	äquipollent	
+ekviva.0a	ekvivalenta		NULL	äquivalent	
+ekviva.0a.KOMUNE	ekvivalenta	1	NULL	äquivalent	
+ekviva.0a.MAT	ekvivalenta	2	NULL	äquivalent	
+ekviva.0i	ekvivalenti		NULL	entsprechen	
+ekviva.0o	ekvivalento		NULL	Gegenwert	
+ekviva.0o	ekvivalento		NULL	Äquivalent	
+ekviva.0o.logika	ekvivalento	3	NULL	Gegenwert	
+ekviva.0o.logika	ekvivalento	3	NULL	Äquivalent	
+ekviva.0o.logika	ekvivalento	3	NULL	Äquivalenz	
+ekvizet.0o	ekvizeto		NULL	Schachtelhalm	
+ekvizet.0o.genro	ekvizeto		NULL	Schachtelhalm	
+ekvizet.0oj	ekvizetoj		NULL	Schachtelhalme	
+ekvizet.0oj.klaso	ekvizetoj		NULL	Schachtelhalme	
+ekzakt.0a	ekzakta		oa_4	genau	absolut genau
+ekzakt.0a	ekzakta		oa_4	genau	absolut genau
+ekzakt.0a	ekzakta		oa_4	exakt	
+ekzakt.0a	ekzakta		oa_4	exakt	
+ekzakt.0a.SCI	ekzakta	2	oa_4	genau	absolut genau
+ekzakt.0a.SCI	ekzakta	2	oa_4	genau	absolut genau
+ekzakt.0a.SCI	ekzakta	2	oa_4	exakt	
+ekzakt.0a.SCI	ekzakta	2	oa_4	exakt	
+ekzakt.0e	ekzakte		NULL	genau	
+ekzakt.0e	ekzakte		NULL	exakt	
+ekzalt.0i	ekzalti		NULL	aufregen	
+ekzalt.0i	ekzalti		NULL	exaltieren	
+ekzalt.0i	ekzalti		NULL	Aufregung	in Aufregung versetzen
+ekzalt.0i	ekzalti		NULL	Hysterie	in Hysterie versetzen
+ekzalt.0i	ekzalti		NULL	Stimmung	in exaltierte Stimmung versetzen
+ekzalt.0i.PSI	ekzalti		NULL	aufregen	
+ekzalt.0i.PSI	ekzalti		NULL	exaltieren	
+ekzalt.0i.PSI	ekzalti		NULL	Aufregung	in Aufregung versetzen
+ekzalt.0i.PSI	ekzalti		NULL	Hysterie	in Hysterie versetzen
+ekzalt.0i.PSI	ekzalti		NULL	Stimmung	in exaltierte Stimmung versetzen
+ekzalt.0o	ekzalto		NULL	Aufregung	
+ekzalt.0o	ekzaltiĝo		NULL	Aufregung	
+ekzalt.0o	ekzalto		NULL	Aufruhr	innere Aufruhr
+ekzalt.0o	ekzaltiĝo		NULL	Aufruhr	innere Aufruhr
+ekzalt.0o	ekzalto		NULL	Überspanntheit	
+ekzalt.0o	ekzaltiĝo		NULL	Überspanntheit	
+ekzalt.0o.PSI	ekzalto		NULL	Aufregung	
+ekzalt.0o.PSI	ekzaltiĝo		NULL	Aufregung	
+ekzalt.0o.PSI	ekzalto		NULL	Aufruhr	innere Aufruhr
+ekzalt.0o.PSI	ekzaltiĝo		NULL	Aufruhr	innere Aufruhr
+ekzalt.0o.PSI	ekzalto		NULL	Überspanntheit	
+ekzalt.0o.PSI	ekzaltiĝo		NULL	Überspanntheit	
+ekzame.0i	ekzameni		NULL	NULL	NULL
+ekzame.0i.PED	ekzameni	2	NULL	prüfen	
+ekzame.0i.PED	ekzameni	2	NULL	examinieren	
+ekzame.0i.PED	ekzameni	2	NULL	mustern	
+ekzame.0i.esplori	ekzameni	1	NULL	untersuchen	
+ekzame.0i.esplori	ekzameni	1	NULL	prüfen	
+ekzame.0igxi	ekzameniĝi		NULL	NULL	NULL
+ekzame.0igxi.KOMUNE	ekzameniĝi		NULL	NULL	NULL
+ekzame.0isto	ekzamenisto		NULL	NULL	NULL
+ekzame.0isto.KOMUNE	ekzamenisto		NULL	NULL	NULL
+ekzame.0o	ekzameno		NULL	NULL	NULL
+ekzame.0o.PED	ekzameno	2	NULL	Prüfung	
+ekzame.0o.PED	ekzameno	2	NULL	Examen	
+ekzame.0o.PED	ekzameno	2	NULL	Musterung	
+ekzame.0o.PED	ekzameno	2	NULL	Leistungskontrolle	
+ekzame.0o.esploro	ekzameno	1	NULL	Untersuchung	
+ekzame.0o.esploro	ekzameno	1	NULL	Prüfung	
+ekzant.0o	ekzantemo		NULL	Ausschlag	
+ekzant.0o	ekzantemo		NULL	Hautausschlag	
+ekzant.0o	ekzantemo		NULL	Exanthem	Exanthem [fak]
+ekzant.0o.MED	ekzantemo		NULL	Ausschlag	
+ekzant.0o.MED	ekzantemo		NULL	Hautausschlag	
+ekzant.0o.MED	ekzantemo		NULL	Exanthem	Exanthem [fak]
+ekzark.0o	ekzarko		NULL	Exarch	
+ekzark.0o	ekzarĥo		NULL	Exarch	
+ekzark.0o.KRI	ekzarko	2	NULL	Exarch	
+ekzark.0o.KRI	ekzarĥo	2	NULL	Exarch	
+ekzark.0o.RANGO	ekzarko	1	NULL	Exarch	
+ekzark.0o.RANGO	ekzarĥo	1	NULL	Exarch	
+ekzege.0isto	ekzegezisto		NULL	Interpret	
+ekzege.0isto	ekzegezisto		NULL	Textausleger	
+ekzege.0isto	ekzegezisto		NULL	Bibelausleger	
+ekzege.0isto	ekzegezisto		NULL	Exeget	
+ekzege.0o	ekzegezo		NULL	Textauslegung	
+ekzege.0o	ekzegezo		NULL	Bibelauslegung	
+ekzege.0o	ekzegezo		NULL	Exegese	
+ekzeku.0ejo	ekzekutejo		NULL	NULL	NULL
+ekzeku.0ejo.JUR	ekzekutejo		NULL	NULL	NULL
+ekzeku.0i	ekzekuti		NULL	hinrichten	
+ekzeku.0i	ekzekuti		NULL	exekutieren	
+ekzeku.0i.JUR	ekzekuti		NULL	hinrichten	
+ekzeku.0i.JUR	ekzekuti		NULL	exekutieren	
+ekzeku.0isto	ekzekutisto		NULL	Henker	
+ekzeku.0isto	ekzekutisto		NULL	Scharfrichter	
+ekzeku.0isto.JUR	ekzekutisto		NULL	Henker	
+ekzeku.0isto.JUR	ekzekutisto		NULL	Scharfrichter	
+ekzeku.0o	ekzekuto		NULL	Hinrichtung	
+ekzeku.0o	ekzekuto		NULL	Exekution	
+ekzeku.0o.JUR	ekzekuto		NULL	Hinrichtung	
+ekzeku.0o.JUR	ekzekuto		NULL	Exekution	
+ekzeku.elektro0i	elektroekzekuti		NULL	auf dem elektrischen Stuhl hinrichten	
+ekzeku.elektro0i.JUR	elektroekzekuti		NULL	auf dem elektrischen Stuhl hinrichten	
+ekzekuci.0i	ekzekucii		NULL	NULL	NULL
+ekzekuci.0i.JUR	ekzekucii		NULL	vollstrecken	vollstrecken (Jur.)
+ekzekuci.0isto	ekzekuciisto		NULL	NULL	NULL
+ekzekuci.0isto.JUR	ekzekuciisto		NULL	Gerichtsvollzieher	
+ekzekutiv.0o	ekzekutivo		NULL	NULL	NULL
+ekzekutiv.0o.POL	ekzekutivo		NULL	Exekutive	
+ekzem.0o	ekzemo		NULL	Ekzem	
+ekzem.0o	ekzemo		NULL	Juckflechte	
+ekzem.0o	ekzemo		NULL	Dermatitis	
+ekzem.0o.MED	ekzemo		NULL	Ekzem	
+ekzem.0o.MED	ekzemo		NULL	Juckflechte	
+ekzem.0o.MED	ekzemo		NULL	Dermatitis	
+ekzemp.0e	ekzemple		NULL	Beispiel	zum Beispiel
+ekzemp.0e	ekzemple		NULL	beispielsweise	
+ekzemp.0e.ARG	ekzemple		NULL	Beispiel	zum Beispiel
+ekzemp.0e.ARG	ekzemple		NULL	beispielsweise	
+ekzemp.0igi	ekzempligi		NULL	illustrieren	mit Beispielen illustrieren
+ekzemp.0igi	ekzempligi		NULL	erläutern	an Hand von Beispielen erläutern
+ekzemp.0igi	ekzempligi		NULL	ausführen	beispielhaft ausführen
+ekzemp.0igi.KOMUNE	ekzempligi		NULL	illustrieren	mit Beispielen illustrieren
+ekzemp.0igi.KOMUNE	ekzempligi		NULL	erläutern	an Hand von Beispielen erläutern
+ekzemp.0igi.KOMUNE	ekzempligi		NULL	ausführen	beispielhaft ausführen
+ekzemp.0o	ekzemplo		ekz_27	Beispiel	
+ekzemp.0o	ekzemplo		ekz_27	Muster	
+ekzemp.0o	ekzemplo		ekz_27	Vorbild	
+ekzemp.0o.KOMUNE	ekzemplo		ekz_27	Beispiel	
+ekzemp.0o.KOMUNE	ekzemplo		ekz_27	Muster	
+ekzemp.0o.KOMUNE	ekzemplo		ekz_27	Vorbild	
+ekzemp.kontraux0o	kontraŭekzemplo		NULL	Gegenbeispiel	
+ekzemp.kontraux0o.KOMUNE	kontraŭekzemplo	1	NULL	Gegenbeispiel	
+ekzemp.kontraux0o.MAT	kontraŭekzemplo	2	NULL	Gegenbeispiel	
+ekzemp.sen0a	senekzempla		NULL	beispiellos	
+ekzemp.sen0a.okazo	senekzempla		NULL	beispiellos	
+ekzemp1.0o	ekzemplero		NULL	Exemplar	
+ekzemp1.prov0o	provekzemplero		NULL	Probeexemplar	
+ekzerc.0ado	ekzercado		NULL	Übung	
+ekzerc.0ado	ekzercado		NULL	Drill	
+ekzerc.0ado	ekzercado		NULL	Training	
+ekzerc.0ado.PED	ekzercado		NULL	Übung	
+ekzerc.0ado.PED	ekzercado		NULL	Drill	
+ekzerc.0ado.PED	ekzercado		NULL	Training	
+ekzerc.0aro	ekzercaro		NULL	Übungsreihe	
+ekzerc.0aro.PED	ekzercaro		NULL	Übungsreihe	
+ekzerc.0i	ekzerci		NULL	NULL	NULL
+ekzerc.0i.PED	ekzerci	1	NULL	üben (sich, mit)	
+ekzerc.0i.PED	ekzerci	1	NULL	exerzieren	exerzieren (soldatojn)
+ekzerc.0i.PED	ekzerci	1	NULL	ausbilden	
+ekzerc.0i.apliki	ekzerci	2	NULL	ausüben	
+ekzerc.0i.apliki	ekzerci	2	NULL	einüben	
+ekzerc.0i.apliki	ekzerci	2	NULL	praktizieren	
+ekzerc.0igxi	ekzerciĝi		NULL	üben	sich üben
+ekzerc.0igxi.PED	ekzerciĝi		NULL	üben	sich üben
+ekzerc.0iteco	ekzerciteco		NULL	Geübtheit	
+ekzerc.0iteco	ekzerciteco		NULL	Gewandtheit	
+ekzerc.0iteco	ekzerciteco		NULL	Geschicklichkeit	
+ekzerc.0iteco.PED	ekzerciteco		NULL	Geübtheit	
+ekzerc.0iteco.PED	ekzerciteco		NULL	Gewandtheit	
+ekzerc.0iteco.PED	ekzerciteco		NULL	Geschicklichkeit	
+ekzerc.0o	ekzerco		NULL	Übung	
+ekzerc.0o.PED	ekzerco		NULL	Übung	
+ekzerc.stil0o	stilekzerco		NULL	Stilübung	
+ekzerc.stil0o.PED	stilekzerco		NULL	Stilübung	
+ekzerg.0o	ekzergo		NULL	Inschrift	Platz für die Inschrift
+ekzerg.0o	ekzergo		NULL	Inschrift	
+ekzil.0ejo	ekzilejo		NULL	Verbannungsort	
+ekzil.0ejo	ekzilejo		NULL	Exil	
+ekzil.0i	ekzili		NULL	verbannen	
+ekzil.0i.POL	ekzili		NULL	verbannen	
+ekzil.0igxi	ekziliĝi		NULL	Exil	ins Exil gehen
+ekzil.0igxi.POL	ekziliĝi		NULL	Exil	ins Exil gehen
+ekzil.0ito	ekzilito		NULL	Verbannter	
+ekzil.0ito	ekzilito		NULL	Exilant	
+ekzil.0ito.POL	ekzilito		NULL	Verbannter	
+ekzil.0ito.POL	ekzilito		NULL	Exilant	
+ekzil.0o	ekzilo		NULL	Verbannung	
+ekzil.0o	ekzilo		NULL	Exil	
+ekzil.0o.POL	ekzilo		NULL	Verbannung	
+ekzil.0o.POL	ekzilo		NULL	Exil	
+ekzist.0ado	ekzistado		NULL	Dasein	
+ekzist.0ado	ekzistado		NULL	Existenz	
+ekzist.0ado.estado	ekzistado	1	NULL	Dasein	
+ekzist.0ado.estado	ekzistado	1	NULL	Existenz	
+ekzist.0ado.vivado	ekzistado	2	NULL	Dasein	
+ekzist.0ado.vivado	ekzistado	2	NULL	Existenz	
+ekzist.0ajxo	ekzistaĵo		NULL	Wesen	
+ekzist.0ajxo	ekzistaĵo		NULL	Geschöpf	
+ekzist.0ajxo.estajxo	ekzistaĵo	1	NULL	Wesen	
+ekzist.0ajxo.estajxo	ekzistaĵo	1	NULL	Geschöpf	
+ekzist.0ajxo.vivajxo	ekzistaĵo	2	NULL	Wesen	
+ekzist.0ajxo.vivajxo	ekzistaĵo	2	NULL	Geschöpf	
+ekzist.0i	ekzisti		NULL	bestehen	
+ekzist.0i	ekzisti		NULL	sein	da sein
+ekzist.0i	ekzisti		NULL	sein	
+ekzist.0i	ekzisti		NULL	existieren	
+ekzist.0i	ekzisti		NULL	geben	geben (sein)
+ekzist.0i.KOMUNE	ekzisti		NULL	bestehen	
+ekzist.0i.KOMUNE	ekzisti		NULL	sein	da sein
+ekzist.0i.KOMUNE	ekzisti		NULL	sein	
+ekzist.0i.KOMUNE	ekzisti		NULL	existieren	
+ekzist.0i.KOMUNE	ekzisti		NULL	geben	geben (sein)
+ekzist.0ismo	ekzistismo		NULL	NULL	NULL
+ekzist.0ismo	ekzistadismo		NULL	NULL	NULL
+ekzist.0ismo.FIL	ekzistismo		NULL	NULL	NULL
+ekzist.0ismo.FIL	ekzistadismo		NULL	NULL	NULL
+ekzist.kun0o	kunekzisto		NULL	NULL	NULL
+ekzist.kun0o	kunekzistado		NULL	NULL	NULL
+ekzist.kun0o.KOMUNE	kunekzisto		NULL	NULL	NULL
+ekzist.kun0o.KOMUNE	kunekzistado		NULL	NULL	NULL
+ekzistencialism.0o	ekzistencialismo		NULL	Existenzialismus	
+ekzistencialism.0o.FIL	ekzistencialismo		NULL	Existenzialismus	
+ekzogami.0o	ekzogamio		NULL	Exogamie	
+ekzogami.0o.GEN	ekzogamio		NULL	Exogamie	
+ekzokrin.0a	ekzokrina		NULL	NULL	NULL
+ekzokrin.0a.FIZL	ekzokrina	2	NULL	NULL	NULL
+ekzokrin.0a.KOMUNE	ekzokrina	1	NULL	NULL	NULL
+ekzomid.0o	ekzomido		NULL	NULL	NULL
+ekzomid.0o	eksomido		NULL	NULL	NULL
+ekzomid.0o.TEKS	ekzomido		NULL	NULL	NULL
+ekzomid.0o.TEKS	eksomido		NULL	NULL	NULL
+ekzorc.0ajxo	ekzorcaĵo		NULL	Exorzismus	
+ekzorc.0ajxo	ekzorcaĵo		NULL	Teufelsaustreibung	
+ekzorc.0ajxo	ekzorcaĵo		NULL	Teufelsbeschwörung	
+ekzorc.0ajxo.REL	ekzorcaĵo		NULL	Exorzismus	
+ekzorc.0ajxo.REL	ekzorcaĵo		NULL	Teufelsaustreibung	
+ekzorc.0ajxo.REL	ekzorcaĵo		NULL	Teufelsbeschwörung	
+ekzorc.0i	ekzorci		NULL	exorzieren	
+ekzorc.0i	ekzorcizi		NULL	exorzieren	
+ekzorc.0i	ekzorci		NULL	austreiben	
+ekzorc.0i	ekzorcizi		NULL	austreiben	
+ekzorc.0i.REL	ekzorci		NULL	exorzieren	
+ekzorc.0i.REL	ekzorcizi		NULL	exorzieren	
+ekzorc.0i.REL	ekzorci		NULL	austreiben	
+ekzorc.0i.REL	ekzorcizi		NULL	austreiben	
+ekzorc.0isto	ekzorcisto		NULL	Exorzist	
+ekzorc.0isto.REL	ekzorcisto		NULL	Exorzist	
+ekzorc.0o	ekzorco		NULL	NULL	NULL
+ekzorc.0o	ekzorcizo		NULL	NULL	NULL
+ekzorc.0o.ekzorcado	ekzorco	1	NULL	NULL	NULL
+ekzorc.0o.ekzorcado	ekzorcizo	1	NULL	NULL	NULL
+ekzorc.0o.ekzorcajxo	ekzorco	2	NULL	NULL	NULL
+ekzorc.0o.ekzorcajxo	ekzorcizo	2	NULL	NULL	NULL
+ekzoskelet.0o	ekzoskeleto		NULL	NULL	NULL
+ekzoskelet.0o.ZOO	ekzoskeleto		NULL	NULL	NULL
+ekzot.0a	ekzota		NULL	exotisch	
+ekzot.0a	ekzotika		NULL	exotisch	
+ekzot.0a	ekzota		NULL	fremdartig	
+ekzot.0a	ekzotika		NULL	fremdartig	
+ekzot.0a	ekzota		NULL	fremdländisch	
+ekzot.0a	ekzotika		NULL	fremdländisch	
+ekzot.0a.KOMUNE	ekzota		NULL	exotisch	
+ekzot.0a.KOMUNE	ekzotika		NULL	exotisch	
+ekzot.0a.KOMUNE	ekzota		NULL	fremdartig	
+ekzot.0a.KOMUNE	ekzotika		NULL	fremdartig	
+ekzot.0a.KOMUNE	ekzota		NULL	fremdländisch	
+ekzot.0a.KOMUNE	ekzotika		NULL	fremdländisch	
+ekzot.0ajxo	ekzotaĵo		NULL	Exotisches	
+ekzot.0ajxo	ekzotikaĵo		NULL	Exotisches	
+ekzot.0ajxo	ekzotaĵo		NULL	Fremdartiges	
+ekzot.0ajxo	ekzotikaĵo		NULL	Fremdartiges	
+ekzot.0ajxo.KOMUNE	ekzotaĵo		NULL	Exotisches	
+ekzot.0ajxo.KOMUNE	ekzotikaĵo		NULL	Exotisches	
+ekzot.0ajxo.KOMUNE	ekzotaĵo		NULL	Fremdartiges	
+ekzot.0ajxo.KOMUNE	ekzotikaĵo		NULL	Fremdartiges	
+ekzot.0ismo	ekzotismo		NULL	Exotismus	
+ekzot.0ismo.BELA	ekzotismo		NULL	Exotismus	
+ekzot.0o	ekzoto		NULL	Exotik	
+ekzot.0o	ekzotiko		NULL	Exotik	
+ekzot.0o	ekzoteco		NULL	Exotik	
+ekzot.0o	ekzoto		NULL	Fremdartigkeit	
+ekzot.0o	ekzotiko		NULL	Fremdartigkeit	
+ekzot.0o	ekzoteco		NULL	Fremdartigkeit	
+ekzot.0o.KOMUNE	ekzoto		NULL	Exotik	
+ekzot.0o.KOMUNE	ekzotiko		NULL	Exotik	
+ekzot.0o.KOMUNE	ekzoteco		NULL	Exotik	
+ekzot.0o.KOMUNE	ekzoto		NULL	Fremdartigkeit	
+ekzot.0o.KOMUNE	ekzotiko		NULL	Fremdartigkeit	
+ekzot.0o.KOMUNE	ekzoteco		NULL	Fremdartigkeit	
+ekzoterm.0a	ekzoterma		NULL	exotherm	
+ekzoterm.0a	ekzoterma		NULL	exothermisch	
+ekzoterm.0a	ekzoterma		NULL	Wärmeabgabe	unter Wärmeabgabe
+ekzoterm.0a	ekzoterma		NULL	Wärme abgebend	
+el.0	el		gra_fr	aus	
+el.0	el		ekz_10	aus	
+el.0	el		uv_E	aus	
+el.0	el		akkor_fr	aus	
+el.0	el		akkor_pl	aus	
+el.0	el		gra_fr	aus ... heraus	
+el.0	el		ekz_10	aus ... heraus	
+el.0	el		uv_E	aus ... heraus	
+el.0	el		akkor_fr	aus ... heraus	
+el.0	el		akkor_pl	aus ... heraus	
+el.0	el		gra_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0	el		ekz_10	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0	el		uv_E	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0	el		akkor_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0	el		akkor_pl	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.fonta	el	3	gra_fr	aus	
+el.0.fonta	el	3	ekz_10	aus	
+el.0.fonta	el	3	uv_E	aus	
+el.0.fonta	el	3	akkor_fr	aus	
+el.0.fonta	el	3	akkor_pl	aus	
+el.0.fonta	el	3	gra_fr	aus ... heraus	
+el.0.fonta	el	3	ekz_10	aus ... heraus	
+el.0.fonta	el	3	uv_E	aus ... heraus	
+el.0.fonta	el	3	akkor_fr	aus ... heraus	
+el.0.fonta	el	3	akkor_pl	aus ... heraus	
+el.0.fonta	el	3	gra_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.fonta	el	3	ekz_10	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.fonta	el	3	uv_E	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.fonta	el	3	akkor_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.fonta	el	3	akkor_pl	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.materialo	el	5	gra_fr	aus	
+el.0.materialo	el	5	ekz_10	aus	
+el.0.materialo	el	5	uv_E	aus	
+el.0.materialo	el	5	akkor_fr	aus	
+el.0.materialo	el	5	akkor_pl	aus	
+el.0.materialo	el	5	gra_fr	aus ... heraus	
+el.0.materialo	el	5	ekz_10	aus ... heraus	
+el.0.materialo	el	5	uv_E	aus ... heraus	
+el.0.materialo	el	5	akkor_fr	aus ... heraus	
+el.0.materialo	el	5	akkor_pl	aus ... heraus	
+el.0.materialo	el	5	gra_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.materialo	el	5	ekz_10	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.materialo	el	5	uv_E	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.materialo	el	5	akkor_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.materialo	el	5	akkor_pl	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.parta	el	4	gra_fr	aus	
+el.0.parta	el	4	ekz_10	aus	
+el.0.parta	el	4	uv_E	aus	
+el.0.parta	el	4	akkor_fr	aus	
+el.0.parta	el	4	akkor_pl	aus	
+el.0.parta	el	4	gra_fr	aus ... heraus	
+el.0.parta	el	4	ekz_10	aus ... heraus	
+el.0.parta	el	4	uv_E	aus ... heraus	
+el.0.parta	el	4	akkor_fr	aus ... heraus	
+el.0.parta	el	4	akkor_pl	aus ... heraus	
+el.0.parta	el	4	gra_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.parta	el	4	ekz_10	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.parta	el	4	uv_E	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.parta	el	4	akkor_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.parta	el	4	akkor_pl	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_akira	el	3	gra_fr	aus	
+el.0.prefikso_akira	el	3	ekz_10	aus	
+el.0.prefikso_akira	el	3	uv_E	aus	
+el.0.prefikso_akira	el	3	akkor_fr	aus	
+el.0.prefikso_akira	el	3	akkor_pl	aus	
+el.0.prefikso_akira	el	3	gra_fr	aus ... heraus	
+el.0.prefikso_akira	el	3	ekz_10	aus ... heraus	
+el.0.prefikso_akira	el	3	uv_E	aus ... heraus	
+el.0.prefikso_akira	el	3	akkor_fr	aus ... heraus	
+el.0.prefikso_akira	el	3	akkor_pl	aus ... heraus	
+el.0.prefikso_akira	el	3	gra_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_akira	el	3	ekz_10	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_akira	el	3	uv_E	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_akira	el	3	akkor_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_akira	el	3	akkor_pl	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_spaca	el	1	gra_fr	aus	
+el.0.prefikso_spaca	el	1	ekz_10	aus	
+el.0.prefikso_spaca	el	1	uv_E	aus	
+el.0.prefikso_spaca	el	1	akkor_fr	aus	
+el.0.prefikso_spaca	el	1	akkor_pl	aus	
+el.0.prefikso_spaca	el	1	gra_fr	aus ... heraus	
+el.0.prefikso_spaca	el	1	ekz_10	aus ... heraus	
+el.0.prefikso_spaca	el	1	uv_E	aus ... heraus	
+el.0.prefikso_spaca	el	1	akkor_fr	aus ... heraus	
+el.0.prefikso_spaca	el	1	akkor_pl	aus ... heraus	
+el.0.prefikso_spaca	el	1	gra_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_spaca	el	1	ekz_10	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_spaca	el	1	uv_E	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_spaca	el	1	akkor_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_spaca	el	1	akkor_pl	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_tuta	el	2	gra_fr	aus	
+el.0.prefikso_tuta	el	2	ekz_10	aus	
+el.0.prefikso_tuta	el	2	uv_E	aus	
+el.0.prefikso_tuta	el	2	akkor_fr	aus	
+el.0.prefikso_tuta	el	2	akkor_pl	aus	
+el.0.prefikso_tuta	el	2	gra_fr	aus ... heraus	
+el.0.prefikso_tuta	el	2	ekz_10	aus ... heraus	
+el.0.prefikso_tuta	el	2	uv_E	aus ... heraus	
+el.0.prefikso_tuta	el	2	akkor_fr	aus ... heraus	
+el.0.prefikso_tuta	el	2	akkor_pl	aus ... heraus	
+el.0.prefikso_tuta	el	2	gra_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_tuta	el	2	ekz_10	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_tuta	el	2	uv_E	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_tuta	el	2	akkor_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.prefikso_tuta	el	2	akkor_pl	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.spaca	el	1	gra_fr	aus	
+el.0.spaca	el	1	ekz_10	aus	
+el.0.spaca	el	1	uv_E	aus	
+el.0.spaca	el	1	akkor_fr	aus	
+el.0.spaca	el	1	akkor_pl	aus	
+el.0.spaca	el	1	gra_fr	aus ... heraus	
+el.0.spaca	el	1	ekz_10	aus ... heraus	
+el.0.spaca	el	1	uv_E	aus ... heraus	
+el.0.spaca	el	1	akkor_fr	aus ... heraus	
+el.0.spaca	el	1	akkor_pl	aus ... heraus	
+el.0.spaca	el	1	gra_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.spaca	el	1	ekz_10	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.spaca	el	1	uv_E	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.spaca	el	1	akkor_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.spaca	el	1	akkor_pl	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.stata	el	2	gra_fr	aus	
+el.0.stata	el	2	ekz_10	aus	
+el.0.stata	el	2	uv_E	aus	
+el.0.stata	el	2	akkor_fr	aus	
+el.0.stata	el	2	akkor_pl	aus	
+el.0.stata	el	2	gra_fr	aus ... heraus	
+el.0.stata	el	2	ekz_10	aus ... heraus	
+el.0.stata	el	2	uv_E	aus ... heraus	
+el.0.stata	el	2	akkor_fr	aus ... heraus	
+el.0.stata	el	2	akkor_pl	aus ... heraus	
+el.0.stata	el	2	gra_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.stata	el	2	ekz_10	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.stata	el	2	uv_E	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.stata	el	2	akkor_fr	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0.stata	el	2	akkor_pl	von	von (i.S.v. "aus einer größeren Anzahl")
+el.0en	elen		NULL	heraus	
+el.0igajxo	eligaĵo		NULL	NULL	NULL
+el.0igajxo.KOMP	eligaĵo	2	NULL	Ausgabe	
+el.0igajxo.KOMUNE	eligaĵo	1	NULL	NULL	NULL
+el.0igi	eligi		NULL	NULL	NULL
+el.0igi.KOMP	eligi	2	NULL	ausgeben	
+el.0igi.s_tan_spiriton	eligi	3	NULL	NULL	NULL
+el.0igilo	eligilo		NULL	Ausgabegerät	
+el.0igilo	eligilo		NULL	Ausgabeeinheit	
+el.0igilo.KOMP	eligilo	2	NULL	Ausgabegerät	
+el.0igilo.KOMP	eligilo	2	NULL	Ausgabeeinheit	
+el.0igilo.fonto	eligilo	1	NULL	Quelle	Quelle (z.B. Licht-)
+el.0igilo.fonto	eligilo	1	NULL	Ausgabegerät	
+el.0igilo.fonto	eligilo	1	NULL	Ausgabeeinheit	
+el.0igo	eligo		NULL	NULL	NULL
+el.0igo.KOMP	eligo		NULL	Ausgabe	
+el.0igxi	eliĝi		NULL	NULL	NULL
+el.de0	de el		NULL	NULL	NULL
+el1.0o	elo		NULL	Ale	
+el1.0o.KUI	elo		NULL	Ale	
+elam.0o	Elamo		NULL	Elam	
+elam.0o.HIS	Elamo		NULL	Elam	
+eland.0o	elando		NULL	Elenantilope	
+eland.0o.ZOO	elando		NULL	Elenantilope	
+elast.0a	elasta		NULL	NULL	NULL
+elast.0a.FIG	elasta	2	NULL	dehnbar	
+elast.0a.FIG	elasta	2	NULL	anpassbar	
+elast.0a.FIZ	elasta	1	NULL	elastisch	
+elast.0a.FIZ	elasta	1	NULL	dehnbar	
+elast.0a.FIZ	elasta	1	NULL	verformbar	
+elast.0a.FIZ	elasta	1	NULL	federnd	
+elast.0a.FIZ	elasta	1	NULL	geschmeidig	
+elastan.0o	elastano		NULL	Elasthan	
+elastan.0o	elastano		NULL	Lycra	
+elastan.0o.TEKS	elastano		NULL	Elasthan	
+elastan.0o.TEKS	elastano		NULL	Lycra	
+elater.0o	elatero		NULL	Elatere	
+elater1.0o	elaterio		NULL	NULL	NULL
+elater1.0o.BOT	elaterio	1	NULL	Elaterium	
+elater1.0o.MED	elaterio	2	NULL	Elaterium-Abführmittel	
+elatr.0o	elatro		NULL	Schnellkäfer	
+elatr.0o	elatero		NULL	Schnellkäfer	
+elatr.0o.genro	elatro		NULL	Schnellkäfer	
+elatr.0o.genro	elatero		NULL	Schnellkäfer	
+elatre.0oj	elatredoj		NULL	Schnellkäfer	(Familie der) Schnellkäfer
+elatre.0oj	elateredoj		NULL	Schnellkäfer	(Familie der) Schnellkäfer
+elb.E0o	Elbo		NULL	NULL	NULL
+elb.E0o.insulo	Elbo	2	NULL	Elba	
+elb.E0o.rivero	Elbo	1	NULL	Elbe	
+eldora.0o	eldorado		NULL	NULL	NULL
+eldora.0o.FIG	eldorado	1	NULL	NULL	NULL
+eldora.0o.loko	eldorado	2	NULL	NULL	NULL
+eleagnac.0oj	eleagnacoj		NULL	Ölweidengewächse	
+elefan1.0o	elefantiazo		NULL	Elefantiasis	
+elefan2.0oj	elefantedoj		NULL	Elefanten	
+elefen.0o	Elefeno		NULL	NULL	NULL
+elegan.0a	eleganta		NULL	elegant	
+elegan.0a	eleganta		NULL	vornehm	
+elegan.0a.KOMUNE	eleganta		NULL	elegant	
+elegan.0a.KOMUNE	eleganta		NULL	vornehm	
+elegan.0eco	eleganteco		NULL	NULL	NULL
+elegan.0eco.KOMUNE	eleganteco		NULL	NULL	NULL
+elegan.0igi	elegantigi		NULL	NULL	NULL
+elegan.0igi.KOMUNE	elegantigi		NULL	NULL	NULL
+elegan.0ulo	elegantulo		NULL	eleganter Herr	
+elegan.0ulo	elegantulo		NULL	elegante Dame	
+elegan.0ulo	elegantulo		NULL	Person von Geschmack	
+elegan.0ulo.MOR	elegantulo		NULL	eleganter Herr	
+elegan.0ulo.MOR	elegantulo		NULL	elegante Dame	
+elegan.0ulo.MOR	elegantulo		NULL	Person von Geschmack	
+elegan.mal0a	maleleganta		NULL	NULL	NULL
+elegan.mal0a.KOMUNE	maleleganta		NULL	NULL	NULL
+elegi.0a	elegia		NULL	NULL	NULL
+elegi.0a.FIG	elegia	2	NULL	schwermütig	
+elegi.0a.FIG	elegia	2	NULL	wehmütig	
+elegi.0a.POE	elegia	1	NULL	elegisch	
+elegi.0o	elegio		NULL	Elegie	
+elegi.0o	elegio		NULL	Klagelied	
+elegi.0o.POE	elegio		NULL	Elegie	
+elegi.0o.POE	elegio		NULL	Klagelied	
+elekt.0ebla	elektebla		NULL	wählbar	
+elekt.0eblo	elekteblo		NULL	Wahlmöglichkeit	
+elekt.0eblo	elektebleco		NULL	Wahlmöglichkeit	
+elekt.0ema	elektema		NULL	wählerisch	
+elekt.0i	elekti		ekz_12	wählen	
+elekt.0i.KOMUNE	elekti	1	ekz_12	wählen	
+elekt.0i.REL	elekti	3	ekz_12	auserwählen	
+elekt.0i.REL	elekti	3	ekz_12	er­kie­sen	
+elekt.0i.REL	elekti	3	ekz_12	erwählen	
+elekt.0i.REL	elekti	3	ekz_12	wählen	
+elekt.0i.vocxdoni	elekti	2	ekz_12	wählen	
+elekt.0ita	elektita		NULL	ausgewählt	
+elekt.0ita	elektita		NULL	auserlesen	
+elekt.0ita	elektita		NULL	erlesen	
+elekt.0o	elekto		NULL	Wahl	
+elekt.0o	elekto		NULL	Auswahl	
+elekt.al0i	alelekti		NULL	NULL	NULL
+elektr.0a	elektra		NULL	elektrisch	
+elektr.0afajrero	elektra fajrero		NULL	Funkenentladung	
+elektr.0afajrero	elektra fajrero		NULL	Zündfunken	
+elektr.0afluo	elektra fluo		NULL	Strom	
+elektr.0akampintenso	elektra kampintenso		NULL	elektrische Feldstärke	
+elektr.0akampo	elektra kampo		NULL	elektrisches Feld	
+elektr.0akampo.grando	elektra kampo	2	NULL	elektrisches Feld	
+elektr.0akampo.spaco	elektra kampo	1	NULL	elektrisches Feld	
+elektr.0astrecxo	elektra streĉo		NULL	elektrische Spannung	
+elektr.0ejo	elektrejo		NULL	Kraftwerk	
+elektr.0ejo.TEK	elektrejo		NULL	Kraftwerk	
+elektr.0igi	elektrigi		NULL	NULL	NULL
+elektr.0igi.fervojon	elektrigi	2	NULL	elektrifizieren	
+elektr.0igi.transformi	elektrigi	1	NULL	NULL	NULL
+elektr.0isto	elektristo		NULL	Elektriker	
+elektr.0isto.ELE	elektristo		NULL	Elektriker	
+elektr.0o	elektro		NULL	Elektrizität	
+elektr.0o.FIZ	elektro		NULL	Elektrizität	
+elektr.0okvanto	elektrokvanto		NULL	NULL	NULL
+elektr.0umi	elektrumi		NULL	elektrisieren	
+elektr.0umi	elektri		NULL	elektrisieren	
+elektr.0umi.FIG	elektrumi	3	NULL	elektrisieren	
+elektr.0umi.FIG	elektri	3	NULL	elektrisieren	
+elektr.0umi.kurace	elektrumi	2	NULL	elektrisieren	
+elektr.0umi.kurace	elektri	2	NULL	elektrisieren	
+elektr.0umi.sxargi	elektrumi	1	NULL	elektrisieren	
+elektr.0umi.sxargi	elektri	1	NULL	elektrisieren	
+elektr.akv0a	akvelektra		NULL	hydroelektrisch	
+elektr.akv0a	akvoelektra		NULL	hydroelektrisch	
+elektr.akv0a.TEK	akvelektra		NULL	hydroelektrisch	
+elektr.akv0a.TEK	akvoelektra		NULL	hydroelektrisch	
+elektr.atom0ejo	atomelektrejo		NULL	Atomkraftwerk	
+elektr.atom0ejo	atomelektrejo		NULL	Kernkraftwerk	
+elektr.atom0ejo.TEK	atomelektrejo		NULL	Atomkraftwerk	
+elektr.atom0ejo.TEK	atomelektrejo		NULL	Kernkraftwerk	
+elektr1.0o	elektrismo		NULL	NULL	NULL
+elektr1.0o.fako	elektrismo	1	NULL	Elektrizitätslehre	
+elektr1.0o.fenomenaro	elektrismo	2	NULL	Elektrizität	
+elektr10.0i	elektrolizi		NULL	elektrolysieren	
+elektr10.0o	elektrolizo		NULL	Elektrolyse	
+elektr11.0a	elektromagneta		NULL	elektromagnetisch	
+elektr11.0akampo	elektromagneta kampo		NULL	elektromagnetisches Feld	
+elektr11.0ismo	elektromagnetismo		NULL	Elektromagnetismus	
+elektr11.0o	elektromagneto		NULL	Elektromagnet	
+elektr13.0o	elektrometro		NULL	Elektrometer	
+elektr14.0o	elektrono		NULL	Elektron	
+elektr14.0o.ambaux	elektrono	2	NULL	Elektron	
+elektr14.0o.ofte	elektrono	1	NULL	Elektron	
+elektr15.0o	elektroskopo		NULL	Elektroskop	
+elektr15.0o.ELE	elektroskopo		NULL	Elektroskop	
+elektr17.0o	elektroterapio		NULL	Elektrotherapie	
+elektr18.0o	elektrotipo		NULL	Elektrotyp	
+elektr19.0o	elektrotipio		NULL	Elektrotypie	
+elektr2.0a	elektriz(ad)a		NULL	NULL	NULL
+elektr2.0a.ELE	elektriz(ad)a		NULL	NULL	NULL
+elektr2.0i	elektrizi		NULL	NULL	NULL
+elektr2.0i.sxargi	elektrizi	2	NULL	elektrisieren	
+elektr2.0i.vilagxon	elektrizi	1	NULL	elektrifizieren	
+elektr2.0o	elektriz(ad)o		NULL	Elektrifizierung	
+elektr2.0o.vilagxon	elektriz(ad)o		NULL	Elektrifizierung	
+elektr3.0o	elektrodo		NULL	Elektrode	
+elektr7.0o	elektroforo		NULL	Elektrophor	
+elektr9.0o	elektrolito		NULL	Elektrolyt	
+elektromobil.0o	elektromobilo		NULL	NULL	NULL
+elektromobil.0o.AUT	elektromobilo		NULL	NULL	NULL
+elektronik.0a	elektronika		NULL	elektronisch	
+elektronik.0a.ELE	elektronika		NULL	elektronisch	
+elektronik.0isto	elektronikisto		NULL	Elektroniker	
+elektronik.0isto.ELE	elektronikisto		NULL	Elektroniker	
+elektronik.0o	elektroniko		oa_8	Elektronik	
+elektronik.0o.ELE	elektroniko		oa_8	Elektronik	
+elemen.0a	elementa		NULL	elementar	
+elemen.0a.baza	elementa	2	NULL	elementar	
+elemen.0a.komenca	elementa	3	NULL	elementar	
+elemen.0a.nemalkomponebla	elementa	1	NULL	elementar	
+elemen.0e	elemente		NULL	elementar	
+elemen.0o	elemento		NULL	Element	
+elemen.0o.KOMUNE	elemento	1	NULL	Element	
+elemen.0o.MAT	elemento	2	NULL	Element	Element (einer Menge)
+elemen.0o.MAT	elemento	2	NULL	Element	
+elemen.0o.matrico	elemento	3	NULL	Element	Element (einer Matrix)
+elemen.0o.matrico	elemento	3	NULL	Glied	Glied (einer Matrix)
+elemen.0o.matrico	elemento	3	NULL	Koeffizient	Koeffizient (einer Matrix)
+elemen.0o.matrico	elemento	3	NULL	Element	
+elemen.parol0o	parolelemento		NULL	NULL	NULL
+elemen.parol0o.GRA	parolelemento		NULL	NULL	NULL
+eleonor.0o	Eleonoro		NULL	NULL	NULL
+eleonor.0o.virina_nomo	Eleonoro		NULL	Eleonore	
+elevat.0o	elevatoro		NULL	Hebewerk	
+elevat.0o	elevatoro		NULL	Elevator	
+elf.0o	elfo		oa_2	Elf	Elf [skand]
+elf.0o	elfo		oa_2	Elfe	Elfe [skand]
+elf.0o	elfo		oa_2	Elb	Elb [germ]
+elf.0o	elfo		oa_2	Elbe	Elbe [germ]
+elf.0o.MIT	elfo		oa_2	Elf	Elf [skand]
+elf.0o.MIT	elfo		oa_2	Elfe	Elfe [skand]
+elf.0o.MIT	elfo		oa_2	Elb	Elb [germ]
+elf.0o.MIT	elfo		oa_2	Elbe	Elbe [germ]
+eli.0o	Elio		NULL	NULL	NULL
+eli.0o.NOM	Elio		NULL	Elias	
+eliksi.0o	eliksiro		NULL	Elixier	
+eliksi.0o	eliksiro		NULL	Heiltrank	
+eliksi.0o	eliksiro		NULL	Zaubertrank	alchemistischer Zaubertrank
+eliksi.0o.KOMUNE	eliksiro	2	NULL	Elixier	
+eliksi.0o.KOMUNE	eliksiro	2	NULL	Heiltrank	
+eliksi.0o.KOMUNE	eliksiro	2	NULL	Zaubertrank	alchemistischer Zaubertrank
+eliksi.0o.MED	eliksiro	1	NULL	Elixier	
+eliksi.0o.MED	eliksiro	1	NULL	Heiltrank	
+eliksi.0o.MED	eliksiro	1	NULL	Zaubertrank	alchemistischer Zaubertrank
+elim.0o	elimo		NULL	Quecke	
+elim.hunda0o	hunda elimo		NULL	NULL	NULL
+elim.sabla0o	sabla elimo		NULL	NULL	NULL
+elimin.0i	elimini		NULL	eliminieren	
+elimin.0i	elimini		NULL	ausschließen	
+elimin.0i.MED	elimini	1	NULL	eliminieren	
+elimin.0i.MED	elimini	1	NULL	ausscheiden	
+elimin.0i.MED	elimini	1	NULL	eliminieren	
+elimin.0i.MED	elimini	1	NULL	ausschließen	
+elimin.0i.forigi	elimini	2	NULL	eliminieren	
+elimin.0i.forigi	elimini	2	NULL	ausschließen	
+elimin.0o	elimino		NULL	NULL	NULL
+elimin.0o	eliminado		NULL	NULL	NULL
+elimin.0o.KOMUNE	elimino	1	NULL	Elimination	
+elimin.0o.KOMUNE	eliminado	1	NULL	Elimination	
+elimin.0o.KOMUNE	elimino	1	NULL	Ausschluss	
+elimin.0o.KOMUNE	eliminado	1	NULL	Ausschluss	
+elimin.0o.KOMUNE	elimino	1	NULL	Ausscheidung	
+elimin.0o.KOMUNE	eliminado	1	NULL	Ausscheidung	
+elimin.0o.MAT	elimino	2	NULL	Elimination	Elimination (der Unbekannten)
+elimin.0o.MAT	eliminado	2	NULL	Elimination	Elimination (der Unbekannten)
+elips.0o	elipso		NULL	NULL	NULL
+elips.0o.ellaso	elipso	1	NULL	Ellipse	
+elips.0o.ellaso	elipso	1	NULL	Auslassung	
+elips.0o.linio	elipso	2	NULL	Ellipse	
+elipso.0o	elipsoido		NULL	Ellipsoid	
+elit.0a	elita		NULL	NULL	NULL
+elit.0a.POL	elita	1	NULL	Elite-	
+elit.0a.grupo	elita	2	NULL	elitär	
+elit.0ismo	elitismo		NULL	Elitismus	
+elit.0ismo.POL	elitismo		NULL	Elitismus	
+elit.0o	elito		NULL	Elite	
+elit.0o	elito		NULL	Auserwählte	
+elit.0o	elito		NULL	Bestenauslese	
+elit.0o.POL	elito		NULL	Elite	
+elit.0o.POL	elito		NULL	Auserwählte	
+elit.0o.POL	elito		NULL	Bestenauslese	
+elit.0ulo	elitulo		NULL	NULL	NULL
+elit.0ulo.KOMUNE	elitulo		NULL	NULL	NULL
+elitr.0o	elitro		NULL	Deckflügel	
+elitr.0o	elitro		NULL	Flügeldecke	
+eliz.0o	Elizo		NULL	NULL	NULL
+eliz.0o.NOM	Elizo		NULL	Elise	
+elizabet.0o	Elizabeto		ekz_36	Elisabeth	
+elizabet.0o.virino	Elizabeto		ekz_36	Elisabeth	
+elize.0o	Elizeo		NULL	Elysium	
+elize.0o	Elizeo		NULL	Walhalla	
+elizi.0i	elizii		NULL	elidieren	
+elizi.0i	elizii		NULL	ausstoßen	
+elizi.0i	elizii		NULL	weglassen	
+elizi.0i.GRA	elizii		NULL	elidieren	
+elizi.0i.GRA	elizii		NULL	ausstoßen	
+elizi.0i.GRA	elizii		NULL	weglassen	
+elizi.0o	elizio		NULL	NULL	NULL
+elizi.0o.GRA	elizio		NULL	Elision	
+elizi.0o.GRA	elizio		NULL	Auslassung	
+elizi.0o.GRA	elizio		NULL	Vokalauslassung	
+elokuci.0o	elokucio		NULL	Elocutio	
+elokve.0a	elokventa		NULL	redegewandt	
+elokve.0a	elokventa		NULL	beredt	
+elokve.0a	elokventa		NULL	eloquent	
+elokve.0a.io	elokventa	2	NULL	redegewandt	
+elokve.0a.io	elokventa	2	NULL	beredt	
+elokve.0a.io	elokventa	2	NULL	eloquent	
+elokve.0a.iu	elokventa	1	NULL	redegewandt	
+elokve.0a.iu	elokventa	1	NULL	beredt	
+elokve.0a.iu	elokventa	1	NULL	eloquent	
+elokve.0i	elokventi		NULL	NULL	NULL
+elokve.0i.KOMUNE	elokventi		NULL	NULL	NULL
+elokve.0o	elokvento		NULL	Redegewandtheit	
+elokve.0o	elokventeco		NULL	Redegewandtheit	
+elokve.0o	elokvento		NULL	Beredsamkeit	
+elokve.0o	elokventeco		NULL	Beredsamkeit	
+elokve.0o	elokvento		NULL	Eloquenz	
+elokve.0o	elokventeco		NULL	Eloquenz	
+elokve.0o.KOMUNE	elokvento		NULL	Redegewandtheit	
+elokve.0o.KOMUNE	elokventeco		NULL	Redegewandtheit	
+elokve.0o.KOMUNE	elokvento		NULL	Beredsamkeit	
+elokve.0o.KOMUNE	elokventeco		NULL	Beredsamkeit	
+elokve.0o.KOMUNE	elokvento		NULL	Eloquenz	
+elokve.0o.KOMUNE	elokventeco		NULL	Eloquenz	
+elzevi.0o	elzeviro		NULL	NULL	NULL
+elzevi.0o.TIP_libro	elzeviro	1	NULL	Elzevier-Band	
+elzevi.0o.TIP_tiparo	elzeviro	2	NULL	Antiqua	klassische Antiqua
+em.0	-em		ekz_19	freudig	-freudig
+em.0	-em		ekz_19	begierig	-begierig
+em.0	-em		ekz_19	haft	-haft
+em.0.elmetiteco	-em	3	ekz_19	freudig	-freudig
+em.0.elmetiteco	-em	3	ekz_19	begierig	-begierig
+em.0.elmetiteco	-em	3	ekz_19	haft	-haft
+em.0.kapablo	-em	2	ekz_19	freudig	-freudig
+em.0.kapablo	-em	2	ekz_19	begierig	-begierig
+em.0.kapablo	-em	2	ekz_19	haft	-haft
+em.0.vole	-em	1	ekz_19	freudig	-freudig
+em.0.vole	-em	1	ekz_19	begierig	-begierig
+em.0.vole	-em	1	ekz_19	haft	-haft
+em.0a	ema		NULL	geneigt	
+em.0a	ema		NULL	aufgelegt	
+em.0a	ema		NULL	begierig	
+em.0a.PSI	ema		NULL	geneigt	
+em.0a.PSI	ema		NULL	aufgelegt	
+em.0a.PSI	ema		NULL	begierig	
+em.0i	emi		NULL	mögen	
+em.0i	emi		NULL	wollen	
+em.0i	emi		NULL	begierig	begierig sein auf
+em.0i	emi		NULL	Lust	Lust haben
+em.0i	emi		NULL	neigen	neigen zu
+em.0i.PSI	emi		NULL	mögen	
+em.0i.PSI	emi		NULL	wollen	
+em.0i.PSI	emi		NULL	begierig	begierig sein auf
+em.0i.PSI	emi		NULL	Lust	Lust haben
+em.0i.PSI	emi		NULL	neigen	neigen zu
+em.0igi	emigi		NULL	geneigt	geneigt machen
+em.0igi	emigi		NULL	Lust	Lust machen
+em.0igi.KOMUNE	emigi		NULL	geneigt	geneigt machen
+em.0igi.KOMUNE	emigi		NULL	Lust	Lust machen
+em.0o	emo		NULL	Neigung	
+em.0o	emo		NULL	Begierde	
+em.0o	emo		NULL	Lust	
+em.0o.PSI	emo		NULL	Neigung	
+em.0o.PSI	emo		NULL	Begierde	
+em.0o.PSI	emo		NULL	Lust	
+em.mal0a	malema		NULL	lustlos	
+em.mal0a	malema		NULL	antriebslos	
+em.mal0a	malema		NULL	unwillig	
+em.mal0a	malema		NULL	gleichgültig	
+em.mal0a.PSI	malema		NULL	lustlos	
+em.mal0a.PSI	malema		NULL	antriebslos	
+em.mal0a.PSI	malema		NULL	unwillig	
+em.mal0a.PSI	malema		NULL	gleichgültig	
+em.mal0o	malemo		NULL	NULL	NULL
+em.mal0o.PSI	malemo		NULL	Lustlosigkeit	
+em.mal0o.PSI	malemo		NULL	Desinteresse	
+em.mal0o.PSI	malemo		NULL	Antriebslosigkeit	
+em.mal0o.PSI	malemo		NULL	Abneigung	
+em.mal0o.PSI	malemo		NULL	Unwille	
+emajl.0i	emajli		NULL	emaillieren	
+emajl.0o	emajlo		NULL	NULL	NULL
+emajl.0o.ANA	emajlo	2	NULL	Schmelz	
+emajl.0o.ANA	emajlo	2	NULL	Zahnschmelz	
+emajl.0o.TEK	emajlo	1	NULL	Email	
+emajl.0o.TEK	emajlo	1	NULL	Emaille	
+emajl.0o.TEK	emajlo	1	NULL	Schmelz	
+emajl.cxel0o	ĉelemajlo		NULL	NULL	NULL
+emajl.drat0o	dratemajlo		NULL	Drahtemail	
+emaks.0o	Emakso		NULL	Emacs	
+eman.0ajxo	emanaĵo		NULL	Ausströmendes	
+eman.0ajxo	emanaĵo		NULL	Gas	entweichendes Gas
+eman.0ajxo	emanaĵo		NULL	Strahlung	entweichende Strahlung
+eman.0ajxo.KEM	emanaĵo	2	NULL	Ausströmendes	
+eman.0ajxo.KEM	emanaĵo	2	NULL	Gas	entweichendes Gas
+eman.0ajxo.KEM	emanaĵo	2	NULL	Strahlung	entweichende Strahlung
+eman.0ajxo.KOMUNE	emanaĵo	1	NULL	Ausströmendes	
+eman.0ajxo.KOMUNE	emanaĵo	1	NULL	Gas	entweichendes Gas
+eman.0ajxo.KOMUNE	emanaĵo	1	NULL	Strahlung	entweichende Strahlung
+eman.0i	emani		NULL	ausströmen	
+eman.0i	emani		NULL	entweichen	
+eman.0i	emani		NULL	hervorgehen	
+eman.0i	emani		NULL	ausstrahlen	
+eman.0i.KEM	emani		NULL	ausströmen	
+eman.0i.KEM	emani		NULL	entweichen	
+eman.0i.KEM	emani		NULL	hervorgehen	
+eman.0i.KEM	emani		NULL	ausstrahlen	
+eman.0igi	emanigi		NULL	ausströmen	
+eman.0igi	emanigi		NULL	aussenden	
+eman.0igi	emanigi		NULL	ausstrahlen	
+eman.0igi.KEM	emanigi		NULL	ausströmen	
+eman.0igi.KEM	emanigi		NULL	aussenden	
+eman.0igi.KEM	emanigi		NULL	ausstrahlen	
+eman.0o	emano		NULL	Ausströmen	
+eman.0o	emano		NULL	Entweichen	
+eman.0o	emano		NULL	Emanation	
+eman.0o	emano		NULL	Ausstrahlen	
+eman.0o.KEM	emano		NULL	Ausströmen	
+eman.0o.KEM	emano		NULL	Entweichen	
+eman.0o.KEM	emano		NULL	Emanation	
+eman.0o.KEM	emano		NULL	Ausstrahlen	
+emanaci.0i	emanacii		NULL	hervorgehen	
+emanci.0a	emancipa		NULL	gleichstellend	
+emanci.0a.KOMUNE	emancipa		NULL	gleichstellend	
+emanci.0i	emancipi		NULL	NULL	NULL
+emanci.0i.JUR	emancipi	1	NULL	emanzipieren	
+emanci.0i.JUR	emancipi	1	NULL	mündig sprechen	
+emanci.0i.JUR	emancipi	1	NULL	bürgerlichen Rechte geben	die vollen bürgerlichen Rechte geben
+emanci.0i.JUR	emancipi	1	NULL	Vormundschaft befreien	von der Vormundschaft befreien
+emanci.0i.KOMUNE	emancipi	2	NULL	emanzipieren	
+emanci.0i.KOMUNE	emancipi	2	NULL	gleichstellen	
+emanci.0i.KOMUNE	emancipi	2	NULL	befreien	
+emanci.0o	emancipo		NULL	Emanzipation	
+emanci.0o	emancipo		NULL	Gleichstellung	
+emanci.0o.KOMUNE	emancipo		NULL	Emanzipation	
+emanci.0o.KOMUNE	emancipo		NULL	Gleichstellung	
+emanuel.0o	Emanuelo		NULL	NULL	NULL
+emanuel.0o.NOM	Emanuelo		NULL	NULL	NULL
+embara.0a	embarasa		NULL	peinlich	
+embara.0a	embarasa		NULL	verlegen	verlegen (peinlich)
+embara.0a.embarasanta	embarasa	1	NULL	auswegslos	
+embara.0a.embarasanta	embarasa	1	NULL	peinigend	
+embara.0a.embarasanta	embarasa	1	NULL	peinlich	
+embara.0a.embarasanta	embarasa	1	NULL	verlegen	verlegen (peinlich)
+embara.0a.embarasata	embarasa	2	NULL	verstört	
+embara.0a.embarasata	embarasa	2	NULL	peinlich	
+embara.0a.embarasata	embarasa	2	NULL	verlegen	verlegen (peinlich)
+embara.0i	embarasi		NULL	NULL	NULL
+embara.0i.FIG	embarasi	2	NULL	peinigen	
+embara.0i.FIG	embarasi	2	NULL	nötigen	
+embara.0i.FIG	embarasi	2	NULL	genieren	
+embara.0i.MOV	embarasi	1	NULL	behindern	
+embara.0igxi	embarasiĝi		NULL	NULL	NULL
+embara.0igxi.FIG	embarasiĝi	2	NULL	genieren	sich genieren
+embara.0igxi.FIG	embarasiĝi	2	NULL	sorgen	sich sorgen
+embara.0igxi.MOV	embarasiĝi	1	NULL	behindert	behindert werden
+embara.0o	embaraso		NULL	Enge	
+embara.0o	embaraso		NULL	Not	
+embara.0o	embaraso		NULL	Nötigung	
+embara.0o	embaraso		NULL	Verlegenheit	
+embara.0o	embaraso		NULL	Problem	
+embara.0o	embaraso		NULL	Not	
+embara.0o	embaraso		NULL	Nötigung	
+embara.0o	embaraso		NULL	Pein	
+embara.0o	embaraso		NULL	Verlegenheit	
+embara.0o	embaraso		NULL	Problem	
+embara.0o	embaraso		NULL	Schwierigkeit	
+embara.0o.FIG	embaraso	2	NULL	Enge	
+embara.0o.FIG	embaraso	2	NULL	Not	
+embara.0o.FIG	embaraso	2	NULL	Nötigung	
+embara.0o.FIG	embaraso	2	NULL	Verlegenheit	
+embara.0o.FIG	embaraso	2	NULL	Problem	
+embara.0o.FIG	embaraso	2	NULL	Not	
+embara.0o.FIG	embaraso	2	NULL	Nötigung	
+embara.0o.FIG	embaraso	2	NULL	Pein	
+embara.0o.FIG	embaraso	2	NULL	Verlegenheit	
+embara.0o.FIG	embaraso	2	NULL	Problem	
+embara.0o.FIG	embaraso	2	NULL	Schwierigkeit	
+embara.0o.MOV	embaraso	1	NULL	Enge	
+embara.0o.MOV	embaraso	1	NULL	Not	
+embara.0o.MOV	embaraso	1	NULL	Nötigung	
+embara.0o.MOV	embaraso	1	NULL	Verlegenheit	
+embara.0o.MOV	embaraso	1	NULL	Problem	
+embara.0o.MOV	embaraso	1	NULL	Not	
+embara.0o.MOV	embaraso	1	NULL	Nötigung	
+embara.0o.MOV	embaraso	1	NULL	Pein	
+embara.0o.MOV	embaraso	1	NULL	Verlegenheit	
+embara.0o.MOV	embaraso	1	NULL	Problem	
+embara.0o.MOV	embaraso	1	NULL	Schwierigkeit	
+embara.mal0i	malembarasi		NULL	befreien	
+embara.mal0i	malembarasi		NULL	heraushelfen	
+embara.mal0i	malembarasi		NULL	Not	aus der Not helfen
+embara.mal0i	malembarasi		NULL	Patsche	aus der Patsche helfen
+embara.mal0i.FIG	malembarasi	2	NULL	befreien	
+embara.mal0i.FIG	malembarasi	2	NULL	heraushelfen	
+embara.mal0i.FIG	malembarasi	2	NULL	Not	aus der Not helfen
+embara.mal0i.FIG	malembarasi	2	NULL	Patsche	aus der Patsche helfen
+embara.mal0i.MOV	malembarasi	1	NULL	befreien	
+embara.mal0i.MOV	malembarasi	1	NULL	heraushelfen	
+embara.mal0i.MOV	malembarasi	1	NULL	Not	aus der Not helfen
+embara.mal0i.MOV	malembarasi	1	NULL	Patsche	aus der Patsche helfen
+embarg.0o	embargo		NULL	Embargo	
+embarg.0o.EKON	embargo	1	NULL	Ausfuhrverbot	
+embarg.0o.EKON	embargo	1	NULL	Handelssperre	
+embarg.0o.EKON	embargo	1	NULL	Embargo	
+embarg.0o.MAR	embargo	2	NULL	Hafensperre	
+embarg.0o.MAR	embargo	2	NULL	Embargo	
+emberi.0o	emberizo		NULL	Ammer	
+emberi.0o.ZOO	emberizo		NULL	Ammer	
+emblem.0o	emblemo		NULL	NULL	NULL
+emblem.0o.karta	emblemo	2	NULL	Farbe	
+emblem.0o.karta	emblemo	2	NULL	Kartenfarbe	
+emblem.0o.simbolo	emblemo	1	NULL	Emblem	
+emblem.0o.simbolo	emblemo	1	NULL	Hoheitszeichen	
+emblem.0o.simbolo	emblemo	1	NULL	Kennzeichen	
+emblem.0o.simbolo	emblemo	1	NULL	Wappenbild	
+embol.0o	embolo		NULL	Blutgerinnsel	
+embol.0o	embolo		NULL	Embolus	
+embol.0o.MED	embolo		NULL	Blutgerinnsel	
+embol.0o.MED	embolo		NULL	Embolus	
+emboli.0o	embolio		NULL	Gefäßverschluss	
+emboli.0o	embolio		NULL	Emboli	Emboli [fak]
+emboli.0o.MED	embolio		NULL	Gefäßverschluss	
+emboli.0o.MED	embolio		NULL	Emboli	Emboli [fak]
+embraz.0	embrazuro		NULL	NULL	NULL
+embraz.0.ARKI	embrazuro	1	NULL	Leibung	
+embraz.0.MIL	embrazuro	3	NULL	Schießscharte	
+embraz.0.fenestronicxo	embrazuro	2	NULL	Fensternische	
+embri.0o	embrio		NULL	NULL	NULL
+embri.0o.BIO	embrio	1	NULL	Embryo	
+embri.0o.FIG	embrio	2	NULL	Keim	
+embri.0o.FIG	embrio	2	NULL	Anfang	
+embri.0o.FIG	embrio	2	NULL	Anfangsstadium	
+embri.0o.FIG	embrio	2	NULL	Embryionalstadium	
+embrio.0o	embriogenio		NULL	Embryonalentwicklung	
+embrio.0o	embriogenio		NULL	Embryonalgenese	
+embrio.0o.FIZL	embriogenio		NULL	Embryonalentwicklung	
+embrio.0o.FIZL	embriogenio		NULL	Embryonalgenese	
+embrio1.0o	embriologo		NULL	Embryologe	
+embrio1.0o.SCI	embriologo		NULL	Embryologe	
+embrio2.0isto	embriologiisto		NULL	Embryologe	
+embrio2.0isto.SCI	embriologiisto		NULL	Embryologe	
+embrio2.0o	embriologio		NULL	Embryologie	
+embrio2.0o.SCI	embriologio		NULL	Embryologie	
+embusk.0e	embuske		NULL	lauernd	
+embusk.0ejo	embuskejo		NULL	Hinterhalt	
+embusk.0ejo.MIL	embuskejo		NULL	Hinterhalt	
+embusk.0i	embuski		NULL	auflauern	
+embusk.0i	embuski		NULL	legen	sich in einen Hinterhalt legen
+embusk.0i	embuski		NULL	belauern	
+embusk.0i	embuski		NULL	lauern	
+embusk.0i	embuski		NULL	legen	sich auf die Lauer legen
+embusk.0i	embuski		NULL	verstecken	sich verstecken
+embusk.0i.MIL	embuski		NULL	auflauern	
+embusk.0i.MIL	embuski		NULL	legen	sich in einen Hinterhalt legen
+embusk.0i.MIL	embuski		NULL	belauern	
+embusk.0i.MIL	embuski		NULL	lauern	
+embusk.0i.MIL	embuski		NULL	legen	sich auf die Lauer legen
+embusk.0i.MIL	embuski		NULL	verstecken	sich verstecken
+embusk.0igi	embuskigi		NULL	einen Hinterhalt legen	
+embusk.0igi	embuskigi		NULL	einen Hinterhalt schaffen	
+embusk.0igi	embuskigi		NULL	in einem Hinterhalt postieren	
+embusk.0igi.MIL	embuskigi		NULL	einen Hinterhalt legen	
+embusk.0igi.MIL	embuskigi		NULL	einen Hinterhalt schaffen	
+embusk.0igi.MIL	embuskigi		NULL	in einem Hinterhalt postieren	
+embusk.0igxi	embuskiĝi		NULL	NULL	NULL
+embusk.0igxi.MIL	embuskiĝi		NULL	NULL	NULL
+embusk.0o	embusko		NULL	Hinterhalt	
+embusk.0o.ago	embusko	1	NULL	Hinterhalt	
+embusk.0o.loko	embusko	2	NULL	Hinterhalt	
+emergx.0i	emerĝi		NULL	auftreten	
+emergx.0i	emerĝi		NULL	austreten	
+emergx.0i	emerĝi		NULL	erscheinen	
+emergx.0i	emerĝi		NULL	austreten	
+emergx.0i	emerĝi		NULL	erheben	sich erheben
+emergx.0i	emerĝi		NULL	emporkommen	
+emergx.0i	emerĝi		NULL	Vorschein kommen	zum Vorschein kommen
+emergx.0i	emerĝi		NULL	Erscheinung treten	in Erscheinung treten
+emerit.0igxi	emeritiĝi		NULL	Ruhestand	in den Ruhestand gehen
+emerit.0igxi	emeritiĝi		NULL	Rente	in Rente gehen
+emerit.0igxi.POL	emeritiĝi		NULL	Ruhestand	in den Ruhestand gehen
+emerit.0igxi.POL	emeritiĝi		NULL	Rente	in Rente gehen
+emerit.0o	emerito		oa_8	Ruheständler	
+emerit.0o	emerito		oa_8	Emeritus	
+emerit.0o	emerito		oa_8	Rentner	
+emerit.0o.POL	emerito		oa_8	Ruheständler	
+emerit.0o.POL	emerito		oa_8	Emeritus	
+emerit.0o.POL	emerito		oa_8	Rentner	
+emerit1.0o	emerituro		NULL	Altersrente	
+emerit1.0o	emerituro		NULL	Pension	
+emetik.0o	emetiko		NULL	Emetikum	
+emetik.0o	emetiko		NULL	Brechmittel	
+emfaz.0i	emfazi		NULL	hervorheben	
+emfaz.0i	emfazi		NULL	unterstreichen	
+emfaz.0i	emfazi		NULL	sprechen	mit Nachdruck sprechen
+emfaz.0i	emfazi		NULL	legen	Nachdruck legen (auf)
+emfaz.0i.FIG	emfazi	3	NULL	heraus stellen	
+emfaz.0i.FIG	emfazi	3	NULL	hervorheben	
+emfaz.0i.FIG	emfazi	3	NULL	unterstreichen	
+emfaz.0i.FIG	emfazi	3	NULL	sprechen	mit Nachdruck sprechen
+emfaz.0i.FIG	emfazi	3	NULL	legen	Nachdruck legen (auf)
+emfaz.0i.TIP	emfazi	2	NULL	hervorheben	
+emfaz.0i.TIP	emfazi	2	NULL	unterstreichen	
+emfaz.0i.TIP	emfazi	2	NULL	sprechen	mit Nachdruck sprechen
+emfaz.0i.TIP	emfazi	2	NULL	legen	Nachdruck legen (auf)
+emfaz.0i.tono	emfazi	1	NULL	hervorheben	
+emfaz.0i.tono	emfazi	1	NULL	unterstreichen	
+emfaz.0i.tono	emfazi	1	NULL	sprechen	mit Nachdruck sprechen
+emfaz.0i.tono	emfazi	1	NULL	legen	Nachdruck legen (auf)
+emfaz.0o	emfazo		NULL	Nachdruck	
+emfaz.0o	emfazo		NULL	Eindringlichkeit	
+emfaz.0o	emfazo		NULL	Emphase	
+emfaz.0o.FIG	emfazo	3	NULL	Schwerpunkt	
+emfaz.0o.FIG	emfazo	3	NULL	Nachdruck	
+emfaz.0o.FIG	emfazo	3	NULL	Eindringlichkeit	
+emfaz.0o.FIG	emfazo	3	NULL	Emphase	
+emfaz.0o.TIP	emfazo	2	NULL	Hervorhebung	
+emfaz.0o.TIP	emfazo	2	NULL	Nachdruck	
+emfaz.0o.TIP	emfazo	2	NULL	Eindringlichkeit	
+emfaz.0o.TIP	emfazo	2	NULL	Emphase	
+emfaz.0o.tono	emfazo	1	NULL	Betonung	
+emfaz.0o.tono	emfazo	1	NULL	Akzentuierung	
+emfaz.0o.tono	emfazo	1	NULL	Nachdruck	
+emfaz.0o.tono	emfazo	1	NULL	Eindringlichkeit	
+emfaz.0o.tono	emfazo	1	NULL	Emphase	
+emfaz.mal0i	malemfazi		NULL	ferner liefen	unter ferner liefen erwähnen
+emfaz.mal0i	malemfazi		NULL	erwähnen	nebenher erwähnen
+emfaz.mal0i.KOMUNE	malemfazi		NULL	ferner liefen	unter ferner liefen erwähnen
+emfaz.mal0i.KOMUNE	malemfazi		NULL	erwähnen	nebenher erwähnen
+emfize.0o	emfizemo		NULL	Emphysem	Emphysem [fak]
+emfize.0o	emfizemo		NULL	Luftaufblähung (in der Lunge)	
+emfize.0o	emfizemo		NULL	Gasaufblähung (in der Lunge)	
+emil.0o	Emilo		NULL	Emil	
+emil.0o.NOM	Emilo		NULL	Emil	
+emili.0o	Emilio		NULL	Emilia	
+emili.0o.virina_nomo	Emilio		NULL	Emilia	
+emilian.0o	Emiliano		NULL	NULL	NULL
+emilian.0o.NOM	Emiliano		NULL	NULL	NULL
+eminen.0o	eminenco		NULL	Eminenz	
+eminen1.0a	eminenta		NULL	eminent	
+eminen1.0a	eminenta		NULL	gehoben	
+eminen1.0a	eminenta		NULL	ausgezeichnet	
+eminen1.0a	eminenta		NULL	bedeutend	
+eminen1.0a.io	eminenta	2	NULL	hervorragend	
+eminen1.0a.io	eminenta	2	NULL	eminent	
+eminen1.0a.io	eminenta	2	NULL	gehoben	
+eminen1.0a.io	eminenta	2	NULL	ausgezeichnet	
+eminen1.0a.io	eminenta	2	NULL	bedeutend	
+eminen1.0a.iu	eminenta	1	NULL	erhaben	
+eminen1.0a.iu	eminenta	1	NULL	hoch	
+eminen1.0a.iu	eminenta	1	NULL	eminent	
+eminen1.0a.iu	eminenta	1	NULL	gehoben	
+eminen1.0a.iu	eminenta	1	NULL	ausgezeichnet	
+eminen1.0a.iu	eminenta	1	NULL	bedeutend	
+eminen1.0ularo	eminentularo		NULL	Personenkreis	hochgestellter Personenkreis
+eminen1.0ularo	eminentularo		NULL	Rang und Namen	Personen mit Rang und Namen
+eminen1.0ularo	eminentularo		NULL	Persönlichkeiten	wichtige Persönlichkeiten
+eminen1.0ularo.KOMUNE	eminentularo		NULL	Personenkreis	hochgestellter Personenkreis
+eminen1.0ularo.KOMUNE	eminentularo		NULL	Rang und Namen	Personen mit Rang und Namen
+eminen1.0ularo.KOMUNE	eminentularo		NULL	Persönlichkeiten	wichtige Persönlichkeiten
+eminen1.0ulo	eminentulo		NULL	Persönlichkeit	eminente Persönlichkeit
+eminen1.0ulo	eminentulo		NULL	hervorragend	hervorragende Persönlichkeit
+eminen1.0ulo	eminentulo		NULL	prominent	prominente Persönlichkeit
+eminen1.0ulo	eminentulo		NULL	wichtig	wichtige Persönlichkeit
+eminen1.0ulo.KOMUNE	eminentulo		NULL	Persönlichkeit	eminente Persönlichkeit
+eminen1.0ulo.KOMUNE	eminentulo		NULL	hervorragend	hervorragende Persönlichkeit
+eminen1.0ulo.KOMUNE	eminentulo		NULL	prominent	prominente Persönlichkeit
+eminen1.0ulo.KOMUNE	eminentulo		NULL	wichtig	wichtige Persönlichkeit
+eminen1.mal0a	maleminenta		NULL	unbedeutend	unbedeutend (Persönlichkeit)
+eminen1.mal0a	maleminenta		NULL	niedrig	niedrig (Persönlichkeit)
+eminen1.mal0a	maleminenta		NULL	Rang	von niedrigem Rang
+eminen1.mal0a.KOMUNE	maleminenta		NULL	unbedeutend	unbedeutend (Persönlichkeit)
+eminen1.mal0a.KOMUNE	maleminenta		NULL	niedrig	niedrig (Persönlichkeit)
+eminen1.mal0a.KOMUNE	maleminenta		NULL	Rang	von niedrigem Rang
+emir.0lando	emirlando		NULL	Emirat	
+emir.0o	emiro		NULL	Emir	
+emir.0ujo	emirujo		NULL	Emirat	
+emir.arabaj0landoj	Unuiĝintaj Arabaj Emirlandoj		NULL	Arabische Emirate	Vereinigte Arabische Emirate
+emir.arabaj0landoj.sxtato	Unuiĝintaj Arabaj Emirlandoj		NULL	Arabische Emirate	Vereinigte Arabische Emirate
+emisi.0i	emisii		NULL	emittieren	
+emisi.0i	emisii		NULL	begeben	
+emisi.0i	emisii		NULL	auflegen	
+emisi.0i	emisii		NULL	platzieren	
+emisi.0i	emisii		NULL	herausgeben	
+emisi.0i	emisii		NULL	ausgeben	
+emisi.0i	emisii		NULL	emittieren	
+emisi.0i	emisii		NULL	ausstoßen	
+emisi.0i	emisii		NULL	ablassen	
+emoci.0a	emocia		NULL	bewegt	
+emoci.0a	emocia		NULL	emotional	
+emoci.0a	emocia		NULL	emotionell	
+emoci.0a	emocia		NULL	ergreifend	
+emoci.0a	emocia		NULL	gerührt	
+emoci.0a	emocia		NULL	seelisch erregt	
+emoci.0a.PSI	emocia		NULL	bewegt	
+emoci.0a.PSI	emocia		NULL	emotional	
+emoci.0a.PSI	emocia		NULL	emotionell	
+emoci.0a.PSI	emocia		NULL	ergreifend	
+emoci.0a.PSI	emocia		NULL	gerührt	
+emoci.0a.PSI	emocia		NULL	seelisch erregt	
+emoci.0i	emocii		NULL	ergreifen	
+emoci.0i	emocii		NULL	rühren	
+emoci.0i	emocii		NULL	bewegen	
+emoci.0i	emocii		NULL	erschüttern	
+emoci.0i.PSI	emocii		NULL	ergreifen	
+emoci.0i.PSI	emocii		NULL	rühren	
+emoci.0i.PSI	emocii		NULL	bewegen	
+emoci.0i.PSI	emocii		NULL	erschüttern	
+emoci.0igxi	emociiĝi		NULL	bewegt sein	
+emoci.0igxi	emociiĝi		NULL	ergriffen werden	
+emoci.0igxi	emociiĝi		NULL	gerührt sein	
+emoci.0igxi	emociiĝi		NULL	gerührt werden	
+emoci.0igxi.PSI	emociiĝi		NULL	bewegt sein	
+emoci.0igxi.PSI	emociiĝi		NULL	ergriffen werden	
+emoci.0igxi.PSI	emociiĝi		NULL	gerührt sein	
+emoci.0igxi.PSI	emociiĝi		NULL	gerührt werden	
+emoci.0o	emocio		NULL	NULL	NULL
+emoci.0o.KOMUNE	emocio	1	NULL	Bewegtheit	
+emoci.0o.KOMUNE	emocio	1	NULL	Gemütsbewegung	
+emoci.0o.KOMUNE	emocio	1	NULL	Rührung	
+emoci.0o.KOMUNE	emocio	1	NULL	seelische Erregung	
+emoci.0o.PSI	emocio	2	NULL	Emotion	
+emoci.0o.PSI	emocio	2	NULL	Gemütszustand	
+emogxi.0o	emoĝio		NULL	Emoji	
+emogxi.0o.KOMP	emoĝio		NULL	Emoji	
+empati.0o	empatio		NULL	Empatie	
+empati.0o	empatio		NULL	Mitgefühl	
+empati.0o.PSI	empatio		NULL	Empatie	
+empati.0o.PSI	empatio		NULL	Mitgefühl	
+empen.0o	empeno		NULL	Leitwerk	
+empen.0o.AVI	empeno		NULL	Leitwerk	
+empetr.0o	empetro		NULL	NULL	NULL
+empetr.0o.BOT	empetro	1	NULL	NULL	NULL
+empetr.0o.KUI	empetro	2	NULL	NULL	NULL
+empetr.nigra0o	nigra empetro		NULL	NULL	NULL
+empetr.nigra0o.BOT	nigra empetro		NULL	NULL	NULL
+empiem.0o	empiemo		NULL	Empyem	
+empiem.0o.MED	empiemo		NULL	Empyem	
+empir.0o	empiro		NULL	Empire	Empire(stil)
+empiri.0a	empiria		NULL	empirisch	
+empiri.0a	empiria		NULL	auf Erfahrung beruhend	
+empiri.0a	empiria		NULL	aus Erfahrung	
+empiri.0a	empiria		NULL	Erfahrungs-	
+empiri.0ismo	empiriismo		NULL	Empirismus	
+empiri.0ismo	empiriismo		NULL	Erfahrungswissenschaft	
+empiri.0isto	empiriisto		NULL	Empiriker	
+empiri.0isto	empiriisto		NULL	Erfahrungswissenschaftler	
+empiri.0o	empirio		oa_4	Empirie	
+empiri.0o	empirio		oa_4	Empirie	
+empiri.0o	empirio		oa_4	Erfahrungswissen	
+empiri.0o	empirio		oa_4	Erfahrungswissen	
+empiri.0o	empirio		oa_4	Erfahrung	
+empiri.0o	empirio		oa_4	Erfahrung	
+empiri.0o.FIL	empirio	1	oa_4	Empirie	
+empiri.0o.FIL	empirio	1	oa_4	Empirie	
+empiri.0o.FIL	empirio	1	oa_4	Erfahrungswissen	
+empiri.0o.FIL	empirio	1	oa_4	Erfahrungswissen	
+empiri.0o.FIL	empirio	1	oa_4	Erfahrung	
+empiri.0o.FIL	empirio	1	oa_4	Erfahrung	
+empiri.0o.praktika	empirio	2	oa_4	Empirie	
+empiri.0o.praktika	empirio	2	oa_4	Empirie	
+empiri.0o.praktika	empirio	2	oa_4	Erfahrungswissen	
+empiri.0o.praktika	empirio	2	oa_4	Erfahrungswissen	
+empiri.0o.praktika	empirio	2	oa_4	Erfahrung	
+empiri.0o.praktika	empirio	2	oa_4	Erfahrung	
+empiri1.0o	empirismo		NULL	Empirismus	
+empiri2.0o	empiristo		NULL	Empiriker	
+empori.0o	emporio		NULL	NULL	NULL
+empori.0o.antikve	emporio	1	NULL	NULL	NULL
+empori.0o.mezepoke	emporio	2	NULL	NULL	NULL
+emu.0o	emuo		NULL	Emu	
+emu.0o.ZOO	emuo		NULL	Emu	
+emulsi.0o	emulsio		NULL	Emulsion	
+emulsi.0o	emulsio		NULL	Samenmilch	
+en.0	en		ekz_10	NULL	NULL
+en.0	en		uv_E	NULL	NULL
+en.0.Ak	en	2	ekz_10	NULL	NULL
+en.0.Ak	en	2	uv_E	NULL	NULL
+en.0.Nom	en	1	ekz_10	in	
+en.0.Nom	en	1	uv_E	in	
+en.0.Nom	en	1	ekz_10	im	
+en.0.Nom	en	1	uv_E	im	
+en.0_	en-		NULL	ein-	
+en.0_	en-		NULL	ent-	
+en.0_	en-		NULL	in-	
+en.0_	en-		NULL	bein-	
+en.0a	ena		NULL	NULL	NULL
+en.0a.interna	ena		NULL	innen	
+en.0a.interna	ena		NULL	darinnen	
+en.0a.interna	ena		NULL	drinnen	
+en.0e	ene		NULL	innen	
+en.0e	ene		NULL	innerhalb	
+en.0e.interne	ene		NULL	innen	
+en.0e.interne	ene		NULL	innerhalb	
+en.0ede	ene de		NULL	NULL	NULL
+en.0ede.kiam	ene de	2	NULL	innerhalb	innerhalb von
+en.0ede.kie	ene de	1	NULL	Inneren	im Inneren von
+en.0igajxo	enigaĵo		NULL	Eingabe	
+en.0igajxo.KOMP	enigaĵo		NULL	Eingabe	
+en.0igi	enigi		NULL	NULL	NULL
+en.0igi.KOMP	enigi	2	NULL	eingeben	
+en.0igi.KOMUNE	enigi	1	NULL	hineintun	
+en.0igi.KOMUNE	enigi	1	NULL	hineinschieben	
+en.0igi.KOMUNE	enigi	1	NULL	reintun	
+en.0igilo	enigilo		NULL	Eingabegerät	
+en.0igilo.aparato	enigilo		NULL	Eingabegerät	
+en.0igo	enigo		NULL	NULL	NULL
+en.0igo.KOMP	enigo	2	NULL	Eingeben	
+en.0igo.penetrigo	enigo	1	NULL	Einführung	
+en.0igxi	eniĝi		NULL	hineingehen	
+en.0igxi	eniĝi		NULL	eindringen	
+en.0igxi.penetri	eniĝi		NULL	hineingehen	
+en.0igxi.penetri	eniĝi		NULL	eindringen	
+en.al0	al en		NULL	NULL	NULL
+en.al0.kien	al en		NULL	NULL	NULL
+en1.0o	eno		NULL	NULL	NULL
+en1.0o.EKON	eno		NULL	NULL	NULL
+enant.0o	enanto		NULL	Pferdesaat	
+enant.0o	enanto		NULL	Wasserfenchel	
+enante.0o	enantemo		NULL	Schleimhautausschlag	
+enante.0o	enantemo		NULL	Enanthem	Enanthem [fak]
+encefa.0o	encefalo		NULL	Gehirn	
+encefa.0o	encefalo		NULL	Hirn	
+encefa.0o	encefalo		NULL	Großhirn	
+encefa1.0o	encefalito		NULL	Gehirnentzündung	
+encefa1.0o	encefalito		NULL	Hirnhautentzündung	
+encefa1.0o	encefalito		NULL	Enzephalitis	Enzephalitis [fak]
+encefa2.0o	encefalopatio		NULL	Hirnerkrankung	
+encefa2.0o	encefalopatio		NULL	Hirnschaden	
+encefa2.0o	encefalopatio		NULL	Enzephalophatie	Enzephalophatie [fak]
+encefalogram.0o	encefalogramo		NULL	NULL	NULL
+encefalogram.0o.FIZL	encefalogramo		NULL	NULL	NULL
+encefalogram.elektr0o	elektrencefalogramo		NULL	NULL	NULL
+encefalogram.elektr0o	elektroencefalogramo		NULL	NULL	NULL
+encefalogram.elektr0o.FIZL	elektrencefalogramo		NULL	NULL	NULL
+encefalogram.elektr0o.FIZL	elektroencefalogramo		NULL	NULL	NULL
+encikl.0o	encikliko		NULL	päpstliches Rundschreiben	
+encikl.0o	encikliko		NULL	Enzyklika	
+encikl1.0a	enciklopedia		NULL	enzyklopädisch	
+encikl1.0a	enciklopedia		NULL	allumfassend	
+encikl1.0a	enciklopedia		NULL	umfassend	
+encikl1.0o	enciklopedio		oa_2	Enzyklopädie	
+encikl1.0o	enciklopedio		oa_2	Konversationslexikon	
+encikl1.0o	enciklopedio		oa_2	Lexikon	
+encikl1.0o	enciklopedio		oa_2	Universallexikon	
+encikl1.0o	enciklopedio		oa_2	Nachschlagewerk	universelles Nachschlagewerk
+encikl1.0o.TIP	enciklopedio		oa_2	Enzyklopädie	
+encikl1.0o.TIP	enciklopedio		oa_2	Konversationslexikon	
+encikl1.0o.TIP	enciklopedio		oa_2	Lexikon	
+encikl1.0o.TIP	enciklopedio		oa_2	Universallexikon	
+encikl1.0o.TIP	enciklopedio		oa_2	Nachschlagewerk	universelles Nachschlagewerk
+end.0	-end		NULL	end	-end
+end.0	-end		NULL	zu ...	zu ... (notwendig, gefordert)
+end.0.KOMUNE	-end		NULL	end	-end
+end.0.KOMUNE	-end		NULL	zu ...	zu ... (notwendig, gefordert)
+end.0i	endi		NULL	es ist zu ...	
+end.0i	endi		NULL	es braucht ...	
+end.0i	endi		NULL	es muss ge... werden	
+endemi.0a	endemia		NULL	endemisch	
+endemi.0a	endemia		NULL	heimisch	
+endemi.0a.BIO	endemia	2	NULL	endemisch	
+endemi.0a.BIO	endemia	2	NULL	heimisch	
+endemi.0a.MED	endemia	1	NULL	endemisch	
+endemi.0a.MED	endemia	1	NULL	heimisch	
+endemi.0eco	endemieco		NULL	NULL	NULL
+endemi.0eco	endemiismo		NULL	NULL	NULL
+endemi.0eco.BIO	endemieco		NULL	NULL	NULL
+endemi.0eco.BIO	endemiismo		NULL	NULL	NULL
+endemi.0o	endemio		NULL	NULL	NULL
+endemi.0o.BIO	endemio	2	NULL	endemische Art	
+endemi.0o.BIO	endemio	2	NULL	Endemit	
+endemi.0o.MED	endemio	1	NULL	Endemie	
+endemi.0o.MED	endemio	1	NULL	Krankheit	endemische Krankheit
+endivi.0o	endivio		oa_2	Endivie	
+endogami.0o	endogamio		NULL	Endogamie	
+endogami.0o.GEN	endogamio		NULL	Endogamie	
+endoka.0o	endokardo		NULL	Endokard	Endokard [fak]
+endoka.0o	endokardo		NULL	Herzinnenhaut	
+endoka1.0o	endokarpo		NULL	Endokarp	Endokarp (Bot.)
+endoka1.0o	endokarpo		NULL	innerste Schicht der Fruchtwand	
+endoka2.0o	endokardito		NULL	Endokarditis	Endokarditis (Med.)
+endoka2.0o	endokardito		NULL	Herzinnenhautentzündung	
+endokrin.0a	endokrina		NULL	endokrine	
+endokrin.0a.FIZL	endokrina	2	NULL	endokrine	
+endokrin.0a.KOMUNE	endokrina	1	NULL	endokrine	
+endokrinolog.0o	endokrinologo		NULL	NULL	NULL
+endokrinolog.0o.MED	endokrinologo		NULL	NULL	NULL
+endokrinologi.0o	endokrinologio		NULL	NULL	NULL
+endokrinologi.0o.MED	endokrinologio		NULL	NULL	NULL
+endomo.0o	endomorfio		NULL	Endomorphismus	
+endopl.0o	endoplasmo		NULL	Endoplasma	
+endopl.0o	endoplasmo		NULL	innere Plasmaschicht (um den Zellkern)	
+endorfin.0o	endorfino		NULL	NULL	NULL
+endorfin.0o.FIZL	endorfino		NULL	NULL	NULL
+endos.0ajxo	endosaĵo		NULL	NULL	NULL
+endos.0anto	endosanto		NULL	NULL	NULL
+endos.0i	endosi		NULL	indossieren	
+endos.0o	endoso		NULL	NULL	NULL
+endosk.0o	endoskopo		NULL	Endoskop	
+endoskelet.0o	endoskeleto		NULL	NULL	NULL
+endoskelet.0o.ZOO	endoskeleto		NULL	NULL	NULL
+endoskopi.0o	endoskopio		NULL	Endoskopie	
+endoskopi.0o.MED	endoskopio		NULL	Endoskopie	
+endote.0a	endoterma		NULL	endotherm	
+endote.0a	endoterma		NULL	endothermisch	
+endote.0a	endoterma		NULL	unter Wärmezufuhr	
+ene.0ado	Eneado		NULL	Aeneis	
+ene.0ado.BELE	Eneado		NULL	Aeneis	
+ene.0o	Eneo		NULL	Aeneas	
+ene.0o.NOM	Eneo	1	NULL	Aeneas	
+ene.0o.PERS	Eneo	2	NULL	Aeneas	
+energi.0a	energia		ekz_37	NULL	NULL
+energi.0a.drasta	energia	2	ekz_37	energisch	
+energi.0a.posedantaEnergion	energia	1	ekz_37	energetisch	
+energi.0e	energie		antparol	energisch	
+energi.0o	energio		NULL	Energie	
+energi.0o.FIZ	energio	2	NULL	Energie	
+energi.0o.forto	energio	1	NULL	Energie	
+energi.akv0o	akvenergio		NULL	Wasserkraft	
+energi.akv0o	akvoenergio		NULL	Wasserkraft	
+energi.akv0o.TEK	akvenergio		NULL	Wasserkraft	
+energi.akv0o.TEK	akvoenergio		NULL	Wasserkraft	
+energi.fosilia0o	fosilia energio		NULL	fossile Energie	
+energi.fosilia0o.TEK	fosilia energio		NULL	fossile Energie	
+energi.kern0o	kernenergio		NULL	Kernenergie	
+energi.kern0o	atomenergio		NULL	Kernenergie	
+energi.kern0o	nuklea energio		NULL	Kernenergie	
+energi.kern0o	kernenergio		NULL	Atomenergie	
+energi.kern0o	atomenergio		NULL	Atomenergie	
+energi.kern0o	nuklea energio		NULL	Atomenergie	
+energi.kern0o.TEK	kernenergio		NULL	Kernenergie	
+energi.kern0o.TEK	atomenergio		NULL	Kernenergie	
+energi.kern0o.TEK	nuklea energio		NULL	Kernenergie	
+energi.kern0o.TEK	kernenergio		NULL	Atomenergie	
+energi.kern0o.TEK	atomenergio		NULL	Atomenergie	
+energi.kern0o.TEK	nuklea energio		NULL	Atomenergie	
+energi.renovigxanta0o	renoviĝanta energio		NULL	erneuerbare Energie	
+energi.renovigxanta0o	renovigebla energio		NULL	erneuerbare Energie	
+energi.renovigxanta0o.TEK	renoviĝanta energio		NULL	erneuerbare Energie	
+energi.renovigxanta0o.TEK	renovigebla energio		NULL	erneuerbare Energie	
+energi.sun0o	sunenergio		NULL	Sonnenenergie	
+energi.sun0o.TEK	sunenergio		NULL	Sonnenenergie	
+energi.tervarma0o	tervarma energio		NULL	Erdwärme	
+energi.tervarma0o	geoterma energio		NULL	Erdwärme	
+energi.tervarma0o.TEK	tervarma energio		NULL	Erdwärme	
+energi.tervarma0o.TEK	geoterma energio		NULL	Erdwärme	
+energi.vent0o	ventenergio		NULL	Windenergie	
+energi.vent0o	ventoenergio		NULL	Windenergie	
+energi.vent0o	ventenergio		NULL	Windkraft	
+energi.vent0o	ventoenergio		NULL	Windkraft	
+energi.vent0o.TEK	ventenergio		NULL	Windenergie	
+energi.vent0o.TEK	ventoenergio		NULL	Windenergie	
+energi.vent0o.TEK	ventenergio		NULL	Windkraft	
+energi.vent0o.TEK	ventoenergio		NULL	Windkraft	
+enfil.0i	enfili		NULL	mit Feuer bestreichen	
+enfil.0i	enfili		NULL	der Länge nach beschießen	
+engagx.0i	engaĝi		NULL	engagieren	
+engagx.0igxi	engaĝiĝi		NULL	engagieren	sich engagieren
+engagx.0igxi	engaĝiĝi		NULL	aktiv	aktiv werden
+enigm.0a	enigma		NULL	rätselhaft	
+enigm.0a	enigma		NULL	schleierhaft	
+enigm.0a	enigma		NULL	geheimnisvoll	
+enigm.0a.nekomprenebla	enigma		NULL	rätselhaft	
+enigm.0a.nekomprenebla	enigma		NULL	schleierhaft	
+enigm.0a.nekomprenebla	enigma		NULL	geheimnisvoll	
+enigm.0o	enigmo		NULL	Rätsel	
+enigm.0o.FIG	enigmo	2	NULL	Geheimnis	
+enigm.0o.FIG	enigmo	2	NULL	Rätsel	
+enigm.0o.SPO	enigmo	1	NULL	Ratespiel	
+enigm.0o.SPO	enigmo	1	NULL	Rätsel	
+enigm.krucvort0o	krucvortenigmo		NULL	Kreuzworträtsel	
+enigm.krucvort0o	vortkrucenigmo		NULL	Kreuzworträtsel	
+enigm.krucvort0o.SPO	krucvortenigmo		NULL	Kreuzworträtsel	
+enigm.krucvort0o.SPO	vortkrucenigmo		NULL	Kreuzworträtsel	
+enjekc.0a	enjekcia		NULL	injektiv	
+enjekc.0o	enjekcio		NULL	Injektion	
+enket.0i	enketi		NULL	erheben	
+enket.0i	enketi		NULL	ermitteln	
+enket.0i	enketi		NULL	untersuchen	
+enket.0ilo	enketilo		NULL	NULL	NULL
+enket.0ilo.KOMUNE	enketilo		NULL	Fragebogen	
+enket.0isto	enketisto		NULL	Ermittler	
+enket.0isto	enketisto		NULL	Statistiker	
+enket.0isto.homo	enketisto		NULL	Ermittler	
+enket.0isto.homo	enketisto		NULL	Statistiker	
+enket.0o	enketo		NULL	Untersuchung	
+enket.0o.JUR	enketo	1	NULL	Ermittlung	
+enket.0o.JUR	enketo	1	NULL	Untersuchung	
+enket.0o.esploro	enketo	2	NULL	Erhebung	
+enket.0o.esploro	enketo	2	NULL	Umfrage	
+enket.0o.esploro	enketo	2	NULL	Untersuchung	
+enket.opini0o	opinienketo		NULL	Meinungsumfrage	
+enket.opini0o.opinisondo	opinienketo		NULL	Meinungsumfrage	
+enklav.0o	enklavo		NULL	NULL	NULL
+enklav.0o.POL	enklavo		NULL	NULL	NULL
+enklit.0o	enklitiko		NULL	NULL	NULL
+enklit.0o.Eo	enklitiko	2	NULL	halbdiftongisches (Esperanto-)Wort	
+enklit.0o.Eo	enklitiko	2	NULL	schwach betontes zweisilbiges (Esperanto-)Wort	
+enklit.0o.greka	enklitiko	1	NULL	Enklitikon	
+enklit.0o.greka	enklitiko	1	NULL	Enklitikum	
+enklit.0o.greka	enklitiko	1	NULL	schwach betontes Wort	
+enorm.0a	enorma		NULL	enorm	
+enorm.0a	enorma		NULL	außergewöhnlich	
+enorm.0a.ega	enorma		NULL	enorm	
+enorm.0a.ega	enorma		NULL	außergewöhnlich	
+enorm.0e	enorme		NULL	enorm	
+enorm.0e.ege	enorme		NULL	enorm	
+enoter.0o	enotero		NULL	Nachtkerze	
+ensemb.0o	ensemblo		NULL	Ensemble	
+ensemb.0o.KOMUNE	ensemblo		NULL	Ensemble	
+entabl.0o	entablemento		NULL	Hauptgesims	
+entabl.0o	entablemento		NULL	Gebälk	
+enteri.0o	enterito		NULL	Darmentzündung	
+enteri.0o	enterito		NULL	Enteritis	Enteritis [fak]
+entjer.0a	entjera		NULL	ganz	
+entjer.0a	entjera		NULL	ganzwertig	
+entjer.0a	entjera		NULL	ganzzahlig	
+entjer.0o	entjero		NULL	Zahl	ganze Zahl
+entjer.gauxsa0o	gaŭsa entjero		NULL	Zahl	ganze Gaußsche Zahl
+entjer.natura0o	natura entjero		NULL	Zahl	natürliche Zahl
+entomo.0isto	entomologiisto		NULL	NULL	NULL
+entomo.0isto.SCI	entomologiisto		NULL	NULL	NULL
+entomo.0o	entomologio		oa_2	Insektenkunde	
+entomo.0o	entomologio		oa_2	Insektologie	Insektologie [ark]
+entomo.0o	entomologio		oa_2	Entomologie	Entomologie [fak]
+entomo.0o.SCI	entomologio		oa_2	Insektenkunde	
+entomo.0o.SCI	entomologio		oa_2	Insektologie	Insektologie [ark]
+entomo.0o.SCI	entomologio		oa_2	Entomologie	Entomologie [fak]
+entomolog.0o	entomologo		NULL	Entomologe	
+entomolog.0o.SCI	entomologo		NULL	Entomologe	
+entozo.0oj	entozooj		NULL	Eingeweidewürmer	
+entozo.0oj	entozooj		NULL	Entozoen	
+entrep.0ema	entreprenema		NULL	NULL	NULL
+entrep.0ema.KOMUNE	entreprenema		NULL	NULL	NULL
+entrep.0i	entrepreni		NULL	unternehmen	
+entrep.0i	entrepreni		NULL	Angriff	in Angriff nehmen
+entrep.0i.KOMUNE	entrepreni		NULL	unternehmen	
+entrep.0i.KOMUNE	entrepreni		NULL	Angriff	in Angriff nehmen
+entrep.0isto	entreprenisto		NULL	Unternehmer	
+entrep.0isto.EKON	entreprenisto		NULL	Unternehmer	
+entrep.0o	entrepreno		NULL	NULL	NULL
+entrep.0o.EKON	entrepreno	3	NULL	Unternehmen	
+entrep.0o.afero	entrepreno	2	NULL	Unternehmung	
+entrep.0o.afero	entrepreno	2	NULL	Vorhaben	
+entrep.0o.ago	entrepreno	1	NULL	Unternehmung	
+entrep.0o.ago	entrepreno	1	NULL	Vorhaben	
+entrep.kunkapitala0o	kunkapitala entrepreno		NULL	Joint Venture	
+entrep.kunkapitala0o.EKON	kunkapitala entrepreno		NULL	Joint Venture	
+entrop.0o	entropio		NULL	NULL	NULL
+entrop.0o.FIZ	entropio	1	NULL	Entropie	
+entrop.0o.FIZ	entropio	1	NULL	Wärmegewicht	Wärmegewicht [ark, termodinamiko]
+entrop.0o.MED	entropio	2	NULL	NULL	NULL
+entuzi.0a	entuziasma		NULL	begeistert	
+entuzi.0a	entuziasma		NULL	enthusiastisch	
+entuzi.0a.PSI	entuziasma		NULL	begeistert	
+entuzi.0a.PSI	entuziasma		NULL	enthusiastisch	
+entuzi.0i	entuziasmi		NULL	begeistert	begeistert sein
+entuzi.0i.PSI	entuziasmi		NULL	begeistert	begeistert sein
+entuzi.0igi	entuziasmigi		NULL	begeistern	
+entuzi.0igi.PSI	entuziasmigi		NULL	begeistern	
+entuzi.0igxi	entuziasmiĝi		NULL	begeistern	sich begeistern
+entuzi.0igxi.PSI	entuziasmiĝi		NULL	begeistern	sich begeistern
+entuzi.0o	entuziasmo		NULL	Begeisterung	
+entuzi.0o	entuziasmo		NULL	Enthusiasmus	
+entuzi.0o.PSI	entuziasmo		NULL	Begeisterung	
+entuzi.0o.PSI	entuziasmo		NULL	Enthusiasmus	
+entuzi.0ulo	entuziasmulo		NULL	Begeisterter	
+entuzi.0ulo	entuziasmemulo		NULL	Begeisterter	
+entuzi.0ulo	entuziasmulo		NULL	Schwärmer	
+entuzi.0ulo	entuziasmemulo		NULL	Schwärmer	
+entuzi.0ulo	entuziasmulo		NULL	Enthusiast	
+entuzi.0ulo	entuziasmemulo		NULL	Enthusiast	
+entuzi.0ulo.PSI	entuziasmulo		NULL	Begeisterter	
+entuzi.0ulo.PSI	entuziasmemulo		NULL	Begeisterter	
+entuzi.0ulo.PSI	entuziasmulo		NULL	Schwärmer	
+entuzi.0ulo.PSI	entuziasmemulo		NULL	Schwärmer	
+entuzi.0ulo.PSI	entuziasmulo		NULL	Enthusiast	
+entuzi.0ulo.PSI	entuziasmemulo		NULL	Enthusiast	
+entuziast.0o	entuziasto		NULL	NULL	NULL
+entuziast.0o.PSI	entuziasto		NULL	NULL	NULL
+enu.0a	enua		NULL	gelangweilt	
+enu.0a	enua		NULL	langweilig	
+enu.0a.PSI	enua		NULL	gelangweilt	
+enu.0a.PSI	enua		NULL	langweilig	
+enu.0i	enui		NULL	langweilen	sich langweilen
+enu.0i.PSI	enui		NULL	langweilen	sich langweilen
+enu.0iga	enuiga		NULL	langweilig	
+enu.0iga.PSI	enuiga		NULL	langweilig	
+enu.0igi	enuigi		NULL	langweilen	
+enu.0igi.PSI	enuigi		NULL	langweilen	
+enu.0o	enuo		NULL	Langweile	
+enu.0o.PSI	enuo		NULL	Langweile	
+enukle.0ado	enukleado		NULL	Ausschälen	
+enukle.0ado	enukleacio		NULL	Ausschälen	
+enukle.0ado	enukleado		NULL	Enukleation	Enukleation [fak]
+enukle.0ado	enukleacio		NULL	Enukleation	Enukleation [fak]
+enukle.0ado.KIR	enukleado		NULL	Ausschälen	
+enukle.0ado.KIR	enukleacio		NULL	Ausschälen	
+enukle.0ado.KIR	enukleado		NULL	Enukleation	Enukleation [fak]
+enukle.0ado.KIR	enukleacio		NULL	Enukleation	Enukleation [fak]
+enukle.0i	enuklei		NULL	ausschälen	
+enukle.0i	enukleacii		NULL	ausschälen	
+enukle.0i.KIR	enuklei		NULL	ausschälen	
+enukle.0i.KIR	enukleacii		NULL	ausschälen	
+envelo.0o	envelopo		NULL	Einhüllende	
+envelo.0o	envelopo		NULL	Umhüllungskurve	
+envelo.0o	envelopo		NULL	Envolvente	
+enverg.0o	enverguro		NULL	Spannweite	
+enverg.0o	enverguro		NULL	Flügelspannweite	
+enverg.0o.FIG	enverguro	3	NULL	Spannweite	
+enverg.0o.FIG	enverguro	3	NULL	Flügelspannweite	
+enverg.0o.MAR	enverguro	1	NULL	Spannweite	
+enverg.0o.MAR	enverguro	1	NULL	Flügelspannweite	
+enverg.0o.flugila	enverguro	2	NULL	Spannweite	
+enverg.0o.flugila	enverguro	2	NULL	Flügelspannweite	
+envi.0ema	enviema		NULL	neidisch	
+envi.0ema	enviema		NULL	missgünstig	
+envi.0ema.KOMUNE	enviema		NULL	neidisch	
+envi.0ema.KOMUNE	enviema		NULL	missgünstig	
+envi.0i	envii		NULL	NULL	NULL
+envi.0i.ion	envii	1	NULL	beneiden	
+envi.0i.ion	envii	1	NULL	neidisch sein	
+envi.0i.iun	envii	2	NULL	missgönnen	
+envi.0inda	enviinda		NULL	beneidenswert	
+envi.0inda.KOMUNE	enviinda		NULL	beneidenswert	
+envi.0o	envio		NULL	Neid	
+envi.0o	envio		NULL	Missgunst	
+envi.0o.KOMUNE	envio		NULL	Neid	
+envi.0o.KOMUNE	envio		NULL	Missgunst	
+envult.0i	envulti		NULL	verfluchen	mit einer Voodoopuppe verfluchen
+envult.0i.MAG	envulti		NULL	verfluchen	mit einer Voodoopuppe verfluchen
+envult.0o	envulto		NULL	NULL	NULL
+envult.0o.MAG	envulto		NULL	NULL	NULL
+enzim.0o	enzimo		NULL	Enzym	
+enzim.0o.FIZL	enzimo		NULL	Enzym	
+eocen.0o	eoceno		NULL	Eozän	
+eocen.0o.GEOL	eoceno		NULL	Eozän	
+eon.0o	eono		NULL	NULL	NULL
+eon.0o.GEOL	eono		NULL	Äon	
+eozin.0o	eozino		NULL	Eosin	
+epakt.0o	epakto		NULL	Epakte	
+eparki.0o	eparkio		NULL	Eparchie	
+ependi.0o	ependimo		NULL	Ependym	
+ependi1.0o	ependimito		NULL	Ependymitis	
+epicentr.0o	epicentro		NULL	epizentrum	
+epicentr.0o.SNC	epicentro		NULL	epizentrum	
+epicik.0o	epicikloido		NULL	Epizykloide	
+epicik.longigita0o	longigita epicikloido		NULL	Epizykloide	verlängerte Epizykloide
+epicik.mallongigita0o	mallongigita epicikloido		NULL	Epizykloide	verkürzte Epizykloide
+epidem.0a	epidemia		NULL	epidemisch	
+epidem.0a	epidemia		NULL	seuchenhaft	
+epidem.0a.MED	epidemia		NULL	epidemisch	
+epidem.0a.MED	epidemia		NULL	seuchenhaft	
+epidem.0o	epidemio		NULL	Epidemie	
+epidem.0o	epidemio		NULL	Seuche	
+epidem.0o	epidemio		NULL	Ausbruch	Ausbruch (Krankheit)
+epidem.0o.MED	epidemio		NULL	Epidemie	
+epidem.0o.MED	epidemio		NULL	Seuche	
+epidem.0o.MED	epidemio		NULL	Ausbruch	Ausbruch (Krankheit)
+epidemiolog.0o	epidemiologo		NULL	Epidemiologe	
+epidemiolog.0o.MED	epidemiologo		NULL	Epidemiologe	
+epidemiologi.0isto	epidemiologiisto		NULL	Epidemiologe	
+epidemiologi.0isto.MED	epidemiologiisto		NULL	Epidemiologe	
+epidemiologi.0o	epidemiologio		NULL	Epidemiologie	
+epidemiologi.0o.MED	epidemiologio		NULL	Epidemiologie	
+epider.0o	epidermo		NULL	Oberhaut	
+epider.0o	epidermo		NULL	Epidermis	Epidermis (Anatomie)
+epifan.0o	Epifanio		NULL	Epiphanie	
+epifan.0o	Epifanio		NULL	Epiphaniasfest	
+epifenomen.0o	epifenomeno		NULL	NULL	NULL
+epifenomen.0o.FIL	epifenomeno		NULL	NULL	NULL
+epifiz.0o	epifizo		NULL	Epiphyse	
+epifiz.0o	epifizo		NULL	Epiphysis	
+epifiz.0o	epifizo		NULL	Knochenendstück	
+epifiz.0o	epifizo		NULL	Röhrenknochenendstück	
+epifonem.0o	epifonemo		NULL	Lehre	Lehre (einer Geschichte)
+epifonem.0o	epifonemo		NULL	Moral	Moral (einer Geschichte)
+epifonem.0o.BELE	epifonemo		NULL	Lehre	Lehre (einer Geschichte)
+epifonem.0o.BELE	epifonemo		NULL	Moral	Moral (einer Geschichte)
+epifor.0o	epiforo		NULL	Tränenfluss	
+epifor.0o	epiforo		NULL	Tränenträufeln	
+epifor.0o	epiforo		NULL	Augentriefen	
+epigas.0a	epigastra		NULL	NULL	NULL
+epigas.0a.ANA	epigastra		NULL	NULL	NULL
+epigas.0o	epigastro		NULL	Magengegend	
+epigas.0o	epigastro		NULL	Oberbauchgegend	
+epigas.0o	epigastro		NULL	Epigastrium	Epigastrium [fak]
+epigas.0o.ANA	epigastro		NULL	Magengegend	
+epigas.0o.ANA	epigastro		NULL	Oberbauchgegend	
+epigas.0o.ANA	epigastro		NULL	Epigastrium	Epigastrium [fak]
+epigenetik.0o	epigenetiko		NULL	NULL	NULL
+epigenetik.0o.GNT	epigenetiko		NULL	NULL	NULL
+epiglo.0o	epigloto		NULL	Kehldeckel	
+epigon.0o	epigono		NULL	NULL	NULL
+epigon.0o.BOT	epigono	1	NULL	Epigonium	
+epigon.0o.BOT	epigono	1	NULL	Pseudoperianth	Pseudoperianth (Moose)
+epigon.0o.MIT	epigono	3	NULL	Epigone	
+epigon.0o.kopiulo	epigono	2	NULL	Nachahmer	
+epigon.0o.kopiulo	epigono	2	NULL	Epigone	
+epigon.0o.kopiulo	epigono	2	NULL	Trittbrettfahrer	
+epigra.0o	epigrafo		NULL	Inschrift	
+epigra.0o	epigrafo		NULL	Motto	
+epigra.0o	epigrafo		NULL	Epigraph	
+epigra.0o.ARKE	epigrafo	1	NULL	Inschrift auf Denkmälern	
+epigra.0o.ARKE	epigrafo	1	NULL	Inschrift	
+epigra.0o.ARKE	epigrafo	1	NULL	Motto	
+epigra.0o.ARKE	epigrafo	1	NULL	Epigraph	
+epigra.0o.moto	epigrafo	2	NULL	Inschrift	
+epigra.0o.moto	epigrafo	2	NULL	Motto	
+epigra.0o.moto	epigrafo	2	NULL	Inschrift	
+epigra.0o.moto	epigrafo	2	NULL	Motto	
+epigra.0o.moto	epigrafo	2	NULL	Epigraph	
+epigra1.0o	epigramo		NULL	Sinngedicht	
+epigra1.0o	epigramo		NULL	Spottgedicht	
+epigra1.0o	epigramo		NULL	Epigramm	
+epigra1.0o.POE	epigramo		NULL	Sinngedicht	
+epigra1.0o.POE	epigramo		NULL	Spottgedicht	
+epigra1.0o.POE	epigramo		NULL	Epigramm	
+epigrafik.0isto	epigrafikisto		NULL	NULL	NULL
+epigrafik.0isto.ARKE	epigrafikisto		NULL	NULL	NULL
+epigrafik.0o	epigrafiko		NULL	NULL	NULL
+epigrafik.0o.ARKE	epigrafiko		NULL	NULL	NULL
+epikar.0o	epikarpo		NULL	Epikarpo	
+epikar.0o	epikarpo		NULL	äußerste Schicht der Fruchtschale	
+epikur.0o	Epikuro		NULL	Epikur	
+epikur.0o.PERS	Epikuro		NULL	Epikur	
+epikur.e0a	epikura		NULL	epikureisch	
+epikur.e0a.FIL	epikura		NULL	epikureisch	
+epikur.e0ano	epikurano		NULL	Epikureer	
+epikur.e0ano.FIL	epikurano	1	NULL	Epikureer	
+epikur.e0ano.KOMUNE	epikurano	2	NULL	Epikureer	
+epikur.e0ismo	epikurismo		NULL	NULL	NULL
+epikur.e0ismo.FIL	epikurismo	1	NULL	Epikurismus	
+epikur.e0ismo.KOMUNE	epikurismo	2	NULL	Epikurismus	
+epikur.e0ismo.KOMUNE	epikurismo	2	NULL	Genusssucht	
+epilep.0o	epilepsio		NULL	Epilepsie	
+epilep.0o	epilepsio		NULL	Fallsucht	Fallsucht (veraltet)
+epilob.0o	epilobio		NULL	Weidenröschen	
+epilog.0o	epilogo		NULL	Nachrede	
+epilog.0o	epilogo		NULL	Nachspiel	
+epilog.0o	epilogo		NULL	Schluss	
+epilog.0o	epilogo		NULL	Epilog	
+epiorn.0o	epiornito		NULL	Aepyornis	
+epiorn.0o.ZOO	epiornito		NULL	Aepyornis	
+episko.0aro	episkoparo		NULL	NULL	NULL
+episko.0aro.KRI	episkoparo		NULL	NULL	NULL
+episko.0ejo	episkopejo		NULL	Bischofssitz	
+episko.0ejo.KRI	episkopejo		NULL	Bischofssitz	
+episko.0lando	episkoplando		NULL	NULL	NULL
+episko.0lando.0ujo	episkoplando	1	NULL	NULL	NULL
+episko.0lando.sxtato	episkoplando	2	NULL	NULL	NULL
+episko.0o	episkopo		ekz_42	Bischof	
+episko.0o.KRI	episkopo		ekz_42	Bischof	
+episko.0ujo	episkopujo		NULL	Bistum	
+episko.0ujo.KRI	episkopujo		NULL	Bistum	
+episko.cxef0o	ĉefepiskopo		uv_E	Erzbischof	
+episko.cxef0o.KRI	ĉefepiskopo		uv_E	Erzbischof	
+epistemolog.0o	epistemologo		NULL	NULL	NULL
+epistemolog.0o.FIL	epistemologo		NULL	NULL	NULL
+epistemologi.0o	epistemologio		NULL	Epistemologie	
+epistemologi.0o.FIL	epistemologio		NULL	Epistemologie	
+episto.0o	epistolo		NULL	NULL	NULL
+episto.0o.KOMUNE	epistolo		NULL	NULL	NULL
+epitaf.0o	epitafo		NULL	Grabplatte mit Inschrift	
+epitaf.0o	epitafo		NULL	Epitaph	
+epitel.0o	epitelio		NULL	Deckzellenschicht	
+epitel.0o	epitelio		NULL	Epithel	
+epitel.0o	epitelio		NULL	Epithelium	
+epitet.0i	epiteti		NULL	NULL	NULL
+epitet.0i.BELE	epiteti		NULL	NULL	NULL
+epitet.0o	epiteto		NULL	Epitheton	
+epitet.0o	epiteto		NULL	Beiwort	
+epitet.0o.BELE	epiteto	2	NULL	Epitheton	
+epitet.0o.BELE	epiteto	2	NULL	Beiwort	
+epitet.0o.GRA	epiteto	1	NULL	Epitheton	
+epitet.0o.GRA	epiteto	1	NULL	Beiwort	
+epitet.trop0o	tropepiteto		NULL	NULL	NULL
+epitet.trop0o.BELE	tropepiteto		NULL	NULL	NULL
+epitom.0o	epitomo		NULL	Abriss	
+epitom.0o	epitomo		NULL	Kurzfassung	
+epitom.0o	epitomo		NULL	Auszug	
+epitom.0o	epitomo		NULL	Epitome	
+epitom.0o.BELE	epitomo		NULL	Abriss	
+epitom.0o.BELE	epitomo		NULL	Kurzfassung	
+epitom.0o.BELE	epitomo		NULL	Auszug	
+epitom.0o.BELE	epitomo		NULL	Epitome	
+epitro.0o	epitroĥoido		NULL	Epitrochoide	
+epizod.0a	epizoda		NULL	flüchtig	
+epizod.0a	epizoda		NULL	eingeschaltet	
+epizod.0a	epizoda		NULL	nebenher	
+epizod.0a	epizoda		NULL	episodisch	
+epizod.0a.BELE	epizoda		NULL	flüchtig	
+epizod.0a.BELE	epizoda		NULL	eingeschaltet	
+epizod.0a.BELE	epizoda		NULL	nebenher	
+epizod.0a.BELE	epizoda		NULL	episodisch	
+epizod.0o	epizodo		NULL	NULL	NULL
+epizod.0o.BELE	epizodo	1	NULL	Nebenhandlung	
+epizod.0o.BELE	epizodo	1	NULL	Zwischenhandlung	
+epizod.0o.KOMUNE	epizodo	2	NULL	Zwischenfall	
+epizod.0o.KOMUNE	epizodo	2	NULL	Episode	
+epizoo.0o	epizootio		NULL	Tierseuche	
+epizoo.0o	epizootio		NULL	Viehseuche	
+epizoo.0o	epizootio		NULL	Viehsterben	
+epizoo.0o	epizootio		NULL	Epizootie	Epizootie [fak]
+epok.0fara	epokfara		NULL	epochal	
+epok.0fara	epokfara		NULL	Epoche	Epoche machend
+epok.0fara	epokfara		NULL	Geschichte	Geschichte machend
+epok.0fara	epokfara		NULL	bedeutsam	geschichtlich bedeutsam
+epok.0fara.KOMUNE	epokfara		NULL	epochal	
+epok.0fara.KOMUNE	epokfara		NULL	Epoche	Epoche machend
+epok.0fara.KOMUNE	epokfara		NULL	Geschichte	Geschichte machend
+epok.0fara.KOMUNE	epokfara		NULL	bedeutsam	geschichtlich bedeutsam
+epok.0o	epoko		NULL	Epoche	
+epok.0o.GEOL	epoko	4	NULL	Epoche	
+epok.0o.evento	epoko	1	NULL	Wendepunkt	
+epok.0o.evento	epoko	1	NULL	Wendezeit	
+epok.0o.evento	epoko	1	NULL	Markstein	
+epok.0o.evento	epoko	1	NULL	Epoche	
+epok.0o.fazo	epoko	3	NULL	Lebensabschnitt	
+epok.0o.fazo	epoko	3	NULL	Epoche	
+epok.0o.periodo	epoko	2	NULL	Zeitalter	
+epok.0o.periodo	epoko	2	NULL	Zeitabschnitt	
+epok.0o.periodo	epoko	2	NULL	Zeit	
+epok.0o.periodo	epoko	2	NULL	Periode	
+epok.0o.periodo	epoko	2	NULL	Epoche	
+epok.bronz0o	bronzepoko		NULL	Bronzezeit	
+epok.bronz0o.PRA	bronzepoko		NULL	Bronzezeit	
+epok.fer0o	ferepoko		NULL	Eisenzeit	
+epok.fer0o.PRA	ferepoko		NULL	Eisenzeit	
+epok.glaci0o	glaciepoko		NULL	Eiszeit	
+epok.glaci0o	glacia epoko		NULL	Eiszeit	
+epok.glaci0o.PRA	glaciepoko		NULL	Eiszeit	
+epok.glaci0o.PRA	glacia epoko		NULL	Eiszeit	
+epok.kupr0o	kuprepoko		NULL	Kupferzeit	
+epok.kupr0o.PRA	kuprepoko		NULL	Kupferzeit	
+epok.malnov0o	malnovepoko		NULL	Altertum	
+epok.malnov0o.antikvo	malnovepoko		NULL	Altertum	
+epok.mez0o	mezepoko		NULL	Mittelalter	
+epok.mez0o.HIS	mezepoko		NULL	Mittelalter	
+epok.nova0o	Nova Epoko		NULL	New Age	
+epok.nova0o	Novepokismo		NULL	New Age	
+epok.nova0o.REL	Nova Epoko		NULL	New Age	
+epok.nova0o.REL	Novepokismo		NULL	New Age	
+epok.or0o	orepoko		NULL	Zeitalter	Goldenes Zeitalter
+epok.or0o.FIG	orepoko	2	NULL	Zeitalter	Goldenes Zeitalter
+epok.or0o.MIT	orepoko	1	NULL	Zeitalter	Goldenes Zeitalter
+epok.pra0o	praepoko		NULL	Urzeit	
+epok.sam0a	samepoka		NULL	zeitgenössisch	
+epok.sam0a.KOMUNE	samepoka		NULL	zeitgenössisch	
+epok.sxton0o	ŝtonepoko		NULL	Steinzeit	
+epok.sxton0o.PRA	ŝtonepoko		NULL	Steinzeit	
+epolet.0o	epoleto		NULL	Achselstück	
+epolet.0o	epoleto		NULL	Schulterstück	
+epolet.0o	epoleto		NULL	Schulterklappe	
+epolet.0o	epoleto		NULL	Epaulette	
+epolet.0o.TEKS	epoleto		NULL	Achselstück	
+epolet.0o.TEKS	epoleto		NULL	Schulterstück	
+epolet.0o.TEKS	epoleto		NULL	Schulterklappe	
+epolet.0o.TEKS	epoleto		NULL	Epaulette	
+epope.0o	epopeo		NULL	Epos	
+epope.0o	epopeo		NULL	Heldengedicht	
+epope.0o.FIG	epopeo	2	NULL	Epos	
+epope.0o.FIG	epopeo	2	NULL	Heldengedicht	
+epope.0o.POE	epopeo	1	NULL	Epos	
+epope.0o.POE	epopeo	1	NULL	Heldengedicht	
+epos.0o	eposo		NULL	episches Gedicht	
+epos.0o.POE	eposo		NULL	episches Gedicht	
+epsilon.0o	epsilono		NULL	NULL	NULL
+epsilon.0o.LIN	epsilono		NULL	NULL	NULL
+er.0	-er		ekz_41	NULL	NULL
+er.0.ajxo	-er	1	ekz_41	NULL	NULL
+er.0.okazo	-er	2	ekz_41	NULL	NULL
+er.0igi	erigi		NULL	unterteilen	
+er.0igi	erigi		NULL	zerkleinern	
+er.0o	ero		NULL	Stück	
+er.0o	ero		NULL	Teil	
+er.0o	ero		NULL	Brösel	
+er.0o	ero		NULL	Glied	
+er.0o	ero		NULL	Tropfen	
+er.0o	ero		NULL	Korn	
+er.0o	ero		NULL	Span	
+er.dis0igi	diserigi		NULL	zerkleinern	
+er.dis0igi	diserigi		NULL	zerstückeln	
+er.dis0igi	diserigi		NULL	zerbröseln	
+er.dis0igxema	diseriĝema		NULL	brüchig	
+er.dis0igxema	diseriĝema		NULL	bröselig	
+er.dis0igxema	diseriĝema		NULL	bröckelig	
+er.dis0igxema.KOMUNE	diseriĝema		NULL	brüchig	
+er.dis0igxema.KOMUNE	diseriĝema		NULL	bröselig	
+er.dis0igxema.KOMUNE	diseriĝema		NULL	bröckelig	
+er.dis0igxi	diseriĝi		NULL	zerfallen	
+er1.0o	ero		NULL	Ära	
+er1.0o	ero		NULL	Zeitrechnung	
+er1.0o	ero		NULL	Zeitalter	
+er1.0o.KAL	ero		NULL	Ära	
+er1.0o.KAL	ero		NULL	Zeitrechnung	
+er1.0o.KAL	ero		NULL	Zeitalter	
+era.0o	erao		NULL	Ära	
+era.0o.GEOL	erao	3	NULL	Ära	
+era.0o.KAL	erao	1	NULL	Zeitrechnung	
+era.0o.KAL	erao	1	NULL	Ära	
+era.0o.epoko	erao	4	NULL	Ära	
+era.0o.post	erao	2	NULL	Zeitalter	
+era.0o.post	erao	2	NULL	Ära	
+eranti.0o	erantido		NULL	Winterling	
+erar.0a	erara		NULL	falsch	
+erar.0a	erara		NULL	fehlerhaft	
+erar.0a.KOMUNE	erara		NULL	falsch	
+erar.0a.KOMUNE	erara		NULL	fehlerhaft	
+erar.0ema	erarema		NULL	fehlbar	
+erar.0ema	erarema		NULL	fehleranfällig	
+erar.0ema.KOMUNE	erarema		NULL	fehlbar	
+erar.0ema.KOMUNE	erarema		NULL	fehleranfällig	
+erar.0i	erari		ekz_10	irren	
+erar.0i.opinii	erari	1	ekz_10	irren	
+erar.0i.peki	erari	2	ekz_10	irren	
+erar.0i.vojon	erari	3	ekz_10	irren	
+erar.0igi	erarigi		NULL	irreführen	
+erar.0igi	erarigi		NULL	täuschen	
+erar.0igi.KOMUNE	erarigi		NULL	irreführen	
+erar.0igi.KOMUNE	erarigi		NULL	täuschen	
+erar.0o	eraro		NULL	Fehler	
+erar.0o	eraro		NULL	Irrtum	
+erar.0o.KOMUNE	eraro	1	NULL	Fehler	
+erar.0o.KOMUNE	eraro	1	NULL	Irrtum	
+erar.0o.peko	eraro	2	NULL	Fehltritt	
+erar.0o.peko	eraro	2	NULL	Fehler	
+erar.0o.peko	eraro	2	NULL	Irrtum	
+erar.sen0a	senerara		NULL	fehlerfrei	
+erar.sen0a	senerara		NULL	korrekt	
+erar.sen0a	senerara		NULL	richtig	
+erar.sen0a	senerara		NULL	makellos	
+erar.sens0o	senseraro		NULL	NULL	NULL
+erar.sens0o	senteraro		NULL	NULL	NULL
+erar.sens0o.FIL	senseraro		NULL	Sinnestäuschung	
+erar.sens0o.FIL	senteraro		NULL	Sinnestäuschung	
+erar.sens0o.FIL	senseraro		NULL	Fehlwahrnehmung	
+erar.sens0o.FIL	senteraro		NULL	Fehlwahrnehmung	
+erasm.0o	Erasmo		NULL	Erasmus von Rotterdam	
+erbi.0o	erbio		NULL	Erbium	
+erc.0o	erco		NULL	Erz	
+erekt.0a	erekta		NULL	NULL	NULL
+erekt.0igxi	erektiĝi		NULL	NULL	NULL
+erekt.0igxi.FIZL	erektiĝi		NULL	NULL	NULL
+erekt.0o	erekto		NULL	NULL	NULL
+erekt.0o	erektiĝo		NULL	NULL	NULL
+erevan.0o	Erevano		NULL	NULL	NULL
+erevan.0o.cxefurbo	Erevano		NULL	Jerewan	
+erfurt.0o	Erfurto		NULL	Erfurt	
+erg.0o	ergo		NULL	Erg	
+ergin.0o	ergino		NULL	Ergin	
+ergogr.0o	ergografo		NULL	Ergograph	
+ergogr.0o.aparato	ergografo		NULL	Ergograph	
+ergolo.0o	ergologio		NULL	Ergologie	
+ergome.0o	ergometro		NULL	Ergometer	
+ergonomi.0a	ergonomia		NULL	ergonomisch	
+ergonomi.0a.TEK	ergonomia		NULL	ergonomisch	
+ergonomi.0o	ergonomio		NULL	Ergonomie	
+ergonomi.0o.TEK	ergonomio		NULL	Ergonomie	
+ergot.0fungo	ergotfungo		NULL	NULL	NULL
+ergot.0fungo.BOT	ergotfungo		NULL	Keulenkopf	Roter Keulenkopf
+ergot.0fungo.BOT	ergotfungo		NULL	Hahnensporn	
+ergot.0fungo.BOT	ergotfungo		NULL	Hahnenpilz	Purpurroter Hahnenpilz
+ergot.0o	ergoto		NULL	NULL	NULL
+ergot.0o.BOT	ergoto	1	NULL	Mutterkorn	
+ergot.0o.ZOO	ergoto	2	NULL	Sporn	
+ergot.0o.ZOO	ergoto	2	NULL	Afterklaue	
+ergoti.0o	ergotino		NULL	Ergotin	
+eri.0o	Erio		NULL	NULL	NULL
+eri.0o.granda_lago	Erio		NULL	Eriesee	
+eridan.0o	Eridano		NULL	NULL	NULL
+eridan.0o.AST	Eridano		NULL	Eridanus	
+erik.0ejo	erikejo		NULL	Heide	
+erik.0ejo.GEOG	erikejo		NULL	Heide	
+erik.0o	eriko		oa_2	Heidekraut	
+erik.0o	eriko		oa_2	Erika	
+erik.0o.BOT	eriko		oa_2	Heidekraut	
+erik.0o.BOT	eriko		oa_2	Erika	
+erik1.0o	Eriko		NULL	Erik	
+erik1.0o.NOM	Eriko		NULL	Erik	
+erikac.0oj	erikacoj		NULL	Heidekrautgewächse	
+erinac.0o	erinaco		NULL	Igel	
+erinac.0o.ZOO	erinaco		NULL	Igel	
+erinac.mar0o	marerinaco		NULL	Seeigel	
+erinac.mar0o.ZOO	marerinaco		NULL	Seeigel	
+erinac.posx0o	poŝerinaco		NULL	Ameisenigel	
+erinac.posx0o	poŝerinaco		NULL	Schnabeligel	
+erinac.posx0o.ZOO	poŝerinaco		NULL	Ameisenigel	
+erinac.posx0o.ZOO	poŝerinaco		NULL	Schnabeligel	
+erinac1.0oj	erinacedoj		NULL	Igel	Igel (Familie)
+eringi.0o	eringio		NULL	Mannstreu	
+eriofo.0o	erioforo		NULL	Wollgras	
+eritre.E0o	Eritreo		NULL	NULL	NULL
+eritre.E0o.GEOG	Eritreo		NULL	Eritrea	
+eritro.0o	eritrozino		NULL	Erythrosin	
+eritrocit.0o	eritrocito		NULL	Erythrozyt	
+eritrocit.0o.FIZL	eritrocito		NULL	Erythrozyt	
+erizim.0o	erizimo		NULL	Schöterich	
+erizip.0o	erizipelo		oa_2	Wundrose	
+erizip.0o	erizipelo		oa_2	Erysipel	
+ermen.0o	ermeno		NULL	Hermelin	
+ermit.0ejo	ermitejo		NULL	Eremitage	
+ermit.0ejo	ermitejo		NULL	Klause	
+ermit.0ejo	ermitejo		NULL	Einsiedelei	
+ermit.0ludo	ermitludo		NULL	Patience	
+ermit.0o	ermito		NULL	NULL	NULL
+ermit.0o.FIG	ermito	2	NULL	Einsiedler	
+ermit.0o.FIG	ermito	2	NULL	Einzelgänger	
+ermit.0o.REL	ermito	1	NULL	Eremit	
+ermit.0o.REL	ermito	1	NULL	Klausner	
+ermit.0o.REL	ermito	1	NULL	Einsiedler	
+ernest.0cxjo	Erneĉjo		NULL	NULL	NULL
+ernest.0cxjo	Erĉjo		NULL	NULL	NULL
+ernest.0ino	Ernestino		NULL	NULL	NULL
+ernest.0ino	Ernenjo		NULL	NULL	NULL
+ernest.0ino	Ernjo		NULL	NULL	NULL
+ernest.0o	Ernesto		ekz_38	Ernst	
+eros.0o	Eroso		NULL	Eros	
+erotik.0a	erotika		NULL	erotisch	
+erotik.0a	erota		NULL	erotisch	
+erotik.0a.AMOR	erotika	2	NULL	erotisch	
+erotik.0a.AMOR	erota	2	NULL	erotisch	
+erotik.0a.BELE	erotika	1	NULL	erotisch	
+erotik.0a.BELE	erota	1	NULL	erotisch	
+erotik.0i	erotiki		NULL	begehren	
+erotik.0i	eroti		NULL	begehren	
+erotik.0i.senti	erotiki		NULL	begehren	
+erotik.0i.senti	eroti		NULL	begehren	
+erotik.0o	erotiko		NULL	Erotik	
+erotik.0o.sublimigita	erotiko		NULL	Erotik	
+erotom.0o	erotomanio		NULL	Erotomanie	
+erotom.0o	erotomanio		NULL	Liebeswahn	
+erotom.0o	erotomanio		NULL	Liebeszwang	
+erozi.0i	erozii		NULL	erodieren	(etwas) erodieren
+erozi.0i	erodi		NULL	erodieren	(etwas) erodieren
+erozi.0i	erozii		NULL	abtragen	
+erozi.0i	erodi		NULL	abtragen	
+erozi.0i	erozii		NULL	auswaschen	
+erozi.0i	erodi		NULL	auswaschen	
+erozi.0i	erozii		NULL	abschwemmen	
+erozi.0i	erodi		NULL	abschwemmen	
+erozi.0i.FIG	erozii	2	NULL	zersetzen	
+erozi.0i.FIG	erodi	2	NULL	zersetzen	
+erozi.0i.FIG	erozii	2	NULL	erodieren	(etwas) erodieren
+erozi.0i.FIG	erodi	2	NULL	erodieren	(etwas) erodieren
+erozi.0i.FIG	erozii	2	NULL	abtragen	
+erozi.0i.FIG	erodi	2	NULL	abtragen	
+erozi.0i.FIG	erozii	2	NULL	auswaschen	
+erozi.0i.FIG	erodi	2	NULL	auswaschen	
+erozi.0i.FIG	erozii	2	NULL	abschwemmen	
+erozi.0i.FIG	erodi	2	NULL	abschwemmen	
+erozi.0i.GEOL	erozii	1	NULL	erodieren	(etwas) erodieren
+erozi.0i.GEOL	erodi	1	NULL	erodieren	(etwas) erodieren
+erozi.0i.GEOL	erozii	1	NULL	abtragen	
+erozi.0i.GEOL	erodi	1	NULL	abtragen	
+erozi.0i.GEOL	erozii	1	NULL	auswaschen	
+erozi.0i.GEOL	erodi	1	NULL	auswaschen	
+erozi.0i.GEOL	erozii	1	NULL	abschwemmen	
+erozi.0i.GEOL	erodi	1	NULL	abschwemmen	
+erozi.0igxi	eroziiĝi		NULL	verwittern	
+erozi.0igxi	erodiĝi		NULL	verwittern	
+erozi.0igxi	eroziiĝi		NULL	erodieren	
+erozi.0igxi	erodiĝi		NULL	erodieren	
+erozi.0igxi	eroziiĝi		NULL	zersetzen	sich zersetzen
+erozi.0igxi	erodiĝi		NULL	zersetzen	sich zersetzen
+erozi.0igxi.KOMUNE	eroziiĝi		NULL	verwittern	
+erozi.0igxi.KOMUNE	erodiĝi		NULL	verwittern	
+erozi.0igxi.KOMUNE	eroziiĝi		NULL	erodieren	
+erozi.0igxi.KOMUNE	erodiĝi		NULL	erodieren	
+erozi.0igxi.KOMUNE	eroziiĝi		NULL	zersetzen	sich zersetzen
+erozi.0igxi.KOMUNE	erodiĝi		NULL	zersetzen	sich zersetzen
+erozi.0o	erozio		NULL	Erosion	
+erozi.0o	erodo		NULL	Erosion	
+erozi.0o	erozio		NULL	Verwitterung	
+erozi.0o	erodo		NULL	Verwitterung	
+erozi.0o	erozio		NULL	Abschwemmung	
+erozi.0o	erodo		NULL	Abschwemmung	
+erozi.0o	erozio		NULL	Abtragung	
+erozi.0o	erodo		NULL	Abtragung	
+erozi.0o.GEOL	erozio		NULL	Erosion	
+erozi.0o.GEOL	erodo		NULL	Erosion	
+erozi.0o.GEOL	erozio		NULL	Verwitterung	
+erozi.0o.GEOL	erodo		NULL	Verwitterung	
+erozi.0o.GEOL	erozio		NULL	Abschwemmung	
+erozi.0o.GEOL	erodo		NULL	Abschwemmung	
+erozi.0o.GEOL	erozio		NULL	Abtragung	
+erozi.0o.GEOL	erodo		NULL	Abtragung	
+erp.0i	erpi		NULL	eggen	
+erp.0i.AGR	erpi		NULL	eggen	
+erp.0ilo	erpilo		NULL	Egge	
+erp.0ilo.AGR	erpilo		NULL	Egge	
+erudic.0a	erudicia		NULL	NULL	NULL
+erudic.0o	erudicio		NULL	Gelehrtheit	
+erudic.0o	erudicio		NULL	Gelehrsamkeit	
+erudic.0ulo	erudiciulo		NULL	Gelehrter	
+erudic.0ulo	erudiciulo		NULL	gebildete Person	
+erudit.0o	erudito		NULL	Gelehrter	
+erudit.0o	erudito		NULL	gebildeter Mann	
+eruk.0o	eruko		NULL	Senfrauke	
+eruk.0o	eruko		NULL	Rauke	
+eruk.0o	eruko		NULL	Eruca	
+eruk.0o	eruko		NULL	Rucola	
+erupci.0ajxo	erupciaĵo		NULL	NULL	NULL
+erupci.0ajxo.GEOL	erupciaĵo		NULL	NULL	NULL
+erupci.0i	erupcii		NULL	hervorbrechen	
+erupci.0i	erupcii		NULL	ausbrechen	
+erupci.0i	erupcii		NULL	eruptieren	
+erupci.0o	erupcio		NULL	Ausbruch	
+erupci.0o	erupcio		NULL	Auftreten	
+erupci.0o.GEOL	erupcio	1	NULL	Vulkanausbruch	
+erupci.0o.GEOL	erupcio	1	NULL	Eruption	
+erupci.0o.GEOL	erupcio	1	NULL	Ausbruch	
+erupci.0o.GEOL	erupcio	1	NULL	Auftreten	
+erupci.0o.MED	erupcio	2	NULL	Ausbruch	
+erupci.0o.MED	erupcio	2	NULL	Auftreten	
+erupt.0i	erupti		NULL	hervorbrechen	
+erupt.0i	erupti		NULL	ausbrechen	
+erupt.0i	erupti		NULL	eruptieren	
+escept.0a	escepta		NULL	außergewöhnlich	
+escept.0a.KOMUNE	escepta		NULL	außergewöhnlich	
+escept.0e	escepte		NULL	NULL	NULL
+escept.0e.abs	escepte	1	NULL	NULL	NULL
+escept.0e.tr	escepte	2	NULL	NULL	NULL
+escept.0ede	escepte de		NULL	außer	
+escept.0ede.KOMUNE	escepte de		NULL	außer	
+escept.0ese	escepte se		NULL	außer, wenn...	
+escept.0ese.KOMUNE	escepte se		NULL	außer, wenn...	
+escept.0i	escepti		NULL	ausnehmen	
+escept.0i	escepti		NULL	ausschließen	
+escept.0i.KOMUNE	escepti		NULL	ausnehmen	
+escept.0i.KOMUNE	escepti		NULL	ausschließen	
+escept.0o	escepto		NULL	Ausnahme	
+escept.0o.KOMUNE	escepto		NULL	Ausnahme	
+escept.sen0e	senescepte		NULL	ausnahmslos	
+escept.sen0e.KOMUNE	senescepte		NULL	ausnahmslos	
+ese.0aro	esearo		NULL	Essaysammlung	
+ese.0aro.BELE	esearo		NULL	Essaysammlung	
+ese.0isto	eseisto		NULL	Essayist	
+ese.0isto.BELE	eseisto		NULL	Essayist	
+ese.0o	eseo		NULL	Essay	
+ese.0o.BELE	eseo		NULL	Essay	
+esenc.0a	esenca		NULL	wesentlich	
+esenc.0a	esenca		NULL	essenziell	
+esenc.0a.lauxnatura	esenca	1	NULL	wesentlich	
+esenc.0a.lauxnatura	esenca	1	NULL	essenziell	
+esenc.0a.plej_grava	esenca	2	NULL	wichtigstes	
+esenc.0a.plej_grava	esenca	2	NULL	wesentlich	
+esenc.0a.plej_grava	esenca	2	NULL	essenziell	
+esenc.0ismo	esencismo		NULL	Essentialismus	
+esenc.0ismo.FIL	esencismo		NULL	Essentialismus	
+esenc.0o	esenco		NULL	Essenz	
+esenc.0o.FIL	esenco	1	NULL	Wesen	
+esenc.0o.FIL	esenco	1	NULL	Natur	Natur (Wesen)
+esenc.0o.FIL	esenco	1	NULL	Essenz	
+esenc.0o.KRI	esenco	4	NULL	Essenz	
+esenc.0o.eltirajxo	esenco	3	NULL	Auszug	
+esenc.0o.eltirajxo	esenco	3	NULL	Essenz	
+esenc.0o.precipajxo	esenco	2	NULL	Wesentliches	
+esenc.0o.precipajxo	esenco	2	NULL	Essenz	
+esenc.sam0a	samesenca		NULL	NULL	NULL
+esenc.sam0a.KRI	samesenca		NULL	konsubstantiell	
+esenc.simil0a	similesenca		NULL	NULL	NULL
+esenc.simil0a.KRI	similesenca		NULL	NULL	NULL
+esfahan.0o	Esfahano		NULL	Isfahan	
+eshxatologi.0o	esĥatologio		NULL	Eschatologie	
+eshxatologi.0o	eskatologio		NULL	Eschatologie	
+eshxatologi.0o.REL	esĥatologio		NULL	Eschatologie	
+eshxatologi.0o.REL	eskatologio		NULL	Eschatologie	
+eshxil.0	Esĥilo		NULL	Aischylos	
+esk.0	-esk		NULL	NULL	NULL
+esk.0.KOMUNE	-esk		NULL	NULL	NULL
+eskadr.0o	eskadro		NULL	Geschwader	
+eskadr.0o	eskadro		NULL	Staffel [aviadiloj]	
+eskadr.0o.aera	eskadro	2	NULL	Geschwader	
+eskadr.0o.aera	eskadro	2	NULL	Staffel [aviadiloj]	
+eskadr.0o.mara	eskadro	1	NULL	Geschwader	
+eskadr.0o.mara	eskadro	1	NULL	Staffel [aviadiloj]	
+eskal.0o	eskalo		NULL	NULL	NULL
+eskal.0o.FIG	eskalo	2	NULL	Leiter	
+eskal.0o.FIG	eskalo	2	NULL	Hierarchie	
+eskal.0o.FIG	eskalo	2	NULL	Leiter	
+eskal.0o.FIG	eskalo	2	NULL	Karriereleiter	
+eskal.0o.FIG	eskalo	2	NULL	Nahrungspyramide	
+eskal.0o.sxtupetaro	eskalo	1	NULL	Leiter	
+eskalop.0o	eskalopo		NULL	Schnitzel	
+eskalop.0o.KUI	eskalopo		NULL	Schnitzel	
+eskap.0i	eskapi		oa_8	entkommen	
+eskap.0i	eskapi		oa_8	entrinnen	
+eskap.0i	eskapi		oa_8	entwischen	
+eskap.0i	eskapi		oa_8	entfliehen	
+eskap.0i.eviti	eskapi	1	oa_8	entkommen	
+eskap.0i.eviti	eskapi	1	oa_8	entrinnen	
+eskap.0i.eviti	eskapi	1	oa_8	entwischen	
+eskap.0i.eviti	eskapi	1	oa_8	entfliehen	
+eskap.0i.liberigxi	eskapi	2	oa_8	entkommen	
+eskap.0i.liberigxi	eskapi	2	oa_8	entrinnen	
+eskap.0i.liberigxi	eskapi	2	oa_8	entwischen	
+eskap.0i.liberigxi	eskapi	2	oa_8	entfliehen	
+eskap.0ismo	eskapismo		NULL	Eskapismus	
+eskap.0ismo	eskapismo		NULL	Realitätsflucht	
+eskap.0o	eskapo		NULL	Entkommen	
+eskap.0o	eskapo		NULL	Entrinnen	
+eskap.0o	eskapo		NULL	Flucht	
+eskar.0o	eskaro		NULL	NULL	NULL
+eskar.0o.MED	eskaro		NULL	NULL	NULL
+eskarp.0o	eskarpo		NULL	innere Grabenböschung	
+eskarp.0o.ARKI	eskarpo		NULL	innere Grabenböschung	
+eskarp.kontraux0o	kontraŭeskarpo		NULL	äußere Grabenböschung	
+eskarp.kontraux0o.ARKI	kontraŭeskarpo		NULL	äußere Grabenböschung	
+eskim.0a	eskima		NULL	Eskimo...	
+eskim.0o	eskimo		NULL	Eskimo	
+eskort.0i	eskorti		NULL	eskortieren	
+eskort.0i	eskorti		NULL	geleiten	
+eskort.0i	eskorti		NULL	Geleitschutz geben	
+eskort.0i.KOMUNE	eskorti		NULL	eskortieren	
+eskort.0i.KOMUNE	eskorti		NULL	geleiten	
+eskort.0i.KOMUNE	eskorti		NULL	Geleitschutz geben	
+eskort.0o	eskorto		oa_2	Eskorte	
+eskort.0o	eskorto		oa_2	Begleitmannschaft	
+eskort.0o	eskorto		oa_2	Geleitschutz	
+eskort.0o	eskorto		oa_2	Begleitschutz	
+eskort.0o.KOMUNE	eskorto		oa_2	Eskorte	
+eskort.0o.KOMUNE	eskorto		oa_2	Begleitmannschaft	
+eskort.0o.KOMUNE	eskorto		oa_2	Geleitschutz	
+eskort.0o.KOMUNE	eskorto		oa_2	Begleitschutz	
+eskud.0o	eskudo		NULL	Escudo	
+eskvir.0o	eskviro		NULL	Knappe	
+esoter.0a	esotera		NULL	esoterisch	
+esoter.0a	esotera		NULL	geheim	
+esoter.0ismo	esoterismo		NULL	Esoterik	
+esoter.0ismo	esoterismo		NULL	Geheimlehre	
+esoter.mal0a	malesotera		NULL	exoterisch	
+espanjolet.0o	espanjoleto		NULL	NULL	NULL
+espanjolet.0o.TEK	espanjoleto		NULL	NULL	NULL
+espart.0o	esparto		NULL	NULL	NULL
+espart.0o.BOT	esparto		NULL	NULL	NULL
+esper.0eble	espereble		NULL	hoffentlich	
+esper.0eble.ARG	espereble		NULL	hoffentlich	
+esper.0iga	esperiga		NULL	hoffnungsvoll	
+esper.0iga	esperiga		NULL	verheißend	
+esper.0iga	esperiga		NULL	vielversprechend	
+esper.0iga.KOMUNE	esperiga		NULL	hoffnungsvoll	
+esper.0iga.KOMUNE	esperiga		NULL	verheißend	
+esper.0iga.KOMUNE	esperiga		NULL	vielversprechend	
+esper.0o	espero		NULL	Hoffnung	
+esper.0o.ado	espero	1	NULL	Hoffnung	
+esper.0o.priesperajxo	espero	3	NULL	Hoffnung	
+esper.0o.sento	espero	2	NULL	Hoffnung	
+esper.mal0a	malespera		NULL	NULL	NULL
+esper.mal0a.KOMUNE	malespera		NULL	NULL	NULL
+esper.mal0i	malesperi		uv_E	verzweifeln	
+esper.mal0i.KOMUNE	malesperi		uv_E	verzweifeln	
+esper.mal0igi	malesperigi		NULL	verzweifeln lassen	
+esper.mal0igi	senesperigi		NULL	verzweifeln lassen	
+esper.mal0igi.KOMUNE	malesperigi		NULL	verzweifeln lassen	
+esper.mal0igi.KOMUNE	senesperigi		NULL	verzweifeln lassen	
+esper.mal0o	malespero		NULL	Verzweifelung	
+esper.mal0o.KOMUNE	malespero		NULL	Verzweifelung	
+espera.0a	esperanta		NULL	NULL	NULL
+espera.0a.ESP	esperanta		NULL	NULL	NULL
+espera.0e	esperante		NULL	NULL	NULL
+espera.0e.ESP	esperante		NULL	NULL	NULL
+espera.0ido	esperantido		NULL	NULL	NULL
+espera.0ido.ESP	esperantido		NULL	NULL	NULL
+espera.0igo	esperantigo		NULL	NULL	NULL
+espera.0igo.ESP	esperantigo		NULL	NULL	NULL
+espera.0ismo	esperantismo		NULL	Esperantismus	
+espera.0ismo.ESP	esperantismo	1	NULL	Esperantismus	
+espera.0ismo.LIN	esperantismo	2	NULL	Esperantismus	
+espera.0istaro	esperantistaro		NULL	NULL	NULL
+espera.0istaro.ESP	esperantistaro		NULL	NULL	NULL
+espera.0isteco	esperantisteco		NULL	NULL	NULL
+espera.0isteco.ESP	esperantisteco		NULL	NULL	NULL
+espera.0isto	esperantisto		NULL	Esperantist	
+espera.0isto.ESP	esperantisto		NULL	Esperantist	
+espera.0o	Esperanto		antparol	Esperanto	
+espera.0o.dro	Esperanto	2	antparol	Esperanto	
+espera.0ujo	Esperantujo		NULL	Esperantowelt	
+espera.0ujo.ESP	Esperantujo		NULL	Esperantowelt	
+espera.0umi	esperantumi		NULL	NULL	NULL
+espera.0umi.ESP	esperantumi		NULL	NULL	NULL
+espera.pra0o	praesperanto		NULL	NULL	NULL
+espera.pra0o.ESP	praesperanto		NULL	NULL	NULL
+esperangl.0a	esperangla		NULL	esperenglisch	
+esperanti.0o	Esperantio		NULL	Esperantowelt	
+esperanti.0o	Esperantio		NULL	Esperantien	
+esperanti.0o.ESP	Esperantio		NULL	Esperantowelt	
+esperanti.0o.ESP	Esperantio		NULL	Esperantien	
+esperantolog.0o	esperantologo		NULL	Esperantologe	
+esperantolog.0o.ESP	esperantologo		NULL	Esperantologe	
+esperantologi.0isto	esperantologiisto		NULL	Esperantologe	
+esperantologi.0isto.ESP	esperantologiisto		NULL	Esperantologe	
+esperantologi.0o	esperantologio		NULL	Esperantologie	
+esperantologi.0o.ESP	esperantologio		NULL	Esperantologie	
+esplanad.0o	esplanado		NULL	Esplanade	
+esplanad.0o.ARKI	esplanado		NULL	Esplanade	
+esplor.0ema	esplorema		NULL	NULL	NULL
+esplor.0ema.KOMUNE	esplorema		NULL	NULL	NULL
+esplor.0i	esplori		NULL	erforschen	
+esplor.0i	esplori		NULL	erkunden	
+esplor.0i.KOMUNE	esplori		NULL	erforschen	
+esplor.0i.KOMUNE	esplori		NULL	erkunden	
+esplor.0o	esploro		NULL	NULL	NULL
+esplor.0o.KOMUNE	esploro		NULL	NULL	NULL
+esprim.0ajxo	esprimaĵo		NULL	NULL	NULL
+esprim.0ajxo.MAT	esprimaĵo		NULL	NULL	NULL
+esprim.0i	esprimi		ekz_28	ausdrücken	
+esprim.0i	esprimi		ekz_28	äußern	
+esprim.0ilo	esprimilo		NULL	NULL	NULL
+esprim.0ilo.LIN	esprimilo		NULL	Ausdrucksmöglichkeit	
+esprim.0isma	esprimisma		NULL	NULL	NULL
+esprim.0isma.BELA	esprimisma		NULL	expressionistisch	
+esprim.0ismo	esprimismo		NULL	NULL	NULL
+esprim.0ismo.BELA	esprimismo		NULL	Expressionismus	
+esprim.0o	esprimo		NULL	Ausdruck	
+esprim.0o.KOMP	esprimo	3	NULL	Ausdruck	
+esprim.0o.ado	esprimo	1	NULL	Ausdruck	
+esprim.0o.ajxo	esprimo	2	NULL	Ausdruck	
+esprim.dank0o	dankesprimo		NULL	NULL	NULL
+esprim.dank0o.KOMUNE	dankesprimo		NULL	Danksagung	
+esprim.sub0o	subesprimo		NULL	Term	
+esprim.vizagx0o	vizaĝesprimo		NULL	NULL	NULL
+esprim.vizagx0o.MIEN	vizaĝesprimo		NULL	NULL	NULL
+est.0adi	estadi		NULL	weilen	
+est.0adi	estadi		NULL	verweilen	
+est.0adi	estadi		NULL	zubringen	
+est.0adi.dauxre	estadi	1	NULL	anhalten	anhalten (sein)
+est.0adi.dauxre	estadi	1	NULL	weilen	
+est.0adi.dauxre	estadi	1	NULL	verweilen	
+est.0adi.dauxre	estadi	1	NULL	zubringen	
+est.0adi.ripete	estadi	2	NULL	einkehren	
+est.0adi.ripete	estadi	2	NULL	verkehren	
+est.0adi.ripete	estadi	2	NULL	weilen	
+est.0adi.ripete	estadi	2	NULL	verweilen	
+est.0adi.ripete	estadi	2	NULL	zubringen	
+est.0ajxo	estaĵo		NULL	Wesen	
+est.0ajxo	estaĵo		NULL	Geschöpf	
+est.0ajxo.ento	estaĵo	1	NULL	Seiendes	
+est.0ajxo.ento	estaĵo	1	NULL	Wesen	
+est.0ajxo.ento	estaĵo	1	NULL	Geschöpf	
+est.0ajxo.esenco	estaĵo	2	NULL	Wesen	Wesen (Essenz)
+est.0ajxo.esenco	estaĵo	2	NULL	Wesen	
+est.0ajxo.esenco	estaĵo	2	NULL	Geschöpf	
+est.0ajxo.ulo	estaĵo	3	NULL	Lebewesen	
+est.0ajxo.ulo	estaĵo	3	NULL	Wesen	
+est.0ajxo.ulo	estaĵo	3	NULL	Geschöpf	
+est.0anta	estanta		NULL	NULL	NULL
+est.0anta.GRA	estanta	2	NULL	NULL	NULL
+est.0anta.TEMP	estanta	1	NULL	gegenwärtig	
+est.0anta.TEMP	estanta	1	NULL	präsent	
+est.0anteco	estanteco		NULL	Gegenwart	
+est.0anteco.GRA	estanteco		NULL	Gegenwart	
+est.0igi	estigi		NULL	hervorrufen	
+est.0igi	estigi		NULL	herstellen	
+est.0igi.KOMUNE	estigi		NULL	hervorrufen	
+est.0igi.KOMUNE	estigi		NULL	herstellen	
+est.0igxi	estiĝi		NULL	NULL	NULL
+est.0igxi.KOMUNE	estiĝi		NULL	NULL	NULL
+est.0inta	estinta		NULL	NULL	NULL
+est.0inta.GRA	estinta	2	NULL	NULL	NULL
+est.0inta.TEMP	estinta	1	NULL	vergangen	
+est.0inteco	estinteco		NULL	Vergangenheit	
+est.0inteco.GRA	estinteco	2	NULL	Vergangenheit	
+est.0inteco.TEMP	estinteco	1	NULL	Vergangenheit	
+est.0onta	estonta		NULL	NULL	NULL
+est.0onta.GRA	estonta	2	NULL	NULL	NULL
+est.0onta.TEMP	estonta	1	NULL	künftig	
+est.0onteco	estonteco		NULL	Zukunft	
+est.0onteco.GRA	estonteco	2	NULL	Zukunft	
+est.0onteco.TEMP	estonteco	1	NULL	Zukunft	
+est.0ulo	estulo		NULL	Lebewesen	
+est.0ulo.KOMUNE	estulo		NULL	Lebewesen	
+est.al0i	alesti		NULL	NULL	NULL
+est.al0i	apudesti		NULL	NULL	NULL
+est.al0i.cxeesti	alesti		NULL	NULL	NULL
+est.al0i.cxeesti	apudesti		NULL	NULL	NULL
+est.cxe0ede	ĉeeste de		NULL	Beisein	im Beisein von
+est.cxe0ede	en ĉeesto de		NULL	Beisein	im Beisein von
+est.cxe0ede.KOMUNE	ĉeeste de		NULL	Beisein	im Beisein von
+est.cxe0ede.KOMUNE	en ĉeesto de		NULL	Beisein	im Beisein von
+est.cxe0i	ĉeesti		NULL	dabei sein	
+est.cxe0i.KOMUNE	ĉeesti		NULL	dabei sein	
+est.cxe0o	ĉeesto		NULL	Beisein	
+est.cxe0o.KOMUNE	ĉeesto		NULL	Beisein	
+est.cxie0o	ĉieesto		NULL	NULL	NULL
+est.cxie0o.KOMUNE	ĉieesto		NULL	NULL	NULL
+est.ek0i	ekesti		NULL	NULL	NULL
+est.ek0i.KOMUNE	ekesti		NULL	NULL	NULL
+est.for0i	foresti		NULL	abwesend sein	
+est.for0i.KOMUNE	foresti		NULL	abwesend sein	
+est.for0o	foresto		NULL	Abwesenheit	
+est.for0o.KOMUNE	foresto		NULL	Abwesenheit	
+est.kun0i	kunesti		NULL	NULL	NULL
+est.kun0i.KOMUNE	kunesti		NULL	NULL	NULL
+est.mal0i	malesti		NULL	fehlen	
+est.mal0i.KOMUNE	malesti		NULL	fehlen	
+est.mar0ajxo	marestaĵo		NULL	Meereswesen	
+est.mar0ajxo.ZOO	marestaĵo		NULL	Meereswesen	
+est.ne0o	neesto		NULL	Nichtsein	
+est.ne0o.KOMUNE	neesto		NULL	Nichtsein	
+est.tio0as	tio estas		NULL	das heißt	das heißt (d.h.)
+est.tio0as.KOMUNE	tio estas		NULL	das heißt	das heißt (d.h.)
+establ.0ajxo	establaĵo		NULL	Einrichtung	Einrichtung (Organisation)
+establ.0ejo	establejo		NULL	Einrichtung	Einrichtung (Ort)
+establ.0ejo	establejo		NULL	Niederlasssung	
+establ.0i	establi		oa_4	einrichten	
+establ.0i	establi		oa_4	einrichten	
+establ.0i	establi		oa_4	etablieren	
+establ.0i	establi		oa_4	etablieren	
+establ.0i.akceptigi	establi	2	oa_4	einrichten	
+establ.0i.akceptigi	establi	2	oa_4	einrichten	
+establ.0i.akceptigi	establi	2	oa_4	etablieren	
+establ.0i.akceptigi	establi	2	oa_4	etablieren	
+establ.0i.fondi	establi	1	oa_4	einrichten	
+establ.0i.fondi	establi	1	oa_4	einrichten	
+establ.0i.fondi	establi	1	oa_4	etablieren	
+establ.0i.fondi	establi	1	oa_4	etablieren	
+establ.0igxi	establiĝi		NULL	einrichten	sich einrichten
+establ.0igxi	establiĝi		NULL	etablieren	sich etablieren
+establ.0igxi	establiĝi		NULL	niederlassen	sich niederlassen
+establ.0o	establo		NULL	Einrichtung	
+establ.0o.ago	establo	1	NULL	Etablierung	
+establ.0o.ago	establo	1	NULL	Einrichtung	
+establ.0o.establajxo	establo	2	NULL	Establissement	
+establ.0o.establajxo	establo	2	NULL	Einrichtung	
+ester.0o	estero		NULL	Ester	
+ester.0o.KEM	estero		NULL	Ester	
+esteti.0a	estetika		NULL	ästhetisch	
+esteti.0a.KOMUNE	estetika		NULL	ästhetisch	
+esteti.0o	estetiko		NULL	Ästhetik	
+esteti.0o.FIL	estetiko	1	NULL	Ästhetik	
+esteti.0o.KOMUNE	estetiko	2	NULL	Ästhetik	
+estiel.0	estiel		NULL	als	
+estiel.0	estiel		NULL	Rolle	in der Rolle des
+estim.0i	estimi		ekz_10	achten	
+estim.0i	estimi		ekz_10	achten	
+estim.0i	estimi		ekz_10	achten	
+estim.0i	estimi		ekz_10	achten	
+estim.0i	estimi		ekz_10	achten	
+estim.0i	estimi		ekz_26	achten	
+estim.0i	estimi		ekz_10	schätzen	sehr schätzen
+estim.0i	estimi		ekz_10	schätzen	sehr schätzen
+estim.0i	estimi		ekz_10	schätzen	sehr schätzen
+estim.0i	estimi		ekz_10	schätzen	sehr schätzen
+estim.0i	estimi		ekz_10	schätzen	sehr schätzen
+estim.0i	estimi		ekz_26	schätzen	sehr schätzen
+estim.0i	estimi		ekz_10	hochschätzen	
+estim.0i	estimi		ekz_10	hochschätzen	
+estim.0i	estimi		ekz_10	hochschätzen	
+estim.0i	estimi		ekz_10	hochschätzen	
+estim.0i	estimi		ekz_10	hochschätzen	
+estim.0i	estimi		ekz_26	hochschätzen	
+estim.0i	estimi		ekz_10	hochachten	
+estim.0i	estimi		ekz_10	hochachten	
+estim.0i	estimi		ekz_10	hochachten	
+estim.0i	estimi		ekz_10	hochachten	
+estim.0i	estimi		ekz_10	hochachten	
+estim.0i	estimi		ekz_26	hochachten	
+estim.0i	estimi		ekz_10	achten	hoch achten
+estim.0i	estimi		ekz_10	achten	hoch achten
+estim.0i	estimi		ekz_10	achten	hoch achten
+estim.0i	estimi		ekz_10	achten	hoch achten
+estim.0i	estimi		ekz_10	achten	hoch achten
+estim.0i	estimi		ekz_26	achten	hoch achten
+estim.0i	estimi		ekz_10	ehren	ehren (leterstilo)
+estim.0i	estimi		ekz_10	ehren	ehren (leterstilo)
+estim.0i	estimi		ekz_10	ehren	ehren (leterstilo)
+estim.0i	estimi		ekz_10	ehren	ehren (leterstilo)
+estim.0i	estimi		ekz_10	ehren	ehren (leterstilo)
+estim.0i	estimi		ekz_26	ehren	ehren (leterstilo)
+estim.0i.KOMUNE	estimi		ekz_10	achten	
+estim.0i.KOMUNE	estimi		ekz_10	achten	
+estim.0i.KOMUNE	estimi		ekz_10	achten	
+estim.0i.KOMUNE	estimi		ekz_10	achten	
+estim.0i.KOMUNE	estimi		ekz_10	achten	
+estim.0i.KOMUNE	estimi		ekz_26	achten	
+estim.0i.KOMUNE	estimi		ekz_10	schätzen	sehr schätzen
+estim.0i.KOMUNE	estimi		ekz_10	schätzen	sehr schätzen
+estim.0i.KOMUNE	estimi		ekz_10	schätzen	sehr schätzen
+estim.0i.KOMUNE	estimi		ekz_10	schätzen	sehr schätzen
+estim.0i.KOMUNE	estimi		ekz_10	schätzen	sehr schätzen
+estim.0i.KOMUNE	estimi		ekz_26	schätzen	sehr schätzen
+estim.0i.KOMUNE	estimi		ekz_10	hochschätzen	
+estim.0i.KOMUNE	estimi		ekz_10	hochschätzen	
+estim.0i.KOMUNE	estimi		ekz_10	hochschätzen	
+estim.0i.KOMUNE	estimi		ekz_10	hochschätzen	
+estim.0i.KOMUNE	estimi		ekz_10	hochschätzen	
+estim.0i.KOMUNE	estimi		ekz_26	hochschätzen	
+estim.0i.KOMUNE	estimi		ekz_10	hochachten	
+estim.0i.KOMUNE	estimi		ekz_10	hochachten	
+estim.0i.KOMUNE	estimi		ekz_10	hochachten	
+estim.0i.KOMUNE	estimi		ekz_10	hochachten	
+estim.0i.KOMUNE	estimi		ekz_10	hochachten	
+estim.0i.KOMUNE	estimi		ekz_26	hochachten	
+estim.0i.KOMUNE	estimi		ekz_10	achten	hoch achten
+estim.0i.KOMUNE	estimi		ekz_10	achten	hoch achten
+estim.0i.KOMUNE	estimi		ekz_10	achten	hoch achten
+estim.0i.KOMUNE	estimi		ekz_10	achten	hoch achten
+estim.0i.KOMUNE	estimi		ekz_10	achten	hoch achten
+estim.0i.KOMUNE	estimi		ekz_26	achten	hoch achten
+estim.0i.KOMUNE	estimi		ekz_10	ehren	ehren (leterstilo)
+estim.0i.KOMUNE	estimi		ekz_10	ehren	ehren (leterstilo)
+estim.0i.KOMUNE	estimi		ekz_10	ehren	ehren (leterstilo)
+estim.0i.KOMUNE	estimi		ekz_10	ehren	ehren (leterstilo)
+estim.0i.KOMUNE	estimi		ekz_10	ehren	ehren (leterstilo)
+estim.0i.KOMUNE	estimi		ekz_26	ehren	ehren (leterstilo)
+estim.0inda	estiminda		NULL	achtenswert	
+estim.0inda	estiminda		NULL	achtbar	
+estim.0inda.KOMUNE	estiminda		NULL	achtenswert	
+estim.0inda.KOMUNE	estiminda		NULL	achtbar	
+estim.0o	estimo		NULL	Wertschätzung	
+estim.0o	estimo		NULL	Achtung	
+estim.0o	estimo		NULL	Hochachtung	
+estim.0o.KOMUNE	estimo		NULL	Wertschätzung	
+estim.0o.KOMUNE	estimo		NULL	Achtung	
+estim.0o.KOMUNE	estimo		NULL	Hochachtung	
+estim.mal0e	malestime		NULL	verächtlich	
+estim.mal0e	malestime		NULL	verachtungsvoll	
+estim.mal0e	malestime		NULL	geringschätzig	
+estim.mal0e	malestime		NULL	respektlos	
+estim.mal0e	malestime		NULL	despektierlich	
+estim.mal0e.en	malestime		NULL	verächtlich	
+estim.mal0e.en	malestime		NULL	verachtungsvoll	
+estim.mal0e.en	malestime		NULL	geringschätzig	
+estim.mal0e.en	malestime		NULL	respektlos	
+estim.mal0e.en	malestime		NULL	despektierlich	
+estim.mal0i	malestimi		uv_M	schätzen	gering schätzen
+estim.mal0i	malestimi		uv_M	schätzen	gering schätzen
+estim.mal0i	malestimi		uv_M	schätzen	gering schätzen
+estim.mal0i	malestimi		uv_M	schätzen	gering schätzen
+estim.mal0i	malestimi		ekz_10	schätzen	gering schätzen
+estim.mal0i	malestimi		ekz_10	schätzen	gering schätzen
+estim.mal0i	malestimi		ekz_10	schätzen	gering schätzen
+estim.mal0i	malestimi		ekz_10	schätzen	gering schätzen
+estim.mal0i	malestimi		ekz_10	schätzen	gering schätzen
+estim.mal0i	malestimi		uv_M	verachten	
+estim.mal0i	malestimi		uv_M	verachten	
+estim.mal0i	malestimi		uv_M	verachten	
+estim.mal0i	malestimi		uv_M	verachten	
+estim.mal0i	malestimi		ekz_10	verachten	
+estim.mal0i	malestimi		ekz_10	verachten	
+estim.mal0i	malestimi		ekz_10	verachten	
+estim.mal0i	malestimi		ekz_10	verachten	
+estim.mal0i	malestimi		ekz_10	verachten	
+estim.mal0i	malestimi		uv_M	missachten	
+estim.mal0i	malestimi		uv_M	missachten	
+estim.mal0i	malestimi		uv_M	missachten	
+estim.mal0i	malestimi		uv_M	missachten	
+estim.mal0i	malestimi		ekz_10	missachten	
+estim.mal0i	malestimi		ekz_10	missachten	
+estim.mal0i	malestimi		ekz_10	missachten	
+estim.mal0i	malestimi		ekz_10	missachten	
+estim.mal0i	malestimi		ekz_10	missachten	
+estim.mal0i.KOMUNE	malestimi		uv_M	schätzen	gering schätzen
+estim.mal0i.KOMUNE	malestimi		uv_M	schätzen	gering schätzen
+estim.mal0i.KOMUNE	malestimi		uv_M	schätzen	gering schätzen
+estim.mal0i.KOMUNE	malestimi		uv_M	schätzen	gering schätzen
+estim.mal0i.KOMUNE	malestimi		ekz_10	schätzen	gering schätzen
+estim.mal0i.KOMUNE	malestimi		ekz_10	schätzen	gering schätzen
+estim.mal0i.KOMUNE	malestimi		ekz_10	schätzen	gering schätzen
+estim.mal0i.KOMUNE	malestimi		ekz_10	schätzen	gering schätzen
+estim.mal0i.KOMUNE	malestimi		ekz_10	schätzen	gering schätzen
+estim.mal0i.KOMUNE	malestimi		uv_M	verachten	
+estim.mal0i.KOMUNE	malestimi		uv_M	verachten	
+estim.mal0i.KOMUNE	malestimi		uv_M	verachten	
+estim.mal0i.KOMUNE	malestimi		uv_M	verachten	
+estim.mal0i.KOMUNE	malestimi		ekz_10	verachten	
+estim.mal0i.KOMUNE	malestimi		ekz_10	verachten	
+estim.mal0i.KOMUNE	malestimi		ekz_10	verachten	
+estim.mal0i.KOMUNE	malestimi		ekz_10	verachten	
+estim.mal0i.KOMUNE	malestimi		ekz_10	verachten	
+estim.mal0i.KOMUNE	malestimi		uv_M	missachten	
+estim.mal0i.KOMUNE	malestimi		uv_M	missachten	
+estim.mal0i.KOMUNE	malestimi		uv_M	missachten	
+estim.mal0i.KOMUNE	malestimi		uv_M	missachten	
+estim.mal0i.KOMUNE	malestimi		ekz_10	missachten	
+estim.mal0i.KOMUNE	malestimi		ekz_10	missachten	
+estim.mal0i.KOMUNE	malestimi		ekz_10	missachten	
+estim.mal0i.KOMUNE	malestimi		ekz_10	missachten	
+estim.mal0i.KOMUNE	malestimi		ekz_10	missachten	
+estim.mal0igi	malestimigi		NULL	verächtlich	verächtlich machen
+estim.mal0igi.KOMUNE	malestimigi		NULL	verächtlich	verächtlich machen
+estim.mal0inda	malestiminda		NULL	verabscheuungswürdig	
+estim.mal0inda	malestiminda		NULL	abscheulich	
+estim.mal0inda.KOMUNE	malestiminda		NULL	verabscheuungswürdig	
+estim.mal0inda.KOMUNE	malestiminda		NULL	abscheulich	
+estim.mal0o	malestimo		NULL	Verachtung	
+estim.mal0o	malestimo		NULL	Abscheu	
+estim.mal0o	malestimo		NULL	Missachtung	
+estim.mal0o.KOMUNE	malestimo		NULL	Verachtung	
+estim.mal0o.KOMUNE	malestimo		NULL	Abscheu	
+estim.mal0o.KOMUNE	malestimo		NULL	Missachtung	
+estim.mem0o	memestimo		NULL	Selbstachtung	
+estim.mem0o	memestimo		NULL	Selbstwertgefühlt	
+estim.mem0o.PSI	memestimo		NULL	Selbstachtung	
+estim.mem0o.PSI	memestimo		NULL	Selbstwertgefühlt	
+esting.0i	estingi		NULL	löschen	
+esting.0i	estingi		NULL	auslöschen	
+esting.0i	estingi		NULL	löschen	
+esting.0i	estingi		NULL	beruhigen	
+esting.0i	estingi		NULL	mildern	
+esting.0i	estingi		NULL	tilgen	
+esting.0i	estingi		NULL	kompensieren	
+esting.0igxi	estingiĝi		NULL	verlöschen	
+esting.brul0isto	brulestingisto		NULL	Feuerwehrmann	
+esting.brul0isto	fajroestingisto		NULL	Feuerwehrmann	
+esting.fajr0ilo	fajrestingilo		NULL	Feuerlöscher	
+eston.0a	estona		NULL	estnisch	
+eston.0a.lingvo	estona	2	NULL	estnisch	
+eston.0a.rilatanta	estona	1	NULL	estnisch	
+eston.0o	estono		oa_8	Este	
+eston.0o	esto		oa_8	Este	
+eston.0o.naciano	estono	2	oa_8	Este	
+eston.0o.naciano	esto	2	oa_8	Este	
+eston.0o.sxtatano	estono	1	oa_8	Este	
+eston.0o.sxtatano	esto	1	oa_8	Este	
+eston.E0ujo	Estonujo		NULL	Estland	
+eston.E0ujo.sxtato	Estonujo		NULL	Estland	
+estoni.E0o	Estonio		NULL	Estland	
+estoni.E0o.sxtato	Estonio		NULL	Estland	
+estr.0	-estr		NULL	NULL	NULL
+estr.0.sufikso	-estr		NULL	NULL	NULL
+estr.0ado	estrado		NULL	Leitung	
+estr.0arano	estrarano		NULL	NULL	NULL
+estr.0aro	estraro		uv_E	Vorstand	
+estr.0aro	estraro		uv_E	Leitung	
+estr.0eco	estreco		NULL	Leitung	
+estr.0i	estri		NULL	leiten	
+estr.0i	estri		NULL	vorstehen	
+estr.0igi	estrigi		NULL	einsetzen	als Vorstand einsetzen
+estr.0igi	estrigi		NULL	übergeben	die Leitung übergeben
+estr.0o	estro		ekz_26	Leiter	
+estr.0o	estro		ekz_26	Vorsitzender	
+estr.0o	estro		ekz_26	Vorsteher	
+estrad.0o	estrado		NULL	Estrade	
+estrad.0o	estrado		NULL	Podest	
+estrad.0o	estrado		NULL	Podium	
+estrad.0o.podio	estrado		NULL	Estrade	
+estrad.0o.podio	estrado		NULL	Podest	
+estrad.0o.podio	estrado		NULL	Podium	
+estradiol.0o	estradiolo		NULL	Östradiol	
+estradiol.0o.FIZL	estradiolo		NULL	Östradiol	
+estriol.0o	estriolo		NULL	Östriol	
+estriol.0o.FIZL	estriolo		NULL	Östriol	
+estrogen.0o	estrogeno		NULL	Östrogen	
+estrogen.0o.FIZL	estrogeno		NULL	Östrogen	
+estron.0o	estrono		NULL	Östron	
+estron.0o.FIZL	estrono		NULL	Östron	
+estuar.0o	estuaro		NULL	Ästuar	
+estuar.0o	estuaro		NULL	Ästuarium	
+estuar.0o	estuaro		NULL	Flussmündung	den Gezeiten ausgesetzte Flussmündung
+estuar.0o.GEOG	estuaro		NULL	Ästuar	
+estuar.0o.GEOG	estuaro		NULL	Ästuarium	
+estuar.0o.GEOG	estuaro		NULL	Flussmündung	den Gezeiten ausgesetzte Flussmündung
+esxafo.0o	eŝafodo		NULL	Schafott	
+et.0_	et-		NULL	NULL	NULL
+et.0a	eta		NULL	klein	
+et.0a.malgranda	eta		NULL	klein	
+et.0igi	etigi		NULL	verkleinern	
+et.0igi	etigi		NULL	reden	klein reden
+et.0ulo	etulo		NULL	Kleiner	
+et._0	-et		ekz_26	chen	-chen
+et._0	-et		ekz_26	lein	-lein
+et._0.sufikso	-et		ekz_26	chen	-chen
+et._0.sufikso	-et		ekz_26	lein	-lein
+etagx.0areto	etaĝareto		NULL	NULL	NULL
+etagx.0areto.bretaro	etaĝareto		NULL	NULL	NULL
+etagx.0igi	etaĝigi		NULL	NULL	NULL
+etagx.0igi.KOMUNE	etaĝigi		NULL	NULL	NULL
+etagx.0o	etaĝo		NULL	NULL	NULL
+etagx.0o.ARKI	etaĝo	1	NULL	Etage	
+etagx.0o.ARKI	etaĝo	1	NULL	Stockwerk	
+etagx.0o.ARKI	etaĝo	1	NULL	Stock	Stock (Etage)
+etagx.0o.ARKI	etaĝo	1	NULL	Geschoss	
+etagx.0o.nivelo	etaĝo	2	NULL	Stufe	Stufe (Gelände, Rakete)
+etagx.0o.nivelo	etaĝo	2	NULL	Terasse	
+etagx.0o.nivelo	etaĝo	2	NULL	Ebene	
+etagx.bel0o	beletaĝo		NULL	erstes Obergeschoss	
+etagx.bel0o	beletaĝo		NULL	erste Etage	
+etagx.bel0o	beletaĝo		NULL	erster Stock [nordgermane]	
+etagx.bel0o	beletaĝo		NULL	zweiter Stock [sudgermane]	
+etagx.bel0o.ARKI	beletaĝo		NULL	erstes Obergeschoss	
+etagx.bel0o.ARKI	beletaĝo		NULL	erste Etage	
+etagx.bel0o.ARKI	beletaĝo		NULL	erster Stock [nordgermane]	
+etagx.bel0o.ARKI	beletaĝo		NULL	zweiter Stock [sudgermane]	
+etagx.inter0o	interetaĝo		NULL	Zwischengeschoss	
+etagx.inter0o	duonetaĝo		NULL	Zwischengeschoss	
+etagx.inter0o	interetaĝo		NULL	Zwischenetage	
+etagx.inter0o	duonetaĝo		NULL	Zwischenetage	
+etagx.inter0o.ARKI	interetaĝo		NULL	Zwischengeschoss	
+etagx.inter0o.ARKI	duonetaĝo		NULL	Zwischengeschoss	
+etagx.inter0o.ARKI	interetaĝo		NULL	Zwischenetage	
+etagx.inter0o.ARKI	duonetaĝo		NULL	Zwischenetage	
+etagx.subter0o	subteretaĝo		NULL	Untergeschoss	
+etagx.subter0o	subetaĝo		NULL	Untergeschoss	
+etagx.subter0o	keletaĝo		NULL	Untergeschoss	
+etagx.subter0o	subteretaĝo		NULL	Kellergeschoss	
+etagx.subter0o	subetaĝo		NULL	Kellergeschoss	
+etagx.subter0o	keletaĝo		NULL	Kellergeschoss	
+etagx.subter0o	subteretaĝo		NULL	Kelleretage	
+etagx.subter0o	subetaĝo		NULL	Kelleretage	
+etagx.subter0o	keletaĝo		NULL	Kelleretage	
+etagx.subter0o	subteretaĝo		NULL	Keller	
+etagx.subter0o	subetaĝo		NULL	Keller	
+etagx.subter0o	keletaĝo		NULL	Keller	
+etagx.subter0o.ARKI	subteretaĝo		NULL	Untergeschoss	
+etagx.subter0o.ARKI	subetaĝo		NULL	Untergeschoss	
+etagx.subter0o.ARKI	keletaĝo		NULL	Untergeschoss	
+etagx.subter0o.ARKI	subteretaĝo		NULL	Kellergeschoss	
+etagx.subter0o.ARKI	subetaĝo		NULL	Kellergeschoss	
+etagx.subter0o.ARKI	keletaĝo		NULL	Kellergeschoss	
+etagx.subter0o.ARKI	subteretaĝo		NULL	Kelleretage	
+etagx.subter0o.ARKI	subetaĝo		NULL	Kelleretage	
+etagx.subter0o.ARKI	keletaĝo		NULL	Kelleretage	
+etagx.subter0o.ARKI	subteretaĝo		NULL	Keller	
+etagx.subter0o.ARKI	subetaĝo		NULL	Keller	
+etagx.subter0o.ARKI	keletaĝo		NULL	Keller	
+etagx.ter0o	teretaĝo		NULL	Erdgeschoss	
+etagx.ter0o	teretaĝo		NULL	erster Stock [suddgermane]	
+etagx.ter0o.ARKI	teretaĝo		NULL	Erdgeschoss	
+etagx.ter0o.ARKI	teretaĝo		NULL	erster Stock [suddgermane]	
+etagxe.0o	etaĝero		NULL	Regal	
+etagxe.0o	etaĝero		NULL	Wandregal	
+etagxe.0o	etaĝero		NULL	Wandgestell	
+etagxe.0o	etaĝero		NULL	Etagere	
+etagxe.0o.bretaro	etaĝero		NULL	Regal	
+etagxe.0o.bretaro	etaĝero		NULL	Wandregal	
+etagxe.0o.bretaro	etaĝero		NULL	Wandgestell	
+etagxe.0o.bretaro	etaĝero		NULL	Etagere	
+etan.0o	etano		NULL	Ethan	
+etan.0o.KEM	etano		NULL	Ethan	
+etanol.0o	etanolo		NULL	NULL	NULL
+etanol.0o.KEM	etanolo		NULL	Ethanol	
+etap.0o	etapo		oa_8	NULL	NULL
+etap.0o.TRA	etapo	1	oa_8	Tagesmarsch	
+etap.0o.haltejo	etapo	2	oa_8	Rastplatz	
+etap.0o.haltejo	etapo	2	oa_8	Etappenort	
+etap.0o.haltejo	etapo	2	oa_8	Etappenziel	
+etap.0o.haltejo	etapo	2	oa_8	Etappe	
+etap.0o.stadio	etapo	3	oa_8	Etappe	
+etat.0a	etata		NULL	NULL	NULL
+etat.0a.KOMUNE	etata	1	NULL	NULL	NULL
+etat.0a.salajrata	etata	2	NULL	NULL	NULL
+etat.0o	etato		NULL	Etat	
+etat.0o	etato		NULL	Haushalt	
+etat.0o	etato		NULL	Haushaltsmittel	
+etat.0o	etato		NULL	Haushaltsplan	
+etat.0o	etato		NULL	Aufstellung	
+etat.0o	etato		NULL	Detailplan	
+etat.0o.gxenerale	etato	1	NULL	Etat	
+etat.0o.gxenerale	etato	1	NULL	Haushalt	
+etat.0o.gxenerale	etato	1	NULL	Haushaltsmittel	
+etat.0o.gxenerale	etato	1	NULL	Haushaltsplan	
+etat.0o.gxenerale	etato	1	NULL	Aufstellung	
+etat.0o.gxenerale	etato	1	NULL	Detailplan	
+etat.0o.personaro	etato	2	NULL	Etat	
+etat.0o.personaro	etato	2	NULL	Haushalt	
+etat.0o.personaro	etato	2	NULL	Haushaltsmittel	
+etat.0o.personaro	etato	2	NULL	Haushaltsplan	
+etat.0o.personaro	etato	2	NULL	Aufstellung	
+etat.0o.personaro	etato	2	NULL	Detailplan	
+etat.0o.statuso	etato	3	NULL	Etat	
+etat.0o.statuso	etato	3	NULL	Haushalt	
+etat.0o.statuso	etato	3	NULL	Haushaltsmittel	
+etat.0o.statuso	etato	3	NULL	Haushaltsplan	
+etat.0o.statuso	etato	3	NULL	Aufstellung	
+etat.0o.statuso	etato	3	NULL	Detailplan	
+etat.bien0o	bienetato		NULL	Kataster	
+etat.bien0o	bienetato		NULL	Grundbuch	
+etat.bien0o.JUR	bienetato		NULL	Kataster	
+etat.bien0o.JUR	bienetato		NULL	Grundbuch	
+etat.ekster0a	eksteretata		NULL	NULL	NULL
+etat.ekster0a.EKON	eksteretata	2	NULL	NULL	NULL
+etat.ekster0a.gxenerale	eksteretata	1	NULL	NULL	NULL
+etat.plen0a	plenetata		NULL	NULL	NULL
+etat.plen0a.EKON	plenetata		NULL	NULL	NULL
+etat.ricxajx0o	riĉaĵetato		NULL	NULL	NULL
+etat.ricxajx0o.JUR	riĉaĵetato		NULL	NULL	NULL
+etend.0ajxo	etendaĵo		NULL	Erweiterung	
+etend.0ajxo	etendaĵo		NULL	Fläche	Fläche (Ausdehnung)
+etend.0ajxo	etendaĵo		NULL	Ausläufer	
+etend.0ajxo	etendaĵo		NULL	Ende	Ende (Ausstülpung)
+etend.0ajxo	etendaĵo		NULL	Fortsatz	
+etend.0ajxo	etendaĵo		NULL	Zipfel	
+etend.0ebla	etendebla		NULL	streckbar	
+etend.0ebla	etendebla		NULL	erweiterbar	
+etend.0i	etendi		NULL	NULL	NULL
+etend.0i.FIG	etendi	4	NULL	ausbreiten	
+etend.0i.FIG	etendi	4	NULL	verbreiten	
+etend.0i.TEK	etendi	3	NULL	strecken	
+etend.0i.TEK	etendi	3	NULL	fließpressen	
+etend.0i.TEK	etendi	3	NULL	kaltziehen	
+etend.0i.laulonge	etendi	1	NULL	strecken	
+etend.0i.laulonge	etendi	1	NULL	ausstrecken	
+etend.0i.plurdirekte	etendi	2	NULL	ausbreiten	
+etend.0igxi	etendiĝi		NULL	NULL	NULL
+etend.0igxi.FIG	etendiĝi	4	NULL	verbreiten	sich verbreiten
+etend.0igxi.laulonge	etendiĝi	1	NULL	strecken	sich strecken
+etend.0igxi.okupi	etendiĝi	3	NULL	ausdehen	sich ausdehen
+etend.0igxi.okupi	etendiĝi	3	NULL	erstrecken	sich erstrecken
+etend.0igxi.plurdirekte	etendiĝi	2	NULL	ausbreiten	sich ausbreiten
+etend.sin0i	sin etendi		NULL	NULL	NULL
+etend.sin0i.disvastigxi	sin etendi	2	NULL	erstrecken	sich erstrecken
+etend.sin0i.korpe	sin etendi	1	NULL	ausbreiten	sich ausbreiten
+eter.0o	etero		NULL	NULL	NULL
+eter.0o.FIL	etero	3	NULL	Äther	
+eter.0o.FIZ	etero	4	NULL	Äther	
+eter.0o.MED	etero	2	NULL	Ether	
+eter.0o.MED	etero	2	NULL	Äther	
+etern.0a	eterna		NULL	fortwährend	
+etern.0a	eterna		NULL	ewig	
+etern.0a	eterna		NULL	immer	immer während
+etern.0e	eterne		NULL	ewig	
+etern.0e	eterne		NULL	fortwährend	
+etern.0ulo	Eternulo		NULL	Ewige	der Ewige (Gott)
+etik.0a	etika		NULL	ethisch	
+etik.0a	etika		NULL	sittlich	
+etik.0a	etika		NULL	moralisch	
+etik.0o	etiko		NULL	Ethik	
+etik.0o	etiko		NULL	Sitte	
+etik.0o	etiko		NULL	Ethik	
+etik.0o.FIL	etiko	1	NULL	Ethik	
+etik.0o.FIL	etiko	1	NULL	Sittenlehre	
+etik.0o.FIL	etiko	1	NULL	Ethik	
+etik.0o.FIL	etiko	1	NULL	Sitte	
+etik.0o.FIL	etiko	1	NULL	Ethik	
+etiked.0i	etikedi		NULL	etikettieren	
+etiked.0i.FIG	etikedi	2	NULL	einstufen	
+etiked.0i.FIG	etikedi	2	NULL	abqualifizieren	
+etiked.0i.FIG	etikedi	2	NULL	schimpfen	jemanden schimpfen
+etiked.0i.FIG	etikedi	2	NULL	stigmatisieren	
+etiked.0i.FIG	etikedi	2	NULL	brandmarken	
+etiked.0i.FIG	etikedi	2	NULL	etikettieren	
+etiked.0o	etikedo		oa_9	NULL	NULL
+etiked.0o.KOMP	etikedo	2	oa_9	Sprungmarke	
+etiked.0o.KOMP	etikedo	2	oa_9	Marke	
+etiked.0o.KOMP	etikedo	2	oa_9	Tag	
+etiked.0o.karteto	etikedo	1	oa_9	Schild	
+etiked.0o.karteto	etikedo	1	oa_9	Schildchen	
+etiked.0o.karteto	etikedo	1	oa_9	Etikett	
+etiket.0o	etiketo		NULL	NULL	NULL
+etiket.0o.MOR	etiketo	1	NULL	Etikette	
+etiket.0o.MOR	etiketo	1	NULL	Umgangsformen	
+etiket.0o.karteto	etiketo	2	NULL	Etikett	
+etiket.ret0o	retetiketo		NULL	NULL	NULL
+etiket.ret0o.KOMP	retetiketo		NULL	NULL	NULL
+etil.0o	etilo		NULL	Äthyl	
+etil.0o	etilo		NULL	Ethyl	Ethyl (nur fachl.)
+etilen.0o	etileno		NULL	Äthylen	
+etilen.0o	etileno		NULL	Äthen	
+etim.0o	etimo		NULL	Etymon	
+etimol.0o	etimologio		oa_2	Etymologie	
+etimol.0o.SCI	etimologio	1	oa_2	Etymologie	
+etimol.0o.deveno	etimologio	2	oa_2	Wortherkunft	
+etimol.0o.deveno	etimologio	2	oa_2	Etymologie	
+etimolog.0o	etimologo		NULL	NULL	NULL
+etimolog.0o.SCI	etimologo		NULL	Etymologe	
+etiolo.0o	etiologio		NULL	Ätiologie	
+etiolo.0o	etiologio		NULL	Krankheitsursachenforschung	
+etiolo1.0o	etiologo		NULL	Ätiologe	
+etiop.0a	etiopa		NULL	äthiopisch	
+etiop.0o	etiopo		oa_8	Äthiopier	
+etiop.0o.naciano	etiopo	2	oa_8	Äthiopier	
+etiop.0o.sxtatano	etiopo	1	oa_8	Äthiopier	
+etiop.E0ujo	Etiopujo		NULL	NULL	NULL
+etiop.E0ujo.GEOG	Etiopujo		NULL	Äthiopien	
+etiopi.E0o	Etiopio		NULL	Äthiopien	
+etiopi.E0o.GEOG	Etiopio		NULL	Äthiopien	
+etmoid.0o	etmoido		NULL	Siebbein	
+etn.0a	etna		NULL	ethnisch	
+etn.0o	etno		oa_9	Ethnie	
+etn.0o	etno		oa_9	ethnische Gruppe	
+etn.0o	etno		oa_9	Volk	
+etn.0o	etno		oa_9	Stamm	
+etn.0ogenezo	etnogenezo		NULL	Ethnogenese	
+etn.0ogenezo	etnogenezo		NULL	Volksgeschichte	
+etn.0ogenezo	etnogenezo		NULL	Stammesentwicklung	
+etn.sub0o	subetno		NULL	Subethnie	
+etn.sub0o	subetno		NULL	ethnische Untergruppe	
+etn.sub0o	subetno		NULL	Teilvolk	
+etn.sub0o	subetno		NULL	Stamm	
+etn.super0o	superetno		NULL	Superethnie	
+etn.super0o	superetno		NULL	ethnische Obergruppe	
+etn.super0o	superetno		NULL	Stammesverband	
+etnogr.0o	etnografio		oa_2	Ethnographie	
+etnogr.0o	etnografio		oa_2	Völkerkunde	beschreibende Völkerkunde
+etnograf.0o	etnografo		NULL	Ethnograph	
+etnograf.0o	etnografo		NULL	Völkerkundler	
+etnolo.0o	etnologo		NULL	Ethnologe	
+etnolo.0o	etnologo		NULL	Völkerkundler	
+etnolo1.0isto	etnologiisto		NULL	Ethnologe	
+etnolo1.0isto	etnologiisto		NULL	Völkerkundler	
+etnolo1.0isto.SCI	etnologiisto		NULL	Ethnologe	
+etnolo1.0isto.SCI	etnologiisto		NULL	Völkerkundler	
+etnolo1.0o	etnologio		oa_9	Ethnologie	
+etnolo1.0o	etnologio		oa_9	Völkerkunde	
+etnolo1.0o.SCI	etnologio		oa_9	Ethnologie	
+etnolo1.0o.SCI	etnologio		oa_9	Völkerkunde	
+eto.0o	eto		NULL	NULL	NULL
+eto.0o.LIN	eto		NULL	NULL	NULL
+etolog.0isto	etologiisto		NULL	NULL	NULL
+etolog.0isto.BIO	etologiisto	1	NULL	NULL	NULL
+etolog.0isto.FIL	etologiisto	2	NULL	NULL	NULL
+etolog.0o	etologio		NULL	Ethologie	
+etolog.0o	etologio		NULL	Sittenkunde	
+etolog.0o.BIO	etologio	1	NULL	Ethologie	
+etolog.0o.BIO	etologio	1	NULL	Sittenkunde	
+etolog.0o.FIL	etologio	2	NULL	Ethologie	
+etolog.0o.FIL	etologio	2	NULL	Sittenkunde	
+etolog1.0o	etologo		NULL	Ethologe	
+etolog1.0o.etologiisto	etologo		NULL	Ethologe	
+etos.0o	etoso		oa_9	Stimmung	
+etos.0o	etoso		oa_9	Atmosphäre	Atmosphäre (Stimmung)
+etos.bon0a	bonetosa		NULL	behaglich	
+etos.bon0a	bonetosa		NULL	wohlig	
+etrusk.0a	etruska		NULL	etruskisch	
+etrusk.0a.ETN	etruska		NULL	etruskisch	
+etrusk.0o	etrusko		NULL	Etrusker	
+etrusk.0o.ETN	etrusko		NULL	Etrusker	
+etud.0o	etudo		NULL	Etüde	
+etud.0o	etudo		NULL	Übungsstück	
+euxdio.0o	eŭdiometro		NULL	Eudiometer	
+euxdio.0o	eŭdiometro		NULL	Gasanalysator	
+euxdio1.0o	eŭdiometrio		NULL	Eudiometrie	
+euxdio1.0o	eŭdiometrio		NULL	Gasanalyse	
+euxdoki.0o	Eŭdokio		NULL	Eudokia	
+euxdoki.0o	Eŭdoksio		NULL	Eudokia	
+euxfem.0a	eŭfemisma		NULL	euphemistisch	
+euxfem.0a	eŭfemisma		NULL	beschönigend	
+euxfem.0o	eŭfemismo		oa_9	Euphemismus	
+euxfem.0o	eŭfemismo		oa_9	Schönsprech	
+euxfem.0o	eŭfemismo		oa_9	beschönigender Ausdruck	
+euxfem.0o	eŭfemismo		oa_9	verhüllender Ausdruck	
+euxfoni.0o	eŭfonio		NULL	Euphonie	
+euxfoni.0o.SON	eŭfonio		NULL	Euphonie	
+euxfor.0o	eŭforbio		NULL	Christusdorn	
+euxfor.0o	eŭforbio		NULL	Wolfsmilch	
+euxfor1.0oj	eŭforbiacoj		NULL	Wolfsmilchgewächse	
+euxfor1.0oj.BOT	eŭforbiacoj		NULL	Wolfsmilchgewächse	
+euxfori.0o	eŭforio		NULL	Euphorie	
+euxfrat.E0o	Eŭfrato		NULL	Euphrat	
+euxgen.0o	eŭgeniko		NULL	Eugenik	
+euxgen.0o	eŭgeniko		NULL	Eugenetik	
+euxgen.0o	eŭgeniko		NULL	Erbhygiene	
+euxgen1.0o	Eŭgeno		NULL	Eugen	
+euxhxaristi.0o	eŭĥaristio		NULL	Eucharistie	
+euxhxaristi.0o	eŭkaristio		NULL	Eucharistie	
+euxkal.0o	eŭkalipto		oa_9	Eukalyptus	
+euxkal.0o.BOT	eŭkalipto		oa_9	Eukalyptus	
+euxkariot.0o	eŭkarioto		NULL	NULL	NULL
+euxkariot.0o.BIO	eŭkarioto		NULL	Eukaryot	
+euxkli.0o	Eŭklido		NULL	Euklid	
+euxkli.e0a	eŭklida		NULL	Euklid	von Euklid
+euxkli.e0a	eŭklida		NULL	Euklids	
+euxkli.e0a	eŭklida		NULL	euklidisch	
+euxler.0o	Eŭlero		NULL	Euler	
+euxler.e0a	eŭlera		NULL	Euler	von Euler
+euxler.e0a	eŭlera		NULL	Eulersch	
+euxler.e0a.MAT	eŭlera	2	NULL	Euler	von Euler
+euxler.e0a.MAT	eŭlera	2	NULL	Eulersch	
+euxnuk.0o	eŭnuko		oa_2	Eunuch	
+euxr.0lando	eŭrolando		NULL	NULL	NULL
+euxr.0o	eŭro		oa_9	Euro	
+euxraz.0ano	eŭraziano		NULL	Eurasier	
+euxraz.E0o	Eŭrazio		NULL	Eurasien	
+euxrial.0o	Eŭrjalo		NULL	Euryale	
+euxrial.0o	Eŭrialo		NULL	Euryale	
+euxrial.0o.gorgon	Eŭrjalo	1	NULL	Euryale	
+euxrial.0o.gorgon	Eŭrialo	1	NULL	Euryale	
+euxrial.0o.orion	Eŭrjalo	2	NULL	Euryale	
+euxrial.0o.orion	Eŭrialo	2	NULL	Euryale	
+euxripid.0o	Eŭripido		NULL	Euripides	
+euxrop.0o	eŭropio		NULL	Europium	
+euxrop1.0a	eŭropa		NULL	europäisch	
+euxrop1.E0o	Eŭropo		ekz_3	Europa	
+euxrop1.E0o.ast	Eŭropo	3	ekz_3	Europa	
+euxrop1.E0o.geog	Eŭropo	1	ekz_3	Europa	
+euxrop1.E0o.mit	Eŭropo	2	ekz_3	Europa	
+euxsk.0a	eŭska		NULL	baskisch	
+euxsk.0o	eŭsko		NULL	Baske	
+euxsk.K0ujo	Eŭskujo		NULL	Baskenland	
+euxski.0o	Eŭskio		NULL	Baskenland	
+euxtanazi.0o	eŭtanazio		NULL	NULL	NULL
+euxtanazi.0o.MED	eŭtanazio	1	NULL	Euthanasie	
+euxtanazi.0o.MED	eŭtanazio	1	NULL	Sterbehilfe	
+euxtanazi.0o.nazia	eŭtanazio	2	NULL	Euthanasie	
+euxzebi.0o	Eŭzebio		NULL	NULL	NULL
+euxzebi.0o.NOM	Eŭzebio		NULL	NULL	NULL
+evaku.0i	evakui		NULL	evakuieren	
+evaku.0i	evakui		NULL	räumen	
+evaku.0o	evakuo		NULL	Evakuierung	
+evaku.0o	evakuo		NULL	Räumung	
+evaku.0o.KOMUNE	evakuo		NULL	Evakuierung	
+evaku.0o.KOMUNE	evakuo		NULL	Räumung	
+evange.0a	evangelia		NULL	evangelisch	
+evange.0a.KOMUNE	evangelia	1	NULL	evangelisch	
+evange.0a.protestanta	evangelia	2	NULL	evangelisch	
+evange.0isto	evangeliisto		NULL	NULL	NULL
+evange.0isto.BIB	evangeliisto	1	NULL	NULL	NULL
+evange.0isto.predikisto	evangeliisto	2	NULL	NULL	NULL
+evange.0o	evangelio		NULL	Evangelium	
+evange.0o.BIB	evangelio	1	NULL	Verkündigung (Christi)	
+evange.0o.BIB	evangelio	1	NULL	Evangelium	
+evange.0o.FIG	evangelio	4	NULL	Evangelium	
+evange.0o.KRI	evangelio	2	NULL	Heilsbotschaft Christi	
+evange.0o.KRI	evangelio	2	NULL	Evangelium	
+evange.0o.NT	evangelio	3	NULL	Neues Testament	
+evange.0o.NT	evangelio	3	NULL	Evangelium	
+evangeliz.0i	evangelizi		NULL	NULL	NULL
+evangeliz.0i.KRI	evangelizi		NULL	christianisieren	
+evangeliz.0i.KRI	evangelizi		NULL	evangelisieren	
+evelin.0o	Evelino		NULL	Evelin	
+event.0o	evento		oa_8	Ereignis	
+event.0o	evento		oa_8	Begebenheit	
+event.0o	evento		oa_8	Erlebnis	
+event.0o.okazajxo	evento		oa_8	Ereignis	
+event.0o.okazajxo	evento		oa_8	Begebenheit	
+event.0o.okazajxo	evento		oa_8	Erlebnis	
+eventu.0a	eventuala		NULL	eventuell	
+eventu.0a	eventuala		NULL	möglich	
+eventu.0a	eventuala		NULL	etwaig	
+eventu.0a	eventuala		NULL	allfällig	allfällig [Ös]
+eventu.0a.KOMUNE	eventuala		NULL	eventuell	
+eventu.0a.KOMUNE	eventuala		NULL	möglich	
+eventu.0a.KOMUNE	eventuala		NULL	etwaig	
+eventu.0a.KOMUNE	eventuala		NULL	allfällig	allfällig [Ös]
+eventu.0ajxo	eventualaĵo		NULL	Eventualität	
+eventu.0ajxo	eventualo		NULL	Eventualität	
+eventu.0ajxo	eventualaĵo		NULL	etwa eintretender Umstand	
+eventu.0ajxo	eventualo		NULL	etwa eintretender Umstand	
+eventu.0ajxo	eventualaĵo		NULL	mögliches Ereignis	
+eventu.0ajxo	eventualo		NULL	mögliches Ereignis	
+eventu.0ajxo.KOMUNE	eventualaĵo		NULL	Eventualität	
+eventu.0ajxo.KOMUNE	eventualo		NULL	Eventualität	
+eventu.0ajxo.KOMUNE	eventualaĵo		NULL	etwa eintretender Umstand	
+eventu.0ajxo.KOMUNE	eventualo		NULL	etwa eintretender Umstand	
+eventu.0ajxo.KOMUNE	eventualaĵo		NULL	mögliches Ereignis	
+eventu.0ajxo.KOMUNE	eventualo		NULL	mögliches Ereignis	
+eventu.0e	eventuale		NULL	eventuell	
+eventu.0e	eventuale		NULL	evtl.	evtl. [mll.]
+eventu.0e	eventuale		NULL	möglicherweise	
+eventu.0e	eventuale		NULL	etwa	
+eventu.0e.KOMUNE	eventuale		NULL	eventuell	
+eventu.0e.KOMUNE	eventuale		NULL	evtl.	evtl. [mll.]
+eventu.0e.KOMUNE	eventuale		NULL	möglicherweise	
+eventu.0e.KOMUNE	eventuale		NULL	etwa	
+everest.0o	Everesto		NULL	Mount Everest	
+eviden.0a	evidenta		NULL	offensichtlich	
+eviden.0a	evidenta		NULL	offenkundig	
+eviden.0a	evidenta		NULL	offenbar	
+eviden.0a	evidenta		NULL	augenscheinlich	
+eviden.0a	evidenta		NULL	einleuchtend	
+eviden.0a.LOG	evidenta		NULL	offensichtlich	
+eviden.0a.LOG	evidenta		NULL	offenkundig	
+eviden.0a.LOG	evidenta		NULL	offenbar	
+eviden.0a.LOG	evidenta		NULL	augenscheinlich	
+eviden.0a.LOG	evidenta		NULL	einleuchtend	
+eviden.0e	evidente		NULL	offensichtlich	
+eviden.0e	evidente		NULL	offenkundig	
+eviden.0e	evidente		NULL	offenbar	
+eviden.0e	evidente		NULL	augenscheinlich	
+eviden.0e	evidente		NULL	einleuchtend	
+eviden.0e.LOG	evidente		NULL	offensichtlich	
+eviden.0e.LOG	evidente		NULL	offenkundig	
+eviden.0e.LOG	evidente		NULL	offenbar	
+eviden.0e.LOG	evidente		NULL	augenscheinlich	
+eviden.0e.LOG	evidente		NULL	einleuchtend	
+eviden.0eco	evidenteco		NULL	Offensichtlichkeit	
+eviden.0eco	evidenteco		NULL	Augenscheinlichkeit	
+eviden.0eco	evidenteco		NULL	Evidenz	Evidenz [sci]
+eviden.0eco.LOG	evidenteco		NULL	Offensichtlichkeit	
+eviden.0eco.LOG	evidenteco		NULL	Augenscheinlichkeit	
+eviden.0eco.LOG	evidenteco		NULL	Evidenz	Evidenz [sci]
+eviden.0igxi	evidentiĝi		NULL	NULL	NULL
+eviden.0igxi.LOG	evidentiĝi		NULL	NULL	NULL
+evikci.0i	evikcii		NULL	evinzieren	
+evikci.0i	evikcii		NULL	exmittieren	
+evikci.0i	evikcii		NULL	entziehen	
+evit.0ebla	evitebla		NULL	vermeidbar	
+evit.0ebla.KOMUNE	evitebla		NULL	vermeidbar	
+evit.0ema	evitema		NULL	ausweichend	
+evit.0ema.KOMUNE	evitema		NULL	ausweichend	
+evit.0i	eviti		NULL	meiden	
+evit.0i	eviti		NULL	vermeiden	
+evit.0i	eviti		NULL	ausweichen	
+evit.0i.ion	eviti	2	NULL	meiden	
+evit.0i.ion	eviti	2	NULL	vermeiden	
+evit.0i.ion	eviti	2	NULL	ausweichen	
+evit.0i.iun	eviti	1	NULL	meiden	
+evit.0i.iun	eviti	1	NULL	vermeiden	
+evit.0i.iun	eviti	1	NULL	ausweichen	
+evit.0igi	evitigi		NULL	ersparen	
+evit.0igi	evitigi		NULL	davor bewahren	
+evit.0igi	evitigi		NULL	vermeidbar machen	
+evit.0igi.KOMUNE	evitigi		NULL	ersparen	
+evit.0igi.KOMUNE	evitigi		NULL	davor bewahren	
+evit.0igi.KOMUNE	evitigi		NULL	vermeidbar machen	
+evit.mal0i	maleviti		NULL	NULL	NULL
+evit.mal0i.KOMUNE	maleviti		NULL	stellen	sich stellen (einer Herausforderung)
+evit.mal0i.KOMUNE	maleviti		NULL	stürzen	sich hineinstürzen
+evit.mal0i.KOMUNE	maleviti		NULL	annehmen	eine Herausforderung annehmen
+evit.mal0i.KOMUNE	maleviti		NULL	trotzen	
+evit.ne0ebla	neevitebla		NULL	NULL	NULL
+evit.ne0ebla.KOMUNE	neevitebla		NULL	unvermeidbar	
+evit.ne0ebla.KOMUNE	neevitebla		NULL	unvermeidlich	
+evit.ne0eblo	neeviteblo		NULL	Unvermeidlichkeit	
+evit.ne0eblo	neevitebleco		NULL	Unvermeidlichkeit	
+evolu.0i	evolui		oa_2	entwickeln	sich entwickeln
+evolu.0i.disvolvigxi	evolui	1	oa_2	entwickeln	sich entwickeln
+evolu.0i.disvolvigxi	evolui	1	oa_2	entwickeln	sich entwickeln
+evolu.0i.sxangxigxi	evolui	2	oa_2	verändern	sich verändern
+evolu.0i.sxangxigxi	evolui	2	oa_2	entwickeln	sich entwickeln
+evolu.0igi	evoluigi		NULL	entwickeln	
+evolu.0ismo	evoluismo		NULL	Evolutionstheorie	
+evolu.0ismo	teorio de evoluo		NULL	Evolutionstheorie	
+evolu.0ismo.SCI	evoluismo		NULL	Evolutionstheorie	
+evolu.0ismo.SCI	teorio de evoluo		NULL	Evolutionstheorie	
+evolu.0o	evoluo		NULL	NULL	NULL
+evolu.0o.disvolvigxo	evoluo	1	NULL	Entwicklung	
+evolu.0o.disvolvigxo	evoluo	1	NULL	Evolution	Evolution [vivogenezo]
+evolu.0o.sxangxigxo	evoluo	2	NULL	Veränderung	
+evolu.0o.sxangxigxo	evoluo	2	NULL	Sichentwickeln	
+evolu.0o.sxangxigxo	evoluo	2	NULL	Evolution	Evolution [fak]
+evoluc.0i	evolucii		NULL	entwickeln	sich entwickeln
+evoluc.0i	evolucii		NULL	herausbilden	sich herausbilden
+evoluc.0o	evolucio		NULL	Entwicklung	
+evoluc.0o	evolucio		NULL	Evolution	
+evolut.0o	evoluto		NULL	Evolute	
+evolve.0o	evolvento		NULL	Evolvente	
+evonim.0o	evonimo		NULL	Spindelstrauch	
+evonim.0o	evonimo		NULL	Pfaffenhütchen	
+ezofag.0o	ezofago		NULL	Speiseröhre	
+ezok.0o	ezoko		NULL	Hecht	
+ezok.0oformaj	ezokoformaj		NULL	Hechtartige Fische	Hechtartige Fische (Ordnung)
+ezoked.0oj	ezokedoj		NULL	Hechte	Hechte (Familie)
+ezop.0o	Ezopo		NULL	Aesop	
+ezop.0o.PERS	Ezopo		NULL	Aesop	
