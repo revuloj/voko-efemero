@@ -53,9 +53,9 @@
 csv_hande('vrt/handedict_23.u8').
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-csv_mankoj('vrt/eo_de_c.csv').
-db_celo('pro/eo_zh_c.db').
-csv_celo('vrt/eo_zh_c.csv').
+csv_mankoj('vrt/eo_de_d.csv').
+db_celo('pro/eo_zh_d.db').
+csv_celo('vrt/eo_zh_d.csv').
 
 
 legu :-
@@ -124,12 +124,17 @@ hande_redukt :-
 %    normalize_space(QV,Vorto),
 %    format('~w ~w ~w~n',[Query,Vorto,Bind]).
 
-:- op(1200,fy,user:(?)).
-?(X) :- p(X).
+:- op(800,fy,user:(?)).
+?(Eo) :- p(Eo).
+?(Eo-De) :- pde(Eo,De).
 
 % per kajsigno ni aldonas tradukojn per siaj numberoj
 :- op(1200,fy,user:(&)).
 &(Kion) :- s(Kion).
+a :- s(a1).
+b :- s(b1).
+ab :- s(ab1).
+abc :- s(abc1).
 
 % informu pri kelkaj mankantaj tradukvortoj (eo)
 % dum mankas ĉiuj, pli facile estas verŝajne simple trairi supre malsupren la
@@ -329,20 +334,21 @@ de_zh(s,De,D1,Zh,Simil) :-
         kmp_isub(De,D1,Simil).
 
 kmp_isub(T1,T2,Simil) :-
-    catch( % okazas iuj nevalidaj unikod-literoj !?
-        (
+    %catch( % okazas iuj nevalidaj unikod-literoj !?
+    %    (
             downcase_atom(T1,S1),
             downcase_atom(T2,S2),
             isub(S1,S2,Simil,[zero_to_one(true)])
-        ), 
-        _E,
-        (
-            %writeln(E),
-            zhde(Zh,T2),
-            format('uk: ~w~n',[Zh]),
-            Simil = 0.0
-        )
-    ),
+    %    ), 
+    %    _E,
+    %    (
+    %        %writeln(E),
+    %        zhde(Zh,T2),
+    %        format('uk: ~w~n',[Zh]),
+    %        Simil = 0.0
+    %    )
+    %)
+    ,
     Simil > 0.5 .
 
 kmp_ngram(T1,T2,Simil) :-

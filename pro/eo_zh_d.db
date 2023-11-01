@@ -1,0 +1,481 @@
+created(1698828916.8683097).
+assert(celo(dadaismo,'dadaism.0o','达达主义[dá dá zhǔ yì]')).
+assert(celo(dafno,'dafn.0o','瑞香[ruì xiāng]')).
+assert(celo(dagerotipo,'dagerotip.0o','銀版攝影法[yín bǎn shè yǐng fǎ]')).
+assert(celo(dagerotipo,'dagerotip.0o','銀板照相法[yín bǎn zhào xiàng fǎ]')).
+assert(celo(dagerotipio,'dagerotipi.0o','銀版攝影法[yín bǎn shè yǐng fǎ]')).
+assert(celo(dagerotipio,'dagerotipi.0o','銀板照相法[yín bǎn zhào xiàng fǎ]')).
+assert(celo(daimio,'daimi.0o.japana_princo','香港日佔時期[xiāng gǎng rì zhàn shí qī]')).
+assert(celo(dajmono,'dajmon.0o','邪灵[xié líng]')).
+assert(celo(dajmono,'dajmon.0o','精力过人的人[jīng lì guò rén de rén]')).
+assert(celo(dajmono,'dajmon.0o','非凡的人[fēi fán de rén]')).
+assert(celo(dajmono,'dajmon.0o','恶煞[è shà]')).
+assert(celo(dajmono,'dajmon.0o','极恶的人[jí è de rén]')).
+assert(celo(dajmono,'dajmon.0o','妖魔[yāo mó]')).
+assert(celo(dajmono,'dajmon.0o','鬼魅[guǐ mèi]')).
+assert(celo(dajmono,'dajmon.0o','邪神[xié shén]')).
+assert(celo(dajmono,'dajmon.0o','凶恶的化身[xiōng è de huà shēn]')).
+assert(celo(dajmono,'dajmon.0o','魔[mó]')).
+assert(celo(dajmono,'dajmon.0o','魔鬼[mó guǐ]')).
+assert(celo(dajmono,'dajmon.0o','妖[yāo]')).
+assert(celo(dajmono,'dajmon.0o','妖怪[yāo guài]')).
+assert(celo('Dako','dak.0o.cxefurbo','达卡[dá kǎ]')).
+assert(celo('Dakaro','dakar.0o.urbo','达喀尔[dá kà ěr]')).
+assert(celo(daktilujo,'daktil.0arbo','#[zǎo yē]')).
+assert(celo(daktilo,'daktil.0o.KUI','#[zǎo zi]')).
+assert(celo(daktilo,'daktil.0o.KUI','枣子[zǎo zi]')).
+assert(celo(daktilo,'daktil.0o.KUI','#[mì zǎo]')).
+assert(celo(daktilo,'daktil.0o.KUI','蜜枣[mì zǎo]')).
+assert(celo(daktilo,'daktil.0o.KUI','#[hǎi zǎo]')).
+assert(celo(daktilo,'daktil.0o.KUI','海枣[hǎi zǎo]')).
+assert(celo(dalajlamao,'dalajlama.0o','达赖喇嘛[dá lài lǎ ma]')).
+assert(celo(dalajlamao,'dalajlama.0o','#[dá lài lǎ ma]')).
+retract(celo(daktilujo,'daktil.0arbo','#[zǎo yē]')).
+retract(celo(daktilo,'daktil.0o.KUI','#[zǎo zi]')).
+retract(celo(daktilo,'daktil.0o.KUI','#[mì zǎo]')).
+retract(celo(daktilo,'daktil.0o.KUI','#[hǎi zǎo]')).
+retract(celo(dalajlamao,'dalajlama.0o','#[dá lài lǎ ma]')).
+assert(celo(dalio,'dali.0o','大理花[dà lǐ huā]')).
+assert(celo(dalio,'dali.0o','天竺牡丹[tiān zhú mǔ dān]')).
+assert(celo('Dalmatio','dalmati.0o','达尔马提亚人[dá ěr mǎ tí yà rén]')).
+assert(celo('Dalmatio','dalmati.0o','达尔马提亚狗[dá ěr mǎ tí yà gǒu]')).
+assert(celo('Dalmatio','dalmati.0o','斑点狗[bān diǎn gǒu]')).
+assert(celo('Dalmatio','dalmati.0o','亚得里亚海旁[yà děi lǐ yà hǎi páng]')).
+assert(celo('Dalmatio','dalmati.0o','原南斯拉夫西部[yuán nán sī lā fū xī bù]')).
+assert(celo('Dalmatio','dalmati.0o','达尔马提亚[dá ěr mǎ tí yà]')).
+assert(celo(daltonismo,'dalton.0o','色盲[sè máng]')).
+assert(celo(damaĝi,'damagx.0i','损害[sǔn hài]')).
+assert(celo(damaĝi,'damagx.0i','有破坏性[yǒu pò huài xìng]')).
+assert(celo(damaĝo,'','花費[huā fèi]')).
+assert(celo(damasko,'damask.0o','綾[líng]')).
+assert(celo('Damasko','damask2.D0o','大馬士革[dà mǎ shì gé]')).
+assert(celo(damni,'damn.0i','詛[zǔ]')).
+assert(celo(damni,'damn.0i','詈[lì]')).
+assert(celo(damni,'damn.0i','詛咒[zǔ zhòu]')).
+assert(celo(damninda,'damn.0inda','无耻地[wú chǐ de]')).
+assert(celo(dampi,'damp.0i','挫[cuò]')).
+assert(celo(dampi,'damp.0i','减震[jiǎn zhèn]')).
+assert(celo(dampi,'damp.0i','緩衝[huǎn chōng]')).
+assert(celo(dampi,'damp.0i','挫伤[cuò shāng]')).
+assert(celo(dampilo,'damp.0ilo.MUZ','調節閘[tiáo jié zhá]')).
+assert(celo(dampilo,'damp.0ilo.MUZ','减震器[jiǎn zhèn qì]')).
+assert(celo(dana,'dan.0a','丹麥語[dān mài yǔ]')).
+assert(celo(dana,'dan.0a','丹麥文[dān mài wén]')).
+assert(celo(dano,'dan.0o','丹麥人[dān mài rén]')).
+assert(celo('Danujo','dan.D0ujo','丹麥[dān mài]')).
+assert(celo('Danaino','dana.0ino','达那埃[dá nà āi]')).
+assert(celo('Danao','dana.0o.greko','达那埃[dá nà āi]')).
+assert(celo(dancejo,'danc.0ejo','迪斯科舞厅[dí sī kē wǔ tīng]')).
+assert(celo(dancejo,'danc.0ejo','迪斯科[dí sī kē]')).
+assert(celo(dancejo,'danc.0ejo','舞场[wǔ chǎng]')).
+assert(celo(dancejo,'danc.0ejo','歌厅[gē tīng]')).
+assert(celo(dancejo,'danc.0ejo','舞厅[wǔ tīng]')).
+assert(celo(danco,'danc.0o','舞[wǔ]')).
+assert(celo(danco,'danc.0o','舞蹈[wǔ dǎo]')).
+assert(celo(danco,'danc.0o','躧步[xǐ bù]')).
+assert(celo(klakdanco,'danc.klak0o','踢踏舞[tī tà wǔ]')).
+assert(celo(danĝera,'dangxe.0a','危机四伏[wēi jī sì fú]')).
+assert(celo(danĝera,'dangxe.0a','险阻[xiǎn zǔ]')).
+assert(celo(danĝera,'dangxe.0a','阽[diàn]')).
+assert(celo(danĝera,'dangxe.0a','陧[niè]')).
+assert(celo(danĝera,'dangxe.0a','岌[jí]')).
+assert(celo(danĝera,'dangxe.0a','阽[yán]')).
+assert(celo(danĝera,'dangxe.0a','艰险[jiān xiǎn]')).
+assert(celo(danĝera,'dangxe.0a','危险[wēi xiǎn]')).
+assert(celo(eksterdanĝera,'dangxe.ekster0a','脫離危險[tuō lí wéi xiǎn]')).
+assert(celo('okaze de danĝero','dangxe.okazo_de_0o','紧急时[jǐn jí shí]')).
+assert(celo('okaze de danĝero','dangxe.okazo_de_0o','大不了[dài bù le]')).
+assert(celo('okaze de danĝero','dangxe.okazo_de_0o','万不得已[wàn bù dé yǐ]')).
+assert(celo('okaze de danĝero','dangxe.okazo_de_0o','如果必要的話[rú guǒ bì yào de huà]')).
+assert(celo('Danio','dani.D0o','丹麥[dān mài]')).
+assert(celo('danke al','dank.0e_al','多亏[duō kuī]')).
+assert(celo(dankemo,'dank.0emo','满怀感激之情[mǎn huái gǎn jī zhī qíng]')).
+assert(celo(dankemo,'dank.0emo','感激[gǎn jī]')).
+assert(celo(dankemo,'dank.0emo','賞識[shǎng shí]')).
+assert(celo(dankemo,'dank.0emo','感謝之心[gǎn xiè zhī xīn]')).
+assert(celo(dankemo,'dank.0emo','謝意[xiè yì]')).
+assert(celo(danko,'dank.0o','謝禮[xiè lǐ]')).
+assert(celo(danko,'dank.0o','謝辭[xiè cí]')).
+assert(celo(sendanka,'dank.sen0a','負心[fù xīn]')).
+assert(celo(sendanka,'dank.sen0a','不感恩[bù gǎn ēn]')).
+assert(celo(sendanka,'dank.sen0a','不知感恩[bù zhī gǎn ēn]')).
+assert(celo(sendanka,'dank.sen0a','忘恩負義[wáng ēn fù yì]')).
+assert(celo('Danubo','danub.D0o','多瑙河[duō nǎo hé]')).
+assert(celo('Daresalamo','daresalam.0o','达累斯萨拉姆[dá lèi sī sà lā mǔ]')).
+assert(celo(darfi,'darf.0i','能[néng]')).
+assert(celo('Darmo','darm.0o','达摩[dá mā]')).
+assert(celo('Darmapado','darmapad.0o','法句經[fǎ jù jīng]')).
+assert(celo(darmŝtatio,'darmsxtati.0o','鐽[dá]')).
+assert(celo(dartro,'dartr.0o','牛皮癣[niú pí xiǎn]')).
+assert(celo(darvinismo,'darvin.0ismo','达尔文主义[dá ěr wén zhǔ yì]')).
+assert(celo('Darvino','darvin.0o','查尔斯罗伯特达尔文[chá ěr sī luó bó tè dá ěr wén]')).
+assert(celo('Darvino','darvin.0o','达尔文[dá ěr wén]')).
+assert(celo(dato,'dat.0o','时间点[shí jiān diǎn]')).
+assert(celo(dato,'dat.0o','时机[shí jī]')).
+assert(celo(dato,'dat.0o','注明日期[zhù míng rì qī]')).
+assert(celo(dato,'dat.0o','时期[shí qī]')).
+assert(celo(datumo,'datum.0o.KOMP','数据[shù jù]')).
+assert(celo(freŝdata,'dat.fresx0a','富有活力[fù yǒu huó lì]')).
+assert(celo(freŝdata,'dat.fresx0a','最年輕[zuì nián qīng]')).
+assert(celo(freŝdata,'dat.fresx0a','新近[xīn jìn]')).
+assert(celo(freŝdata,'dat.fresx0a','么[yāo]')).
+assert(celo(freŝdata,'dat.fresx0a','不久以前[bù jiǔ yǐ qián]')).
+assert(celo(ĝisdata,'dat.gxis0a','时事[shí shì]')).
+assert(celo(ĝisdatigi,'dat.gxis0datigi','更新换代[gēng xīn huàn dài]')).
+assert(celo(ĝisdatigi,'dat.gxis0datigi','更新[gēng xīn]')).
+assert(celo(ĝisdatigi,'dat.gxis0datigi','刷新[shuā xīn]')).
+assert(celo(limdato,'dat.lim0o','限期[xiàn qī]')).
+assert(celo(limdato,'dat.lim0o','时限[shí xiàn]')).
+assert(celo(limdato,'dat.lim0o','期[qī]')).
+assert(celo(vivdatoj,'dat.viv0oj','年譜[nián pǔ]')).
+assert(celo(dateno,'daten.0o','数据[shù jù]')).
+assert(celo(datao,'','数据[shù jù]')).
+assert(celo(datenopo,'daten.0opo','数据组[shù jù zǔ]')).
+assert(celo(datumbanko,'datum.0banko','数据基础[shù jù jī chǔ]')).
+assert(celo(datumbazo,'datum.0bazo','資料庫[zī liào kù]')).
+assert(celo(datumbazo,'datum.0bazo','数据库[shù jù kù]')).
+assert(celo(datumportilo,'datum.0portilo','数据载体[shù jù zài tǐ]')).
+assert(celo(datumstrukturo,'datum.0strukturo','数据结构[shù jù jié gòu]')).
+assert(celo(daturo,'datur.0o','曼陀罗花[màn tuó luó huā]')).
+assert(celo(daŭra,'dauxr.0a.dauxranta','持續不斷[chí xù bù duàn]')).
+assert(celo(daŭra,'dauxr.0a.dauxranta','巛[chuān]')).
+assert(celo(daŭre,'dauxr.0e.malmomente','不住[bù zhù]')).
+assert(celo(daŭreco,'dauxr.0eco','保質期[bǎo zhì qī]')).
+assert(celo(daŭreco,'dauxr.0eco','經久耐用[jīng jiǔ nài yòng]')).
+assert(celo(daŭreco,'dauxr.0eco','稳定度[wěn dìng dù]')).
+assert(celo(daŭreco,'dauxr.0eco','保存期[bǎo cún qī]')).
+assert(celo(daŭri,'dauxr.0i.estadi','持久[chí jiǔ]')).
+assert(celo(daŭri,'dauxr.0i.estadi','續[xù]')).
+assert(celo(daŭri,'dauxr.0i.estadi','持續[chí xù]')).
+assert(celo(daŭrigo,'dauxr.0igo','延續部分[yán xù bù fen]')).
+assert(celo(daŭrigo,'dauxr.0igo','續前期[xù qián qī]')).
+assert(celo(daŭrigo,'dauxr.0igo','續編[xù biān]')).
+assert(celo(daŭrigo,'dauxr.0igo','连播[lián bō]')).
+assert(celo(daŭrigo,'dauxr.0igo','繼續[jì xù]')).
+assert(celo(daŭrigo,'dauxr.0igo','續篇[xù piān]')).
+assert(celo(daŭrigo,'dauxr.0igo','连续[lián xù]')).
+assert(celo(daŭrigo,'dauxr.0igo','延拓[yán tuò]')).
+assert(celo(daŭro,'dauxr.0o','为期[wéi qī]')).
+assert(celo(daŭro,'dauxr.0o','持續時間[chí xù shí jiān]')).
+assert(celo(daŭro,'dauxr.0o','永久性[yǒng jiǔ xìng]')).
+assert(celo(maldaŭra,'dauxr.mal0a','过渡性[guò dù xìng]')).
+assert(celo(maldaŭra,'dauxr.mal0a','先列[xiān liè]')).
+assert(celo(maldaŭra,'dauxr.mal0a','暂时[zàn shí]')).
+assert(celo(maldaŭra,'dauxr.mal0a','暂现[zàn xiàn]')).
+assert(celo(pludaŭri,'dauxr.plu0i','續[xù]')).
+assert(celo(pludaŭri,'dauxr.plu0i','持續[chí xù]')).
+assert(celo(pludaŭri,'dauxr.plu0i','賡[gēng]')).
+assert(celo(pludaŭri,'dauxr.plu0i','连绵[lián mián]')).
+assert(celo(pludaŭri,'dauxr.plu0i','竖起[shù qi]')).
+assert(celo(pludaŭri,'dauxr.plu0i','㝉[zhù]')).
+assert(celo(pludaŭri,'dauxr.plu0i','历时[lì shí]')).
+assert(celo(pludaŭri,'dauxr.plu0i','繼[jì]')).
+assert(celo(vivdaŭro,'dauxr.viv0o','使用期限[shǐ yòng qī xiàn]')).
+assert(celo(vivdaŭro,'dauxr.viv0o','使用年限[shǐ yòng nián xiàn]')).
+assert(celo(vivdaŭro,'dauxr.viv0o','服务年限[fú wù nián xiàn]')).
+assert(celo(vivdaŭro,'dauxr.viv0o','使用时间[shǐ yòng shí jiān]')).
+assert(celo(vivdaŭro,'dauxr.viv0o','使用期[shǐ yòng qī]')).
+assert(celo(vivdaŭro,'dauxr.viv0o','人命[rén mìng]')).
+assert(celo(vivdaŭro,'dauxr.viv0o','生存期[shēng cún qī]')).
+assert(celo(vivdaŭro,'dauxr.viv0o','生命周期[shēng mìng zhōu qī]')).
+assert(celo(vivdaŭro,'dauxr.viv0o','壽命[shòu mìng]')).
+assert(celo('Davido','david.0o','大卫[dà wèi]')).
+assert(celo(dazipo,'dazip.0o','犰狳[qiú yú]')).
+assert(celo(dazipo,'dazip.0o','犰[qiú]')).
+assert(celo(dazipo,'dazip.0o','狳[yú]')).
+assert(celo(dazipedoj,'dazipe.0oj','犰狳科[qiú yú kē]')).
+assert(celo(deale,'deal.0e','不时[bù shí]')).
+assert(celo(debati,'debat.0i','論辯[lùn biàn]')).
+assert(celo(debati,'debat.0i','分争[fēn zhēng]')).
+assert(celo(debati,'debat.0i','辩说[biàn shuō]')).
+assert(celo(debato,'debat.0o','辩论[biàn lùn]')).
+assert(celo(debitoro,'debito.0o','欠戶[qiàn hù]')).
+assert(celo(debuto,'debut.0o','初次登场[chū cì dēng cháng]')).
+assert(celo(debuto,'debut.0o','首次登台[shǒu cì dēng tái]')).
+assert(celo(debuto,'debut.0o','首次飛行[shǒu cì fēi xíng]')).
+assert(celo(debuto,'debut.0o','首次出现[shǒu cì chū xiàn]')).
+assert(celo(debuto,'debut.0o','初遇[chū yù]')).
+assert(celo(deca,'dec.0a.merita','妥当[tuǒ dàng]')).
+assert(celo(deca,'dec.0a.merita','謙和[qiān hé]')).
+assert(celo(deca,'dec.0a.merita','浇铸上去的[jiāo zhù shàng qù de]')).
+assert(celo(deca,'dec.0a.merita','应有[yīng yǒu]')).
+assert(celo(deci,'dec.0i.morale','該[gāi]')).
+assert(celo(deci,'dec.0i.morale','宜[yí]')).
+assert(celo(deco,'dec.0o','良知[liáng zhī]')).
+assert(celo(deco,'dec.0o','体统[tǐ tǒng]')).
+assert(celo(deco,'dec.0o','事体[shì tǐ]')).
+assert(celo(maldeca,'dec.mal0a','不雅[bù yǎ]')).
+assert(celo(maldeca,'dec.mal0a','怭[bì]')).
+assert(celo(maldeca,'dec.mal0a','不正派[bù zhèng pài]')).
+assert(celo(maldeca,'dec.mal0a','獗[jué]')).
+assert(celo(maldeca,'dec.mal0a','儱[lǒng]')).
+assert(celo(maldeca,'dec.mal0a','莽[mǎng]')).
+assert(celo(maldeca,'dec.mal0a','幠[hū]')).
+assert(celo(maldeca,'dec.mal0a','乌七八糟[wū qī bā zāo]')).
+assert(celo(decida,'decid.0a.alportanta','夬[guài]')).
+assert(celo(decida,'decid.0a.alportanta','有活力[yǒu huó lì]')).
+assert(celo(decidema,'decid.0ema','夬[guài]')).
+assert(celo(decidi,'decid.0i','作出决定[zuò chū jué dìng]')).
+assert(celo(decidi,'decid.0i','判定[pàn dìng]')).
+assert(celo(decidi,'decid.0i','决定[jué dìng]')).
+assert(celo(decidi,'decid.0i','騭[zhì]')).
+assert(celo(decidi,'decid.0i','尖尖[jiān jiān]')).
+assert(celo(decidi,'decid.0i','拿定主意[ná dìng zhǔ yi]')).
+assert(celo(decidi,'decid.0i','議決[yì jué]')).
+assert(celo(decidiĝi,'decid.0igxi.decidanta','拿主意[ná zhǔ yi]')).
+assert(celo(decidiĝi,'decid.0igxi.decidanta','得出結果[dé chū jié guǒ]')).
+assert(celo(decido,'decid.0o','理性决策[lǐ xìng jué cè]')).
+assert(celo(decido,'decid.0o','审定专利决策[shěn dìng zhuān lì jué cè]')).
+assert(celo(decido,'decid.0o','决定[jué dìng]')).
+assert(celo(decidi,'','作出决定[zuò chū jué dìng]')).
+assert(celo(nedecidema,'decid.sen0a','儃[chán]')).
+assert(celo(nedecidema,'decid.sen0a','徨[huáng]')).
+assert(celo(nedecidema,'decid.sen0a','佪[huái]')).
+assert(celo(nedecidema,'decid.sen0a','徊[huái]')).
+assert(celo(nedecidema,'decid.sen0a','憧[chōng]')).
+assert(celo(decimala,'decima.0a','小数[xiǎo shù]')).
+assert(celo(decimalo,'decima.0o','十进制小数[shí jìn zhì xiǎo shù]')).
+assert(celo(decimalo,'decima.0o','十进数[shí jìn shù]')).
+assert(celo(decimalo,'decima.0o','小数位[xiǎo shù wèi]')).
+assert(celo(decimetro,'decime.0o','分米[fēn mǐ]')).
+assert(celo(decimetro,'decime.0o','分公尺[fēn gōng chǐ]')).
+assert(celo(decimetro,'decime.0o','公寸[gōng cùn]')).
+assert(celo(deĉifri,'decxif.0i','破譯[pò yì]')).
+assert(celo(deĉifri,'decxif.0i','解讀[jiě dú]')).
+assert(celo(dediĉi,'dedicx.0i.destini','献予[xiàn yú]')).
+assert(celo(dediĉi,'dedicx.0i.destini','貢獻[gòng xiàn]')).
+assert(celo(dediĉo,'dedicx.0o.omagxa','題字[tí zì]')).
+assert(celo(dediĉo,'dedicx.0o.omagxa','落款[luò kuǎn]')).
+assert(celo(dediĉo,'dedicx.0o.omagxa','題詞[tí cí]')).
+assert(celo(dedukti,'dedukt.0i','推衍[tuī yǎn]')).
+assert(celo(dedukto,'dedukt.0o','推論[tuī lùn]')).
+assert(celo(dedukto,'dedukt.0o','推理[tuī lǐ]')).
+assert(celo(dedukto,'dedukt.0o','論斷[lùn duàn]')).
+assert(celo(dedukto,'dedukt.0o','論法[lùn fǎ]')).
+assert(celo(dedukto,'dedukt.0o','义理[yì lǐ]')).
+assert(celo(dedukti,'','推演[tuī yǎn]')).
+assert(celo(defaŭlto,'','預調[yù diào]')).
+assert(celo(defaŭlto,'','預先調整[yù xiān tiáo zhěng]')).
+assert(celo(defendaĵo,'defend.0ajxo','防卫物[fáng wèi wù]')).
+assert(celo(defendi,'defend.0i','防御[fáng yù]')).
+assert(celo(defendo,'defend.0o','防御[fáng yù]')).
+assert(celo(defendo,'defend.0o','保卫[bǎo wèi]')).
+assert(celo(sendefenda,'defend.sen0a','沒有防備能力[méi yǒu fáng bèi néng lì]')).
+assert(celo(sendefenda,'defend.sen0a','赤手空拳[chì shǒu kōng quán]')).
+assert(celo(sendefenda,'defend.sen0a','手无寸铁[shǒu wú cùn tiě]')).
+assert(celo(sendefenda,'defend.sen0a','不設防[bù shè fáng]')).
+assert(celo(sindefendo,'defend.sin0o','自我防御[zì wǒ fáng yù]')).
+assert(celo(sindefendo,'defend.sin0o','自卫[zì wèi]')).
+assert(celo(defetismo,'defetism.0o','失敗主義[shī bài zhǔ yì]')).
+assert(celo(defii,'defi.0i','冒着[mào zhe]')).
+assert(celo(defii,'defi.0i','寻衅[xún xìn]')).
+assert(celo(deficito,'defici.0o','亏空[kuī kong]')).
+assert(celo(deficito,'defici.0o','亏[kuī]')).
+assert(celo(deficito,'defici.0o','逆差[nì chā]')).
+assert(celo(definitiva,'defini.0a','发育完全[fā yù wán quán]')).
+assert(celo(definitiva,'defini.0a','只此一次[zhǐ cǐ yī cì]')).
+assert(celo(definitiva,'defini.0a','决定性地[jué dìng xìng de]')).
+assert(celo(definitiva,'defini.0a','一劳永逸[yī láo yǒng yì]')).
+assert(celo(definitiva,'defini.0a','到头来[dào tóu lái]')).
+assert(celo(definitivigi,'defini.0igi','締結[dì jié]')).
+assert(celo(definitivo,'defini.0o','不可逆[bù kě nì]')).
+assert(celo(definitivo,'defini.0o','不可逆反[bù kě nì fǎn]')).
+assert(celo(defalcio,'','通貨緊縮[tōng huò jǐn suō]')).
+assert(celo(degeli,'degel.0i.FIG','瓦解[wǎ jiě]')).
+assert(celo(degeli,'degel.0i.FIG','解体[jiě tǐ]')).
+assert(celo(degeli,'degel.0i.FIG','分解[fēn jiě]')).
+assert(celo(degeneri,'degene.0i','腐朽[fǔ xiǔ]')).
+assert(celo(degelo,'','雪融化[xuě róng huà]')).
+assert(celo(degradi,'degrad.0i.rango','使降級[shǐ jiàng jí]')).
+assert(celo(degradi,'degrad.0i.rango','小視[xiǎo shì]')).
+assert(celo(dehiski,'dehisk.0i','坼[chè]')).
+assert(celo(deismo,'deism.0o','自然神論[zì rán shén lùn]')).
+assert(celo(deismo,'deism.0o','信奉[xìn fèng]')).
+assert(celo(deĵori,'dejxor.0i','值日[zhí rì]')).
+assert(celo(deĵoro,'dejxor.0o','服务[fú wù]')).
+assert(celo(deĵoro,'dejxor.0o','办公[bàn gōng]')).
+assert(celo(deke,'dek.0e','在第十[zài dì shí]')).
+assert(celo(dekono,'dek.0ono','成[chéng]')).
+assert(celo(dekono,'dek.0ono','分[fēn]')).
+assert(celo(dekono,'dek.0ono','十分之一[shí fēn zhī yī]')).
+assert(celo(dekonaĵo,'','第十[dì shí]')).
+assert(celo(dekumi,'dek.0umi','大範圍毀滅[dà fàn wéi huǐ miè]')).
+assert(celo(jardeko,'dek.jar0o','十年[shí nián]')).
+assert(celo(dekado,'dekad.0o','旬日[xún rì]')).
+assert(celo(dekadenci,'','破落[pò luò]')).
+assert(celo(dekadenci,'','上瘾[shàng yǐn]')).
+assert(celo(dekadenci,'','衰[shuāi]')).
+assert(celo(dekadenco,'dekade.0o','瓦解[wǎ jiě]')).
+assert(celo(dekadenco,'dekade.0o','替[tì]')).
+assert(celo(dekagramo,'dekagr.0o','十克[shí kè]')).
+assert(celo(dekalitro,'dekali.0o','公斗[gōng dǒu]')).
+assert(celo(dekalogo,'dekalo.0o','十誡[shí jiè]')).
+assert(celo(dekametro,'dekame.0o','公丈[gōng zhàng]')).
+assert(celo('Dekamerono','dekameron.0o','十日談[shí rì tán]')).
+assert(celo(dekano,'dekan.0o','系主任[xì zhǔ rèn]')).
+assert(celo(dekano,'dekan.0o','座堂牧师[zuò táng mù shī]')).
+assert(celo(dekano,'dekan.0o','院長[yuàn zhǎng]')).
+assert(celo(dekanti,'dekant.0i','滗去[bì qù]')).
+assert(celo(deklamaĵo,'deklam.0ajxo','雄辩法[xióng biàn fǎ]')).
+assert(celo(deklamaĵo,'deklam.0ajxo','大演說[dài yǎn shuō]')).
+assert(celo(deklari,'deklar.0i','发表[fā biǎo]')).
+assert(celo(deklari,'deklar.0i','发布[fā bù]')).
+assert(celo(deklari,'deklar.0i','宣[xuān]')).
+assert(celo(deklari,'deklar.0i','公布[gōng bù]')).
+assert(celo(deklari,'deklar.0i','声言[shēng yán]')).
+assert(celo(deklari,'deklar.0i','揭晓[jiē xiǎo]')).
+assert(celo(deklaro,'deklar.0o.KOMP','申明[shēn míng]')).
+assert(celo(deklaro,'deklar.0o.KOMUNE','声明书[shēng míng shū]')).
+assert(celo(deklaro,'deklar.0o.KOMUNE','声明[shēng míng]')).
+assert(celo(deklaro,'deklar.0o.KOMUNE','申明[shēn míng]')).
+assert(celo(amdeklaro,'deklar.am0o.KOMUNE','愛情的表白[ài qíng de biǎo bái]')).
+assert(celo(amdeklaro,'deklar.am0o.KOMUNE','愛的宣言[ài dì xuān yán]')).
+assert(celo(militdeklaro,'deklar.milit0o','宣战[xuān zhàn]')).
+assert(celo(deklaracio,'deklar1.0o','申明[shēn míng]')).
+assert(celo(dekliva,'dekliv.0a','斜过[xié guò]')).
+assert(celo(dekliva,'dekliv.0a','崴[wēi]')).
+assert(celo(dekliva,'dekliv.0a','嶡[guì]')).
+assert(celo(dekliva,'dekliv.0a','磪[cuī]')).
+assert(celo(dekliva,'dekliv.0a','坡度大[pō dù dài]')).
+assert(celo(deklivo,'dekliv.0o','坡[pō]')).
+assert(celo(deklivo,'dekliv.0o','陡坡[dǒu pō]')).
+assert(celo(deklivo,'dekliv.0o','阪[bǎn]')).
+assert(celo(deklivo,'dekliv.0o','下斜[xià xié]')).
+assert(celo(deklivo,'dekliv.0o','下坡[xià pō]')).
+assert(celo(deklivo,'dekliv.0o','陀[tuó]')).
+assert(celo(dekoltaĵo,'dekolt.0ajxo','領口[lǐng kǒu]')).
+assert(celo(dekoraĵo,'dekor.0ajxo','藏品[cáng pǐn]')).
+assert(celo(dekori,'dekor.0i','雕飾[diāo shì]')).
+assert(celo(dekori,'dekor.0i','点缀[diǎn zhuì]')).
+assert(celo(dekoraĵo,'','飾物[shì wù]')).
+assert(celo(dekoracii,'dekora.0i','雕飾[diāo shì]')).
+assert(celo(dekoracii,'dekora.0i','点缀[diǎn zhuì]')).
+assert(celo(dekoracio,'dekora.0o.TEA','装饰[zhuāng shì]')).
+assert(celo(dekoracio,'dekora.0o.TEA','奖章[jiǎng zhāng]')).
+assert(celo(dekoracio,'dekora.0o.TEA','装潢材料[zhuāng huáng cái liào]')).
+assert(celo(dekoracio,'dekora.0o.TEA','景片[jǐng piàn]')).
+assert(celo(dekreti,'dekret.0i','頒行[bān xíng]')).
+assert(celo(dekreto,'dekret.0o','法令[fǎ lìng]')).
+assert(celo(dekstrano,'dekstr.0ano','右倾保守[yòu qīng bǎo shǒu]')).
+assert(celo(dekstre,'dekstr.0e','右面[yòu miàn]')).
+assert(celo(dekstrulo,'dekstr.0ulo.MOV','右撇子[yòu piē zǐ]')).
+assert(celo(dekstrulo,'dekstr.0ulo.POL','右倾保守[yòu qīng bǎo shǒu]')).
+assert(celo(dekstruma,'dekstr.0uma.SCI','右旋[yòu xuán]')).
+assert(celo(maldekstre,'dekstr.mal0e','左手[zuǒ shǒu]')).
+assert(celo(maldekstre,'dekstr.mal0e','左面[zuǒ miàn]')).
+assert(celo(maldekstro,'dekstr.mal0o.POL','左派党[zuǒ pài dǎng]')).
+assert(celo(maldekstrulo,'dekstr.mal0ulo.MOV','左撇子[zuǒ piě zi]')).
+assert(celo(maldesktruma,'','逆时针方向扭转[nì shí zhēn fāng xiàng niǔ zhuǎn]')).
+assert(celo(maldesktruma,'','左旋[zuǒ xuán]')).
+assert(celo(dekstrino,'dekstr1.0o','糊精[hú jīng]')).
+assert(celo('Delavaro','','特拉华州[tè lā huá zhōu]')).
+assert(celo('Delavaro','','特拉华[tè lā huá]')).
+assert(celo(delegito,'deleg.0ito','丞[chéng]')).
+assert(celo(delegacio,'delega.0o','代表人的派遣[dài biǎo rén de pài qiǎn]')).
+assert(celo(delegacio,'delega.0o','代表人的地位[dài biǎo rén de dì wèi]')).
+assert(celo(delegacio,'delega.0o','代表团[dài biǎo tuán]')).
+assert(celo(delfeno,'delfen.0o.KOMUNE','齒鯨[chǐ jīng]')).
+assert(celo(delfeno,'','海豚[hǎi tún]')).
+assert(celo('Delfeno','','海豚座[hǎi tún zuò]')).
+assert(celo(riverdelfeno,'delfen.river0o.ZOO','白鱀豚[bái jì tún]')).
+assert(celo(delfinio,'delfin.0o','燕草属植物[yān cǎo shǔ zhí wù]')).
+assert(celo('Delhio','delhi.0o','德里[dé lǐ]')).
+assert(celo('Delhio','delhi.0o','德裡[dé lǐ]')).
+assert(celo(delica,'delic.0a','惬[qiè]')).
+assert(celo(delico,'delic.0o','色胆[sè dǎn]')).
+assert(celo(delico,'delic.0o','乐趣[lè qù]')).
+assert(celo(delikata,'','柔和地[róu hé de]')).
+assert(celo(delikata,'','平緩[píng huǎn]')).
+assert(celo(delikata,'','温存[wēn cún]')).
+assert(celo(maldelikata,'','粗暴[cū bào]')).
+assert(celo(maldelikata,'','粗魯[cū lǔ]')).
+assert(celo(maldelikata,'','严苛[yán kē]')).
+assert(celo(maldelikata,'','糲[lì]')).
+assert(celo(maldelikata,'','麤[cū]')).
+assert(celo(delikto,'delikt.0o','违法行为[wéi fǎ xíng wéi]')).
+assert(celo(deliro,'delir.0o','譫妄[zhān wàng]')).
+assert(celo(delto,'delt.0o','德尔塔[dé ěr tǎ]')).
+assert(celo(deltaplano,'deltaplan.0o','滑翔翼[huá xiáng yì]')).
+assert(celo(deltoido,'deltoi.0o.ANA','三角肌[sān jiǎo jī]')).
+assert(celo(demagogio,'demago1.0o','蛊惑人心的宣传[gǔ huò rén xīn de xuān chuán]')).
+assert(celo(demagogio,'demago1.0o','煽动[shān dòng]')).
+assert(celo(demanda,'demand.0a','問話[wèn huà]')).
+assert(celo(demandaro,'demand.0aro','意見反饋表[yì jian fǎn kuì biǎo]')).
+assert(celo(demandaro,'demand.0aro','問卷[wèn juàn]')).
+assert(celo(demandi,'demand.0i','詢[xún]')).
+assert(celo(demandi,'demand.0i','質疑[zhì yí]')).
+assert(celo(demandilo,'demand.0ilo.GRA','疑問詞[yí wèn cí]')).
+assert(celo(demandilo,'demand.0ilo.KOMUNE','意見反饋表[yì jian fǎn kuì biǎo]')).
+assert(celo(demandilo,'demand.0ilo.KOMUNE','問卷[wèn juàn]')).
+assert(celo(demando,'demand.0o','問訊[wèn xùn]')).
+assert(celo(demandosigno,'demand.0osigno','問號[wèn hào]')).
+assert(celo(pridemandi,'demand.pri0i','問[wèn]')).
+assert(celo(pridemandi,'demand.pri0i','訪[fǎng]')).
+assert(celo(pridemandi,'demand.pri0i','問長問短[wèn cháng wèn duǎn]')).
+assert(celo(pridemandi,'demand.pri0i','諮[zī]')).
+assert(celo(pridemandi,'demand.pri0i','請教[qǐng jiào]')).
+assert(celo(demarkacio,'demarkaci.0o','划分界线[huà fēn jiè xiàn]')).
+assert(celo(demarkacio,'demarkaci.0o','区分[qū fēn]')).
+assert(celo(demarkacio,'demarkaci.0o','划分[huà fēn]')).
+assert(celo('Demetrio','demetri.0o','德米特尔[dé mǐ tè ěr]')).
+assert(celo('Demetrio','demetri.0o','得墨忒耳[dé mò tè ěr]')).
+assert(celo('Demetrio','demetri.0o','得墨忒尔[dé mò tè ěr]')).
+assert(celo(dementi,'','辟谣[pì yáo]')).
+assert(celo(dementi,'','拒絕承認[jù jué chéng rèn]')).
+assert(celo(dementi,'','更正[gēng zhēng]')).
+assert(celo(demisii,'demisi.0i','引退[yǐn tuì]')).
+assert(celo(demografio,'','人口学[rén kǒu xué]')).
+assert(celo(demografio,'','人口統計學[rén kǒu tǒng jì xué]')).
+assert(celo(demokratiiĝo,'demokr1.0igxo','民主改革[mín zhǔ gǎi gé]')).
+assert(celo(demokratiiĝo,'demokr1.0igxo','民主化[mín zhǔ huà]')).
+assert(celo(demokratio,'demokr1.0o','民主政治[mín zhǔ zhèng zhì]')).
+assert(celo(demokratio,'demokr1.0o','民主[mín zhǔ]')).
+assert(celo(demokratio,'demokr1.0o','民主主义[mín zhǔ zhǔ yì]')).
+assert(celo('Demokrito','demokrit.0o','德謨克利特[dé mó kè lì tè]')).
+assert(celo(demokrato,'','民主主义者[mín zhǔ zhǔ yì zhě]')).
+assert(celo(demokrato,'','民主党人[mín zhǔ dǎng rén]')).
+assert(celo(demono,'demon.0o','邪灵[xié líng]')).
+assert(celo(demono,'demon.0o','极恶的人[jí è de rén]')).
+assert(celo(demono,'demon.0o','兇煞[xiōng shà]')).
+assert(celo(demono,'demon.0o','妖魔[yāo mó]')).
+assert(celo(demono,'demon.0o','鬼魅[guǐ mèi]')).
+assert(celo(demono,'demon.0o','邪神[xié shén]')).
+assert(celo(demono,'demon.0o','凶恶的化身[xiōng è de huà shēn]')).
+assert(celo(demono,'demon.0o','恶魔[è mó]')).
+assert(celo(demono,'demon.0o','妖怪[yāo guài]')).
+assert(celo(demonstri,'demons.0i.MAT','証明[zhèng míng]')).
+assert(celo(demonstro,'demons.0o.MAT','論法[lùn fǎ]')).
+assert(celo(demonstri,'demons.0i.MAT','試製[shì zhì]')).
+assert(celo(demonstri,'demons.0i.MAT','紅鯡魚[hóng fèi yú]')).
+assert(celo(demonstri,'demons.0i.MAT','證明[kāi shì]')).
+assert(celo(demonstracio,'demons1.0o.dedukto','論法[lùn fǎ]')).
+assert(celo(demonstracio,'demons1.0o.dedukto','論點[lùn diǎn]')).
+assert(celo(demonstracio,'demons1.0o.dedukto','义理[yì lǐ]')).
+assert(celo(demonstracio,'demons1.0o.manifestacio','示威遊行[shì wēi yóu xíng]')).
+assert(celo(demonstracio,'demons1.0o.manifestacio','演示会[yǎn shì huì]')).
+assert(celo(demonstracio,'demons1.0o.manifestacio','游行示威[yóu xíng shì wēi]')).
+assert(celo(demonstracio,'demons1.0o.manifestacio','示威游行[shì wēi yóu xíng]')).
+assert(celo(demonstrativo,'demons2.0o','指示代詞[zhǐ shì dài cí]')).
+assert(celo(denaro,'denar.0o','第納爾[dì nà ěr]')).
+assert(celo(dendrito,'dendrit.0o','树状细胞[shù zhuàng xì bāo]')).
+assert(celo(dendrito,'dendrit.0o','树突[shù tú]')).
+assert(celo(dendrito,'dendrit.0o','树枝状结晶体[shù zhī zhuàng jié jīng tǐ]')).
+assert(celo(dendrito,'dendrit.0o','枝状态晶[zhī zhuàng tài jīng]')).
+assert(celo(dengo,'deng.0o','登革热[dēng gé rè]')).
+assert(celo(dengo,'deng.0o','典型登革热[diǎn xíng dēng gé rè]')).
+assert(celo(dengo,'deng.0o','骨痛热症[gǔ tòng rè zhèng]')).
+assert(celo(denominatoro,'denomi.0o','分母[fēn mǔ]')).
+assert(celo(denominatoro,'denomi.0o','母而[mǔ ér]')).
+assert(celo(densaĵo,'dens.0ajxo.HOR','菐[pú]')).
+assert(celo(densaĵo,'dens.0ajxo.HOR','树丛[shù cóng]')).
+assert(celo(densaĵo,'dens.0ajxo.HOR','榛榛[zhēn zhēn]')).
+assert(celo(densejo,'dens.0ejo.HOR','菐[pú]')).
+assert(celo(densejo,'dens.0ejo.HOR','树丛[shù cóng]')).
+assert(celo(densejo,'dens.0ejo.HOR','榛榛[zhēn zhēn]')).
+assert(celo(densigi,'dens.0igi','有压缩力[yǒu yā suō lì]')).
+assert(celo(densigi,'dens.0igi','压缩[yā suō]')).
+assert(celo(maldensa,'dens.mal0a.era','松懈地[sōng xiè de]')).
+assert(celo(maldensa,'dens.mal0a.era','四海[sì hǎi]')).
+assert(celo(maldensa,'dens.mal0a.era','酥松[sū sōng]')).
+assert(celo(maldensa,'dens.mal0a.era','不紧[bù jǐn]')).
+assert(celo(probablodenso,'dens.probablo0o.MAT','密度函数[mì dù hán shù]')).
