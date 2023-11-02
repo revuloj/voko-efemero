@@ -232,14 +232,14 @@ proponoj_eo(Eo,Max) :-
     proponoj_de(SDe,Max,N,Eo,Mrk).
 
 proponoj_de(SDe,Max,N,Eo,Mrk) :-
-    Max2 is Max*5,
+    MaxS is Max*100, % isub estas rapida kaj donas plej bonajn ŝancojn serĉi mallongajn vortojn inter multaj
     forall(
         call_nth(limit(Max, % post ordigo ni limigas al kiom ni volas
             order_by([desc(Simil)], 
                     distinct(Zh,
                         (
-                            member(Mtd,[e,s,n]),
-                            limit(Max2,de_zh(Mtd,SDe,De1,Zh,Simil))
+                            member(Mtd-Mx,[e-Max,s-MaxS,n-Max]),
+                            limit(Mx,de_zh(Mtd,SDe,De1,Zh,Simil))
                         )
                         %concurrent(3,
                         %    [
@@ -355,12 +355,13 @@ kmp_ngram(T1,T2,Simil) :-
     atom_length(T1,L), L>3,
     ngrams(T1,4,NGrams),
     kmp_ngram_(NGrams,T2,Simil),
-    Simil > 0.6. %0.3 .
+    Simil > 0.4. %0.3 .
 
 kmp_ngram_(NGrams,Atom,Percentage) :-
-    proper_length(NGrams,Len), Len>0,
+    atom_length(Atom,L), L>3, Len is L-3,
+    % proper_length(NGrams,Len), Len>0,
     ngram_count(NGrams,Atom,0,Count),
-    Percentage is Count / Len * 1.0. % ni multiplikas per 1.0 por evit entjeron "1"
+    Percentage is Count / Len * 1.0. % ni multiplikas per 1.0 por eviti entjeron "1"
 
 ngram_count([],_,C,C).
 ngram_count([NGram|More],Atom,C,Count) :-
