@@ -238,8 +238,10 @@ proponoj_de(SDe,Max,N,Eo,Mrk) :-
             order_by([desc(Simil)], 
                     distinct(Zh,
                         (
-                            member(Mtd-Mx,[e-Max,s-MaxS,n-Max]),
-                            limit(Mx,de_zh(Mtd,SDe,De1,Zh,Simil))
+                            %member(Mtd-Mx,[e-Max,s-MaxS,n-Max]),
+                            %limit(Mx,de_zh(Mtd,SDe,De1,Zh,Simil))
+                            Mtd=s,
+                            limit(MaxS,de_zh(Mtd,SDe,De1,Zh,Simil))
                         )
                         %concurrent(3,
                         %    [

@@ -1297,3 +1297,350 @@ assert(celo(dirigento,'dirigent.0o','乐队指挥[yuè duì zhǐ huī]')).
 assert(celo(dirigento,'dirigent.0o','指挥者[zhǐ huī zhě]')).
 assert(celo(dirigento,'dirigent.0o','指挥家[zhǐ huī jiā]')).
 assert(celo(dirigento,'dirigent.0o','指挥[zhǐ huī]')).
+assert(celo(disa,'dis.0a.KOMUNE','拆分[chāi fēn]')).
+assert(celo(disa,'dis.0a.KOMUNE','睽[kuí]')).
+assert(celo(diseco,'dis.0eco.KOMUNE','区隔[qū gé]')).
+assert(celo(diseco,'dis.0eco.KOMUNE','四散[sì sàn]')).
+assert(celo(diseco,'dis.0eco.KOMUNE','散心[sàn xīn]')).
+assert(celo(disigi,'dis.0igi','頖[pàn]')).
+assert(celo(disigi,'dis.0igi','軼[yì]')).
+assert(celo(disigi,'dis.0igi','疏散[shū sàn]')).
+assert(celo(disigi,'dis.0igi','散出[sàn chū]')).
+assert(celo(disigi,'dis.0igi','分佈[fēn bù]')).
+assert(celo(disigi,'dis.0igi','局部[jú bù]')).
+assert(celo(disiĝi,'dis.0igxi','分手[fēn shǒu]')).
+assert(celo(disiĝi,'dis.0igxi','分別[fēn bié]')).
+assert(celo(disiĝi,'dis.0igxi','离别[lí bié]')).
+assert(celo(disiĝi,'dis.0igxi','失散[shī sàn]')).
+assert(celo(fokusdiseco,'dis.fokus0eco.MAT','离心率[lí xīn lü]')).
+assert(celo(fokusdiseco,'dis.fokus0eco.MAT','偏心率[piān xīn lü]')).
+assert(celo(nedisigebla,'dis.ne0igebla','密不可分[mì bù kě fēn]')).
+assert(celo(nedisigebla,'dis.ne0igebla','不能分[bù néng fèn]')).
+assert(celo(nedisigebla,'dis.ne0igebla','不可分[bù kě fēn]')).
+assert(celo(nedisigebla,'dis.ne0igebla','形影不离[xíng yǐng bù lí]')).
+assert(celo(disciplina,'discip.0a','遵守紀律[zūn shǒu jì lü]')).
+assert(celo(disciplina,'discip.0a','有組織[yǒu zǔ zhī]')).
+assert(celo(disciplina,'discip.0a','受过训练[shòu guò xùn liàn]')).
+assert(celo(disciplinemo,'discip.0emo','紀律[jì lü]')).
+assert(celo(disciplinemo,'discip.0emo','統屬[tǒng shǔ]')).
+assert(celo(disciplini,'discip.0i','惩[chéng]')).
+assert(celo(disciplini,'discip.0i','管教[guǎn jiào]')).
+assert(celo(disciplini,'discip.0i','馴[xún]')).
+assert(celo(disciplini,'discip.0i','惩处[chéng chù]')).
+assert(celo(disciplino,'discip.0o','紀律[jì lü]')).
+assert(celo(disciplino,'discip.0o','訓育[xùn yù]')).
+assert(celo(disciplino,'discip.0o','分类方法[fēn lèi fāng fǎ]')).
+assert(celo(disciplino,'discip.0o','紀[jì]')).
+assert(celo(disciplino,'discip.0o','自我修养[zì wǒ xiū yǎng]')).
+assert(celo(disciplino,'discip.0o','自我訓練[zì wǒ xùn liàn]')).
+assert(celo(disciplino,'discip.0o','自律[zì lü]')).
+assert(celo(memdisciplino,'discip.mem0o','自我修养[zì wǒ xiū yǎng]')).
+assert(celo(memdisciplino,'discip.mem0o','自我訓練[zì wǒ xùn liàn]')).
+assert(celo(memdisciplino,'discip.mem0o','自律[zì lü]')).
+assert(celo(disĉiplo,'discxi.0o.FIL','弟子[dì zǐ]')).
+assert(celo(disĉiplo,'discxi.0o.FIL','徒[tú]')).
+assert(celo(disdegni,'disdegn.0i','鄙視[bǐ shì]')).
+assert(celo(disdegni,'disdegn.0i','蔑視[miè shì]')).
+assert(celo(disdegni,'disdegn.0i','漠視[mò shì]')).
+assert(celo(disdegno,'disdegn.0o','看不起[kàn bu qǐ]')).
+assert(celo(disdegno,'disdegn.0o','渺視[miǎo shì]')).
+assert(celo(disdegno,'disdegn.0o','輕視[qīng shì]')).
+assert(celo(disenterio,'disent.0o','痢[lì]')).
+assert(celo(disenterio,'disent.0o','疶[xiè]')).
+assert(celo(disertaĵo,'disert.0ajxo','博士論文[bó shì lùn wén]')).
+assert(celo(disertacio,'disert1.0o','博士論文[bó shì lùn wén]')).
+assert(celo(disforio,'disfori.0o','烦躁不安[fán zào bù ān]')).
+assert(celo(disidento,'disident.0o','异己分子[yì jǐ fēn zǐ]')).
+assert(celo(disidento,'disident.0o','持不同政見者[chí bù tóng zhèng jiàn zhě]')).
+assert(celo(disidento,'disident.0o','抗議者[kàng yì zhě]')).
+assert(celo(disipi,'disip.0i','滥施[làn shī]')).
+assert(celo(disipi,'disip.0i','糟踏[zāo tà]')).
+assert(celo(disipi,'disip.0i','靡[mí]')).
+assert(celo(disipi,'disip.0i','空耗[kōng hào]')).
+assert(celo(disipi,'disip.0i','嘥[sāi]')).
+assert(celo(disjunkcio,'disjun.0o.logika','反意[fǎn yì]')).
+assert(celo(disjunkcio,'disjun.0o.logika','逻辑或[luó jí huò]')).
+assert(celo(diskaparato,'','軟驅[ruǎn qū]')).
+assert(celo(diskaparato,'','軟盤驅動器[ruǎn pán qū dòng qì]')).
+assert(celo(diskaparato,'','磁盘驱动器[cí pán qū dòng qì]')).
+assert(celo(disketo,'disk.0eto','軟磁盤[ruǎn cí pán]')).
+assert(celo(disketo,'disk.0eto','軟盤[ruǎn pán]')).
+assert(celo(diskaparato,'','硬磁盘[yìng cí pán]')).
+assert(celo(diskaparato,'','硬盘驱动器[yìng pán qū dòng qì]')).
+assert(celo(diskingo,'disk.0ingo.KOMP','軟驅[ruǎn qū]')).
+assert(celo(diskingo,'disk.0ingo.KOMP','軟盤驅動器[ruǎn pán qū dòng qì]')).
+assert(celo(diskingo,'disk.0ingo.KOMP','磁盘驱动器[cí pán qū dòng qì]')).
+assert(celo(diskingo,'disk.0ingo.KOMP','硬磁盘[yìng cí pán]')).
+assert(celo(diskingo,'disk.0ingo.KOMP','硬盘驱动器[yìng pán qū dòng qì]')).
+assert(celo(diskingo,'disk.0ingo.KOMP','光盘驱动器[guāng pán qū dòng qì]')).
+assert(celo(disko,'disk.0o','碟片[dié piàn]')).
+assert(celo(disko,'disk.0o','圆盘[yuán pán]')).
+assert(celo(disko,'disk.0o','感化餅乾[gǎn huà bǐng gān]')).
+assert(celo('fiksita disko','disk.fiksita_0o','硬盘[yìng pán]')).
+assert(celo('fiksita disko','disk.fiksita_0o','硬碟[yìng dié]')).
+assert(celo(flugdiso,'','鐵餅[tiě bǐng]')).
+assert(celo(lumdiskego,'disk.lum0ego','压缩比低[yā suō bǐ dī]')).
+assert(celo(lumdiskego,'disk.lum0ego','可以放多个音轨[kě yǐ fàng duō gè yīn guǐ]')).
+assert(celo(lumdiskego,'disk.lum0ego','东芝等倡导[dōng zhī děng chàng dǎo]')).
+assert(celo(lumdiskego,'disk.lum0ego','东芝所倡导[dōng zhī suǒ chàng dǎo]')).
+assert(celo(lumdiskego,'disk.lum0ego','是由先鋒[shì yóu xiān fēng]')).
+assert(celo(lumdiskego,'disk.lum0ego','理論上來說[lǐ lùn shàng lái shuō]')).
+assert(celo(lumdiskego,'disk.lum0ego','分辨率高[fēn biàn shuài gāo]')).
+assert(celo('magneta disko','disk.magneta0o','磁盘格式[cí pán gé shì]')).
+assert(celo('magneta disko','disk.magneta0o','磁盘存储器[cí pán cún chǔ qì]')).
+assert(celo('magneta disko','disk.magneta0o','磁片[cí piàn]')).
+assert(celo('magneta disko','disk.magneta0o','磁盘[cí pán]')).
+assert(celo(sferdisko,'disk.sfer0o','球台[qiú tái]')).
+assert(celo(diskanto,'diskant.0o','女高音[nǚ gāo yīn]')).
+assert(celo(diskedo,'disked.0o','軟磁盤[ruǎn cí pán]')).
+assert(celo(diskedo,'disked.0o','軟盤[ruǎn pán]')).
+assert(celo(diskedo,'disked.0o','数据软盘[shù jù ruǎn pán]')).
+assert(celo(diskonto,'','計算現值[jì suàn xiàn zhí]')).
+assert(celo(diskonto,'','折现[shé xiàn]')).
+assert(celo(diskonto,'','票据贴现人[piào jù tiē xiàn rén]')).
+assert(celo(diskonto,'','貼現[tiē xiàn]')).
+retractall(celo(diskonto,_,_),4).
+assert(celo(diskonto,'diskon.0o.EKON_elcento','票据贴现人[piào jù tiē xiàn rén]')).
+assert(celo(diskonto,'diskon.0o.EKON_elcento','貼現[tiē xiàn]')).
+assert(celo(diskonto,'diskon.0o.EKON_spezo','計算現值[jì suàn xiàn zhí]')).
+assert(celo(diskonto,'diskon.0o.EKON_spezo','折现[shé xiàn]')).
+assert(celo(diskoteko,'diskotek.0o.MUZ','迪斯科舞厅[dí sī kē wǔ tīng]')).
+assert(celo(diskoteko,'diskotek.0o.MUZ','迪斯科[dí sī kē]')).
+assert(celo(diskoteko,'diskotek.0o.MUZ','迪斯科吧[dí sī kē bā]')).
+assert(celo(diskoteko,'diskotek.0o.MUZ','唱片收藏室[chàng piàn shōu cáng shì]')).
+assert(celo(diskreta,'diskre.0a.modesta','合乎礼貌[hé hū lǐ mào]')).
+assert(celo(diskreta,'diskre.0a.modesta','像样[xiàng yàng]')).
+assert(celo(diskreta,'diskre.0a.konfidebla','信得过[xìn de guò]')).
+assert(celo(diskreta,'diskre.0a.delikata','低調[dī diào]')).
+assert(celo(diskreta,'diskre.0a.delikata','个别[gè bié]')).
+assert(celo(diskreta,'diskre.0a.delikata','鞠躬[jū gōng]')).
+assert(celo(diskreta,'diskre.0a.MAT','分立[fèn lì]')).
+assert(celo(maldiskreta,'diskre.mal0a.sentakta','獗[jué]')).
+assert(celo(maldiskreta,'diskre.mal0a.sentakta','儱[lǒng]')).
+assert(celo(maldiskreta,'diskre.mal0a.babilema','輕率地[qīng lü de]')).
+assert(celo(maldiskreta,'diskre.mal0a.babilema','不謹慎[bù jǐn shèn]')).
+assert(celo(maldiskreta,'diskre.mal0a.babilema','魯莽[lǔ mǎng]')).
+assert(celo(diskriminacii,'diskrim.0i','有辨識力[yǒu biàn shí lì]')).
+assert(celo(diskriminacii,'diskrim.0i','有偏差[yǒu piān chā]')).
+assert(celo(diskriminacii,'diskrim.0i','有差別[yǒu chā bié]')).
+assert(celo(diskriminacii,'diskrim.0i','受歧視[shòu qí shì]')).
+assert(celo(diskriminacii,'diskrim.0i','受到亏待[shòu dào kuī dài]')).
+assert(celo(diskriminacio,'diskrim.0o','不公平[bù gōng píng]')).
+assert(celo(diskriminacio,'diskrim.0o','不公正[bù gōng zhèng]')).
+assert(celo(diskriminacio,'diskrim.0o','歧視[qí shì]')).
+assert(celo(diskrimino,'diskrimin.0o','歧視[qí shì]')).
+assert(celo(diskrimini,'diskrimin.0i','有辨識力[yǒu biàn shí lì]')).
+assert(celo(diskrimini,'diskrimin.0i','有偏差[yǒu piān chā]')).
+assert(celo(diskrimini,'diskrimin.0i','有差別[yǒu chā bié]')).
+assert(celo(diskurso,'diskur.0o','語篇[yǔ piān]')).
+assert(celo(diskurso,'diskur.0o','語段[yǔ duàn]')).
+assert(celo(diskurso,'diskur.0o','話語[huà yǔ]')).
+assert(celo(diskurso,'diskur.0o','談論[tán lùn]')).
+assert(celo(diskutebla,'diskut.0ebla','可討論[kě tǎo lún]')).
+assert(celo(diskutebla,'','儗[nǐ]')).
+assert(celo(diskutebla,'','有問題[yǒu wèn tí]')).
+assert(celo(diskuti,'diskut.0i','辩[biàn]')).
+assert(celo(diskuti,'diskut.0i','談論[tán lùn]')).
+assert(celo(diskuti,'diskut.0i','阋[xì]')).
+assert(celo(diskuti,'diskut.0i','辨难[biàn nàn]')).
+assert(celo(diskuti,'diskut.0i','議[yì]')).
+assert(celo(diskuti,'diskut.0i','探討[tàn tǎo]')).
+assert(celo(diskutinda,'diskut.0inda','値得懷疑[zhí de huái yí]')).
+assert(celo(diskuto,'diskut.0o','說道[shuō dào]')).
+assert(celo(diskuto,'diskut.0o','議論[yì lùn]')).
+assert(celo(diskuto,'diskut.0o','商討[shāng tǎo]')).
+assert(celo(diskuto,'diskut.0o','会谈[huì tán]')).
+assert(celo(diskuto,'diskut.0o','談論[tán lùn]')).
+assert(celo(diskuto,'diskut.0o','討論[tǎo lùn]')).
+assert(celo(pridiskuti,'diskut.pri0i','談論[tán lùn]')).
+assert(celo(pridiskuti,'diskut.pri0i','評[píng]')).
+assert(celo(pridiskuti,'diskut.pri0i','談談[tán tán]')).
+assert(celo(pridiskuti,'diskut.pri0i','談到[tán dào]')).
+assert(celo(pridiskuti,'diskut.pri0i','辩[biàn]')).
+assert(celo(pridiskuti,'diskut.pri0i','商議[shāng yì]')).
+assert(celo(pridiskuti,'diskut.pri0i','商榷[shāng què]')).
+assert(celo(disleksia,'disleksi.0a','誦讀困難[sòng dú kùn nan]')).
+assert(celo(disleksio,'disleksi.0o','閱讀障礙[yuè dú zhàng ài]')).
+assert(celo(disleksio,'disleksi.0o','难语症[nàn yǔ zhèng]')).
+assert(celo(dismo,'dism.0o','第十[dì shí]')).
+assert(celo(dismo,'dism.0o','第十名[dì shí míng]')).
+assert(celo(dispepsio,'dispep.0o','胃弱[wèi ruò]')).
+assert(celo(dispepsio,'dispep.0o','消化机能障碍[xiāo huà jī néng zhàng ài]')).
+assert(celo(dispersaĵo,'disper.0ajxo','色散作用[sè sǎn zuò yòng]')).
+assert(celo(dispersaĵo,'disper.0ajxo','弥散[mí sǎn]')).
+assert(celo(dispersaĵo,'disper.0ajxo','消散[xiāo sàn]')).
+assert(celo(dispersi,'disper.0i','散出[sàn chū]')).
+assert(celo(dispersi,'disper.0i','分佈[fēn bù]')).
+assert(celo(disperso,'disper.0o','色散作用[sè sǎn zuò yòng]')).
+assert(celo(disperso,'disper.0o','弥散[mí sǎn]')).
+assert(celo(disperso,'disper.0o','消散[xiāo sàn]')).
+assert(celo(disperso,'disper.0o','散射[sǎn shè]')).
+assert(celo(disponaĵo,'dispon.0ajxo','发行债券条件[fā xíng zhài quàn tiáo jiàn]')).
+assert(celo(disponaĵo,'dispon.0ajxo','体势[tǐ shì]')).
+assert(celo(disponaĵo,'dispon.0ajxo','警報[jǐng bào]')).
+assert(celo(disponaĵo,'dispon.0ajxo','設備[shè bei]')).
+assert(celo(disponaĵo,'dispon.0ajxo','設施[shè shī]')).
+assert(celo(disponaĵo,'dispon.0ajxo','保护者[bǎo hù zhě]')).
+assert(celo(disponebla,'dispon.0ebla','可处理[kě chǔ lǐ]')).
+assert(celo(disponebla,'dispon.0ebla','可自由使用[kě zì yóu shǐ yòng]')).
+assert(celo(disponebla,'dispon.0ebla','可支配[kě zhī pèi]')).
+assert(celo(disponebleco,'dispon.0ebleco','可用率[kě yòng shuài]')).
+assert(celo(disponigi,'dispon.0igi','配用[pèi yòng]')).
+assert(celo(dispozicio,'dispozici.0o','性情[xìng qíng]')).
+assert(celo(dispozicio,'dispozici.0o','心性[xīn xìng]')).
+assert(celo(dispozicio,'dispozici.0o','天性[tiān xìng]')).
+assert(celo(disprozio,'disprozi.0o','鏑[dī]')).
+assert(celo(disputi,'disput.0i','阋[xì]')).
+assert(celo(disputi,'disput.0i','訟[sòng]')).
+assert(celo(disputi,'disput.0i','争论[zhēng lùn]')).
+assert(celo(disputi,'disput.0i','辨难[biàn nàn]')).
+assert(celo(disputo,'disput.0o','争执[zhēng zhí]')).
+assert(celo(pridisputi,'disput.pri0i','商議[shāng yì]')).
+assert(celo(pridisputi,'disput.pri0i','商量[shāng liáng]')).
+assert(celo(dista,'dist.0a','藄[qí]')).
+assert(celo(dista,'dist.0a','远距[yuǎn jù]')).
+assert(celo(distanca,'distan.0a','倞[liàng]')).
+assert(celo(distanca,'distan.0a','移开[yí kāi]')).
+assert(celo(distanca,'distan.0a','緬[miǎn]')).
+assert(celo(distanca,'distan.0a','辽[liáo]')).
+assert(celo(distanco,'distan.0o.SPA','可到达的范围[kě dào dá de fàn wéi]')).
+assert(celo(distanco,'distan.0o.SPA','作用半径[zuò yòng bàn jìng]')).
+assert(celo(distanco,'distan.0o.SPA','有效距离[yǒu xiào jù lí]')).
+assert(celo(distanco,'distan.0o.SPA','蔇[jì]')).
+assert(celo(distanco,'distan.0o.SPA','距离[jù lí]')).
+assert(celo(distanco,'distan.0o.MAT','間距[jiān jù]')).
+assert(celo(distanco,'distan.0o.FIG','差异[chā yì]')).
+assert(celo(distanco,'distan.0o.FIG','差分[chā fēn]')).
+assert(celo(distanco,'distan.0o.FIG','差距[chā jù]')).
+assert(celo(distanco,'distan.0o.FIG','区别[qū bié]')).
+assert(celo(fokusdistanco,'','焦距[jiāo jù]')).
+assert(celo(distanciĝi,'distan.sin0igi.FIG','背离[bèi lí]')).
+assert(celo(distanciĝi,'distan.sin0igi.FIG','远去[yuǎn qù]')).
+assert(celo(distanciĝi,'distan.sin0igi','远去[yuǎn qù]')).
+assert(celo(tempdistanco,'','时差[shí chā]')).
+assert(celo(viddistanco,'distan.vid0o','可見度[kě jiàn dù]')).
+assert(celo(distilado,'distil.0ado','蒸餾[zhēng liù]')).
+assert(celo(distilejo,'distil.0ejo','酿酒厂[niàng jiǔ chǎng]')).
+assert(celo(distili,'distil.0i','餾[liú]')).
+assert(celo(distili,'distil.0i','酾[shī]')).
+assert(celo(distililo,'distil.0ilo','蒸餾裝置[zhēng liù zhuāng zhì]')).
+assert(celo(distingebla,'distin.0ebla.KOMUNE','可区别[kě qū bié]')).
+assert(celo(distingi,'distin.0i.percepti','識別[shí bié]')).
+assert(celo(distingi,'distin.0i.percepti','辨[biàn]')).
+assert(celo(distingi,'distin.0i.percepti','辨認[biàn rèn]')).
+assert(celo(distingi,'distin.0i.apartigi','不同寻常[bù tóng xún cháng]')).
+assert(celo(distingi,'distin.0i.apartigi','有区别[yǒu qū bié]')).
+assert(celo(distingi,'distin.0i.apartigi','辨[biàn]')).
+assert(celo(distingi,'distin.0i.apartigi','辩别[biàn bié]')).
+assert(celo(distingiga,'distin.0iga','特制五鞭酒[tè zhì wǔ biān jiǔ]')).
+assert(celo(distingiga,'distin.0iga','持种[chí zhǒng]')).
+assert(celo(distingigi,'distin.0igi','加标志[jiā biāo zhì]')).
+assert(celo(distingiĝi,'distin.0igxi','有一个特点[yǒu yī gè tè diǎn]')).
+assert(celo(distingiĝi,'distin.0igxi','不同于[bù tóng yú]')).
+assert(celo(distingilo,'distin.0ilo','标识物[biāo zhì wù]')).
+assert(celo(distingilo,'distin.0ilo','特征[tè zhēng]')).
+assert(celo(distingilo,'distin.0ilo','属性[shǔ xìng]')).
+assert(celo(distingilo,'distin.0ilo','特質[tè zhì]')).
+assert(celo(distingilo,'distin.0ilo','榮譽記號[róng yú jì hao]')).
+assert(celo(distingilo,'distin.0ilo','奖状[jiǎng zhuàng]')).
+assert(celo(distingilo,'distin.0ilo','勋章[xūn zhāng]')).
+assert(celo(distingo,'distin.0o.ago','差別[chā bié]')).
+assert(celo(distingo,'distin.0o.ago','异[yì]')).
+assert(celo(nedistingebla,'distin.ne0ebla','褪了色[tùn le sè]')).
+assert(celo(distordo,'distor.0o.ELE','失真[shī zhēn]')).
+assert(celo(distraĵo,'distr.0ajxo','緩和[huǎn hé]')).
+assert(celo(distri,'distr.0i.disigi','走散[zǒu sàn]')).
+assert(celo(distri,'distr.0i.disigi','辟[pì]')).
+assert(celo(distriĝema,'distr.0igxema','散佈地[sàn bù de]')).
+assert(celo(distriĝema,'distr.0igxema','不周到[bù zhōu dào]')).
+assert(celo(distriĝi,'distr.0igxi','排遣[pái qiǎn]')).
+assert(celo(distro,'distr.0o','娛樂[yú lè]')).
+assert(celo(distribui,'distri.0i','散出[sàn chū]')).
+assert(celo(distribui,'distri.0i','播发[bò fā]')).
+assert(celo(distribui,'distri.0i','經銷[jīng xiāo]')).
+assert(celo(probablodistribuo,'distri.probablo0o','机率分配[jī lü fēn pèi]')).
+assert(celo(probablodistribuo,'distri.probablo0o','机率分布[jī lü fēn bù]')).
+assert(celo(probablodistribuo,'distri.probablo0o','概率分佈[gài lü fēn bù]')).
+assert(celo(distrikto,'distri1.0o','禺[yú]')).
+assert(celo(distrikto,'distri1.0o','街区[jiē qū]')).
+assert(celo(distrikto,'distri1.0o','区城[qū chéng]')).
+assert(celo(distrikto,'distri1.0o','行政区[xíng zhèng qū]')).
+assert(celo(distrikto,'distri1.0o','区号[qū hào]')).
+assert(celo(disturbi,'disturb.0i','碍脚[ài jiǎo]')).
+assert(celo(disturbi,'disturb.0i','捣[dǎo]')).
+assert(celo(disturbi,'disturb.0i','騷擾[sāo rǎo]')).
+assert(celo(disturbi,'disturb.0i','打扰[dǎ rǎo]')).
+assert(celo(disturbi,'disturb.0i','干扰[gān rǎo]')).
+assert(celo(disturbi,'disturb.0i','扰[rǎo]')).
+assert(celo(disturbi,'disturb.0i','娆[rǎo]')).
+assert(celo(diveni,'diven.0i','猜对[cāi duì]')).
+assert(celo(divenisto,'','先見者[xiān jiàn zhě]')).
+assert(celo(divenisto,'','算命先生[suàn mìng xiān sheng]')).
+assert(celo(divenisto,'','預言家[yù yán jiā]')).
+assert(celo(diverĝa,'','歧出[qí chū]')).
+assert(celo(diverĝa,'','歧[qí]')).
+assert(celo(diverĝo,'diverg.0o','偏离[piān lí]')).
+assert(celo(diverĝo,'diverg.0o','发散量[fā sàn liàng]')).
+assert(celo(diverĝo,'diverg.0o','散度[sàn dù]')).
+assert(celo(diverĝo,'diverg.0o','发散性[fā sàn xìng]')).
+assert(celo(diverĝo,'diverg.0o','发散[fā sàn]')).
+assert(celo(diverĝenco,'diverg1.0o','偏离[piān lí]')).
+assert(celo(diverĝenco,'diverg1.0o','发散量[fā sàn liàng]')).
+assert(celo(diverĝenco,'diverg1.0o','散度[sàn dù]')).
+assert(celo(diverĝenco,'diverg1.0o','发散性[fā sàn xìng]')).
+assert(celo(diverĝenco,'diverg1.0o','发散[fā sàn]')).
+assert(celo(diversa,'divers.0a.kelkaj','諸般[zhū bān]')).
+assert(celo(diversa,'divers.0a.kelkaj','好些[hǎo xiē]')).
+assert(celo(diversa,'divers.0a.kelkaj','好几种[hǎo jǐ zhǒng]')).
+assert(celo(diversa,'divers.0a.kelkaj','各色各样[gě sè gě yàng]')).
+assert(celo(diverseco,'divers.0eco','异质性[yì zhì xìng]')).
+assert(celo(diverseco,'','多样性[duō yàng xìng]')).
+assert(celo(diverseco,'','流形[liú xíng]')).
+assert(celo(diverseco,'','多样[duō yàng]')).
+assert(celo(diversi,'divers.0i','有別於[yǒu bié yú]')).
+assert(celo(diversi,'divers.0i','相差[xiāng chà]')).
+assert(celo(maldiversa,'divers.mal0a','连声[lián shēng]')).
+assert(celo(maldiversa,'divers.mal0a','归一[guī yī]')).
+assert(celo(maldiversa,'divers.mal0a','划一[huà yī]')).
+assert(celo(diversii,'diversi.0i','使轉向[shǐ zhuǎn xiàng]')).
+assert(celo(diversii,'diversi.0i','引[yǐn]')).
+assert(celo(diversio,'diversi.0o.MIL','障眼法[zhàng yǎn fǎ]')).
+assert(celo(diversio,'diversi.0o.MIL','声东击西[shēng dōng jī xī]')).
+assert(celo(diversio,'diversi.0o.MIL','佯攻[yáng gōng]')).
+assert(celo(dividaĵo,'divid.0ajxo','部份[bù fen]')).
+assert(celo(dividaĵo,'divid.0ajxo','股[gǔ]')).
+assert(celo(dividanto,'divid.0anto','除数[chú shù]')).
+assert(celo(dividebla,'divid.0ebla','整除[zhěng chú]')).
+assert(celo(dividi,'divid.0i.MAT','除[chú]')).
+assert(celo(dividi,'divid.0i.MAT','相除[xiāng chú]')).
+assert(celo(dividi,'divid.0i.MAT','除以[chú yǐ]')).
+assert(celo(dividi,'divid.0i.disdoni','制造分裂[zhì zào fēn liè]')).
+assert(celo(dividi,'divid.0i.disdoni','除刻度[chú kè dù]')).
+assert(celo(dividi,'divid.0i.disdoni','被除[bèi chú]')).
+assert(celo(dividi,'divid.0i.disdoni','周延[zhōu yán]')).
+assert(celo(dividi,'divid.0i.partigi','制造分裂[zhì zào fēn liè]')).
+assert(celo(dividi,'divid.0i.partigi','除刻度[chú kè dù]')).
+assert(celo(dividi,'divid.0i.partigi','被除[bèi chú]')).
+assert(celo(dividi,'divid.0i.partigi','俵分[biǎo fēn]')).
+assert(celo(divido,'divid.0o.MAT','除法[chú fǎ]')).
+assert(celo(divido,'divid.0o.MAT','相除[xiāng chú]')).
+assert(celo(dividendo,'divide.0o','股利[gǔ lì]')).
+assert(celo(dividendo,'divide.0o','股息紅利[gǔ xí hóng lì]')).
+assert(celo(dividendo,'divide.0o','股息[gǔ xí]')).
+assert(celo(dividendo,'divide.0o','紅利[hóng lì]')).
+assert(celo(dividendo,'divide.0o','分紅[fēn hóng]')).
+assert(celo(divizio,'divizi.0o.BOT','車間[chē jiān]')).
+assert(celo(divizio,'divizi.0o.BOT','处[chù]')).
+assert(celo(divizio,'divizi.0o.BOT','部門[bù mén]')).
+assert(celo(divizoro,'divizo.0o','除数[chú shù]')).
+assert(celo(nuldivizoro,'divizo.nul0o','零因子[líng yīn zǐ]')).
+assert(celo('plej granda komuna divizoro','divizo.plej_granda_komuna_0o','最大公約數[zuì dà gōng yuē shù]')).
+assert(celo('plej granda komuna divizoro','divizo.plej_granda_komuna_0o','最大公因数[zuì dà gōng yīn shǔ]')).
+assert(celo(dizajnisto,'dizajn.0isto','設計制作[shè jì zhì zuò]')).
+assert(celo(dizajnisto,'dizajn.0isto','制图员[zhì tú yuán]')).
+assert(celo(dizajnisto,'dizajn.0isto','設計人員[shè jì rén yuán]')).
+assert(celo(dizajno,'dizajn.0o','設計制作[shè jì zhì zuò]')).
+assert(celo(dizajno,'dizajn.0o','图案[tú àn]')).
+assert(celo(dizajno,'dizajn.0o','图样[tú yàng]')).
+assert(celo(dizajno,'dizajn.0o','图案设计[tú àn shè jì]')).
+assert(celo(dizajno,'dizajn.0o','款式[kuǎn shì]')).
