@@ -1644,3 +1644,598 @@ assert(celo(dizajno,'dizajn.0o','图案[tú àn]')).
 assert(celo(dizajno,'dizajn.0o','图样[tú yàng]')).
 assert(celo(dizajno,'dizajn.0o','图案设计[tú àn shè jì]')).
 assert(celo(dizajno,'dizajn.0o','款式[kuǎn shì]')).
+assert(celo(dizelo,'dizel.0o.brulajxo','柴油发动机[chái yóu fā dòng jī]')).
+assert(celo(dizerti,'dizert.0i','叛逃[pàn táo]')).
+assert(celo(dizerti,'dizert.0i','叛离[pàn lí]')).
+assert(celo(dizertinto,'dizert.0into','逃兵[táo bīng]')).
+assert(celo(dizerto,'dizert.0o','逃兵[táo bīng]')).
+assert(celo('Dnepro','dnepr.0o','第聂伯河[dì niè bó hé]')).
+assert(celo(do,'do.0.konsekvence','然则[rán zé]')).
+assert(celo(do,'do.0.konsekvence','爰[yuán]')).
+assert(celo(do,'do.0.konsekvence','乃尔[nǎi ěr]')).
+assert(celo(do,'do.0.konsekvence','于是[yú shì]')).
+assert(celo(do,'do.0.konsekvence','遂致[suì zhì]')).
+assert(celo(docento,'docent.0o','大学讲师[dà xué jiǎng shī]')).
+assert(celo(docento,'docent.0o','私人教师[sī rén jiào shī]')).
+assert(celo(docento,'docent.0o','編外講師[biān wài jiǎng shī]')).
+assert(celo(privatdocento,'docent.privat0olibera0o','家庭教师[jiā tíng jiào shī]')).
+assert(celo('Dodomao','dodom.0o.cxefurbo','多多馬[duō duō mǎ]')).
+assert(celo(dogo,'dog.0o','獒[áo]')).
+assert(celo(dogo,'dog.0o','牛头犬[niú tóu quǎn]')).
+assert(celo(dogo,'dog.0o','斗牛狗[dòu niú gǒu]')).
+assert(celo(doganejo,'dogan.0ejo','海关官员[hǎi guān guān yuán]')).
+assert(celo(dogano,'dogan.0o.administracio','驗關[yàn guān]')).
+assert(celo(dogma,'dogm.0a','武断[wǔ duàn]')).
+assert(celo(dogma,'dogm.0a','固執已見[gù zhí yǐ jiàn]')).
+assert(celo(dogma,'dogm.0a','教条[jiào tiáo]')).
+assert(celo(dogma,'dogm.0a','不宽容[bù kuān róng]')).
+assert(celo(dogmaro,'dogm.0aro.REL','教义学[jiào yì xué]')).
+assert(celo(dogmemo,'dogm.0emo','教条主义[jiào tiáo zhǔ yì]')).
+assert(celo(dogmismo,'dogm.0ismo','教条主义[jiào tiáo zhǔ yì]')).
+assert(celo(dogmo,'dogm.0o.REL','教义[jiào yì]')).
+assert(celo(dogmo,'dogm.0o.REL','准则[zhǔn zé]')).
+assert(celo('Doho','doh.0o','多哈[duō hā]')).
+assert(celo(dojeno,'dojen.0o.KOMUNE','老大[lǎo dà]')).
+assert(celo(dojeno,'dojen.0o.KOMUNE','市議員[shì yì yuán]')).
+assert(celo(dokisto,'dok.0isto','船坞工人[chuán wù gōng rén]')).
+assert(celo(doko,'dok.0o','乾塢[gān wù]')).
+assert(celo(dokta,'dokt.0a','研究性质[yán jiū xìng zhì]')).
+assert(celo(dokta,'dokt.0a','需要动脑[xū yào dòng nǎo]')).
+assert(celo(doktoro,'doktor.0o','博士[bó shì]')).
+assert(celo(doktrino,'doktri.0o','主义[zhǔ yì]')).
+assert(celo(doktrino,'doktri.0o','义理[yì lǐ]')).
+assert(celo('dokumenta kredito','dokume.0akredito','付款凭单[fù kuǎn píng dān]')).
+assert(celo('dokumenta kredito','dokume.0akredito','信用證[xìn yòng zhèng]')).
+assert(celo('dokumenta kredito','dokume.0akredito','信用征[xìn yòng zhēng]')).
+assert(celo(dokumentaro,'dokume.0aro','文件彙編[wén jiàn huì biān]')).
+assert(celo(dokumentaro,'dokume.0aro','用作證據的文件[yòng zuò zhèng jù de wén jiàn]')).
+assert(celo(dokumentaro,'dokume.0aro','文件整理[wén jiàn zhěng lǐ]')).
+assert(celo(dokumentaro,'dokume.0aro','記錄片[jì lù piàn]')).
+assert(celo(dokumentaro,'dokume.0aro','文献资料[wén xiàn zī liào]')).
+assert(celo(dokumentaro,'dokume.0aro','證書[zhèng shū]')).
+assert(celo(dokumenti,'','文献[wén xiàn]')).
+assert(celo(dokumento,'dokume.0o','資料[zī liào]')).
+assert(celo(dokumento,'dokume.0o','特許證[tè xǔ zhèng]')).
+assert(celo(dokumento,'dokume.0o','契据[qì jù]')).
+assert(celo(dokumento,'','卷宗[juàn zōng]')).
+assert(celo(dokumentujo,'','卷宗[juàn zōng]')).
+assert(celo(dokumentario,'dokumentari.0o','紀錄片[jì lù piàn]')).
+assert(celo(dolaro,'dolar.0o','雄鹿[xióng lù]')).
+assert(celo(dolaro,'dolar.0o','麚[jiā]')).
+assert(celo(dolĉa,'dolcx.0a','甜美[tián měi]')).
+assert(celo(dolĉaĵejo,'dolcx.0ajxejo.vendejo','糕点店[gāo diǎn diàn]')).
+assert(celo(dolĉaĵo,'dolcx.0ajxo.KUI','可口[kě kǒu]')).
+assert(celo(dolĉaĵo,'dolcx.0ajxo.KUI','糖果[táng guǒ]')).
+assert(celo(dolĉaĵo,'dolcx.0ajxo.KUI','甜食[tián shí]')).
+assert(celo(dolĉaĵo,'dolcx.0ajxo.KUI','喜糖[xǐ táng]')).
+assert(celo(dolĉigi,'dolcx.0igi.FIG','加甜[jiā tián]')).
+assert(celo(maldolĉa,'dolcx.mal0a','悲痛地[bēi tòng de]')).
+assert(celo(maldolĉa,'dolcx.mal0a','辛酸[xīn suān]')).
+assert(celo(maldolĉa,'dolcx.mal0a','辛辣[xīn là]')).
+assert(celo(maldolĉa,'dolcx.mal0a','辛[xīn]')).
+assert(celo(dolĉamaro,'dolcxa.0o','茄属[qié shǔ]')).
+retractall(celo(dolĉamaro,_,_),1).
+assert(celo(dolino,'dolin.0o','渗穴[shèn xué]')).
+assert(celo(dolora,'dolor.0a','痛疼[tòng téng]')).
+assert(celo(dolori,'dolor.0i','疼[téng]')).
+assert(celo(dolori,'dolor.0i','叭嗒[ba tà]')).
+assert(celo(dolori,'dolor.0i','使痛苦[shǐ tòng kǔ]')).
+assert(celo(dolori,'dolor.0i','痠[suān]')).
+assert(celo(doloriga,'dolor.0iga','痛疼[tòng téng]')).
+assert(celo(dolorigi,'dolor.0igi','伤害性[shāng hài xìng]')).
+assert(celo(dolorigi,'dolor.0igi','触犯[chù fàn]')).
+assert(celo(dolorigi,'dolor.0igi','打伤[dǎ shāng]')).
+assert(celo(dolorigi,'dolor.0igi','祐[yòu]')).
+assert(celo(dolorigi,'dolor.0igi','损伤[sǔn shāng]')).
+assert(celo(dolorigi,'dolor.0igi','违背[wéi bèi]')).
+assert(celo(doloro,'dolor.0o','酸痛[suān tòng]')).
+assert(celo(doloro,'dolor.0o','疼痛[téng tòng]')).
+assert(celo(artikdoloro,'dolor.artik0o','关节痛[guān jié tòng]')).
+assert(celo(dentodoloro,'dolor.dento0o','牙疼[yá téng]')).
+assert(celo(dentodoloro,'dolor.dento0o','牙痛[yá tòng]')).
+assert(celo('epigastra doloro','dolor.epigastra_0o','肚子疼[dù zi téng]')).
+assert(celo(kapdoloro,'dolor.kap0o','头病[tóu bìng]')).
+assert(celo(kapdoloro,'dolor.kap0o','头痛[tóu tòng]')).
+assert(celo(kapdoloro,'dolor.kap0o','头疼[tóu téng]')).
+assert(celo(kontraŭdolorilo,'dolor.kontraux0ilo','鎮痛藥[zhèn tòng yào]')).
+assert(celo(kontraŭdolorilo,'dolor.kontraux0ilo','止痛药[zhǐ tòng yào]')).
+assert(celo(kontraŭdolorilo,'dolor.kontraux0ilo','止痛剂[zhǐ tòng jì]')).
+assert(celo(mamdoloro,'dolor.mam0o','胸痛[xiōng tòng]')).
+assert(celo(oreldoloro,'dolor.orel0o','耳痛[ěr tòng]')).
+assert(celo(sendolora,'dolor.sen0a','无痛[wú tòng]')).
+assert(celo(sendoloreco,'dolor.sen0eco','痛覺喪失[tòng jué sàng shī]')).
+assert(celo(sendoloreco,'dolor.sen0eco','无痛觉[wú tòng jué]')).
+assert(celo(sendoloriga,'dolor.sen0iga','鎮痛[zhèn tòng]')).
+assert(celo(sendoloriga,'dolor.sen0iga','止痛[zhǐ tòng]')).
+assert(celo(stomakdoloro,'dolor.stomak0o','肚痛[dù tòng]')).
+assert(celo(domano,'dom.0ano.subulo','室友[shì yǒu]')).
+assert(celo(domano,'dom.0ano.subulo','住戶[zhù hù]')).
+assert(celo(domestro,'dom.0estro','东家[dōng jiā]')).
+assert(celo(dometo,'dom.0eto','窝棚[wō peng]')).
+assert(celo(dometo,'dom.0eto','棚屋[péng wū]')).
+assert(celo(dometo,'dom.0eto','寮[liáo]')).
+assert(celo(dometo,'dom.0eto','茅屋[máo wū]')).
+assert(celo(domo,'dom.0o.konstruajxo','房屋[fáng wū]')).
+assert(celo(domo,'dom.0o.konstruajxo','房[fáng]')).
+assert(celo(domo,'dom.0o.hejmo','安乐窝[ān lè wō]')).
+assert(celo(domo,'dom.0o.hejmo','居所[jū suǒ]')).
+assert(celo(domo,'dom.0o.hejmo','故乡[gù xiāng]')).
+assert(celo(domo,'dom.0o.hejmo','炉边[lú biān]')).
+assert(celo(domo,'dom.0o.GEN','朝[cháo]')).
+assert(celo(bandomo,'','浴堂[yù táng]')).
+assert(celo(bandomo,'','公共浴室[gōng gòng yù shì]')).
+assert(celo(bandomo,'','堂子[táng zi]')).
+assert(celo(loĝdomo,'','民宅[mín zhái]')).
+assert(celo(loĝdomo,'','住房[zhù fáng]')).
+assert(celo(loĝdomo,'','宅子[zhái zi]')).
+assert(celo(ruldomo,'','房車[fáng chē]')).
+assert(celo(stacidomo,'dom.staci0o','駐地[zhù dì]')).
+assert(celo(urbodomo,'dom.urbo0o','社区会堂[shè qū kuài táng]')).
+assert(celo(urbodomo,'dom.urbo0o','市政厅[shì zhèng tīng]')).
+assert(celo(urbodomo,'dom.urbo0o','市政大厅[shì zhèng dà tīng]')).
+assert(celo(urbodomo,'dom.urbo0o','社区会堂[shè qū huì táng]')).
+assert(celo(vicdomo,'dom.vic0o','排屋[pái wū]')).
+assert(celo(vicdomo,'dom.vic0o','连房[lián fáng]')).
+assert(celo(domaĝa,'domagx.0a','令人惋惜[lìng rén wǎn xī]')).
+assert(celo(domaĝe,'domagx.0e','可惜[kě xī]')).
+assert(celo(domaĝi,'','痛惜[tòng xí]')).
+assert(celo(domaĝi,'','愁[chóu]')).
+assert(celo(domajno,'domajn.0o','知識領域[zhī shi lǐng yù]')).
+assert(celo(domajno,'domajn.0o','球状[qiú zhuàng]')).
+assert(celo(domajno,'domajn.0o','領域[lǐng yù]')).
+assert(celo(domajno,'domajn.0o','領地[lǐng dì]')).
+assert(celo(domeno,'domen.0o','多米諾骨牌[duō mǐ nuò gǔ pái]')).
+assert(celo(domeno,'domen.0o','骨牌[gǔ pái]')).
+assert(celo(domicilo,'domici.0o','捨[shě]')).
+assert(celo(domicilo,'domici.0o','寓[yù]')).
+assert(celo(domini,'domin.0i','主宰[zhǔ zǎi]')).
+assert(celo(domini,'domin.0i','尹[yǐn]')).
+assert(celo(domini,'domin.0i','彜[yí]')).
+assert(celo(domini,'domin.0i','榘[jǔ]')).
+assert(celo(domini,'domin.0i','筦[guǎn]')).
+assert(celo(domini,'domin.0i','掌管[zhǎng guǎn]')).
+assert(celo(domino,'domin.0o','优势地位[yòu shì dì wèi]')).
+assert(celo(domino,'domin.0o','佔優[zhàn yòu]')).
+assert(celo(domino,'domin.0o','統治地位[tǒng zhì dì wèi]')).
+assert(celo(dominio,'domini.0o','自治領[zì zhì lǐng]')).
+assert(celo('Dominiko','dominik1.0o.GEOG','多米尼克[duō mǐ ní kè]')).
+assert(celo('Dominiko','dominik1.0o.GEOG','多明尼加[duō míng ní jiā]')).
+assert(celo(donaĵo,'don.0ajxo','礼[lǐ]')).
+assert(celo(donaĵo,'don.0ajxo','贈品[zèng pǐn]')).
+assert(celo(donaĵo,'don.0ajxo','天賦[tiān fù]')).
+assert(celo(donema,'don.0ema','慨[kǎi]')).
+assert(celo(donema,'don.0ema','雍容大度[yōng róng dà dù]')).
+assert(celo(donema,'don.0ema','仁慈[rén cí]')).
+assert(celo(doni,'don.0i','付出[fù chū]')).
+assert(celo(donitaĵo,'don.0itajxo.SCI','內情[nèi qing]')).
+assert(celo(donitaĵo,'don.0itajxo.SCI','消息[xiāo xí]')).
+assert(celo(donitaĵo,'don.0itajxo.SCI','告示[gào shì]')).
+assert(celo(donitaĵo,'don.0itajxo.SCI','开球[kāi qiú]')).
+assert(celo(aldoni,'don.al0i','添[tiān]')).
+assert(celo(aldoni,'don.al0i','添加[tiān jiā]')).
+assert(celo(aldoni,'don.al0i','搀加[chān jiā]')).
+assert(celo(aldoni,'don.al0i','附[fù]')).
+assert(celo(aldoni,'don.al0i','搭[dā]')).
+assert(celo(aldoni,'don.al0i','兌[duì]')).
+assert(celo(aldoni,'don.al0i','加入[jiā rù]')).
+assert(celo(aldoni,'don.al0i','还说[hái shuō]')).
+assert(celo(aldoni,'don.al0i','增[zēng]')).
+assert(celo(aldoni,'don.al0i','配成[pèi chéng]')).
+assert(celo(aldoni,'don.al0i','互补[hù bǔ]')).
+assert(celo(aldoni,'don.al0i','募[mù]')).
+assert(celo(aldoni,'don.al0i','掺入[chǎn rù]')).
+assert(celo(aldonita,'don.al0ita.krome','另外[lìng wài]')).
+assert(celo(aldono,'don.al0o','补脉[bǔ mài]')).
+assert(celo(aldono,'don.al0o','增补[zēng bǔ]')).
+assert(celo(aldono,'don.al0o','餘補[yú bǔ]')).
+assert(celo(disdoni,'don.dis0i','俵分[biǎo fēn]')).
+assert(celo(disdoni,'don.dis0i','周延[zhōu yán]')).
+assert(celo(disdoni,'don.dis0i','散佈[sàn bù]')).
+assert(celo(eldonanto,'don.el0anto','編輯器[biān jí qì]')).
+assert(celo(eldonanto,'don.el0anto','出版单位[chū bǎn dān wèi]')).
+assert(celo(eldonanto,'don.el0anto','出版者[chū bǎn zhě]')).
+assert(celo(eldonisto,'','出版者[chū bǎn zhě]')).
+assert(celo(eldono,'don.el0o.TIP','本[běn]')).
+assert(celo(eldono,'','版[bǎn]')).
+assert(celo(eldono,'','挖掉[wā diào]')).
+assert(celo(eldono,'','补偿税[bǔ cháng shuì]')).
+assert(celo(eldono,'','費用控制[fèi yòng kòng zhì]')).
+assert(celo(eldono,'','刳[kū]')).
+assert(celo(eldono,'','礼[lǐ]')).
+assert(celo(eldono,'','輸出文件[shū chū wén jiàn]')).
+retractall(celo(eldono,_,_),8).
+assert(celo(eldono,'don.el0o.TIP','本[běn]')).
+assert(celo(fordoni,'don.for0i','走开[zǒu kāi]')).
+assert(celo(fordoni,'don.for0i','交[jiāo]')).
+assert(celo(ludoni,'don.lu0i','貺[kuàng]')).
+assert(celo(oferdoni,'don.ofer0i','報盤[bào pán]')).
+assert(celo(oferdoni,'don.ofer0i','建議過[jiàn yì guò]')).
+assert(celo(oferdoni,'don.ofer0i','提議過[tí yì guò]')).
+assert(celo(oferdono,'don.ofer0o','供物[gòng wù]')).
+assert(celo(oferdono,'don.ofer0o','飣[dìng]')).
+assert(celo(oferdono,'don.ofer0o','奉现[fèng xiàn]')).
+assert(celo(oferdono,'don.ofer0o','供[gòng]')).
+assert(celo(redoni,'don.re0i','回声[huí shēng]')).
+assert(celo(redoni,'','可退还[kě tuì huán]')).
+assert(celo(redoni,'','交还[jiāo huán]')).
+assert(celo(redoni,'','退回[tuì huí]')).
+assert(celo(redoni,'','返还[fǎn huán]')).
+assert(celo(redoni,'','回复[huí fù]')).
+assert(celo(sindona,'don.sin0a','不顧自己[bù gù zì jǐ]')).
+assert(celo(sindono,'don.sin0o','奉献[fèng xiàn]')).
+assert(celo(sindono,'don.sin0o','沉溺于[chén nì yú]')).
+assert(celo(sindono,'don.sin0o','献身[xiàn shēn]')).
+assert(celo(transdoni,'don.trans0i','传递[zhuàn yuè]')).
+assert(celo(transdoni,'don.trans0i','繳[jiǎo]')).
+assert(celo(transdoni,'don.trans0i','已繳[yǐ jiǎo]')).
+assert(celo(transdoni,'don.trans0i','付[fù]')).
+assert(celo(donacema,'donac.0ema','雍容大度[yōng róng dà dù]')).
+assert(celo(donacema,'donac.0ema','慨[kǎi]')).
+assert(celo(donaci,'donac.0i','贈予[zèng yǔ]')).
+assert(celo(donaci,'donac.0i','贈送[zèng sòng]')).
+assert(celo(donaco,'donac.0o','礼物[lǐ wù]')).
+assert(celo(donaco,'donac.0o','推荐书[tuī jiàn shū]')).
+assert(celo(donaco,'donac.0o','礼品[lǐ pǐn]')).
+assert(celo(donaco,'donac.0o','饋贈品[kuì zèng pǐn]')).
+assert(celo(mondonaco,'donac.mon0o','捐款[juān kuǎn]')).
+assert(celo(mondonaco,'donac.mon0o','关照[guān zhào]')).
+assert(celo(mondonaco,'donac.mon0o','捐献[juān xiàn]')).
+assert(celo(mondonaco,'donac.mon0o','捐助[juān zhù]')).
+assert(celo('Donaldo','donald.0o','唐納德[táng nà dé]')).
+assert(celo('Donecko','doneck.0o.urbo','頓涅茨克市[dùn niè cí kè shì]')).
+assert(celo('Donecko','doneck.0o.urbo','頓涅茨克[dùn niè cí kè]')).
+assert(celo(donĵuano,'donjxu.0o','唐璜[táng huáng]')).
+assert(celo(donkiĥoto,'donkih.0o','堂吉訶德[táng jí hē dé]')).
+assert(celo(dopamino,'','多巴胺[duō bā àn]')).
+assert(celo('Doplera efiko','dopler.0a_efiko','多普勒效应[duō pǔ lè xiào yìng]')).
+assert(celo('Doplera efiko','dopler.0a_efiko','多普勒效应[duō pǔ lēi xiào yìng]')).
+assert(celo('Doplero','dopler.0o','克里斯琴多普勒[kè lǐ sī qín duō pǔ lēi]')).
+assert(celo('Doplero','dopler.0o','多普勒[duō pǔ lēi]')).
+assert(celo('dorika ordo','dori.0a_ordo','多立克柱式[duō lì kè zhù shì]')).
+assert(celo(dorloti,'dorlot.0i','挲[suō]')).
+assert(celo(dorloti,'','譏刺[jī cì]')).
+assert(celo(dorloti,'','嬖[bì]')).
+assert(celo(dorloti,'','娇纵[jiāo zòng]')).
+assert(celo(dorloti,'','娇惯[jiāo guàn]')).
+assert(celo(dorloti,'','娇从[jiāo cōng]')).
+assert(celo(dorloti,'','溺愛[nì ài]')).
+assert(celo(dorloti,'','愛挑剔[ài tiāo ti]')).
+assert(celo(dorloti,'','逞[chěng]')).
+assert(celo(dorloti,'','宠坏[chǒng huài]')).
+assert(celo(dorloti,'','任性[rèn xìng]')).
+assert(celo(dorloto,'dorlot.0o','驕縱[jiāo zòng]')).
+assert(celo(dormegi,'dorm.0egi','睡熟[shuì shú]')).
+assert(celo(dormema,'','静寂地[jìng jí de]')).
+assert(celo(dormema,'','困地[kùn de]')).
+assert(celo(dormema,'','瞌[kē]')).
+assert(celo(dormema,'','困倦[kùn juàn]')).
+assert(celo(dormema,'','慢腾腾[màn téng téng]')).
+assert(celo(dormema,'','苶[nié]')).
+assert(celo(dormema,'','困[kùn]')).
+assert(celo(dormema,'','委[wěi]')).
+assert(celo(dormeti,'','昏昏欲睡[hūn hūn yù shuì]')).
+assert(celo(dormeti,'','打盹儿[dǎ dǔn r]')).
+assert(celo(dormigilo,'dorm.0igilo','安眠药[ān mián yào]')).
+assert(celo(dormo,'dorm.0o','休眠状态[xiū mián zhuàng tài]')).
+assert(celo(dormo,'dorm.0o','覺[jiào]')).
+assert(celo(dormo,'dorm.0o','睡眠[shuì mián]')).
+assert(celo(dormo,'dorm.0o','睡[shuì]')).
+assert(celo(diskodormo,'dorm.disko0o','休眠[xiū mián]')).
+assert(celo(duondormi,'dorm.duon0i','打盹儿[dǎ dǔn r]')).
+assert(celo(eldormiĝi,'dorm.el0igxi','覺[jué]')).
+assert(celo(endormiĝi,'dorm.en0igxi','入睡[rù shuì]')).
+assert(celo(endormiĝi,'dorm.en0igxi','入眠[rù mián]')).
+assert(celo(fordormi,'dorm.for0i','睡过头[shuì guò tóu]')).
+assert(celo(maldorma,'dorm.mal0a','醒的[xǐng de]')).
+assert(celo(maldormi,'dorm.mal0i','醒來[xǐng lái]')).
+assert(celo(maldormi,'dorm.mal0i','守望[shǒu wàng]')).
+assert(celo(maldormi,'dorm.mal0i','弄醒[nòng xǐng]')).
+assert(celo(maldormi,'dorm.mal0i','惺惺[xīng xīng]')).
+assert(celo(maldormi,'dorm.mal0i','醒着[xǐng zhuó]')).
+assert(celo(maldormi,'dorm.mal0i','警覺[jǐng jué]')).
+assert(celo(satdormi,'dorm.sat0i','睡足[shuì zú]')).
+assert(celo(vintrodormo,'dorm.vintro0o','蛰伏[zhé fú]')).
+assert(celo(vintrodormo,'dorm.vintro0o','冬眠[dōng mián]')).
+assert(celo(dorna,'dorn.0a','多刺[duō cì]')).
+assert(celo(dorna,'dorn.0a','棘手[jí shǒu]')).
+assert(celo(dornejo,'dorn.0ejo','下层丛林[xià céng cóng lín]')).
+assert(celo(dornejo,'dorn.0ejo','榛榛[zhēn zhēn]')).
+assert(celo(dorno,'dorn.0o','芯头[xīn tóu]')).
+assert(celo('Doroteo','dorote.0o.nomo','多萝西亚[duō luó xī yà]')).
+assert(celo(dorsen,'dors.0en','向后方[xiàng hòu fāng]')).
+assert(celo(dorsen,'dors.0en','朝后[cháo hòu]')).
+assert(celo(dorsen,'dors.0en','向后面[xiàng hòu miàn]')).
+assert(celo(dorsen,'dors.0en','向后[xiàng hòu]')).
+assert(celo(dorsen,'dors.0en','逆向[nì xiàng]')).
+assert(celo(dorso,'dors.0o','脊背[jǐ bèi]')).
+assert(celo(dorso,'dors.0o','腰板[yāo bǎn]')).
+assert(celo(dosiero,'dosier.0o.POL','案宗[àn zōng]')).
+assert(celo(dosiero,'dosier.0o.POL','牍[dú]')).
+assert(celo(dosiero,'dosier.0o.POL','箧[qiè]')).
+assert(celo(dosiero,'dosier.0o.POL','卷[juàn]')).
+assert(celo(dosiero,'dosier.0o.KOMP','計算機文件[jì suàn jī wén jiàn]')).
+assert(celo(dosiero,'dosier.0o.KOMP','电脑文件[diàn nǎo wén jiàn]')).
+assert(celo(dosiero,'','卷宗[juàn zōng]')).
+assert(celo(dosiersistemo,'dosier.0sistemo.KOMP','文件系統[wén jiàn xì tǒng]')).
+assert(celo(subdosierujo,'dosier.sub0ujo.KOMP','子目录[zǐ mù lù]')).
+assert(celo(dosierujo,'dosier.uj0o.KOMP','文件夹[wén jiàn jiā]')).
+assert(celo(doti,'dot.0i.FIG','賦予[fù yǔ]')).
+assert(celo(doti,'dot.0i.FIG','装备功能[zhuāng bèi gōng néng]')).
+assert(celo(doti,'dot.0i.FIG','配備[pèi bèi]')).
+assert(celo(doto,'dot.0o','陪嫁[péi jià]')).
+assert(celo(doto,'dot.0o','聘金[pìn jīn]')).
+assert(celo(doto,'dot.0o','財禮[cái lǐ]')).
+assert(celo(doto,'dot.0o','嫁妆[jià zhuāng]')).
+assert(celo('Dovero','dover.0o.brita','多佛尔[duō fú ěr]')).
+assert(celo('Dovero','dover.0o.brita','多佛[duō fú]')).
+assert(celo(dozi,'doz.0i','給藥[gěi yào]')).
+assert(celo(dozi,'doz.0i','简便定量[jiǎn biàn dìng liàng]')).
+assert(celo(dozo,'doz.0o','剂量[jì liàng]')).
+assert(celo(dozo,'doz.0o','加入量[jiā rù liàng]')).
+assert(celo(trodozo,'doz.tro0o','服药过量[fú yào guò liàng]')).
+assert(celo(draceno,'dracen.0o','富貴竹[fù guì zhú]')).
+assert(celo(dragi,'drag.0i','抻[chēn]')).
+assert(celo(dragi,'drag.0i','淸淤[qīng yū]')).
+assert(celo(dragi,'drag.0i','浚[jùn]')).
+assert(celo(dragi,'drag.0i','疏浚[shū jùn]')).
+assert(celo(dragilo,'drag.0ilo','单斗电铲[dān dòu diàn chǎn]')).
+assert(celo(dragilo,'drag.0ilo','电铲[diàn chǎn]')).
+assert(celo(dragilo,'drag.0ilo','鏟土機[chǎn tǔ jī]')).
+assert(celo(dragilo,'drag.0ilo','鏈斗挖掘機[liàn dòu wá jué jī]')).
+assert(celo(dragono,'dragon.0o','龍騎兵[lóng qí bīng]')).
+assert(celo(drako,'drak.0o','狂暴的人[kuáng bào de rén]')).
+assert(celo(drako,'drak.0o','坏脾气的女人[huài pí qì de nǚ rén]')).
+assert(celo(drakona,'drakon.0a','苛刻[kē kè]')).
+assert(celo(drama,'dram.0a.FIG','戏剧性[xì jù xìng]')).
+assert(celo(drama,'dram.0a.FIG','扣人心弦[kòu rén xīn xián]')).
+assert(celo(dramigi,'dram.0igi','改編為劇本[gǎi biān wéi jù běn]')).
+assert(celo(dramo,'dram.0o','戏剧[xì jù]')).
+assert(celo(dramo,'dram.0o','戱[xì]')).
+assert(celo(dramo,'dram.0o','戏[xì]')).
+assert(celo(dramo,'dram.0o','剧[jù]')).
+assert(celo(drapo,'drap.0o','手帕[shǒu pà]')).
+assert(celo(drapiraĵo,'drapir.0ajxo','帐帘[zhàng lián]')).
+assert(celo(drapiraĵo,'drapir.0ajxo','幔[màn]')).
+assert(celo(drasta,'drast.0a','根本上[gēn běn shàng]')).
+assert(celo(drasta,'drast.0a','速效[sù xiào]')).
+assert(celo(maldrasta,'drast.mal0a','逐次[zhú cì]')).
+assert(celo(maldrasta,'drast.mal0a','逐渐[zhú jiàn]')).
+assert(celo(maldrasta,'drast.mal0a','渐次[jiàn cì]')).
+assert(celo(maldrasta,'drast.mal0a','日益增多地[rì yì zēng duō de]')).
+assert(celo(maldrasta,'drast.mal0a','渐[jiàn]')).
+assert(celo(maldrasta,'drast.mal0a','冉冉[rǎn rǎn]')).
+assert(celo(maldrasta,'drast.mal0a','全能[quán néng]')).
+assert(celo(draŝi,'drasx.0i','脫粒[tuō lì]')).
+assert(celo(draŝi,'drasx.0i','脫穀[tuō gǔ]')).
+assert(celo(draŝilo,'drasx.0ilo','脫粒機構[tuō lì jī gòu]')).
+assert(celo(draŝmaŝino,'drasx.0masxino','車床[chē chuáng]')).
+assert(celo('fera draŝilo','drasx.fera0ilo.AGR','旋轉滑板[xuán zhuǎn huá bǎn]')).
+retractall(celo('fera draŝilo',_,_),1).
+assert(celo(drato,'drat.0o','線材[xiàn cái]')).
+assert(celo(drato,'drat.0o','鋼絲[gāng sī]')).
+assert(celo(drato,'drat.0o','金属丝[jīn shǔ sī]')).
+assert(celo(drato,'drat.0o','金属线[jīn shǔ xiàn]')).
+assert(celo(drato,'drat.0o','电线[diàn xiàn]')).
+assert(celo(pikdrato,'drat.pik0o','鋼線[gāng xiàn]')).
+assert(celo('Drento','drent.D0o','德伦特省[dé lún té xǐng]')).
+assert(celo(dresi,'dres.0i','馴[xún]')).
+assert(celo(dresi,'dres.0i','訓[xùn]')).
+assert(celo(dresi,'dres.0i','培育[péi yù]')).
+assert(celo(dresi,'dres.0i','培植[péi zhí]')).
+assert(celo(dresi,'dres.0i','培訓[péi xùn]')).
+assert(celo(dresisto,'dres.0isto','馴獸師[xún shòu shī]')).
+assert(celo(dresisto,'dres.0isto','訓練者[xùn liàn zhě]')).
+assert(celo(dresisto,'dres.0isto','馴養人[xún yǎng rén]')).
+assert(celo(dresisto,'dres.0isto','馴養者[xún yǎng zhě]')).
+assert(celo(dresdena,'dresden.0a','杜雷斯頓人[dù léi sī dùn rén]')).
+assert(celo(dresdena,'dresden.0a','杜雷斯頓[dù léi sī dùn]')).
+assert(celo(dresdena,'dresden.0a','德累斯頓人[dé lèi sī dùn rén]')).
+retractall(celo(dresdena,_,_),3).
+assert(celo(dresdenano,'dresden.0ano','杜雷斯頓人[dù léi sī dùn rén]')).
+assert(celo(dresdenano,'dresden.0ano','杜雷斯頓[dù léi sī dùn]')).
+assert(celo(dresdenano,'dresden.0ano','德累斯頓人[dé lèi sī dùn rén]')).
+assert(celo('Dresdeno','dresden.0o.GEOG','杜雷斯頓[dù léi sī dùn]')).
+assert(celo('Dresdeno','dresden.0o.GEOG','德累斯頓人[dé lèi sī dùn rén]')).
+assert(celo('Dresdeno','dresden.0o.GEOG','德累斯頓[dé lèi sī dùn]')).
+assert(celo('Dresdeno','dresden.0o.GEOG','德勒斯登[dé lè sī dēng]')).
+assert(celo(dribli,'dribl.0i','带球[dài qiú]')).
+assert(celo(drilo,'dril.0o','手鑽[shǒu zuān]')).
+assert(celo(drinkaĵo,'drink.0ajxo','酒精飲料[jiǔ jīng yǐn liào]')).
+assert(celo(drinkejisto,'drink.0ejisto','調酒師[diào jiǔ shī]')).
+assert(celo(drinkejisto,'drink.0ejisto','混合的人[hùn hé de rén]')).
+assert(celo(drinkejisto,'drink.0ejisto','混合器[hùn hé qì]')).
+assert(celo(drinkemulo,'drink.0emulo','酒鬼[jiǔ guǐ]')).
+assert(celo(drinkemulo,'drink.0emulo','酗酒者[xù jiǔ zhě]')).
+assert(celo(drinkemulo,'drink.0emulo','喝酒者[hē jiǔ zhě]')).
+assert(celo(drinkemulo,'drink.0emulo','醉鬼[zuì guǐ]')).
+assert(celo(drinki,'','狂飲[kuáng yǐn]')).
+assert(celo(drivi,'driv.0i','沲[duò]')).
+assert(celo(drivi,'driv.0i','被役使过渡[bèi yì shǐ guò dù]')).
+assert(celo(drivo,'driv.0o.FIG','迴旋[huí xuán]')).
+assert(celo(drivo,'driv.0o.FIG','漂浮[piāo fú]')).
+assert(celo(drivo,'driv.0o.FIG','風落[fēng luò]')).
+assert(celo(drivo,'driv.0o.FIG','逐渐陷入[zhú jiàn xiàn rù]')).
+assert(celo(drivo,'driv.0o.FIG','漂积物[piào jī wù]')).
+assert(celo(drivo,'driv.0o.FIG','使漂流[shǐ piāo liú]')).
+assert(celo(fordrivi,'driv.for0i.MAR','被役使过渡[bèi yì shǐ guò dù]')).
+assert(celo(kontinentodrivo,'driv.kontinento0o.GEOL','大陆漂移学说[dà lù piāo yí xué shuō]')).
+assert(celo(drogaĉo,'drog.0acxo.KOMUNE','麻醉品[má zuì pǐn]')).
+assert(celo(drogaĉo,'drog.0acxo.KOMUNE','迷幻剂[mí huàn jì]')).
+assert(celo(drogemulo,'drog.0emulo','吸毒者[xī dú zhě]')).
+assert(celo(drogemulo,'drog.0emulo','吸毒人员[xī dú rén yuán]')).
+assert(celo(drogemulo,'drog.0emulo','瘾君子[yǐn jūn zǐ]')).
+assert(celo(drogemulo,'drog.0emulo','嗜毒者[shì dú zhě]')).
+assert(celo(drogo,'drog.0o.KEM','药品[yào pǐn]')).
+assert(celo(drogo,'drog.0o.KEM','原料药[yuán liào yào]')).
+assert(celo(drogo,'drog.0o.KEM','药材[yào cái]')).
+assert(celo(dromedaro,'dromed.0o.ZOO','单峰骆驼[dān fēng luò tuó]')).
+assert(celo(droni,'dron.0i','创立者[chuàng lì zhě]')).
+assert(celo(droni,'dron.0i','创办人[chuàng bàn rén]')).
+assert(celo(droni,'dron.0i','淹死[yān sǐ]')).
+assert(celo(droni,'dron.0i','淊[yān]')).
+assert(celo(droni,'dron.0i','溺水[nì shuǐ]')).
+assert(celo(droni,'dron.0i','溺[nì]')).
+assert(celo(droni,'dron.0i','葬身魚腹[zàng shēn yú fù]')).
+assert(celo(droni,'dron.0i','淹[yān]')).
+assert(celo(droni,'dron.0i','滅[miè]')).
+assert(celo(droni,'dron.0i','沒[mò]')).
+assert(celo(droni,'dron.0i','沦[lún]')).
+assert(celo(dronigi,'dron.0igi','沐浴[mù yù]')).
+assert(celo(dronigi,'dron.0igi','泅[qiú]')).
+assert(celo(droneo,'drone.0o','无人飞行载具[wú rén fēi háng zài jù]')).
+assert(celo(droneo,'drone.0o','无人驾驶飞机[wú rén jià shǐ fēi jī]')).
+assert(celo(droso,'dros.0o','纜索[lǎn suǒ]')).
+assert(celo(droso,'dros.0o','纜[lǎn]')).
+assert(celo(droso,'dros.0o','纜繩[lǎn shéng]')).
+assert(celo(drozofilo,'drozofil.0o','果蝇[guǒ yíng]')).
+assert(celo(druido,'druid.0o','德魯依[dé lǔ yī]')).
+assert(celo(druido,'druid.0o','德魯伊[dé lǔ yī]')).
+assert(celo(drumo,'drum.0o','爵士鼓[jué shì gǔ]')).
+assert(celo(drupo,'drup.0o','核果[hé guǒ]')).
+assert(celo(drupo,'drup.0o','苌[cháng]')).
+assert(celo(duobla,'du.0obla','二倍[èr bèi]')).
+assert(celo(duobla,'du.0obla','两重[liǎng chóng]')).
+assert(celo(duobla,'du.0obla','二重[èr chóng]')).
+assert(celo(duobla,'du.0obla','孪生子[luán shēng zǐ]')).
+assert(celo(duobla,'du.0obla','兼[jiān]')).
+assert(celo(duobla,'du.0obla','双工[shuāng gōng]')).
+assert(celo(duobla,'du.0obla','两次[liǎng cì]')).
+assert(celo(duoblaĵo,'du.0oblajxo','重复[chóng fù]')).
+assert(celo(duobligi,'du.0obligi','翻番[fān fan]')).
+assert(celo(duobligi,'du.0obligi','增長一倍[zēng zhǎng yī bèi]')).
+assert(celo(duobligi,'du.0obligi','翻一番[fān yī fān]')).
+assert(celo(duobligi,'du.0obligi','倍增[bèi zēng]')).
+assert(celo(duona,'du.0ona','只有一边相衔接[zhǐ yǒu yī biān xiāng xián jiē]')).
+assert(celo(duona,'du.0ona','半离[bàn lí]')).
+assert(celo(duona,'du.0ona','一半[yī bàn]')).
+assert(celo(duona,'du.0ona','半开半闭[bàn kāi bàn bì]')).
+assert(celo(duope,'','太远[tài yuǎn]')).
+assert(celo(duuma,'du.0uma','偶值[ǒu zhí]')).
+assert(celo(duuma,'du.0uma','双耳[shuāng ěr]')).
+assert(celo(duuma,'du.0uma','两耳[liǎng ěr]')).
+assert(celo(duuma,'du.0uma','二进[èr jìn]')).
+assert(celo('pli bona duono','du.pli_bona_0ono','重要他人[zhòng yào tā rén]')).
+assert(celo(duala,'dual.0a.MAT','二进[èr jìn]')).
+assert(celo(dualo,'dual.0o.GRA','双数[shuāng shù]')).
+assert(celo('Dualao','duala.0o','杜阿拉[dù ā lā]')).
+assert(celo(duba,'dub.0a','令人怀疑[lìng rén huái yí]')).
+assert(celo(duba,'dub.0a','可疑地[kě yí de]')).
+assert(celo(duba,'dub.0a','不三不四[bù sān bù sì]')).
+assert(celo(duba,'dub.0a','疑意[yí yì]')).
+assert(celo(duba,'dub.0a','愰[huǎng]')).
+assert(celo(duba,'dub.0a','暧[ài]')).
+assert(celo(dubema,'dub.0ema','不相信[bù xiāng xìn]')).
+assert(celo(dubemo,'dub.0emo','怀疑论[huái yí lùn]')).
+assert(celo(dubemo,'dub.0emo','怀疑主义[huái yí zhǔ yì]')).
+assert(celo(dubemo,'dub.0emo','不信任[bù xìn rèn]')).
+assert(celo(dubi,'dub.0i','疑[yí]')).
+assert(celo(dubi,'dub.0i','拿不准[ná bù zhǔn]')).
+assert(celo(dubi,'dub.0i','踌[chóu]')).
+assert(celo(dubi,'dub.0i','疑慮不安[yí lü bù ān]')).
+assert(celo(dubigi,'dub.0igi.ion','質疑[zhì yí]')).
+assert(celo(dubinda,'dub.0inda','令人怀疑[lìng rén huái yí]')).
+assert(celo(dubinda,'dub.0inda','可疑地[kě yí de]')).
+assert(celo(dubinda,'dub.0inda','暧[ài]')).
+assert(celo(dubo,'dub.0o','不安全感[bù ān quán gǎn]')).
+assert(celo(dubo,'dub.0o','不确定[bù què dìng]')).
+assert(celo(dubo,'dub.0o','狐疑[hú yí]')).
+assert(celo(dubo,'dub.0o','置疑[zhì yí]')).
+assert(celo(dubo,'dub.0o','疑問[yí wèn]')).
+assert(celo(dubo,'dub.0o','疑惑[yí huò]')).
+assert(celo(konsciencdubo,'dub.konscienc0o','愧疚[kuì jiù]')).
+assert(celo(konsciencdubo,'dub.konscienc0o','疚[jiù]')).
+assert(celo(konsciencdubo,'dub.konscienc0o','良心的責備[liáng xīn de zé bèi]')).
+assert(celo(konsciencdubo,'dub.konscienc0o','极为后悔[jí wéi hòu huǐ]')).
+assert(celo(konsciencdubo,'dub.konscienc0o','自責[zì zé]')).
+assert(celo(konsciencdubo,'dub.konscienc0o','良心的呵責[liáng xīn de ā zé]')).
+assert(celo(konsciencdubo,'dub.konscienc0o','悔恨[huǐ hèn]')).
+assert(celo(konsciencdubo,'dub.konscienc0o','顧忌[gù jì]')).
+assert(celo(konsciencdubo,'dub.konscienc0o','后悔[hòu huǐ]')).
+assert(celo(nedubeble,'dub.ne0eble','确信无疑[què xìn wú yí]')).
+assert(celo(nedubeble,'dub.ne0eble','毋容怀疑[wú róng huái yí]')).
+assert(celo(nedubeble,'dub.ne0eble','紅口白牙[hóng kǒu bái yá]')).
+assert(celo(nedubeble,'dub.ne0eble','毫无疑问地[háo wú yí wèn de]')).
+assert(celo(nedubeble,'dub.ne0eble','无疑地[wú yí de]')).
+assert(celo(senduba,'dub.sen0a','无疑地[wú yí de]')).
+assert(celo(senduba,'dub.sen0a','不愧[bù kuì]')).
+assert(celo(sendube,'dub.sen0e','毫无疑问[háo wú yí wèn]')).
+assert(celo(sendube,'dub.sen0e','毋庸置疑[wú yōng zhì yí]')).
+assert(celo('Dubajo','dubaj.0o','杜拜[dù bài]')).
+assert(celo('Dubajo','dubaj.0o','迪拜[dí bài]')).
+assert(celo(dubli,'dubl.0i','譯制[yì zhì]')).
+assert(celo(dublisto,'dubl.0isto','配音员[pèi yīn yuán]')).
+assert(celo('Dublino','dublin.0o','都柏林[dū bó lín]')).
+assert(celo(duelo,'duel.0o','拚斗[pàn dòu]')).
+assert(celo(duelo,'duel.0o','决斗[jué dòu]')).
+assert(celo(dueli,'','进行决斗[jìn xíng jué dòu]')).
+assert(celo(pojnduelo,'duel.pojn0o','掰手腕儿[bāi shǒu wàn ér]')).
+assert(celo(duenjo,'duenj.0o','伴护[bàn hù]')).
+assert(celo(duenjo,'duenj.0o','女伴[nǚ bàn]')).
+assert(celo(dugongo,'dugong.0o','儒艮[rú gèn]')).
+assert(celo(dugongo,'dugong.0o','儒艮科[rú gèn kē]')).
+assert(celo(duko,'duk.0o.NOB','公爵[gōng jué]')).
+assert(celo(ĉefduko,'duk.cxef0o.familiano','大公[dà gōng]')).
+assert(celo(akvodukto,'dukt.akvo0o','水管[shuǐ guǎn]')).
+assert(celo(akvodukto,'dukt.akvo0o','輸水管[shū shuǐ guǎn]')).
+assert(celo(akvodukto,'dukt.akvo0o','自來水管道[zì lái shuǐ guǎn dào]')).
+assert(celo(gasdukto,'dukt.gas0o','輸氣管道[shū qì guǎn dào]')).
+assert(celo(dukto,'','輸油管[shū yóu guǎn]')).
+assert(celo(dukto,'','管道[guǎn dào]')).
+assert(celo(naftodukto,'dukt.nafto0o','輸油管道[shū yóu guǎn dào]')).
+assert(celo(naftodukto,'dukt.nafto0o','油管[yóu guǎn]')).
+assert(celo(ovodukto,'dukt.ovo0o','輸卵管[shū luǎn guǎn]')).
+assert(celo(dum,'dum.0','何时[hé shí]')).
+assert(celo(dum,'dum.0','期間[qī jiān]')).
+assert(celo(dum,'dum.0','趁[chèn]')).
+assert(celo(dum,'dum.0','洎[jì]')).
+assert(celo(duma,'dum.0a','同时期[tóng shí qī]')).
+assert(celo(duma,'dum.0a','相伴[xiāng bàn]')).
+assert(celo(duma,'dum.0a','等时线[děng shí xiàn]')).
+assert(celo(interdume,'dum.inter0e','中間體[zhōng jiàn tǐ]')).
+assert(celo(dumpingo,'dumpin.0o','倾销[qīng xiāo]')).
+assert(celo(kontraŭdumpinga,'dumpin.kontraux0a','反倾销[fǎn qīng xiāo]')).
+assert(celo(duno,'dun.0o','沙丘[shā qiū]')).
+assert(celo(neĝduno,'dun.negx0o','吹雪[chuī xuě]')).
+assert(celo(dunganto,'dung.0anto','雇主[gù zhǔ]')).
+assert(celo(dungi,'dung.0i','招收[zhāo shōu]')).
+assert(celo(dungi,'dung.0i','收录[shōu lù]')).
+assert(celo(dungitaro,'dung.0itaro','职工[zhí gōng]')).
+assert(celo(dungitaro,'dung.0itaro','员工[yuán gōng]')).
+assert(celo(dungiteco,'dung.0iteco','投入生产[tóu rù shēng chǎn]')).
+assert(celo(dungiteco,'dung.0iteco','雇用[gù yòng]')).
+assert(celo(dungiteco,'dung.0iteco','稳定的工作[wěn dìng de gōng zuò]')).
+assert(celo(dungiteco,'dung.0iteco','永久僱用[yǒng jiǔ gù yòng]')).
+assert(celo(dungito,'dung.0ito','雇員[gù yuán]')).
+assert(celo(dungi,'','应聘[yìng pìn]')).
+assert(celo(dungi,'','碌[lù]')).
+assert(celo(maldungi,'dung.mal0i','解僱[jiě gù]')).
+assert(celo(maldungi,'dung.mal0i','辞退[cí tuì]')).
+assert(celo(maldungi,'dung.mal0i','罢黜[bà chù]')).
+assert(celo(maldungi,'dung.mal0i','炒魷魚[chǎo yóu yú]')).
+assert(celo(duodeno,'duoden.0o','十二指肠[shí èr zhǐ cháng]')).
+assert(celo(dupo,'dup.0o.KOMUNE','呆子[dāi zi]')).
+assert(celo(dupo,'dup.0o.KOMUNE','做出愚蠢的举动[zuò chū yú chǔn de jǔ dòng]')).
+assert(celo(dupo,'dup.0o.KOMUNE','傻瓜[shǎ guā]')).
+assert(celo(dupo,'dup.0o.KOMUNE','傻子[shǎ zi]')).
+assert(celo(dupo,'dup.0o.KOMUNE','笨蛋[bèn dàn]')).
+assert(celo(dupleksa,'duplek.0a','双联[shuāng lián]')).
+assert(celo(duplikati,'duplik.0i','抄[chāo]')).
+assert(celo(duplikato,'','重复[chóng fù]')).
+assert(celo(dura,'dur1.0a','死硬[sǐ yìng]')).
+assert(celo(dura,'dur1.0a','难[nàn]')).
+assert(celo(duramatro,'durama.0o','脑膜[nǎo mó]')).
+assert(celo('Durbano','durban.0o','德班[dé bān]')).
+assert(celo(duriarbo,'duri.0arbo','榴莲[liú lián]')).
+assert(celo(durio,'duri.0o.KUI','榴梿[liú lián]')).
+assert(celo(durio,'duri.0o.KUI','榴槤[liú lián]')).
+assert(celo('Duseldorfo','duseldorf.0o','杜塞尔多夫[dù sāi ěr duō fū]')).
+assert(celo(duŝo,'dusx.0o','淋浴設備[lín yù shè bèi]')).
+assert(celo(duŝo,'dusx.0o','淋浴装置[lìn yù zhuāng zhì]')).
+assert(celo(duŝo,'dusx.0o','淋浴[lín yù]')).
+assert(celo(duŝejo,'','淋浴器[lín yù qì]')).
+assert(celo(duŝiĝi,'dusx.sin0i','洗淋浴[xǐ lín yù]')).
+assert(celo('Duŝanbeo','dusxanbe.0o','杜尚別[dù shàng bié]')).
+assert(celo(duzo,'duz.0o','喷头[pēn tóu]')).
+assert(celo(duzo,'duz.0o','喷管[pēn guan]')).
+assert(celo(duzo,'duz.0o','漏板[lòu bǎn]')).
+assert(celo(duzo,'duz.0o','吸气嘴[xī qì zuǐ]')).
