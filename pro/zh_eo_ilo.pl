@@ -53,9 +53,9 @@
 csv_hande('vrt/handedict_23.u8').
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-csv_mankoj('vrt/eo_de_d.csv').
-db_celo('pdb/eo_zh_d.db').
-csv_celo('vrt/eo_zh_d.csv').
+csv_mankoj('vrt/eo_de_e.csv').
+db_celo('pdb/eo_zh_e.db').
+csv_celo('vrt/eo_zh_e.csv').
 
 
 legu :-
