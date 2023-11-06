@@ -1,24 +1,57 @@
-% kio estas Prologo?
-prologo(programlingvo).
-prologo(solvilo).
-prologo(datumbazo).
-prologo(serĉilo).
+% faktoj pri Prologo
+% pridemandebla per ?- speco('Prologo',X)
+speco('Prologo',programlingvo).
+speco('Prologo',solvilo).
+speco('Prologo',datumbazo).
+speco('Prologo',serĉilo).
 
-estas(predikato,tabelo).
-estas(fakto,datenopo).
-estas(fakto,rikordo).
-estas(variablo,variablo).
-estas(atomo,nomo).
-estas(regulo,'Kapo :- Korpo.').
-estas(kapo,termo).
-estas(korpo,termo).
-estas(kapo,predikato).
-estas(korpo,esprimo).
+% faktoj pri lingvoj
+speco(angla,nacilingvo).
+speco(franca,nacilingvo).
+speco(germana,nacilingvo).
+speco(nederlanda,nacilingvo).
+speco('Esperanto',internacilingvo).
+
+% faktoj pri bestoj
+speco(hundo,rabobesto).
+speco(rabobesto,mamulo).
+speco(mamulo,besto).
+speco(dogo,hundo).
+speco(urso,rabobesto).
+
+
+/**
+ * ?- speco(L,lingvo) ne donas rezulton, manke de faktoj, sed ni
+ * povas difini regulon:
+ * Lingvo povas esti nacilingvo aŭ internacilingvo aŭ programlingvo
+ */
+lingvo(L) :-
+    speco(L,nacilingvo)
+    ;
+    speco(L,internacilingvo)
+    ;
+    speco(L,programlingvo).
+
+/**
+ * Ĉio, de la speco besto estas besto.
+ */
+besto(B) :-
+    speco(B,besto).
 
 /*
-select r3kap.kap, r3mrk.mrk, r3trd.lng, r3trd.trd, r3trd.ind from r3trd
-left join r3mrk ON r3trd.mrk = r3mrk.mrk
-LEFT JOIN r3kap ON r3kap.mrk = r3mrk.drv 
-where r3trd.lng in ('en','fr','nl','de') and r3trd.ekz = ''
-limit 130;
-*/
+ * provu:
+ * ?- besto(mamulo).
+ * ?- besto(hundo).
+ * ?- besto(B).
+ */ 
+
+/**
+ * Ankaŭ ĉiuj mamuloj, hundoj ktp. estas bestoj. Ni bezonas pli vastan
+ * difino por besto do:
+ * Ĉio, kies speco siavice estas besto, estas besto (rikura difino)
+ */
+besto2(B) :- 
+    besto(B).
+besto2(B) :-
+    speco(B,B1),
+    besto2(B1).
