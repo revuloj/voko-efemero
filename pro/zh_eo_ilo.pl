@@ -53,9 +53,9 @@
 csv_hande('vrt/handedict_23.u8').
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-csv_mankoj('vrt/eo_de_e.csv').
-db_celo('pdb/eo_zh_e.db').
-csv_celo('vrt/eo_zh_e.csv').
+csv_mankoj('vrt/eo_de_f.csv').
+db_celo('pdb/eo_zh_f.db').
+csv_celo('vrt/eo_zh_f.csv').
 
 
 legu :-
@@ -165,7 +165,19 @@ mg(Eo,Mrk) :-
     format('~w~w: ~w;~w;~w~n',[TStat,Eo,Mrk,SOfc,SDe]).
 
 % serĉu po 20 proponojn por la unuopaj germanj tradukoj de esperanta vorto
-p(Eo) :- proponoj_eo(Eo,20).
+p :- 
+    sekva(Eo),
+    proponoj_eo(Eo,20).
+
+p(Eo) :- 
+    once((
+        nonvar(Eo)
+        ;
+        var(Eo),
+        sekva(Eo)
+    )),
+    proponoj_eo(Eo,20).
+
 % se ni scias, ke por devia germana traduko ni trovos ĉinan tradukon...
 pde(Eo,De) :-
     retractall(propono(1,_,_,_,_)),
@@ -223,12 +235,15 @@ seo(Eo,Mrk,Na,N) :-
 
 
 proponoj_eo(Eo,Max) :-
+    % memoru la serĉvorton
+    % trovu germanajn tradukojn
     call_nth(manko_grup(Eo,Mrk,Tradukita,LOfc,LDe),N),
     retractall(propono(N,_,_,_,_)),
     atomic_list_concat(LDe,', ',SDe),
     atomic_list_concat(LOfc,', ',SOfc),    
     trad_stat(Tradukita,TStat),    
     format('x~d~w ~w [~w] (~w) ~w~n',[N,TStat,Eo,Mrk,SOfc,SDe]),
+    % serĉu tradukproponojn de-zh
     proponoj_de(SDe,Max,N,Eo,Mrk).
 
 proponoj_de(SDe,Max,N,Eo,Mrk) :-
@@ -323,6 +338,20 @@ manko(Eo,Mrk,No,Ofc,De) :-
         DeI \= 'NULL', DeI \= '', De = DeI
     )).
 
+sekva(Eo,Sekva) :-
+    call_nth(manko(_,Eo1,_,_,_,_),N), Eo=Eo1,
+    nb_setval(lasta,N),
+    sekva(Sekva).
+
+sekva(Sekva) :-
+    nb_getval(lasta,Lasta),
+    call_nth(manko(Mrk,Eo,_,_,_,_),Lasta),
+    % trovu la sekvan vorton en mankoj
+    call_nth(manko(MrkS,Sekva,_,_,_,_),N1),
+    N1>Lasta, Sekva\=Eo, MrkS\=Mrk, !,
+    nb_setval(lasta,N1),
+    format('..~d: ~w~n',[N1,Sekva]).
+
 % provu trovi parojn eo - zh uzante ambaŭ vortarojn eo-de kaj zh-de
 de_zh(e,De,De,Zh,1.0) :- 
         zhde(Zh,De).
@@ -338,9 +367,9 @@ de_zh(s,De,D1,Zh,Simil) :-
 kmp_isub(T1,T2,Simil) :-
     %catch( % okazas iuj nevalidaj unikod-literoj !?
     %    (
-            downcase_atom(T1,S1),
-            downcase_atom(T2,S2),
-            isub(S1,S2,Simil,[zero_to_one(true)])
+           % downcase_atom(T1,S1),
+           % downcase_atom(T2,S2),
+            isub(T1,T2,Simil,[zero_to_one(true)])
     %    ), 
     %    _E,
     %    (
@@ -427,9 +456,15 @@ zh_map_pr(Pr,Zh,ZhPr) :-
 zh_prononco_s([],[]).
 zh_prononco_s([S1|Rest],[SS1|RestS]) :-
     atom_chars(S1,SD),
-    append(Silab,[C],SD), % silabo konsistas el askiaj literoj kaj fina cifero
+    once((
+        % silabo konsistas el askiaj literoj kaj fina cifero
+        append(Silab,[C],SD), 
+        atom_number(C,D)
+        ; % se ne estas cifero supozu neŭtralan tonon (5)
+        D=5,
+        Silab=SD
+    )),
     zh_pr_vokal(Silab,0,Paroj),
-    atom_number(C,D),
     zh_pr_silab(Paroj,D,SS),
     atom_chars(SS1,SS),
     zh_prononco_s(Rest,RestS).
