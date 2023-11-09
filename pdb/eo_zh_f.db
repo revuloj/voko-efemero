@@ -2801,3 +2801,172 @@ assert(celo(fuĝo,'fugx.0o','逃离[táo lí]')).
 assert(celo(transfuĝinto,'fugx.trans0into','逃兵[táo bīng]')).
 assert(celo(fuksio,'fuksi.0o','晚樱科植物[wǎn yīng kē zhí wù]')).
 assert(celo('Fukuŝimo','fukusxim.0o','福岛市[fú dǎo shì]')).
+assert(celo(fulardo,'fulard.0o.TEKS_sxtofo','軋車[yà chē]')).
+assert(celo(fulgo,'fulg.0o','炲[tai]')).
+assert(celo(fulgo,'fulg.0o','碳黑[tàn hēi]')).
+assert(celo(fulgo,'fulg.0o','油烟[yóu yān]')).
+assert(celo(fulgo,'fulg.0o','炱[tái]')).
+assert(celo(fulgo,'fulg.0o','炭黑[tàn hēi]')).
+assert(celo(fulgo,'fulg.0o','煤灰[méi huī]')).
+assert(celo(fulgigi,'','煤灰[méi huī]')).
+assert(celo(fuligulo,'fuligu.0o','凤头潜鸭[fèng tóu qián yā]')).
+assert(celo(fulmi,'fulm.0i','嘒[huì]')).
+assert(celo(fulmilo,'fulm.0ilo','閃光[shǎn guāng]')).
+assert(celo(fulmilo,'fulm.0ilo','閃光燈[shǎn guāng dēng]')).
+assert(celo(fulmo,'fulm.0o','雷閃[léi shǎn]')).
+assert(celo(fulmo,'fulm.0o','天火[tiān huǒ]')).
+assert(celo(fulmo,'fulm.0o','电闪[diàn shǎn]')).
+assert(celo(fulmo,'fulm.0o','靝火[tiān huǒ]')).
+assert(celo(fulmo,'fulm.0o','閃電[shǎn diàn]')).
+assert(celo(fulmo,'fulm.0o','閃[shǎn]')).
+assert(celo(fumaĵi,'','硝烟[xiāo yān]')).
+assert(celo(fumaĵi,'','熏[xūn]')).
+assert(celo(fumanto,'fum.0anto','烟民[yān mín]')).
+assert(celo(fumanto,'fum.0anto','吸烟者[xī yān zhě]')).
+assert(celo(fumi,'fum.0i','抽烟[chōu yān]')).
+assert(celo(fumi,'fum.0i','排烟[pái yān]')).
+assert(celo(fumi,'fum.0i','吸烟[xī yān]')).
+assert(celo(fumi,'fum.0i','烟雾弥漫[yān wù mí màn]')).
+assert(celo(fumo,'fum.0o','烟气[yān qì]')).
+assert(celo(fumo,'fum.0o','烟雾[yān wù]')).
+assert(celo(fumo,'fum.0o','烟[yan]')).
+assert(celo(fumo,'fum.0o','冒[mào]')).
+assert(celo(fumo,'fum.0o','烟霾[yān mái]')).
+assert(celo(fumo,'fum.0o','硝烟[xiāo yān]')).
+assert(celo(fumo,'fum.0o','熏烤[xūn kǎo]')).
+assert(celo(fumo,'fum.0o','烟[yān]')).
+assert(celo(nefumanto,'fum.ne0anto','禁止吸烟的车厢[jìn zhǐ xī yān de chē xiāng]')).
+assert(celo(nefumanto,'fum.ne0anto','不吸烟者[bù xī yān zhě]')).
+assert(celo(fundo,'fund.0o','因由[yīn yóu]')).
+assert(celo(fundo,'fund.0o','原因[yuán yīn]')).
+assert(celo(ĝisfunda,'','深切[shēn qiè]')).
+assert(celo(ĝisfunda,'','毖[bì]')).
+assert(celo(ĝisfunda,'','好好儿[hǎo hāo r]')).
+assert(celo(ĝisfunda,'','彻底[chè dǐ]')).
+assert(celo(ĝisfunda,'','彻[chè]')).
+assert(celo(senfundaĵo,'fund.sen0ajxo','絕壁[jué bì]')).
+assert(celo(senfundaĵo,'fund.sen0ajxo','阧坎[dǒu kǎn]')).
+assert(celo(senfundaĵo,'fund.sen0ajxo','深坑[shēn kēng]')).
+assert(celo(senfundaĵo,'fund.sen0ajxo','陡坎[dǒu kǎn]')).
+assert(celo(senfundaĵo,'fund.sen0ajxo','无底洞[wú dǐ dòng]')).
+assert(celo(senfundaĵo,'fund.sen0ajxo','悬崖[xuán yá]')).
+assert(celo(surfundaĵo,'fund.sur0ajxo.FIG','渣滓[zhā zǐ]')).
+assert(celo(surfundaĵo,'fund.sur0ajxo.FIG','滓[zǐ]')).
+assert(celo(surfundaĵo,'fund.sur0ajxo.FIG','渣[zhā]')).
+assert(celo(surfundiĝi,'fund.sur0igxi.KOMUNE','创立者[chuàng lì zhě]')).
+assert(celo(surfundiĝi,'fund.sur0igxi.KOMUNE','创办人[chuàng bàn rén]')).
+assert(celo(surfundiĝi,'fund.sur0igxi.KOMUNE','沉醉其中[chén zuì qí zhōng]')).
+assert(celo(surfundiĝi,'fund.sur0igxi.KOMUNE','沉于[chén yú]')).
+assert(celo(surfundiĝi,'fund.sur0igxi.KOMUNE','逝去[shì qù]')).
+assert(celo(fundamenta,'fundam.0a.FIG','基本因素[jī běn yīn sù]')).
+assert(celo(fundamenta,'fundam.0a.FIG','根本[gēn běn]')).
+assert(celo(fundamenta,'fundam.0a.FIG','精深[jīng shēn]')).
+assert(celo(fundamenti,'fundam.0i','基于[jī yú]')).
+assert(celo(fundamentisma,'fundam.0isma','根本上[gēn běn shàng]')).
+assert(celo(fundamentismo,'fundam.0ismo','原教旨主义[yuán jiào zhǐ zhǔ yì]')).
+assert(celo(fundamentismo,'fundam.0ismo','基要主义[jī yào zhǔ yì]')).
+assert(celo(fundamentismo,'fundam.0ismo','基本教义派[jī běn jiào yì pài]')).
+assert(celo(fundamento,'fundam.0o','底座[dǐ zuò]')).
+assert(celo(fundamento,'fundam.0o','基址[jī zhǐ]')).
+assert(celo(fundamento,'fundam.0o','基本面[jī běn miàn]')).
+assert(celo(fundamento,'fundam.0o','基脚[jī jiǎo]')).
+assert(celo(fundamento,'fundam.0o','根基[gēn jī]')).
+assert(celo(fundamento,'fundam.0o','基石[jī shí]')).
+assert(celo(fundamento,'fundam.0o','底子[dǐ zi]')).
+assert(celo(fundamento,'fundam.0o','基座[jī zuò]')).
+assert(celo(funebri,'funebr.0i','悼[dào]')).
+assert(celo(funebri,'funebr.0i','謼[hū]')).
+assert(celo(funebri,'funebr.0i','啼[tí]')).
+assert(celo(funebro,'funebr.0o.moro','追悼会[zhuī dào huì]')).
+assert(celo(funebro,'funebr.0o.moro','丧[sāng]')).
+assert(celo(funelo,'funel.0o','漏斗[lòu dǒu]')).
+assert(celo(fungo,'fung.0o','苓[líng]')).
+assert(celo(fungo,'fung.0o','菌类[jùn lèi]')).
+assert(celo(fungo,'fung.0o','菌[jūn]')).
+assert(celo(fungo,'fung.0o','蘑菇[mó gu]')).
+assert(celo(fungo,'fung.0o','蘑[mó]')).
+assert(celo(fungoj,'fung.0oj','蕈类[xùn lèi]')).
+assert(celo(fungoj,'fung.0oj','真菌[zhēn jūn]')).
+assert(celo(fungoj,'fung.0oj','霉[méi]')).
+assert(celo(gistofungo,'fung.gisto0o','酵母[xiào mǔ]')).
+assert(celo(klabfungoj,'fung.klab0oj','担子菌门[dàn zǐ jùn mén]')).
+assert(celo(lamenfungo,'fung.lamen0o','伞菌目[sǎn jūn mù]')).
+assert(celo(sakfungoj,'fung.sak0oj','子囊菌門[zǐ náng jùn mén]')).
+assert(celo(tubfungo,'fung.tub0o','牛肝菌科[niú gān jūn kē]')).
+assert(celo(funiklo,'funikl.0o.ANA','脐带[qí dài]')).
+assert(celo(funikularo,'','纜索鐵路[lǎn suǒ tiě lù]')).
+assert(celo(funkcii,'funkci.0i.io','事务[shì wù]')).
+assert(celo(funkcii,'funkci.0i.io','正在运转[zhèng zài yùn zhuǎn]')).
+assert(celo(funkcii,'funkci.0i.io','运作[yùn zuò]')).
+assert(celo(funkcii,'funkci.0i.io','正常工作[zhèng cháng gōng zuò]')).
+assert(celo(funkcii,'funkci.0i.io','生效[shēng xiào]')).
+assert(celo(funkciigi,'funkci.0igi','起动[qǐ dòng]')).
+assert(celo(funkciigi,'funkci.0igi','启用[qǐ yòng]')).
+assert(celo(funkciigi,'funkci.0igi','激活[jī huó]')).
+assert(celo(funkciigi,'funkci.0igi','活化[huó huà]')).
+assert(celo(funkciigi,'funkci.0igi','开动[kāi dòng]')).
+assert(celo(funkciismo,'funkci.0ismo','功能主义[gōng néng zhǔ yì]')).
+assert(celo(funkcio,'funkci.0o','机能[jī néng]')).
+assert(celo(funkcio,'funkci.0o','职能[zhí néng]')).
+assert(celo(funkcio,'funkci.0o','功能[gōng néng]')).
+assert(celo(funkcio,'funkci.0o','函数[hán shù]')).
+assert(celo(funkcio,'funkci.0o','波形[bō xíng]')).
+assert(celo(funkcio,'funkci.0o','作用[zuò yòng]')).
+assert(celo(funkciulo,'funkci.0ulo.POL','行政人员[xíng zhèng rén yuán]')).
+assert(celo(funkciulo,'funkci.0ulo.POL','官员[guān yuán]')).
+assert(celo('distribua funkcio','funkci.distribua0o','密度函数[mì dù hán shù]')).
+assert(celo('elementa funkcio','funkci.elementa0o','初等函数[chū děng hán shù]')).
+assert(celo('hiperbola funkcio','funkci.hiperbola0o','双曲函数[shuāng qǔ hán shù]')).
+assert(celo(malfunkcii,'','失[shī]')).
+assert(celo(malfunkcii,'','下水[xià shuǐ]')).
+assert(celo(malfunkciigi,'funkci.mal0igi','关[guān]')).
+assert(celo(malfunkciigi,'funkci.mal0igi','断开[duàn kāi]')).
+assert(celo('polinoma funkcio','funkci.polinoma0o','多項式函數[duō xiàng shì hán shù]')).
+assert(celo('racionala funkcio','funkci.racionala0o','有理函数[yǒu lǐ hán shù]')).
+assert(celo('simpla funkcio','funkci.simpla0o','简单函数[jiǎn dān hán shù]')).
+assert(celo('trigonometria funkcio','funkci.trigonometria0o','三角函数[sān jiǎo hán shù]')).
+assert(celo('sterlinga funto','funt.sterlinga0o','英鎊[yīng bàng]')).
+assert(celo('sterlinga funto','funt.sterlinga0o','鎊[bàng]')).
+assert(celo(furo,'fur.0o','雪貂[xuě diāo]')).
+assert(celo(furaĝo,'furagx.0o','蒭秣[chú mò]')).
+assert(celo(furaĝo,'furagx.0o','刍秣[chú mò]')).
+assert(celo(furaĝo,'furagx.0o','食[shí]')).
+assert(celo(furaĝujo,'','樎[sù]')).
+assert(celo(furiero,'furier.0o','军需官[jūn xū guān]')).
+assert(celo(furioza,'furioz.0a','猖獗[chāng jué]')).
+assert(celo(furiozeco,'furioz.0eco','大发脾气[dà fā pí qi]')).
+assert(celo(furiozeco,'furioz.0eco','恼怒[nǎo nù]')).
+assert(celo(furiozi,'furioz.0i','肆虐[sì nüè]')).
+assert(celo(furiozi,'furioz.0i','气昏[qì hūn]')).
+assert(celo(furori,'furor.0i','引起很大轟動[yǐn qǐ hěn dà hōng dòng]')).
+assert(celo(furori,'furor.0i','震惊[zhèn jīng]')).
+assert(celo(furoro,'','轟動[hōng dòng]')).
+assert(celo(furoro,'','引人注目[yǐn rén zhù mù]')).
+assert(celo(furunko,'furunk.0o','疔[dīng]')).
+assert(celo(furzi,'furz.0i','屁[pì]')).
+assert(celo(furzi,'furz.0i','发屁[fā pì]')).
+assert(celo(furzo,'furz.0o','屁[pì]')).
+assert(celo(fusto,'fust.0o.ARKI','柱身[zhù shēn]')).
+assert(celo(fuŝaĵo,'fusx.0ajxo','偷工减料[tōu gōng jiǎn liào]')).
+assert(celo(fuŝaĵo,'fusx.0ajxo','馬虎的工作[mǎ hǔ de gōng zuò]')).
+assert(celo(fuŝi,'fusx.0i','偷工减料[tōu gōng jiǎn liào]')).
+assert(celo(fuŝo,'fusx.0o','馬虎的工作[mǎ hǔ de gōng zuò]')).
+assert(celo(fuŝulo,'fusx.0ulo0isto','工作馬虎的人[gōng zuò mǎ hǔ de rén]')).
+assert(celo(fuŝulo,'fusx.0ulo0isto','半瓶子醋[bàn píng zi cù]')).
+assert(celo(fuŝulo,'fusx.0ulo0isto','經驗不夠的人[jīng yàn bù gòu de rén]')).
+assert(celo(fuŝulo,'fusx.0ulo0isto','笨拙者[bèn zhuō zhě]')).
+assert(celo(fuŝulo,'fusx.0ulo0isto','愚笨的人[yú bèn de rén]')).
+assert(celo(fuŝulo,'fusx.0ulo0isto','圆石[yuán shí]')).
+assert(celo(futbalo,'futbal.0o','最显著的位置[zuì xiǎn zhù de wèi zhì]')).
+assert(celo(futbalo,'futbal.0o','英式足球[yīng shì zú qiú]')).
+assert(celo(fubalist,'','足球球员[zú qiú qiú yuán]')).
+assert(celo(fubalist,'','足球运动员[zú qiú yùn dòng yuán]')).
+assert(celo(tablofutbalo,'futbal.tablo0o','桌上足球[zhuō shàng zú qiú]')).
+assert(celo(futurismo,'futur.0ismo','未來主義[wèi lái zhǔ yì]')).
+assert(celo(futurismo,'futur.0ismo','未來派[wèi lái pài]')).
+assert(celo(futuro,'futur.0o.GRA','未來[wèi lái]')).
+assert(celo(fuzi,'fuz.0i','烧毁[shāo huǐ]')).
+assert(celo(fuzelaĝo,'fuzela.0o','机身[jī shēn]')).
+assert(celo(fuzio,'','兼併[jiān bìng]')).
+assert(celo(fuzio,'','聚变反应[jù biàn fǎn yìng]')).
+assert(celo(fuziliero,'fuzili.0o','射击运动员[shè jí yùn dòng yuán]')).
