@@ -1749,3 +1749,1055 @@ assert(celo(bekfluto,'flut.bek0o','直笛[zhí dí]')).
 assert(celo(pajnofluto,'flut.pajno0o','排萧[pái xiāo]')).
 assert(celo(sakfluto,'flut.sak0o','風笛[fēng dí]')).
 assert(celo('transversa fluto','flut.transversa0o','長笛[cháng dí]')).
+assert(celo(fobio,'fobi.0o','恐惧症[kǒng jù zhèng]')).
+assert(celo(fobio,'fobi.0o','恐惧[kǒng jù]')).
+assert(celo(fremdofobio,'fobi.fremdo0o','廉价旅店[lián jià lǚ diàn]')).
+assert(celo(fremdofobio,'fobi.fremdo0o','惧外[jù wài]')).
+assert(celo(fremdofobio,'','仇外[chóu wài]')).
+assert(celo(foino,'foin.0o','石貂[shí diāo]')).
+assert(celo(foirejo,'foir.0ejo','市集广场[shì jí guǎng chǎng]')).
+assert(celo(foirejo,'foir.0ejo','传统市场[chuán tǒng shì chǎng]')).
+assert(celo(foirejo,'foir.0ejo','廛[chán]')).
+assert(celo(foirejo,'foir.0ejo','市井[shì jǐng]')).
+assert(celo(foirejo,'foir.0ejo','市场[shì chǎng]')).
+retractall(celo(foirejo,_,_),5).
+assert(celo(foiro,'foir.0o','交易会[jiāo yì huì]')).
+assert(celo(foiro,'foir.0o','展覽會[zhǎn lǎn huì]')).
+assert(celo(foiro,'foir.0o','展区[zhǎn qū]')).
+assert(celo(foirejo,'','博覽會所在地[bó lǎn huì suǒ zài dì]')).
+assert(celo(foirejo,'','展覽地[zhǎn lǎn de]')).
+assert(celo(fojfoje,'foj.00e','不时[bù shí]')).
+assert(celo(fojfoje,'foj.00e','某时[mǒu shí]')).
+assert(celo(foje,'foj.0e.fojfoje','有时侯[yǒu shí hòu]')).
+assert(celo(foje,'foj.0e.fojfoje','有时候[yǒu shí hou]')).
+assert(celo(foje,'foj.0e.fojfoje','日后[rì hòu]')).
+assert(celo(foje,'foj.0e.fojfoje','偶尔[ǒu ěr]')).
+assert(celo(fojo,'','一遍[yī biàn]')).
+assert(celo(ankoraŭfoje,'','再一次[zài yī cì]')).
+assert(celo(ankoraŭfoje,'','再次[zài cì]')).
+assert(celo(ankoraŭfoje,'','复[fù]')).
+assert(celo(ankoraŭfoje,'','又[yòu]')).
+assert(celo(ankoraŭfoje,'','再[zài]')).
+assert(celo(ĉiufjoe,'','遭[zāo]')).
+assert(celo(ĉiufjoe,'','每当[měi dāng]')).
+assert(celo(ĉiufjoe,'','每[měi]')).
+assert(celo(ĉiufjoe,'','每次[měi cì]')).
+assert(celo(ĉiufjoe,'','次次[cì cì]')).
+assert(celo(ĉiufjoe,'','回回[huí hui]')).
+assert(celo(kelkafoje,'foj.kelka0e','有时侯[yǒu shí hòu]')).
+assert(celo(kelkafoje,'foj.kelka0e','有时候[yǒu shí hou]')).
+assert(celo(kelkafoje,'foj.kelka0e','日后[rì hòu]')).
+assert(celo(kelkafoje,'foj.kelka0e','偶尔[ǒu ěr]')).
+assert(celo(kelkafoje,'foj.kelka0e','某时[mǒu shí]')).
+assert(celo(multfoje,'foj.mult0e','很多时[hěn duō shí]')).
+assert(celo(multfoje,'foj.mult0e','往往[wǎng wǎng]')).
+assert(celo(multfoje,'foj.mult0e','时常[shí cháng]')).
+assert(celo(multfoje,'foj.mult0e','屡次[lǚ cì]')).
+assert(celo(multfoje,'foj.mult0e','勤[qín]')).
+assert(celo(refoje,'foj.re0e','再次[zài cì]')).
+assert(celo(refoje,'foj.re0e','再一次[zài yī cì]')).
+assert(celo(refoje,'foj.re0e','再[zài]')).
+assert(celo(refoje,'foj.re0e','复[fù]')).
+assert(celo(unuafoje,'foj.unua0e','首次[shǒu cì]')).
+assert(celo(unuafoje,'foj.unua0e','第一次[dì yī cì]')).
+assert(celo(fojero,'fojer.0o.SNC','入口大厅[rù kǒu dà tīng]')).
+assert(celo(fojero,'fojer.0o.SNC','門廳[mén tīng]')).
+assert(celo(fojero,'fojer.0o.SNC','大堂[dà táng]')).
+assert(celo(fojero,'fojer.0o.SNC','剧院休息室[jù yuàn xiū xī shì]')).
+assert(celo(fojno,'fojn.0o','乾草[gān cǎo]')).
+assert(celo(fojno,'fojn.0o','蒭[chú]')).
+assert(celo(foko,'fok.0o','海豹[hǎi bào]')).
+assert(celo(fojnado,'','收割[shōu gē]')).
+assert(celo(fokedoj,'foked.0oj','海豹科[hǎi bào kē]')).
+assert(celo(fokstroto,'fokstrot.0o','狐步[hú bù]')).
+assert(celo(fokusi,'fokus.0i','对焦点[duì jiāo diǎn]')).
+assert(celo(fokusi,'fokus.0i','調焦[tiáo jiāo]')).
+assert(celo(fokusi,'fokus.0i','聚焦[jù jiāo]')).
+assert(celo(fokusiĝi,'','专注[zhuān zhù]')).
+assert(celo(fokusiĝi,'','只管[zhǐ guǎn]')).
+assert(celo(fokuso,'fokus.0o','焦点[jiāo diǎn]')).
+assert(celo(fola,'','妄[wàng]')).
+assert(celo(foli,'fol.0i','使平整[shǐ píng zhěng]')).
+assert(celo(folado,'folad.0o','鑽床[zuàn chuáng]')).
+assert(celo(foldi,'fold.0i','沟道[gōu dào]')).
+assert(celo(foldo,'fold.0o','楔眼[xiē yǎn]')).
+assert(celo(foldo,'fold.0o','榫槽[sǔn cáo]')).
+assert(celo(foliaro,'foli.0aro.BOT','綠樹[lü shù]')).
+assert(celo(folio,'foli.0o.BOT','叶[yè]')).
+assert(celo(folio,'foli.0o.BOT','頁[yè]')).
+assert(celo(foliaro,'','树或植物叶[shù huò zhí wù yè]')).
+assert(celo(foliaro,'','群叶[qún yè]')).
+assert(celo(foliumi,'foli.0umi','略讀[lüè dú]')).
+assert(celo(foliumi,'foli.0umi','翻动[fān dòng]')).
+assert(celo(foliumi,'foli.0umi','流覽[liú lǎn]')).
+assert(celo(foliumi,'foli.0umi','翻頁[fān yè]')).
+assert(celo(foliumi,'foli.0umi','翻过[fān guò]')).
+assert(celo(trafolii,'foli.0umi','翻看[fān kàn]')).
+assert(celo(trafolii,'foli.0umi','翻书[fān shū]')).
+assert(celo(trafolii,'foli.0umi','翻閱[fān yuè]')).
+assert(celo(foliumilo,'','浏览者[liú lǎn zhě]')).
+assert(celo(foliumilo,'','浏览器[liú lǎn qì]')).
+assert(celo(florfolio,'foli.flor0o','开花的植物[kāi huā de zhí wù]')).
+assert(celo(florfolio,'foli.flor0o','瓣[bàn]')).
+assert(celo(flugfolio,'foli.flug0o','散頁印刷品[sàn yè yìn shuà pǐn]')).
+assert(celo(flugfolio,'foli.flug0o','传单[chuán dān]')).
+assert(celo(trifolio,'foli.tri0o','苜蓿草[mù sù cǎo]')).
+assert(celo(trifolio,'foli.tri0o','車軸草屬[chē zhóu cǎo shǔ]')).
+assert(celo(trifolio,'foli.tri0o','三叶草属[sān yè cǎo shǔ]')).
+assert(celo(trifolio,'foli.tri0o','苜[mù]')).
+assert(celo(trifolio,'foli.tri0o','三叶草[sān yè cǎo]')).
+assert(celo(foliklo,'folikl.0o.ANA','骨突[gǔ tū]')).
+assert(celo(foliklo,'folikl.0o.ANA','滤泡[lü pào]')).
+assert(celo(foliklo,'folikl.0o.ANA','蓇[gǔ]')).
+assert(celo(foliklo,'folikl.0o.ANA','小囊[xiǎo náng]')).
+assert(celo(foliklo,'folikl.0o.ANA','蓇葖果[gǔ tú guǒ]')).
+assert(celo(foliklo,'folikl.0o.ANA','葖[tú]')).
+assert(celo(folklora,'folklo.0a','民間[mín jiān]')).
+assert(celo(folkloristo,'','民俗学者[mín sú xué zhě]')).
+assert(celo(folkloristo,'','民俗学研究者[mín sú xué yán jiū zhē]')).
+assert(celo(folkloro,'folklo.0o','民俗学[mín sú xué]')).
+assert(celo(folkloro,'folklo.0o','民間藝術[mín jiān yì shù]')).
+assert(celo(fona,'fon.0a.malgrava','宥[yòu]')).
+assert(celo(fona,'fon.0a.malgrava','沕[wù]')).
+assert(celo(fona,'fon.0a.malgrava','閟[bì]')).
+assert(celo('fona reĝimo','fon.0a_regximo','后台处理[hòu tái chǔ lǐ]')).
+assert(celo(fono,'fon.0o','本底[běn dǐ]')).
+assert(celo(fono,'fon.0o','來頭[lái tou]')).
+assert(celo(fono,'fon.0o','底[dǐ]')).
+assert(celo(fona,'','在后台[zài hòu tái]')).
+assert(celo(malfono,'fon.mal0o','前面部分[qián mian bù fen]')).
+assert(celo(malfono,'fon.mal0o','突出的地位[tū chū de dì wèi]')).
+assert(celo(malfono,'fon.mal0o','前景[qián jǐng]')).
+assert(celo(fondaĵo,'fond.0ajxo','基金会[jī jīn huì]')).
+assert(celo(fondi,'fond.0i','创设[chuàng shè]')).
+assert(celo(fondi,'fond.0i','创办[chuàng bàn]')).
+assert(celo(fondi,'fond.0i','创始[chuàng shǐ]')).
+assert(celo(fondi,'fond.0i','兴办[xīng bàn]')).
+assert(celo(fondi,'fond.0i','创建于[chuàng jiàn yú]')).
+assert(celo(fondi,'fond.0i','始建[shǐ jiàn]')).
+assert(celo(fondi,'fond.0i','奠定[diàn dìng]')).
+assert(celo(fondi,'fond.0i','建厂[jiàn chǎng]')).
+assert(celo(fondi,'fond.0i','创立[chuàng lì]')).
+assert(celo(fondi,'fond.0i','尌[shù]')).
+assert(celo(fondi,'fond.0i','成立[chéng lì]')).
+assert(celo(fondinto,'fond.0into','漂浮物[piāo fú wù]')).
+assert(celo(fondinto,'fond.0into','漂浮者[piāo fú zhě]')).
+assert(celo(fondinto,'fond.0into','创立者[chuàng lì zhě]')).
+assert(celo(fondinto,'fond.0into','締造者[dì zào zhě]')).
+assert(celo(fondinto,'fond.0into','创办者[chuàng bàn zhě]')).
+assert(celo(fondinto,'fond.0into','女创立者[nǚ chuàng lì zhě]')).
+assert(celo(fondinto,'fond.0into','创立人[chuàng lì rén]')).
+assert(celo(fondinto,'fond.0into','起业家[qǐ yè jiā]')).
+assert(celo(fondinto,'fond.0into','创始者[chuàng shǐ zhě]')).
+assert(celo(fondinto,'fond.0into','创办人[chuàng bàn rén]')).
+assert(celo(fondo,'fond.0o','柢[dǐ]')).
+assert(celo(fondo,'fond.0o','基[jī]')).
+assert(celo(fondiĝo,'fond.0o','柢[dǐ]')).
+assert(celo(fondiĝo,'fond.0o','基[jī]')).
+assert(celo(fonduo,'fondu.0o','涮[shuàn]')).
+assert(celo(fonduo,'fondu.0o','芝士火鍋[zhī shì huǒ guō]')).
+assert(celo(fonduso,'fondus.0o','資金[zī jīn]')).
+assert(celo(fonemo,'fonem.0o','音值[yīn zhí]')).
+assert(celo(fonemo,'fonem.0o','音位[yīn wèi]')).
+assert(celo(fonemo,'fonem.0o','音素[yīn sù]')).
+assert(celo(fonetika,'foneti.0a.konforma','圪[gē]')).
+assert(celo(fonetika,'foneti.0a.konforma','哔[bì]')).
+assert(celo(fonetika,'foneti.0a.konforma','靼[dá]')).
+assert(celo(fonetika,'foneti.0a.konforma','表音[biǎo yīn]')).
+retractall(celo(fonetika,_,_),4).
+assert(celo(fonetika,'foneti.0a.konforma','表音[biǎo yīn]')).
+assert(celo(fonetiko,'foneti.0o','語音學[yǔ yīn xué]')).
+assert(celo(fonografo,'fonogr.0o','留声机[liú shēng jī]')).
+assert(celo(fonologio,'fonologi.0o','音韵学[yīn yùn xué]')).
+assert(celo(fonti,'font.0i','发源于[fā yuán yú]')).
+assert(celo(fonti,'font.0i','起于[qǐ yú]')).
+assert(celo(fonti,'font.0i','來源於[lái yuán yú]')).
+assert(celo(fonti,'font.0i','弹起来[dàn qǐ lai]')).
+assert(celo(fonti,'font.0i','发源[fā yuán]')).
+assert(celo(fonti,'font.0i','崛起[jué qǐ]')).
+assert(celo(fonti,'font.0i','腾[téng]')).
+assert(celo(fonti,'font.0i','源于[yuán yú]')).
+assert(celo(fonto,'font.0o','源[yuán]')).
+assert(celo(fonto,'font.0o','來源[lái yuán]')).
+assert(celo(fonto,'font.0o','資料來源[zī liào lái yuán]')).
+assert(celo(fonto,'font.0o','泉[quán]')).
+assert(celo(fonto,'font.0o','水源[shuǐ yuán]')).
+assert(celo(fonto,'font.0o','泉水[quán shuǐ]')).
+assert(celo(fonto,'font.0o','索尔斯[suǒ ěr sī]')).
+assert(celo(fonto,'font.0o','泉源[quán yuán]')).
+assert(celo(fonto,'font.0o','数据来源[shù jù lái yuán]')).
+assert(celo(fonto,'font.0o','出处[chū chù]')).
+assert(celo(varmfonto,'font.varm0o.GEOL','公共浴室[gōng gòng yù shì]')).
+assert(celo(varmofonto,'font.varm0o.GEOL','公共浴室[gōng gòng yù shì]')).
+assert(celo(fontano,'','喷泉[pēn quán]')).
+assert(celo(forforejo,'for.00ejo','荒地[huāng dì]')).
+assert(celo(fora,'for.0a.KOMUNE','緬[miǎn]')).
+assert(celo(fora,'for.0a.KOMUNE','远隔[yuǎn gé]')).
+assert(celo(fora,'for.0a.KOMUNE','渺[miǎo]')).
+assert(celo(fora,'for.0a.KOMUNE','逴[chuò]')).
+assert(celo(fora,'for.0a.KOMUNE','遐[xiá]')).
+assert(celo(fora,'for.0a.KOMUNE','渺茫[miǎo máng]')).
+assert(celo(fora,'for.0a.KOMUNE','辽[liáo]')).
+assert(celo(fore,'for.0e','远离[yuǎn lí]')).
+assert(celo(fore,'for.0e','僻[pì]')).
+assert(celo(forigi,'for.0igi','慾刪除[yù shān chú]')).
+assert(celo(forigi,'for.0igi','慾移動[yù yí dòng]')).
+assert(celo(forigi,'for.0igi','远距离[yuǎn jù lí]')).
+assert(celo(forigi,'for.0igi','离去[lí qù]')).
+assert(celo(forigi,'for.0igi','疏远[shū yuǎn]')).
+assert(celo(forigi,'for.0igi','移除[yí chú]')).
+assert(celo(forigi,'for.0igi','淸除[qīng chú]')).
+assert(celo(forigi,'for.0igi','撤[chè]')).
+assert(celo(forigi,'for.0igi','除去[chú qù]')).
+assert(celo(forigi,'for.0igi','消去[xiāo qù]')).
+assert(celo(forigi,'for.0igi','去除[qù chú]')).
+assert(celo(forigi,'for.0igi','汰[tài]')).
+assert(celo(forigi,'for.0igi','淘[táo]')).
+assert(celo(forigi,'for.0igi','轍[chè]')).
+assert(celo(foriĝi,'for.0igxi','消失[xiāo shī]')).
+assert(celo(foro,'for.0o','远国[yuǎn guó]')).
+assert(celo(foro,'for.0o','遙遠的過去將來[yáo yuǎn de guò qu jiāng lái]')).
+assert(celo(foro,'for.0o','遙遠[yáo yuǎn]')).
+assert(celo(foro,'for.0o','远方[yuǎn fāng]')).
+assert(celo(defora,'for.de0a.TEK','从远方[cóng yuǎn fāng]')).
+assert(celo(defora,'for.de0a.TEK','不远万里[bù yuǎn wàn lǐ]')).
+assert(celo('forceja efiko','forc.0ejaefiko','温室效应[wēn shì xiào yìng]')).
+assert(celo(forcejo,'forc.0ejo','暖房[nuǎn fáng]')).
+assert(celo(forcejo,'forc.0ejo','暖室[nuǎn shì]')).
+assert(celo(forcejo,'forc.0ejo','温室[wēn shì]')).
+assert(celo(forcepso,'forcep.0o','鑷[niè]')).
+assert(celo(forfikulo,'forfik.0o','耳夹子虫[ěr jiā zǐ chóng]')).
+assert(celo(forgesema,'forges.0ema','善忘[shàn wàng]')).
+assert(celo(forgesema,'forges.0ema','易亡[yì wáng]')).
+assert(celo(forgesema,'forges.0ema','健忘[jiàn wàng]')).
+assert(celo(forgesema,'forges.0ema','糊塗[hú tu]')).
+assert(celo(forgeso,'forges.0o','遗忘[yí wàng]')).
+assert(celo(memforgeso,'forges.mem0o.malegosimo','不自私[bú zì sī]')).
+assert(celo(memforgeso,'forges.mem0o.malegosimo','无欲[wú yù]')).
+assert(celo(memforgeso,'forges.mem0o.malegosimo','无私[wú sī]')).
+assert(celo(sinforgeso,'forges.mem0o.malegosimo','不自私[bú zì sī]')).
+assert(celo(sinforgeso,'forges.mem0o.malegosimo','无欲[wú yù]')).
+assert(celo(sinforgeso,'forges.mem0o.malegosimo','无私[wú sī]')).
+assert(celo(neforgesebla,'forges.ne0ebla','难忘[nán wàng]')).
+assert(celo(neforgesebla,'forges.ne0ebla','忘不了[wàng bù liǎo]')).
+assert(celo(neforgesebla,'forges.ne0ebla','成癖[chéng pǐ]')).
+assert(celo(neforgesebla,'forges.ne0ebla','令人难忘[lìng rén nán wàng]')).
+assert(celo(neforgesebla,'forges.ne0ebla','永銘於心[yǒng míng yú xīn]')).
+assert(celo(neforgesumino,'forges.ne0umino','勿忘草[wù wàng cǎo]')).
+assert(celo(senforgese,'forges.sen0e.KOMUNE','有責任心[yǒu zé rèn xīn]')).
+assert(celo(forĝi,'forgx.0i','鍛[duàn]')).
+assert(celo(forĝi,'forgx.0i','鍛造[duàn zào]')).
+assert(celo(forĝi,'forgx.0i','錘打[chuí dǎ]')).
+assert(celo(forĝisto,'forgx.0isto','鐵匠[tiě jiang]')).
+assert(celo(kunforĝi,'forgx.kun0i','使結合[shǐ jié hé]')).
+assert(celo(forinto,'forint.0o','福林[fú lín]')).
+assert(celo(forkego,'fork.0ego','粪耙[fèn bà]')).
+assert(celo(forkego,'fork.0ego','探听丑闻[tàn tīng chǒu wén]')).
+assert(celo(forkego,'fork.0ego','粪叉子[fèn chā zi]')).
+assert(celo(forkego,'fork.0ego','堆肥用耙[duī féi yòng bà]')).
+assert(celo(forkego,'fork.0ego','揭开丑闻[jiē kāi chǒu wén]')).
+assert(celo(forkego,'fork.0ego','揭发丑闻[jiē fā chǒu wén]')).
+assert(celo(forkego,'fork.0ego','草耙[cǎo bà]')).
+assert(celo(forkego,'fork.0ego','干草叉[gàn cǎo chā]')).
+assert(celo(forkego,'fork.0ego','杈[chā]')).
+assert(celo(forko,'fork.0o','叉子[chā zi]')).
+assert(celo(forko,'fork.0o','叉[chā]')).
+assert(celo(forkiĝi,'','发枝[fā zhī]')).
+assert(celo(vojforko,'fork.voj0o','丫[yā]')).
+assert(celo(vojforko,'fork.voj0o','桠[yā]')).
+assert(celo(vojforko,'fork.voj0o','岔路口[chà lù kǒu]')).
+assert(celo(vojforko,'fork.voj0o','交叉路口[jiāo chā lù kǒu]')).
+assert(celo(formado,'form.0ado','素养[sù yǎng]')).
+assert(celo(formado,'form.0ado','設立[shè lì]')).
+assert(celo(formaĵo,'form.0ajxo','制模[zhì mó]')).
+assert(celo(formi,'form.0i','建模[jiàn mó]')).
+assert(celo(formi,'form.0i','成型[chéng xíng]')).
+assert(celo(formi,'form.0i','使成型[shǐ chéng xíng]')).
+assert(celo(formi,'form.0i','造形[zào xíng]')).
+assert(celo(formi,'form.0i','表格紙[biǎo gé zhǐ]')).
+assert(celo(formi,'form.0i','空表格[kōng biǎo gé]')).
+assert(celo(formi,'form.0i','結成[jié chéng]')).
+assert(celo(formi,'form.0i','形像[xíng xiàng]')).
+assert(celo(formi,'form.0i','构[gòu]')).
+assert(celo(formi,'form.0i','打制[dǎ zhì]')).
+assert(celo(formitaĵo,'form.0itajxo','形成之物或机构[xíng chéng zhī wù huò jī gòu]')).
+assert(celo(formo,'form.0o','形式[xíng shì]')).
+assert(celo(alformiĝi,'form.al0igxi','变通[biàn tōng]')).
+assert(celo(alformiĝi,'form.al0igxi','融合[róng hé]')).
+assert(celo(aliformi,'form.ali0i','化[huà]')).
+assert(celo(aliformi,'form.ali0i','使变形[shǐ biàn xíng]')).
+assert(celo(aliformi,'form.ali0i','使变化[shǐ biàn huà]')).
+assert(celo(aliformi,'form.ali0i','更改[gēng gǎi]')).
+assert(celo(aliformi,'form.ali0i','轉換[zhuǎn huàn]')).
+assert(celo(aliformi,'form.ali0i','改变[gǎi biàn]')).
+assert(celo('diferenciala formo','form.diferenciala0o','微分形式[wēi fēn xíng shì]')).
+assert(celo(karesformo,'form.kares0o','愛稱[ài chēng]')).
+assert(celo(longoforma,'form.longo0a','稍長[shāo zhǎng]')).
+assert(celo(longoforma,'form.longo0a','略長[lüè cháng]')).
+assert(celo(longforma,'form.longo0a','稍長[shāo zhǎng]')).
+assert(celo(longforma,'form.longo0a','略長[lüè cháng]')).
+assert(celo(misformi,'','外形难看[wài xíng nán kàn]')).
+assert(celo(misformi,'','宠坏[chǒng huài]')).
+assert(celo(misformi,'','走样[zǒu yàng]')).
+assert(celo(misformi,'','弄歪[nòng wāi]')).
+assert(celo(plenforma,'form.plen0a','完全[wán quán]')).
+assert(celo(reformi,'form.re0i','重整[chóng zhěng]')).
+assert(celo(reformismo,'form.re0ismo','改良主义[gǎi liáng zhǔ yì]')).
+assert(celo(reformisto,'form.re0isto','改良主义者[gǎi liáng zhǔ yì zhě]')).
+assert(celo(samformi,'','平滑[píng huá]')).
+assert(celo(samformi,'','平坦[píng tǎn]')).
+assert(celo(transformilo,'form.trans0ilo','变压器[biàn yā qì]')).
+assert(celo(transformo,'form.trans0o','变身[biàn shēn]')).
+assert(celo(transformo,'form.trans0o','轉換[zhuǎn huàn]')).
+assert(celo(transformo,'form.trans0o','轉變[zhuǎn biàn]')).
+assert(celo(transformo,'form.trans0o','嬗变[shàn biàn]')).
+assert(celo(transformo,'form.trans0o','变化[biàn huà]')).
+assert(celo(unuforma,'form.unu0a','具有同型結構[jù yǒu tóng xíng jié gòu]')).
+assert(celo(unuforma,'form.unu0a','连声[lián shēng]')).
+assert(celo(unuforma,'','齊整[qí zhěng]')).
+assert(celo(formacio,'formac.0o.GEOL','要素的結構[yào sù de jié gòu]')).
+assert(celo(formalaĵo,'formal.0ajxo','正式流程[zhèng shì liú chéng]')).
+assert(celo(formalaĵo,'formal.0ajxo','礼仪[lǐ yí]')).
+assert(celo(formalaĵo,'formal.0ajxo','技术细节[jì shù xì jié]')).
+assert(celo(formalaĵo,'formal.0ajxo','专门的事项[zhuān mén de shì xiàng]')).
+assert(celo(formalaĵo,'formal.0ajxo','专门性[zhuān mén xìng]')).
+assert(celo(formalaĵo,'formal.0ajxo','礼节[lǐ jié]')).
+assert(celo(formalaĵo,'formal.0ajxo','手續[shǒu xù]')).
+assert(celo(formala,'','形式上[xíng shì shàng]')).
+assert(celo(malformala,'formal.mal0a','沒有形狀[méi yǒu xíng zhuàng]')).
+assert(celo(malformala,'formal.mal0a','无定形[wú dìng xíng]')).
+assert(celo(malformala,'formal.mal0a','非正式[fēi zhèng shì]')).
+assert(celo(formaldehido,'formal1.0o','甲醛[jiǎ quán]')).
+assert(celo(formikejo,'formik.0ejo','垤[dié]')).
+assert(celo(formiko,'formik.0o.KOMUNE','蚂[mǎ]')).
+assert(celo(formiko,'formik.0o.KOMUNE','螘[yǐ]')).
+assert(celo(formiko,'formik.0o.KOMUNE','蚂蚁[mǎ yǐ]')).
+assert(celo(formiko,'formik.0o.KOMUNE','蚁[yǐ]')).
+assert(celo(formolo,'formol.0o','福馬林[fú mǎ lín]')).
+assert(celo(formolo,'formol.0o','甲醛水[jiǎ quán shuǐ]')).
+assert(celo(formularo,'formul.0aro.POL','登記錶[dēng jì biǎo]')).
+assert(celo(formularo,'formul.0aro.POL','单[dān]')).
+assert(celo(formulo,'formul.0o.vorta','提法[tí fǎ]')).
+assert(celo(formulo,'formul.0o.vorta','简洁陈述[jiǎn jié chén shù]')).
+assert(celo(formulo,'formul.0o.vorta','公式化[gōng shì huà]')).
+assert(celo(formulo,'formul.0o.vorta','說法[shuō fa]')).
+assert(celo(formulo,'formul.0o.simbola','程試[chéng shì]')).
+assert(celo(formulo,'formul.0o.simbola','式子[shì zi]')).
+assert(celo(formulo,'formul.0o.simbola','客套話[kè tào huà]')).
+assert(celo(formulo,'formul.0o.simbola','程[chéng]')).
+assert(celo(sorĉformulo,'formul.sorcx0o','拼[pīn]')).
+assert(celo(fornego,'forn.0ego','高炉[gāo lú]')).
+assert(celo(forno,'forn.0o','烤炉[kǎo lú]')).
+assert(celo(altforno,'','高炉[gāo lú]')).
+assert(celo(bakforno,'','烘箱[hōng xiāng]')).
+assert(celo(bakforno,'','烤箱[kǎo xiāng]')).
+assert(celo(bakforno,'','炉子[lú zi]')).
+assert(celo(bakforno,'','火炉[huǒ lú]')).
+assert(celo(fandforno,'forn.fand0o','高炉[gāo lú]')).
+assert(celo(hejtoforno,'','炉火取暖[lú huǒ qǔ nuǎn]')).
+assert(celo(hejtoforno,'','烧煤取暖[shāo méi qǔ nuǎn]')).
+assert(celo(kuirforno,'','灶[zào]')).
+assert(celo(kuirforno,'','垆[lú]')).
+assert(celo(fornelo,'fornel.0o','灶[zào]')).
+assert(celo(fornelo,'fornel.0o','炉灶[lú zào]')).
+assert(celo(fornelo,'fornel.0o','炉[lú]')).
+assert(celo(elektrofornelo,'fornel.elektro0o','电炉灶[diàn lú zào]')).
+assert(celo(gasfornelo,'fornel.gas0o','燃气灶[rán qì zào]')).
+assert(celo(gasfornelo,'fornel.gas0o','煤气灶[méi qì zào]')).
+assert(celo(gasfornelo,'fornel.gas0o','瓦斯炉[wǎ sī lú]')).
+assert(celo('gasa fornelo','fornel.gas0o','燃气灶[rán qì zào]')).
+assert(celo('gasa fornelo','fornel.gas0o','煤气灶[méi qì zào]')).
+assert(celo('gasa fornelo','fornel.gas0o','瓦斯炉[wǎ sī lú]')).
+assert(celo(karbofornelo,'fornel.karbo0o','煤灶[méi zào]')).
+assert(celo(fornikso,'fornik.0o','穹窿[qiōng lóng]')).
+assert(celo(fornikso,'fornik.0o','拱頂[gǒng dǐng]')).
+assert(celo(fornikso,'fornik.0o','山凹[shān wā]')).
+assert(celo(fornikso,'fornik.0o','拱形結構[gǒng xíng jié gòu]')).
+assert(celo(forsitio,'forsiti.0o','连翘[lián qiáo]')).
+assert(celo(forsto,'forst.0o','森[sēn]')).
+assert(celo(forsto,'forst.0o','森林[sēn lín]')).
+assert(celo(forta,'fort.0a','強[qiǎng]')).
+assert(celo(forta,'fort.0a','強壯[qiáng zhuàng]')).
+assert(celo(forta,'fort.0a','敃[mǐn]')).
+assert(celo(forta,'fort.0a','刚健[gāng jiàn]')).
+assert(celo(forta,'fort.0a','壮[zhuàng]')).
+assert(celo(forta,'fort.0a','劲[jìng]')).
+assert(celo(forta,'fort.0a','雄健[xióng jiàn]')).
+assert(celo(forta,'fort.0a','坚牢[jiān láo]')).
+assert(celo(forta,'fort.0a','精壮[jīng zhuàng]')).
+assert(celo(forta,'fort.0a','重地[zhòng dì]')).
+assert(celo(forta,'fort.0a','硬实[yìng shí]')).
+assert(celo(forta,'fort.0a','壮硕[zhuàng shuò]')).
+assert(celo(forta,'fort.0a','坚毅地[jiān yì de]')).
+assert(celo(forta,'fort.0a','刚劲[gāng jìng]')).
+assert(celo(forta,'fort.0a','健全[jiàn quán]')).
+assert(celo(forta,'fort.0a','遒[qiú]')).
+assert(celo(fortega,'fort.0ega','上脸[shàng liǎn]')).
+assert(celo(fortega,'fort.0ega','横[hèng]')).
+assert(celo(fortega,'fort.0ega','巨大[jù dà]')).
+assert(celo(fortigi,'fort.0igi','棐[fěi]')).
+assert(celo(fortigi,'fort.0igi','壮大[zhuàng dà]')).
+assert(celo(fortigi,'fort.0igi','健[jiàn]')).
+assert(celo(fortigi,'fort.0igi','坚强[jiān qiáng]')).
+assert(celo(fortigi,'fort.0igi','加强[jiā qiáng]')).
+assert(celo(fortigi,'fort.0igi','增強[zēng qiáng]')).
+assert(celo(fortigi,'fort.0igi','淀粉构成[diàn fěn gòu chéng]')).
+assert(celo(fortigi,'fort.0igi','恢复精力[huī fù jīng lì]')).
+assert(celo(fortigi,'fort.0igi','使強壯[shǐ qiáng zhuàng]')).
+assert(celo(fortigi,'fort.0igi','使精力充沛[shǐ jīng lì chōng pèi]')).
+assert(celo(fortigi,'fort.0igi','恢复体力[huī fù tǐ lì]')).
+assert(celo(fortigi,'fort.0igi','面糊[miàn hú]')).
+assert(celo(fortigi,'fort.0igi','浆[jiāng]')).
+assert(celo(forto,'fort.0o.solideco','坚固性[jiān gù xìng]')).
+assert(celo(forto,'fort.0o.solideco','安定性[ān dìng xìng]')).
+assert(celo(forto,'fort.0o.solideco','持久性[chí jiǔ xìng]')).
+assert(celo(forto,'fort.0o.solideco','屹立不移[yì lì bù yí]')).
+assert(celo(forto,'fort.0o.solideco','恆久不變[héng jiǔ bù biàn]')).
+assert(celo(forto,'fort.0o.kapablo','力量[lì liang]')).
+assert(celo(forto,'fort.0o.kapablo','威力[wēi lì]')).
+assert(celo(forto,'fort.0o.kapablo','救援力量[jiù yuán lì liang]')).
+assert(celo(forto,'fort.0o.kapablo','救援队[jiù yuán duì]')).
+assert(celo(forto,'fort.0o.kapablo','德[dé]')).
+assert(celo(forto,'fort.0o.kapablo','強[qiáng]')).
+assert(celo(forto,'fort.0o.kapablo','精[jīng]')).
+assert(celo(forto,'fort.0o.kapablo','生命力[shēng mìng lì]')).
+assert(celo(forto,'fort.0o.kapablo','元气[yuán qì]')).
+assert(celo(forto,'fort.0o.kapablo','体气[tǐ qì]')).
+assert(celo(forto,'fort.0o.intenseco','強度[qiáng dù]')).
+assert(celo(forto,'fort.0o.intenseco','明暗度[míng àn dù]')).
+assert(celo(forto,'fort.0o.intenseco','密集度[mì jí dù]')).
+assert(celo(forto,'fort.0o.intenseco','烈度[liè dù]')).
+assert(celo(forto,'fort.0o.intenseco','強烈[qiáng liè]')).
+assert(celo(ĉiuforte,'fort.cxiu0e','全力地[quán lì de]')).
+assert(celo(ĉiuforte,'fort.cxiu0e','不遗余力地[bù yí yú lì de]')).
+assert(celo(ĉiuforte,'fort.cxiu0e','肆力[sì lì]')).
+assert(celo(ĉiuforte,'fort.cxiu0e','全力以赴[quán lì yǐ fù]')).
+assert(celo(ĉiuforte,'fort.cxiu0e','拼命[pīn mìng]')).
+assert(celo(inertoforto,'fort.inerto0o.FIZ','惯力[guàn lì]')).
+assert(celo(inertoforto,'fort.inerto0o.FIZ','惯性力[guàn xìng lì]')).
+assert(celo(malforta,'fort.mal0a','虚弱[xū ruò]')).
+assert(celo(malforta,'fort.mal0a','幽微[yōu wēi]')).
+assert(celo(malforta,'fort.mal0a','模糊地[mó hu de]')).
+assert(celo(malforta,'fort.mal0a','体力不支[tǐ lì bù zhī]')).
+assert(celo(malforta,'fort.mal0a','疲軟[pí ruǎn]')).
+assert(celo(malforta,'fort.mal0a','尪[wāng]')).
+assert(celo(malforta,'fort.mal0a','沒勁[méi jìn]')).
+assert(celo(malforta,'fort.mal0a','病弱[bìng ruò]')).
+assert(celo(malforta,'fort.mal0a','昏厥[hūn jué]')).
+assert(celo(malfortaĵo,'fort.mal0ajxo','性格軟弱[xìng gé ruǎn ruò]')).
+assert(celo(malfortaĵo,'fort.mal0ajxo','弱[ruò]')).
+assert(celo(malforteco,'fort.mal0ajxo','弱[ruò]')).
+assert(celo(malforteco,'fort.mal0ajxo','微弱[wēi ruò]')).
+assert(celo(malforteco,'fort.mal0ajxo','劣势[liè shì]')).
+assert(celo(malforteco,'fort.mal0ajxo','性格軟弱[xìng gé ruǎn ruò]')).
+assert(celo(malfortigi,'fort.mal0igi','弱化[ruò huà]')).
+assert(celo(malfortigi,'fort.mal0igi','削弱[xuē ruò]')).
+assert(celo(malfortiĝi,'fort.mal0igxi','衰退[shuāi tuì]')).
+assert(celo(malfortiĝi,'fort.mal0igxi','衰[shuāi]')).
+assert(celo(malfortiĝi,'fort.mal0igxi','懈气[xiè qì]')).
+assert(celo(perforta,'fort.per0a','強迫[qiǎng pò]')).
+assert(celo(perforta,'fort.per0a','用武力[yòng wǔ lì]')).
+assert(celo(perforta,'fort.per0a','勍[qíng]')).
+assert(celo(perforti,'fort.per0i','奸污[jiān wū]')).
+assert(celo(perforti,'fort.per0i','违背[wéi bèi]')).
+assert(celo(perforto,'fort.per0o','上級[shàng jí]')).
+assert(celo(perforto,'fort.per0o','枢轴[shū zhóu]')).
+assert(celo(perforto,'fort.per0o','暴力[bào lì]')).
+assert(celo(perforti,'fort.per0i','訴諸武力[sù zhū wǔ lì]')).
+assert(celo(perfortulo,'fort.per0ulo','兇手[xiōng shǒu]')).
+assert(celo(senforta,'fort.sen0a','疲軟[pí ruǎn]')).
+assert(celo(senforta,'fort.sen0a','尪[wāng]')).
+assert(celo(senforta,'fort.sen0a','无动力[wú dòng lì]')).
+assert(celo(senforta,'fort.sen0a','沒勁[méi jìn]')).
+assert(celo(senforta,'fort.sen0a','瘦弱[shòu ruò]')).
+assert(celo(senforta,'fort.sen0a','孱[chán]')).
+assert(celo(senforta,'fort.sen0a','昏倒[hūn dǎo]')).
+assert(celo(senforta,'fort.sen0a','失去知覺[shī qù zhī jué]')).
+assert(celo(superforti,'fort.super0i','打敗[dǎ bài]')).
+assert(celo(superforti,'fort.super0i','抶[chì]')).
+assert(celo(superforti,'fort.super0i','使人感动[shǐ rén gǎn dòng]')).
+assert(celo(superforti,'fort.super0i','令人倾倒[lìng rén qīng dào]')).
+assert(celo(superforti,'fort.super0i','擂[lèi]')).
+assert(celo(superforti,'fort.super0i','拷[kǎo]')).
+assert(celo(superforti,'fort.super0i','拷打[kǎo dǎ]')).
+assert(celo(superforti,'fort.super0i','忍[rěn]')).
+assert(celo(superforto,'fort.super0o.JUR','人力不可抗力[rén lì bù kě kàng lì]')).
+assert(celo(superforto,'fort.super0o.JUR','不可抗拒的力量[bù kě kàng jù de lì liàng]')).
+assert(celo(superforto,'fort.super0o.JUR','不可抗力[bù kě kàng lì]')).
+assert(celo('Fortalezo','fortalez.0o','福塔雷萨[fú tǎ léi sà]')).
+assert(celo(fortika,'fortik.0a.materialo','牢牢[láo láo]')).
+assert(celo(fortika,'fortik.0a.materialo','稳固地[wěn gù de]')).
+assert(celo(fortika,'fortik.0a.materialo','束住[shù zhù]')).
+assert(celo(fortika,'fortik.0a.materialo','坚强[jiān qiáng]')).
+assert(celo(fortika,'fortik.0a.materialo','扎实[zhā shi]')).
+assert(celo(fortika,'fortik.0a.MIL','使坚固[shǐ jiān gù]')).
+assert(celo(fortika,'fortik.0a.MIL','使固定[shǐ gù dìng]')).
+assert(celo(fortika,'fortik.0a.FIG','寔[shí]')).
+assert(celo(fortikaĵo,'fortik.0ajxo.ARKI','筑要塞[zhú yào sāi]')).
+assert(celo(fortikaĵo,'fortik.0ajxo.ARKI','以要塞防守[yǐ yào sāi fáng shǒu]')).
+assert(celo(fortikaĵo,'fortik.0ajxo.ARKI','堡[bǎo]')).
+assert(celo(fortikaĵo,'fortik.0ajxo.ARKI','要塞[yào sài]')).
+assert(celo(fortreso,'fortres.0o','筑要塞[zhú yào sāi]')).
+assert(celo(fortreso,'fortres.0o','以要塞防守[yǐ yào sāi fáng shǒu]')).
+assert(celo(fortreso,'fortres.0o','堡[bǎo]')).
+assert(celo(fortuni,'fortun.0i','遂[suì]')).
+assert(celo(fortuni,'fortun.0i','得逞[dé chěng]')).
+assert(celo(fortuno,'fortun.0o','紅運[hóng yùn]')).
+assert(celo(fortuno,'fortun.0o','福气[fú qì]')).
+assert(celo(forumo,'forum.0o','論壇[lùn tán]')).
+assert(celo(forumo,'forum.0o','討論會[tǎo lùn huì]')).
+assert(celo(fosaĵo,'fos.0ajxo','堑[qiàn]')).
+assert(celo(fosaĵo,'fos.0ajxo','沟渠[gōu qú]')).
+assert(celo(fosaĵo,'fos.0ajxo','凼[dàng]')).
+assert(celo(fosaĵo,'fos.0ajxo','壕[háo]')).
+assert(celo(fosaĵo,'fos.0ajxo','运河[yùn hé]')).
+assert(celo(fosaĵo,'fos.0ajxo','水沟[shuǐ gōu]')).
+assert(celo(fosaĵo,'fos.0ajxo','渠[qú]')).
+assert(celo(fosaĵo,'fos.0ajxo','坑塘[kēng táng]')).
+assert(celo(fosaĵo,'fos.0ajxo','硐[dòng]')).
+assert(celo(fosi,'fos.0i','掘[jué]')).
+assert(celo(fosi,'fos.0i','挖土[wā tǔ]')).
+assert(celo(fosi,'fos.0i','凿[záo]')).
+assert(celo(fosi,'fos.0i','厥[jué]')).
+assert(celo(fosi,'fos.0i','刨[páo]')).
+assert(celo(fosi,'fos.0i','翻土[fān tǔ]')).
+assert(celo(fosilo,'fos.0ilo','鐵鍬[tiě qiāo]')).
+assert(celo(fosilo,'fos.0ilo','剷[chǎn]')).
+assert(celo(fosilo,'fos.0ilo','鏟子[chǎn zi]')).
+assert(celo(fosilo,'fos.0ilo','鍬[qiāo]')).
+assert(celo(fosilo,'fos.0ilo','鐵杴[tiě xiān]')).
+assert(celo(fosilo,'fos.0ilo','鑱[chán]')).
+assert(celo(disfosi,'fos.dis0i','耝[qù]')).
+assert(celo(disfosi,'fos.dis0i','翻土[fān tǔ]')).
+assert(celo(disfosi,'fos.dis0i','垡[fá]')).
+assert(celo(elfosado,'fos.el0ado','出土文物[chū tǔ wén wù]')).
+assert(celo(elfosi,'fos.el0i','刳[kū]')).
+assert(celo(elfosi,'fos.el0i','剜[wān]')).
+assert(celo(elfosi,'fos.el0i','挖掉[wā diào]')).
+assert(celo(elfosi,'fos.el0i','抠[kōu]')).
+assert(celo(elfosi,'fos.el0i','渠沟[qú gōu]')).
+assert(celo(elfosi,'fos.el0i','濠[háo]')).
+assert(celo(enfosi,'fos.en0i','入土[rù tǔ]')).
+assert(celo(enfosi,'fos.en0i','埋葬[mái zàng]')).
+assert(celo(platfosilo,'fos.plat0ilo','鍬[qiāo]')).
+assert(celo(platfosilo,'fos.plat0ilo','鍤[chā]')).
+assert(celo(platfosilo,'fos.plat0ilo','鎛[bó]')).
+assert(celo(serĉfosi,'fos.sercx0i','四处漫步[sì chù mán bù]')).
+assert(celo(serĉfosi,'fos.sercx0i','仔細挑選[zǐ xì tiāo xuǎn]')).
+assert(celo(serĉfosi,'fos.sercx0i','細心檢查[xì xīn jiǎn chá]')).
+assert(celo(subfosi,'fos.sub0i','窦[dòu]')).
+assert(celo(trafosi,'fos.tra0i','四处漫步[sì chù mán bù]')).
+assert(celo(trafosi,'fos.tra0i','仔細挑選[zǐ xì tiāo xuǎn]')).
+assert(celo(trafosi,'fos.tra0i','細心檢查[xì xīn jiǎn chá]')).
+assert(celo('fosfata acido','fosfat.0aacido','磷酸[lín suān]')).
+assert(celo(fosfato,'fosfat.0o','磷酸酯[lín suān zhǐ]')).
+assert(celo(fosfato,'fosfat.0o','磷酸矿物[lín suān kuàng wù]')).
+assert(celo(fosfato,'fosfat.0o','磷酸盐[lín suān yán]')).
+assert(celo(fosfito,'fosfit.0o','亚磷酸盐[yà lín suān yán]')).
+assert(celo(fosforo,'fosfor.0o','燐[lín]')).
+assert(celo(fosforesko,'fosfor1.0o','磷光[lín guāng]')).
+assert(celo(fosforesko,'fosfor1.0o','磷火[lín huǒ]')).
+assert(celo(fosforito,'fosfor2.0o.MIN','磷矿[lín kuàng]')).
+assert(celo(fosilio,'fosili.0o','化石[huà shí]')).
+assert(celo(fosto,'fost.0o.paliso','樴[zhí]')).
+assert(celo(fosto,'fost.0o.paliso','高跷[gāo qiāo]')).
+assert(celo(fosto,'fost.0o.paliso','桩[zhuāng]')).
+assert(celo(fosto,'fost.0o.paliso','竿[gān]')).
+assert(celo(fotaĵo,'fot.0ajxo','照相术[zhào xiàng shù]')).
+assert(celo(fotaĵo,'fot.0ajxo','像片[xiàng piàn]')).
+assert(celo(fotaĵo,'fot.0ajxo','摄影学[shè yǐng xué]')).
+assert(celo(fotaĵo,'fot.0ajxo','摄影术[shè yǐng shù]')).
+assert(celo(fotaparato,'fot.0aparato','相机轻松[xiàng jī qīng sōng]')).
+assert(celo(fotaparato,'fot.0aparato','电视用摄影机[diàn shì yòng shè yǐng jī]')).
+assert(celo(fotaparato,'fot.0aparato','照像机[zhào xiàng jī]')).
+assert(celo(fotaparato,'fot.0aparato','照相机[zhào xiàng jī]')).
+assert(celo(fotaparato,'fot.0aparato','相机[xiàng jī]')).
+assert(celo(foti,'fot.0i','拍照[pāi zhào]')).
+assert(celo(foti,'fot.0i','拍照片[pāi zhào piàn]')).
+assert(celo(foti,'fot.0i','摄影[shè yǐng]')).
+assert(celo(foti,'fot.0i','复印机[fù yìn jī]')).
+assert(celo(foti,'fot.0i','照相[zhào xiàng]')).
+assert(celo(fotilo,'fot.0ilo','照像机[zhào xiàng jī]')).
+assert(celo(fotilo,'fot.0ilo','照相机[zhào xiàng jī]')).
+assert(celo(fotilo,'fot.0ilo','相机[xiàng jī]')).
+assert(celo(fotilo,'fot.0ilo','相机轻松[xiàng jī qīng sōng]')).
+assert(celo(fotilo,'fot.0ilo','电视用摄影机[diàn shì yòng shè yǐng jī]')).
+assert(celo(fotisto,'fot.0isto','女摄影师[nǚ shè yǐng shī]')).
+assert(celo(fotisto,'fot.0isto','摄影师[shè yǐng shī]')).
+assert(celo(fotisto,'fot.0isto','照相师[zhào xiàng shī]')).
+assert(celo(foto,'fot.0o','相框[xiàng kuāng]')).
+assert(celo(foto,'fot.0o','像框[xiàng kuàng]')).
+assert(celo(tujfotilo,'','一次成像照相机[yī cì chéng xiàng zhào xiàng jī]')).
+assert(celo(fotelo,'fotel.0o','沙发椅[shā fā yǐ]')).
+assert(celo(fotelo,'fotel.0o','单人沙发[dān rén shā fā]')).
+assert(celo('fotografa aparato','fotogr.0aaparato','照像机[zhào xiàng jī]')).
+assert(celo('fotografa aparato','fotogr.0aaparato','照相机[zhào xiàng jī]')).
+assert(celo('fotografa aparato','fotogr.0aaparato','相机[xiàng jī]')).
+assert(celo('fotografa aparato','fotogr.0aaparato','相机轻松[xiàng jī qīng sōng]')).
+assert(celo('fotografa aparato','fotogr.0aaparato','电视用摄影机[diàn shì yòng shè yǐng jī]')).
+assert(celo(fotografaĵo,'fotogr.0ajxo','照片[zhào piàn]')).
+assert(celo(fotografaĵo,'fotogr.0ajxo','相片[xiàng piàn]')).
+assert(celo(fotografaĵo,'fotogr.0ajxo','护照照[hù zhào zhào]')).
+assert(celo(fotografaĵo,'fotogr.0ajxo','證件照[zhèng jiàn zhào]')).
+assert(celo(fotografaĵo,'fotogr.0ajxo','相框[xiàng kuāng]')).
+assert(celo(fotografaĵo,'fotogr.0ajxo','像框[xiàng kuàng]')).
+assert(celo(fotografi,'fotogr.0i','拍照片[pāi zhào piàn]')).
+assert(celo(fotografi,'fotogr.0i','摄影[shè yǐng]')).
+assert(celo(fotografi,'fotogr.0i','拍照[pāi zhào]')).
+assert(celo(fotografi,'fotogr.0i','照相[zhào xiàng]')).
+assert(celo(fotografilo,'fotogr.0ilo','照像机[zhào xiàng jī]')).
+assert(celo(fotografilo,'fotogr.0ilo','照相机[zhào xiàng jī]')).
+assert(celo(fotografilo,'fotogr.0ilo','相机[xiàng jī]')).
+assert(celo(fotografilo,'fotogr.0ilo','相机轻松[xiàng jī qīng sōng]')).
+assert(celo(fotografilo,'fotogr.0ilo','电视用摄影机[diàn shì yòng shè yǐng jī]')).
+assert(celo(fotografisto,'fotogr.0isto','女摄影师[nǚ shè yǐng shī]')).
+assert(celo(fotografisto,'fotogr.0isto','照相师[zhào xiàng shī]')).
+assert(celo(fotografisto,'fotogr.0isto','摄影师[shè yǐng shī]')).
+assert(celo(fotogravuro,'fotogr2.0o','珂罗版印刷[kē luó bǎn yìn shuà]')).
+assert(celo(fotokopii,'fotokopi.0i','影印[yǐng yìn]')).
+assert(celo(fotokopiilo,'fotokopi.0ilo','光电复印机[guāng diàn fù yìn jī]')).
+assert(celo(fotokopio,'fotokopi.0o','影印件[yǐng yìn jiàn]')).
+assert(celo(fotokopio,'fotokopi.0o','光电复印[guāng diàn fù yìn]')).
+assert(celo(fotolitografio,'fotoli.0o','光刻技术[guāng kè jì shù]')).
+assert(celo(fotolitografio,'fotoli.0o','光刻[guāng kè]')).
+assert(celo(fotometro,'fotome.0o','光度計[guāng dù jì]')).
+assert(celo(fotolizo,'','光解[guāng jiě]')).
+assert(celo(fotono,'foton.0o','光量子[guāng liàng zǐ]')).
+assert(celo(fotosfero,'fotosf.0o','光球[guāng qiú]')).
+assert(celo(fotosintezo,'','光合作用[guāng hé zuò yòng]')).
+assert(celo(fotosintezo,'','光合[guāng hé]')).
+assert(celo(fototipio,'fototi.0o','珂罗版印刷[kē luó bǎn yìn shuà]')).
+assert(celo(fragila,'fragil.0a','易折断[yì zhé duàn]')).
+assert(celo(fragila,'fragil.0a','会破[huì pò]')).
+assert(celo(fragila,'fragil.0a','易碎品[yì suì pǐn]')).
+assert(celo(fragila,'fragil.0a','娇贵[jiāo guì]')).
+assert(celo(fragmenta,'fragme.0a','碎[suì]')).
+assert(celo(fragmenta,'fragme.0a','零星[líng xīng]')).
+assert(celo(fragmenta,'fragme.0a','百思不解[bǎi sī bù jiě]')).
+assert(celo(fragmenta,'fragme.0a','支离破碎[zhī lí pò suì]')).
+assert(celo(fragmenta,'fragme.0a','星星点点[xīng xīng diǎn diǎn]')).
+assert(celo(fragmenta,'fragme.0a','零碎[líng suì]')).
+assert(celo(fragmenta,'fragme.0a','間斷地[jiàn duàn de]')).
+assert(celo(fragmento,'fragme.0o.rompopeco','碎块[suì kuài]')).
+assert(celo(fragmento,'fragme.0o.rompopeco','虀[jī]')).
+assert(celo(fragmento,'fragme.0o.rompopeco','齏[jī]')).
+assert(celo(fragmento,'fragme.0o.rompopeco','断片[duàn piàn]')).
+assert(celo(fragmento,'fragme.0o.rompopeco','片段[piàn duàn]')).
+assert(celo(fragmento,'fragme.0o.rompopeco','微少[wēi shǎo]')).
+assert(celo(fragmento,'fragme.0o.rompopeco','砟[zhǎ]')).
+assert(celo(fragmento,'fragme.0o.rompopeco','碎片[suì piàn]')).
+assert(celo(fragmitejo,'fragmi.0ejo','芦苇丛[lú wěi cóng]')).
+assert(celo(fragmito,'fragmi.0o','芦笛[lú dí]')).
+assert(celo(fragmito,'fragmi.0o','茅草[máo cǎo]')).
+assert(celo(fragmito,'fragmi.0o','香蒲[xiāng pú]')).
+assert(celo(fraji,'fraj.0i','下蛋[xià dàn]')).
+assert(celo(fraji,'fraj.0i','摔子[shuāi zǐ]')).
+assert(celo(frajo,'','魚卵[yú luǎn]')).
+assert(celo(frajtaĵo,'frajt.0ajxo','水力[shuǐ lì]')).
+assert(celo(frajtaĵo,'frajt.0ajxo','傤[zài]')).
+assert(celo(frajtaĵo,'frajt.0ajxo','貨物[huò wù]')).
+assert(celo(frajti,'frajt.0i','装运[zhuāng yùn]')).
+assert(celo(frajti,'frajt.0i','租船[zū chuán]')).
+assert(celo(frajti,'frajt.0i','含运费[hán yùn fèi]')).
+assert(celo(frajti,'frajt.0i','送貨[sòng huò]')).
+assert(celo(frajtiganto,'frajt.0iganto','托运人[tuō yùn rén]')).
+assert(celo(frajto,'frajt.0o','水力[shuǐ lì]')).
+assert(celo(frajto,'frajt.0o','傤[zài]')).
+assert(celo(frajto,'frajt.0o','貨物[huò wù]')).
+assert(celo(frakasi,'frakas.0i','震落[zhèn là]')).
+assert(celo(frakasi,'frakas.0i','打垮[dǎ kuǎ]')).
+assert(celo(frakasi,'frakas.0i','击碎[jī suì]')).
+assert(celo(frakasi,'frakas.0i','粉碎[fěn suì]')).
+assert(celo(frakasi,'frakas.0i','使破坏[shǐ pò huài]')).
+assert(celo(frakasi,'frakas.0i','毀滅[huǐ miè]')).
+assert(celo(frakasiĝi,'frakas.0igxi','受到破坏[shòu dào pò huài]')).
+assert(celo(frakasiĝi,'frakas.0igxi','受破坏[shòu pò huài]')).
+assert(celo(frakciigi,'frakci.0igi','分餾[fēn liú]')).
+assert(celo(frakciigi,'frakci.0igi','瓜分[guā fēn]')).
+assert(celo(frakcio,'frakci.0o.POL','議會黨團[yì huì dǎng tuán]')).
+assert(celo(frakcio,'frakci.0o.POL','餾分[liù fēn]')).
+assert(celo(frakcio,'frakci.0o.POL','組分[zǔ fèn]')).
+assert(celo(frakcio,'frakci.0o.POL','派別[pài bié]')).
+assert(celo(frakcistreko,'frakci.0streko','分数线[fēn shù xiàn]')).
+assert(celo(frakcistreko,'frakci.0streko','分線[fèn xiàn]')).
+assert(celo(fraktalo,'fraktal.0o','分形[fēn xíng]')).
+assert(celo(fraktalo,'fraktal.0o','碎形[suì xíng]')).
+assert(celo(fraktalo,'fraktal.0o','分数维几何[fēn shù wéi jī hé]')).
+assert(celo(framo,'fram.0o','架[jià]')).
+assert(celo(framasonismo,'framas.0ismo','共济会[gòng jì huì]')).
+assert(celo(framasono,'framas.0o','共济会员[gòng jì huì yuán]')).
+assert(celo(framasono,'framas.0o','互济会会员[hù jì huì huì yuán]')).
+assert(celo(frambo,'framb.0o','覆盆子[fù pén zǐ]')).
+assert(celo(frambo,'framb.0o','树莓[shù méi]')).
+assert(celo(frambo,'framb.0o','木莓[mù méi]')).
+assert(celo(frambo,'framb.0o','餑餑頭[bō bo tóu]')).
+assert(celo(frambujo,'','覆盆字[fù pén zì]')).
+assert(celo(franca,'franc.0a','法式[fǎ shì]')).
+assert(celo(franca,'franc.0a','法語[fǎ yǔ]')).
+assert(celo(franca,'franc.0a','法文[fǎ wén]')).
+assert(celo(franco,'franc.0o','法国人[fǎ guó rén]')).
+assert(celo('Francisko','','弗朗切斯科[fú lǎng qiē sī kē]')).
+assert(celo(franciumo,'francium.0o','鍅[fǎ]')).
+assert(celo(franciumo,'francium.0o','鈁[fāng]')).
+assert(celo(franĉizo,'','免賠額[miǎn péi é]')).
+assert(celo(franĉizo,'','銷售許可[xiāo shòu xǔ kě]')).
+assert(celo(franĉizo,'','公民权[gōng mín quán]')).
+assert(celo(franda,'frand.0a.KUI','美美[měi měi]')).
+assert(celo(franda,'frand.0a.KUI','最可口[zuì kě kǒu]')).
+assert(celo(franda,'frand.0a.KUI','最美味[zuì měi wèi]')).
+assert(celo(franda,'frand.0a.KUI','秀丽[xiù lì]')).
+assert(celo(franda,'frand.0a.KUI','可口[kě kǒu]')).
+assert(celo(frandaĵo,'frand.0ajxo','美味[měi wèi]')).
+assert(celo(frandaĵo,'frand.0ajxo','精致[jīng zhì]')).
+assert(celo(frandaĵo,'frand.0ajxo','珍饈[zhēn xiū]')).
+assert(celo(frandema,'frand.0ema','饞嘴[chán zuǐ]')).
+assert(celo(frandema,'frand.0ema','饞[chán]')).
+assert(celo(frandemulo,'','老饕[lǎo tāo]')).
+assert(celo(frandemulo,'','美食家[měi shí jiā]')).
+assert(celo(frandi,'frand.0i','偷偷地吃[tōu tōu dì chī]')).
+assert(celo(frandinda,'frand.0inda','纖巧[xiān qiǎo]')).
+assert(celo(frandinda,'frand.0inda','婥[chuò]')).
+assert(celo(frandinda,'frand.0inda','美美[měi měi]')).
+assert(celo(franĝo,'frangx.0o','刘海[liú hǎi]')).
+assert(celo(franĝo,'frangx.0o','流苏[liú sū]')).
+assert(celo(franĝo,'frangx.0o','蕤[ruí]')).
+assert(celo(franĝo,'frangx.0o','緣飾[yuán shì]')).
+assert(celo(franko,'frank.0o','法郎[fǎ láng]')).
+assert(celo(franko,'frank.0o','法国法郎[fǎ guó fǎ láng]')).
+assert(celo('Frankfurto ĉe Odro','frankfurt.0oOdro','奥得河畔法兰克福[ào dé hé pàn fǎ lán kè fú]')).
+assert(celo('Frankfurto ĉe Odro','frankfurt.0oOdro','奥德河畔法兰克福[ào dé hé pàn fǎ lán kè fú]')).
+assert(celo('Frankfurto','frankfurt.F0o.che_majno','美因河畔法兰克福[měi yīn hé pàn fǎ lán kè fú]')).
+assert(celo('Frankfurto','frankfurt.F0o','法兰克福[fǎ lán kè fú]')).
+assert(celo('Frankfurto ĉe Majno','frankfurt.F0oMajno','美因河畔法兰克福[měi yīn hé pàn fǎ lán kè fú]')).
+assert(celo(frapa,'frap.0a','显目[xiǎn mù]')).
+assert(celo(frapi,'frap.0i','磕打[kē da]')).
+assert(celo(frapi,'frap.0i','抃[biàn]')).
+assert(celo(frapi,'frap.0i.bati','搉[què]')).
+assert(celo(frapi,'frap.0i.bati','抃[biàn]')).
+assert(celo(frapi,'frap.0i.produktiSonon','拍[pāi]')).
+assert(celo(frapi,'frap.0i.punbati','掴[guó]')).
+assert(celo(frapi,'frap.0i.punbati','击退[jí tuì]')).
+assert(celo(frapi,'frap.0i.punbati','被打[bèi dǎ]')).
+assert(celo(frapi,'frap.0i.punbati','剋[kēi]')).
+assert(celo(frapi,'frap.0i.punbati','打[dǎ]')).
+assert(celo(frapi,'frap.0i.tusxegi','抃[biàn]')).
+assert(celo(frapi,'frap.0i.tusxegi','蹶[jué]')).
+assert(celo(frapiĝi,'frap.0igxi','紧靠[jǐn kào]')).
+assert(celo(frapilo,'frap.0ilo','敲門者[qiāo mén zhě]')).
+assert(celo(frapilo,'frap.0ilo','門環[mén huán]')).
+assert(celo(frapilo,'frap.0ilo','敲門人[qiāo mén rén]')).
+assert(celo(okulfrapa,'frap.okul0a','荦荦[luò luò]')).
+assert(celo(okulfrapa,'frap.okul0a','浅显[qiǎn xiǎn]')).
+assert(celo(okulfrapa,'frap.okul0a','一目了然[yī mù liǎo rán]')).
+assert(celo(okulfrapa,'frap.okul0a','引人注目[yǐn rén zhù mù]')).
+assert(celo(okulfrapa,'frap.okul0a','倬[zhuō]')).
+assert(celo(piedfrapi,'frap.pied0i','夯[hāng]')).
+assert(celo(sunfrapo,'frap.sun0o.cerba','中暑[zhòng shǔ]')).
+assert(celo(sunfrapo,'frap.sun0o.cerba','日射病[rì shè bìng]')).
+assert(celo(vangofrapo,'frap.vango0o','耳光[ěr guāng]')).
+assert(celo(vangofrapo,'frap.vango0o','巴掌[bā zhǎng]')).
+assert(celo(frataro,'frat.0aro.GEN','昆仲[kūn zhòng]')).
+assert(celo(frataro,'frat.0aro.GEN','八拜交[bā bài jiāo]')).
+assert(celo(frataro,'frat.0aro.GEN','兄弟关系[xiōng dì guān xi]')).
+assert(celo(frataro,'frat.0aro.GEN','八拜之交[bā bài zhī jiāo]')).
+assert(celo(frataro,'frat.0aro.GEN','兄弟的关系[xiōng dì de guān xi]')).
+assert(celo(frataro,'frat.0aro.GEN','手足之情[shǒu zú zhī qíng]')).
+assert(celo(frataro,'frat.0aro.GEN','手足情誼[shǒu zú qíng yì]')).
+assert(celo(fratino,'frat.0ino','妹[mèi]')).
+assert(celo(fratino,'frat.0ino','姊姊[zǐ zi]')).
+assert(celo(frato,'frat.0o','弟兄[dì xiōng]')).
+assert(celo(frato,'frat.0o','同业者[tóng yè zhě]')).
+assert(celo(frato,'frat.0o','哥儿[gē r]')).
+assert(celo(frato,'frat.0o','社友[shè yǒu]')).
+assert(celo(frato,'frat.0o','兄或弟[xiōng huò dì]')).
+assert(celo(frato,'frat.0o','会友[huì yǒu]')).
+assert(celo(frato,'frat.0o','同业[tóng yè]')).
+assert(celo(frato,'frat.0o','同胞[tóng bāo]')).
+assert(celo(bofratino,'frat.bo0ino','妯娌[zhóu lǐ]')).
+assert(celo(bofratino,'frat.bo0ino','姐姐在法律[jiě jie zài fǎ lü]')).
+assert(celo(bofratino,'frat.bo0ino','姨妹[yí mèi]')).
+assert(celo(bofratino,'frat.bo0ino','嫂嫂[sǎo sao]')).
+assert(celo(bofratino,'frat.bo0ino','嫂[sǎo]')).
+assert(celo(bofratino,'frat.bo0ino','寡嫂[guǎ sǎo]')).
+assert(celo(bofrato,'frat.bo0o','郎舅[láng jiù]')).
+assert(celo(bofrato,'frat.bo0o','叔子[shū zi]')).
+assert(celo(gefratoj,'frat.ge0oj.GEN','兄弟姐妹[xiōng dì jiě mèi]')).
+assert(celo(gefratoj,'frat.ge0oj.GEN','兄弟姊妹[xiōng dì zǐ mèi]')).
+assert(celo(interfratiĝi,'frat.inter0igxi','結拜[jié bài]')).
+assert(celo(fraŭdi,'frauxd.0i','謾[mán]')).
+assert(celo(fraŭdi,'frauxd.0i','欺騙[qī piàn]')).
+assert(celo(fraŭdi,'frauxd.0i','糊弄[hù nong]')).
+assert(celo(fraŭdi,'frauxd.0i','譸[zhōu]')).
+assert(celo(fraŭdi,'frauxd.0i','誑[kuáng]')).
+assert(celo(fraŭdisto,'frauxd.0isto','騙子[piàn zi]')).
+assert(celo(fraŭdisto,'frauxd.0isto','挪用公款者[nuó yòng gōng kuǎn zhě]')).
+assert(celo(fraŭdo,'frauxd.0o','拐騙[guǎi piàn]')).
+assert(celo(fraŭla,'frauxl.0a','未婚[wèi hūn]')).
+assert(celo(fraŭleco,'frauxl.0eco','独身生活[dú shēn shēng huó]')).
+assert(celo(fraŭlino,'frauxl.0ino','未結婚的少女[wèi jié hūn de shào nǚ]')).
+assert(celo(fraŭlino,'frauxl.0ino','单身女人的称谓[dān shēn nǚ rén de chèn wèi]')).
+assert(celo(fraŭlino,'frauxl.0ino','閨女[guī nǚ]')).
+assert(celo(fraŭlino,'frauxl.0ino','少女[shào nǚ]')).
+assert(celo(fraŭlo,'frauxl.0o','未婚男子[wèi hūn nán zǐ]')).
+assert(celo(fraŭlo,'frauxl.0o','光棍儿[guāng gùn r]')).
+assert(celo(fraŭlo,'frauxl.0o','光棍[guāng gùn]')).
+assert(celo(frazelemento,'fraz.0elemento','句子成分[jù zi chéng fèn]')).
+assert(celo(frazo,'','句子[jù zi]')).
+assert(celo(frapfrazo,'fraz.frap0o','宣传口号[xuān chuán kǒu hào]')).
+assert(celo(frapfrazo,'fraz.frap0o','口号规范[kǒu hào guī fàn]')).
+assert(celo(frapfrazo,'fraz.frap0o','广告口号[guǎng gào kǒu hào]')).
+assert(celo(frapfrazo,'fraz.frap0o','吶喊聲[nà hǎn shēng]')).
+assert(celo(frapfrazo,'fraz.frap0o','广告词[guǎng gào cí]')).
+assert(celo(frapfrazo,'fraz.frap0o','口号[kǒu háo]')).
+assert(celo(frapfrazo,'fraz.frap0o','座右銘[zuò yòu míng]')).
+assert(celo(frazeologio,'','美言詞令[měi yán cí lìng]')).
+assert(celo('Frederiko','frederik.0o','腓特烈[féi tè liè]')).
+assert(celo(fregato,'fregat.0o','三帆快速战舰[sān fán kuài sù zhàn jiàn]')).
+assert(celo(fregato,'fregat.0o','护卫舰[hù wèi jiàn]')).
+assert(celo(fregato,'fregat.0o','巡防舰[xún fáng jiàn]')).
+assert(celo(frekvenco,'frekve.0o.TEK','頻[pín]')).
+assert(celo(frekvenco,'frekve.0o.TEK','頻率[pín lü]')).
+assert(celo('alta frekvenco','frekve.alta0o','高頻率[gāo pín lü]')).
+assert(celo('alta frekvenco','frekve.alta0o','高周波[gāo zhōu bō]')).
+assert(celo('alta frekvenco','frekve.alta0o','高頻[gāo pín]')).
+assert(celo(fremda,'fremd.0a.alilanda','外源性[wài yuán xìng]')).
+assert(celo(fremda,'fremd.0a.alilanda','洋[yáng]')).
+assert(celo(fremda,'fremd.0a.alilanda','异样[yì yàng]')).
+assert(celo(fremdeco,'fremd.0eco','不熟悉[bù shú xī]')).
+assert(celo(fremdeco,'fremd.0eco','陌生[mò shēng]')).
+assert(celo(fremdiĝo,'fremd.0igxo','距离感[jù lí gǎn]')).
+assert(celo(fremdiĝo,'fremd.0igxo','异化[yì huà]')).
+assert(celo(fremdiĝo,'fremd.0igxo','使疏远[shǐ shū yuǎn]')).
+assert(celo(fremdiĝo,'fremd.0igxo','疏远[shū yuǎn]')).
+assert(celo(fremdulo,'fremd.0ulo','陌生人[mò shēng rén]')).
+assert(celo(fremdulo,'fremd.0ulo','未詳[wèi xiáng]')).
+assert(celo(fremdulo,'fremd.0ulo','陌路[mò lù]')).
+assert(celo(fremdulo,'fremd.0ulo','紅毛[hóng máo]')).
+assert(celo(freneza,'frenez.0a.malsana','疯[fēng]')).
+assert(celo(freneza,'frenez.0a.malsana','疯狂[fēng kuáng]')).
+assert(celo(freneza,'frenez.0a.malsana','顛狂[diān kuáng]')).
+assert(celo(freneza,'frenez.0a.malsana','躁狂[zào kuáng]')).
+assert(celo(freneza,'frenez.0a.malsana','精神病[jīng shén bìng]')).
+assert(celo(freneza,'frenez.0a.malsana','有精神病[yǒu jīng shén bìng]')).
+assert(celo(freneza,'frenez.0a.malsana','狂[kuáng]')).
+assert(celo(freneza,'frenez.0a.malsana','疯颠[fēng diān]')).
+assert(celo(frenezaĵo,'','疯狂的事[fēng kuáng de shì]')).
+assert(celo(frenezaĵo,'','神經失常[shén jīng shī cháng]')).
+assert(celo(frenezaĵo,'','狂女[kuáng nǚ]')).
+assert(celo(frenezaĵo,'','疯女[fēng nǚ]')).
+assert(celo(frenezaĵo,'','发疯[fā fēng]')).
+assert(celo(frenezaĵo,'','蠢事[chǔn shì]')).
+assert(celo(frenezaĵo,'','狂暴[kuáng bào]')).
+assert(celo(frenezaĵo,'','疯狂[fēng kuáng]')).
+assert(celo(freneziĝi,'frenez.0igxi','发疯[fā fēng]')).
+assert(celo(frenezo,'frenez.0o','疯狂[fēng kuáng]')).
+assert(celo(frenezo,'frenez.0o','疯狂的事[fēng kuáng de shì]')).
+assert(celo(frenezo,'frenez.0o','神經失常[shén jīng shī cháng]')).
+assert(celo(frenezo,'frenez.0o','躁狂症[zào kuáng zhèng]')).
+assert(celo(frenezo,'frenez.0o','愚頑[yú wán]')).
+assert(celo(frenezo,'frenez.0o','蛊[gǔ]')).
+assert(celo(frenezo,'frenez.0o','疯狂的想法[fēng kuáng de xiǎng fǎ]')).
+assert(celo(frenezo,'frenez.0o','痫[xián]')).
+assert(celo(frenezo,'frenez.0o','丧心病狂[sàng xīn bìng kuáng]')).
+assert(celo(frenezo,'frenez.0o','神經病[shén jīng bìng]')).
+assert(celo(frenezulo,'frenez.0ulo','狂人[kuáng rén]')).
+assert(celo(frenologio,'frenol.0o','顱相學[lú xiāng xué]')).
+assert(celo(freono,'freon.0o','氟里昂[fú lǐ áng]')).
+assert(celo(fresko,'fresk.0o','湿壁画[shī bì huà]')).
+assert(celo(freŝa,'fresx.0a','最新[zuì xīn]')).
+assert(celo(freŝe,'fresx.0e','新鮮的[xīn xiān de]')).
+assert(celo(freŝe,'fresx.0e','鱻[xian]')).
+assert(celo(freŝe,'fresx.0e','淸爽[qīng shuǎng]')).
+assert(celo(freŝe,'fresx.0e','瀼[ráng]')).
+assert(celo(malfreŝa,'fresx.mal0a','陈[chén]')).
+assert(celo(refreŝigaĵo,'fresx.re0igajxo','提神用品[tí shén yòng pǐn]')).
+assert(celo(refreŝigaĵo,'fresx.re0igajxo','消除疲劳[xiāo chú pí láo]')).
+assert(celo(refreŝigaĵo,'fresx.re0igajxo','重振雄風[chóng zhèn xióng fēng]')).
+assert(celo(refreŝigaĵo,'fresx.re0igajxo','便餐[biàn cān]')).
+assert(celo(refreŝigaĵo,'fresx.re0igajxo','身心爽快[shēn xīn shuǎng kuài]')).
+assert(celo(refreŝigi,'fresx.re0igi','使淸爽[shǐ qīng shuǎng]')).
+assert(celo(refreŝigi,'fresx.re0igi','爽快[shuǎng kuài]')).
+assert(celo(refreŝigi,'fresx.re0igi','有精神[yǒu jīng shén]')).
+assert(celo(refreŝiĝi,'fresx.re0igxi','提神[tí shén]')).
+assert(celo(refreŝiĝi,'fresx.re0igxi','凉快[liáng kuai]')).
+assert(celo('Freŭdo','freuxd.0o.PERS','西格蒙德弗洛伊德[xī gé méng dé fú luò yī dé]')).
+assert(celo('Freŭdo','freuxd.0o.PERS','弗洛伊德[fú luò yī dé]')).
+assert(celo(frezi,'frez.0i','耕[gēng]')).
+assert(celo(frezi,'frez.0i','耕种[gēng zhòng]')).
+assert(celo(frezi,'frez.0i','銑[xǐ]')).
+assert(celo(frezilo,'frez.0ilo','銑鑽[xǐ zuān]')).
+assert(celo(frezilo,'frez.0ilo','銑刀[xiǎn dāo]')).
+assert(celo(frezilo,'frez.0ilo','鉸刀[jiǎo dāo]')).
+assert(celo(frezmaŝino,'frez.0masxino','鑽版機[zuān bǎn jī]')).
+assert(celo(frezmaŝino,'','銑床[xǐ chuáng]')).
+assert(celo(frida,'frid.0a','冷颼颼[lěng sōu sōu]')).
+assert(celo(fridi,'frid.0i','料峭[liào qiào]')).
+assert(celo(frido,'frid.0o','致冷[zhì lěng]')).
+assert(celo(fridujo,'frid.0ujo','电冰箱[diàn bīng xiāng]')).
+assert(celo(fridujo,'frid.0ujo','冰箱[bīng xiāng]')).
+assert(celo(frikasi,'frikas.0i','剁肉[duò ròu]')).
+assert(celo(fringelo,'fringe.0o','金雀[jīn què]')).
+assert(celo(fringelo,'fringe.0o','鶸[ruò]')).
+assert(celo(fringedoj,'fringe1.0oj','雀科[qiǎo kē]')).
+assert(celo(friponaĵo,'fripon.0ajxo','不正[bù zhèng]')).
+assert(celo(friponaĵo,'fripon.0ajxo','坏事[huài shì]')).
+assert(celo(friponaĵo,'fripon.0ajxo','戏弄[xì nòng]')).
+assert(celo(friponeto,'fripon.0eto','愛開玩笑者[ài kāi wán xiào zhě]')).
+assert(celo(friponeto,'fripon.0eto','淘气鬼[táo qì guǐ]')).
+assert(celo(friponeto,'fripon.0eto','无赖[wú lài]')).
+assert(celo(friponeto,'fripon.0eto','流浪汉[liú làng hàn]')).
+assert(celo(fripono,'fripon.0o','恶棍[è gùn]')).
+assert(celo(fripono,'fripon.0o','小人[xiǎo rén]')).
+assert(celo(fripono,'fripon.0o','懒人[lǎn rén]')).
+assert(celo(kunfripono,'','同犯[tóng fàn]')).
+assert(celo(kunfripono,'','从犯[cóng fàn]')).
+assert(celo(kunfripono,'','共犯[gòng fàn]')).
+assert(celo(frisa,'','弗裡西語[fú lǐ xī yǔ]')).
+assert(celo(friska,'frisk.0a','淸爽[qīng shuǎng]')).
+assert(celo(friti,'frit.0i','炸[zhá]')).
+assert(celo(friti,'frit.0i','氽[tǔn]')).
+assert(celo(fritilo,'frit.0ilo','电炸锅[diàn zhá guō]')).
+assert(celo('Fritaŭno','fritauxn.0o','弗裡敦[fú lǐ dūn]')).
+assert(celo(frivola,'frivol.0a.iu','恌[tiāo]')).
+assert(celo(frivola,'frivol.0a.iu','慵[yōng]')).
+assert(celo(frivola,'frivol.0a.iu','跅[tuò]')).
+assert(celo(frizaĵo,'friz.0ajxo','发型[fǎ xíng]')).
+assert(celo(frizaĵo,'friz.0ajxo','发式[fà shì]')).
+assert(celo(frizejo,'friz.0ejo','理发馆[lǐ fà guǎn]')).
+assert(celo(frizejo,'friz.0ejo','发屋[fā wū]')).
+assert(celo(frizejo,'friz.0ejo','理发点[lǐ fǎ diàn]')).
+assert(celo(frizejo,'friz.0ejo','美发厅[měi fǎ tīng]')).
+assert(celo(frizi,'friz.0i','髽[zhuā]')).
+assert(celo(frizisto,'friz.0isto','美发师[měi fà shī]')).
+assert(celo(frizisto,'friz.0isto','理发师[lǐ fà shī]')).
+assert(celo(frizisto,'friz.0isto','理发员[lǐ fà yuán]')).
+assert(celo(frizisto,'friz.0isto','理发[lǐ fà]')).
+assert(celo(fronto,'front.0o.antauxo','战线[zhàn xiàn]')).
+assert(celo(fronto,'front.0o.antauxo','圉[yǔ]')).
+assert(celo(fronto,'front.0o.antauxo','跟前[gēn qián]')).
+assert(celo(fronto,'front.0o.antauxo','前[qián]')).
+assert(celo(fronto,'front.0o.antauxo','端侧[duān cè]')).
+assert(celo(fronto,'front.0o.antauxo','前端处理器[qián duān chǔ lǐ qì]')).
+assert(celo(fronto,'front.0o.antauxo','最前部[zuì qián bù]')).
+assert(celo(fronto,'front.0o.MIL','建筑物的外墙[jiàn zhù wù de wài qiáng]')).
+assert(celo(fronto,'front.0o.MIL','前敌[qián dí]')).
+assert(celo(fronto,'front.0o.MIL','脸面对的方向[liǎn miàn duì dì fāng xiàng]')).
+assert(celo(fronto,'front.0o.MIL','前線[qián xiàn]')).
+assert(celo(fronto,'front.0o.MIL','前額[qián é]')).
+assert(celo(fronto,'front.0o.MIL','前部[qián bù]')).
+assert(celo(alfronti,'front.al0i','相反[xiāng fǎn]')).
+assert(celo(alfronti,'front.al0i','咈[fú]')).
+assert(celo(frontono,'fronto.0o','山花[shān huā]')).
+assert(celo(frosta,'frost.0a','凉丝丝[liáng sī sī]')).
+assert(celo(frosta,'frost.0a','霜白[shuāng bái]')).
+assert(celo(frosta,'frost.0a','微凉[wēi liáng]')).
+assert(celo(frosta,'frost.0a','冷冰冰[lěng bīng bīng]')).
+assert(celo(frosta,'frost.0a','冷峻地[lěng jùn de]')).
+assert(celo(frosta,'frost.0a','凔[cāng]')).
+assert(celo(frosta,'frost.0a','凛[lǐn]')).
+assert(celo(frosta,'frost.0a','下霜[xià shuāng]')).
+assert(celo(frosta,'frost.0a','寒冷[hán lěng]')).
+assert(celo(frosta,'frost.0a','冷颼颼[lěng sōu sōu]')).
+assert(celo(frosti,'frost.0i','愛凍[ài dòng]')).
+assert(celo(frosti,'frost.0i','結冰[jié bīng]')).
+assert(celo(frosti,'frost.0i','冻[dòng]')).
+assert(celo(frostigi,'frost.0igi','冰[bīng]')).
+assert(celo(frostigi,'frost.0igi','冷冻[lěng dòng]')).
+assert(celo(frostigilo,'frost.0igilo','冷冻室[lěng dòng shì]')).
+assert(celo(frostigilo,'frost.0igilo','冷冻库[lěng dòng kù]')).
+assert(celo(frosta,'frost.0a','冷冻[lěng dòng]')).
+assert(celo(frosta,'frost.0a','速冻[sù dòng]')).
+assert(celo(frostiĝi,'frost.0igxi','結凍[jié dòng]')).
+assert(celo(frostiĝi,'frost.0igxi','結冰[jié bīng]')).
+assert(celo(frosto,'frost.0o','霜冻[shuāng dòng]')).
+assert(celo(frosto,'frost.0o','霜[shuāng]')).
+assert(celo(frosto,'frost.0o','致冷[zhì lěng]')).
+assert(celo(frostujo,'frost.0ujo','冷冻柜[lěng dòng guì]')).
+assert(celo(ĉiamfrosto,'','永冻冰[yǒng dòng bīng]')).
+assert(celo(froti,'frot.0i','揉搓[róu cuō]')).
+assert(celo(froti,'frot.0i','蹭破[céng pò]')).
+assert(celo(froti,'frot.0i','挼[ruó]')).
+assert(celo(froto,'frot.0o.FIZ','磨擦[mó cā]')).
+assert(celo(froto,'frot.0o.FIZ','争执[zhēng zhí]')).
+assert(celo(froto,'frot.0o.FIZ','摩擦力[mó cā lì]')).
+assert(celo(disfroti,'frot.dis0i','研[yán]')).
+assert(celo(disfroti,'frot.dis0i','消磨[xiāo mó]')).
+assert(celo(disfroti,'frot.dis0i','磨碎[mò suì]')).
+assert(celo(trafroti,'','磨破[mò pò]')).
+assert(celo(trafroti,'','耗损[hào sǔn]')).
+assert(celo(trafroti,'','用旧[yòng jiù]')).
+assert(celo(enfroti,'frot.en0i','扢[gǔ]')).
+assert(celo(frua,'fru.0a','未几[wèi jǐ]')).
+assert(celo(frua,'fru.0a','早熟[zǎo shóu]')).
+assert(celo(frutempe,'fru.0tempe','提早[tí zǎo]')).
+assert(celo(frutempe,'fru.0tempe','在初期[zài chū qī]')).
+assert(celo(malfrua,'fru.mal0a','迟[zhì]')).
+assert(celo(malfrua,'fru.mal0a','迟[chí]')).
+assert(celo(malfrua,'fru.mal0a','最迟[zuì chí]')).
+assert(celo(malfrua,'fru.mal0a','迟了[chí le]')).
+assert(celo(malfrua,'fru.mal0a','更迟[gèng chí]')).
+assert(celo(malfrua,'fru.mal0a','晚期[wǎn qī]')).
+assert(celo(malfrua,'fru.mal0a','晩[wǎn]')).
+assert(celo(malfrua,'fru.mal0a','晏[yàn]')).
+assert(celo(malfrua,'fru.mal0a','暮[mù]')).
+assert(celo(malfruigi,'fru.mal0igi','耽誤[dān wu]')).
+assert(celo(malfruigi,'fru.mal0igi','延搁[yáng ē]')).
+assert(celo(malfruigi,'fru.mal0igi','延宕[yán dàng]')).
+assert(celo(malfruigi,'fru.mal0igi','誤期[wù qī]')).
+assert(celo(malfruigi,'fru.mal0igi','拖延[tuō yán]')).
+assert(celo(malfruiĝi,'fru.mal0igxi','姍姍來遲[shān shān lái chí]')).
+assert(celo(frugilego,'frugil.0o','禿鼻烏鴉[tū bí wū yā]')).
+assert(celo(frukti,'','結實[jiē shí]')).
+assert(celo(frukti,'','取得結果[qǔ dé jié guǒ]')).
+assert(celo(frukti,'','結出果實[jié chū guǒ shí]')).
+assert(celo(fruktigi,'frukt.0igi','受精[shòu jīng]')).
+assert(celo(frukto,'frukt.0o','果[guǒ]')).
+assert(celo(frukto,'frukt.0o','椋[liáng]')).
+assert(celo(frukto,'frukt.0o','檎[qín]')).
+assert(celo(fruktodona,'frukt.0odona0oporta','产量多[chǎn liàng duō]')).
+assert(celo(fruktodona,'frukt.0odona0oporta','富有成果[fù yǒu chéng guǒ]')).
+assert(celo(fruktodona,'frukt.0odona0oporta','肥沃[féi wò]')).
+assert(celo(fruktodona,'frukt.0odona0oporta','有效果的[yǒu xiào guǒ de]')).
+assert(celo(fruktodona,'frukt.0odona0oporta','富饒[fù ráo]')).
+assert(celo(fruktodona,'frukt.0odona0oporta','有成效的[yǒu chéng xiào de]')).
+assert(celo(fruktodona,'frukt.0odona0oporta','效果好[xiào guǒ hǎo]')).
+assert(celo(fruktodona,'frukt.0odona0oporta','多产[duō chǎn]')).
+assert(celo(fruktodona,'frukt.0odona0oporta','卓有成效[zhuó yǒu chéng xiào]')).
+assert(celo(marfrukto,'frukt.mar0o','海鮮[hǎi xiān]')).
+assert(celo(senfrukta,'frukt.sen0a.FIG','不長果實[bù cháng guǒ shí]')).
+assert(celo(senfrukta,'frukt.sen0a.FIG','无子[wú zǐ]')).
+assert(celo(senfrukta,'frukt.sen0a.FIG','不結果[bù jié guǒ]')).
+assert(celo(senfrukta,'frukt.sen0a.FIG','无效果[wú xiào guǒ]')).
+assert(celo(senfrukta,'','沒用[méi yòng]')).
+assert(celo(senfrukta,'','窳[yǔ]')).
+assert(celo(senfrukta,'','无结果[wú jié guǒ]')).
+assert(celo(fruktozo,'','果糖[guǒ táng]')).
+assert(celo(fruntaĵo,'frunt.0ajxo','端侧[duān cè]')).
+assert(celo(frunto,'frunt.0o.ANA','眉宇之間[méi yǔ zhī jiān]')).
+assert(celo(frunto,'frunt.0o.ANA','額頭[é tóu]')).
+assert(celo(frunto,'frunt.0o.ANA','顙[sǎng]')).
+assert(celo(frunto,'frunt.0o.ANA','前額[qián é]')).
+assert(celo(frunto,'frunt.0o.ANA','脑门[nǎo mén]')).
+assert(celo(frustro,'frustr.0o','挫折感[cuò zhé gǎn]')).
+assert(celo(frustro,'frustr.0o','失意[shī yì]')).
+assert(celo(ftizo,'ftiz.0o','瘵[zhài]')).
+assert(celo(ftizo,'ftiz.0o','結核[jié hé]')).
+assert(celo(fuelo,'fuel.0o','动力燃料[dòng lì rán liào]')).
+assert(celo(fuelo,'fuel.0o','燃料[rán liào]')).
+assert(celo(fuĝi,'fugx.0i','逃难[táo nàn]')).
+assert(celo(fuĝi,'fugx.0i','逃窜[táo cuàn]')).
+assert(celo(fuĝi,'fugx.0i','逃[táo]')).
+assert(celo(fuĝi,'fugx.0i','逃离[táo lí]')).
+assert(celo(fuĝi,'fugx.0i','逃奔[táo bèn]')).
+assert(celo(fuĝi,'fugx.0i','逃亡[táo wáng]')).
+assert(celo(fuĝi,'fugx.0i','生笋[shēng sǔn]')).
+assert(celo(fuĝi,'fugx.0i','飛走[fēi zǒu]')).
+assert(celo(fuĝi,'fugx.0i','避[bì]')).
+assert(celo(fuĝi,'fugx.0i','逋[bū]')).
+assert(celo(fuĝi,'fugx.0i','逃走[táo zǒu]')).
+assert(celo(fuĝi,'fugx.0i','溜走[liū zǒu]')).
+assert(celo(fuĝi,'fugx.0i','逃避[táo bì]')).
+assert(celo(fuĝo,'fugx.0o','逃离[táo lí]')).
+assert(celo(transfuĝinto,'fugx.trans0into','逃兵[táo bīng]')).
+assert(celo(fuksio,'fuksi.0o','晚樱科植物[wǎn yīng kē zhí wù]')).
+assert(celo('Fukuŝimo','fukusxim.0o','福岛市[fú dǎo shì]')).
