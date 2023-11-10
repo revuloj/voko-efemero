@@ -53,9 +53,9 @@
 csv_hande('vrt/handedict_23.u8').
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-csv_mankoj('vrt/eo_de_f.csv').
-db_celo('pdb/eo_zh_f.db').
-csv_celo('vrt/eo_zh_f.csv').
+csv_mankoj('vrt/eo_de_g.csv').
+db_celo('pdb/eo_zh_g.db').
+csv_celo('vrt/eo_zh_g.csv').
 
 
 legu :-
@@ -133,7 +133,10 @@ hande_redukt :-
 &(Kion) :- s(Kion).
 a :- s(a1).
 b :- s(b1).
+c :- s(c1).
 ab :- s(ab1).
+ac :- s(ac1).
+bc :- s(bc1).
 abc :- s(abc1).
 
 % informu pri kelkaj mankantaj tradukvortoj (eo)

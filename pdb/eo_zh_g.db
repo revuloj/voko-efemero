@@ -1,0 +1,946 @@
+created(1699606010.9471583).
+assert(celo('Gaberono','gaberon.G0o.GEOG','嘉柏隆里[jiā bó lóng lǐ]')).
+assert(celo('Gaberono','gaberon.G0o.GEOG','哈博罗内[hā bó luó nèi]')).
+assert(celo(gabio,'gabi.0o','保护栅[bǎo hù zhà]')).
+assert(celo(gabio,'gabi.0o','安全柵[ān quán zhà]')).
+retractall(celo(gabio,_,_),2).
+assert(celo(gablo,'gabl.0o','山墙[shān qiáng]')).
+assert(celo(gablo,'gabl.0o','山花[shān huā]')).
+assert(celo('Gabono','gabon.G0o','加蓬[jiā péng]')).
+assert(celo('Gabrielo','gabriel.0o','加百利[jiā bǎi lì]')).
+assert(celo(gado,'gad.0o.KOMUNE','鱈魚[xuě yú]')).
+assert(celo(gadoformaj,'gad.0oformaj','鱈形目[xuě xíng mù]')).
+assert(celo(gadoformaj,'gad.0oformaj','鱸形目[lú xíng mù]')).
+retract(celo(gadoformaj,'gad.0oformaj','鱸形目[lú xíng mù]')).
+assert(celo(gadmeso,'gadmes.0o','假阴茎[jiǎ yīn jīng]')).
+assert(celo(gadolinio,'gadoli.0o','釓[gá]')).
+assert(celo(gaela,'gael.0a','盖尔[gài ěr]')).
+assert(celo(gagato,'gagat.0o','煤玉[méi yù]')).
+assert(celo(gaja,'gaj.0a','恔[xiào]')).
+assert(celo(gaja,'gaj.0a','姁[xǔ]')).
+assert(celo(gaja,'gaj.0a','悅[yuè]')).
+assert(celo(gaja,'gaj.0a','欢乐[huān lè]')).
+assert(celo(gaja,'gaj.0a','晢[zhé]')).
+assert(celo(gaja,'gaj.0a','昑[qǐn]')).
+assert(celo(gaja,'gaj.0a','光光[guāng guāng]')).
+assert(celo(gaja,'gaj.0a','乐乐呵呵[lè le he he]')).
+assert(celo(gaja,'gaj.0a','高兴的[gāo xìng de]')).
+assert(celo(gaja,'gaj.0a','懽[huān]')).
+assert(celo(gaja,'gaj.0a','咍[hāi]')).
+assert(celo(gaja,'gaj.0a','无忧无虑[wú yōu wú lü]')).
+assert(celo(gajigi,'gaj.0igi','热闹[rè nao]')).
+assert(celo(malgaja,'','冻僵了[dòng jiāng liǎo]')).
+assert(celo(malgaja,'','伤感[shāng gǎn]')).
+assert(celo(malgaja,'','怆[chuàng]')).
+assert(celo(malgaja,'','悲戚[bēi qī]')).
+assert(celo(malgaja,'','怛[dá]')).
+assert(celo(malgaja,'','忡[chōng]')).
+assert(celo(malgaja,'','憯[cǎn]')).
+assert(celo(malgaja,'','凄[qī]')).
+assert(celo(malgaji,'gaj.mal0i','扫兴[sǎo xìng]')).
+assert(celo(malgajo,'','忧伤[yōu shāng]')).
+assert(celo(gajlo,'gajl.0o','瘿[yǐng]')).
+assert(celo(gajni,'gajn.0i','制取[zhì qǔ]')).
+assert(celo(gajni,'gajn.0i','会赢[huì yíng]')).
+assert(celo(gajni,'gajn.0i','獲勝[huò shèng]')).
+assert(celo(gajni,'gajn.0i','贏取[yíng qǔ]')).
+assert(celo(gajni,'gajn.0i','贏得[yíng dé]')).
+assert(celo(gajni,'gajn.0i','制得[zhì dé]')).
+assert(celo(gajni,'gajn.0i','博[bó]')).
+assert(celo(gajno,'gajn.0o.ago','盈利[yíng lì]')).
+assert(celo(malgajni,'gajn.mal0i','失落[shī luò]')).
+assert(celo(malgajni,'gajn.mal0i','丟失[diū shī]')).
+assert(celo(malgajni,'gajn.mal0i','輸[shū]')).
+assert(celo(malgajni,'gajn.mal0i','损失[sǔn shī]')).
+assert(celo(malgajni,'gajn.mal0i','遗[yí]')).
+assert(celo(malgajni,'gajn.mal0i','失[shī]')).
+assert(celo(malgajni,'gajn.mal0i','损[sǔn]')).
+assert(celo(malgajni,'gajn.mal0i','丧失[sāng shī]')).
+assert(celo('gik gak','','嘎[gá]')).
+assert(celo(galo,'gal.0o','苦胆[kǔ dǎn]')).
+assert(celo(galveziko,'gal.0veziko','胆囊[dǎn náng]')).
+assert(celo(galveziko,'gal.0veziko','胆[dǎn]')).
+assert(celo(galaksio,'galaksi.0o','銀河系[yín hé xì]')).
+assert(celo(galaksio,'galaksi.0o','星系[xīng xì]')).
+assert(celo(galaksio,'galaksi.0o','河外星系[hé wài xīng xì]')).
+assert(celo(galaksio,'galaksi.0o','銀河[yín hé]')).
+assert(celo(galaktozo,'galaktoz.0o','半乳糖[bàn rǔ táng]')).
+assert(celo(galanto,'galant.0o','雪花莲属[xuě huā lián shǔ]')).
+assert(celo(galanta,'galant1.0','任侠[rèn xiá]')).
+assert(celo(galanta,'galant1.0','义夫[yì fū]')).
+assert(celo(galanta,'galant1.0','矫矫[jiǎo jiǎo]')).
+assert(celo(galanta,'galant1.0','殷勤[yīn qín]')).
+assert(celo(galanta,'galant1.0','厚道[hòu dao]')).
+assert(celo(galanterio,'galant2.0o','綴飾[zhuì shì]')).
+assert(celo('Galapagoj','galapag.0oj','科隆群岛[kē lóng qún dǎo]')).
+assert(celo(galero,'galer.0o','船內廚房[chuán nèi chú fáng]')).
+assert(celo(galero,'galer.0o','罗马的舰[luó mǎ de jiàn]')).
+assert(celo(galero,'galer.0o','舰长用艇[jiàn zhǎng yòng tǐng]')).
+assert(celo(galero,'galer.0o','活字盘[huó zì pán]')).
+assert(celo(galero,'galer.0o','長方活字盤[cháng fāng huó zì pán]')).
+assert(celo(galero,'galer.0o','古代希腊[gǔ dài xī là]')).
+assert(celo(galero,'galer.0o','桨战船[jiǎng zhàn chuán]')).
+assert(celo(galero,'galer.0o','古代的有桨帆船[gǔ dài de yǒu jiǎng fán chuán]')).
+assert(celo(galerio,'galeri.0o','机器的通道[jī qì de tōng dào]')).
+assert(celo(galerio,'galeri.0o','走廊[zǒu láng]')).
+assert(celo(galerio,'galeri.0o','画廊[huà láng]')).
+assert(celo(galerio,'galeri.0o','图库[tú kù]')).
+assert(celo(galerio,'galeri.0o','美术馆[měi shù guǎn]')).
+assert(celo(galerio,'galeri.0o','相冊[xiāng cè]')).
+assert(celo(galio,'gali.0o','枲耳[xǐ ěr]')).
+assert(celo(galio,'gali.0o','切肉刀[qiē ròu dāo]')).
+assert(celo('Galileo','galile.0o.BIB','加利利[jiā lì lì]')).
+assert(celo('Galilejo','galilej.0o','伽利略伽利莱[gā lì lüè gā lì lái]')).
+assert(celo(galimatio,'galima.0o','叽里咕噜[jī li gū lū]')).
+assert(celo(galimatio,'galima.0o','叽里呼噜[jī lǐ hū lū]')).
+assert(celo(galiumo,'galium.0o','鎵[jiā]')).
+assert(celo(galjono,'galjon.0o.mezurunuo','呏[shēng]')).
+assert(celo(galjono,'galjon.0o.mezurunuo','加仑[jiā lún]')).
+assert(celo(galopi,'galop.0i','冯[féng]')).
+assert(celo(galopi,'galop.0i','趹[jué]')).
+assert(celo(galopi,'galop.0i','駆[qū]')).
+assert(celo(galopi,'galop.0i','腾[téng]')).
+assert(celo(galopo,'galop.0o','疾馳[jí chí]')).
+assert(celo(galvanaĵo,'galvan.0ajxo','图版[tú bǎn]')).
+assert(celo(galvanaĵo,'galvan.0ajxo','印刷版[yìn shuà bǎn]')).
+assert(celo(galvanaĵo,'galvan.0ajxo','版[bǎn]')).
+assert(celo(galvanizi,'galvan1.0i','电镀[diàn dù]')).
+assert(celo(galvanometro,'galvan2.0o','电流计[diàn liú jì]')).
+assert(celo(gamo,'gam.0o.FIG','光学频谱[guāng xué pín pǔ]')).
+assert(celo(gamo,'gam.0o.FIG','譜[pǔ]')).
+assert(celo(gamo,'gam.0o.FIG','光譜[guāng pǔ]')).
+assert(celo(gamo,'gam.0o.FIG','托板[tuō bǎn]')).
+assert(celo(gamaŝo,'gamasx.0o','裹腿[guǒ tuǐ]')).
+assert(celo('Gambio','gambi.G0o','冈比亚[gāng bǐ yà]')).
+assert(celo(gambito,'gambit.0o','話題[huà tí]')).
+assert(celo(gameto,'gamet.0o','生殖細胞[shēng zhí xì bāo]')).
+assert(celo('Ganao','gana.G0o.GEOG','迦納[jiā nà]')).
+assert(celo('Ganao','gana.G0o.GEOG','加納[jiā nà]')).
+assert(celo(gandarvo,'gandarv.0o','乾闥婆[gān tà pó]')).
+assert(celo(gango,'gang.0o','矿脉[kuàng mài]')).
+assert(celo(ganglio,'gangli.0o','神經中樞[shén jīng zhōng shū]')).
+assert(celo(gangreni,'gangre.0i','腐[fǔ]')).
+assert(celo(gangreno,'gangre.0o.MED','坏死[huài sǐ]')).
+assert(celo(gangstero,'gangster.0o','匪徒集团[fěi tú jí tuán]')).
+assert(celo(gangstero,'gangster.0o','寇[kòu]')).
+assert(celo(gangstero,'gangster.0o','匪徒[fěi tú]')).
+assert(celo('Ganimedo','ganimed.0o','木卫三[mù wèi sān]')).
+assert(celo(ganti,'gant.0i','戴手套[dài shǒu tào]')).
+assert(celo(ganto,'gant.0o','手笠[shǒu lì]')).
+assert(celo(ganto,'gant.0o','手套[shǒu tào]')).
+assert(celo(gapi,'gap.0i','呆呆地看[dāi dāi de kàn]')).
+assert(celo(gapi,'gap.0i','瞠目[chēng mù]')).
+assert(celo(gapi,'gap.0i','瞪眼看[dèng yǎn kàn]')).
+assert(celo(seksogapejo,'gap.sekso0ejo','西洋景[xī yáng jǐng]')).
+assert(celo(garaĝo,'garagx.0o.ARKI','修理厂[xiū lǐ chǎng]')).
+assert(celo(garaĝo,'garagx.0o.ARKI','修理部[xiū lǐ bù]')).
+assert(celo(garantia,'garant.0a','受到担保[shòu dào dān bǎo]')).
+assert(celo(garantia,'garant.0a','有保障[yǒu bǎo zhàng]')).
+assert(celo(garantiaĵo,'garant.0ajxo','保証金[bǎo zhèng jīn]')).
+assert(celo(garantiaĵo,'garant.0ajxo','矿床[kuàng chuáng]')).
+assert(celo(garantiaĵo,'garant.0ajxo','押金[yā jīn]')).
+assert(celo(garantiaĵo,'garant.0ajxo','抵押品[dǐ yā pǐn]')).
+assert(celo(garantianto,'garant.0anto','保释担保人[bǎo shì dān bǎo rén]')).
+assert(celo(garantianto,'garant.0anto','保證人[bǎo zhèng ren]')).
+assert(celo(garantii,'garant.0i','保証[bǎo zhèng]')).
+assert(celo(garantii,'garant.0i','包[bāo]')).
+assert(celo(garantii,'garant.0i','确保[què bǎo]')).
+assert(celo(garantio,'garant.0o','保用證[bǎo yòng zhèng]')).
+assert(celo(garantio,'garant.0o','保用[bǎo yòng]')).
+assert(celo(garantio,'garant.0o','質保[zhì bǎo]')).
+assert(celo(garantiulo,'garant.0ulo','人質[rén zhì]')).
+assert(celo(garbejo,'garb.0ejo','廥[kuài]')).
+assert(celo(garbo,'garb.0o.FIG','把[bǎ]')).
+assert(celo(gardado,'gard.0ado','看管[kān guǎn]')).
+assert(celo(gardado,'gard.0ado','照料[zhào liào]')).
+assert(celo(garde,'gard.0e','仔細地[zǐ xì de]')).
+assert(celo(garde,'gard.0e','謹慎小心[jǐn shèn xiǎo xīn]')).
+assert(celo(garde,'gard.0e','留心地[liú xīn de]')).
+assert(celo(gardestari,'gard.0estari','守汛[shǒu xùn]')).
+assert(celo(gardostari,'gard.0estari','守汛[shǒu xùn]')).
+assert(celo(gardi,'','据守[jù shǒu]')).
+assert(celo(gardi,'','警備[jǐng bèi]')).
+assert(celo(gardi,'','守[shǒu]')).
+assert(celo(gardi,'','卫[wèi]')).
+assert(celo(gardilo,'gard.0ilo','保险装置[bǎo xiǎn zhuāng zhì]')).
+assert(celo(gardilo,'gard.0ilo','保护措施[bǎo hù cuò shī]')).
+assert(celo(gardisto,'gard.0isto','看守者[kàn shǒu zhě]')).
+assert(celo(gardisto,'gard.0isto','守护者[shǒu hù zhě]')).
+assert(celo(gardisto,'gard.0isto','閽[hūn]')).
+assert(celo(gardisto,'gard.0isto','哨[shào]')).
+assert(celo(gardo,'gard.0o','哨[shào]')).
+assert(celo(gardostaranto,'gard.0ostaranto','哨[shào]')).
+assert(celo(antaŭgarda,'gard.antaux0a','謹慎小心[jǐn shèn xiǎo xīn]')).
+assert(celo(antaŭgarda,'gard.antaux0a','留心地[liú xīn de]')).
+assert(celo(antaŭgarda,'gard.antaux0a','能預料[néng yù liào]')).
+assert(celo(antaŭgarda,'gard.antaux0a','老謀深算[lǎo móu shēn suàn]')).
+assert(celo(arbargardisto,'gard.arbar0isto','守护巡逻人[shǒu hù xún luó rén]')).
+assert(celo(arestgardisto,'gard.arest0isto','狱卒[yù zú]')).
+assert(celo(arestgardisto,'gard.arest0isto','监狱官[jiān yù guān]')).
+assert(celo(arestgardisto,'gard.arest0isto','看守[kàn shǒu]')).
+assert(celo(ĉevalgardisto,'gard.cxeval0isto','庄客[zhuāng kè]')).
+assert(celo(ĉevalgardisto,'gard.cxeval0isto','农场工人[nóng chǎng gōng rén]')).
+assert(celo(ĉevalgardisto,'gard.cxeval0isto','馬伕[mǎ fū]')).
+assert(celo(gardisto,'','警卫员[jǐng wèi yuán]')).
+assert(celo(gardisto,'','典狱长[diǎn yù zhǎng]')).
+assert(celo(limgardejo,'gard.lim0ejo','检查站[jiǎn chá zhàn]')).
+assert(celo(limgardejo,'gard.lim0ejo','交叉点[jiāo chā diǎn]')).
+assert(celo(limgardisto,'gard.lim0isto','边防军[biān fáng jūn]')).
+assert(celo(limgardisto,'gard.lim0isto','守卫边境[shǒu wèi biān jìng]')).
+assert(celo(noktogardisto,'gard.nokto0isto','守夜人[shǒu yè rén]')).
+assert(celo(noktogardisto,'gard.nokto0isto','守夜者[shǒu yè zhě]')).
+assert(celo(noktogardisto,'gard.nokto0isto','値夜[zhí yè]')).
+assert(celo(plaĝogardisto,'gard.plagxo0isto','救生员[jiù shēng yuán]')).
+assert(celo(pordogardisto,'gard.pordo0isto','守門人[shǒu mén rén]')).
+assert(celo(pordogardisto,'gard.pordo0isto','閽[hūn]')).
+assert(celo(pordogardisto,'gard.pordo0isto','监门[jiān mén]')).
+assert(celo(pordogardisto,'gard.pordo0isto','門衛[mén wèi]')).
+assert(celo(pordogardisto,'gard.pordo0isto','看門人[kàn mén rén]')).
+assert(celo(singarda,'gard.sin0a','謹慎小心[jǐn shèn xiǎo xīn]')).
+assert(celo(singarda,'gard.sin0a','留心地[liú xīn de]')).
+assert(celo(singarda,'gard.sin0a','愼密[shèn mì]')).
+assert(celo(singarda,'gard.sin0a','把細[bǎ xì]')).
+assert(celo(singarda,'gard.sin0a','翼翼[yì yì]')).
+assert(celo(singarda,'gard.sin0a','机灵地[jī ling de]')).
+assert(celo(singardeco,'gard.sin0eco','警惕程度[jǐng tì chéng dù]')).
+assert(celo(singardeco,'gard.sin0eco','戒心[jiè xīn]')).
+assert(celo(singardema,'gard.sin0ema','小心[xiǎo xīn]')).
+assert(celo(singardema,'gard.sin0ema','謹慎小心[jǐn shèn xiǎo xīn]')).
+assert(celo(singardema,'gard.sin0ema','留心地[liú xīn de]')).
+assert(celo(singardema,'gard.sin0ema','愼密[shèn mì]')).
+assert(celo('sin gardi','gard.sin0i','小心[xiǎo xīn]')).
+assert(celo(singardo,'gard.sin0o','警惕程度[jǐng tì chéng dù]')).
+assert(celo(singardo,'gard.sin0o','戒心[jiè xīn]')).
+assert(celo(gardenio,'garden.0o','栀子花[zhī zǐ huā]')).
+assert(celo(gargari,'gargar.0i','漱[shù]')).
+assert(celo(gargojlo,'gargoj.0o','滴水嘴兽[dī shuǐ zuǐ shòu]')).
+assert(celo(garnaĵo,'garn.0ajxo0ilo','飾品[shì pǐn]')).
+assert(celo(garni,'garn.0i','飾[shì]')).
+assert(celo(garni,'garn.0i','妆[zhuāng]')).
+assert(celo(garni,'garn.0i','修飾[xiū shì]')).
+assert(celo(garnituro,'garnit.0o','套[tào]')).
+assert(celo(garnizono,'garniz.0o','駐軍[zhù jūn]')).
+assert(celo(garolo,'garol.0o','松鴉[sōng yā]')).
+assert(celo('Garono','garon.0o','加龍河[jiā lóng hé]')).
+assert(celo(gasa,'gas.0a','气体组成[qì tǐ zǔ chéng]')).
+assert(celo(gasa,'gas.0a','气体[qì tǐ]')).
+assert(celo(gasa,'gas.0a','气态[qì tài]')).
+assert(celo(gasbeko,'gas.0beko','喷嘴[pēn zuǐ]')).
+assert(celo(gaseca,'gas.0eca','气体组成[qì tǐ zǔ chéng]')).
+assert(celo(gaseca,'gas.0eca','气体[qì tǐ]')).
+assert(celo(gaseca,'gas.0eca','气态[qì tài]')).
+assert(celo(gasujo,'gas.0ujo','煤气罐[méi qì guàn]')).
+assert(celo(brulgaso,'gas.brul0o','染料气[rǎn liào qì]')).
+assert(celo(brulgaso,'gas.brul0o','煤气[méi qì]')).
+assert(celo(brulgaso,'gas.brul0o','鍛燒工[duàn shāo gōng]')).
+assert(celo(lumgaso,'gas.brul0o','煤气[méi qì]')).
+assert(celo(forcejgaso,'gas.forcej0o','温室气体[wēn shì qì tǐ]')).
+assert(celo(larmogaso,'gas.larmo0o','催泪瓦斯[cuī lèi wǎ sī]')).
+assert(celo(larmogaso,'gas.larmo0o','催泪弹[cuī lèi dàn]')).
+assert(celo(larmogaso,'gas.larmo0o','催泪气体[cuī lèi qì tǐ]')).
+assert(celo(mingaso,'gas.min0o','瓦斯气[wǎ sī qì]')).
+assert(celo('mustarda gaso','gas.mustarda_0o','芥子气[jiè zǐ qì]')).
+assert(celo('nobla gaso','gas.nobla0o','稀有气体[xī yǒu qì tǐ]')).
+assert(celo('inerta gaso','gas.nobla0o','稀有气体[xī yǒu qì tǐ]')).
+assert(celo(tergaso,'gas.ter0o','天然煤气[tiān rán méi qì]')).
+assert(celo(tergaso,'gas.ter0o','天然气[tiān rán qì]')).
+assert(celo(gasojlo,'gasojl.0o','柴油发动机[chái yóu fā dòng jī]')).
+assert(celo(gastama,'gast.0ama','人情味[rén qíng wèi]')).
+assert(celo(gastama,'gast.0ama','殷勤招待[yīn qín zhāo dài]')).
+assert(celo(gastamo,'gast.0amo','好客[hào kè]')).
+assert(celo(gastamo,'gast.0amo','亲切[qīn qiè]')).
+assert(celo(gastejo,'gast.0ejo','酒店[jiǔ diàn]')).
+assert(celo(gastejo,'gast.0ejo','酒館[jiǔ guǎn]')).
+assert(celo(gastejo,'gast.0ejo','酒家[jiǔ jiā]')).
+assert(celo(gastejo,'gast.0ejo','羇[jī]')).
+assert(celo(gastejo,'gast.0ejo','飲食店[yǐn shí diàn]')).
+assert(celo(gastejo,'gast.0ejo','旅舍[lǚ shè]')).
+assert(celo(gastiganto,'gast.0iganto.KOMUNE','东道主[dōng dào zhǔ]')).
+assert(celo(gastiganto,'gast.0iganto.KOMUNE','主人[zhǔ rén]')).
+assert(celo(gastiganto,'gast.0iganto.KOMUNE','宴請者[yàn qǐng zhě]')).
+assert(celo(gastiganto,'gast.0iganto.KOMUNE','邀請者[yāo qǐng zhě]')).
+assert(celo(gastiganto,'gast.0iganto.KOMUNE','調整者[tiáo zhěng zhě]')).
+assert(celo(gastiganto,'gast.0iganto.KOMUNE','东家[dōng jiā]')).
+assert(celo(gastiganto,'gast.0iganto.KOMUNE','主办者[zhǔ bàn zhě]')).
+assert(celo(gastiganto,'gast.0iganto.KOMUNE','东主[dōng zhǔ]')).
+assert(celo(gastiganto,'gast.0iganto.KOMUNE','东[dōng]')).
+assert(celo(gastiganto,'gast.0iganto.EKOL','寄主[jì zhǔ]')).
+assert(celo(gastigi,'','待客[dài kè]')).
+assert(celo(gasto,'gast.0o','嘉宾[jiā bīn]')).
+assert(celo(gasto,'gast.0o','招待客人[zhāo dài kè rén]')).
+assert(celo(gasto,'gast.0o','宾[bīn]')).
+assert(celo(gasto,'gast.0o','客队[kè duì]')).
+assert(celo(gasto,'gast.0o','客虫[kè chóng]')).
+assert(celo(gasto,'gast.0o','被邀請者[bèi yāo qǐng zhě]')).
+assert(celo(junulargastejo,'gast.junular0ejo','青年旅舍[qīng nián lǚ shè]')).
+assert(celo(malgastama,'gast.mal0ama','冷淡[lěng dàn]')).
+assert(celo(gasterosteo,'gaster.0o','棘魚[jí yú]')).
+assert(celo(gastronomo,'gastro.0o','旅館主人[lǚ guǎn zhǔ rén]')).
+assert(celo(gastronomo,'gastro.0o','客栈老板[kè zhàn lǎo bǎn]')).
+assert(celo(gastronomio,'gastro1.0o','烹飪學[pēng rèn xué]')).
+assert(celo(gastronomio,'gastro1.0o','厨艺[chú yì]')).
+assert(celo(gastronomio,'gastro1.0o','餐飲業[cān yǐn yè]')).
+assert(celo(gastronomio,'gastro1.0o','烹飪術[pēng rèn shù]')).
+assert(celo(gastronomio,'gastro1.0o','餐飲[cān yǐn]')).
+assert(celo(gastrostomio,'gastro3.0o','烹飪學[pēng rèn xué]')).
+assert(celo(gastrostomio,'gastro3.0o','厨艺[chú yì]')).
+assert(celo(gastrostomio,'gastro3.0o','餐飲業[cān yǐn yè]')).
+assert(celo(gastrostomio,'gastro3.0o','餐飲[cān yǐn]')).
+assert(celo(gastrostomio,'gastro3.0o','飲食業[yǐn shí yè]')).
+assert(celo('Gaŭso','gauxs.0o','磁力单位[cí lì dān wèi]')).
+assert(celo(gavio,'gavi.0o','潛鳥屬[qián niǎo shǔ]')).
+assert(celo(gazo,'gaz.0o','罗[luó]')).
+assert(celo('Gazao','gaza.0o','加沙[jiā shā]')).
+assert(celo('Gazao','gaza.0o','加沙城[jiā shā chéng]')).
+assert(celo(gazelo,'gazel.0o','一种小羚羊[yī zhǒng xiǎo líng yáng]')).
+assert(celo(gazelo,'gazel.0o','瞪羚[dèng líng]')).
+assert(celo(gazetaro,'','传媒[chuán méi]')).
+assert(celo(gazetisto,'gazet.0isto','新聞記者[xīn wén jì zhě]')).
+assert(celo(gazetisto,'gazet.0isto','記者[jì zhě]')).
+assert(celo(klaĉgazeto,'','小型画报[xiǎo xíng huà bào]')).
+assert(celo(klaĉgazeto,'','街头小报[jiē tóu xiǎo bào]')).
+assert(celo(klaĉgazeto,'','小報[xiǎo bào]')).
+assert(celo(klaĉgazeto,'','文摘[wén zhāi]')).
+assert(celo(murgazeto,'','壁報[bì bào]')).
+assert(celo(murgazeto,'','墙报[qiáng bào]')).
+assert(celo(taggazeto,'gazet.tag0o','日報[rì bào]')).
+assert(celo(gazono,'gazon.0o','草坪[cǎo píng]')).
+assert(celo('Gdansko','gdansk.0o','但泽[dàn zé]')).
+assert(celo('Geo','ge1.0o','盖娅[gài yà]')).
+assert(celo(geheno,'gehen.0o','阴曹[yīn cáo]')).
+assert(celo(geja,'gej.0a','同志的[tóng zhì de]')).
+assert(celo(geja,'gej.0a','男同性戀的[nán tóng xìng liàn de]')).
+assert(celo(geja,'gej.0a','同性戀的[tóng xìng liàn de]')).
+assert(celo(geja,'gej.0a','断袖[duàn xiù]')).
+assert(celo(geja,'gej.0a','基佬[jī lǎo]')).
+assert(celo(gejo,'gej.0o','同性恋者[tóng xìng liàn zhě]')).
+assert(celo(gejo,'gej.0o','男同性恋[nán tóng xìng liàn]')).
+assert(celo(gejsero,'gejser.0o','烧水锅炉[shāo shuǐ guō lú]')).
+assert(celo(gejsero,'gejser.0o','間歇泉[jiàn xiē quán]')).
+assert(celo(gejŝo,'gejsx.0o','艺伎[yì jì]')).
+assert(celo(gejŝo,'gejsx.0o','艺妓[yì jì]')).
+assert(celo(geko,'gek.0o.familiano','檐蛇[yán shé]')).
+assert(celo(geko,'gek.0o.familiano','蛇医[shé yī]')).
+assert(celo(geko,'gek.0o.familiano','守宫[shǒu gōng]')).
+assert(celo(geko,'gek.0o.familiano','四脚蛇[sì jiǎo shé]')).
+assert(celo(gekedoj,'geked.0oj','壁虎科[bì hǔ kē]')).
+assert(celo(gelatiĝi,'gelat.0igxi','塗凝膠物[tú níng jiāo wù]')).
+assert(celo(gelatiĝi,'gelat.0igxi','凝成胶状[níng chéng jiāo zhuàng]')).
+assert(celo(gelatenaĵo,'gelate.0ajxo.KUI_besta','冻[dòng]')).
+assert(celo(gelateno,'gelate.0o','水胶[shuǐ jiāo]')).
+assert(celo(gelateno,'gelate.0o','明胶[míng jiāo]')).
+assert(celo(gelateno,'gelate.0o','吉利丁[jí lì dīng]')).
+assert(celo(gelateno,'gelate.0o','胶质[jiāo zhì]')).
+assert(celo('Gelderlando','gelder.G0o','海尔德兰省[hǎi ěr dé lán xǐng]')).
+assert(celo(gelozo,'geloz.0o','石花胶[shí huā jiāo]')).
+assert(celo(gemisto,'gem.0isto','磨宝石工[mó bǎo shí gōng]')).
+assert(celo(gemo,'gem.0o.MIN','璨[càn]')).
+assert(celo(gemo,'gem.0o.MIN','玤[bàng]')).
+assert(celo(gemo,'gem.0o.MIN','璥[jǐng]')).
+assert(celo(gemo,'gem.0o.MIN','璠[fán]')).
+assert(celo(gemo,'gem.0o.MIN','珙[gǒng]')).
+assert(celo(gemuta,'gemut.0a','从从容容[cóng cóng róng róng]')).
+assert(celo(gemuta,'gemut.0a','悠然自得[yōu rán zì dé]')).
+assert(celo(gemuta,'gemut.0a','慢悠悠[màn yōu yōu]')).
+assert(celo(gemuta,'gemut.0a','惬意[qiè yì]')).
+assert(celo(gemuta,'gemut.0a','昫[xù]')).
+assert(celo(gemuta,'gemut.0a','随意[suí yì]')).
+assert(celo(genaro,'gen.0aro','基因組[jī yīn zǔ]')).
+assert(celo(geno,'gen.0o','遗传因子[yí chuán yīn zǐ]')).
+assert(celo(genciano,'gencia.0o','龍膽[lóng dǎn]')).
+assert(celo(gencianacoj,'gencia1.0oj','龍膽科[lóng dǎn kē]')).
+assert(celo(genealogia,'geneal.0a','宗系[zōng xì]')).
+assert(celo(genealogia,'geneal.0a','家系[jiā xì]')).
+assert(celo(genealogio,'geneal.0o','系譜[xì pǔ]')).
+assert(celo(generacio,'genera.0o','世代[shì dài]')).
+assert(celo(generacio,'genera.0o','輩[bèi]')).
+assert(celo(generacio,'genera.0o','曹[cáo]')).
+assert(celo(generalo,'genera1.0o','大将[dà jiāng]')).
+assert(celo(generalo,'genera1.0o','将军[jiāng jūn]')).
+assert(celo(transgeneraica,'','代际[dài jì]')).
+assert(celo(ĉefgeneralo,'genera1.cxef0o','錢江一橋[qián jiāng yī qiáo]')).
+assert(celo(generatoro,'genera2.0o','发生炉[fā shēng lú]')).
+assert(celo(generatoro,'genera2.0o','振荡器[zhèn dàng qì]')).
+assert(celo(genetika,'','生物起源学[shēng wù qǐ yuán xué]')).
+assert(celo(genetika,'','遗传学的[yí chuán xué de]')).
+assert(celo(genetika,'','遗传[yí chuán]')).
+assert(celo(genetikisto,'','遗传学者[yí chuán xué zhě]')).
+assert(celo(genetiko,'genetik.0o','基因学[jī yīn xué]')).
+assert(celo(genezo,'genez.0o.SCI','淵源[yuān yuán]')).
+assert(celo(genezo,'genez.0o.SCI','出身[chū shēn]')).
+assert(celo(genia,'geni.0a','八斗才[bā dǒu cái]')).
+assert(celo(genia,'geni.0a','有才能地[yǒu cái néng de]')).
+assert(celo(genia,'geni.0a','賢明地[xián míng de]')).
+assert(celo(genia,'geni.0a','有创造性[yǒu chuàng zào xìng]')).
+assert(celo(genia,'geni.0a','天才[tiān cái]')).
+assert(celo(genio,'geni.0o.intelekto','奇才[qí cái]')).
+assert(celo(genio,'geni.0o.intelekto','天才[tiān cái]')).
+assert(celo(genio,'geni.0o.dajmono','叠影[dié yǐng]')).
+assert(celo(genio,'geni.0o.dajmono','精灵[jīng líng]')).
+assert(celo(geniulo,'','天才[tiān cái]')).
+assert(celo(geniulo,'','奇才[qí cái]')).
+assert(celo(genisto,'genist.0o','金雀花[jīn què huā]')).
+assert(celo(genitalo,'genital.0o','外生殖器[wài shēng zhí qì]')).
+assert(celo(genocido,'genocid.0o','集体屠杀[jí tǐ tú shā]')).
+assert(celo(genocido,'genocid.0o','种族大屠杀[zhǒng zú dà tú shā]')).
+assert(celo(genocido,'genocid.0o','种族灭绝[zhǒng zú miè jué]')).
+assert(celo(genitivo,'geniti.0o','第二格[dì èr gé]')).
+assert(celo(genomo,'genom.0o.GNT','基因組[jī yīn zǔ]')).
+assert(celo(genotipo,'genotip.0o.GNT','基因型[jī yīn xíng]')).
+assert(celo(genro,'genr.0o.GRA','性[xìng]')).
+assert(celo(genro,'genr.0o.BIO','物种[wù zhǒng]')).
+assert(celo(ingenro,'genr.in0o','雌性[cī xìng]')).
+assert(celo(gento,'gent.0o.familio','宗族[zōng zú]')).
+assert(celo('Gento','gent1.G0o','根特[gēn tè]')).
+assert(celo(genui,'genu.0i','跪[guì]')).
+assert(celo(genui,'genu.0i','下跪[xià guì]')).
+assert(celo(genui,'genu.0i','跽[jì]')).
+assert(celo(genuigi,'genu.0igi','压服[yā fú]')).
+assert(celo(genuiĝi,'genu.0igxi','跪下[guì xia]')).
+assert(celo(ekgenui,'genu.0igxi','跪[guì]')).
+assert(celo(ekgenui,'genu.0igxi','下跪[xià guì]')).
+assert(celo(ekgenui,'genu.0igxi','跽[jì]')).
+assert(celo(genuo,'genu.0o','膝盖[xī gài]')).
+assert(celo(genuo,'genu.0o','膝[xī]')).
+assert(celo(surgenui,'genu.sur0i','跪[guì]')).
+assert(celo(surgenui,'genu.sur0i','下跪[xià guì]')).
+assert(celo(surgenui,'genu.sur0i','跽[jì]')).
+assert(celo(geocentrismo,'geocentr.0ismo','地心說[dì xīn shuō]')).
+assert(celo(geodo,'geod.0o','异质晶簇[yì zhì jīng cù]')).
+assert(celo(geodo,'geod.0o','晶洞[jīng dòng]')).
+assert(celo(geodezio,'geodez.0o','大地测量学[dà dì cè liáng xué]')).
+assert(celo(geodezio,'geodez.0o','测地线[cè de xiàn]')).
+assert(celo(geodezio,'geodez.0o','测地学[cè de xué]')).
+assert(celo(geofiziko,'geofiz.0o','地球物理学[dì qiú wù lǐ xué]')).
+assert(celo(geografo,'geogra.0o','地理学者[dì lǐ xué zhě]')).
+assert(celo(geografo,'geogra.0o','地理工作者[dì lǐ gōng zuò zhě]')).
+assert(celo(geografiisto,'geogra1.0isto','地理学者[dì lǐ xué zhě]')).
+assert(celo(geografiisto,'geogra1.0isto','地理工作者[dì lǐ gōng zuò zhě]')).
+assert(celo(geografio,'geogra1.0o','地理[dì lǐ]')).
+assert(celo(geografio,'geogra1.0o','地里[dì lǐ]')).
+assert(celo('fizika geografio','','自然地理学[zì rán dì lǐ xué]')).
+assert(celo(geoĥemio,'geohxemi.0o','地球化学[dì qiú huà xué]')).
+assert(celo(geokemio,'geohxemi.0o','地球化学[dì qiú huà xué]')).
+assert(celo(geologo,'geolog.0o','地質學家[dì zhì xué jiā]')).
+assert(celo(geologiisto,'geolog1.0isto','地質學家[dì zhì xué jiā]')).
+assert(celo(geologio,'geolog1.0o','地質學[dì zhì xué]')).
+assert(celo(geologio,'geolog1.0o','地質[dì zhì]')).
+assert(celo(geometria,'geomet1.0a','几何形状[jǐ hé xíng zhuàng]')).
+assert(celo(geometria,'geomet1.0a','几何[jǐ hé]')).
+assert(celo(geometrio,'geomet1.0o','几何学[jǐ hé xué]')).
+assert(celo(geometrio,'geomet1.0o','几何关系[jǐ hé guān xi]')).
+assert(celo('analitika geometrio','geomet1.analitika0o','解析几何[jiě xī jǐ hé]')).
+assert(celo(geomorfologio,'','地貌学[dì mào xué]')).
+assert(celo('Georgo','georg.0o','乔治[qiáo zhì]')).
+assert(celo('Georgo','georg.0o','于尔根[yú ěr gēn]')).
+assert(celo(georgino,'georgi.0o','天竺牡丹[tiān zhú mǔ dān]')).
+assert(celo(geostrategio,'','战略学[zhàn lüè xué]')).
+assert(celo(geostrategio,'','地緣戰略[dì yuán zhàn lüè]')).
+assert(celo(geoterma,'geoterm.0a','地热[de rè]')).
+assert(celo(geotermismo,'geoterm.0ismo','地热能[dì rè néng]')).
+assert(celo(geotermiko,'geotermik.0o','地热能[dì rè néng]')).
+assert(celo(geotrupo,'geotru.0o','屎壳郎[shǐ ké láng]')).
+assert(celo(geotrupo,'geotru.0o','蜣螂[qiāng láng]')).
+assert(celo(geotrupo,'geotru.0o','蜣[qiāng]')).
+assert(celo(gepardo,'gepard.0o','猎豹车[liè bào chē]')).
+assert(celo(gepardo,'gepard.0o','猎豹[liè bào]')).
+assert(celo(gepardo,'gepard.0o','印度豹[yìn dù bào]')).
+assert(celo(geranio,'gerani.0o','老鸛草[lǎo guàn cǎo]')).
+assert(celo(geraniacoj,'gerani1.0oj','老鸛草[lǎo guàn cǎo]')).
+assert(celo(gerbilo,'gerbil.0o','沙鼠[shā shǔ]')).
+assert(celo('Gerardo','','杰勒德[jié lēi dé]')).
+assert(celo(gerilo,'geril.0o','游击战[yóu jī zhàn]')).
+assert(celo(germaniumo,'german.0o','鈒[jí]')).
+assert(celo(germaniumo,'german.0o','鍺[zhě]')).
+assert(celo(germana,'german1.0a','德文[dé wén]')).
+assert(celo(germana,'german1.0a','德意志[dé yì zhì]')).
+assert(celo(germana,'german1.0a','說德語[shuō dé yǔ]')).
+assert(celo(germana,'german1.0a','德[dé]')).
+assert(celo(germano,'german1.0o.naciano','德国人[dé guó rén]')).
+assert(celo('Germanujo','german1.G0ujo','德国[dé guó]')).
+assert(celo('judgermana lingvo','german1.jud0alingvo','意第緒語[yì dì xù yǔ]')).
+assert(celo('Germanio','germani.G0o','德国[dé guó]')).
+assert(celo(gerontologio,'gerontologi.0o','老年医学[lǎo nián yī xué]')).
+assert(celo(gestadi,'gest.0adi','比手画脚[bǐ shǒu huà jiǎo]')).
+assert(celo(gestadi,'gest.0adi','揶[yé]')).
+assert(celo(gestadi,'gest.0adi','手舞足蹈[shǒu wǔ zú dǎo]')).
+assert(celo(gestadi,'gest.0adi','㧑[huī]')).
+assert(celo(gestadi,'gest.0adi','挥舞[huī wǔ]')).
+assert(celo(gesto,'','姿态[zī tài]')).
+assert(celo(gesto,'','反正天皇[fǎn zhèng tiān huáng]')).
+retract(celo(gesto,'','反正天皇[fǎn zhèng tiān huáng]')).
+assert(celo(geto,'get.0o','聚居点[jù jū diǎn]')).
+assert(celo(geto,'get.0o','犹太人区[yóu tài rén qū]')).
+assert(celo(gibono,'','長臂猿科[cháng bì yuán kē]')).
+assert(celo('giga-','giga.0','千兆[qiān zhào]')).
+assert(celo(giganta,'gigant.0a','巨客[jù kè]')).
+assert(celo(giganta,'gigant.0a','巨[jù]')).
+assert(celo(giganta,'gigant.0a','硕大无朋[shuò dà wú péng]')).
+assert(celo(giganta,'gigant.0a','巨型[jù xíng]')).
+assert(celo(giganta,'gigant.0a','特大[tè dà]')).
+assert(celo(giganta,'gigant.0a','巨大[jù dà]')).
+assert(celo(giganto,'gigant.0o','庞然大物[páng rán dà wù]')).
+assert(celo(giganto,'gigant.0o','巨客[jù kè]')).
+assert(celo(giganto,'gigant.0o','巨人[jù rén]')).
+assert(celo('Gilberto','','吉伯[jí bó]')).
+assert(celo(gildo,'gild.0o','公会[gōng huì]')).
+assert(celo(gildo,'gild.0o','基尔特[jī ěr tè]')).
+assert(celo(gildo,'gild.0o','同业公会[tóng yè gōng huì]')).
+assert(celo('Gilgameŝo','gilgamesx.0o','吉尔伽美什史诗[jí ěr gā měi shí shǐ shī]')).
+assert(celo(giloŝaĵo,'gilosx.0ajxo','扭索飾[niǔ suǒ shì]')).
+assert(celo(giloŝi,'gilosx.0i','扭索飾花紋[niǔ suǒ shì huā wén]')).
+assert(celo(gimnasto,'gimnas.0o','体操运动员[tǐ cāo yùn dòng yuán]')).
+assert(celo(gimnastejo,'','体育馆[tǐ yù guǎn]')).
+assert(celo(gimnastejo,'','健身室[jiàn shēn shì]')).
+assert(celo(gimnastikejo,'','健身室[jiàn shēn shì]')).
+assert(celo(gimnastikejo,'','体育馆[tǐ yù guǎn]')).
+assert(celo(gimnastiki,'gimnas1.0i','自由体操[zì yóu tǐ cāo]')).
+assert(celo(gimnastiki,'gimnas1.0i','器械体操[qì xiè tǐ cāo]')).
+assert(celo(gimnastikisto,'gimnas1.0isto','体操运动员[tǐ cāo yùn dòng yuán]')).
+assert(celo(gimnastiko,'gimnas1.0o','体操[tǐ cāo]')).
+assert(celo(gimnazio,'gimnaz.0o','高級文理中學[gāo jí wén lǐ zhōng xué]')).
+assert(celo(gimnospermoj,'gimnos.0oj','裸子植物[luǒ zǐ zhí wù]')).
+assert(celo(ginekologo,'gineko.0o','妇科医师[fù kē yī shī]')).
+assert(celo(ginekologiisto,'gineko1.0isto','妇科医师[fù kē yī shī]')).
+assert(celo(ginekologio,'gineko1.0o','妇科学[fù kē xué]')).
+assert(celo(ginekologio,'gineko1.0o','妇产科学[fù chǎn kē xué]')).
+assert(celo(gingivo,'gingiv.0o','牙齦[yá yín]')).
+assert(celo(ginko,'gink.0o.arbo','白果樹[bái guǒ shù]')).
+assert(celo(ginko,'gink.0o.arbo','白果[bái guǒ]')).
+assert(celo(ginko,'gink.0o.arbo','公孙树[gōng sūn shù]')).
+assert(celo(ginko,'gink.0o.arbo','銀杏[yín xìng]')).
+assert(celo(ginsengo,'ginseng.0o','蔘[shēn]')).
+assert(celo(ginsengo,'ginseng.0o','人蔘[rén sēn]')).
+assert(celo(ginsengo,'ginseng.0o','葠[shēn]')).
+assert(celo(ginsengo,'ginseng.0o','人参[rén shēn]')).
+assert(celo(gipsi,'gips.0i.KON','塗以膏泥[tú yǐ gāo ní]')).
+assert(celo(gipsi,'gips.0i.KON','敷膏药[fū gāo yào]')).
+assert(celo(gipsi,'gips.0i.KON','敷以石膏[fū yǐ shí gāo]')).
+assert(celo(gipso,'gips.0o','石膏[shí gāo]')).
+assert(celo(gipso,'gips.0o','硫酸鈣[liú suān gài]')).
+assert(celo(girlando,'girlan.0o','花环[huā huán]')).
+assert(celo(girlando,'girlan.0o','花彩[huā cǎi]')).
+assert(celo(girlando,'','花环[huā huán]')).
+assert(celo(girlando,'','花彩[huā cǎi]')).
+assert(celo(giroskopo,'girosk.0o','回轉儀[huí zhuǎn yí]')).
+assert(celo(giroskopo,'girosk.0o','陀螺[tuó luó]')).
+assert(celo(gisaĵo,'gis.0ajxo.muldita','潎[pì]')).
+assert(celo(gisaĵo,'gis.0ajxo.muldita','浇注[jiāo zhù]')).
+assert(celo(gisaĵo,'gis.0ajxo.muldita','鑄成品[zhù chéng pǐn]')).
+assert(celo(gisaĵo,'gis.0ajxo.muldita','鑄鐵件[zhù tiě jiàn]')).
+assert(celo(gisfero,'gis.0fero','鐵鑄[tiě zhù]')).
+assert(celo(gisi,'gis.0i.muldi','鑄[zhù]')).
+assert(celo(gisi,'gis.0i.muldi','浇铸[jiāo zhù]')).
+assert(celo(gisi,'gis.0i.muldi','注[zhù]')).
+assert(celo(gisisto,'gis.0isto.muldisto','鑄造工[zhù zào gōng]')).
+assert(celo(gisisto,'gis.0isto.muldisto','鑄工[zhù gōng]')).
+assert(celo(giso,'','鎔鑄[róng zhù]')).
+assert(celo(gisto,'gist.0o','麥啤[mài pí]')).
+assert(celo(gisto,'gist.0o','麯[qú]')).
+assert(celo(gisto,'gist.0o','麴[qū]')).
+assert(celo(gisto,'gist.0o','糱[niè]')).
+assert(celo(gisto,'gist.0o','酵[jiào]')).
+assert(celo(gisto,'gist.0o','酴[tú]')).
+assert(celo(gitaro,'gitar.0o','吉他[jí tā]')).
+assert(celo('Gizo','giz.0o','吉萨[jí sà]')).
+assert(celo(glabelo,'glabel.0o','电缆[diàn lǎn]')).
+retract(celo(glabelo,'glabel.0o','电缆[diàn lǎn]')).
+assert(celo(glaceigi,'glace.0igi','砑[yà]')).
+assert(celo(malglacea,'glace.mal0a','幽幽[yōu yōu]')).
+assert(celo(malglacea,'glace.mal0a','困[kùn]')).
+assert(celo(malglacea,'glace.mal0a','无神[wú shén]')).
+assert(celo(glacia,'glaci.0a','凛凛[lǐn lǐn]')).
+assert(celo(glacia,'glaci.0a','霜[shuāng]')).
+assert(celo(glaciaĵo,'glaci.0ajxo','冰糕[bīng gāo]')).
+assert(celo(glaciaĵo,'glaci.0ajxo','冰淇淋[bīng qí lín]')).
+assert(celo(glaciaĵo,'glaci.0ajxo','冰激凌[bīng jī líng]')).
+assert(celo(glaciaĵo,'glaci.0ajxo','雪糕[xuě gāo]')).
+assert(celo(glaciaro,'glaci.0aro','冰川[bīng chuān]')).
+assert(celo(glaciejo,'glaci.0ejo.GEOG','冰川[bīng chuān]')).
+assert(celo(glacio,'glaci.0o','冰[bīng]')).
+assert(celo(glacipluvo,'glaci.0pluvo','霰雪子雨凇[xiàn xuě zǐ yǔ sōng]')).
+assert(celo(glacirompilo,'glaci.0rompilo','破冰船[pò bīng chuán]')).
+assert(celo(glaciŝarnko,'','冷冻柜[lěng dòng guì]')).
+assert(celo(glaĉero,'glacxer.0o','冰川[bīng chuān]')).
+assert(celo(gladi,'glad.0i','熅[yùn]')).
+assert(celo(gladi,'glad.0i','烫[tàng]')).
+assert(celo(gladilo,'glad.0ilo','熨斗[yùn dǒu]')).
+assert(celo(negladenda,'','免烫[miǎn tàng]')).
+assert(celo(gladiatoro,'gladia.0o','战士[zhàn shì]')).
+assert(celo(gladiatoro,'gladia.0o','斗兽士[dòu shòu shì]')).
+assert(celo(gladiatoro,'gladia.0o','斗士[dòu shì]')).
+assert(celo(gladiolo,'gladio.0o','唐菖蒲[táng chāng pú]')).
+assert(celo(gladiolo,'gladio.0o','剑兰[jiàn lán]')).
+assert(celo('Glagolico','glagolic.0o','格拉哥里字母[gé lā gē lǐ zì mǔ]')).
+assert(celo(glano,'','龜頭[guī tóu]')).
+assert(celo(glano,'','阴茎头[yīn jīng tóu]')).
+retractall(celo(glano,_,_),2).
+assert(celo(glano,'glan.0o.BOT','橡子[xiàng zǐ]')).
+assert(celo(glano,'glan.0o.BOT','橡实[xiàng shí]')).
+assert(celo(glano,'glan.0o.ANA','龜頭[guī tóu]')).
+assert(celo(glano,'glan.0o.ANA','阴茎头[yīn jīng tóu]')).
+assert(celo(glando,'gland.0o','腺[xiàn]')).
+assert(celo(glando,'gland.0o','腺体[xiàn tǐ]')).
+assert(celo('surrena glando','gland.surrena0o','肾上腺[shèn shàng xiàn]')).
+assert(celo(glaso,'glas.0o','玻璃[bō li]')).
+assert(celo(glaso,'glas.0o','玻璃鏡片[bō li jìng piàn]')).
+assert(celo(glaso,'glas.0o','甒[wǔ]')).
+assert(celo('Glasgovo','glasgov.0o.urbo','格拉斯哥[gé lā sī gē]')).
+assert(celo(glata,'glat.0a','一径[yī jìng]')).
+assert(celo(glata,'glat.0a','光滑[guāng huá]')).
+assert(celo(glata,'glat.0a','公然[gōng rán]')).
+assert(celo(glata,'glat.0a','直截了当[zhí jié liǎo dàng]')).
+assert(celo(glata,'glat.0a','順利[shùn lì]')).
+assert(celo(glata,'glat.0a','平坦[píng tǎn]')).
+assert(celo(glata,'glat.0a','滑[huá]')).
+assert(celo(glatigi,'glat.0igi','抿[mǐn]')).
+assert(celo(glatigi,'glat.0igi','拉直[lā zhí]')).
+assert(celo(glatigi,'glat.0igi','磨光[mò guāng]')).
+assert(celo(glatigi,'glat.0igi','弄平[nòng píng]')).
+assert(celo(malglata,'glat.mal0a','聒[guō]')).
+assert(celo(malglata,'glat.mal0a','詻[è]')).
+assert(celo(malglata,'glat.mal0a','糲[lì]')).
+assert(celo(malglata,'glat.mal0a','麤[cū]')).
+assert(celo(malglata,'glat.mal0a','屝[fèi]')).
+assert(celo(malglata,'glat.mal0a','儊[chù]')).
+assert(celo(malglata,'glat.mal0a','险[xiǎn]')).
+assert(celo(glaŭka,'glauxk1.0a','蓝绿色[lán lü sè]')).
+assert(celo(glaŭka,'glauxk1.0a','水鴨[shuǐ yā]')).
+assert(celo(glaŭka,'glauxk1.0a','蓝绿[lán lü]')).
+assert(celo(glaŭka,'glauxk1.0a','鳧綠[fú lü]')).
+assert(celo(glaŭka,'glauxk1.0a','鴨綠色[yā lü sè]')).
+assert(celo(glavingo,'glav.0ingo','膣[zhì]')).
+assert(celo(glavo,'glav.0o','剣[jiàn]')).
+assert(celo(glavo,'glav.0o','劒[jiàn]')).
+assert(celo(glavo,'glav.0o','剱[jiàn]')).
+assert(celo(glavo,'glav.0o','劔[jiàn]')).
+assert(celo(glavo,'glav.0o','釼[jiàn]')).
+assert(celo(glavo,'glav.0o','干戈[gàn gē]')).
+assert(celo(glavo,'glav.0o','鋣[yé]')).
+assert(celo(glavo,'glav.0o','剑[jiàn]')).
+assert(celo(glazuri,'glazur.0i','鑲玻璃[xiāng bō li]')).
+assert(celo(glazuri,'glazur.0i','塗釉[tú yòu]')).
+assert(celo(glazuro,'glazur.0o.KUI','糖霜[táng shuāng]')).
+assert(celo(glazuro,'glazur.0o.KUI','二层釉[èr céng yòu]')).
+assert(celo(glazuro,'glazur.0o.KUI','釉[yòu]')).
+assert(celo(glazuro,'glazur.0o.KUI','覆冰[fù bīng]')).
+assert(celo(glazuro,'glazur.0o.KUI','上釉[shàng yòu]')).
+assert(celo(glekomo,'glekom.0o','金錢薄荷[jīn qián bò he]')).
+assert(celo(glicerino,'glicer3.0o','甘醇[gān chún]')).
+assert(celo(glicerino,'glicer3.0o','丙三醇[bǐng sān chún]')).
+assert(celo(glicerino,'glicer3.0o','甘油[gān yóu]')).
+assert(celo(glicineo,'glicin1.0o','藤萝[téng luó]')).
+assert(celo(glicirizaĵo,'glicir.0ajxo','甘草[gān cǎo]')).
+assert(celo(glicirizo,'glicir.0o','苷[gān]')).
+assert(celo(glikozo,'glikoz.0o','葡萄糖[pú táo táng]')).
+assert(celo(glikozo,'glikoz.0o','葡萄糖[pú tao táng]')).
+assert(celo(glukozo,'glikoz.0o','葡萄糖[pú táo táng]')).
+assert(celo(glukozo,'glikoz.0o','葡萄糖[pú tao táng]')).
+assert(celo(glimi,'glim.0i','淡光[dàn guāng]')).
+assert(celo(glimi,'glim.0i','熒熒[yíng yíng]')).
+assert(celo(glimo,'glim.0o','云母[yún mǔ]')).
+assert(celo(gliptiko,'glipti.0o','石刻[shí kè]')).
+assert(celo(gliptodonto,'glipto.0o','彫齒獸[diāo chǐ shòu]')).
+assert(celo(glisilo,'glis.0ilo','水上飛機[shuǐ shàng fēi jī]')).
+assert(celo(glisilo,'glis.0ilo','滑行者[huá xíng zhě]')).
+assert(celo(glisilo,'glis.0ilo','滑翔机[huá xiáng jī]')).
+assert(celo(glita,'glit.0a','滑的[huá de]')).
+assert(celo(glita,'glit.0a','溜滑[liū huá]')).
+assert(celo(glita,'glit.0a','油[yóu]')).
+assert(celo(gliti,'glit.0i.sursxovigxi','滑倒[huā dǎo]')).
+assert(celo(gliti,'glit.0i.sursxovigxi','跶[dā]')).
+assert(celo(gliti,'glit.0i.sursxovigxi','蹉[cuō]')).
+assert(celo(gliti,'glit.0i.sursxovigxi','踜[lèng]')).
+assert(celo(gliti,'glit.0i.sursxovigxi','溜走[liū zǒu]')).
+assert(celo(glitiga,'glit.0iga','滑的[huá de]')).
+assert(celo(glitilo,'glit.0ilo','扒犁[pá li]')).
+assert(celo(glitilo,'glit.0ilo','冰刀鞋[bīng dāo xié]')).
+assert(celo(glitkuri,'glit.0kuri','滑冰[huá bīng]')).
+assert(celo(glito,'glit.0o.FON','滑音[huá yīn]')).
+assert(celo(glitpunkta,'glit.0punkta','浮点[fú diǎn]')).
+assert(celo(deglitejo,'glit.de0ejo','滑梯[huá tī]')).
+assert(celo(deglitejo,'glit.de0ejo','滑槽[huá cáo]')).
+assert(celo(deglitejo,'glit.de0ejo','溜滑梯[liū huá tī]')).
+assert(celo(degliti,'','滑下[huá xià]')).
+assert(celo(degliti,'','滑落[huá luò]')).
+assert(celo(degilitilo,'','滑梯[huá tī]')).
+assert(celo(degilitilo,'','滑槽[huá cáo]')).
+assert(celo(degilitilo,'','溜滑梯[liū huá tī]')).
+assert(celo(elgliti,'glit.el0i.nerimarkite','蹽[liāo]')).
+assert(celo(elgliti,'glit.el0i.nerimarkite','摔跟头[shuāi gēn tou]')).
+assert(celo(elgliti,'glit.el0i.nerimarkite','溜[liū]')).
+assert(celo(globa,'glob.0a.FORM','球形[qiú xíng]')).
+assert(celo(terglito,'','土石流[tǔ shí liú]')).
+assert(celo(terglito,'','土崩[tǔ bēng]')).
+assert(celo(terglito,'','山体滑坡[shān tǐ huá pō]')).
+assert(celo(terglito,'','山崩[shān bēng]')).
+assert(celo(terglito,'','山泥倾泻[shān ní qīng xiè]')).
+assert(celo(globeto,'glob.0eto','水珠[shuǐ zhū]')).
+assert(celo(globeto,'glob.0eto','小球[xiǎo qiú]')).
+assert(celo(globeto,'glob.0eto','丸[wán]')).
+assert(celo(globo,'glob.0o.FORM','枪弹[qiāng dàn]')).
+assert(celo(globo,'glob.0o.FORM','弹[dàn]')).
+assert(celo(globo,'glob.0o.FORM','珠[zhū]')).
+assert(celo(platglobo,'glob.plat0o','世界地图[shì jiè dì tú]')).
+assert(celo(globuso,'globus.0o','地球仪[dì qiú yí]')).
+assert(celo(glora,'glor.0a','咺[xuǎn]')).
+assert(celo(glora,'glor.0a','曜[yào]')).
+assert(celo(glora,'glor.0a','耀[yào]')).
+assert(celo(glori,'glor.0i','頌[sòng]')).
+assert(celo(glori,'glor.0i','嘉許[jiā xǔ]')).
+assert(celo(glori,'glor.0i','讚譽[zàn yù]')).
+assert(celo(glori,'glor.0i','闁[bāo]')).
+assert(celo(glori,'glor.0i','褒[bāo]')).
+assert(celo(glorigi,'glor.0igi','頌[sòng]')).
+assert(celo(glorigi,'glor.0igi','标榜[biāo bǎng]')).
+assert(celo(gloro,'glor.0o','名誉[míng yù]')).
+assert(celo(gloro,'glor.0o','光[guāng]')).
+assert(celo(malglora,'glor.mal0a','不出名[bù chū míng]')).
+assert(celo(malglora,'glor.mal0a','可恥[kě chǐ]')).
+assert(celo(malglori,'glor.mal0i','謾罵[mán mà]')).
+assert(celo(malglori,'glor.mal0i','呰[zǐ]')).
+assert(celo(malgloriga,'glor.mal0iga','不光彩[bù guāng cǎi]')).
+assert(celo(malgloriga,'glor.mal0iga','无耻[wú chǐ]')).
+assert(celo(malgloro,'glor.mal0o','玷[diàn]')).
+assert(celo(malgloro,'glor.mal0o','恥辱[chǐ rǔ]')).
+assert(celo(glosaro,'glos.0aro','詞彙表[cí huì biǎo]')).
+assert(celo(glosaro,'glos.0aro','朮語詞典[shù yǔ cí diǎn]')).
+assert(celo(glosaro,'glos.0aro','字彙[zì huì]')).
+assert(celo(gloto,'glot.0o','声门[shēng mén]')).
+assert(celo(gluaĵo,'glu.0ajxo.bildo','带不干胶的便条[dài bù gān jiāo de biàn tiáo]')).
+assert(celo(gluaĵo,'glu.0ajxo.bildo','胶纸[jiāo zhǐ]')).
+assert(celo(gluaĵo,'glu.0ajxo.bildo','标贴[biāo tiē]')).
+assert(celo(gluaĵo,'glu.0ajxo.bildo','即时贴[jí shí tiē]')).
+assert(celo(glui,'glu.0i','貼[tiē]')).
+assert(celo(glui,'glu.0i','粘着[nián zhuó]')).
+assert(celo(glui,'glu.0i','粘接[zhān jiē]')).
+assert(celo(glui,'glu.0i','块多[kuài duō]')).
+assert(celo(glui,'glu.0i','粘在一起[zhān zài yì qǐ]')).
+assert(celo(glui,'glu.0i','糊[hú]')).
+assert(celo(gluiĝi,'glu.0igxi','黏貼[nián tiē]')).
+assert(celo(gluilo,'glu.0ilo','粘合劑[nián hé jì]')).
+assert(celo(gluilo,'glu.0ilo','粘接材料[zhān jiē cái liào]')).
+assert(celo(gluilo,'glu.0ilo','粘剂[zhān jì]')).
+assert(celo(gluilo,'glu.0ilo','密封胶[mì fēng jiāo]')).
+assert(celo(gluilo,'glu.0ilo','粘胶[zhān jiāo]')).
+assert(celo(gluilo,'glu.0ilo','胶合剂[jiāo hé jì]')).
+assert(celo(gluilo,'glu.0ilo','胶粘剂[jiāo zhān jì]')).
+assert(celo(gluilo,'glu.0ilo','胶[jiāo]')).
+assert(celo(gluilo,'glu.0ilo','木工胶[mù gōng jiāo]')).
+assert(celo(gluilo,'glu.0ilo','糨糊[jiàng hu]')).
+assert(celo(gluilo,'glu.0ilo','糊[hú]')).
+assert(celo(gluo,'glu.0o','胶合剂[jiāo hé jì]')).
+assert(celo(gluo,'glu.0o','胶粘剂[jiāo zhān jì]')).
+assert(celo(gluo,'glu.0o','糊[hú]')).
+assert(celo(gluo,'glu.0o','粘合劑[nián hé jì]')).
+assert(celo(gluo,'glu.0o','粘接材料[zhān jiē cái liào]')).
+assert(celo(gluo,'glu.0o','粘剂[zhān jì]')).
+assert(celo(gluo,'glu.0o','密封胶[mì fēng jiāo]')).
+assert(celo(gluo,'glu.0o','粘胶[zhān jiāo]')).
+assert(celo(alglui,'glu.al0i','貼上[tiē shàng]')).
+assert(celo(algluiĝi,'glu.al0igxi','附着[fù zhe]')).
+assert(celo(algluiĝi,'glu.al0igxi','黏附[nián fù]')).
+assert(celo(kunglui,'','块多[kuài duō]')).
+assert(celo(kunglui,'','粘在一起[zhān zài yì qǐ]')).
+assert(celo(malglui,'glu.mal0i','仳[pǐ]')).
+assert(celo(malglui,'glu.mal0i','局部[jú bù]')).
+assert(celo(malglui,'glu.mal0i','构件[gòu jiàn]')).
+assert(celo(glucido,'glucid.0o','糖类[táng lèi]')).
+assert(celo(glucido,'glucid.0o','醣[táng]')).
+assert(celo(glucido,'glucid.0o','碳水化合物[tàn shuǐ huà hé wù]')).
+assert(celo(glugli,'glugl.0i','瘶口[sòu kǒu]')).
+assert(celo(glugli,'glugl.0i','汩汩[gǔ gǔ]')).
+assert(celo(glugli,'glugl.0i','嗽口[sòu kǒu]')).
+assert(celo(glugli,'glugl.0i','漱口[shù kǒu]')).
+assert(celo(glugli,'glugl.0i','瘶[sòu]')).
+assert(celo(glugli,'glugl.0i','嗽[sòu]')).
+assert(celo(glumo,'glum.0o','穎[yǐng]')).
+assert(celo(glutejo,'glut.0ejo','嗌[yì]')).
+assert(celo(glutejo,'glut.0ejo','咽头[yān tóu]')).
+assert(celo(gluti,'glut.0i','咽[yàn]')).
+assert(celo(gluti,'glut.0i','吞下[tūn xià]')).
+assert(celo(gluti,'glut.0i','嚃[tà]')).
+assert(celo(gluti,'glut.0i','吞[tūn]')).
+assert(celo(gluto,'glut.0o','满满一口[mǎn mǎn yī kǒu]')).
+assert(celo(gluto,'glut.0o','咕噜咕噜饮[gū lū gū lū yǐn]')).
+assert(celo(gluto,'glut.0o','吞飲[tūn yǐn]')).
+assert(celo(gluto,'glut.0o','一次吞飲量[yī cì tūn yǐn liàng]')).
+assert(celo(gluto,'glut.0o','忍气[rěn qì]')).
+assert(celo(gluto,'glut.0o','牛飲[niú yǐn]')).
+assert(celo(gluto,'glut.0o','吞咽[tūn yān]')).
+assert(celo(engluti,'glut.en0i','吞吃[tūn chī]')).
+assert(celo(engluti,'glut.en0i','交織在一起[jiāo zhī zài yì qǐ]')).
+assert(celo(engluti,'glut.en0i','席卷[xí juǎn]')).
+assert(celo(engluti,'glut.en0i','大吃[dà chī]')).
+assert(celo(engluti,'glut.en0i','牛飲[niú yǐn]')).
+assert(celo(forgluti,'glut.for0i','咽[yàn]')).
+assert(celo(forgluti,'glut.for0i','哙[kuài]')).
+assert(celo(glutamato,'glutamat.0o','穀氨酸[gǔ ān suān]')).
+assert(celo(glutamato,'glutamat.0o','穀胺酸[gǔ ān suān]')).
+assert(celo(glutamato,'glutamat.0o','味精[wèi jīng]')).
+assert(celo(gluteo,'glute.0o','頰[jiá]')).
+assert(celo(gluteo,'glute.0o','頤[yí]')).
+assert(celo(gluteno,'gluten.0o','面筋[miàn jīn]')).
+assert(celo(gnejso,'gnejs.0o','岩土体[yán tǔ tǐ]')).
+assert(celo(gnejso,'gnejs.0o','片麻岩[piàn má yán]')).
+assert(celo(gneto,'gnet.0o','买麻藤科[mǎi má téng kē]')).
+assert(celo(gnetoplantoj,'gnet.0oplantoj','买麻藤目[mǎi má téng mù]')).
+assert(celo(gnoma,'gnom.0a','矮矮的[ǎi ǎi de]')).
+assert(celo(gnomo,'gnom.0o','土地神[tǔ dì shén]')).
+assert(celo(gnomo,'gnom.0o','侏儒[zhū rú]')).
+assert(celo(gnostikismo,'gnostik.0ismo','諾斯替教[nuò sī tì jiào]')).
+assert(celo(gnostikismo,'gnostik.0ismo','諾斯底主義[nuò sī dǐ zhǔ yì]')).
+assert(celo(gnostiko,'gnostik.0o.REL','真知[zhēn zhī]')).
+assert(celo(gnozo,'gnoz.0o','真知[zhēn zhī]')).
+assert(celo(gnuo,'gnu.0o','牛羚[niú líng]')).
+assert(celo(gnuo,'gnu.0o','角馬[jué mǎ]')).
+assert(celo(gobeleno,'gobelen.0o','挂毡[guà zhān]')).
+assert(celo(gobeleno,'gobelen.0o','織錦畫[zhī jǐn huà]')).
+assert(celo(gobeleno,'gobelen.0o','繡帷[xiù wéi]')).
+assert(celo(gobelino,'gobelen.0o','挂毡[guà zhān]')).
+assert(celo(gobelino,'gobelen.0o','織錦畫[zhī jǐn huà]')).
+assert(celo(gobelino,'gobelen.0o','繡帷[xiù wéi]')).
+assert(celo('Godfredo','godfred.0o','戈特弗裡德[gē tè fú lǐ dé]')).
+assert(celo(goeleto,'goelet.0o','縱帆船[zòng fán chuán]')).
+assert(celo(golejisto,'gol.0ejisto','守門員[shǒu mén yuán]')).
+assert(celo(golejisto,'gol.0ejisto','看門人[kàn mén rén]')).
+assert(celo(golejo,'gol.0ejo','球門[qiú mén]')).
+assert(celo(golo,'gol.0o','球門[qiú mén]')).
+assert(celo(golfeto,'golf.0eto','隩[yù]')).
+assert(celo(golfeto,'golf.0eto','海湾[hǎi wān]')).
+assert(celo(golfeto,'golf.0eto','湾[wān]')).
+assert(celo('Persa Golfo','golf.Persa0o','波斯湾[bō sī wān]')).
+assert(celo(golfludo,'golf1.0o','高尔夫球[gāo ěr fū qiú]')).
+assert(celo(gombo,'gomb.0o','秋葵[qiū kuí]')).
+assert(celo(gondolo,'gondol.0o','狭长小船[xiá cháng xiǎo chuán]')).
+assert(celo(gondolo,'gondol.0o','两头尖的平底船[liǎng tóu jiān de píng dǐ chuán]')).
+assert(celo('Gondvano','','冈瓦那大陆[gāng wǎ nà dà lù]')).
+assert(celo(gongo,'gong.0o','鑼[luó]')).
+assert(celo(gonoreo,'gonore.0o.MED','淋病[lín bìng]')).
+assert(celo(gorgono,'gorgon.0o','蛇发女妖[shé fǎ nǚ yāo]')).
+assert(celo(gorgono,'gorgon.0o','戈耳貢[gē ěr gòng]')).
+assert(celo(gorĝo,'gorgx.0o','吭[háng]')).
+assert(celo(gorĝo,'gorgx.0o','咙[lóng]')).
+assert(celo(gorĝo,'gorgx.0o','哙[kuài]')).
+assert(celo(gorĝo,'gorgx.0o','喉[hóu]')).
+assert(celo(ruĝgorĝulo,'gorgx.rugx0ulo.ZOO','欧洲知更鸟[ōu zhōu zhī gèng niǎo]')).
+assert(celo(ruĝgorĝulo,'gorgx.rugx0ulo.ZOO','知更鳥[zhī gēng niǎo]')).
+assert(celo(gorilo,'goril.0o','大猩猩[dà xīng xīng]')).
+assert(celo(gospelo,'gospel.0o','福音音乐[fú yīn yīn yuè]')).
+assert(celo(gota,'got.0a','哥特式[gē tè shì]')).
+assert(celo('Gotamo','gotam.0o','释迦牟尼[shì jiā móu ní]')).
+assert(celo(gotika,'gotik.0a','哥特式[gē tè shì]')).
+assert(celo(gotiko,'gotik.0o','哥特[gē tè]')).
+assert(celo(gotiko,'gotik.0o','哥特式建筑[gē tè shì jiàn zhú]')).
+assert(celo(gotiko,'gotik.0o','哥特式艺术[gē tè shì yì shù]')).
+assert(celo(gracia,'graci.0a','娉婷[pīng tíng]')).
+assert(celo(gracia,'graci.0a','輕盈[qīng yíng]')).
+assert(celo(gracia,'graci.0a','婀[ē]')).
+assert(celo(gracio,'graci.0o','文彩[wén cǎi]')).
+assert(celo(gracio,'graci.0o','优雅[yōu yǎ]')).
+assert(celo('Gracio','graci.G0o','优雅[yōu yǎ]')).
+retractall(celo('Gracio',_,_),1).
+assert(celo(malgracia,'graci.mal0a','粗短[cū duǎn]')).
+assert(celo(malgracia,'graci.mal0a','笨重[bèn zhòng]')).
+assert(celo(malgracia,'graci.mal0a','伹[qū]')).
+assert(celo(gracila,'gracil.0a','微妙[wéi miào]')).
+assert(celo(gracila,'gracil.0a','美妙[měi miào]')).
+assert(celo(gradaro,'grad.0aro','增减[zēng jiǎn]')).
+assert(celo(grado,'grad.0o.KOMUNE','咖[kā]')).
+assert(celo(grado,'grad.0o.KOMUNE','等級[děng jí]')).
+assert(celo(grado,'grad.0o.KOMUNE','品[pǐn]')).
+assert(celo(sufiĉagrade,'grad.suficxa0e','彀[gòu]')).
+assert(celo(sufiĉagrade,'grad.suficxa0e','够数[gòu shù]')).
+assert(celo(gradiento,'gradient.0o','梯度[tī dù]')).
+assert(celo(gradiento,'gradient.0o','斜度[xié dù]')).
+assert(celo(graflando,'','县[xiàn]')).
+assert(celo(grafujo,'graf.0ujo','县[xiàn]')).
+assert(celo(grafeteorio,'grafe.0teorio','图论[tú lùn]')).
+assert(celo(grafeiko,'grafei.0o','图论[tú lùn]')).
+assert(celo(grafeno,'grafen.0o','石墨烯[shí mò xī]')).
+assert(celo(grafemo,'','字位[zì wèi]')).
+assert(celo(grafika,'grafik.0a','图像[tú xiàng]')).
+assert(celo(grafikaĵo,'grafik.0ajxo.BELA','图像[tú xiàng]')).
+assert(celo(grafikisto,'grafik.0isto.BELA','画师[huà shī]')).
+assert(celo(grafikisto,'grafik.0isto.BELA','图像设计者[tú xiàng shè jì zhě]')).
+assert(celo(grafikisto,'grafik.0isto.BELA','图像设计师[tú xiàng shè jì shī]')).
+assert(celo(grafikisto,'grafik.0isto.BELA','图形设计人员[tú xíng shè jì rén yuán]')).
+assert(celo(grafiko,'grafik.0o.BELA','图像[tú xiàng]')).
+assert(celo(grafiko,'grafik.0o.BELA','图形[tú xíng]')).
+assert(celo(grafito,'grafit.0o','石墨慢化反应堆[shí mò màn huà fǎn yìng duī]')).
+assert(celo(grafito,'grafit.0o','石墨[shí mò]')).
+assert(celo(grafitio,'grafiti.0o','粗制彫刻[cū zhì diāo kè]')).
+assert(celo(grafitio,'grafiti.0o','乱画[luàn huà]')).
+assert(celo(grafologo,'grafol.0o','笔相家[bǐ xiāng jiā]')).
+assert(celo(grafologiisto,'grafol1.0isto','笔相家[bǐ xiāng jiā]')).
+assert(celo(grafologio,'grafol1.0o','笔相术[bǐ xiāng shù]')).
+assert(celo(grafologio,'grafol1.0o','笔相法[bǐ xiāng fǎ]')).
+assert(celo(grajlo,'grajl.0o','冰霰[bīng xiàn]')).
+assert(celo(grajlo,'grajl.0o','霰[xiàn]')).
+assert(celo(grajlo,'grajl.0o','霙[yīng]')).
+assert(celo(grajnigi,'grajn.0igi.KOMUNE','顆粒狀[kē lì zhuàng]')).
+assert(celo(grajnigi,'grajn.0igi.KOMUNE','制粒[zhì lì]')).
+assert(celo(grajnigi,'grajn.0igi.KOMUNE','造粒[zào lì]')).
+assert(celo(grajnigi,'grajn.0igi.KOMUNE','粒化[lì huà]')).
+assert(celo(grajnigi,'grajn.0igi.KOMUNE','使成顆粒[shǐ chéng kē lì]')).
+assert(celo(grajno,'grajn.0o','穀粒[gǔ lì]')).
+assert(celo(grajno,'grajn.0o','粒[lì]')).
+assert(celo(grajnumo,'grajn.0umo.BOT','花被[huā bèi]')).
+assert(celo(belgrajno,'grajn.bel0o','瑕[xiá]')).
+assert(celo(semgrajno,'grajn.sem0o','种子[zhǒng zǐ]')).
+assert(celo(gramkolorigo,'gram1.0kolorigo','革兰氏染色[gé lán shì rǎn sè]')).
+assert(celo(gramatika,'gramat.0a','文法[wén fǎ]')).
+assert(celo(gramatikilo,'gramat.0ilo','功能詞[gōng néng cí]')).
+assert(celo(gramatikisto,'gramat.0isto','文法家[wén fǎ jiā]')).
+assert(celo(gramatikisto,'gramat.0isto','語法教師[yǔ fǎ jiào shī]')).
+assert(celo(gramatikisto,'gramat.0isto','文法学者[wén fǎ xué zhě]')).
+assert(celo(gramatiko,'gramat.0o','文法[wén fǎ]')).
+assert(celo(gramatiko,'gramat.0o','語法[yǔ fǎ]')).
+assert(celo(laŭgramatika,'gramat.laux0a','符合語法規則[fú hé yǔ fǎ guī zé]')).
+assert(celo(gramineoj,'gramine.0oj','禾本科植物[hé běn kē zhí wù]')).
+assert(celo(gramofono,'gramof.0o','唱机[chàng jī]')).
+assert(celo(granatarbo,'granat.0arbo','石榴树[shí liú shù]')).
+assert(celo(granatarbo,'granat.0arbo','榴[liú]')).
+assert(celo(granatarbo,'granat.0arbo','安石榴[ān shí liú]')).
+assert(celo(granato,'granat.0o','石榴[shí liú]')).
+assert(celo(grandegulo,'','巨客[jù kè]')).
+assert(celo(grandiĝi,'grand.0igxi','能勝任[néng shèng rèn]')).
+assert(celo(grandiĝi,'grand.0igxi','滚雪球般增长[gǔn xuě qiú bān zēng zhǎng]')).
+assert(celo(grandiĝi,'grand.0igxi','渐增[jiān zēng]')).
+assert(celo(grandigi,'grand.0igi','放大[fàng dài]')).
+assert(celo(grandigi,'grand.0igi','加大[jiā dà]')).
+assert(celo(grandigi,'grand.0igi','放[fàng]')).
+assert(celo(grandegulo,'grand.0egulo','庞然大物[páng rán dà wù]')).
+assert(celo(grandegulo,'grand.0egulo','巨客[jù kè]')).
+assert(celo(grandegulo,'grand.0egulo','巨人[jù rén]')).
+assert(celo(grando,'grand.0o','尺码[chǐ mǎ]')).
+assert(celo(grando,'grand.0o','数值[shù zhí]')).
+assert(celo(grando,'grand.0o','量[liàng]')).
+assert(celo('fizika grando','grand.fizika0o','物理量[wù lǐ liàng]')).
+assert(celo(malgrandegulo,'grand.mal0egulo','盆景树[pén jǐng shù]')).
+assert(celo(malgrandegulo,'grand.mal0egulo','侏儒[zhū rú]')).
+assert(celo(malgrandegulo,'grand.mal0egulo','侏[zhū]')).
+assert(celo(mezgranda,'grand.mez0a','中等規模[zhōng děng guī mó]')).
+assert(celo(mezgranda,'grand.mez0a','中等大小[zhōng děng dà xiǎo]')).
+assert(celo(mezgranda,'grand.mez0a','中型[zhōng xíng]')).
+assert(celo(pogrande,'grand.po0e','批量[pī liàng]')).
+assert(celo(pogrande,'grand.po0e','整批[zhěng pī]')).
+assert(celo(pogrande,'grand.po0e','大量地[dà liàng de]')).
+assert(celo(trograndigi,'grand.tro0igi','过高评价[guò gāo píng jià]')).
+assert(celo(trograndigi,'grand.tro0igi','过分评价[guò fèn píng jià]')).
+assert(celo(trograndigi,'grand.tro0igi','做得过火[zuò dé guò huǒ]')).
+assert(celo(trograndigi,'grand.tro0igi','浮夸[fú kuā]')).
+assert(celo(trograndigi,'grand.tro0igi','做得过多[zuò dé guò duō]')).
+assert(celo(grandioza,'grandi.0a','丕[pī]')).
+assert(celo(grandioza,'grandi.0a','嘏[jiǎ]')).
+assert(celo(grandioza,'grandi.0a','矞[yù]')).
+assert(celo(grandioza,'grandi.0a','宏伟[hóng wěi]')).
+assert(celo(grandioza,'grandi.0a','和煦[hé xǔ]')).
+assert(celo(grandioza,'grandi.0a','堂皇[táng huáng]')).
+assert(celo(grandioza,'grandi.0a','豪[háo]')).
+assert(celo(grandioza,'grandi.0a','了不起[liǎo bu qǐ]')).
+assert(celo(granito,'granit.0o','花岗岩[huā gǎng yán]')).
+assert(celo(granito,'granit.0o','花岗岩[huā gāng yán]')).
+assert(celo(granolo,'granol.0o','顆粒[kē lì]')).
+assert(celo(grapfruktarbo,'grapfrukt.0arbo','葡萄柚[pú táo yòu]')).
+assert(celo(grapfrukto,'grapfrukt.0o','椵[jiǎ]')).
