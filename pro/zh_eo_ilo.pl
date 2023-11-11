@@ -53,9 +53,9 @@
 csv_hande('vrt/handedict_23.u8').
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-csv_mankoj('vrt/eo_de_g.csv').
-db_celo('pdb/eo_zh_g.db').
-csv_celo('vrt/eo_zh_g.csv').
+csv_mankoj('vrt/eo_de_h.csv').
+db_celo('pdb/eo_zh_h.db').
+csv_celo('vrt/eo_zh_h.csv').
 
 
 legu :-
@@ -515,8 +515,7 @@ zh_pr_vokal_super(V,D,VS) :-
 % por apliki la regulojn, do ni transformas la silabon al paroj
 % 0-x, 1-i, 2-a,... kie 1 kaj 2 montras la unuan kaj duan vokalon
 % kaj 0 konsonantojn kaj pliajn vokalojn
-zh_pr_vokal([],_,[]).
-zh_pr_vokal([Lit|Rest],N,[N1-Lit|Paroj]) :-
+zh_pr_vokal([],_,[]).hzh_pr_vokal([Lit|Rest],N,[N1-Lit|Paroj]) :-
     vokalo(Lit), N<2, !,
     N1 is N+1,
     zh_pr_vokal(Rest,N1,Paroj).

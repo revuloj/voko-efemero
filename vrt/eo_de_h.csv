@@ -1,0 +1,2808 @@
+#mrk	kap	num	dos	ind	trd
+h.0	ho		oa_7	NULL	NULL
+h.0.konsonanto	ho		oa_7	NULL	NULL
+ha.0	ha		akkor_de	ha	
+ha.0	ha		uv_H	ha	
+ha.0	ha		akkor_de	huch	
+ha.0	ha		uv_H	huch	
+ha.0	ha		akkor_de	ach	
+ha.0	ha		uv_H	ach	
+ha.0.KOMUNE	ha		akkor_de	ha	
+ha.0.KOMUNE	ha		uv_H	ha	
+ha.0.KOMUNE	ha		akkor_de	huch	
+ha.0.KOMUNE	ha		uv_H	huch	
+ha.0.KOMUNE	ha		akkor_de	ach	
+ha.0.KOMUNE	ha		uv_H	ach	
+ha.00	ha ha		NULL	NULL	NULL
+ha.00.KOMUNE	ha ha	2	NULL	NULL	NULL
+ha.00.emfaze	ha ha	1	NULL	NULL	NULL
+habsburg.0oj	Habsburgoj		NULL	NULL	NULL
+habsburg.0oj.dinastio	Habsburgoj		NULL	Habsburg	
+haciend.0o	haciendo		NULL	NULL	NULL
+haciend.0o.AGR	haciendo		NULL	NULL	NULL
+hacx.0i	haĉi		NULL	NULL	NULL
+hacx.0i.BELA	haĉi	1	NULL	schraffieren	
+hacx.0i.BELA	haĉi	1	NULL	stricheln	
+hacx.0i.MED	haĉi	2	NULL	NULL	NULL
+hades.0o	Hadeso		NULL	Hades	
+hades.0o.MIT	Hadeso		NULL	Hades	
+hadis.0o	hadiso		NULL	Hadith	
+hadis.0o	hadito		NULL	Hadith	
+hadis.0o.ISL	hadiso		NULL	Hadith	
+hadis.0o.ISL	hadito		NULL	Hadith	
+hadrian.0o	Hadriano		NULL	Hadrian	
+hadron.0o	hadrono		NULL	Hadron	
+hafni.0o	hafnio		NULL	Hafnium	
+hafni.0o.KEM	hafnio		NULL	Hafnium	
+hag.H0o	Hago		NULL	Den Haag	
+hagad.0o	Hagado		NULL	NULL	NULL
+hagad.0o.JUD	Hagado		NULL	NULL	NULL
+hagiografi.0o	hagiografio		NULL	Hagiographie	
+hagx.0o	haĝo		NULL	Haddsch	
+hagx.0o.ISL	haĝo		NULL	Haddsch	
+hagx.0ulo	haĝulo		NULL	Haddschi	
+hagx.0ulo	haĝulo		NULL	Hadschi	
+hagx.0ulo	haĝulo		NULL	Hadji	
+hagx.0ulo	haĝulo		NULL	Hajji	
+hagx.0ulo.ISL	haĝulo		NULL	Haddschi	
+hagx.0ulo.ISL	haĝulo		NULL	Hadschi	
+hagx.0ulo.ISL	haĝulo		NULL	Hadji	
+hagx.0ulo.ISL	haĝulo		NULL	Hajji	
+haiti.0o	Haitio		NULL	NULL	NULL
+haiti.0o.sxtato	Haitio		NULL	Haiti	
+hajderabad.0o	Hajderabado		NULL	Hyderabad	
+hajderabad.0o.barata	Hajderabado	1	NULL	Hyderabad	
+hajderabad.0o.pakistana	Hajderabado	2	NULL	Hyderabad	
+hajduk.0o	hajduko		NULL	NULL	NULL
+hajduk.0o.MIL	hajduko		NULL	NULL	NULL
+hajfong.0o	Hajfongo		NULL	NULL	NULL
+hajfong.0o.havenurbo	Hajfongo		NULL	Haiphong	
+hajk.0o	hajko		NULL	Haiku	
+hajl.0ero	hajlero		NULL	Hagelkorn	
+hajl.0eto0negxo	hajleto		NULL	Eiskorn	
+hajl.0eto0negxo	hajlneĝo		NULL	Eiskorn	
+hajl.0i	hajli		NULL	hageln	
+hajl.0o	hajlo		NULL	Hagel	
+hak.0ado	hakado		NULL	Hacken	
+hak.0ado.KOMUNE	hakado		NULL	Hacken	
+hak.0i	haki		ekz_34	NULL	NULL
+hak.0i.difekti	haki	3	ekz_34	NULL	NULL
+hak.0i.maldelikate	haki	2	ekz_34	NULL	NULL
+hak.0i.trancxi	haki	1	ekz_34	hacken	
+hak.0ilo	hakilo		uv_H	NULL	NULL
+hak.0ilo.diversforma	hakilo	2	uv_H	NULL	NULL
+hak.0ilo.klingo	hakilo	1	uv_H	Axt	
+hak.0ilo.klingo	hakilo	1	uv_H	Beil	
+hak.0o	hako		NULL	Schlag	(Axt-)Schlag
+hak.0o.KOMUNE	hako		NULL	Schlag	(Axt-)Schlag
+hak.batal0ilo	batalhakilo		NULL	NULL	NULL
+hak.batal0ilo.ARM	batalhakilo		NULL	NULL	NULL
+hak.brik0ilo	brikhakilo		NULL	NULL	NULL
+hak.brik0ilo.KOMUNE	brikhakilo		NULL	NULL	NULL
+hak.cxirkaux0i	ĉirkaŭhaki		NULL	NULL	NULL
+hak.cxirkaux0i.KOMUNE	ĉirkaŭhaki		NULL	NULL	NULL
+hak.de0i	dehaki		NULL	NULL	NULL
+hak.de0i.KOMUNE	dehaki		NULL	NULL	NULL
+hak.ligno0isto	lignohakisto		NULL	Holzfäller	
+hak.ligno0isto	arbohakisto		NULL	Holzfäller	
+hakam.0o	hakamo		NULL	NULL	NULL
+hakam.0o.TEKS	hakamo		NULL	NULL	NULL
+hal.0o	halo		NULL	Halle	
+hal.0o.cxambrego	halo	2	NULL	Halle	
+hal.0o.konstruajxo	halo	1	NULL	Halle	
+hal.enir0o	enirhalo		NULL	NULL	NULL
+hal.enir0o.ARKI	enirhalo		NULL	NULL	NULL
+hal.fest0o	festhalo		NULL	NULL	NULL
+hal.fest0o.ARKI	festhalo		NULL	NULL	NULL
+hal.sport0o	sporthalo		NULL	NULL	NULL
+hal.sport0o.ARKI	sporthalo		NULL	NULL	NULL
+haladz.0a	haladza		NULL	verräuchert	
+haladz.0a	haladza		NULL	miefig	
+haladz.0a	haladza		NULL	muffig	
+haladz.0i	haladzi		NULL	ausdünsten	
+haladz.0i	haladzi		NULL	qualmen	
+haladz.0i	haladzi		NULL	miefen	
+haladz.0o	haladzo		NULL	Ausdünstung	
+haladz.0o	haladzo		NULL	Qualm	
+haladz.0o	haladzo		NULL	Luft	schlechte Luft
+haladz.0o	haladzo		NULL	Mief	
+halahx.0o	Halaĥo		NULL	NULL	NULL
+halahx.0o.JUD	Halaĥo		NULL	NULL	NULL
+halal.0a	halala		NULL	halal	
+halal.0a.ISL	halala		NULL	halal	
+halangx.0o	halanĝo		NULL	NULL	NULL
+halangx.0o.KOMUNE	halanĝo		NULL	NULL	NULL
+haleba.0o	halebardo		oa_2	Hellebarde	
+halelu.0	haleluja		NULL	halleluja	
+halep.0o	Halepo		NULL	Aleppo	
+halep.0o	Alepo		NULL	Aleppo	
+haliaet.0o	haliaeto		NULL	Seeadler	
+halifaks.0o	Halifakso		NULL	Halifax	
+haliot.0o	halioto		NULL	Seeohren	
+haliot.0o	halioto		NULL	Abalone	
+haliot.0o.ZOO	halioto		NULL	Seeohren	
+haliot.0o.ZOO	halioto		NULL	Abalone	
+halo.0o	haloo		NULL	NULL	NULL
+halo.0o.KOMUNE	haloo		NULL	NULL	NULL
+halo.kontraux0ilo	kontraŭhaloilo		NULL	NULL	NULL
+halo.kontraux0ilo.FOT	kontraŭhaloilo		NULL	NULL	NULL
+haloge.0o	halogeno		NULL	Halogen	
+haloge.0o	halogeno		NULL	Salzbildner	
+haloven.0o	Haloveno		NULL	Halloween	
+haloven.0o	Halovino		NULL	Halloween	
+haloven.0o.KAL	Haloveno		NULL	Halloween	
+haloven.0o.KAL	Halovino		NULL	Halloween	
+halt.0	halt!		NULL	halt!	
+halt.0	halt!		NULL	stopp!	
+halt.0.haltu	halt!		NULL	halt!	
+halt.0.haltu	halt!		NULL	stopp!	
+halt.0adi	haltadi		NULL	Halten	
+halt.0adi	haltadi		NULL	Stehen	
+halt.0adi.KOMUNE	haltadi		NULL	Halten	
+halt.0adi.KOMUNE	haltadi		NULL	Stehen	
+halt.0ejo	haltejo		NULL	Haltestelle	
+halt.0ejo	haltejo		NULL	Haltepunkt	
+halt.0ejo	haltejo		NULL	Halteplatz	
+halt.0ejo.KOMUNE	haltejo		NULL	Haltestelle	
+halt.0ejo.KOMUNE	haltejo		NULL	Haltepunkt	
+halt.0ejo.KOMUNE	haltejo		NULL	Halteplatz	
+halt.0i	halti		NULL	halten	(an)halten
+halt.0i	halti		NULL	anhalten	
+halt.0i.KOMUNE	halti		NULL	halten	(an)halten
+halt.0i.KOMUNE	halti		NULL	anhalten	
+halt.0igi	haltigi		NULL	anhalten	(jmd.) anhalten
+halt.0igi	haltigi		NULL	stoppen	(jmd.) stoppen
+halt.0igi	haltigi		NULL	unterbrechen	(jmd.) unterbrechen
+halt.0igi.KOMUNE	haltigi	1	NULL	anhalten	(jmd.) anhalten
+halt.0igi.KOMUNE	haltigi	1	NULL	stoppen	(jmd.) stoppen
+halt.0igi.KOMUNE	haltigi	1	NULL	unterbrechen	(jmd.) unterbrechen
+halt.0igi.senmovigi	haltigi	2	NULL	anhalten	(jmd.) anhalten
+halt.0igi.senmovigi	haltigi	2	NULL	stoppen	(jmd.) stoppen
+halt.0igi.senmovigi	haltigi	2	NULL	unterbrechen	(jmd.) unterbrechen
+halt.0igilo	haltigilo		NULL	Bremse	
+halt.0igilo.KOMUNE	haltigilo	1	NULL	Bremse	
+halt.0o	halto		NULL	Halten	
+halt.0o	halto		NULL	Stoppen	
+halt.0o.KOMUNE	halto		NULL	Halten	
+halt.0o.KOMUNE	halto		NULL	Stoppen	
+halt.antaux0igi	antaŭhaltigi		NULL	verhüten	
+halt.antaux0igi.KOMUNE	antaŭhaltigi		NULL	verhüten	
+halt.auxtobus0ejo	aŭtobushaltejo		NULL	Bushaltestelle	
+halt.auxtobus0ejo	aŭtobusa haltejo		NULL	Bushaltestelle	
+halt.auxtobus0ejo.TRA	aŭtobushaltejo		NULL	Bushaltestelle	
+halt.auxtobus0ejo.TRA	aŭtobusa haltejo		NULL	Bushaltestelle	
+halt.bus0ejo	bushaltejo		NULL	Bushaltestelle	
+halt.bus0ejo	busa haltejo		NULL	Bushaltestelle	
+halt.bus0ejo.KOMUNE	bushaltejo	1	NULL	Bushaltestelle	
+halt.bus0ejo.KOMUNE	busa haltejo	1	NULL	Bushaltestelle	
+halt.bus0ejo.TRA	bushaltejo	2	NULL	Bushaltestelle	
+halt.bus0ejo.TRA	busa haltejo	2	NULL	Bushaltestelle	
+halt.metro0ejo	metrohaltejo		NULL	U-Bahnhof	
+halt.metro0ejo	metroa haltejo		NULL	U-Bahnhof	
+halt.metro0ejo	metrohaltejo		NULL	U-Bahn-Station	
+halt.metro0ejo	metroa haltejo		NULL	U-Bahn-Station	
+halt.metro0ejo.TRA	metrohaltejo		NULL	U-Bahnhof	
+halt.metro0ejo.TRA	metroa haltejo		NULL	U-Bahnhof	
+halt.metro0ejo.TRA	metrohaltejo		NULL	U-Bahn-Station	
+halt.metro0ejo.TRA	metroa haltejo		NULL	U-Bahn-Station	
+halt.ne0igebla	nehaltigebla		NULL	NULL	NULL
+halt.ne0igebla.KOMUNE	nehaltigebla		NULL	NULL	NULL
+halt.sen0a	senhalta		NULL	ununterbrochen	
+halt.sen0a	senhalta		NULL	Unterbrechung	ohne Unterbrechung
+halt.sen0a	senhalta		NULL	durchgehend	
+halt.sen0a.KOMUNE	senhalta		NULL	ununterbrochen	
+halt.sen0a.KOMUNE	senhalta		NULL	Unterbrechung	ohne Unterbrechung
+halt.sen0a.KOMUNE	senhalta		NULL	durchgehend	
+halter.0ego	halterego		NULL	Langhantel	
+halter.0o	haltero		NULL	Hantel	
+halter.0o.ZOO	haltero	2	NULL	Hantel	
+halter.0o.ZOO	haltero	2	NULL	Haltere	
+haluci.0a	halucina		NULL	halluzinatorisch	
+haluci.0a	halucina		NULL	Sinnestäuschung	auf einer Sinnestäuschung beruhend
+haluci.0a	halucina		NULL	wahrnehmungsgestört	
+haluci.0a	halucina		NULL	Wahn-	
+haluci.0a.MED	halucina		NULL	halluzinatorisch	
+haluci.0a.MED	halucina		NULL	Sinnestäuschung	auf einer Sinnestäuschung beruhend
+haluci.0a.MED	halucina		NULL	wahrnehmungsgestört	
+haluci.0a.MED	halucina		NULL	Wahn-	
+haluci.0i	halucini		NULL	Halluzinationen hervorrufen	
+haluci.0i	halucini		NULL	Sinnestäuschungen verursachen	
+haluci.0i.hanti	halucini	2	NULL	Halluzinationen hervorrufen	
+haluci.0i.hanti	halucini	2	NULL	Sinnestäuschungen verursachen	
+haluci.0i.sperti	halucini	1	NULL	halluzinieren	
+haluci.0i.sperti	halucini	1	NULL	Halluzinationen hervorrufen	
+haluci.0i.sperti	halucini	1	NULL	Sinnestäuschungen verursachen	
+haluci.0o	halucino		NULL	Halluzination	
+haluci.0o	halucino		NULL	Sinnestäuschung	
+haluci.0o	halucino		NULL	Wahrnehmungsstörung	
+haluci.0o	halucino		NULL	Wahnvorstellung	
+haluci.0o	halucino		NULL	Einbildung	krankhafte Einbildung
+haluci.0o.MED	halucino		NULL	Halluzination	
+haluci.0o.MED	halucino		NULL	Sinnestäuschung	
+haluci.0o.MED	halucino		NULL	Wahrnehmungsstörung	
+haluci.0o.MED	halucino		NULL	Wahnvorstellung	
+haluci.0o.MED	halucino		NULL	Einbildung	krankhafte Einbildung
+haluci.0ulo	halucinulo		NULL	Leidender	an Halluzinationen Leidender
+haluci.0ulo	halucinulo		NULL	Leidender	an Sinnestäuschung Leidender
+haluci.0ulo	halucinulo		NULL	Wahrnehmungsgestörter	
+haluci.0ulo	halucinulo		NULL	Spinner	
+haluci.0ulo.MED	halucinulo		NULL	Leidender	an Halluzinationen Leidender
+haluci.0ulo.MED	halucinulo		NULL	Leidender	an Sinnestäuschung Leidender
+haluci.0ulo.MED	halucinulo		NULL	Wahrnehmungsgestörter	
+haluci.0ulo.MED	halucinulo		NULL	Spinner	
+halucinaci.0o	halucinacio		NULL	Halluzination	
+halucinaci.0o.halucino	halucinacio		NULL	Halluzination	
+haluks.0o	halukso		NULL	großer Zeh	
+halva.0o	halvao		NULL	NULL	NULL
+halva.0o.KUI	halvao		NULL	NULL	NULL
+hamak.0o	hamako		NULL	Hängematte	
+hamamelid.0o	hamamelido		NULL	Zaubernuss	
+hamamelid.0o.BOT	hamamelido		NULL	Zaubernuss	
+haman.0o	Hamano		NULL	Haman	
+haman.0o.perso	Hamano		NULL	Haman	
+hamburg.H0o	Hamburgo		NULL	Hamburg	
+hamburg.H0o.urbo	Hamburgo		NULL	Hamburg	
+hamburg.H0o.urbo	Hamburgo		NULL	Hamburg	
+hamburg.h0ano	hamburgano		NULL	Hamburger	
+hamburger.0o	hamburgero		NULL	Hamburger	
+hamburger.0o.KUI	hamburgero		NULL	Hamburger	
+hamelen.0o	Hameleno		NULL	Hameln	
+hamlet.0o	Hamleto		NULL	Hamlet	
+hamlet.0o.rolulo	Hamleto		NULL	Hamlet	
+hampsxir.nov0o	Novhampŝiro		NULL	NULL	NULL
+hampsxir.nov0o.GEOG	Novhampŝiro		NULL	NULL	NULL
+hamstr.0i	hamstri		NULL	hamstern	
+hamstr.0i.FIG	hamstri		NULL	hamstern	
+hamstr.0o	hamstro		NULL	Hamster	
+hamstr.0o.ZOO	hamstro		NULL	Hamster	
+hamstr1.0oj	hamstredoj		NULL	Wühler	
+hamstr1.0oj	kricetedoj		NULL	Wühler	
+hamstr1.0oj	kriketedoj		NULL	Wühler	
+hamurab.0o	Hamurabo		NULL	Hammurabi	
+hamurab.0o.regx	Hamurabo		NULL	Hammurabi	
+hanafism.0o	Hanafismo		NULL	NULL	NULL
+hanafism.0o.ISL	Hanafismo		NULL	NULL	NULL
+handbal.0isto	handbalisto		NULL	Handballer	
+handbal.0isto	handbalisto		NULL	Handballspieler	
+handbal.0isto.SPO	handbalisto		NULL	Handballer	
+handbal.0isto.SPO	handbalisto		NULL	Handballspieler	
+handbal.0o	handbalo		NULL	Handball	
+handbal.0o.SPO	handbalo		NULL	Handball	
+handikap.0i	handikapi		NULL	behindern	
+handikap.0i	handikapi		NULL	benachteiligen	
+handikap.0i.malhelpi	handikapi		NULL	behindern	
+handikap.0i.malhelpi	handikapi		NULL	benachteiligen	
+handikap.0ito	handikapito		NULL	Behinderter	
+handikap.0ito	handikapulo		NULL	Behinderter	
+handikap.0ito.malhelpito	handikapito		NULL	Behinderter	
+handikap.0ito.malhelpito	handikapulo		NULL	Behinderter	
+handikap.0o	handikapo		NULL	Behinderung	
+handikap.0o	handikapo		NULL	Benachteiligung	
+handikap.0o	handikapo		NULL	Handicap	
+handikap.0o.malavantagxo	handikapo		NULL	Behinderung	
+handikap.0o.malavantagxo	handikapo		NULL	Benachteiligung	
+handikap.0o.malavantagxo	handikapo		NULL	Handicap	
+hangar.0o	hangaro		oa_8	Hangar	
+hangar.0o	hangaro		oa_8	Flughalle	
+hangar.0o.AVI	hangaro		oa_8	Hangar	
+hangar.0o.AVI	hangaro		oa_8	Flughalle	
+hanggxoux.0o	Hangĝoŭo		NULL	NULL	NULL
+hanibal.0o	Hanibalo		NULL	Hannibal	
+hanibal.0o.militestro	Hanibalo		NULL	Hannibal	
+hanoj.0o	Hanojo		NULL	Hanoi	
+hanovr.0o	Hanovro		NULL	NULL	NULL
+hanovr.0o	Hanovero		NULL	NULL	NULL
+hanovr.0o.urbo	Hanovro		NULL	Hannover	
+hanovr.0o.urbo	Hanovero		NULL	Hannover	
+hans.0o	hanso		NULL	Hanse	
+hant.0i	hanti		NULL	heimsuchen	
+hant.0i	hanti		NULL	spuken	
+hant.0i.MAG	hanti		NULL	heimsuchen	
+hant.0i.MAG	hanti		NULL	spuken	
+haor.0o	haoro		NULL	Haori	
+haor.0o.TEKS	haoro		NULL	Haori	
+hapaks.0o	hapakso		NULL	Hapax legomenon	
+har.0aro	hararo		uv_H	Haar	
+har.0aro	hararo		akkor_fr	Haar	
+har.0aro	hararo		akkor_de	Haar	
+har.0aro.FRIZ	hararo	1	uv_H	Haar	
+har.0aro.FRIZ	hararo	1	akkor_fr	Haar	
+har.0aro.FRIZ	hararo	1	akkor_de	Haar	
+har.0aro.peruko	hararo	2	uv_H	Perücke	
+har.0aro.peruko	hararo	2	akkor_fr	Perücke	
+har.0aro.peruko	hararo	2	akkor_de	Perücke	
+har.0aro.peruko	hararo	2	uv_H	Haar	
+har.0aro.peruko	hararo	2	akkor_fr	Haar	
+har.0aro.peruko	hararo	2	akkor_de	Haar	
+har.0ego	harego		uv_H	Borste	
+har.0ego.ZOO	harego		uv_H	Borste	
+har.0lako	harlako		NULL	NULL	NULL
+har.0lako	harŝprucaĵo		NULL	NULL	NULL
+har.0lako.KOS	harlako		NULL	NULL	NULL
+har.0lako.KOS	harŝprucaĵo		NULL	NULL	NULL
+har.0ligo	harligo		uv_H	Zopf	
+har.0ligo	harligo		akkor_en	Zopf	
+har.0o	haro		ekz_31	Haar	
+har.0o.BOT	haro	2	ekz_31	Haar	
+har.0o.mamulo	haro	1	ekz_31	Haar	
+har.0plektajxo	harplektaĵo		NULL	Zopf	
+har.0plektajxo.FRIZ	harplektaĵo		NULL	Zopf	
+har.0stariga	harstariga		NULL	haarsträubend	
+har.0stariga	harhirtiga		NULL	haarsträubend	
+har.0stariga.FIG	harstariga		NULL	haarsträubend	
+har.0stariga.FIG	harhirtiga		NULL	haarsträubend	
+har.berenicaH0aro	Berenica Hararo		NULL	Haar der Berenike	
+har.berenicaH0aro.AST	Berenica Hararo		NULL	Haar der Berenike	
+har.kol0aro	kolhararo		uv_K	Mähne	
+har.kol0aro	kolharoj		uv_K	Mähne	
+har.kol0aro.ZOO	kolhararo		uv_K	Mähne	
+har.kol0aro.ZOO	kolharoj		uv_K	Mähne	
+har.lip0aro	liphararo		uv_L	Oberlippenbarthaare	
+har.lip0aro	lipharoj		uv_L	Oberlippenbarthaare	
+har.lip0aro	liphararo		uv_L	Schnauzer	
+har.lip0aro	lipharoj		uv_L	Schnauzer	
+har.lip0aro	liphararo		uv_L	Bart	Bart(haare)
+har.lip0aro	lipharoj		uv_L	Bart	Bart(haare)
+har.lip0aro.FRIZ	liphararo		uv_L	Oberlippenbarthaare	
+har.lip0aro.FRIZ	lipharoj		uv_L	Oberlippenbarthaare	
+har.lip0aro.FRIZ	liphararo		uv_L	Schnauzer	
+har.lip0aro.FRIZ	lipharoj		uv_L	Schnauzer	
+har.lip0aro.FRIZ	liphararo		uv_L	Bart	Bart(haare)
+har.lip0aro.FRIZ	lipharoj		uv_L	Bart	Bart(haare)
+har.okul0o	okulharo		uv_O	Wimper	
+har.okul0o.ANA	okulharo		uv_O	Wimper	
+har.sen0a	senhara		NULL	haarlos	
+har.sen0a	senhara		NULL	glatzköpfig	
+har.sen0a.ANA	senhara		NULL	haarlos	
+har.sen0a.ANA	senhara		NULL	glatzköpfig	
+har.vang0oj	vangharoj		uv_V	Backenbart	
+har.vang0oj.FRIZ	vangharoj		uv_V	Backenbart	
+harar.0o	Hararo		NULL	Harare	
+harbin.0o	Harbino		NULL	NULL	NULL
+harc.0o	Harco		NULL	Harz	
+harc.0o.montaro	Harco		NULL	Harz	
+hard.0ado	hardado		NULL	NULL	NULL
+hard.0ado.KOMUNE	hardado		NULL	Härtung	
+hard.0i	hardi		NULL	NULL	NULL
+hard.0i.FIG	hardi	3	NULL	abhärten	
+hard.0i.FIG	hardi	3	NULL	verhärten	
+hard.0i.TEK	hardi	1	NULL	härten	
+hard.0i.malmoligi	hardi	2	NULL	aushärten	
+hard.0igxi	hardiĝi		NULL	NULL	NULL
+hard.0igxi.KOMUNE	hardiĝi		NULL	verhärten	sich verhärten
+hard.0iteco	harditeco		NULL	Härte	
+hard.0iteco	hardeco		NULL	Härte	
+hard.0iteco.KOMUNE	harditeco		NULL	Härte	
+hard.0iteco.KOMUNE	hardeco		NULL	Härte	
+hard.mal0i	malhardi		NULL	erweichen	
+hard.mal0i	malhardi		NULL	schwächen	
+hard.mal0i.TEK	malhardi	1	NULL	weichglühen	
+hard.mal0i.TEK	malhardi	1	NULL	erweichen	
+hard.mal0i.TEK	malhardi	1	NULL	schwächen	
+harem.0o	haremo		oa_2	Harem	
+harem.0o.ejo	haremo	1	oa_2	Harem	
+harem.0o.inaro	haremo	2	oa_2	Harem	
+harian.0o	Hariano		NULL	Haryana	
+harian.0o	Harjano		NULL	Haryana	
+harian.0o.GEOG	Hariano		NULL	Haryana	
+harian.0o.GEOG	Harjano		NULL	Haryana	
+haring.0o	haringo		NULL	Hering	
+harlem.H0o	Harlemo		NULL	Harlem	
+harlem.H0o.nl	Harlemo	1	NULL	Harlem	
+harlem.H0o.us	Harlemo	2	NULL	Harlem	
+harmon.0a	harmona		NULL	NULL	NULL
+harmon.0a.gxenerale	harmona	1	NULL	NULL	NULL
+harmon.0o	harmono		NULL	Harmonische	
+harmon.0o	harmono		NULL	Oberton	
+harmon1.0a	harmonia		NULL	harmonisch	
+harmon1.0a	harmonia		NULL	wohlklingend	
+harmon1.0a	harmonia		NULL	einhellig	
+harmon1.0a	harmonia		NULL	einträchtig	
+harmon1.0a	harmonia		NULL	ausgewogen	
+harmon1.0a.KOMUNE	harmonia		NULL	harmonisch	
+harmon1.0a.KOMUNE	harmonia		NULL	wohlklingend	
+harmon1.0a.KOMUNE	harmonia		NULL	einhellig	
+harmon1.0a.KOMUNE	harmonia		NULL	einträchtig	
+harmon1.0a.KOMUNE	harmonia		NULL	ausgewogen	
+harmon1.0i	harmonii		NULL	harmonieren	
+harmon1.0i	harmonii		NULL	Einklang	in Einklang sein
+harmon1.0i.KOMUNE	harmonii		NULL	harmonieren	
+harmon1.0i.KOMUNE	harmonii		NULL	Einklang	in Einklang sein
+harmon1.0igi	harmoniigi		NULL	harmonisieren	
+harmon1.0igi	harmoniigi		NULL	Einklang	in Einklang bringen
+harmon1.0igi.KOMUNE	harmoniigi		NULL	harmonisieren	
+harmon1.0igi.KOMUNE	harmoniigi		NULL	Einklang	in Einklang bringen
+harmon1.0o	harmonio		NULL	Harmonie	
+harmon1.0o	harmonio		NULL	Gleichklang	
+harmon1.0o	harmonio		NULL	Zusammenklang	
+harmon1.0o.arangxo	harmonio	1	NULL	Harmonie	
+harmon1.0o.arangxo	harmonio	1	NULL	Gleichklang	
+harmon1.0o.arangxo	harmonio	1	NULL	Zusammenklang	
+harmon1.0o.paco	harmonio	2	NULL	Eintracht	
+harmon1.0o.paco	harmonio	2	NULL	Einhelligkeit	
+harmon1.0o.paco	harmonio	2	NULL	Harmonie	
+harmon1.0o.paco	harmonio	2	NULL	Gleichklang	
+harmon1.0o.paco	harmonio	2	NULL	Zusammenklang	
+harmon1.mal0o	malharmonio		NULL	Missklang	
+harmon1.mal0o	disharmonio		NULL	Missklang	
+harmon1.mal0o	malharmonio		NULL	Dissonanz	
+harmon1.mal0o	disharmonio		NULL	Dissonanz	
+harmon1.mal0o	malharmonio		NULL	Missstimmung	
+harmon1.mal0o	disharmonio		NULL	Missstimmung	
+harmon1.mal0o	malharmonio		NULL	Dissens	
+harmon1.mal0o	disharmonio		NULL	Dissens	
+harmon1.mal0o	malharmonio		NULL	Zwietracht	
+harmon1.mal0o	disharmonio		NULL	Zwietracht	
+harmon1.mal0o.FIG	malharmonio		NULL	Missklang	
+harmon1.mal0o.FIG	disharmonio		NULL	Missklang	
+harmon1.mal0o.FIG	malharmonio		NULL	Dissonanz	
+harmon1.mal0o.FIG	disharmonio		NULL	Dissonanz	
+harmon1.mal0o.FIG	malharmonio		NULL	Missstimmung	
+harmon1.mal0o.FIG	disharmonio		NULL	Missstimmung	
+harmon1.mal0o.FIG	malharmonio		NULL	Dissens	
+harmon1.mal0o.FIG	disharmonio		NULL	Dissens	
+harmon1.mal0o.FIG	malharmonio		NULL	Zwietracht	
+harmon1.mal0o.FIG	disharmonio		NULL	Zwietracht	
+harmon2.0o	harmoniko		oa_2	NULL	NULL
+harmon2.0o.SCI	harmoniko	2	oa_2	Harmonielehre	
+harmon2.0o.muzikilo	harmoniko	1	oa_2	Hamonika	
+harmon2.busx0o	buŝharmoniko		NULL	Mundharmonika	
+harmon2.busx0o	blovharmoniko		NULL	Mundharmonika	
+harmon2.frap0o	frapharmoniko		NULL	Xylofon	
+harmon2.tir0o	tirharmoniko		NULL	Ziehharmonika	
+harmon2.tir0o	tirharmoniko		NULL	Akkordeon	
+harmon2.tir0o	tirharmoniko		NULL	Handzuginstrument	
+harmon3.0o	harmoniumo		oa_2	Harmonium	
+harmon3.0o.MUZ	harmoniumo		oa_2	Harmonium	
+harnis.0o	harniso		NULL	Geschirr	Geschirr (Zugtier)
+harnis.0o	harniso		NULL	Pferdeharnisch	
+harnis.0o.RAJ	harniso		NULL	Geschirr	Geschirr (Zugtier)
+harnis.0o.RAJ	harniso		NULL	Pferdeharnisch	
+harold.0o	Haroldo		NULL	Harald	
+harold.0o.NOM	Haroldo		NULL	Harald	
+harp.0i	harpi		NULL	spielen	Harfe spielen
+harp.0o	harpo		NULL	Harfe	
+harp.0o.MUZ	harpo		NULL	Harfe	
+harpal.0o	harpalo		NULL	Schnellläufer	
+harpi.0o	harpio		oa_2	NULL	NULL
+harpi.0o.MIT	harpio	1	oa_2	Harpyie	
+harpi.0o.ZOO	harpio	2	oa_2	Harpyie	
+harpi.0o.virino	harpio	3	oa_2	NULL	NULL
+harpun.0i	harpuni		NULL	harpunieren	
+harpun.0o	harpuno		NULL	Harpune	
+hasan.0o	Hasano		NULL	NULL	NULL
+hasan.0o	Hasan		NULL	NULL	NULL
+hasan.0o.NOM	Hasano		NULL	NULL	NULL
+hasan.0o.NOM	Hasan		NULL	NULL	NULL
+hasi.0o	hasio		NULL	Hassium	
+hast.0a	hasta		NULL	hastig	
+hast.0a	hasta		NULL	hastig	
+hast.0a	hasta		NULL	übereilt	
+hast.0a.KOMUNE	hasta		NULL	hastig	
+hast.0a.KOMUNE	hasta		NULL	hastig	
+hast.0a.KOMUNE	hasta		NULL	übereilt	
+hast.0ema	hastema		NULL	eilig	
+hast.0ema.KOMUNE	hastema		NULL	eilig	
+hast.0i	hasti		NULL	hasten	
+hast.0i	hasti		NULL	übereilen	
+hast.0i.KOMUNE	hasti		NULL	hasten	
+hast.0i.KOMUNE	hasti		NULL	übereilen	
+hast.0igi	hastigi		NULL	antreiben	
+hast.0o	hasto		NULL	Hast	
+hast.0o	hasto		NULL	Übereile	
+hast.0o.KOMUNE	hasto		NULL	Hast	
+hast.0o.KOMUNE	hasto		NULL	Übereile	
+hast.mal0a	malhasta		NULL	gemächlich	
+hast.mal0a	senhasta		NULL	gemächlich	
+hast.mal0a	malhasta		NULL	Ruhe	in Ruhe
+hast.mal0a	senhasta		NULL	Ruhe	in Ruhe
+hast.mal0a	malhasta		NULL	entspannt	
+hast.mal0a	senhasta		NULL	entspannt	
+hast.mal0a.KOMUNE	malhasta		NULL	gemächlich	
+hast.mal0a.KOMUNE	senhasta		NULL	gemächlich	
+hast.mal0a.KOMUNE	malhasta		NULL	Ruhe	in Ruhe
+hast.mal0a.KOMUNE	senhasta		NULL	Ruhe	in Ruhe
+hast.mal0a.KOMUNE	malhasta		NULL	entspannt	
+hast.mal0a.KOMUNE	senhasta		NULL	entspannt	
+hasxisx.0o	haŝiŝo		NULL	Haschisch	
+hasxisx.0o.MED	haŝiŝo		NULL	Haschisch	
+hat.0i	hati		NULL	hassen	
+hat.0i.KOMUNE	hati		NULL	hassen	
+hauxbi.0o	haŭbizo		NULL	Haubitze	
+hauxbi.0o.MIL	haŭbizo		NULL	Haubitze	
+hauxl.0i	haŭli		NULL	schleppen	schleppen (ziehen)
+hauxl.0isto	haŭlisto		NULL	Treideln	
+hauxl.0isto.HIS	haŭlisto		NULL	Treideln	
+hauxs.0o	haŭso		NULL	NULL	NULL
+hauxs.0o.borsa	haŭso	1	NULL	Hausse	
+hauxs.0o.ekonomia	haŭso	2	NULL	Hochkonjunktur	
+hauxs.0o.ekonomia	haŭso	2	NULL	Aufschwung	
+hauxs.mal0o	malhaŭso		NULL	NULL	NULL
+hauxs.mal0o.borsa	malhaŭso	1	NULL	Baisse	
+hauxs.mal0o.ekonomia	malhaŭso	2	NULL	Abschwung	
+hauxser.0o	haŭsero		NULL	Trosse	
+hauxt.0ero	haŭtero		NULL	Schuppe	(Haut-)Schuppe
+hauxt.0ero.ANA	haŭtero		NULL	Schuppe	(Haut-)Schuppe
+hauxt.0o	haŭto		NULL	Haut	
+hauxt.0o.ANA	haŭto	1	NULL	Haut	
+hauxt.0o.kovrajxo	haŭto	2	NULL	Haut	
+hauxt.anser0o	anserhaŭto		NULL	Gänsehaut	
+hauxt.anser0o.FRAZ	anserhaŭto		NULL	Gänsehaut	
+hauxt.sen0igi	senhaŭtigi		NULL	enthäuten	
+hauxt.sen0igi	senhaŭtigi		NULL	skalpieren	skalpieren (kapon)
+hauxt.sen0igi.KOMUNE	senhaŭtigi		NULL	enthäuten	
+hauxt.sen0igi.KOMUNE	senhaŭtigi		NULL	skalpieren	skalpieren (kapon)
+hav.0ajxo	havaĵo		NULL	Habe	
+hav.0ajxo	havo		NULL	Habe	
+hav.0ajxo	havaĵo		NULL	Habseligkeit	
+hav.0ajxo	havo		NULL	Habseligkeit	
+hav.0ebla	havebla		NULL	NULL	NULL
+hav.0ebla.KOMUNE	havebla		NULL	verfügbar	
+hav.0ebla.KOMUNE	havebla		NULL	bekommen	zu bekommen
+hav.0ebla.KOMUNE	havebla		NULL	beschaffen	zu beschaffen
+hav.0ema	havema		NULL	NULL	NULL
+hav.0ema.KOMUNE	havema		NULL	gierig	
+hav.0ema.KOMUNE	havema		NULL	besitzgierig	
+hav.0enda	havenda		NULL	unentbehrlich	
+hav.0enda	havenda		NULL	Nöte	von Nöten
+hav.0igi	havigi		NULL	verschaffen	
+hav.0igi	havigi		NULL	geben	
+hav.0igi	havigi		NULL	aushändigen	
+hav.0igi	havigi		NULL	besorgen	
+hav.0igi	havigi		NULL	beschaffen	
+hav._0a	-hava		NULL	NULL	NULL
+hav.bon0a	bonhava		NULL	NULL	NULL
+hav.bon0a.KOMUNE	bonhava		NULL	NULL	NULL
+hav.bon0o	bonhavo		NULL	NULL	NULL
+hav.bon0o.EKON	bonhavo	2	NULL	Guthaben	
+hav.bon0o.eco	bonhavo	1	NULL	Wohlstand	
+hav.ek0i	ekhavi		NULL	erhalten	
+hav.ek0i	ekhavi		NULL	bekommen	
+hav.en0eco	enhaveco		NULL	Inhalt	Inhalt (Volumen)
+hav.en0eco	enhaveco		NULL	Fassungsvermögen	
+hav.en0eco	enhaveco		NULL	Tonnage	
+hav.en0i	enhavi		NULL	NULL	NULL
+hav.en0i.aro	enhavi	2	NULL	enthalten	enthalten (Elementen)
+hav.en0i.enSi	enhavi	1	NULL	enthalten	
+hav.en0o	enhavo		NULL	Inhalt	
+hav.kun0i	kunhavi		NULL	NULL	NULL
+hav.kun0i.disponi	kunhavi	2	NULL	haben	dabei haben
+hav.kun0i.disponi	kunhavi	2	NULL	führen	mit sich führen
+hav.kun0i.komune	kunhavi	1	NULL	teilen	teilen (gemeinsam haben)
+hav.kun0i.komune	kunhavi	1	NULL	haben	gemeinsam haben
+hav.mal0i	malhavi		NULL	entbehren	
+hav.mal0i	malhavi		NULL	missen	
+hav.ne0o	nehavo		NULL	Besitzlosigkeit	
+hav.ne0o	nehavado		NULL	Besitzlosigkeit	
+hav.ne0o	nehavo		NULL	Mangel	
+hav.ne0o	nehavado		NULL	Mangel	
+hav.ne0o	nehavo		NULL	Fehlen	
+hav.ne0o	nehavado		NULL	Fehlen	
+hav.ne0o.KOMUNE	nehavo		NULL	Besitzlosigkeit	
+hav.ne0o.KOMUNE	nehavado		NULL	Besitzlosigkeit	
+hav.ne0o.KOMUNE	nehavo		NULL	Mangel	
+hav.ne0o.KOMUNE	nehavado		NULL	Mangel	
+hav.ne0o.KOMUNE	nehavo		NULL	Fehlen	
+hav.ne0o.KOMUNE	nehavado		NULL	Fehlen	
+hav.nemal0ebla	nemalhavebla		NULL	NULL	NULL
+hav.nemal0ebla.KOMUNE	nemalhavebla		NULL	unentbehrlich	
+hav.sen0igi	senhavigi		NULL	berauben	
+hav.sen0igi	senhavigi		NULL	beschlagnahmen	
+hav.sen0igi.KOMUNE	senhavigi		NULL	berauben	
+hav.sen0igi.KOMUNE	senhavigi		NULL	beschlagnahmen	
+hav.sen0igxi	senhaviĝi		NULL	NULL	NULL
+hav.sen0igxi.KOMUNE	senhaviĝi		NULL	Habe	seine Habe verlieren
+hav.sen0ulo	senhavulo		NULL	Habenichts	
+hav.sen0ulo	senhavulo		NULL	Besitzloser	
+hav.sen0ulo.KOMUNE	senhavulo		NULL	Habenichts	
+hav.sen0ulo.KOMUNE	senhavulo		NULL	Besitzloser	
+hav.senen0a	senenhava		NULL	gehaltlos	
+hav.senen0a	senenhava		NULL	inhaltsleer	
+hav.senen0a	senenhava		NULL	leer	
+hav.senen0a.KOMUNE	senenhava		NULL	gehaltlos	
+hav.senen0a.KOMUNE	senenhava		NULL	inhaltsleer	
+hav.senen0a.KOMUNE	senenhava		NULL	leer	
+hav.sur0i	surhavi		NULL	anhaben	
+hav.sur0i	surhavi		NULL	tragen	
+hav.sur0i.KOMUNE	surhavi	1	NULL	anhaben	
+hav.sur0i.KOMUNE	surhavi	1	NULL	tragen	
+hav.sur0i.veston	surhavi	2	NULL	anhaben	
+hav.sur0i.veston	surhavi	2	NULL	tragen	
+havaj.0o	Havajo		NULL	Hawaii	
+havaj.0o.GEOG	Havajo		NULL	Hawaii	
+havan.H0o	Havano		NULL	Havanna	
+haven.0o	haveno		NULL	Hafen	
+haven.0o.FIG	haveno	2	NULL	Hafen	
+haven.0o.MAR	haveno	1	NULL	Hafen	
+haven.fisx0o	fiŝhaveno		NULL	Fischereihafen	
+haven.fisx0o.MAR	fiŝhaveno		NULL	Fischereihafen	
+haven.flug0o	flughaveno		NULL	Flughafen	
+haven.flug0o	aerhaveno		NULL	Flughafen	
+haven.flug0o.AVI	flughaveno		NULL	Flughafen	
+haven.flug0o.AVI	aerhaveno		NULL	Flughafen	
+haven.mar0o	marhaveno		NULL	Seehafen	
+haven.mar0o.MAR	marhaveno		NULL	Seehafen	
+hazard.0i	hazardi		NULL	zufällig	zufällig auftreten
+hazard.0igi	hazardigi		NULL	randomisieren	
+hazard.0igi.SCI	hazardigi		NULL	randomisieren	
+hazard.0o	hazardo		oa_2	Zufall	
+hazard.0o.forto	hazardo	2	oa_2	Zufall	
+hazard.0o.okazajxo	hazardo	1	oa_2	Zufall	
+he.0	he		NULL	he	
+he.0	hej		NULL	he	
+he.0.SON	he		NULL	he	
+he.0.SON	hej		NULL	he	
+hebet.0a	hebeta		NULL	NULL	NULL
+hebet.0a.PSI	hebeta		NULL	betäubt	
+hebet.0a.PSI	hebeta		NULL	benommen	
+hebre.0alingvo	hebrea lingvo		NULL	Hebräisch	
+hebre.0alingvo.antikva	hebrea lingvo	1	NULL	Althebräisch	
+hebre.0alingvo.antikva	hebrea lingvo	1	NULL	Hebräisch	
+hebre.0alingvo.moderna	hebrea lingvo	2	NULL	Neuhebräisch	
+hebre.0alingvo.moderna	hebrea lingvo	2	NULL	Hebräisch	
+hebre.0o	hebreo		ekz_36	Hebräer	
+heder.0o	hedero		NULL	Efeu	
+hedisa.0o	hedisaro		NULL	Süßklee	
+hedisa.0o.BOT	hedisaro		NULL	Süßklee	
+hedonism.0o	hedonismo		NULL	Hedonismus	
+hedonism.0o.FIL	hedonismo		NULL	Hedonismus	
+hedonist.0o	hedonisto		NULL	Hedonist	
+hedonist.0o.FIL	hedonisto		NULL	Hedonist	
+hedvig.0o	Hedvigo		NULL	Hedwig	
+hedvig.0o	Jadvigo		NULL	Hedwig	
+hefest.0o	Hefesto		NULL	Hephaistos	
+hegemo.0i	hegemonii		NULL	dominieren	
+hegemo.0i	hegemonii		NULL	Vormachtstellung	die Vormachtstellung ausüben
+hegemo.0i.POL	hegemonii		NULL	dominieren	
+hegemo.0i.POL	hegemonii		NULL	Vormachtstellung	die Vormachtstellung ausüben
+hegemo.0o	hegemonio		oa_4	Hegemonie	
+hegemo.0o	hegemonio		oa_4	Hegemonie	
+hegemo.0o	hegemonio		oa_4	Vormacht	
+hegemo.0o	hegemonio		oa_4	Vormacht	
+hegemo.0o.POL	hegemonio		oa_4	Hegemonie	
+hegemo.0o.POL	hegemonio		oa_4	Hegemonie	
+hegemo.0o.POL	hegemonio		oa_4	Vormacht	
+hegemo.0o.POL	hegemonio		oa_4	Vormacht	
+hegemon.0o	hegemono		NULL	Hegemon	
+hegx.0o	heĝo		oa_8	Hecke	
+hegx.0o.HOR	heĝo		oa_8	Hecke	
+hegxir.0o	Heĝiro		NULL	Hidschra	
+hejm.0a	hejma		NULL	heimisch	
+hejm.0a.apudhejma	hejma	2	NULL	heimisch	
+hejm.0a.rilata	hejma	1	NULL	heimisch	
+hejm.0ama	hejmama		NULL	häuslich	
+hejm.0ama.MOR	hejmama		NULL	häuslich	
+hejm.0e	hejme		NULL	zuhause	
+hejm.0e.en_hejmo	hejme		NULL	zuhause	
+hejm.0eca	hejmeca		NULL	heimelig	
+hejm.0eca	hejmeca		NULL	gemütlich	
+hejm.0eca.KOMUNE	hejmeca		NULL	heimelig	
+hejm.0eca.KOMUNE	hejmeca		NULL	gemütlich	
+hejm.0i	hejmi		NULL	NULL	NULL
+hejm.0i.FIG	hejmi	2	NULL	NULL	NULL
+hejm.0i.KOMUNE	hejmi	1	NULL	NULL	NULL
+hejm.0igi	hejmigi		NULL	NULL	NULL
+hejm.0igi.instali	hejmigi	1	NULL	NULL	NULL
+hejm.0igi.malsovagxigi	hejmigi	2	NULL	NULL	NULL
+hejm.0igita	hejmigita		NULL	angesiedelt	
+hejm.0igita.KOMUNE	hejmigita		NULL	angesiedelt	
+hejm.0igxi	hejmiĝi		NULL	einleben	sich einleben
+hejm.0igxi	enhejmiĝi		NULL	einleben	sich einleben
+hejm.0igxi	hejmiĝi		NULL	ansiedeln	sich ansiedeln
+hejm.0igxi	enhejmiĝi		NULL	ansiedeln	sich ansiedeln
+hejm.0igxi.FIG	hejmiĝi	2	NULL	einleben	sich einleben
+hejm.0igxi.FIG	enhejmiĝi	2	NULL	einleben	sich einleben
+hejm.0igxi.FIG	hejmiĝi	2	NULL	ansiedeln	sich ansiedeln
+hejm.0igxi.FIG	enhejmiĝi	2	NULL	ansiedeln	sich ansiedeln
+hejm.0igxi.KOMUNE	hejmiĝi	1	NULL	einleben	sich einleben
+hejm.0igxi.KOMUNE	enhejmiĝi	1	NULL	einleben	sich einleben
+hejm.0igxi.KOMUNE	hejmiĝi	1	NULL	ansiedeln	sich ansiedeln
+hejm.0igxi.KOMUNE	enhejmiĝi	1	NULL	ansiedeln	sich ansiedeln
+hejm.0o	hejmo		NULL	Zuhause	
+hejm.0o	hejmo		NULL	Heim	
+hejm.0o.KOMUNE	hejmo	1	NULL	Zuhause	
+hejm.0o.KOMUNE	hejmo	1	NULL	Heim	
+hejm.0o.TEK	hejmo	2	NULL	Anfangsposition	
+hejm.0o.TEK	hejmo	2	NULL	Anfangsstellung	
+hejm.0o.TEK	hejmo	2	NULL	Nulllage	
+hejm.0o.TEK	hejmo	2	NULL	Zuhause	
+hejm.0o.TEK	hejmo	2	NULL	Heim	
+hejm.el0igxi	elhejmiĝi		NULL	ausgestoßen	ausgestoßen werden
+hejm.el0igxi.KOMUNE	elhejmiĝi		NULL	ausgestoßen	ausgestoßen werden
+hejm.fiks0a	fikshejma		NULL	sesshaft	
+hejm.fiks0a	fikshejma		NULL	bodenständig	
+hejm.fiks0a.MOR	fikshejma		NULL	sesshaft	
+hejm.fiks0a.MOR	fikshejma		NULL	bodenständig	
+hejm.re0igxi	rehejmiĝi		NULL	NULL	NULL
+hejm.re0igxi.KOMUNE	rehejmiĝi		NULL	NULL	NULL
+hejm.sen0ulo	senhejmulo		NULL	Obdachloser	
+hejm.sen0ulo	senhejmulo		NULL	Heimatloser	
+hejm.sen0ulo.KOMUNE	senhejmulo		NULL	Obdachloser	
+hejm.sen0ulo.KOMUNE	senhejmulo		NULL	Heimatloser	
+hejt.0i	hejti		ekz_16	heizen	
+hejt.0i.KOMUNE	hejti		ekz_16	heizen	
+hejt.0ilo	hejtilo		NULL	Heizung	
+hejt.0ilo.HEJM	hejtilo		NULL	Heizung	
+hejt.0isto	hejtisto		NULL	Heizer	
+hejt.0isto.KOMUNE	hejtisto		NULL	Heizer	
+hejt.centra_0ado	centra hejtado		NULL	NULL	NULL
+hejt.centra_0ado.ARKI	centra hejtado		NULL	NULL	NULL
+hekat.0o	Hekato		NULL	Hekate	
+hekato.0o	hekatombo		NULL	Hekatombe	
+hekato.0o.FIG	hekatombo	2	NULL	Hekatombe	
+hekato.0o.REL	hekatombo	1	NULL	Hekatombe	
+heksae.0o	heksaedro		NULL	Hexaeder	
+heksae.0o	heksaedro		NULL	Sechsflach	
+heksae.0o	heksaedro		NULL	Sechsflächner	
+heksagon.0o	heksagono		NULL	Hexagon	
+heksam.0o	heksametro		oa_2	Hexameter	
+heksam.0o	heksametro		oa_2	sechsfüßiger Vers	
+heksam.0o.POE	heksametro	1	oa_2	Hexameter	
+heksam.0o.POE	heksametro	1	oa_2	sechsfüßiger Vers	
+hektar.0o	hektaro		NULL	Hektar	
+hektik.0a	hektika		NULL	hektisch	
+hektik.0a.FIG	hektika	2	NULL	hektisch	
+hektik.0a.MED	hektika	1	NULL	hektisch	
+hekto.0	hekto-		NULL	Hekto-	
+hekto.0.MEZ	hekto-		NULL	Hekto-	
+hektog.0o	hektogramo		oa_2	Hektogramm	
+hektograf.0i	hektografi		NULL	NULL	NULL
+hektograf.0i.TIP	hektografi		NULL	NULL	NULL
+hektograf.0o	hektografo		NULL	NULL	NULL
+hektograf.0o.TIP	hektografo		NULL	NULL	NULL
+hektol.0o	hektolitro		oa_2	Hektoliter	
+hektom.0o	hektometro		oa_2	Hektometer	
+hektor.0o	Hektoro		NULL	Hektor	
+hektor.0o.NOM	Hektoro	1	NULL	Hektor	
+hektor.0o.PERS	Hektoro	2	NULL	Hektor	
+hel.0a	hela		ekz_10	hell	
+hel.0a.blankeca	hela	2	ekz_10	hell	
+hel.0a.lumplena	hela	1	ekz_10	hell	
+hel.0a.sonora	hela	3	ekz_10	hell	
+hel.0eco	heleco		NULL	Helligkeit	
+hel.0eco.KOMUNE	heleco		NULL	Helligkeit	
+hel.0igi	heligi		NULL	erhellen	
+hel.0igi.KOMUNE	heligi		NULL	erhellen	
+hel.0igxi	heliĝi		NULL	NULL	NULL
+hel.0igxi.KOMUNE	heliĝi	1	NULL	NULL	NULL
+hel.0igxi.MET	heliĝi	2	NULL	NULL	NULL
+hel.mal0a	malhela		NULL	NULL	NULL
+hel.mal0a.FIG	malhela	3	NULL	NULL	NULL
+hel.mal0a.SON	malhela	4	NULL	NULL	NULL
+hel.mal0a.nigreca	malhela	2	NULL	NULL	NULL
+hel.mal0a.senluma	malhela	1	NULL	dunkel	
+hel.mal0igi	malheligi		NULL	NULL	NULL
+hel.mal0igi.KOMUNE	malheligi		NULL	NULL	NULL
+hel.mal0igxi	malheliĝi		NULL	NULL	NULL
+hel.mal0igxi.KOMUNE	malheliĝi		NULL	NULL	NULL
+helebo.0o	heleboro		NULL	Nieswurz	
+helebo.nigra0o	nigra heleboro		NULL	Schwarze Nieswurz	
+helebo.nigra0o	nigra heleboro		NULL	Schneerose	
+helebo.nigra0o	nigra heleboro		NULL	Christrose	
+helen.0ismo	helenismo		NULL	Hellenismus	
+helen.0ismo.KOMUNE	helenismo	1	NULL	Hellenismus	
+helen.0ismo.LIN	helenismo	2	NULL	Hellenismus	
+helen.0o	heleno		NULL	Hellene	
+helen.0o.ETN	heleno		NULL	Hellene	
+helen1.0o	Heleno		NULL	Helene	
+helen1.0o.insulo	Heleno	2	NULL	Helene	
+helen1.0o.teritorio	Heleno	3	NULL	Helene	
+helen1.Sankta_0o	Sankta Heleno		NULL	St. Helena	
+helen1.Sankta_0o.patrino	Sankta Heleno	1	NULL	St. Helena	
+helenistik.0a	helenistika		NULL	NULL	NULL
+helenistik.0a.HIS	helenistika		NULL	NULL	NULL
+heler.0o	helero		NULL	Heller	Heller (Münze)
+heler.0o.EKON	helero		NULL	Heller	Heller (Münze)
+helian.0o	helianto		NULL	Sonnenblume	
+helian.0o.BOT	helianto		NULL	Sonnenblume	
+helian.tubera0o	tubera helianto		NULL	Topinambur	
+helian.tubera0o	tubera helianto		NULL	Erdbirne	
+helian.tubera0o	tubera helianto		NULL	Topinambur	
+helian.tubera0o	tubera helianto		NULL	Erdbirne	
+helian.tubera0o.BOT	tubera helianto		NULL	Topinambur	
+helian.tubera0o.BOT	tubera helianto		NULL	Erdbirne	
+helian.tubera0o.BOT	tubera helianto		NULL	Topinambur	
+helian.tubera0o.BOT	tubera helianto		NULL	Erdbirne	
+helian2.0o	heliantemo		NULL	Sonnenröschen	
+helic.0o	helico		oa_4	NULL	NULL
+helic.0o	helico		oa_4	NULL	NULL
+helic.0o.MAT	helico	1	oa_4	Schraubenlinie	
+helic.0o.MAT	helico	1	oa_4	Schraubenlinie	
+helic.0o.MAT	helico	1	oa_4	Helix	
+helic.0o.MAT	helico	1	oa_4	Helix	
+helic.0o.MAT	helico	1	oa_4	Wendel	
+helic.0o.MAT	helico	1	oa_4	Wendel	
+helic.0o.TEK	helico	2	oa_4	Schiffsschraube	
+helic.0o.TEK	helico	2	oa_4	Schiffsschraube	
+helic.0o.TEK	helico	2	oa_4	Luftschraube	
+helic.0o.TEK	helico	2	oa_4	Luftschraube	
+helic.0o.TEK	helico	2	oa_4	Propeller	
+helic.0o.TEK	helico	2	oa_4	Propeller	
+helik.0o	heliko		oa_2	NULL	NULL
+helik.0o.ascii	heliko	3	oa_2	Klammeraffe	
+helik.0o.genro	heliko	2	oa_2	Weinbergschnecke	
+helik.0o.konkhava	heliko	1	oa_2	Schnecke	
+helik.0o.konkhava	heliko	1	oa_2	Gehäuseschnecke	
+helike.0oj	helikedoj		NULL	Schnirkelschnecken	
+heliko.0o	helikoptero		oa_8	Hubschrauber	
+heliko.0o	helikoptero		oa_8	Helikopter	
+helikr.0o	helikrizo		NULL	Strohblume	
+helikr.0o.BOT	helikrizo		NULL	Strohblume	
+heliks.0o	helikso		NULL	Helix	
+heliks.0o	helikso		NULL	Ohrkrempe	
+heliocentr.0a	heliocentra		NULL	heliozentrisch	
+heliocentr.0a.AST	heliocentra		NULL	heliozentrisch	
+heliocentr.0ismo	heliocentrismo		NULL	Heliozentrismus	
+heliocentr.0ismo.AST	heliocentrismo		NULL	Heliozentrismus	
+helios.0o	heliostato		NULL	Heliostat	
+helios1.0o	Helioso		NULL	Helios	
+helios1.0o	Helio		NULL	Helios	
+heliot.0o	heliotropo		oa_2	NULL	NULL
+heliot.0o.BOT	heliotropo		oa_2	Sonnenwende	Sonnenwende (Pflanze)
+heliot1.0o	heliotropo		NULL	NULL	NULL
+heliot1.0o.MIN	heliotropo		NULL	Blutjaspis	
+helium.0o	heliumo		NULL	Helium	
+helium.0o	helio		NULL	Helium	
+helm.0o	helmo		NULL	NULL	NULL
+helm.0o.TEKS	helmo		NULL	NULL	NULL
+help.0	help!		NULL	NULL	NULL
+help.0.SON	help!		NULL	Hilfe!	
+help.0a	helpa		NULL	hilfreich	
+help.0a	helpa		NULL	Hilfs-	
+help.0a.KOMUNE	helpa	1	NULL	hilfreich	
+help.0a.KOMUNE	helpa	1	NULL	Hilfs-	
+help.0a.saniga	helpa	2	NULL	hilfreich	
+help.0a.saniga	helpa	2	NULL	Hilfs-	
+help.0anto	helpanto		NULL	Helfer	
+help.0anto	helpisto		NULL	Helfer	
+help.0anto.KOMUNE	helpanto		NULL	Helfer	
+help.0anto.KOMUNE	helpisto		NULL	Helfer	
+help.0e	helpe		NULL	NULL	NULL
+help.0e.KOMUNE	helpe		NULL	Hilfe	zu Hilfe
+help.0e.KOMUNE	helpe		NULL	Hilfe	mit Hilfe
+help.0ema	helpema		NULL	hilfsbereit	
+help.0ema.KOMUNE	helpema		NULL	hilfsbereit	
+help.0i	helpi		ekz_30	helfen	
+help.0i	helpi		ekz_30	unterstützen	
+help.0i.KOMUNE	helpi	1	ekz_30	helfen	
+help.0i.KOMUNE	helpi	1	ekz_30	unterstützen	
+help.0i.ion	helpi	2	ekz_30	helfen	
+help.0i.ion	helpi	2	ekz_30	unterstützen	
+help.0ialsi	helpi al si		NULL	helfen	sich helfen
+help.0ialsi.KOMUNE	helpi al si	1	NULL	helfen	sich helfen
+help.0ialsi.reciproke	helpi al si	2	NULL	helfen	sich helfen
+help.0ilo	helpilo		NULL	Hilfsmittel	
+help.0ilo.KOMUNE	helpilo		NULL	Hilfsmittel	
+help.0o	helpo		NULL	Hilfe	
+help.0o.KOMUNE	helpo		NULL	Hilfe	
+help.antauxmal0i	antaŭmalhelpi		NULL	NULL	NULL
+help.antauxmal0i.KOMUNE	antaŭmalhelpi		NULL	vermeiden	
+help.hom0a	homhelpa		NULL	NULL	NULL
+help.hom0a.POL	homhelpa		NULL	karitativ	
+help.kun0i	kunhelpi		NULL	mithelfen	
+help.kun0i	kunhelpi		NULL	unterstützen	
+help.kun0i.KOMUNE	kunhelpi		NULL	mithelfen	
+help.kun0i.KOMUNE	kunhelpi		NULL	unterstützen	
+help.kun0o	kunhelpo		NULL	NULL	NULL
+help.kun0o.KOMUNE	kunhelpo		NULL	Mithilfe	
+help.kun0o.KOMUNE	kunhelpo		NULL	Unterstützung	
+help.mal0a	malhelpa		NULL	hinderlich	
+help.mal0a.KOMUNE	malhelpa		NULL	hinderlich	
+help.mal0ajxo	malhelpaĵo		NULL	Hindernis	
+help.mal0i	malhelpi		uv_H	behindern	
+help.mal0i	malhelpi		uv_H	verhindern	
+help.mal0i	malhelpi		uv_H	stören	
+help.mal0i.ion	malhelpi	2	uv_H	behindern	
+help.mal0i.ion	malhelpi	2	uv_H	verhindern	
+help.mal0i.ion	malhelpi	2	uv_H	stören	
+help.mal0i.iun	malhelpi	1	uv_H	behindern	
+help.mal0i.iun	malhelpi	1	uv_H	verhindern	
+help.mal0i.iun	malhelpi	1	uv_H	stören	
+help.mal0o	malhelpo		NULL	Hindernis	
+help.mal0o.KOMUNE	malhelpo		NULL	Hindernis	
+help.mon0o	monhelpo		NULL	NULL	NULL
+help.mon0o.KOMUNE	monhelpo		NULL	Unterstützung	finanzielle Unterstützung
+help.mon0o.KOMUNE	monhelpo		NULL	Subvention	
+help.sen0a	senhelpa		NULL	hilflos	
+help.sen0a.io	senhelpa	2	NULL	hilflos	
+help.sen0a.iu	senhelpa	1	NULL	hilflos	
+helsink.0o	Helsinko		NULL	Helsinki	
+helvel.0o	helvelo		NULL	Lorchel	
+helvela.0oj	helvelacoj		NULL	Lorcheln	
+hemati.0o	hematito		NULL	Hämatit	
+hemati.0o	hematito		NULL	Roteisenstein	
+hemati.0o	hematito		NULL	Eisenglanz	
+hemati.0o	hematito		NULL	Blutstein	
+hemati.0o.MIN	hematito		NULL	Hämatit	
+hemati.0o.MIN	hematito		NULL	Roteisenstein	
+hemati.0o.MIN	hematito		NULL	Eisenglanz	
+hemati.0o.MIN	hematito		NULL	Blutstein	
+hematolog.0o	hematologo		NULL	NULL	NULL
+hematolog.0o.MED	hematologo		NULL	Hämatologe	
+hematologi.0o	hematologio		NULL	NULL	NULL
+hematologi.0o.MED	hematologio		NULL	Hämatologie	
+hematom.0o	hematomo		NULL	Hämatom	
+hematom.0o	hematomo		NULL	Bluterguss	
+hematom.0o.MED	hematomo		NULL	Hämatom	
+hematom.0o.MED	hematomo		NULL	Bluterguss	
+hemero.0o	hemerokalido		NULL	Taglilie	
+hemero.0o	hemerokalo		NULL	Taglilie	
+hemero.0o.BOT	hemerokalido		NULL	Taglilie	
+hemero.0o.BOT	hemerokalo		NULL	Taglilie	
+hemikr.0o	hemikranio		NULL	Migräne	
+hemikr.0o.MED	hemikranio		NULL	Migräne	
+hemion.0o	hemiono		NULL	Halbesel	
+hemiplegi.0o	hemiplegio		NULL	NULL	NULL
+hemiplegi.0o.MED	hemiplegio		NULL	NULL	NULL
+hemipt.0a	hemiptera		NULL	Wanzen-	
+hemipt.0oj	hemipteroj		NULL	Wanzen	
+hemipt.0oj	hemipteroj		NULL	Ungleichflügler	
+hemipt.0oj	hemipteroj		NULL	Halbflügler	
+hemisf.0a	hemisfera		NULL	halbkugelig	
+hemisf.0a	hemisfera		NULL	hemisphärisch	
+hemisf.0o	hemisfero		NULL	Hemisphäre	
+hemisf.0o	hemisfero		NULL	Hemisphäre	
+hemisf.0o.MAT	hemisfero	3	NULL	Hemisphäre	
+hemisf.0o.MAT	hemisfero	3	NULL	Halbkugel	
+hemisf.0o.MAT	hemisfero	3	NULL	Hemisphäre	
+hemisf.0o.de_cerbo	hemisfero	2	NULL	Hemisphäre	
+hemisf.0o.de_cerbo	hemisfero	2	NULL	Hemisphäre	
+hemofili.0o	hemofilio		NULL	Hämophilie	
+hemofili.0o	hemofilio		NULL	Bluterkrankheit	
+hemofili.0o.MED	hemofilio		NULL	Hämophilie	
+hemofili.0o.MED	hemofilio		NULL	Bluterkrankheit	
+hemogl.0o	hemoglobino		NULL	Hämoglobin	
+hemogl.0o	hemoglobino		NULL	Blutfarbstoff	
+hemogl.0o.FIZL	hemoglobino		NULL	Hämoglobin	
+hemogl.0o.FIZL	hemoglobino		NULL	Blutfarbstoff	
+hemoptiz.0o	hemoptizo		NULL	Hämoptyse	
+hemoptiz.0o	hemoptizo		NULL	Bluthusten	
+hemoptiz.0o.MED	hemoptizo		NULL	Hämoptyse	
+hemoptiz.0o.MED	hemoptizo		NULL	Bluthusten	
+hemora.0a	hemoragia		NULL	hämorrhagisch	
+hemora.0a	hemoragia		NULL	gewebsblutend	
+hemora.0o	hemoragio		NULL	Hämorrhagie	
+hemora.0o	hemoragio		NULL	Gewebeblutung	
+hemoro.0a	hemoroida		NULL	hämorrhoidisch	
+hemoro.0oj	hemoroidoj		NULL	Hämorrhoiden	
+hemoro.0oj	hemorojdoj		NULL	Hämorrhoiden	
+hen.0i	heni		NULL	wiehern	
+hena.0arbo	henaarbo		NULL	NULL	NULL
+hena.0arbo.BOT	henaarbo		NULL	NULL	NULL
+hena.0o	henao		NULL	Henna	
+hena.0o.KOS	henao		NULL	Henna	
+henegov.H0o	Henegovio		NULL	Hennegau	
+henriet.0njo	Henjo		NULL	Jette	
+henriet.0njo	Henjo		NULL	Henja	
+henriet.0njo	Henjo		NULL	Henrike	
+henriet.0njo	Henjo		NULL	Heike	
+henriet.0njo.SNC	Henjo		NULL	Jette	
+henriet.0njo.SNC	Henjo		NULL	Henja	
+henriet.0njo.SNC	Henjo		NULL	Henrike	
+henriet.0njo.SNC	Henjo		NULL	Heike	
+henriet.0o	Henrieto		NULL	Henriette	
+henriet.0o.SNC	Henrieto		NULL	Henriette	
+henrik.0o	Henriko		NULL	Hendrik	
+henrik.0o.NOM	Henriko		NULL	Hendrik	
+hepat.0ajxo	hepataĵo		NULL	Leber	
+hepat.0o	hepato		NULL	Leber	
+hepati.0o	hepatiko		NULL	Leberblümchen	
+her.0o	Hero		NULL	Hera	
+herakl.0o	herakleo		NULL	Bärenklau	
+herakl1.0idoj	Heraklidoj		NULL	Herakleiden	
+herakl1.0o	Heraklo		NULL	Herakles	
+herald.0o	heraldiko		NULL	Heraldik	
+herald.0o	heraldiko		NULL	Wappenkunde	
+herald.0o.SCI	heraldiko		NULL	Heraldik	
+herald.0o.SCI	heraldiko		NULL	Wappenkunde	
+herb.0acxo	herbaĉo		NULL	Unkraut	
+herb.0acxo	trudherbo		NULL	Unkraut	
+herb.0acxo	misherbo		NULL	Unkraut	
+herb.0acxo.AGR	herbaĉo		NULL	Unkraut	
+herb.0acxo.AGR	trudherbo		NULL	Unkraut	
+herb.0acxo.AGR	misherbo		NULL	Unkraut	
+herb.0ejo	herbejo		uv_H	Wiese	
+herb.0ejo.AGR	herbejo		uv_H	Wiese	
+herb.0ero	herbero		NULL	NULL	NULL
+herb.0o	herbo		ekz_34	NULL	NULL
+herb.0o.BOT	herbo	3	ekz_34	Kraut	
+herb.0o.KOMUNE	herbo	1	ekz_34	Kraut	
+herb.0o.KOMUNE	herbo	1	ekz_34	Gras	
+herb.0o.KUI	herbo	2	ekz_34	Kraut	Kraut (Küche, Pharmazie)
+herb.0oricxa	herboriĉa		NULL	saftig	saftig (Wiese)
+herb.0oricxa	herboriĉa		NULL	grasig	
+herb.arom0o	aromherbo		NULL	Kraut	aromatisches Kraut
+herb.arom0o	aroma herbo		NULL	Kraut	aromatisches Kraut
+herb.arom0o	aromherbo		NULL	Duftkraut	
+herb.arom0o	aroma herbo		NULL	Duftkraut	
+herb.arom0o	aromherbo		NULL	Gewürzkraut	
+herb.arom0o	aroma herbo		NULL	Gewürzkraut	
+herb.arom0o.KOMUNE	aromherbo		NULL	Kraut	aromatisches Kraut
+herb.arom0o.KOMUNE	aroma herbo		NULL	Kraut	aromatisches Kraut
+herb.arom0o.KOMUNE	aromherbo		NULL	Duftkraut	
+herb.arom0o.KOMUNE	aroma herbo		NULL	Duftkraut	
+herb.arom0o.KOMUNE	aromherbo		NULL	Gewürzkraut	
+herb.arom0o.KOMUNE	aroma herbo		NULL	Gewürzkraut	
+herb.birdo0o	birdoherbo		NULL	Vogelmiere	
+herb.birdo0o.BOT	birdoherbo		NULL	Vogelmiere	
+herb.hund0o	hundherbo		NULL	Quecke	
+herb.hund0o.BOT	hundherbo		NULL	Quecke	
+herb.kurac0o	kuracherbo		NULL	Heilkraut	
+herb.kurac0o.MED	kuracherbo		NULL	Heilkraut	
+herb.pan0o	panherbo		NULL	Getreide	
+herb.pan0o.AGR	panherbo		NULL	Getreide	
+herb.spic0o	spicherbo		NULL	Gewürzkraut	
+herb.spic0o.KUI	spicherbo		NULL	Gewürzkraut	
+herb.veruk0o	verukherbo		NULL	Warzenkraut	
+herb.veruk0o	verukherbo		NULL	Schöllkraut	
+herb.veruk0o.BOT	verukherbo		NULL	Warzenkraut	
+herb.veruk0o.BOT	verukherbo		NULL	Schöllkraut	
+herbar.0o	herbario		NULL	Herbarium	
+herbar.0o	herbario		NULL	Sammlung getrockneter Pflanzen	
+herbar.0o.BOT	herbario		NULL	Herbarium	
+herbar.0o.BOT	herbario		NULL	Sammlung getrockneter Pflanzen	
+herbicid.0o	herbicido		NULL	NULL	NULL
+herbicid.0o.AGR	herbicido		NULL	Herbizid	
+herc.0o	herco		NULL	Hertz	Hertz (Einheit)
+herc.0o.MEZ	herco		NULL	Hertz	Hertz (Einheit)
+hercegov.H0o	Hercegovino		NULL	Herzegowina	
+hercegov.H0o.GEOG	Hercegovino		NULL	Herzegowina	
+herd.0o	herdo		NULL	NULL	NULL
+herd.0o.ZOO	herdo		NULL	NULL	NULL
+hered.0a	hereda		NULL	Erb-	
+hered.0a	hereda		NULL	erblich	
+hered.0a.GNT	hereda	2	NULL	Erb-	
+hered.0a.GNT	hereda	2	NULL	erblich	
+hered.0a.JUR	hereda	1	NULL	Erb-	
+hered.0a.JUR	hereda	1	NULL	erblich	
+hered.0ajxo	heredaĵo		NULL	Erbe	(das) Erbe
+hered.0ajxo	heredo		NULL	Erbe	(das) Erbe
+hered.0ajxo	heredaĵo		NULL	Erbschaft	
+hered.0ajxo	heredo		NULL	Erbschaft	
+hered.0ajxo.FIG	heredaĵo	2	NULL	Erbe	(das) Erbe
+hered.0ajxo.FIG	heredo	2	NULL	Erbe	(das) Erbe
+hered.0ajxo.FIG	heredaĵo	2	NULL	Erbschaft	
+hered.0ajxo.FIG	heredo	2	NULL	Erbschaft	
+hered.0ajxo.JUR	heredaĵo	1	NULL	Erbe	(das) Erbe
+hered.0ajxo.JUR	heredo	1	NULL	Erbe	(das) Erbe
+hered.0ajxo.JUR	heredaĵo	1	NULL	Erbschaft	
+hered.0ajxo.JUR	heredo	1	NULL	Erbschaft	
+hered.0anto	heredanto		NULL	Erbe	(der) Erbe
+hered.0eco	heredeco		NULL	NULL	NULL
+hered.0eco.GNT	heredeco	2	NULL	NULL	NULL
+hered.0eco.JUR	heredeco	1	NULL	NULL	NULL
+hered.0i	heredi		NULL	erben	
+hered.0i.FIG	heredi	2	NULL	erben	
+hered.0i.JUR	heredi	1	NULL	erben	
+hered.0i.MED	heredi	3	NULL	erben	
+hered.0igi	heredigi		NULL	vererben	
+hered.0igi.JUR	heredigi		NULL	vererben	
+hered.pri0a	prihereda		NULL	NULL	NULL
+hered.sen0igi	senheredigi		NULL	enterben	
+hered.sen0igi.JUR	senheredigi		NULL	enterben	
+herez.0i	herezi		NULL	ketzerisch sein	
+herez.0i	herezi		NULL	ketzerisch handeln	
+herez.0i.REL	herezi		NULL	ketzerisch sein	
+herez.0i.REL	herezi		NULL	ketzerisch handeln	
+herez.0o	herezo		NULL	NULL	NULL
+herez.0o.FIG	herezo	2	NULL	Irrlehre	
+herez.0o.FIG	herezo	2	NULL	Widerspruchsmeinung	
+herez.0o.REL	herezo	1	NULL	Häresie	
+herez.0o.REL	herezo	1	NULL	Ketzerei	
+herez.0ulo	herezulo		NULL	Häretiker	
+herez.0ulo	herezulo		NULL	Ketzer	
+herez.0ulo.REL	herezulo		NULL	Häretiker	
+herez.0ulo.REL	herezulo		NULL	Ketzer	
+herez.cxef0ulo	ĉefherezulo		NULL	NULL	NULL
+herez.cxef0ulo.REL	ĉefherezulo		NULL	NULL	NULL
+herezolog.0o	herezologo		NULL	NULL	NULL
+herezolog.0o.REL	herezologo		NULL	NULL	NULL
+herkul.0o	Herkulo		NULL	NULL	NULL
+herkul.0o	Herkuleso		NULL	NULL	NULL
+herkul.0o.FIG	Herkulo		NULL	NULL	NULL
+herkul.0o.FIG	Herkuleso		NULL	NULL	NULL
+herkul.0o.mita	Herkulo		NULL	NULL	NULL
+herkul.0o.mita	Herkuleso		NULL	NULL	NULL
+herkul.H0o	Herkulo		NULL	NULL	NULL
+herkul.H0o.AST	Herkulo	2	NULL	NULL	NULL
+herkul.H0o.nomo	Herkulo	1	NULL	NULL	NULL
+herkul.h0o	herkulo		NULL	NULL	NULL
+hermaf.0a	hermafrodita		NULL	zwittrig	
+hermaf.0a	hermafrodita		NULL	zweigeschlechtlich	
+hermaf.0a.BIO	hermafrodita		NULL	zwittrig	
+hermaf.0a.BIO	hermafrodita		NULL	zweigeschlechtlich	
+hermaf.0o	hermafrodito		NULL	Hermaphrodit	
+hermaf.0o	hermafrodito		NULL	Zwitter	
+hermaf.0o.BIO	hermafrodito		NULL	Hermaphrodit	
+hermaf.0o.BIO	hermafrodito		NULL	Zwitter	
+hermaf.H0o	Hermafrodito		NULL	Hermaphroditos	
+hermaf.H0o.MIT	Hermafrodito		NULL		
+hermaf.H0o.MIT	Hermafrodito		NULL	Hermaphroditos	
+herman.0o	Hermano		NULL	Hermann	
+herman.0o.NOM	Hermano		NULL	Hermann	
+hermeneuxtik.0o	hermeneŭtiko		NULL	Hermeneutik	
+hermeneuxtik.0o.BELE	hermeneŭtiko		NULL	Hermeneutik	
+hermes.0o	Hermeso		NULL	Hermes	
+hermes.0o.nomo	Hermeso	2	NULL	Hermes	
+hermet.0a	hermeta		NULL	NULL	NULL
+hermet.0a.TEK	hermeta	1	NULL	hermetisch	
+hermet.0a.malklara	hermeta	2	NULL	unzugänglich	
+hermetik.0a	hermetika		NULL	NULL	NULL
+hermetik.0a.TEK	hermetika	1	NULL	hermetisch	
+hermetik.0a.TEK	hermetika	1	NULL	wasserdicht	luft- und wasserdicht
+hermetik.0a.malklara	hermetika	2	NULL	unergründlich	
+hermetik.0a.malklara	hermetika	2	NULL	undurchdringlich	
+hermetik.0igi	hermetikigi		NULL	verschließen	hermetisch verschließen
+hermetik.0igi	hermetikigi		NULL	unergründlich	unergründlich machen
+hermetik.0igi	hermetikigi		NULL	abschotten	
+hermin.0o	herminio		NULL	Spannereule	Spannereule (Nachtfalter)
+hermin.0o	herminio		NULL	Eulenfalter	Eulenfalter (Herminia)
+hermit.0o	Hermito		NULL	Hermite	
+hermit.h0a	hermita		NULL	Hermite	von Hermite
+hermit.h0a	hermita		NULL	Hermitesch	
+hermit.h0a.matrico	hermita	1	NULL	Hermitesch	Hermitesch (-e Matrix)
+hermit.h0a.matrico	hermita	1	NULL	selbstadjungiert	selbstadjungiert (-e Matrix)
+hermit.h0a.matrico	hermita	1	NULL	Hermite	von Hermite
+hermit.h0a.matrico	hermita	1	NULL	Hermitesch	
+herni.0o	hernio		NULL	Bruch	
+herni.0o	hernio		NULL	Hernie	Hernie [fak]
+hero.0ajxo	heroaĵo		NULL	Heldentat	
+hero.0ajxo.KOMUNE	heroaĵo		NULL	Heldentat	
+hero.0eco	heroeco		NULL	Heldentum	
+hero.0eco.KOMUNE	heroeco		NULL	Heldentum	
+hero.0ino	heroino		NULL	Heldin	
+hero.0ino.KOMUNE	heroino		NULL	Heldin	
+hero.0o	heroo		ekz_35	Held	
+hero.0o.KOMUNE	heroo		ekz_35	Held	
+hero.super0o	superheroo		NULL	NULL	NULL
+hero.super0o.BELA	superheroo		NULL	NULL	NULL
+herod.0o	Herodo		NULL	Herodes	
+herod.0o.Antipas	Herodo	2	NULL	Herodes	
+herod.0o.Granda	Herodo	1	NULL	Herodes	
+herodot.0o	Herodoto		NULL	Herodot	
+herodot.0o.PERS	Herodoto		NULL	Herodot	
+heroin.0o	heroino		NULL	Heroin	
+heroin.0o.MED	heroino		NULL	Heroin	
+herold.0i	heroldi		NULL	ausrufen	
+herold.0i	heroldi		NULL	verkündigen	
+herold.0o	heroldo		NULL	Ausrufer	
+herold.0o	heroldo		NULL	Verkündiger	
+herold.0o	heroldo		NULL	Herold	
+herpet.0o	herpeto		NULL	Herpes	
+hers.0o	herso		NULL	Fallgatter	
+hers.0o	herso		NULL	Fallgitter	
+hers.0o.ARKI	herso		NULL	Fallgatter	
+hers.0o.ARKI	herso		NULL	Fallgitter	
+hes.0a	hesa		NULL	hessisch	
+hes.0o	heso		NULL	Hesse	
+hes.H0ujo	Hesujo		NULL	Hessen	
+hetajr.0o	hetajro		NULL	Hetäre	
+hetajr.0o.MOR	hetajro		NULL	Hetäre	
+hetero.0a	heterogena		NULL	heterogen	
+hetero.0a	heterogena		NULL	ungleichartig	
+hetero.0a	heterogena		NULL	verschiedenartig	
+hetero.0a.KOMUNE	heterogena		NULL	heterogen	
+hetero.0a.KOMUNE	heterogena		NULL	ungleichartig	
+hetero.0a.KOMUNE	heterogena		NULL	verschiedenartig	
+hetero.0eco	heterogeneco		NULL	Heterogenität	
+hetero.0eco	heterogeneco		NULL	Verschiedenartigkeit	
+hetero.0eco	heterogeneco		NULL	Unterschiedlichkeit	
+hetero.0eco.KOMUNE	heterogeneco		NULL	Heterogenität	
+hetero.0eco.KOMUNE	heterogeneco		NULL	Verschiedenartigkeit	
+hetero.0eco.KOMUNE	heterogeneco		NULL	Unterschiedlichkeit	
+heterodoks.0a	heterodoksa		NULL	häretisch	
+heterodoks.0a.gxenerale	heterodoksa		NULL	häretisch	
+heteroseksual.0a	heteroseksuala		NULL	NULL	NULL
+heteroseksual.0a.MOR	heteroseksuala		NULL	NULL	NULL
+heterotrof.0a	heterotrofa		NULL	NULL	NULL
+heterotrof.0a.BIO	heterotrofa		NULL	NULL	NULL
+heterotrof.0ulo	heterotrofulo		NULL	NULL	NULL
+heterotrof.0ulo.BIO	heterotrofulo		NULL	NULL	NULL
+hetman.0o	hetmano		oa_2	Hetman	
+hetman.0o	hetmano		oa_2	Ataman	
+hetman.0o.kapitano	hetmano	2	oa_2	Hetman	
+hetman.0o.kapitano	hetmano	2	oa_2	Ataman	
+hetman.0o.kapitano	hetmano	2	oa_2	Hauptmann	
+heuxrek.0	heŭreka!		NULL	Heureka	
+heuxristik.0o	heŭristiko		NULL	Heuristik	
+heuxristik.0o	heŭristiko		NULL	Daumenregel	
+hevisi.0o	Hevisido		NULL	Heaviside	
+hevisi.h0a	hevisida		NULL	Heavisidesche	
+heziod.0o	Heziodo		NULL	Hesiod	
+heziod.0o.PERS	Heziodo		NULL	Hesiod	
+hezit.0a	hezita		NULL	zögernd	
+hezit.0a	hezita		NULL	zögerlich	
+hezit.0a	hezita		NULL	unschlüssig	
+hezit.0ema	hezitema		NULL	zögerlich	
+hezit.0ema	hezitema		NULL	zaudernd	
+hezit.0ema	hezitema		NULL	unschlüssig	
+hezit.0i	heziti		NULL	zögern	
+hezit.0i	heziti		NULL	zaudern	
+hezit.0o	hezito		NULL	Zögern	
+hezit.sen0a	senhezita		NULL	unmittelbar	
+hezit.sen0a	senhezita		NULL	anstandslos	
+hezit.sen0a	senhezita		NULL	zögern	ohne zu zögern
+hezit.sen0e	senhezite		NULL	zögern	ohne zu zögern
+hezit.sen0e	senhezite		NULL	unmittelbar	
+hezit.sen0e	senhezite		NULL	anstandslos	
+hiacin.0o	hiacinto		NULL	Hyazinthe	
+hiat.0o	hiato		NULL	NULL	NULL
+hiat.0o.FON	hiato	1	NULL	Hiat	
+hiat.0o.brecxo	hiato	2	NULL	Hiatus	
+hibacx.0o	hibaĉo		NULL	Hibachi	
+hibisk.0o	hibisko		NULL	Hibiskus	
+hibrid.0a	hibrida		NULL	hybrid	
+hibrid.0a	hibrida		NULL	zwitterhaft	
+hibrid.0a.BIO	hibrida	1	NULL	hybrid	
+hibrid.0a.BIO	hibrida	1	NULL	zwitterhaft	
+hibrid.0a.TEK	hibrida	2	NULL	hybrid	
+hibrid.0a.TEK	hibrida	2	NULL	zwitterhaft	
+hibrid.0o	hibrido		NULL	Hybride	
+hibrid.0o	hibrido		NULL	Bastard	
+hibrid.0o.BIO	hibrido		NULL	Hybride	
+hibrid.0o.BIO	hibrido		NULL	Bastard	
+hid.0a	hida		NULL	NULL	NULL
+hidalg.0o	hidalgo		NULL	NULL	NULL
+hidr.0o	hidro		oa_2	NULL	NULL
+hidr.0o.MIT	hidro	1	oa_2	Hydra	
+hidr.0o.ZOO	hidro	2	oa_2	Wasserschlange	
+hidr.0uloj	hidruloj		NULL	NULL	NULL
+hidr.0uloj.ZOO	hidruloj		NULL	NULL	NULL
+hidr.H0o	Hidro		NULL	Wasserschlange	
+hidr.H0o.AST	Hidro		NULL	Wasserschlange	
+hidr.Vir0o	Virhidro		NULL	Kleine Wasserschlange	
+hidr.Vir0o.AST	Virhidro		NULL	Kleine Wasserschlange	
+hidrangeac.0oj	hidrangeacoj		NULL	Hortensiengewächse	
+hidrant.0o	hidranto		NULL	Hydrant	
+hidrant.0o.AKV	hidranto		NULL	Hydrant	
+hidrar.0o	hidrargo		NULL	Quecksilber	
+hidrar.0o.KEM	hidrargo		NULL	Quecksilber	
+hidrat.0a	hidrata		NULL	wässrig	
+hidrat.0a.KEM	hidrata		NULL	wässrig	
+hidrat.0igi	hidratigi		NULL	hydratisieren	
+hidrat.0igi.KEM	hidratigi		NULL	hydratisieren	
+hidrat.0o	hidrato		NULL	Hydrat	
+hidrat.0o.KEM	hidrato		NULL	Hydrat	
+hidrat.karbon0o	karbonhidrato		NULL	Kohlenhydrat	
+hidrat.karbon0o	karbonhidrato		NULL	Saccharid	
+hidrat.karbon0o.KEM	karbonhidrato		NULL	Kohlenhydrat	
+hidrat.karbon0o.KEM	karbonhidrato		NULL	Saccharid	
+hidrau.0a	hidraŭlika		NULL	Wasser-	
+hidrau.0a	hidraŭlika		NULL	hydraulisch	
+hidrau.0o	hidraŭliko		NULL	Hydraulik	
+hidred.0oj	hidredoj		NULL	Süßwasserpolypen	Süßwasserpolypen (proks.)
+hidroa.0o	hidroaeroplano		NULL	Wasserflugzeug	
+hidroc.0a	hidrocefala		NULL	wasserköpfig	
+hidroc.0a	hidrocefala		NULL	hydrocephalitisch	hydrocephalitisch [fak]
+hidroc.0o	hidrocefalo		NULL	Wasserkopf	
+hidroc.0o	hidrocefalo		NULL	Hydrocephalus	Hydrocephalus [fak]
+hidroc.0ulo	hidrocefalulo		NULL	Wasserkopf	
+hidroc.0ulo	hidrocefalulo		NULL	Hydrocephaluspatient	Hydrocephaluspatient [fak]
+hidrodinamik.0o	hidrodinamiko		NULL	Hydrodynamik	
+hidrodinamik.0o.FIZ	hidrodinamiko		NULL	Hydrodynamik	
+hidroe.0a	hidroelektra		NULL	hydroelektrisch	
+hidroe.0a	hidrelektra		NULL	hydroelektrisch	
+hidroe.0a.TEK	hidroelektra		NULL	hydroelektrisch	
+hidroe.0a.TEK	hidrelektra		NULL	hydroelektrisch	
+hidrof.0o	hidrofobio		NULL	Wasserangst	
+hidrof.0o	hidrofobio		NULL	Wasserfurcht	
+hidrof.0o	hidrofobio		NULL	Hydrophobie	
+hidrog.0o	hidrogeno		NULL	Wasserstoff	
+hidrok.0o	hidrokarbido		NULL	Kohlenwasserstoff	
+hidrok.0o.KEM	hidrokarbido		NULL	Kohlenwasserstoff	
+hidrokarbon.0o	hidrokarbono		NULL	NULL	NULL
+hidrokarbon.0o.KEM	hidrokarbono		NULL	Kohlenwasserstoff	
+hidroksid.0o	hidroksido		NULL	Hydroxid	
+hidroliz.0i	hidrolizi		NULL	hydrolysieren	
+hidrolog.0o	hidrologo		NULL	Hydrologe	
+hidrolog.0o.SCI	hidrologo		NULL	Hydrologe	
+hidrologi.0o	hidrologio		NULL	Hydrologie	
+hidrologi.0o.SCI	hidrologio		NULL	Hydrologie	
+hidrom.0o	hidrometro		NULL	Hydrometer	
+hidrom.0o.denso	hidrometro	1	NULL	Wasserdruckmesser	
+hidrom.0o.denso	hidrometro	1	NULL	Hydrometer	
+hidrom.0o.rapido	hidrometro	2	NULL	Wasserdurchflussmesser	
+hidrom.0o.rapido	hidrometro	2	NULL	Hydrometer	
+hidrom1.0o	hidrometrio		NULL	Wassermesskunde	
+hidrom1.0o	hidrometrio		NULL	Hydrometrie	
+hidrop.0o	hidroplano		NULL	Wasserflugzeug	
+hidrops.0o	hidropso		NULL	Hydrops	
+hidrops.0o	hidropso		NULL	Wassersucht	
+hidrops.0o.MED	hidropso		NULL	Ödem	
+hidrops.0o.MED	hidropso		NULL	Hydrops	
+hidrops.0o.MED	hidropso		NULL	Wassersucht	
+hidros.0o	hidrostatiko		oa_2	Hydrostatik	
+hidros.0o	hidrostatiko		oa_2	Lehre von den ruhenden Flüssigkeiten	
+hidros.0o.fenomenoj	hidrostatiko	2	oa_2	Hydrostatik	
+hidros.0o.fenomenoj	hidrostatiko	2	oa_2	Lehre von den ruhenden Flüssigkeiten	
+hidrot.0o	hidroterapio		oa_2	Hydrotherapie	
+hidrot.0o	hidroterapio		oa_2	Wasserheilkunde	
+hidroz.0oj	hidrozooj		NULL	Hydrozoen	
+hien.0o	hieno		NULL	Hyäne	
+hiened.0oj	hienedoj		NULL	Hyänen	Hyänen (Familie)
+hierar.0o	hierarĥio		NULL	Hierarchie	
+hierar.0o	hierarkio		NULL	Hierarchie	
+hierar.0o.arangxo	hierarĥio		NULL	Hierarchie	
+hierar.0o.arangxo	hierarkio		NULL	Hierarchie	
+hierat.0a	hieratika		NULL	hieratisch	
+hierau.0a	hieraŭa		NULL	gestriger	
+hierau.0a.KOMUNE	hieraŭa		NULL	gestriger	
+hierau.0o	hieraŭo		NULL	Gestern	
+hierau.0o.KOMUNE	hieraŭo		NULL	Gestern	
+hierau.antaux0	antaŭhieraŭ		NULL	vorgestern	
+hierau.antaux0.KOMUNE	antaŭhieraŭ		NULL	vorgestern	
+hierodul.0ino	hierodulino		NULL	NULL	NULL
+hierodul.0ino.REL	hierodulino		NULL	NULL	NULL
+hierodul.0o	hierodulo		NULL	NULL	NULL
+hierodul.0o.REL	hierodulo		NULL	NULL	NULL
+hierog.0o	hieroglifo		oa_2	Hieroglyphe	
+hieronim.H0o	Hieronimo		NULL	Hieronymus	
+hif.0o	hifo		NULL	Hyphe	
+higien.0a	higiena		NULL	NULL	NULL
+higien.0a.rilata	higiena	1	NULL	Hygiene-	
+higien.0a.saniga	higiena	2	NULL	hygienisch	
+higien.0o	higieno		NULL	Hygiene	
+higrom.0o	higrometro		oa_2	Hygrometer	
+higrom.0o	higrometro		oa_2	Feuchtigkeitsmeter	
+higrom.0o	higrometro		oa_2	Feuchtigkeitsmesser	
+higros.0o	higroskopo		NULL	Hygrometer	
+higros.0o	higroskopo		NULL	Feuchtigkeitsmeter	
+higros.0o	higroskopo		NULL	Feuchtigkeitsmesser	
+higros.0o.MET	higroskopo		NULL	Hygrometer	
+higros.0o.MET	higroskopo		NULL	Feuchtigkeitsmeter	
+higros.0o.MET	higroskopo		NULL	Feuchtigkeitsmesser	
+higxab.0o	hiĝabo		NULL	NULL	NULL
+higxab.0o.TEKS	hiĝabo		NULL	NULL	NULL
+hihi.0	hihi		NULL	NULL	NULL
+hihi.0i	hihii		NULL	NULL	NULL
+hik.0i	hiki		NULL	hicksen	
+hik.0i	hiki		NULL	Schluckauf haben	
+hiksos.0a	hiksosa		NULL	NULL	NULL
+hiksos.0a.ETN	hiksosa		NULL	NULL	NULL
+hiksos.0o	hiksoso		NULL	NULL	NULL
+hiksos.0o.ETN	hiksoso		NULL	NULL	NULL
+hil.0o	hilo		NULL	NULL	NULL
+hil.0o.ZOO	hilo		NULL	NULL	NULL
+hilber.0o	Hilberto		NULL	Hilbert	
+hilber.h0a	hilberta		NULL	Hilbertsch	
+hilel.0ismo	Hilelismo		NULL	Hillelismus	
+hilel.0ismo.REL	Hilelismo		NULL	Hillelismus	
+hilel.0o	Hilelo		NULL	Hillel	
+hilel.0o.PERS	Hilelo		NULL	Hillel	
+hilum.0o	hilumo		NULL	Hilum	
+hilum.0o	hilumo		NULL	Nabel	
+hilum.0o	hilumo		NULL	Samennabel	
+himacxalpradesx.0o	Himaĉalpradeŝo		NULL	NULL	NULL
+himacxalpradesx.0o.GEOG	Himaĉalpradeŝo		NULL	NULL	NULL
+himalaj.H0o	Himalajo		NULL	Himalayagebirge	
+himalaj.H0o	Himalajo		NULL	Himalaya	
+himen.0o	himeno		NULL	NULL	NULL
+himen.0o.ANA	himeno	1	NULL	Hymen	
+himen.0o.ANA	himeno	1	NULL	Jungfernhäutchen	
+himen.0o.BOT	himeno	2	NULL	Hymen	
+himen.0o.BOT	himeno	2	NULL	Schutzhäutchen	
+himeni.0o	himenio		NULL	Hymenium	
+himeni.0o	himenio		NULL	Sporenlager	
+himeno.0oj	himenopteroj		NULL	Hautflügler	
+himn.0aro	himnaro		NULL	Hymnen-Sammlung	
+himn.0aro	himnaro		NULL	Gesangbuch	Gesangbuch (Religion)
+himn.0aro.REL	himnaro		NULL	Hymnen-Sammlung	
+himn.0aro.REL	himnaro		NULL	Gesangbuch	Gesangbuch (Religion)
+himn.0o	himno		NULL	Hymne	
+himn.0o	himno		NULL	Hymnus	
+himn.0o	himno		NULL	Lobgesang	
+himn.0o	himno		NULL	Loblied	
+himn.0o.REL	himno		NULL	Hymne	
+himn.0o.REL	himno		NULL	Hymnus	
+himn.0o.REL	himno		NULL	Lobgesang	
+himn.0o.REL	himno		NULL	Loblied	
+hin.0o	hino		NULL	Maulesel	
+hin.0o.ZOO	hino		NULL	Maulesel	
+hin1.0o	hino		NULL	Hin	
+hin1.0o	hino		NULL	Hin	
+hinajan.0a	hinajana		NULL	NULL	NULL
+hinajan.0a.BUD	hinajana		NULL	NULL	NULL
+hinajan.0o	Hinajano		NULL	Hinayana	
+hinajan.0o.BUD	Hinajano		NULL	Hinayana	
+hind.0a	hinda		NULL	indisch	
+hind.0euxropa	hindeŭropa		NULL	indogermanisch	
+hind.0o	hindo		NULL	Inder	
+hind.0o.naciano	hindo	1	NULL	Inder	
+hind.0o.sxtatano	hindo	2	NULL	Inder	
+hind.H0ujo	Hindujo		NULL	Indien	
+hind.H0ujo.GEOG	Hindujo	1	NULL	Indien	
+hind.H0ujo.POL	Hindujo	2	NULL	Indien	
+hindi.0o	Hindio		NULL	Indien	
+hindi.0o.GEOG	Hindio		NULL	Indien	
+hindu.0ismo	hinduismo		NULL	NULL	NULL
+hindu.0ismo.REL	hinduismo		NULL	NULL	NULL
+hindu.0o	hinduo		NULL	NULL	NULL
+hindu.0o.REL	hinduo		NULL	NULL	NULL
+hindukusx.H0o	Hindukuŝo		NULL	Hindukusch	
+hindustan.0o	Hindustano		NULL	NULL	NULL
+hindustan.0o.GEOG	Hindustano		NULL	NULL	NULL
+hingx.0o	hinĝo		NULL	Angel	Angel (Tür)
+hingx.0o	hinĝo		NULL	Türangel	
+hingx.0o	hinĝo		NULL	Türhaken	
+hiparion.0o	hipariono		NULL	NULL	NULL
+hiparion.0o.ZOO	hipariono		NULL	NULL	NULL
+hiper.0	hiper-		NULL	NULL	NULL
+hiper.0.multdimensia	hiper-	2	NULL	NULL	NULL
+hiper.0.super	hiper-	1	NULL	NULL	NULL
+hiperb.0o	hiperbolo		NULL	Hyperbel	
+hiperb.0o.linio	hiperbolo	1	NULL	Hyperbel	
+hiperb.0o.troigo	hiperbolo	2	NULL	Hyperbel	
+hiperb1.0o	hiperboloido		NULL	Hyperboloid	
+hipere.0o	hiperebeno		NULL	Hyperebene	
+hipere.afina0o	afina hiperebeno		NULL	Hyperebene	affine Hyperebene
+hipere.vektora0o	vektora hiperebeno		NULL	Hyperebene	
+hiperi.0o	hiperiko		NULL	Echtes Johanniskraut	
+hiperi.0o	hiperiko		NULL	Johanniskraut	
+hiperi1.0oj	hiperikacoj		NULL	Johanniskrautgewächse	
+hiperon.0o	hiperono		NULL	Hyperon	
+hiperon.0o.FIZ	hiperono		NULL	Hyperon	
+hipert.0o	hipertrofio		oa_2	Hypertrophie	
+hipert.0o	hipertrofio		oa_2	Aufblähung	
+hipert.0o.MED	hipertrofio		oa_2	Hypertrophie	
+hipert.0o.MED	hipertrofio		oa_2	Aufblähung	
+hipertekst.0o	hiperteksto		NULL	Hypertext	
+hipertekst.0o.KOMP	hiperteksto		NULL	Hypertext	
+hipertiroidism.0o	hipertiroidismo		NULL	NULL	NULL
+hipertiroidism.0o.MED	hipertiroidismo		NULL	NULL	NULL
+hiperurani.0o	hiperuranio		NULL	Hyperuranios	
+hiperurani.0o.platona	hiperuranio		NULL	Hyperuranios	
+hiphop.0o	hiphopo		NULL	Hip-Hop	Hip-Hop (Musik)
+hiphop.0o.BELA	hiphopo		NULL	Hip-Hop	Hip-Hop (Musik)
+hipi.0o	hipio		NULL	Hippie	
+hipi.0o.POL	hipio		NULL	Hippie	
+hipnot.0a	hipnota		NULL	hypnotisch	
+hipnot.0a.MED	hipnota		NULL	hypnotisch	
+hipnot.0igi	hipnotigi		NULL	hypnotisieren	
+hipnot.0igi.MED	hipnotigi	1	NULL	hypnotisieren	
+hipnot.0igi.ekstazigi	hipnotigi	2	NULL	hypnotisieren	
+hipnot.0o	hipnoto		oa_4	Hypnose	
+hipnot.0o	hipnoto		oa_4	Hypnose	
+hipnot.0o.MED	hipnoto		oa_4	Hypnose	
+hipnot.0o.MED	hipnoto		oa_4	Hypnose	
+hipnot1.0o	hipnotismo		NULL	Hypnotik	
+hipo.0	hipo-		NULL	NULL	NULL
+hipo.0.SCI	hipo-		NULL	NULL	NULL
+hipoci.0o	hipocikloido		NULL	Hypozykloide	
+hipoci.longigita0o	longigita hipocikloido		NULL	Hypozykloide	verlängerte Hypozykloide
+hipoci.mallongigita0o	mallongigita hipocikloido		NULL	Hypozykloide	verkürzte Hypozykloide
+hipodr.0o	hipodromo		oa_2	Pferderennbahn	
+hipofe.0o	hipofeo		NULL	NULL	NULL
+hipofe.0o.arbedo	hipofeo		NULL	Sanddorn	
+hipofiz.0o	hipofizo		NULL	Hypophyse	
+hipofizi.0o	hipofizito		NULL	NULL	NULL
+hipoge.0o	hipogeo		NULL	Hypogäum	
+hipoglos.0o	hipogloso		NULL	Heilbutt	
+hipoglos.0o.ZOO	hipogloso		NULL	Heilbutt	
+hipogrif.0o	hipogrifo		NULL	Hippogryph	
+hipogrif.0o	hipogrifo		NULL	Hippogriff	
+hipohx.0o	hipoĥondrio		NULL	Hypochondrie	
+hipohx.0o	hipokondrio		NULL	Hypochondrie	
+hipohx.0o.PSI	hipoĥondrio		NULL	Hypochondrie	
+hipohx.0o.PSI	hipokondrio		NULL	Hypochondrie	
+hipohx.0ulo	hipoĥondriulo		NULL	Hypochonder	
+hipohx.0ulo	hipokondriulo		NULL	Hypochonder	
+hipohx.0ulo.PSI	hipoĥondriulo		NULL	Hypochonder	
+hipohx.0ulo.PSI	hipokondriulo		NULL	Hypochonder	
+hipoka.0o	hipokaŝtano		NULL	Rosskastanie	
+hipoka.0o	hipokaŝtano		NULL	Kastanie	
+hipoka.0o.BOT	hipokaŝtano		NULL	Rosskastanie	
+hipoka.0o.BOT	hipokaŝtano		NULL	Kastanie	
+hipoka1.0oj	hipokaŝtanacoj		NULL	Rosskastaniengewächse	
+hipoka1.0oj	hipokastanacoj		NULL	Rosskastaniengewächse	
+hipokamp.0o	hipokampo		NULL	NULL	NULL
+hipokamp.0o.ANA	hipokampo		NULL	NULL	NULL
+hipokamp1.0o	hipokampo		NULL	NULL	NULL
+hipokamp1.0o.ZOO	hipokampo		NULL	Hippocampus	Hippocampus (Gattung)
+hipokr.0a	hipokrita		NULL	heuchlerisch	
+hipokr.0a	hipokrita		NULL	scheinheilig	
+hipokr.0a.nesincera	hipokrita		NULL	heuchlerisch	
+hipokr.0a.nesincera	hipokrita		NULL	scheinheilig	
+hipokr.0ajxo	hipokritaĵo		NULL	NULL	NULL
+hipokr.0ajxo.ago	hipokritaĵo		NULL	Heuchelei	
+hipokr.0e	hipokrite		NULL	NULL	NULL
+hipokr.0e.nesincere	hipokrite		NULL	NULL	NULL
+hipokr.0eco	hipokriteco		NULL	NULL	NULL
+hipokr.0eco.eco	hipokriteco		NULL	Scheinheiligkeit	
+hipokr.0i	hipokriti		NULL	NULL	NULL
+hipokr.0i.absolute	hipokriti	1	NULL	scheinheilig sein	
+hipokr.0i.ion	hipokriti	2	NULL	heucheln	
+hipokr.0ismo	hipokritismo		NULL	NULL	NULL
+hipokr.0ismo.agmaniero	hipokritismo		NULL	NULL	NULL
+hipokr.0o	hipokrito		NULL	NULL	NULL
+hipokr.0o.kapablo	hipokrito		NULL	Scheinheiligkeit	
+hipokr.0ulo	hipokritulo		NULL	Heuchler	
+hipokr.0ulo	hipokritulo		NULL	Scheinheiliger	
+hipokr.0ulo.iu	hipokritulo		NULL	Heuchler	
+hipokr.0ulo.iu	hipokritulo		NULL	Scheinheiliger	
+hipokr.mal0eco	malhipokriteco		NULL	NULL	NULL
+hipokr.mal0eco.PSI	malhipokriteco		NULL	Aufrichtigkeit	
+hipokrat.0o	Hipokrato		NULL	Hippokrates	
+hipoksi.0o	hipoksio		NULL	NULL	NULL
+hipoksi.0o.FIZL	hipoksio		NULL	NULL	NULL
+hipolit.0o	Hipolito		NULL	Hippolyt	
+hipolit.0o.NOM	Hipolito		NULL	Hippolyt	
+hiponim.0o	hiponimo		NULL	Hyponym	
+hipopo.0o	hipopotamo		NULL	Flusspferd	
+hipopo.0o	hipopotamo		NULL	Nilpferd	
+hipopo1.0oj	hipopotamedoj		NULL	Flusspferde	Flusspferde (Familie)
+hipost.0o	hipostazo		NULL	NULL	NULL
+hipost.0o.KRI	hipostazo		NULL	Hypostase	
+hipost.0o.KRI	hipostazo		NULL	Personifizierung	
+hipostil.0o	hipostilo		NULL	NULL	NULL
+hipostil.0o.halo	hipostilo		NULL	Hypostyl	
+hipotaks.0o	hipotakso		NULL	NULL	NULL
+hipotaks.0o.GRA	hipotakso		NULL	NULL	NULL
+hipote.0i	hipoteki		NULL	mit einer Hypothek belasten	
+hipote.0i	hipoteki		NULL	hypothekarisch belasten	
+hipote.0i	hipoteki		NULL	ein Grundpfand geben	
+hipote.0i.sxargxi	hipoteki		NULL	mit einer Hypothek belasten	
+hipote.0i.sxargxi	hipoteki		NULL	hypothekarisch belasten	
+hipote.0i.sxargxi	hipoteki		NULL	ein Grundpfand geben	
+hipote.0o	hipoteko		NULL	Hypothek	
+hipote.0o	hipoteko		NULL	Grundpfandrecht	
+hipote.0o.rajto	hipoteko		NULL	Hypothek	
+hipote.0o.rajto	hipoteko		NULL	Grundpfandrecht	
+hipote1.0o	hipotenuzo		NULL	Hypotenuse	
+hipote2.0a	hipoteza		NULL	hypothetisch	
+hipote2.0i	hipotezi		NULL	NULL	NULL
+hipote2.0o	hipotezo		NULL	Hypothese	
+hipote2.0o	hipotezo		NULL	Annahme	
+hipote2.0o	hipotezo		NULL	Vermutung	
+hipotr.0o	hipotroĥoido		NULL	Hypotrochoide	
+hipster.0o	hipstero		NULL	NULL	NULL
+hipster.0o.MOD	hipstero		NULL	NULL	NULL
+hiragana.0o	hiraganao		NULL	NULL	NULL
+hiragana.0o	hiragano		NULL	NULL	NULL
+hiragana.0o.TIP	hiraganao		NULL	Hiragana	
+hiragana.0o.TIP	hiragano		NULL	Hiragana	
+hirak.0o	hirako		NULL	Kliffschliefer	
+hirosxim.0o	Hiroŝimo		NULL	NULL	NULL
+hirosxim.0o.havenurbo	Hiroŝimo		NULL	Hiroshima	
+hirt.0a	hirta		NULL	NULL	NULL
+hirt.0a.konfuze	hirta	2	NULL	struppig	
+hirt.0a.rekte	hirta	1	NULL	gesträubt	
+hirt.0a.rekte	hirta	1	NULL	borstig	
+hirt.0igi	hirtigi		NULL	sträuben	
+hirt.0igi	hirtigi		NULL	verstrubbeln	
+hirud.0o	hirudo		NULL	Blutegel	
+hirund.0o	hirundo		ekz_26	NULL	NULL
+hirund.0o.KOMUNE	hirundo	1	ekz_26	Schwalbe	
+hirund.0o.genro	hirundo	2	ekz_26	NULL	NULL
+hirund.nokto0o	noktohirundo		NULL	Nachtschwalbe	
+hirund1.0oj	hirundedoj		NULL	Schwalben	Schwalben (Familie)
+his.0i	hisi		NULL	hissen	
+his.0i	hisi		NULL	setzen	setzen (Segel)
+his.0i.MAR	hisi		NULL	hissen	
+his.0i.MAR	hisi		NULL	setzen	setzen (Segel)
+his.mal0i	malhisi		NULL	einholen	einholen (Flagge, Segel)
+his.mal0i	malhisi		NULL	streichen	streichen (Segel)
+his.mal0i.MAR	malhisi		NULL	einholen	einholen (Flagge, Segel)
+his.mal0i.MAR	malhisi		NULL	streichen	streichen (Segel)
+hiskia.0o	hiskiamo		NULL	Bilsenkraut	
+hiskia.0o.BOT	hiskiamo		NULL	Bilsenkraut	
+hisop.0o	hisopo		oa_2	Ysop	
+hisop.0o.BIB	hisopo	2	oa_2	Ysop	
+hisop.0o.BOT	hisopo	1	oa_2	Ysop	
+hispan.0a	hispana		NULL	spanisch	
+hispan.0a.lingvo	hispana	2	NULL	spanisch	
+hispan.0a.nacia	hispana	1	NULL	spanisch	
+hispan.0o	hispano		NULL	Spanier	
+hispan.0o.naciano	hispano	2	NULL	Spanier	
+hispan.0o.sxtatano	hispano	1	NULL	Spanier	
+hispan.H0ujo	Hispanujo		NULL	Spanien	
+hispani.H0o	Hispanio		NULL	Spanien	
+hispani.H0o.GEOG	Hispanio		NULL	Spanien	
+hispaniol.0o	Hispaniolo		NULL	Hispaniola	
+hist.0o	histo		NULL	Gewebe	(organisches) Gewebe
+hist.0o.ANA	histo		NULL	Gewebe	(organisches) Gewebe
+histamin.0o	histamino		NULL	Histamin	
+histamin.0o.FIZL	histamino		NULL	Histamin	
+hister.0a	histeria		NULL	hysterisch	
+hister.0a.FIG	histeria		NULL	hysterisch	
+hister.0e	histerie		NULL	hysterisch	
+hister.0e.FIG	histerie		NULL	hysterisch	
+hister.0igi	histeriigi		NULL	NULL	NULL
+hister.0igi.FIG	histeriigi		NULL	NULL	NULL
+hister.0o	histerio		NULL	Hysterie	
+hister.0o.FIG	histerio	2	NULL	Hysterie	
+hister.0o.MED	histerio	1	NULL	Hysterie	
+hister.0ulo	histeriulo		NULL	NULL	NULL
+hister.0ulo	histeriulino		NULL	NULL	NULL
+hister.0ulo.MED	histeriulo		NULL	NULL	NULL
+hister.0ulo.MED	histeriulino		NULL	NULL	NULL
+histologi.0o	histologio		NULL	Histologie	
+histologi.0o.SCI	histologio		NULL	Histologie	
+histor.0a	historia		NULL	historisch	
+histor.0a	historia		NULL	geschichtlich	
+histor.0a.HIS	historia	1	NULL	historisch	
+histor.0a.HIS	historia	1	NULL	geschichtlich	
+histor.0a.SCI	historia	2	NULL	historisch	
+histor.0a.SCI	historia	2	NULL	geschichtlich	
+histor.0isto	historiisto		NULL	Geschichtswissenschaflter	
+histor.0isto	historiisto		NULL	Historiker	
+histor.0isto.HIS	historiisto		NULL	Geschichtswissenschaflter	
+histor.0isto.HIS	historiisto		NULL	Historiker	
+histor.0o	historio		ekz_10	Geschichte	
+histor.0o.BIO	historio	4	ekz_10	Entwicklungsgeschichte	
+histor.0o.BIO	historio	4	ekz_10	Geschichte	
+histor.0o.SCI	historio	2	ekz_10	Geschichtswissenschaft	
+histor.0o.SCI	historio	2	ekz_10	Geschichte	
+histor.0o.okazajxoj	historio	1	ekz_10	Geschichte	
+histor.0o.rakonto	historio	3	ekz_10	Erzählung	
+histor.0o.rakonto	historio	3	ekz_10	Geschichte	
+histor.malsan0o	malsanhistorio		NULL	Krankengeschichte	
+histor.malsan0o	malsanhistorio		NULL	Krankenakte	
+histor.malsan0o	malsanhistorio		NULL	Anamnese	
+histor.malsan0o.MED	malsanhistorio		NULL	Krankengeschichte	
+histor.malsan0o.MED	malsanhistorio		NULL	Krankenakte	
+histor.malsan0o.MED	malsanhistorio		NULL	Anamnese	
+histor.natur0o	naturhistorio		NULL	Naturgeschichte	
+histor.natur0o.SCI	naturhistorio		NULL	Naturgeschichte	
+histor.pra0o	prahistorio		NULL	Vorgeschichte	
+histor.pra0o	antaŭhistorio		NULL	Vorgeschichte	
+histor.pra0o	prahistorio		NULL	Urgeschichte	
+histor.pra0o	antaŭhistorio		NULL	Urgeschichte	
+histor.pra0o.HIS	prahistorio	1	NULL	Vorgeschichte	
+histor.pra0o.HIS	antaŭhistorio	1	NULL	Vorgeschichte	
+histor.pra0o.HIS	prahistorio	1	NULL	Urgeschichte	
+histor.pra0o.HIS	antaŭhistorio	1	NULL	Urgeschichte	
+histor.pra0o.SCI	prahistorio	2	NULL	Vorgeschichte	
+histor.pra0o.SCI	antaŭhistorio	2	NULL	Vorgeschichte	
+histor.pra0o.SCI	prahistorio	2	NULL	Urgeschichte	
+histor.pra0o.SCI	antaŭhistorio	2	NULL	Urgeschichte	
+histor.viv0o	vivhistorio		NULL	Lebenslauf	
+histor.viv0o	vivhistorio		NULL	Lebensgeschichte	
+histor.viv0o	vivhistorio		NULL	Biographie	
+histor.viv0o.KOMUNE	vivhistorio		NULL	Lebenslauf	
+histor.viv0o.KOMUNE	vivhistorio		NULL	Lebensgeschichte	
+histor.viv0o.KOMUNE	vivhistorio		NULL	Biographie	
+histor.vort0o	vorthistorio		NULL	Etymologie	
+histor.vort0o.LIN	vorthistorio	2	NULL	Wortherkunft	
+histor.vort0o.LIN	vorthistorio	2	NULL	Etymologie	
+histor.vort0o.SCI	vorthistorio	1	NULL	Etymologie	
+historiografi.0o	historiografio		NULL	NULL	NULL
+histri.0o	histriko		NULL	Stachelschwein	
+histri1.0o	histriono		NULL	NULL	NULL
+histri1.0o.HIS	histriono	1	NULL	Histrione	
+histri1.0o.amuzisto	histriono	2	NULL	Komödiant	
+histri1.0o.amuzisto	histriono	2	NULL	Schmierenschauspieler	
+histri2.0oj	histrikedoj		NULL	Stachelschweine	Stachelschweine (Familie)
+hitit.0a	hitita		NULL	NULL	NULL
+hitit.0a.hxetida	hitita		NULL	hethitisch	
+hitler.0o	Hitlero		NULL	NULL	NULL
+hitler.0o.diktatoro	Hitlero		NULL	Hitler, Adolf	
+hm.0	hm		NULL	NULL	NULL
+ho.0	ho		ekz_21	o	
+ho.0	ho		akkor_de	o	
+ho.0	ho		uv_H	o	
+ho.0	ho		akkor_en	o	
+ho.0	oh		ekz_21	o	
+ho.0	oh		akkor_de	o	
+ho.0	oh		uv_H	o	
+ho.0	oh		akkor_en	o	
+ho.0	ho		ekz_21	oh	
+ho.0	ho		akkor_de	oh	
+ho.0	ho		uv_H	oh	
+ho.0	ho		akkor_en	oh	
+ho.0	oh		ekz_21	oh	
+ho.0	oh		akkor_de	oh	
+ho.0	oh		uv_H	oh	
+ho.0	oh		akkor_en	oh	
+ho.0.alvoko	ho	2	ekz_21	o	
+ho.0.alvoko	ho	2	akkor_de	o	
+ho.0.alvoko	ho	2	uv_H	o	
+ho.0.alvoko	ho	2	akkor_en	o	
+ho.0.alvoko	oh	2	ekz_21	o	
+ho.0.alvoko	oh	2	akkor_de	o	
+ho.0.alvoko	oh	2	uv_H	o	
+ho.0.alvoko	oh	2	akkor_en	o	
+ho.0.alvoko	ho	2	ekz_21	oh	
+ho.0.alvoko	ho	2	akkor_de	oh	
+ho.0.alvoko	ho	2	uv_H	oh	
+ho.0.alvoko	ho	2	akkor_en	oh	
+ho.0.alvoko	oh	2	ekz_21	oh	
+ho.0.alvoko	oh	2	akkor_de	oh	
+ho.0.alvoko	oh	2	uv_H	oh	
+ho.0.alvoko	oh	2	akkor_en	oh	
+ho.0.surprizo	ho	1	ekz_21	o	
+ho.0.surprizo	ho	1	akkor_de	o	
+ho.0.surprizo	ho	1	uv_H	o	
+ho.0.surprizo	ho	1	akkor_en	o	
+ho.0.surprizo	oh	1	ekz_21	o	
+ho.0.surprizo	oh	1	akkor_de	o	
+ho.0.surprizo	oh	1	uv_H	o	
+ho.0.surprizo	oh	1	akkor_en	o	
+ho.0.surprizo	ho	1	ekz_21	oh	
+ho.0.surprizo	ho	1	akkor_de	oh	
+ho.0.surprizo	ho	1	uv_H	oh	
+ho.0.surprizo	ho	1	akkor_en	oh	
+ho.0.surprizo	oh	1	ekz_21	oh	
+ho.0.surprizo	oh	1	akkor_de	oh	
+ho.0.surprizo	oh	1	uv_H	oh	
+ho.0.surprizo	oh	1	akkor_en	oh	
+hobi.0a	hobia		NULL	NULL	NULL
+hobi.0a.KOMUNE	hobia		NULL	NULL	NULL
+hobi.0ismo	hobiismo		NULL	Hobbyismus	
+hobi.0ismo.KOMUNE	hobiismo		NULL	Hobbyismus	
+hobi.0o	hobio		NULL	Hobby	
+hobi.0o	hobio		NULL	Steckenpferd	
+hobi.0o	hobio		NULL	Freizeitbeschäftigung	
+hobi.0o.KOMUNE	hobio		NULL	Hobby	
+hobi.0o.KOMUNE	hobio		NULL	Steckenpferd	
+hobi.0o.KOMUNE	hobio		NULL	Freizeitbeschäftigung	
+hobi.0ulo	hobiulo		NULL	Laie	
+hobi.0ulo	hobiulo		NULL	Amateur	
+hobi.0ulo.praktikanto	hobiulo		NULL	Laie	
+hobi.0ulo.praktikanto	hobiulo		NULL	Amateur	
+hoboj.0o	hobojo		NULL	Oboe	
+hodiau.0	hodiaŭ		ekz_10	heute	
+hodiau.0	hodiaŭ		uv_H	heute	
+hodiau.0.KOMUNE	hodiaŭ	1	ekz_10	heute	
+hodiau.0.KOMUNE	hodiaŭ	1	uv_H	heute	
+hodiau.0.nuntempe	hodiaŭ	2	ekz_10	heutzutage	
+hodiau.0.nuntempe	hodiaŭ	2	uv_H	heutzutage	
+hodiau.0.nuntempe	hodiaŭ	2	ekz_10	heute	
+hodiau.0.nuntempe	hodiaŭ	2	uv_H	heute	
+hodiau.0a	hodiaŭa		NULL	heutiger	
+hodiau.0a.cxitaga	hodiaŭa	1	NULL	heutiger	
+hodiau.0a.nuntempa	hodiaŭa	2	NULL	heutiger	
+hodiau.0o	hodiaŭo		NULL	Heute	
+hodiau.0o.nuntempo	hodiaŭo	2	NULL	Heute	
+hodiau.0o.tago	hodiaŭo	1	NULL	Heute	
+hojl.0i	hojli		NULL	heulen	
+hok.0a	hoka		NULL	Haken-	
+hok.0a	hoka		NULL	hakenförmig	
+hok.0a	hoka		NULL	hakenartig	
+hok.0a	hoka		NULL	hakig	
+hok.0fadeno0sxnuro	hokfadeno		NULL	Angelschnur	
+hok.0fadeno0sxnuro	hokŝnuro		NULL	Angelschnur	
+hok.0fadeno0sxnuro	hokfadeno		NULL	Angelleine	
+hok.0fadeno0sxnuro	hokŝnuro		NULL	Angelleine	
+hok.0i	hoki		NULL	NULL	NULL
+hok.0i.formi	hoki	2	NULL	biegen	
+hok.0i.formi	hoki	2	NULL	beugen	
+hok.0i.formi	hoki	2	NULL	krümmen	
+hok.0i.krocxi	hoki	1	NULL	haken	
+hok.0i.krocxi	hoki	1	NULL	anhaken	
+hok.0i.krocxi	hoki	1	NULL	einhaken	
+hok.0i.krocxi	hoki	1	NULL	festhaken	
+hok.0o	hoko		NULL	Haken	
+hok.0o.TIP	hoko	2	NULL	Haken	
+hok.0o.gxenerale	hoko	1	NULL	Kleiderhaken	
+hok.0o.gxenerale	hoko	1	NULL	Haken	
+hok.fisx0i	fiŝhoki		NULL	angeln	
+hok.fisx0i.CXAS	fiŝhoki		NULL	angeln	
+hok.pord0o	pordhoko		uv_H	Türangel	
+hok.pord0o.TEK	pordhoko		uv_H	Türangel	
+hoke.0ilo	hokeilo		NULL	Hockeyschläger	
+hoke.0ilo.SPO	hokeilo		NULL	Hockeyschläger	
+hoke.0o	hokeo		NULL	Hockey	
+hoke.0o.SPO	hokeo		NULL	Hockey	
+hoke.glaci0o	glacihokeo		NULL	NULL	NULL
+hoke.glaci0o.SPO	glacihokeo		NULL	NULL	NULL
+hola.0	hola		NULL	hallo	
+hola.0	halo		NULL	hallo	
+hola.0.alvoko	hola	1	NULL	hallo	
+hola.0.alvoko	halo	1	NULL	hallo	
+hola.0.saluto	hola	2	NULL	hallo	
+hola.0.saluto	halo	2	NULL	hallo	
+holand.0a	holanda		NULL	NULL	NULL
+holand.0a.nederlanda	holanda	2	NULL	NULL	NULL
+holand.0a.regiona	holanda	1	NULL	NULL	NULL
+holand.0ano	holandano		NULL	NULL	NULL
+holand.0ano.nederlandano	holandano	2	NULL	NULL	NULL
+holand.0ano.regiona	holandano	1	NULL	NULL	NULL
+holand.H0o	Holando		NULL	Holland	
+holand.H0o.Nederlando	Holando	2	NULL	Holland	
+holand.H0o.regiono	Holando	1	NULL	Holland	
+holand.NordH0o	Nord-Holando		NULL	Nordholland	
+holand.SudH0o	Sud-Holando		NULL	Südholland	
+hold.0o	holdo		NULL	Laderaum	
+hold.0o	holdo		NULL	Frachtraum	
+holi.0o	Holio		NULL	Holi	
+holi.0o.HIN	Holio		NULL	Holi	
+holism.0o	holismo		NULL	NULL	NULL
+holism.0o.POL	holismo		NULL	NULL	NULL
+holivud.0o	holivudo		NULL	Hollywood	
+holivud.0o.KIN	holivudo		NULL	Hollywood	
+holmi.0o	holmio		NULL	Holmium	
+holocen.0o	holoceno		NULL	NULL	NULL
+holocen.0o.GEOL	holoceno		NULL	NULL	NULL
+holografi.0ajxo	holografiaĵo		NULL	NULL	NULL
+holografi.0ajxo.FOT	holografiaĵo		NULL	NULL	NULL
+holografi.0o	holografio		NULL	NULL	NULL
+holografi.0o.FOT	holografio		NULL	NULL	NULL
+hologram.0o	hologramo		NULL	NULL	NULL
+hologram.0o.FOT	hologramo		NULL	Hologramm	
+holokauxst.0o	holokaŭsto		NULL	Holokaust	
+holokauxst.0o	holokaŭsto		NULL	Völkermord	
+holokauxst.0o.POL	holokaŭsto		NULL	Holokaust	
+holokauxst.0o.POL	holokaŭsto		NULL	Völkermord	
+holomo.0a	holomorfa		NULL	holomorph	
+holomo.0a.cxepunkto	holomorfa	1	NULL	holomorph	
+holomo.0a.cxie	holomorfa	2	NULL	holomorph	
+holoturi.0o	holoturio		NULL	Holothurie	
+holoturi.0o.ZOO	holoturio		NULL	Holothurie	
+holstini.0o	Holstinio		NULL	Holstein	
+holstini.Sxlesvig0o	Ŝlesvig-Holstinio		NULL	Schleswig-Holstein	
+hom.0a	homa		uv_A	menschlich	
+hom.0a	homa		uv_A	menschlich	
+hom.0a	homa		uv_A	menschlich	
+hom.0a	homa		uv_A	menschlich	
+hom.0a	homa		uv_A	menschlich	
+hom.0a.KOMUNE	homa		uv_A	menschlich	
+hom.0a.KOMUNE	homa		uv_A	menschlich	
+hom.0a.KOMUNE	homa		uv_A	menschlich	
+hom.0a.KOMUNE	homa		uv_A	menschlich	
+hom.0a.KOMUNE	homa		uv_A	menschlich	
+hom.0ama	homama		NULL	menschenliebend	
+hom.0ama	homama		NULL	philanthropisch	
+hom.0ama.KOMUNE	homama		NULL	menschenliebend	
+hom.0ama.KOMUNE	homama		NULL	philanthropisch	
+hom.0aranismo	homaranismo		NULL	Homaranismus	
+hom.0aranismo.ESP	homaranismo		NULL	Homaranismus	
+hom.0arano	homarano		NULL	NULL	NULL
+hom.0arano.ESP	homarano	2	NULL	NULL	NULL
+hom.0arano.homo	homarano	1	NULL	NULL	NULL
+hom.0eca	homeca		NULL	NULL	NULL
+hom.0eca.morale	homeca	2	NULL	menschlich	
+hom.0eca.ule	homeca	1	NULL	NULL	NULL
+hom.0eco	homeco		NULL	NULL	NULL
+hom.0eco.morala	homeco	2	NULL	Menschlichkeit	
+hom.0eco.uleco	homeco	1	NULL	Menschsein	
+hom.0evitulo	homevitulo		NULL	Misanthrop	
+hom.0evitulo.KOMUNE	homevitulo		NULL	Misanthrop	
+hom.0ido	homido		NULL	NULL	NULL
+hom.0ido.BIB	homido	1	NULL	Menschenkind	
+hom.0ido.infano	homido	2	NULL	Kind	
+hom.0ino	homino		NULL	Frau	
+hom.0ino.KOMUNE	homino		NULL	Frau	
+hom.cxiu0a	ĉiuhoma		NULL	gemein	
+hom.cxiu0a.KOMUNE	ĉiuhoma		NULL	gemein	
+hom.kavern0o	kavernhomo		NULL	Höhlenmensch	
+hom.kavern0o.PRA	kavernhomo		NULL	Höhlenmensch	
+hom.komun0a	komunhoma		NULL	menschlich	allgemein menschlich
+hom.komun0a	komunehoma		NULL	menschlich	allgemein menschlich
+hom.komun0a.KOMUNE	komunhoma		NULL	menschlich	allgemein menschlich
+hom.komun0a.KOMUNE	komunehoma		NULL	menschlich	allgemein menschlich
+hom.kun0o	kunhomo		NULL	Mitmench	
+hom.mal0a	malhoma		NULL	unmenschlich	
+hom.mal0a	nehoma		NULL	unmenschlich	
+hom.mal0a.KOMUNE	malhoma		NULL	unmenschlich	
+hom.mal0a.KOMUNE	nehoma		NULL	unmenschlich	
+hom.mult0a	multhoma		NULL	voll	voller Menschen
+hom.mult0a	multehoma		NULL	voll	voller Menschen
+hom.mult0a	homplena		NULL	voll	voller Menschen
+hom.mult0a	multhoma		NULL	überfüllt	überfüllt (mit Menschen)
+hom.mult0a	multehoma		NULL	überfüllt	überfüllt (mit Menschen)
+hom.mult0a	homplena		NULL	überfüllt	überfüllt (mit Menschen)
+hom.mult0a.KOMUNE	multhoma		NULL	voll	voller Menschen
+hom.mult0a.KOMUNE	multehoma		NULL	voll	voller Menschen
+hom.mult0a.KOMUNE	homplena		NULL	voll	voller Menschen
+hom.mult0a.KOMUNE	multhoma		NULL	überfüllt	überfüllt (mit Menschen)
+hom.mult0a.KOMUNE	multehoma		NULL	überfüllt	überfüllt (mit Menschen)
+hom.mult0a.KOMUNE	homplena		NULL	überfüllt	überfüllt (mit Menschen)
+hom.natur0o	naturhomo		NULL	Naturmensch	
+hom.natur0o.KOMUNE	naturhomo		NULL	Naturmensch	
+hom.negx0o	neĝhomo		NULL	Schneemann	
+hom.negx0o.LUD	neĝhomo		NULL	Schneemann	
+hom.pajlo0o	pajlohomo		NULL	Strohmann	
+hom.pajlo0o.FRAZ	pajlohomo		NULL	Strohmann	
+hom.pra0o	prahomo		NULL	Vormensch	
+hom.pra0o	prahomo		NULL	Urmensch	
+hom.pra0o.PRA	prahomo		NULL	Vormensch	
+hom.pra0o.PRA	prahomo		NULL	Urmensch	
+hom.sen0a	senhoma		NULL	menschenleer	
+hom.sen0a.KOMUNE	senhoma		NULL	menschenleer	
+hom.sen0ejo	senhomejo		NULL	Einöde	
+hom.sen0ejo.GEOG	senhomejo		NULL	Einöde	
+hom.sen0igi	senhomigi		NULL	entvölkern	
+hom.sen0igi.KOMUNE	senhomigi		NULL	entvölkern	
+hom.super0a	superhoma		NULL	übermenschlich	
+hom.super0a.KOMUNE	superhoma		NULL	übermenschlich	
+hom.super0o	superhomo		NULL	Übermensch	
+hom.super0o.FIL	superhomo		NULL	Übermensch	
+hom.trans0ismo	transhomismo		NULL	Transhumanismus	
+hom.trans0ismo.MOD	transhomismo		NULL	Transhumanismus	
+hom.vir0o	virhomo		NULL	Menschenmann	
+hom.vir0o.KOMUNE	virhomo		NULL	Menschenmann	
+homed.0oj	homedoj		NULL	Menschenaffen	
+homed.0oj.ZOO	homedoj		NULL	Menschenaffen	
+homeom.0a	homeomorfia		NULL	homöomorph	
+homeom.0a.bildigo	homeomorfia	2	NULL	homöomorph	
+homeom.0a.strukt	homeomorfia	1	NULL	homöomorph	
+homeom.0o	homeomorfio		NULL	Homöomorphismus	
+homeop.0a	homeopatia		NULL	homöopathisch	
+homeop.0a.FIG	homeopatia	2	NULL	homöopathisch	
+homeop.0a.MED	homeopatia	1	NULL	homöopathisch	
+homeop.0isto	homeopatiisto		NULL	Homöopath	
+homeop.0isto.MED	homeopatiisto		NULL	Homöopath	
+homeop.0o	homeopatio		NULL	Homöopathie	
+homeop.0o.MED	homeopatio		NULL	Homöopathie	
+homeopat.0o	homeopato		NULL	Homöopath	
+homeopat.0o.MED	homeopato		NULL	Homöopath	
+homer.0o	Homero		NULL	Homer	
+homofo.0o	homofobio		NULL	Homophobie	
+homoge.0a	homogena		NULL	NULL	NULL
+homoge.0a.KOMUNE	homogena	1	NULL	homogen	
+homoge.0a.KOMUNE	homogena	1	NULL	gleichmäßig	
+homoge.0a.MAT	homogena	2	NULL	homogen	
+homoge.0eco	homogeneco		NULL	NULL	NULL
+homoge.0eco.KOMUNE	homogeneco		NULL	NULL	NULL
+homoge.mal0eco	malhomogeneco		NULL	NULL	NULL
+homoge.mal0eco.KOMUNE	malhomogeneco		NULL	NULL	NULL
+homolo.0a	homologa		NULL	homolog	
+homolo.0a.BIO	homologa	2	NULL	gleichliegend	
+homolo.0a.BIO	homologa	2	NULL	entsprechend	
+homolo.0a.BIO	homologa	2	NULL	homolog	
+homolo.0a.KEM	homologa	3	NULL	homolog	
+homolo.0a.MAT	homologa	1	NULL	homolog	
+homolo.0eco	homologeco		NULL	Homologie	
+homomo.0a	homomorfia		NULL	NULL	NULL
+homomo.0a.bildigo	homomorfia	2	NULL	NULL	NULL
+homomo.0a.strukt	homomorfia	1	NULL	homomorph	
+homomo.0o	homomorfio		NULL	Homomorphismus	
+homoni.0eco	homonimeco		NULL	Homonymie	
+homoni.0eco.LIN	homonimeco		NULL	Homonymie	
+homoni.0o	homonimo		NULL	Homonym	
+homoni.0o.LIN	homonimo		NULL	Homonym	
+homonimi.0o	homonimio		NULL	Homonymie	
+homonimi.0o.LIN	homonimio		NULL	Homonymie	
+homopt.0oj	homopteroj		NULL	Pflanzensauger	
+homopt.0oj	homopteroj		NULL	Gleichflügler	
+homopt.0oj.ZOO	homopteroj		NULL	Pflanzensauger	
+homopt.0oj.ZOO	homopteroj		NULL	Gleichflügler	
+homoseksual.0a	homoseksuala		NULL	NULL	NULL
+homoseksual.0a.MOR	homoseksuala		NULL	NULL	NULL
+homote.0a	homotetia		NULL	homothetisch	
+homote.0a.bildigo	homotetia	2	NULL	homothetisch	
+homote.0a.figuroj	homotetia	1	NULL	homothetisch	
+homote.0ajxo	homotetiaĵo		NULL	Figur	homothetische Figur
+homote.0o	homotetio		NULL	Homothetie	
+homoto.0a	homotopa		NULL	homotop	
+homoto.0a.vojoj	homotopa		NULL	homotop	
+hondur.H0o	Honduro		NULL	Honduras	
+hondur.H0o.GEOG	Honduro		NULL	Honduras	
+honest.0a	honesta		ekz_11	ehrlich	
+honest.0a	honesta		ekz_11	fair	
+honest.0a.honorinda	honesta	3	ekz_11	ehrlich	
+honest.0a.honorinda	honesta	3	ekz_11	fair	
+honest.0a.maltrompema	honesta	2	ekz_11	aufrichtig	
+honest.0a.maltrompema	honesta	2	ekz_11	ehrlich	
+honest.0a.maltrompema	honesta	2	ekz_11	fair	
+honest.0a.verema	honesta	1	ekz_11	aufrichtig	
+honest.0a.verema	honesta	1	ekz_11	ehrlich	
+honest.0a.verema	honesta	1	ekz_11	fair	
+honest.0ajxo	honestaĵo		NULL	NULL	NULL
+honest.0ajxo.ago	honestaĵo	1	NULL	NULL	NULL
+honest.0ajxo.vero	honestaĵo	2	NULL	Wahrheit	
+honest.0o	honesto		NULL	Ehrlichkeit	
+honest.0o	honesteco		NULL	Ehrlichkeit	
+honest.0o.eco	honesto		NULL	Ehrlichkeit	
+honest.0o.eco	honesteco		NULL	Ehrlichkeit	
+honest.0ulo	honestulo		NULL	Haut	ehrliche Haut
+honest.0ulo	honestulo		NULL	Person	vertrauenswürdige Person
+honest.mal0a	malhonesta		NULL	NULL	NULL
+honest.mal0a.geedze	malhonesta	2	NULL	NULL	NULL
+honest.mal0a.rigora	malhonesta	1	NULL	NULL	NULL
+honest.mal0ajxo	malhonestaĵo		NULL	Unwahrheit	
+honest.mal0ajxo	malhonestaĵo		NULL	Schwindelei	
+honest.mal0ajxo	malhonestaĵo		NULL	Lüge	
+honest.mal0ajxo.malbono	malhonestaĵo	2	NULL	Unwahrheit	
+honest.mal0ajxo.malbono	malhonestaĵo	2	NULL	Schwindelei	
+honest.mal0ajxo.malbono	malhonestaĵo	2	NULL	Lüge	
+honest.mal0ajxo.malvero	malhonestaĵo	1	NULL	Unwahrheit	
+honest.mal0ajxo.malvero	malhonestaĵo	1	NULL	Schwindelei	
+honest.mal0ajxo.malvero	malhonestaĵo	1	NULL	Lüge	
+honest.mal0o	malhonesto		NULL	Unehrlichkeit	
+honest.mal0o	malhonesteco		NULL	Unehrlichkeit	
+honest.mal0o	malhonesto		NULL	Lügenhaftigkeit	
+honest.mal0o	malhonesteco		NULL	Lügenhaftigkeit	
+honkong.0o	Honkongo		NULL	Hongkong	
+honkong.0o	Hongkongo		NULL	Hongkong	
+honor.0a	honora		NULL	NULL	NULL
+honor.0digno	honordigno		NULL	NULL	NULL
+honor.0e	honore		NULL	Ehren	zu Ehren
+honor.0i	honori		NULL	ehren	
+honor.0i.igi	honori	2	NULL	ehren	
+honor.0i.respekti	honori	1	NULL	ehren	
+honor.0iga	honoriga		NULL	NULL	NULL
+honor.0igi	honorigi		NULL	beehren	
+honor.0inda	honorinda		NULL	ehrenwert	
+honor.0inda	honorinda		NULL	ehrwürdig	
+honor.0o	honoro		uv_H	Ehre	
+honor.0o	honoro		uv_H	Ansehen	
+honor.mal0a	malhonora		NULL	unehrenhaft	
+honor.mal0a.anta	malhonora	1	NULL	unehrenhaft	
+honor.mal0a.iga	malhonora	2	NULL	unehrenhaft	
+honor.mal0isen0igi	malhonori		NULL	entehren	
+honor.mal0isen0igi	senhonorigi		NULL	entehren	
+honor.mal0o	malhonoro		NULL	Schande	
+honor.mal0o	malhonoro		NULL	Unehre	
+honor.sen0a	senhonora		NULL	ehrlos	
+honora.0i	honorarii		NULL	bezahlen	ein Honorar bezahlen
+honora.0o	honorario		oa_6	Honorar	
+honsxu.0o	Honŝuo		NULL	NULL	NULL
+honsxu.0o.insulo	Honŝuo		NULL	Honshᘻ	
+hont.0ema	hontema		NULL	schamhaft	
+hont.0ema	hontema		NULL	verschämt	
+hont.0ema	hontema		NULL	schüchtern	
+hont.0ema.PSI	hontema		NULL	schamhaft	
+hont.0ema.PSI	hontema		NULL	verschämt	
+hont.0ema.PSI	hontema		NULL	schüchtern	
+hont.0i	honti		ekz_39	schämen	sich schämen
+hont.0i.PSI	honti		ekz_39	schämen	sich schämen
+hont.0igi	hontigi		NULL	beschämen	
+hont.0igi.PSI	hontigi		NULL	beschämen	
+hont.0inda	hontinda		NULL	NULL	NULL
+hont.0inda.PSI	hontinda		NULL	NULL	NULL
+hont.0indajxo	hontindaĵo		NULL	Schande	
+hont.0indajxo.PSI	hontindaĵo		NULL	Schande	
+hont.0o	honto		NULL	NULL	NULL
+hont.0o.PSI	honto	1	NULL	Scham	
+hont.0o.hontindajxo	honto	2	NULL	Schande	
+hont.pri0i	prihonti		NULL	NULL	NULL
+hont.pri0i.KOMUNE	prihonti		NULL	NULL	NULL
+hont.seks0emo	sekshontemo		NULL	NULL	NULL
+hont.seks0emo	sekshonto		NULL	NULL	NULL
+hont.seks0emo.PSI	sekshontemo		NULL	NULL	NULL
+hont.seks0emo.PSI	sekshonto		NULL	NULL	NULL
+hont.sen0a	senhonta		NULL	schamlos	
+hont.sen0a	senhonta		NULL	unverschämt	
+hont.sen0a.PSI	senhonta		NULL	schamlos	
+hont.sen0a.PSI	senhonta		NULL	unverschämt	
+hont.sen0ulo	senhontulo		NULL	NULL	NULL
+hont.sen0ulo.PSI	senhontulo		NULL	NULL	NULL
+hop.0	hop		NULL	hopp	
+hop.0.KOMUNE	hop		NULL	hopp	
+hop.0i	hopi		NULL	hopsen	
+hop.0i	hopi		NULL	hüpfen	
+hop.0i.KOMUNE	hopi		NULL	hopsen	
+hop.0i.KOMUNE	hopi		NULL	hüpfen	
+hop.0ludo	hopludo		NULL	NULL	NULL
+hop.0ludo.SPO	hopludo		NULL	Himmel und Hölle	
+hop.0ludo.SPO	hopludo		NULL	Hickelkasten	
+hop.0ludo.SPO	hopludo		NULL	Himmelhopse	
+hop.0ludo.SPO	hopludo		NULL	Reise zum Mond	
+hopi.0a	hopia		NULL	Hopi-	
+hopi.0a.ETN	hopia		NULL	Hopi-	
+hopi.0o	hopio		NULL	Hopi	
+hopi.0o.ETN	hopio		NULL	Hopi	
+hoplit.0o	hoplito		NULL	Hoplit	
+hoplit.0o.MIL	hoplito		NULL	Hoplit	
+hor.0aro	horaro		NULL	Zeitplan	
+hor.0aro	horlibro		NULL	Zeitplan	
+hor.0aro	horaro		NULL	Fahrplan	
+hor.0aro	horlibro		NULL	Fahrplan	
+hor.0e	hore		NULL	Stunde	pro Stunde
+hor.0e	hore		NULL	stündlich	
+hor.0e.KOMUNE	hore		NULL	Stunde	pro Stunde
+hor.0e.KOMUNE	hore		NULL	stündlich	
+hor.0o	horo		ekz_12	Stunde	
+hor.0o.mezurunuo	horo	2	ekz_12	Stunde	
+hor.0o.tagmomento	horo	3	ekz_12	Stunde	
+hor.0o.tempopunkto	horo	1	ekz_12	Uhr	Uhr (Stunde)
+hor.0o.tempopunkto	horo	1	ekz_12	Stunde	
+hor.cxiu0e	ĉiuhore		NULL	stündlich	
+hor.cxiu0e.KOMUNE	ĉiuhore		NULL	stündlich	
+hor.duon0o	duonhoro		NULL	halbe Stunde	
+hor.duon0o	horduono		NULL	halbe Stunde	
+hor.kvaron0o	kvaronhoro		NULL	Viertelstunde	
+hor.kvaron0o	horkvarono		NULL	Viertelstunde	
+hor.prem0o	premhoro		NULL	NULL	NULL
+hor.prem0o.TRA	premhoro		NULL	Hauptverkehrszeit	
+hor.prem0o.TRA	premhoro		NULL	Stoßzeit	
+horaci.0o	Horacio		NULL	Horatius	
+horaci.0o.NOM	Horacio	1	NULL	Horatius	
+horaci.0o.PERS	Horacio	2	NULL	Horatius	
+hord.0o	hordo		NULL	Horde	
+hord.0o.FIG	hordo	2	NULL	Horde	
+hord.0o.bando	hordo	3	NULL	Horde	
+hord.0o.sxtato	hordo	1	NULL	Horde	
+hord.Ora0o	Ora hordo		NULL	Goldene Horde	
+hord.Ora0o.HIS	Ora hordo		NULL	Goldene Horde	
+horde.0o	hordeo		NULL	Gerste	
+horde.sablo0o	sablohordeo		NULL	Strandroggen	
+horizo.0o	horizonto		NULL	Horizont	
+horizo.0o.FIG	horizonto	3	NULL	Horizont	
+horizo.0o.areo	horizonto	2	NULL	Horizont	
+horizo.0o.limo	horizonto	1	NULL	Horizont	
+horizo1.0a	horizontala		NULL	waagerecht	
+horizo1.0a	horizontala		NULL	waagrecht	
+horizo1.0a	horizontala		NULL	horizontal	
+horizo1.0a.EKON	horizontala	3	NULL	waagerecht	
+horizo1.0a.EKON	horizontala	3	NULL	waagrecht	
+horizo1.0a.EKON	horizontala	3	NULL	horizontal	
+horizo1.0a.FIZ	horizontala	1	NULL	waagerecht	
+horizo1.0a.FIZ	horizontala	1	NULL	waagrecht	
+horizo1.0a.FIZ	horizontala	1	NULL	horizontal	
+horizo1.0a.TIP	horizontala	2	NULL	waagerecht	
+horizo1.0a.TIP	horizontala	2	NULL	waagrecht	
+horizo1.0a.TIP	horizontala	2	NULL	horizontal	
+horizo1.0o	horizontalo		NULL	Waag[e]rechte	
+horizo1.0o	horizontalo		NULL	Horizontale	
+horizo1.0o.FIZ	horizontalo	1	NULL	Waag[e]rechte	
+horizo1.0o.FIZ	horizontalo	1	NULL	Horizontale	
+horizo1.0o.MAT	horizontalo	3	NULL	Waag[e]rechte	
+horizo1.0o.MAT	horizontalo	3	NULL	Horizontale	
+horizo1.0o.linio	horizontalo	2	NULL	Waag[e]rechte	
+horizo1.0o.linio	horizontalo	2	NULL	Horizontale	
+horlog.0isto	horloĝisto		NULL	Uhrmacher	
+horlog.0isto.KAL	horloĝisto		NULL	Uhrmacher	
+horlog.H0o	Horloĝo		NULL	Pendeluhr	Pendeluhr (Sternzeichen)
+horlog.akvo0o	akvohorloĝo		NULL	Wasseruhr	
+horlog.akvo0o.KAL	akvohorloĝo		NULL	Wasseruhr	
+horlog.atom0o	atomhorloĝo		NULL	Atomuhr	
+horlog.atom0o	atoma horloĝo		NULL	Atomuhr	
+horlog.atom0o.KAL	atomhorloĝo		NULL	Atomuhr	
+horlog.atom0o.KAL	atoma horloĝo		NULL	Atomuhr	
+horlog.bracelet0o	bracelethorloĝo		NULL	Armbanduhr	
+horlog.bracelet0o.brakhorlogxo	bracelethorloĝo		NULL	Armbanduhr	
+horlog.brak0o	brakhorloĝo		NULL	Armbanduhr	
+horlog.brak0o.KAL	brakhorloĝo		NULL	Armbanduhr	
+horlog.klik0o	klikhorloĝo		NULL	Stoppuhr	
+horlog.klik0o	stophorloĝo		NULL	Stoppuhr	
+horlog.mur0o	murhorloĝo		NULL	Wanduhr	
+horlog.mur0o.KAL	murhorloĝo		NULL	Wanduhr	
+horlog.posx0o	poŝhorloĝo		NULL	Taschenuhr	
+horlog.posx0o.KAL	poŝhorloĝo		NULL	Taschenuhr	
+horlog.sablo0o	sablohorloĝo		NULL	Sanduhr	
+horlog.sablo0o	sabla horloĝo		NULL	Sanduhr	
+horlog.sablo0o.KAL	sablohorloĝo		NULL	Sanduhr	
+horlog.sablo0o.KAL	sabla horloĝo		NULL	Sanduhr	
+horlog.sun0o	sunhorloĝo		NULL	Sonnenuhr	
+horlog.sun0o.KAL	sunhorloĝo		NULL	Sonnenuhr	
+horlog.vek0o	vekhorloĝo		NULL	Wecker	
+horlog.vek0o.KAL	vekhorloĝo		NULL	Wecker	
+hormin.0o	hormino		NULL	Drachenmaul	
+hormon.0o	hormono		oa_9	Hormon	
+hormon.0o.BOT	hormono	2	oa_9	Hormon	
+hormon.0o.FIZL	hormono	1	oa_9	Hormon	
+horor.0a	horora		NULL	schrecklich	
+horor.0a	hororplena		NULL	schrecklich	
+horor.0a	horora		NULL	grauenvoll	
+horor.0a	hororplena		NULL	grauenvoll	
+horor.0a	horora		NULL	entsetzlich	
+horor.0a	hororplena		NULL	entsetzlich	
+horor.0a	horora		NULL	gruselig	
+horor.0a	hororplena		NULL	gruselig	
+horor.0a.terura	horora		NULL	schrecklich	
+horor.0a.terura	hororplena		NULL	schrecklich	
+horor.0a.terura	horora		NULL	grauenvoll	
+horor.0a.terura	hororplena		NULL	grauenvoll	
+horor.0a.terura	horora		NULL	entsetzlich	
+horor.0a.terura	hororplena		NULL	entsetzlich	
+horor.0a.terura	horora		NULL	gruselig	
+horor.0a.terura	hororplena		NULL	gruselig	
+horor.0filmo	hororfilmo		NULL	Horrorfilm	
+horor.0filmo	hororfilmo		NULL	Gruselfilm	
+horor.0i	horori		NULL	grauen	sich grauen
+horor.0i	horori		NULL	entsetzen	sich entsetzen
+horor.0i	horori		NULL	gruseln	sich gruseln
+horor.0i	horori		NULL	erschauern	
+horor.0i.ntr	horori		NULL	grauen	sich grauen
+horor.0i.ntr	horori		NULL	entsetzen	sich entsetzen
+horor.0i.ntr	horori		NULL	gruseln	sich gruseln
+horor.0i.ntr	horori		NULL	erschauern	
+horor.0igi	hororigi		NULL	entsetzen	
+horor.0igi	hororigi		NULL	Schrecken	in Schrecken versetzen
+horor.0igi.KOMUNE	hororigi		NULL	entsetzen	
+horor.0igi.KOMUNE	hororigi		NULL	Schrecken	in Schrecken versetzen
+horor.0o	hororo		NULL	Horror	
+horor.0o	hororo		NULL	Schrecken	
+horor.0o	hororo		NULL	Entsetzen	
+horor.0o	hororo		NULL	Grauen	
+horor.0o.abomeno	hororo	4	NULL	Horror	
+horor.0o.abomeno	hororo	4	NULL	Schrecken	
+horor.0o.abomeno	hororo	4	NULL	Entsetzen	
+horor.0o.abomeno	hororo	4	NULL	Grauen	
+horor.0o.terurajxo	hororo	3	NULL	Horror	
+horor.0o.terurajxo	hororo	3	NULL	Schrecken	
+horor.0o.terurajxo	hororo	3	NULL	Entsetzen	
+horor.0o.terurajxo	hororo	3	NULL	Grauen	
+horor.0o.teruro	hororo	2	NULL	Horror	
+horor.0o.teruro	hororo	2	NULL	Schrecken	
+horor.0o.teruro	hororo	2	NULL	Entsetzen	
+horor.0o.teruro	hororo	2	NULL	Grauen	
+horor.0o.timego	hororo	1	NULL	Horror	
+horor.0o.timego	hororo	1	NULL	Schrecken	
+horor.0o.timego	hororo	1	NULL	Entsetzen	
+horor.0o.timego	hororo	1	NULL	Grauen	
+horosk.0o	horoskopo		oa_2	Horoskop	
+hort.0o	horto		NULL	Obstgarten	
+horten.0o	hortensio		oa_2	Hortensie	
+horten.0o	hortensio		oa_2	Wasserstrauch	
+hortikultur.0isto	hortikulturisto		NULL	Gärtner	
+hortikultur.0isto	hortikulturisto		NULL	Florist	
+hortikultur.0isto.HOR	hortikulturisto		NULL	Gärtner	
+hortikultur.0isto.HOR	hortikulturisto		NULL	Florist	
+hortikultur.0o	hortikulturo		NULL	Hortikultur	
+hortikultur.0o	hortikulturo		NULL	Gartenbau	
+hortikultur.0o.HOR	hortikulturo		NULL	Hortikultur	
+hortikultur.0o.HOR	hortikulturo		NULL	Gartenbau	
+hortul.0o	hortulano		NULL	Ortolan	
+hortul.0o	hortulano		NULL	Gartenammer	
+hortul.0o.ZOO	hortulano		NULL	Ortolan	
+hortul.0o.ZOO	hortulano		NULL	Gartenammer	
+horus.0o	Horuso		NULL	NULL	NULL
+horus.0o.MIT	Horuso		NULL	Horus	
+hos.0o	hoso		NULL	NULL	NULL
+hos.0o.TEK	hoso		NULL	NULL	NULL
+hospic.0o	hospico		NULL	NULL	NULL
+hospic.0o.MED	hospico	1	NULL	Hospiz	
+hospic.0o.TUR	hospico	2	NULL	NULL	NULL
+hospit.0o	hospitalo		NULL	Krankenhaus	
+hospit.0o	hospitalo		NULL	Hospital	
+hospit.0o.MED	hospitalo		NULL	Krankenhaus	
+hospit.0o.MED	hospitalo		NULL	Hospital	
+hospit.el0igi	elhospitaligi		NULL	entlassen	aus dem Krankenhaus entlassen
+hospit.el0igi.MED	elhospitaligi		NULL	entlassen	aus dem Krankenhaus entlassen
+hospit.en0igi	enhospitaligi		NULL	hospitalisieren	
+hospit.en0igi	enhospitaligi		NULL	einliefern	ins Krankenhaus einliefern
+hospit.en0igi.MED	enhospitaligi		NULL	hospitalisieren	
+hospit.en0igi.MED	enhospitaligi		NULL	einliefern	ins Krankenhaus einliefern
+hosti.0montrilo	hostimontrilo		NULL	Monstranz	
+hosti.0o	hostio		NULL	Hostie	
+hosti.0o	hostio		NULL	Abendmahlsbrot	
+hosti.0ujo	hostiujo		NULL	Ziborium	
+hot.0	hot		NULL	hü	
+hot.0	hoto		NULL	hü	
+hot.0	hot		NULL	hüh	
+hot.0	hoto		NULL	hüh	
+hot.0	hot		NULL	hüja	
+hot.0	hoto		NULL	hüja	
+hot.0.KOMUNE	hot		NULL	hü	
+hot.0.KOMUNE	hoto		NULL	hü	
+hot.0.KOMUNE	hot		NULL	hüh	
+hot.0.KOMUNE	hoto		NULL	hüh	
+hot.0.KOMUNE	hot		NULL	hüja	
+hot.0.KOMUNE	hoto		NULL	hüja	
+hotel.0estro	hotelestro		NULL	NULL	NULL
+hotel.0estro	hotelmastro		NULL	NULL	NULL
+hotel.0estro.posedanto	hotelestro		NULL	Hotelier	
+hotel.0estro.posedanto	hotelmastro		NULL	Hotelier	
+hotel.0estro.posedanto	hotelestro		NULL	Hotelbesitzer	
+hotel.0estro.posedanto	hotelmastro		NULL	Hotelbesitzer	
+hotel.0estro.posedanto	hotelestro		NULL	Gastwirt	
+hotel.0estro.posedanto	hotelmastro		NULL	Gastwirt	
+hotel.0estro.posedanto	hotelestro		NULL	Herbergsvater	
+hotel.0estro.posedanto	hotelmastro		NULL	Herbergsvater	
+hotel.0isto	hotelisto		NULL	NULL	NULL
+hotel.0isto.dungito	hotelisto	1	NULL	Hotelangestellter	
+hotel.0isto.estro	hotelisto	2	NULL	Hotelier	
+hotel.0o	hotelo		NULL	Hotel	
+hotel.0o	hotelo		NULL	Gasthaus	
+hotel.0o	hotelo		NULL	Herberge	
+hotentot.0oj	hotentotoj		NULL	Hottentotten	
+hrivn.0o	hrivno		NULL	NULL	NULL
+hrivn.0o.EKON	hrivno		NULL	NULL	NULL
+hrr.0	hrr		NULL	NULL	NULL
+hrr.0.SON	hrr		NULL	NULL	NULL
+hu.0	hu		NULL	huh	
+hu.0.KOMUNE	hu	1	NULL	huch	
+hu.0.KOMUNE	hu	1	NULL	huh	
+hu.0.timige	hu	2	NULL	buh	
+hu.0.timige	hu	2	NULL	huh	
+hu.00	hu hu		NULL	hu-hu	
+hu.00.SON	hu hu		NULL	hu-hu	
+hu.0i	hui		NULL	huhen	
+hu.0i	huadi		NULL	huhen	
+hu.0i.KOMUNE	hui		NULL	huhen	
+hu.0i.KOMUNE	huadi		NULL	huhen	
+hu.0o	huo		NULL	Huh-Rufe	
+hu.0o	huado		NULL	Huh-Rufe	
+hu.0o.KOMUNE	huo		NULL	Huh-Rufe	
+hu.0o.KOMUNE	huado		NULL	Huh-Rufe	
+hub.0o	hubo		NULL	Hufe	
+hub.0o	hubo		NULL	Hube	
+hub.0o.MEZ	hubo		NULL	Hufe	
+hub.0o.MEZ	hubo		NULL	Hube	
+hubert.0o	Huberto		NULL	Hubert	
+hubert.0o	Huberto		NULL	Hubertus	
+hubert.0o.NOM	Huberto		NULL	Hubert	
+hubert.0o.NOM	Huberto		NULL	Hubertus	
+hucxin.0o	huĉino		NULL	Huqin	
+hudson.0o	Hudsono		NULL	NULL	NULL
+hudson.0o.rivero	Hudsono		NULL	NULL	NULL
+huf.0o	hufo		NULL	Huf	
+huf.0o.ZOO	hufo		NULL	Huf	
+huf.0ulo	hufulo		NULL	Huftier	
+huf.0ulo.ZOO	hufulo		NULL	Huftier	
+huf.0umo	hufumo		NULL	Hufeisen	
+huf.0umo.RAJ	hufumo		NULL	Hufeisen	
+huf.du0a	duhufa		NULL	NULL	NULL
+huf.nepar0ulo	neparhufulo		NULL	NULL	NULL
+huf.nepar0uloj	neparhufuloj		NULL	Unpaarhufer	
+huf.nepar0uloj.ZOO	neparhufuloj		NULL	Unpaarhufer	
+huf.par0ulo	parhufulo		NULL	NULL	NULL
+huf.par0uloj	parhufuloj		NULL	Paarhufer	
+huf.par0uloj.ZOO	parhufuloj		NULL	Paarhufer	
+huf.unu0uloj	unuhufuloj		NULL	NULL	NULL
+hug.0o	Hugo		NULL	Hugo	
+hug.0o.NOM	Hugo		NULL	Hugo	
+hugenot.0o	hugenoto		NULL	Hugenotte	
+hugenot.0o.KRI	hugenoto		NULL	Hugenotte	
+huj.0	huj		NULL	NULL	NULL
+huj.0.KOMUNE	huj		NULL	NULL	NULL
+hul.0o	hulo		NULL	NULL	NULL
+hul.0o.KOMUNE	hulo	1	NULL	Dünung	
+hul.0o.MAR	hulo	2	NULL	Schiffskörper	
+huligan.0o	huligano		NULL	Halbstarker	
+huligan.0o.POL	huligano		NULL	Halbstarker	
+hum.0o	humo		oa_4	Humus	
+hum.0o	humo		oa_4	Humus	
+hum.0o	humo		oa_4	Humusboden	
+hum.0o	humo		oa_4	Humusboden	
+human.0a	humana		NULL	human	
+human.0a	humana		NULL	menschlich	
+human.0eco	humaneco		NULL	Humanität	
+human.0eco	humaneco		NULL	Menschlichkeit	
+human.0igi	humanigi		NULL	humanisieren	
+human.0igi	humanigi		NULL	menschlicher machen	
+human.0ismo	humanismo		NULL	Humanismus	
+human.0ismo	humanismo		NULL	Menschlichkeit	
+human.0isto	humanisto		NULL	Humanist	
+human.mal0a	malhumana		NULL	inhuman	
+human.mal0a	nehumana		NULL	inhuman	
+humanistik.0o	humanistiko		NULL	NULL	NULL
+humanistik.0o.PED	humanistiko		NULL	NULL	NULL
+humanitar.0a	humanitara		NULL	humanitär	
+humanitar.0a.POL	humanitara	1	NULL	humanitär	
+humanitar.0a.homa	humanitara	2	NULL	menschlich	
+humanitar.0a.homa	humanitara	2	NULL	humanitär	
+humbert.0o	Humberto		NULL	NULL	NULL
+humbert.0o.NOM	Humberto		NULL	NULL	NULL
+humer.0o	humero		oa_2	Oberarmknochen	
+humer.0o	humero		oa_2	Humerus [anatomio]	
+humid.0a	humida		oa_8	feucht	
+humid.0a.malseka	humida	1	oa_8	feucht	
+humid.0a.malseketa	humida	2	oa_8	feucht	
+humid.0o	humido		NULL	Feuchtigkeit	
+humid.0o	humideco		NULL	Feuchtigkeit	
+humid.0o	humido		NULL	Feuchte	
+humid.0o	humideco		NULL	Feuchte	
+humid.0o.aera	humido	1	NULL	Luftfeuchtigkeit	
+humid.0o.aera	humideco	1	NULL	Luftfeuchtigkeit	
+humid.0o.aera	humido	1	NULL	Feuchtigkeit	
+humid.0o.aera	humideco	1	NULL	Feuchtigkeit	
+humid.0o.aera	humido	1	NULL	Feuchte	
+humid.0o.aera	humideco	1	NULL	Feuchte	
+humid.0o.disa	humido	2	NULL	Feuchtigkeit	
+humid.0o.disa	humideco	2	NULL	Feuchtigkeit	
+humid.0o.disa	humido	2	NULL	Feuchte	
+humid.0o.disa	humideco	2	NULL	Feuchte	
+humil.0a	humila		NULL	unterwürfig	
+humil.0a	humila		NULL	demütig	
+humil.0a.io	humila	2	NULL	unterwürfig	
+humil.0a.io	humila	2	NULL	demütig	
+humil.0a.iu	humila	1	NULL	unterwürfig	
+humil.0a.iu	humila	1	NULL	demütig	
+humil.0eco	humileco		NULL	Demut	
+humil.0eco.PSI	humileco		NULL	Demut	
+humil.0igi	humiligi		NULL	demütig machen	
+humil.0igi	humiligi		NULL	Demut lehren	
+humil.0igi	humiligi		NULL	demütigen	
+humil.0igi	humiligi		NULL	demütigen	
+humil.0igi	humiligi		NULL	brüskieren	
+humil.0igi	humiligi		NULL	düpieren	
+humil.0igi	humiligi		NULL	heruntermachen	
+humil.0igi	humiligi		NULL	verächtlich behandeln	
+humil.0igi	humiligi		NULL	Senkel	in den Senkel stellen
+humil.0igo	humiligo		NULL	NULL	NULL
+humil.0igo.ago	humiligo	1	NULL	NULL	NULL
+humil.0igo.io	humiligo	2	NULL	NULL	NULL
+humil.0igxi	humiliĝi		NULL	gedemütigt	gedemütigt werden
+humil.0igxi.PSI	humiliĝi		NULL	gedemütigt	gedemütigt werden
+humil.mal0a	malhumila		NULL	überheblich	
+humil.mal0a	malhumila		NULL	arrogant	
+humil.mal0a.PSI	malhumila	1	NULL	überheblich	
+humil.mal0a.PSI	malhumila	1	NULL	arrogant	
+humil.mal0a.io	malhumila	2	NULL	überheblich	
+humil.mal0a.io	malhumila	2	NULL	arrogant	
+humil.mal0eco	malhumileco		NULL	NULL	NULL
+humil.mal0eco.PSI	malhumileco		NULL	NULL	NULL
+humor.0a	humora		NULL	NULL	NULL
+humor.0a.animstata	humora	1	NULL	gelaunt	
+humor.0a.humura	humora	2	NULL	NULL	NULL
+humor.0i	humori		NULL	NULL	NULL
+humor.0i.animstate	humori		NULL	geruhen	
+humor.0i.animstate	humori		NULL	gelaunen	
+humor.0igi	humorigi		NULL	NULL	NULL
+humor.0igi.KOMUNE	humorigi		NULL	Stimmung	in Stimmung bringen
+humor.0igi.KOMUNE	humorigi		NULL	stimmen	stimmen (Laune)
+humor.0o	humoro		ekz_31	NULL	NULL
+humor.0o.animstato	humoro	1	ekz_31	Laune	
+humor.0o.animstato	humoro	1	ekz_31	Stimmung	
+humor.0o.karaktero	humoro	2	ekz_31	Gemüt	
+humor.0o.sxerco	humoro	3	ekz_31	NULL	NULL
+humor.bon0a	bonhumora		NULL	gut gelaunt	
+humor.bon0a.PSI	bonhumora		NULL	gut gelaunt	
+humor.malbon0a	malbonhumora		NULL	schlecht gelaunt	
+humor.malbon0a	mishumora		NULL	schlecht gelaunt	
+humor.malbon0a.PSI	malbonhumora		NULL	schlecht gelaunt	
+humor.malbon0a.PSI	mishumora		NULL	schlecht gelaunt	
+humur.0a	humura		NULL	humoristisch	
+humur.0a.KOMUNE	humura		NULL	humoristisch	
+humur.0i	humuri		NULL	NULL	NULL
+humur.0i.KOMUNE	humuri		NULL	NULL	NULL
+humur.0o	humuro		NULL	Humor	
+humur.0o.KOMUNE	humuro		NULL	Humor	
+humur.nigra0o	nigra humuro		NULL	Humor	schwarzer Humor
+humur.nigra0o.KOMUNE	nigra humuro		NULL	Humor	schwarzer Humor
+humus.0o	humuso		NULL	Hummus	
+hun.0o	huno		NULL	Hunne	
+hun.0o.HIS	huno		NULL	Hunne	
+hund.0a	hunda		NULL	NULL	NULL
+hund.0a.FIG	hunda	2	NULL	NULL	NULL
+hund.0a.ZOO	hunda	1	NULL	NULL	NULL
+hund.0ejo	hundejo		NULL	NULL	NULL
+hund.0ejo.KOMUNE	hundejo		NULL	NULL	NULL
+hund.0ido	hundido		NULL	NULL	NULL
+hund.0ino	hundino		NULL	NULL	NULL
+hund.0o	hundo		ekz_12	Hund	
+hund.0o.dombesto	hundo	2	ekz_12	Hund	Hunde die bellen, beißen nicht
+hund.0o.dombesto	hundo	2	ekz_12	Hund	
+hund.0o.genro	hundo	1	ekz_12	Hund	
+hund.Cxas0oj	Ĉashundoj		NULL	Jagdhunde	
+hund.Cxas0oj.AST	Ĉashundoj		NULL	Jagdhunde	
+hund.GrandaH0o	Granda Hundo		NULL	NULL	NULL
+hund.GrandaH0o.AST	Granda Hundo		NULL	NULL	NULL
+hund.MalgrandaH0o	Malgranda Hundo		NULL	NULL	NULL
+hund.MalgrandaH0o.AST	Malgranda Hundo		NULL	NULL	NULL
+hund.cxas0o	ĉashundo		NULL	Jagdhund	
+hund.cxas0o.ZOO	ĉashundo		NULL	Jagdhund	
+hund.cxen0o	ĉenhundo		NULL	Kettenhund	
+hund.cxen0o	ĉenhundo		NULL	Wachhund	
+hund.cxen0o.ZOO	ĉenhundo		NULL	Kettenhund	
+hund.cxen0o.ZOO	ĉenhundo		NULL	Wachhund	
+hund.dom0o	domhundo		NULL	NULL	NULL
+hund.dom0o.ZOO	domhundo		NULL	NULL	NULL
+hund.gard0o	gardhundo		NULL	NULL	NULL
+hund.gard0o.HEJM	gardhundo		NULL	NULL	NULL
+hund.lepor0o	leporhundo		NULL	Windhund	
+hund.lepor0o.ZOO	leporhundo		NULL	Windhund	
+hund.mel0o	melhundo		NULL	Dackel	
+hund.mel0o.ZOO	melhundo		NULL	Dackel	
+hund.sxaf0o	ŝafhundo		NULL	Schäferhund	
+hund.sxaf0o.ZOO	ŝafhundo		NULL	Schäferhund	
+hund.ter0o	terhundo		NULL	Terrier	
+hund.ter0o.ZOO	terhundo		NULL	Terrier	
+hund.vir0o	virhundo		NULL	NULL	NULL
+hunded.0oj	hundedoj		NULL	Hunde	Hunde (Familie)
+hundicx.0o	hundiĉo		NULL	NULL	NULL
+hundicx.0o.virhundo	hundiĉo		NULL	NULL	NULL
+hungar.0a	hungara		NULL	ungarisch	
+hungar.0o	hungaro		oa_8	NULL	NULL
+hungar.0o.naciano	hungaro	2	oa_8	Ungar	
+hungar.0o.sxtatano	hungaro	1	oa_8	NULL	NULL
+hungar.H0ujo	Hungarujo		NULL	Ungarn	
+hungari.H0o	Hungario		NULL	Ungarn	
+hup.0i	hupi		NULL	hupen	
+hup.0i.SON	hupi		NULL	hupen	
+hup.0o	hupo		NULL	Hupe	
+hup.0o.SON	hupo		NULL	Hupe	
+hura.0	hura		oa_3	hurra	
+hura.0	hura		oa_3	juhu	
+hura.0.SON	hura		oa_3	hurra	
+hura.0.SON	hura		oa_3	juhu	
+hura.0i	hurai		NULL	Hurra rufen	
+hura.0i	hurai		NULL	bejubeln	
+hura.0i.SON	hurai		NULL	Hurra rufen	
+hura.0i.SON	hurai		NULL	bejubeln	
+hura.0o	hurao		NULL	Hurraruf	
+hura.0o	hurao		NULL	Hurra	
+hura.0o.SON	hurao		NULL	Hurraruf	
+hura.0o.SON	hurao		NULL	Hurra	
+hurd.0o	hurdo		NULL	Hurde	
+hurd.0o	hurdo		NULL	Horde	
+hurl.0i	hurli		NULL	heulen	
+hurl.0i.bruo	hurli	3	NULL	heulen	
+hurl.0i.homo	hurli	2	NULL	heulen	
+hurl.0i.lupo	hurli	1	NULL	heulen	
+husar.0o	husaro		NULL	Husar	
+husejn.0o	Husejno		NULL	NULL	NULL
+husejn.0o.NOM	Husejno		NULL	NULL	NULL
+huston.0o	Hustono		NULL	Houston	
+husum.0o	husumo		NULL	Schiebetür	
+husum.0o	husumo		NULL	Fusuma	
+husum.0o	husumo		NULL	Raumteiler	
+husum.0o.ARKI	husumo		NULL	Schiebetür	
+husum.0o.ARKI	husumo		NULL	Fusuma	
+husum.0o.ARKI	husumo		NULL	Raumteiler	
+husx.0	huŝ		NULL	husch	
+husx.0.KOMUNE	huŝ	1	NULL	husch	
+husx.0.sono	huŝ	2	NULL	husch	
+husx.0i	huŝi		NULL	NULL	NULL
+husx.0i.SON	huŝi		NULL	NULL	NULL
+hutu.0o	hutuo		NULL	Hutu	
+huz.0o	huzo		NULL	Hausen	Hausen (Fisch)
+huz.0o	huzo		NULL	Belugastör	
+hx.0o	ĥo		oa_7	NULL	NULL
+hxalat.0o	ĥalato		NULL	Chalat	
+hxalat.0o	ĥalato		NULL	Khalat	
+hxalde.0a	ĥaldea		NULL	NULL	NULL
+hxalde.0o	ĥaldeo		NULL	NULL	NULL
+hxalde.0o.HIS	ĥaldeo		NULL	NULL	NULL
+hxalkogen.0o	ĥalkogeno		NULL	Chalkogen	
+hxalkolitik.0o	ĥalkolitiko		NULL	Kupfersteinzeit	
+hxalkolitik.0o	ĥalkolitiko		NULL	Kupferzeit	
+hxalkolitik.0o	ĥalkolitiko		NULL	Chalkolithikum	
+hxalkolitik.0o	ĥalkolitiko		NULL	Äneolithikum	
+hxam.0ido	ĥamido		NULL	Hamite	
+hxam.Hx0o	Ĥamo		NULL	Ham	
+hxamel.0a	ĥameleona		NULL	NULL	NULL
+hxamel.0a.FIG	ĥameleona		NULL	Chamäleon	wie ein Chamäleon
+hxamel.0o	ĥameleono		NULL	Chamäleon	
+hxamel.0o	kameleono		NULL	Chamäleon	
+hxamel.0o.ZOO	ĥameleono		NULL	Chamäleon	
+hxamel.0o.ZOO	kameleono		NULL	Chamäleon	
+hxamel.Hx0o	Ĥameleono		NULL	Chamäleon	
+hxameleoned.0oj	ĥameleonedoj		NULL	Chamäleons	Chamäleons (Familie)
+hxameleoned.0oj	kameleonedoj		NULL	Chamäleons	Chamäleons (Familie)
+hxameleoned.0oj.ZOO	ĥameleonedoj		NULL	Chamäleons	Chamäleons (Familie)
+hxameleoned.0oj.ZOO	kameleonedoj		NULL	Chamäleons	Chamäleons (Familie)
+hxamemor.0o	ĥamemoro		NULL	Moltebeere	
+hxamemor.0o	kamemoro		NULL	Moltebeere	
+hxamemor.0o.BOT	ĥamemoro	1	NULL	Moltebeere	
+hxamemor.0o.BOT	kamemoro	1	NULL	Moltebeere	
+hxamemor.0o.bero	ĥamemoro	2	NULL	Moltebeere	
+hxamemor.0o.bero	kamemoro	2	NULL	Moltebeere	
+hxamsin.0o	ĥamsino		NULL	Chamsin	
+hxamsin.0o.MET	ĥamsino		NULL	Chamsin	
+hxan.0o	ĥano		NULL	Khan	
+hxan.0o.imperiestro	ĥano	1	NULL	Khan	
+hxan.0o.princo	ĥano	2	NULL	Khan	
+hxan.0o.ujo	ĥano		NULL	Khan	
+hxan.0ujo	ĥanujo		NULL	Khanat	
+hxant.0o	ĥanto		NULL	Chanti	
+hxanuk.0o	Ĥanuko		NULL	Chanukka	
+hxaos.0a	ĥaosa		NULL	chaotisch	
+hxaos.0a	kaosa		NULL	chaotisch	
+hxaos.0a	ĥaosa		NULL	durcheinander	
+hxaos.0a	kaosa		NULL	durcheinander	
+hxaos.0a	ĥaosa		NULL	ungeordnet	
+hxaos.0a	kaosa		NULL	ungeordnet	
+hxaos.0a	ĥaosa		NULL	unordentlich	
+hxaos.0a	kaosa		NULL	unordentlich	
+hxaos.0a.FIG	ĥaosa	2	NULL	chaotisch	
+hxaos.0a.FIG	kaosa	2	NULL	chaotisch	
+hxaos.0a.FIG	ĥaosa	2	NULL	durcheinander	
+hxaos.0a.FIG	kaosa	2	NULL	durcheinander	
+hxaos.0a.FIG	ĥaosa	2	NULL	ungeordnet	
+hxaos.0a.FIG	kaosa	2	NULL	ungeordnet	
+hxaos.0a.FIG	ĥaosa	2	NULL	unordentlich	
+hxaos.0a.FIG	kaosa	2	NULL	unordentlich	
+hxaos.0a.MIT	ĥaosa	1	NULL	chaotisch	
+hxaos.0a.MIT	kaosa	1	NULL	chaotisch	
+hxaos.0a.MIT	ĥaosa	1	NULL	durcheinander	
+hxaos.0a.MIT	kaosa	1	NULL	durcheinander	
+hxaos.0a.MIT	ĥaosa	1	NULL	ungeordnet	
+hxaos.0a.MIT	kaosa	1	NULL	ungeordnet	
+hxaos.0a.MIT	ĥaosa	1	NULL	unordentlich	
+hxaos.0a.MIT	kaosa	1	NULL	unordentlich	
+hxaos.0e	ĥaose		NULL	chaotisch	
+hxaos.0e	kaose		NULL	chaotisch	
+hxaos.0e.malordege	ĥaose		NULL	chaotisch	
+hxaos.0e.malordege	kaose		NULL	chaotisch	
+hxaos.0igi	ĥaosigi		NULL	NULL	NULL
+hxaos.0igi.malordigi	ĥaosigi		NULL	NULL	NULL
+hxaos.0o	ĥaoso		NULL	Chaos	
+hxaos.0o	kaoso		NULL	Chaos	
+hxaos.0o.FIG	ĥaoso	2	NULL	Chaos	
+hxaos.0o.FIG	kaoso	2	NULL	Chaos	
+hxaos.0o.FIG	ĥaoso	2	NULL	Durcheinander	
+hxaos.0o.FIG	kaoso	2	NULL	Durcheinander	
+hxaos.0o.FIG	ĥaoso	2	NULL	Unordnung	
+hxaos.0o.FIG	kaoso	2	NULL	Unordnung	
+hxaos.0o.FIG	ĥaoso	2	NULL	Tohuwabohu	
+hxaos.0o.FIG	kaoso	2	NULL	Tohuwabohu	
+hxaos.0o.FIG	ĥaoso	2	NULL	Chaos	
+hxaos.0o.FIG	kaoso	2	NULL	Chaos	
+hxaos.0o.MIT	ĥaoso	1	NULL	Chaos	
+hxaos.0o.MIT	kaoso	1	NULL	Chaos	
+hxaos.0o.MIT	ĥaoso	1	NULL	Unordnung	
+hxaos.0o.MIT	kaoso	1	NULL	Unordnung	
+hxaos.0o.MIT	ĥaoso	1	NULL	Chaos	
+hxaos.0o.MIT	kaoso	1	NULL	Chaos	
+hxarad.0o	ĥaradrio		NULL	Regenpfeiffer	
+hxarad.0o	karadrio		NULL	Regenpfeiffer	
+hxarad.0o.ZOO	ĥaradrio		NULL	Regenpfeiffer	
+hxarad.0o.ZOO	karadrio		NULL	Regenpfeiffer	
+hxarad.0oformaj	ĥaradrioformaj		NULL	Watvögel	
+hxarad.0oformaj	karadriformaj		NULL	Watvögel	
+hxarad1.0oj	ĥaradriedoj		NULL	Regenpfeiffer	Regenpfeiffer (Familie)
+hxarakt.0o	ĥaraktero		NULL	Charakter	
+hxarakt.0o.FIZL	ĥaraktero		NULL	Charakter	
+hxaribd.Hx0o	Ĥaribdo		NULL	NULL	NULL
+hxaribd.Hx0o.MAR	Ĥaribdo	1	NULL	NULL	NULL
+hxaribd.Hx0o.MIT	Ĥaribdo	2	NULL	NULL	NULL
+hxarigx.0o	Ĥariĝismo		NULL	NULL	NULL
+hxarigx.0o.ISL	Ĥariĝismo		NULL	NULL	NULL
+hxarit.0oj	ĥaritoj		NULL	Chariten	
+hxarkov.0o	Ĥarkovo		NULL	Charkiw	
+hxarkov.0o	Ĥarkivo		NULL	Charkiw	
+hxarkov.0o	Ĥarkovo		NULL	Charkow	
+hxarkov.0o	Ĥarkivo		NULL	Charkow	
+hxaron.0o	Ĥarono		NULL	Charon	
+hxaron.0o	Karono		NULL	Charon	
+hxaron.0o.AST	Ĥarono	2	NULL	Charon	
+hxaron.0o.AST	Karono	2	NULL	Charon	
+hxaron.0o.MIT	Ĥarono	1	NULL	Charon	
+hxaron.0o.MIT	Karono	1	NULL	Charon	
+hxartum.0o	Ĥartumo		NULL	Khartum	
+hxartum.0o	Kartumo		NULL	Khartum	
+hxartum.0o.GEOG	Ĥartumo		NULL	Khartum	
+hxartum.0o.GEOG	Kartumo		NULL	Khartum	
+hxasid.0ismo	ĥasidismo		NULL	Chassidismus	
+hxasid.0o	ĥasido		NULL	Chassid	
+hxasid.0o.HIS	ĥasido	1	NULL	Chassid	
+hxasid.0o.ismano	ĥasido	2	NULL	Chassid	
+hxat.0o	ĥato		NULL	NULL	NULL
+hxat.0o.ARKI	ĥato		NULL	NULL	NULL
+hxazar.0o	ĥazaro		NULL	Chasar	
+hxazar.0o	ĥazaro		NULL	Khasar	
+hxazar.Hx0ujo	Ĥazarujo		NULL	Chasarien	
+hxebron.0o	Ĥebrono		NULL	Hebron	
+hxeder.0o	ĥedero		NULL	Cheder	
+hxeder.0o.PED	ĥedero		NULL	Cheder	
+hxediv.0o	ĥedivo		NULL	Khedive	
+hxediv.0o	kedivo		NULL	Khedive	
+hxediv.0o.POL	ĥedivo		NULL	Khedive	
+hxediv.0o.POL	kedivo		NULL	Khedive	
+hxeloni.0o	ĥelonio		NULL	Suppenschildkröte	
+hxeloni.0o.ZOO	ĥelonio	1	NULL	Suppenschildkröte	
+hxeloni.0o.familiano	ĥelonio	2	NULL	Suppenschildkröte	
+hxemi.0a	ĥemia		NULL	chemisch	
+hxemi.0a	kemia		NULL	chemisch	
+hxemi.0a.SCI	ĥemia		NULL	chemisch	
+hxemi.0a.SCI	kemia		NULL	chemisch	
+hxemi.0ajxo	ĥemiaĵo		NULL	Chemikalie	
+hxemi.0ajxo	kemiaĵo		NULL	Chemikalie	
+hxemi.0ajxo.produkto	ĥemiaĵo	2	NULL	Chemikalie	
+hxemi.0ajxo.produkto	kemiaĵo	2	NULL	Chemikalie	
+hxemi.0ajxo.substanco	ĥemiaĵo	1	NULL	Chemikalie	
+hxemi.0ajxo.substanco	kemiaĵo	1	NULL	Chemikalie	
+hxemi.0isto	ĥemiisto		NULL	Chemiker	
+hxemi.0isto	kemiisto		NULL	Chemiker	
+hxemi.0isto.SCI	ĥemiisto		NULL	Chemiker	
+hxemi.0isto.SCI	kemiisto		NULL	Chemiker	
+hxemi.0o	ĥemio		ekz_32	Chemie	
+hxemi.0o	kemio		ekz_32	Chemie	
+hxemi.0o.SCI	ĥemio		ekz_32	Chemie	
+hxemi.0o.SCI	kemio		ekz_32	Chemie	
+hxemi.elektro0a	elektroĥemia		NULL	elektrochemisch	
+hxemi.elektro0a	elektrokemia		NULL	elektrochemisch	
+hxemi.elektro0a.SCI	elektroĥemia		NULL	elektrochemisch	
+hxemi.elektro0a.SCI	elektrokemia		NULL	elektrochemisch	
+hxemi.elektro0o	elektroĥemio		NULL	Elektrochemie	
+hxemi.elektro0o.SCI	elektroĥemio		NULL	Elektrochemie	
+hxemi.imuno0o	imunoĥemio		NULL	Immunchemie	
+hxemi.imuno0o.SCI	imunoĥemio		NULL	Immunchemie	
+hxemi.neorganika0o	neorganika ĥemio		NULL	anorganische Chemie	
+hxemi.neorganika0o.KEM	neorganika ĥemio		NULL	anorganische Chemie	
+hxemi.organika0o	organika ĥemio		NULL	organische Chemie	
+hxemi.organika0o.KEM	organika ĥemio		NULL	organische Chemie	
+hxemi.petrol0o	petrolĥemio		NULL	Petrochemie	
+hxemi.petrol0o.SCI	petrolĥemio		NULL	Petrochemie	
+hxeops.0o	Ĥeopso		NULL	Cheops	
+hxeops.0o	Ĥeopso		NULL	Chufu	
+hxerone.0o	Ĥeroneo		NULL	Chaironeia	
+hxet.0ida	ĥetida		NULL	hethitisch	
+hxet.0ida.nova	ĥetida		NULL	hethitisch	
+hxet.0ido	ĥetido		NULL	Hethiter	
+hxet.0ido.nova	ĥetido	1	NULL	Hethiter	
+hxet.0ido.praa	ĥetido	2	NULL	Hethiter	
+hxet.Hx0o	Ĥeto		NULL	NULL	NULL
+hxet.Hx0o.parapatro	Ĥeto		NULL	NULL	NULL
+hxet.pra0ido	praĥetido		NULL	NULL	NULL
+hxet.pra0ido.pralogxanto	praĥetido		NULL	NULL	NULL
+hxet1.0o	ĥeto		NULL	Chet	
+hxet1.0o.litero	ĥeto		NULL	Chet	
+hxi1.0	ĥi		NULL	chi	
+hxi2.Hx0o	Ĥio		NULL	Chios	
+hxiasm.0o	ĥiasmo		NULL	NULL	NULL
+hxiasm.0o	kiasmo		NULL	NULL	NULL
+hxiasm.0o.ANA	ĥiasmo	2	NULL	Chiasmus	
+hxiasm.0o.ANA	kiasmo	2	NULL	Chiasmus	
+hxiasm.0o.BELE	ĥiasmo	1	NULL	NULL	NULL
+hxiasm.0o.BELE	kiasmo	1	NULL	NULL	NULL
+hxil.0o	ĥilo		NULL	Lymphe	Lymphe (weiße)
+hxil.0o	ĉilo		NULL	Lymphe	Lymphe (weiße)
+hxil.0o	ĥilo		NULL	Chylum	
+hxil.0o	ĉilo		NULL	Chylum	
+hxim.0o	ĥimo		NULL	Chymus	
+hxim.0o	ĉimo		NULL	Chymus	
+hxim.0o	ĥimo		NULL	Nahrungsbrei	
+hxim.0o	ĉimo		NULL	Nahrungsbrei	
+hxim.0o	ĥimo		NULL	Speisebrei	
+hxim.0o	ĉimo		NULL	Speisebrei	
+hximer.0o	ĥimero		NULL	Chimäre	
+hximer.0o	kimero		NULL	Chimäre	
+hximer.0o.BELA	ĥimero	1	NULL	Chimäre	
+hximer.0o.BELA	kimero	1	NULL	Chimäre	
+hximer.0o.FIG	ĥimero	3	NULL	Hirngespinst	
+hximer.0o.FIG	kimero	3	NULL	Hirngespinst	
+hximer.0o.FIG	ĥimero	3	NULL	Chimäre	
+hximer.0o.FIG	kimero	3	NULL	Chimäre	
+hximer.0o.MIT	ĥimero	2	NULL	Mischwesen	
+hximer.0o.MIT	kimero	2	NULL	Mischwesen	
+hximer.0o.MIT	ĥimero	2	NULL	Chimäre	
+hximer.0o.MIT	kimero	2	NULL	Chimäre	
+hxin.0a	ĥina		NULL	chinesisch	
+hxin.0a.ETN	ĥina		NULL	chinesisch	
+hxinin.0o	ĥinino		NULL	Chinin	
+hxio.0o	ĥio		NULL	chi	
+hxio.0o.LIN	ĥio		NULL	chi	
+hxiron.0o	Ĥirono		NULL	NULL	NULL
+hxiron.0o	Kirono		NULL	NULL	NULL
+hxiron.0o.AST	Ĥirono	2	NULL	Chiron	Chiron (Asteroid)
+hxiron.0o.AST	Kirono	2	NULL	Chiron	Chiron (Asteroid)
+hxiron.0o.MIT	Ĥirono	1	NULL	Cheiron	
+hxiron.0o.MIT	Kirono	1	NULL	Cheiron	
+hxirur.0a	ĥirurgia		NULL	chirurgisch	
+hxirur.0a	kirurgia		NULL	chirurgisch	
+hxirur.0a.MED	ĥirurgia		NULL	chirurgisch	
+hxirur.0a.MED	kirurgia		NULL	chirurgisch	
+hxirur.0isto	ĥirurgiisto		NULL	Chirurg	
+hxirur.0isto	kirurgiisto		NULL	Chirurg	
+hxirur.0isto.MED	ĥirurgiisto		NULL	Chirurg	
+hxirur.0isto.MED	kirurgiisto		NULL	Chirurg	
+hxirur.0o	ĥirurgio		NULL	Chirurgie	
+hxirur.0o	kirurgio		NULL	Chirurgie	
+hxirur.0o.MED	ĥirurgio		NULL	Chirurgie	
+hxirur.0o.MED	kirurgio		NULL	Chirurgie	
+hxirurg.0o	ĥirurgo		NULL	Chirurg	
+hxirurg.0o	kirurgo		NULL	Chirurg	
+hxirurg.0o	ĥirurgo		NULL	Knochenarzt	
+hxirurg.0o	kirurgo		NULL	Knochenarzt	
+hxirurg.0o.hxirurgiisto	ĥirurgo		NULL	Chirurg	
+hxirurg.0o.hxirurgiisto	kirurgo		NULL	Chirurg	
+hxirurg.0o.hxirurgiisto	ĥirurgo		NULL	Knochenarzt	
+hxirurg.0o.hxirurgiisto	kirurgo		NULL	Knochenarzt	
+hxitin.0o	ĥitino		NULL	Chitin	
+hxitin.0o	kitino		NULL	Chitin	
+hxitin.0o.KEM	ĥitino		NULL	Chitin	
+hxitin.0o.KEM	kitino		NULL	Chitin	
+hxiton.0o	ĥitono		NULL	Chiton	
+hxiton.0o	kitono		NULL	Chiton	
+hxiton.0o.TEKS	ĥitono		NULL	Chiton	
+hxiton.0o.TEKS	kitono		NULL	Chiton	
+hxlamid.0o	ĥlamido		NULL	Chlamys	
+hxlamid.0o	klamido		NULL	Chlamys	
+hxlamid.0o.TEKS	ĥlamido		NULL	Chlamys	
+hxlamid.0o.TEKS	klamido		NULL	Chlamys	
+hxlamidi.0o	ĥlamidio		NULL	Chlamydie	
+hxlamidi.0o	klamidio		NULL	Chlamydie	
+hxmer.0o	kmero		NULL	Khmer	
+hxmer.0o	ĥmero		NULL	Khmer	
+hxmer.Rugxaj_0oj	Ruĝaj Kmeroj		NULL	Rote Khmer	
+hxmer.Rugxaj_0oj	Ruĝaj Ĥmeroj		NULL	Rote Khmer	
+hxolecistit.0o	ĥolecistito		NULL	Cholezystitis	
+hxoler.0o	ĥolero		NULL	Cholera	
+hxolesterin.0o	ĥolesterino		NULL	NULL	NULL
+hxolesterin.0o.KEM	ĥolesterino		NULL	NULL	NULL
+hxolesterol.0o	ĥolesterolo		NULL	Cholesterin	
+hxolesterol.0o	kolesterolo		NULL	Cholesterin	
+hxomer.0o	ĥomero		NULL	Hómer	
+hxor.0ajxo	ĥoraĵo		NULL	Choral	
+hxor.0ajxo.MUZ	ĥoraĵo		NULL	Choral	
+hxor.0ano	ĥorano		NULL	Chorsänger	
+hxor.0ejo	ĥorejo		NULL	Chor	
+hxor.0ejo.ARKI	ĥorejo		NULL	Chor	
+hxor.0estro	ĥorestro		NULL	Chorleiter	
+hxor.0o	ĥoro		NULL	Chor	
+hxor.0o.MUZverko	ĥoro	2	NULL	Chor	
+hxor.0o.TEA	ĥoro	3	NULL	Chor	
+hxor.0o.kantistaro	ĥoro	1	NULL	Chor	
+hxoral.0o	ĥoralo		NULL	Choral	
+hxord.0o	ĥordo		NULL	Rückensaite	
+hxord.0uloj	ĥorduloj		NULL	Chordatiere	
+hxore.0o	ĥoreo		NULL	Chorea	
+hxore.0o	koreo		NULL	Chorea	
+hxore.0o	ĥoreo		NULL	Veitstanz	
+hxore.0o	koreo		NULL	Veitstanz	
