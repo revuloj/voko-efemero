@@ -1,0 +1,1308 @@
+#mrk	kap	num	dos	ind	trd
+j.0	-j		gra_fr	Pluralendung	
+j.0	-j		gra_en	Pluralendung	
+j.0	-j		gra_de	Pluralendung	
+j.0	-j		gra_ru	Pluralendung	
+j.0	-j		gra_pl	Pluralendung	
+j.0	-j		ekz_7	Pluralendung	
+j.0	-j		uv_J	Pluralendung	
+j.0.GRA	-j		gra_fr	Pluralendung	
+j.0.GRA	-j		gra_en	Pluralendung	
+j.0.GRA	-j		gra_de	Pluralendung	
+j.0.GRA	-j		gra_ru	Pluralendung	
+j.0.GRA	-j		gra_pl	Pluralendung	
+j.0.GRA	-j		ekz_7	Pluralendung	
+j.0.GRA	-j		uv_J	Pluralendung	
+j1.0	jo		oa_7	NULL	NULL
+j1.0.konsonanto	jo		oa_7	NULL	NULL
+j2.0	-j		NULL	NULL	NULL
+j2.0.sufikso	-j		NULL	NULL	NULL
+ja.0	ja		uv_J	NULL	NULL
+ja.0	ja		akkor_en	NULL	NULL
+ja.0.interj	ja	3	uv_J	NULL	NULL
+ja.0.interj	ja	3	akkor_en	NULL	NULL
+ja.0.konj	ja	1	uv_J	ja	
+ja.0.konj	ja	1	akkor_en	ja	
+ja.0.sed	ja	2	uv_J	zwar	
+ja.0.sed	ja	2	akkor_en	zwar	
+jacint.0o	jacinto		NULL	Hyazinth	
+jacint.0o	hiacinto		NULL	Hyazinth	
+jacint.0o	jacinto		NULL	Jacinth	
+jacint.0o	hiacinto		NULL	Jacinth	
+jacint.0o.MIN	jacinto		NULL	Hyazinth	
+jacint.0o.MIN	hiacinto		NULL	Hyazinth	
+jacint.0o.MIN	jacinto		NULL	Jacinth	
+jacint.0o.MIN	hiacinto		NULL	Jacinth	
+jad.0o	jado		NULL	Jade	
+jad.0o.MIN	jado		NULL	Jade	
+jaf.0o	Jafo		NULL	Jaffa	
+jaguar.0o	jaguaro		NULL	Jaguar	
+jahurt.0o	jahurto		NULL	Joghurt	
+jahurt.0o	jogurto		NULL	Joghurt	
+jahxt.0o	jaĥto		NULL	Jacht	
+jahxt.0o	jakto		NULL	Jacht	
+jak.0eto	jaketo		NULL	NULL	NULL
+jak.0eto.TEKS	jaketo	1	NULL	NULL	NULL
+jak.0eto.TIP	jaketo	2	NULL	NULL	NULL
+jak.0o	jako		NULL	Jacke	
+jak.0o	jako		NULL	Jackett	
+jak.0o	jako		NULL	Sakko	
+jak.0o.TEKS	jako		NULL	Jacke	
+jak.0o.TEKS	jako		NULL	Jackett	
+jak.0o.TEKS	jako		NULL	Sakko	
+jak.trikita_0o	trikita jako		NULL	Strickjacke	
+jakob.0o	Jakobo		NULL	Jakob	
+jakob.0o	Jakob		NULL	Jakob	
+jakob.0o.BIB	Jakobo	2	NULL	Jakob	
+jakob.0o.BIB	Jakob	2	NULL	Jakob	
+jakob.0o.NOM	Jakobo	1	NULL	Jakob	
+jakob.0o.NOM	Jakob	1	NULL	Jakob	
+jakobe.0o	jakobeno		NULL	Jakobiner	
+jakobe.0o.POL	jakobeno		NULL	Jakobiner	
+jakobi.0o	Jakobio		NULL	Jacobi	
+jakobi.j0a	jakobia		NULL	Jacobisch	
+jakobi1.0o	jakobiano		NULL	Determinante	Jacobische Determinante
+jakv.0arbo	jakvarbo		NULL	Jackfruchtbaum	
+jakv.0arbo	jakvujo		NULL	Jackfruchtbaum	
+jakv.0arbo.BOT	jakvarbo		NULL	Jackfruchtbaum	
+jakv.0arbo.BOT	jakvujo		NULL	Jackfruchtbaum	
+jakv.0o	jakvo		NULL	NULL	NULL
+jakv.0o.KUI	jakvo		NULL	NULL	NULL
+jalt.0o	Jalto		NULL	NULL	NULL
+jalt.0o.urbo	Jalto		NULL	Jalta	
+jam.0	jam		ekz_6	schon	
+jam.0	jam		uv_J	schon	
+jam.0	jam		ekz_6	bereits	
+jam.0	jam		uv_J	bereits	
+jam.0.antau_nun	jam	3	ekz_6	schon	
+jam.0.antau_nun	jam	3	uv_J	schon	
+jam.0.antau_nun	jam	3	ekz_6	bereits	
+jam.0.antau_nun	jam	3	uv_J	bereits	
+jam.0.antau_tiam	jam	4	ekz_6	schon	
+jam.0.antau_tiam	jam	4	uv_J	schon	
+jam.0.antau_tiam	jam	4	ekz_6	bereits	
+jam.0.antau_tiam	jam	4	uv_J	bereits	
+jam.0.de_nun	jam	1	ekz_6	schon	
+jam.0.de_nun	jam	1	uv_J	schon	
+jam.0.de_nun	jam	1	ekz_6	bereits	
+jam.0.de_nun	jam	1	uv_J	bereits	
+jam.0.de_tiam	jam	2	ekz_6	schon	
+jam.0.de_tiam	jam	2	uv_J	schon	
+jam.0.de_tiam	jam	2	ekz_6	bereits	
+jam.0.de_tiam	jam	2	uv_J	bereits	
+jam.0.pli_frue	jam	5	ekz_6	schon	
+jam.0.pli_frue	jam	5	uv_J	schon	
+jam.0.pli_frue	jam	5	ekz_6	bereits	
+jam.0.pli_frue	jam	5	uv_J	bereits	
+jam.0a	jama		NULL	bestehende	
+jam.0a	jama		NULL	bisheriger	
+jama.0o	Jamao		NULL	Yama	Yama (Todesgott)
+jama.0o.HIN	Jamao		NULL	Yama	Yama (Todesgott)
+jamajk.0o	Jamajko		NULL	Jamaika	
+jamajk.0o.GEOG	Jamajko	1	NULL	Jamaika	
+jamajk.0o.sxtato	Jamajko	2	NULL	Jamaika	
+jamb.0o	jambo		NULL	Jambe	
+jamb.0o	jambo		NULL	Jambus	
+jamb.hxor0o	ĥorjambo		NULL	NULL	NULL
+jamb.n0o	n-jambo		NULL	NULL	NULL
+jamusukr.0o	Jamusukro		NULL	Yamoussoukro	
+jangzi.0o	Jangzio		NULL	Jangtsekiang	
+jangzi.0o	Jangzio		NULL	Jangtse-Fluss	
+janicx.0o	janiĉaro		NULL	Janitschare	
+janki.0o	jankio		NULL	NULL	NULL
+janki.0o.ETN	jankio		NULL	NULL	NULL
+jansen.0ano	jansenano		NULL	NULL	NULL
+jansen.0ano.KAT	jansenano		NULL	NULL	NULL
+jansen.0ismo	jansenismo		NULL	Jansenismus	
+jansen.0ismo.KAT	jansenismo		NULL	Jansenismus	
+jansen.0isto	jansenisto		NULL	NULL	NULL
+jansen.0isto.KAT	jansenisto		NULL	NULL	NULL
+jansen.0o	Janseno		NULL	NULL	NULL
+jansen.0o.PERS	Janseno		NULL	NULL	NULL
+januar.0a	januara		NULL	NULL	NULL
+japanesk.0o	japanesko		NULL	NULL	NULL
+japanesk.0o.POE	japanesko		NULL	NULL	NULL
+jar.cent0o	centjaro		NULL	Jahrhundert	
+jar.cent0o.KAL	centjaro		NULL	Jahrhundert	
+jar.cxiu0a	ĉiujara		NULL	jährlich	
+jar.cxiu0a.KAL	ĉiujara		NULL	jährlich	
+jar.cxiudu0a	ĉiudujara		NULL	NULL	NULL
+jar.cxiudu0a.KAL	ĉiudujara		NULL	NULL	NULL
+jar.dek0o	dekjaro		NULL	NULL	NULL
+jar.dek0o.KAL	dekjaro		NULL	NULL	NULL
+jar.dekkelk0ulo	dekkelkjarulo		NULL	NULL	NULL
+jar.dekkelk0ulo.KOMUNE	dekkelkjarulo		NULL	NULL	NULL
+jar.duon0o	duonjaro		NULL	Halbjahr	
+jar.duon0o.AST	duonjaro	1	NULL	Halbjahr	
+jar.duon0o.KAL	duonjaro	2	NULL	Halbjahr	
+jar.lum0o	lumjaro		NULL	Lichtjahr	
+jar.lum0o.AST	lumjaro		NULL	Lichtjahr	
+jar.mil0o	miljaro		NULL	Jahrtausend	
+jar.mil0o.KAL	miljaro		NULL	Jahrtausend	
+jar.nov0o	Novjaro		NULL	NULL	NULL
+jar.nov0o.KAL	Novjaro		NULL	NULL	NULL
+jar.prov0o	provjaro		NULL	NULL	NULL
+jar.prov0o.PED	provjaro		NULL	NULL	NULL
+jar.stud0o	studjaro		NULL	Schuljahr	
+jar.stud0o	studjaro		NULL	Studienjahr	
+jar.stud0o	studjaro		NULL	akademisches Jahr	
+jar.stud0o.PED	studjaro		NULL	Schuljahr	
+jar.stud0o.PED	studjaro		NULL	Studienjahr	
+jar.stud0o.PED	studjaro		NULL	akademisches Jahr	
+jar.super0o	superjaro		uv_S	Schaltjahr	
+jar.super0o	superjaro		akkor_en	Schaltjahr	
+jar.super0o.KAL	superjaro		uv_S	Schaltjahr	
+jar.super0o.KAL	superjaro		akkor_en	Schaltjahr	
+jard.0o	jardo		NULL	Rahe	
+jard.0o.MAR	jardo		NULL	Rahe	
+jard1.0o	jardo		NULL	Yard	
+jard1.0o.MEZ	jardo		NULL	Yard	
+jaroslav.0o	Jaroslavo		NULL	NULL	NULL
+jaroslav.0o.NOM	Jaroslavo		NULL	NULL	NULL
+jasmen.0o	jasmeno		NULL	Jasmin	
+jasp.0i	jaspi		NULL	NULL	NULL
+jasp.0o	jaspo		NULL	Jaspis	
+jasp.0o	jaspiso		NULL	Jaspis	
+jasp.0o.sxtono	jaspo		NULL	Jaspis	
+jasp.0o.sxtono	jaspiso		NULL	Jaspis	
+jasxir.0o	jaŝiro		NULL	NULL	NULL
+jasxir.0o.REL	jaŝiro		NULL	NULL	NULL
+jat.0o	jato		NULL	NULL	NULL
+jatagan.0o	jatagano		NULL	NULL	NULL
+jatagan.0o.ARM	jatagano		NULL	NULL	NULL
+jaund.0o	Jaundo		NULL	Yaoundé	
+jazon.0o	Jazono		NULL	Iason	
+jazon.0o	Jazono		NULL	Jason	
+jazon.0o.NOM	Jazono	2	NULL	Iason	
+jazon.0o.NOM	Jazono	2	NULL	Jason	
+jazon.0o.mit	Jazono	1	NULL	Iason	
+jazon.0o.mit	Jazono	1	NULL	Jason	
+je.0	je		gra_fr	je	
+je.0	je		gra_fr	je	
+je.0	je		gra_en	je	
+je.0	je		gra_en	je	
+je.0	je		gra_en	je	
+je.0	je		gra_de	je	
+je.0	je		gra_de	je	
+je.0	je		gra_de	je	
+je.0	je		gra_ru	je	
+je.0	je		gra_ru	je	
+je.0	je		gra_ru	je	
+je.0	je		gra_pl	je	
+je.0	je		gra_pl	je	
+je.0	je		gra_pl	je	
+je.0	je		ekz_23	je	
+je.0	je		uv_J	je	
+je.0	je		gra_fr	an	
+je.0	je		gra_fr	an	
+je.0	je		gra_en	an	
+je.0	je		gra_en	an	
+je.0	je		gra_en	an	
+je.0	je		gra_de	an	
+je.0	je		gra_de	an	
+je.0	je		gra_de	an	
+je.0	je		gra_ru	an	
+je.0	je		gra_ru	an	
+je.0	je		gra_ru	an	
+je.0	je		gra_pl	an	
+je.0	je		gra_pl	an	
+je.0	je		gra_pl	an	
+je.0	je		ekz_23	an	
+je.0	je		uv_J	an	
+je.0	je		gra_fr	von	
+je.0	je		gra_fr	von	
+je.0	je		gra_en	von	
+je.0	je		gra_en	von	
+je.0	je		gra_en	von	
+je.0	je		gra_de	von	
+je.0	je		gra_de	von	
+je.0	je		gra_de	von	
+je.0	je		gra_ru	von	
+je.0	je		gra_ru	von	
+je.0	je		gra_ru	von	
+je.0	je		gra_pl	von	
+je.0	je		gra_pl	von	
+je.0	je		gra_pl	von	
+je.0	je		ekz_23	von	
+je.0	je		uv_J	von	
+je.0	je		gra_fr	um	
+je.0	je		gra_fr	um	
+je.0	je		gra_en	um	
+je.0	je		gra_en	um	
+je.0	je		gra_en	um	
+je.0	je		gra_de	um	
+je.0	je		gra_de	um	
+je.0	je		gra_de	um	
+je.0	je		gra_ru	um	
+je.0	je		gra_ru	um	
+je.0	je		gra_ru	um	
+je.0	je		gra_pl	um	
+je.0	je		gra_pl	um	
+je.0	je		gra_pl	um	
+je.0	je		ekz_23	um	
+je.0	je		uv_J	um	
+je.0	je		gra_fr	zu	
+je.0	je		gra_fr	zu	
+je.0	je		gra_en	zu	
+je.0	je		gra_en	zu	
+je.0	je		gra_en	zu	
+je.0	je		gra_de	zu	
+je.0	je		gra_de	zu	
+je.0	je		gra_de	zu	
+je.0	je		gra_ru	zu	
+je.0	je		gra_ru	zu	
+je.0	je		gra_ru	zu	
+je.0	je		gra_pl	zu	
+je.0	je		gra_pl	zu	
+je.0	je		gra_pl	zu	
+je.0	je		ekz_23	zu	
+je.0	je		uv_J	zu	
+je.0.adj	je	1	gra_fr	je	
+je.0.adj	je	1	gra_fr	je	
+je.0.adj	je	1	gra_en	je	
+je.0.adj	je	1	gra_en	je	
+je.0.adj	je	1	gra_en	je	
+je.0.adj	je	1	gra_de	je	
+je.0.adj	je	1	gra_de	je	
+je.0.adj	je	1	gra_de	je	
+je.0.adj	je	1	gra_ru	je	
+je.0.adj	je	1	gra_ru	je	
+je.0.adj	je	1	gra_ru	je	
+je.0.adj	je	1	gra_pl	je	
+je.0.adj	je	1	gra_pl	je	
+je.0.adj	je	1	gra_pl	je	
+je.0.adj	je	1	ekz_23	je	
+je.0.adj	je	1	uv_J	je	
+je.0.adj	je	1	gra_fr	an	
+je.0.adj	je	1	gra_fr	an	
+je.0.adj	je	1	gra_en	an	
+je.0.adj	je	1	gra_en	an	
+je.0.adj	je	1	gra_en	an	
+je.0.adj	je	1	gra_de	an	
+je.0.adj	je	1	gra_de	an	
+je.0.adj	je	1	gra_de	an	
+je.0.adj	je	1	gra_ru	an	
+je.0.adj	je	1	gra_ru	an	
+je.0.adj	je	1	gra_ru	an	
+je.0.adj	je	1	gra_pl	an	
+je.0.adj	je	1	gra_pl	an	
+je.0.adj	je	1	gra_pl	an	
+je.0.adj	je	1	ekz_23	an	
+je.0.adj	je	1	uv_J	an	
+je.0.adj	je	1	gra_fr	von	
+je.0.adj	je	1	gra_fr	von	
+je.0.adj	je	1	gra_en	von	
+je.0.adj	je	1	gra_en	von	
+je.0.adj	je	1	gra_en	von	
+je.0.adj	je	1	gra_de	von	
+je.0.adj	je	1	gra_de	von	
+je.0.adj	je	1	gra_de	von	
+je.0.adj	je	1	gra_ru	von	
+je.0.adj	je	1	gra_ru	von	
+je.0.adj	je	1	gra_ru	von	
+je.0.adj	je	1	gra_pl	von	
+je.0.adj	je	1	gra_pl	von	
+je.0.adj	je	1	gra_pl	von	
+je.0.adj	je	1	ekz_23	von	
+je.0.adj	je	1	uv_J	von	
+je.0.adj	je	1	gra_fr	um	
+je.0.adj	je	1	gra_fr	um	
+je.0.adj	je	1	gra_en	um	
+je.0.adj	je	1	gra_en	um	
+je.0.adj	je	1	gra_en	um	
+je.0.adj	je	1	gra_de	um	
+je.0.adj	je	1	gra_de	um	
+je.0.adj	je	1	gra_de	um	
+je.0.adj	je	1	gra_ru	um	
+je.0.adj	je	1	gra_ru	um	
+je.0.adj	je	1	gra_ru	um	
+je.0.adj	je	1	gra_pl	um	
+je.0.adj	je	1	gra_pl	um	
+je.0.adj	je	1	gra_pl	um	
+je.0.adj	je	1	ekz_23	um	
+je.0.adj	je	1	uv_J	um	
+je.0.adj	je	1	gra_fr	zu	
+je.0.adj	je	1	gra_fr	zu	
+je.0.adj	je	1	gra_en	zu	
+je.0.adj	je	1	gra_en	zu	
+je.0.adj	je	1	gra_en	zu	
+je.0.adj	je	1	gra_de	zu	
+je.0.adj	je	1	gra_de	zu	
+je.0.adj	je	1	gra_de	zu	
+je.0.adj	je	1	gra_ru	zu	
+je.0.adj	je	1	gra_ru	zu	
+je.0.adj	je	1	gra_ru	zu	
+je.0.adj	je	1	gra_pl	zu	
+je.0.adj	je	1	gra_pl	zu	
+je.0.adj	je	1	gra_pl	zu	
+je.0.adj	je	1	ekz_23	zu	
+je.0.adj	je	1	uv_J	zu	
+je.0.cirkonstanco	je	4	gra_fr	je	
+je.0.cirkonstanco	je	4	gra_fr	je	
+je.0.cirkonstanco	je	4	gra_en	je	
+je.0.cirkonstanco	je	4	gra_en	je	
+je.0.cirkonstanco	je	4	gra_en	je	
+je.0.cirkonstanco	je	4	gra_de	je	
+je.0.cirkonstanco	je	4	gra_de	je	
+je.0.cirkonstanco	je	4	gra_de	je	
+je.0.cirkonstanco	je	4	gra_ru	je	
+je.0.cirkonstanco	je	4	gra_ru	je	
+je.0.cirkonstanco	je	4	gra_ru	je	
+je.0.cirkonstanco	je	4	gra_pl	je	
+je.0.cirkonstanco	je	4	gra_pl	je	
+je.0.cirkonstanco	je	4	gra_pl	je	
+je.0.cirkonstanco	je	4	ekz_23	je	
+je.0.cirkonstanco	je	4	uv_J	je	
+je.0.cirkonstanco	je	4	gra_fr	an	
+je.0.cirkonstanco	je	4	gra_fr	an	
+je.0.cirkonstanco	je	4	gra_en	an	
+je.0.cirkonstanco	je	4	gra_en	an	
+je.0.cirkonstanco	je	4	gra_en	an	
+je.0.cirkonstanco	je	4	gra_de	an	
+je.0.cirkonstanco	je	4	gra_de	an	
+je.0.cirkonstanco	je	4	gra_de	an	
+je.0.cirkonstanco	je	4	gra_ru	an	
+je.0.cirkonstanco	je	4	gra_ru	an	
+je.0.cirkonstanco	je	4	gra_ru	an	
+je.0.cirkonstanco	je	4	gra_pl	an	
+je.0.cirkonstanco	je	4	gra_pl	an	
+je.0.cirkonstanco	je	4	gra_pl	an	
+je.0.cirkonstanco	je	4	ekz_23	an	
+je.0.cirkonstanco	je	4	uv_J	an	
+je.0.cirkonstanco	je	4	gra_fr	von	
+je.0.cirkonstanco	je	4	gra_fr	von	
+je.0.cirkonstanco	je	4	gra_en	von	
+je.0.cirkonstanco	je	4	gra_en	von	
+je.0.cirkonstanco	je	4	gra_en	von	
+je.0.cirkonstanco	je	4	gra_de	von	
+je.0.cirkonstanco	je	4	gra_de	von	
+je.0.cirkonstanco	je	4	gra_de	von	
+je.0.cirkonstanco	je	4	gra_ru	von	
+je.0.cirkonstanco	je	4	gra_ru	von	
+je.0.cirkonstanco	je	4	gra_ru	von	
+je.0.cirkonstanco	je	4	gra_pl	von	
+je.0.cirkonstanco	je	4	gra_pl	von	
+je.0.cirkonstanco	je	4	gra_pl	von	
+je.0.cirkonstanco	je	4	ekz_23	von	
+je.0.cirkonstanco	je	4	uv_J	von	
+je.0.cirkonstanco	je	4	gra_fr	um	
+je.0.cirkonstanco	je	4	gra_fr	um	
+je.0.cirkonstanco	je	4	gra_en	um	
+je.0.cirkonstanco	je	4	gra_en	um	
+je.0.cirkonstanco	je	4	gra_en	um	
+je.0.cirkonstanco	je	4	gra_de	um	
+je.0.cirkonstanco	je	4	gra_de	um	
+je.0.cirkonstanco	je	4	gra_de	um	
+je.0.cirkonstanco	je	4	gra_ru	um	
+je.0.cirkonstanco	je	4	gra_ru	um	
+je.0.cirkonstanco	je	4	gra_ru	um	
+je.0.cirkonstanco	je	4	gra_pl	um	
+je.0.cirkonstanco	je	4	gra_pl	um	
+je.0.cirkonstanco	je	4	gra_pl	um	
+je.0.cirkonstanco	je	4	ekz_23	um	
+je.0.cirkonstanco	je	4	uv_J	um	
+je.0.cirkonstanco	je	4	gra_fr	zu	
+je.0.cirkonstanco	je	4	gra_fr	zu	
+je.0.cirkonstanco	je	4	gra_en	zu	
+je.0.cirkonstanco	je	4	gra_en	zu	
+je.0.cirkonstanco	je	4	gra_en	zu	
+je.0.cirkonstanco	je	4	gra_de	zu	
+je.0.cirkonstanco	je	4	gra_de	zu	
+je.0.cirkonstanco	je	4	gra_de	zu	
+je.0.cirkonstanco	je	4	gra_ru	zu	
+je.0.cirkonstanco	je	4	gra_ru	zu	
+je.0.cirkonstanco	je	4	gra_ru	zu	
+je.0.cirkonstanco	je	4	gra_pl	zu	
+je.0.cirkonstanco	je	4	gra_pl	zu	
+je.0.cirkonstanco	je	4	gra_pl	zu	
+je.0.cirkonstanco	je	4	ekz_23	zu	
+je.0.cirkonstanco	je	4	uv_J	zu	
+je.0.objekta	je	3	gra_fr	je	
+je.0.objekta	je	3	gra_fr	je	
+je.0.objekta	je	3	gra_en	je	
+je.0.objekta	je	3	gra_en	je	
+je.0.objekta	je	3	gra_en	je	
+je.0.objekta	je	3	gra_de	je	
+je.0.objekta	je	3	gra_de	je	
+je.0.objekta	je	3	gra_de	je	
+je.0.objekta	je	3	gra_ru	je	
+je.0.objekta	je	3	gra_ru	je	
+je.0.objekta	je	3	gra_ru	je	
+je.0.objekta	je	3	gra_pl	je	
+je.0.objekta	je	3	gra_pl	je	
+je.0.objekta	je	3	gra_pl	je	
+je.0.objekta	je	3	ekz_23	je	
+je.0.objekta	je	3	uv_J	je	
+je.0.objekta	je	3	gra_fr	an	
+je.0.objekta	je	3	gra_fr	an	
+je.0.objekta	je	3	gra_en	an	
+je.0.objekta	je	3	gra_en	an	
+je.0.objekta	je	3	gra_en	an	
+je.0.objekta	je	3	gra_de	an	
+je.0.objekta	je	3	gra_de	an	
+je.0.objekta	je	3	gra_de	an	
+je.0.objekta	je	3	gra_ru	an	
+je.0.objekta	je	3	gra_ru	an	
+je.0.objekta	je	3	gra_ru	an	
+je.0.objekta	je	3	gra_pl	an	
+je.0.objekta	je	3	gra_pl	an	
+je.0.objekta	je	3	gra_pl	an	
+je.0.objekta	je	3	ekz_23	an	
+je.0.objekta	je	3	uv_J	an	
+je.0.objekta	je	3	gra_fr	von	
+je.0.objekta	je	3	gra_fr	von	
+je.0.objekta	je	3	gra_en	von	
+je.0.objekta	je	3	gra_en	von	
+je.0.objekta	je	3	gra_en	von	
+je.0.objekta	je	3	gra_de	von	
+je.0.objekta	je	3	gra_de	von	
+je.0.objekta	je	3	gra_de	von	
+je.0.objekta	je	3	gra_ru	von	
+je.0.objekta	je	3	gra_ru	von	
+je.0.objekta	je	3	gra_ru	von	
+je.0.objekta	je	3	gra_pl	von	
+je.0.objekta	je	3	gra_pl	von	
+je.0.objekta	je	3	gra_pl	von	
+je.0.objekta	je	3	ekz_23	von	
+je.0.objekta	je	3	uv_J	von	
+je.0.objekta	je	3	gra_fr	um	
+je.0.objekta	je	3	gra_fr	um	
+je.0.objekta	je	3	gra_en	um	
+je.0.objekta	je	3	gra_en	um	
+je.0.objekta	je	3	gra_en	um	
+je.0.objekta	je	3	gra_de	um	
+je.0.objekta	je	3	gra_de	um	
+je.0.objekta	je	3	gra_de	um	
+je.0.objekta	je	3	gra_ru	um	
+je.0.objekta	je	3	gra_ru	um	
+je.0.objekta	je	3	gra_ru	um	
+je.0.objekta	je	3	gra_pl	um	
+je.0.objekta	je	3	gra_pl	um	
+je.0.objekta	je	3	gra_pl	um	
+je.0.objekta	je	3	ekz_23	um	
+je.0.objekta	je	3	uv_J	um	
+je.0.objekta	je	3	gra_fr	zu	
+je.0.objekta	je	3	gra_fr	zu	
+je.0.objekta	je	3	gra_en	zu	
+je.0.objekta	je	3	gra_en	zu	
+je.0.objekta	je	3	gra_en	zu	
+je.0.objekta	je	3	gra_de	zu	
+je.0.objekta	je	3	gra_de	zu	
+je.0.objekta	je	3	gra_de	zu	
+je.0.objekta	je	3	gra_ru	zu	
+je.0.objekta	je	3	gra_ru	zu	
+je.0.objekta	je	3	gra_ru	zu	
+je.0.objekta	je	3	gra_pl	zu	
+je.0.objekta	je	3	gra_pl	zu	
+je.0.objekta	je	3	gra_pl	zu	
+je.0.objekta	je	3	ekz_23	zu	
+je.0.objekta	je	3	uv_J	zu	
+je.0.verba	je	2	gra_fr	je	
+je.0.verba	je	2	gra_fr	je	
+je.0.verba	je	2	gra_en	je	
+je.0.verba	je	2	gra_en	je	
+je.0.verba	je	2	gra_en	je	
+je.0.verba	je	2	gra_de	je	
+je.0.verba	je	2	gra_de	je	
+je.0.verba	je	2	gra_de	je	
+je.0.verba	je	2	gra_ru	je	
+je.0.verba	je	2	gra_ru	je	
+je.0.verba	je	2	gra_ru	je	
+je.0.verba	je	2	gra_pl	je	
+je.0.verba	je	2	gra_pl	je	
+je.0.verba	je	2	gra_pl	je	
+je.0.verba	je	2	ekz_23	je	
+je.0.verba	je	2	uv_J	je	
+je.0.verba	je	2	gra_fr	an	
+je.0.verba	je	2	gra_fr	an	
+je.0.verba	je	2	gra_en	an	
+je.0.verba	je	2	gra_en	an	
+je.0.verba	je	2	gra_en	an	
+je.0.verba	je	2	gra_de	an	
+je.0.verba	je	2	gra_de	an	
+je.0.verba	je	2	gra_de	an	
+je.0.verba	je	2	gra_ru	an	
+je.0.verba	je	2	gra_ru	an	
+je.0.verba	je	2	gra_ru	an	
+je.0.verba	je	2	gra_pl	an	
+je.0.verba	je	2	gra_pl	an	
+je.0.verba	je	2	gra_pl	an	
+je.0.verba	je	2	ekz_23	an	
+je.0.verba	je	2	uv_J	an	
+je.0.verba	je	2	gra_fr	von	
+je.0.verba	je	2	gra_fr	von	
+je.0.verba	je	2	gra_en	von	
+je.0.verba	je	2	gra_en	von	
+je.0.verba	je	2	gra_en	von	
+je.0.verba	je	2	gra_de	von	
+je.0.verba	je	2	gra_de	von	
+je.0.verba	je	2	gra_de	von	
+je.0.verba	je	2	gra_ru	von	
+je.0.verba	je	2	gra_ru	von	
+je.0.verba	je	2	gra_ru	von	
+je.0.verba	je	2	gra_pl	von	
+je.0.verba	je	2	gra_pl	von	
+je.0.verba	je	2	gra_pl	von	
+je.0.verba	je	2	ekz_23	von	
+je.0.verba	je	2	uv_J	von	
+je.0.verba	je	2	gra_fr	um	
+je.0.verba	je	2	gra_fr	um	
+je.0.verba	je	2	gra_en	um	
+je.0.verba	je	2	gra_en	um	
+je.0.verba	je	2	gra_en	um	
+je.0.verba	je	2	gra_de	um	
+je.0.verba	je	2	gra_de	um	
+je.0.verba	je	2	gra_de	um	
+je.0.verba	je	2	gra_ru	um	
+je.0.verba	je	2	gra_ru	um	
+je.0.verba	je	2	gra_ru	um	
+je.0.verba	je	2	gra_pl	um	
+je.0.verba	je	2	gra_pl	um	
+je.0.verba	je	2	gra_pl	um	
+je.0.verba	je	2	ekz_23	um	
+je.0.verba	je	2	uv_J	um	
+je.0.verba	je	2	gra_fr	zu	
+je.0.verba	je	2	gra_fr	zu	
+je.0.verba	je	2	gra_en	zu	
+je.0.verba	je	2	gra_en	zu	
+je.0.verba	je	2	gra_en	zu	
+je.0.verba	je	2	gra_de	zu	
+je.0.verba	je	2	gra_de	zu	
+je.0.verba	je	2	gra_de	zu	
+je.0.verba	je	2	gra_ru	zu	
+je.0.verba	je	2	gra_ru	zu	
+je.0.verba	je	2	gra_ru	zu	
+je.0.verba	je	2	gra_pl	zu	
+je.0.verba	je	2	gra_pl	zu	
+je.0.verba	je	2	gra_pl	zu	
+je.0.verba	je	2	ekz_23	zu	
+je.0.verba	je	2	uv_J	zu	
+jehov.0ismo	jehovismo		NULL	NULL	NULL
+jehov.0ismo.KRI	jehovismo		NULL	NULL	NULL
+jehov.0isto	jehovisto		NULL	NULL	NULL
+jehov.0isto	jehovano		NULL	NULL	NULL
+jehov.0isto	atestanto de Jehovo		NULL	NULL	NULL
+jehov.0isto.KRI	jehovisto		NULL	NULL	NULL
+jehov.0isto.KRI	jehovano		NULL	NULL	NULL
+jehov.0isto.KRI	atestanto de Jehovo		NULL	NULL	NULL
+jehov.0o	Jehovo		NULL	NULL	NULL
+jehov.0o.KRI	Jehovo		NULL	NULL	NULL
+jekaterinburg.0o	Jekaterinburgo		NULL	Jekaterinburg	
+jelp.0i	jelpi		NULL	bellen	
+jelp.0i	jelpi		NULL	kläffen	
+jelp.0i.FIG	jelpi	2	NULL	bellen	
+jelp.0i.FIG	jelpi	2	NULL	kläffen	
+jelp.0i.ZOO	jelpi	1	NULL	bellen	
+jelp.0i.ZOO	jelpi	1	NULL	kläffen	
+jemen.0o	Jemeno		NULL	Jemen	
+jemen.0o.GEOG	Jemeno		NULL	Jemen	
+jen.0	jen		ekz_6	hier	
+jen.0	jen		uv_J	hier	
+jen.0	jen		ekz_6	da	
+jen.0	jen		uv_J	da	
+jen.0	jen		ekz_6	sieh da	
+jen.0	jen		uv_J	sieh da	
+jen.0	jen		ekz_6	ei kucke da	
+jen.0	jen		uv_J	ei kucke da	
+jen.00	jen... jen...		NULL	mal... mal...	
+jen.00	jen... jen...		NULL	jetzt... dann...	
+jen.00	jen... jen...		NULL	bald... bald...	
+jen.00	jen... jen...		NULL	nun... dann...	
+jen.0a	jena		NULL	jener	
+jen.0a	jena		NULL	der da	
+jen.0a	jena		NULL	dieser da	
+jen.0e	jene		NULL	folgendermaßen	
+jen.0e	jene		NULL	wie folgt	
+jen.0o	jeno		NULL	Folgendes	
+jen.0vihavas	jen vi havas		NULL	da	da hast du es
+jen.0vihavas	jen vi havas		NULL	da haben wir den Salat!	
+jenisej.J0aGolfo	Jeniseja Golfo		NULL	Jenissej-Busen	
+jenisej.J0o	Jenisejo		NULL	Jenissej	
+jer.0ego	jerego		NULL	NULL	NULL
+jer.0eto	jereto		NULL	NULL	NULL
+jer.0io	jerio		NULL	NULL	NULL
+jer.0o	jero		NULL	NULL	NULL
+jeralasx.0o	jeralaŝo		NULL	Bridge	
+jerihx.0o	Jeriĥo		NULL	NULL	NULL
+jerihx.0o.urbo	Jeriĥo		NULL	Jericho	
+jerusa.J0o	Jerusalemo		NULL	Jerusalem	
+jerusa.J0o	Jeruzalemo		NULL	Jerusalem	
+jerusa.J0o.GEOG	Jerusalemo		NULL	Jerusalem	
+jerusa.J0o.GEOG	Jeruzalemo		NULL	Jerusalem	
+jes.0	jes		ekz_21	NULL	NULL
+jes.0	jes		uv_J	NULL	NULL
+jes.0.emfazo	jes	2	ekz_21	NULL	NULL
+jes.0.emfazo	jes	2	uv_J	NULL	NULL
+jes.0a	jesa		NULL	bejahend	
+jes.0a.KOMUNE	jesa		NULL	bejahend	
+jes.0i	jesi		NULL	bejahen	
+jes.0i.KOMUNE	jesi		NULL	bejahen	
+jes.0igi	jesigi		uv_J	bestätigen	
+jes.0igi.KOMUNE	jesigi		uv_J	bestätigen	
+jes.0ja	jes ja		NULL	NULL	NULL
+jes.0ja.emfaza	jes ja	1	NULL	ja genau	
+jes.0ja.malkonfirmo	jes ja	2	NULL	doch	
+jes.0o	jeso		NULL	Ja	
+jes.0o.KOMUNE	jeso		NULL	Ja	
+jes.0ulo	jesulo		NULL	NULL	NULL
+jes.0ulo.KOMUNE	jesulo		NULL	NULL	NULL
+jes.kap0i	kapjesi		NULL	nicken	
+jes.kap0i.MIEN	kapjesi		NULL	nicken	
+jes.mal0i	maljesi		NULL	verneinen	
+jes.mal0i.KOMUNE	maljesi		NULL	verneinen	
+jesu.0o	Jesuo		oa_3	Jesus	
+jesu.0o.homo	Jesuo	1	oa_3	Jesus	
+jesu.0o.vorto	Jesuo	2	oa_3	Jesus	
+jesxiv.0o	jeŝivo		NULL	Jeschiwa	
+jesxiv.0o.PED	jeŝivo		NULL	Jeschiwa	
+jet.0avio	jetavio		NULL	Strahlflugzeug	
+jet.0avio	jetaviadilo		NULL	Strahlflugzeug	
+jet.0avio	jetavio		NULL	Düsenflugzeug	
+jet.0avio	jetaviadilo		NULL	Düsenflugzeug	
+jet.0avio	jetavio		NULL	Jet	
+jet.0avio	jetaviadilo		NULL	Jet	
+jet.0avio	jetavio		NULL	Düsenjet	
+jet.0avio	jetaviadilo		NULL	Düsenjet	
+jet.0i	jeti		NULL	jetten	
+jet.0motoro	jetmotoro		NULL	Strahltriebwerk	
+jet.0motoro	jetmotoro		NULL	Düsentriebwerk	
+jet.0o	jeto		NULL	NULL	NULL
+jet.0o.avio	jeto	2	NULL	NULL	NULL
+jet.0o.reakcio	jeto	1	NULL	NULL	NULL
+jeti.0o	jetio		NULL	Yeti	
+jeti.0o.SNC	jetio		NULL	Yeti	
+jezid.0ismo	Jezidismo		NULL	Jesidentum	
+jezid.0ismo.REL	Jezidismo		NULL	Jesidentum	
+jezid.0o	jezido		NULL	Jeside	
+jezid.0o.REL	jezido		NULL	Jeside	
+jezuit.0o	jezuito		NULL	NULL	NULL
+jezuit.0o.REL	jezuito	1	NULL	Jesuit	
+jezuit.0o.hipokritulo	jezuito	2	NULL	Heuchler	
+jid.0o	Jido		NULL	Jiddisch	
+jid.0o.lingvo	Jido		NULL	Jiddisch	
+joakim.0o	Joakimo		NULL	Joachim	
+joakim.0o.NOM	Joakimo		NULL	Joachim	
+jod.0o	jodo		NULL	Jod	
+jodl.0i	jodli		NULL	NULL	NULL
+jodl.0i.MUZ	jodli		NULL	jodeln	
+jodofo.0o	jodoformo		NULL	Jodoform	
+jodofo.0o	jodoformo		NULL	Trijodmethan	
+jog.0o	jogo		NULL	Yoga	
+jog.0o.KOMUNE	jogo		NULL	Yoga	
+johan.0cxjo	Johanĉjo		uv_C	NULL	NULL
+johan.0cxjo	Joĉjo		uv_C	NULL	NULL
+johan.0ino	Johanino		NULL	Johanna	
+johan.0ino.NOM	Johanino		NULL	Johanna	
+johan.0o	Johano		ekz_8	Johannes	
+johan.0o.NOM	Johano		ekz_8	Johannes	
+johanesburg.0o	Johanesburgo		NULL	Johannesburg	
+jojk.0o	jojko		NULL	Joik	
+jojk.0o.MUZ	jojko		NULL	Joik	
+jokoham.0o	Jokohamo		NULL	Yokohama	
+jokto.0	jokto-		NULL	Yokto-	
+jokto.0.MEZ	jokto-		NULL	Yokto-	
+jomkipur.0o	Jomkipuro		NULL	Jom Kippur	
+jomkipur.0o.JUD	Jomkipuro		NULL	Jom Kippur	
+jon.0igi	jonigi		NULL	ionisieren	
+jon.0igi.KEM	jonigi		NULL	ionisieren	
+jon.0o	jono		NULL	Ion	
+jon.0o.KEM	jono		NULL	Ion	
+joniz.0i	jonizi		NULL	jonisieren	
+jonkvi.0o	jonkvilo		NULL	Jonquille	
+jonkvi.0o.BOT	jonkvilo		NULL	Jonquille	
+jor.0i	jori		NULL	schlingern	
+jor.0i	jori		NULL	ausbrechen	(seitlich) ausbrechen
+jor.0i	jori		NULL	schleudern	
+jor.0i.VET	jori		NULL	schlingern	
+jor.0i.VET	jori		NULL	ausbrechen	(seitlich) ausbrechen
+jor.0i.VET	jori		NULL	schleudern	
+jor.0o	joro		NULL	NULL	NULL
+jor.0o.VET	joro		NULL	NULL	NULL
+jordan.J0o	Jordanio		NULL	Jordanien	
+jordan.J0o.GEOG	Jordanio		NULL	Jordanien	
+jordan.Okcidenta_0o	Okcidenta Jordanio		NULL	NULL	NULL
+jordan.j0a	jordania		NULL	jordanisch	
+jordan.j0a.GEOG	jordania		NULL	jordanisch	
+jordan.j0ano	jordaniano		NULL	Jordanier	
+jordan.j0ano.GEOG	jordaniano		NULL	Jordanier	
+jordan1.J0o	Jordano		NULL	NULL	NULL
+jordan1.J0o.EVI	Jordano	2	NULL	NULL	NULL
+jordan1.J0o.GEOG	Jordano	1	NULL	Jordan	
+jork.0o	Jorko		NULL	NULL	NULL
+jork.0o.GEOG	Jorko		NULL	NULL	NULL
+jork.nov0akciborso	Nov-Jorka Akciborso		NULL	NULL	NULL
+jork.nov0akciborso.EKON	Nov-Jorka Akciborso		NULL	New-Yorker Aktienbörse	
+jork.nov0akciborso.EKON	Nov-Jorka Akciborso		NULL	Aktienbörse New York	
+jork.nov0akciborso.EKON	Nov-Jorka Akciborso		NULL	Effektenbörse New York	
+jork.nov0anino	Nov-Jorkanino		NULL	NULL	NULL
+jork.nov0anino.popolanino	Nov-Jorkanino		NULL	NULL	NULL
+jork.nov0ano	Nov-Jorkano		ekz_37	NULL	NULL
+jork.nov0ano.popolano	Nov-Jorkano		ekz_37	NULL	NULL
+jork.nov0o	Nov-Jorko		ekz_37	NULL	NULL
+jork.nov0o	Novjorko		ekz_37	NULL	NULL
+jork.nov0o.GEOG_sxtato	Nov-Jorko	2	ekz_37	NULL	NULL
+jork.nov0o.GEOG_sxtato	Novjorko	2	ekz_37	NULL	NULL
+jork.nov0o.GEOG_urbo	Nov-Jorko	1	ekz_37	New York	
+jork.nov0o.GEOG_urbo	Novjorko	1	ekz_37	New York	
+jork.nov0o.GEOG_urbo	Nov-Jorko	1	ekz_37	Neu-York	Neu-York [ark]
+jork.nov0o.GEOG_urbo	Novjorko	1	ekz_37	Neu-York	Neu-York [ark]
+josu.0o	Josuo		NULL	NULL	NULL
+josu.0o.nomo	Josuo		NULL	Josua	
+jot.0o	joto		NULL	NULL	NULL
+jot.0o.LIN	joto		NULL	NULL	NULL
+jota.0	jota-		NULL	Yotta-	
+jota.0.MEZ	jota-		NULL	Yotta-	
+jovial.0a	joviala		NULL	jovial	
+jovial.0eco	jovialeco		NULL	Jovialität	
+jozef.0ino	Jozefino		NULL	Josefine	
+jozef.0ino.nomo	Jozefino		NULL	Josefine	
+jozef.0o	Jozefo		ekz_22	Josef	
+jozef.0o	Josefo		ekz_22	Josef	
+jozef.0o.BIB	Jozefo	2	ekz_22	Josef	
+jozef.0o.BIB	Josefo	2	ekz_22	Josef	
+jozef.0o.NOM	Jozefo	1	ekz_22	Josef	
+jozef.0o.NOM	Josefo	1	ekz_22	Josef	
+ju.0	ju		NULL	je	je (... desto)
+jubil.0e	jubile		NULL	jubilierend	
+jubil.0i	jubili		NULL	jubeln	
+jubil.0i	jubili		NULL	jubilieren	
+jubil.0o	jubilado		NULL	Jubel	
+jubil.0o	jubilo		NULL	Jubel	
+jubile.0a	jubilea		NULL	NULL	NULL
+jubile.0a.KAL	jubilea		NULL	NULL	NULL
+jubile.0o	jubileo		NULL	NULL	NULL
+jubile.0o.KAL	jubileo	1	NULL	Jubiläum	
+jubile.0o.KAL	jubileo	1	NULL	Gedenkfeier	
+jubile.0o.KAL	jubileo	1	NULL	Jahrestag	
+jubile.0o.KAT	jubileo	2	NULL	Halljahr	
+jubile.0o.KAT	jubileo	2	NULL	Erlassjahr	
+jubile.0o.KAT	jubileo	2	NULL	Heiliges Jahr	
+jubile.0o.KAT	jubileo	2	NULL	Jubeljahr	
+jud.0a	juda		NULL	jüdisch	
+jud.0aro	judaro		NULL	NULL	NULL
+jud.0ejo	judejo		NULL	Judenviertel	
+jud.0ejo	judkvartalo		NULL	Judenviertel	
+jud.0ejo.MOR	judejo		NULL	Judenviertel	
+jud.0ejo.MOR	judkvartalo		NULL	Judenviertel	
+jud.0ismo	judismo		NULL	Judaismus	
+jud.0ismo	judismo		NULL	jüdische Religion	
+jud.0ismo.REL	judismo		NULL	Judaismus	
+jud.0ismo.REL	judismo		NULL	jüdische Religion	
+jud.J0ujo	Judujo		NULL	NULL	NULL
+jud.J0ujo.GEOG	Judujo		NULL	NULL	NULL
+jud.kontraux0ismo	kontraŭjudismo		NULL	antijudaismus	
+jud.kontraux0ismo.MOR	kontraŭjudismo		NULL	antijudaismus	
+judais.0o	judaismo		NULL	Judaismus	
+judais.0o	judaismo		NULL	jüdische Religion	
+jude.0o	Judeo		NULL	NULL	NULL
+jude.0o.GEOG	Judeo		NULL	Judäa	
+juft.0o	jufto		NULL	NULL	NULL
+juft.0o.ledo	jufto		NULL	Juchtenleder	
+jug.0i	jugi		NULL	NULL	NULL
+jug.0i.FIG	jugi	2	NULL	unterjochen	
+jug.0i.propre	jugi	1	NULL	NULL	NULL
+jug.0o	jugo		NULL	Joch	
+jug.0o.areo	jugo	2	NULL	Joch	
+jug.sub0igi	subjugigi		NULL	unterjochen	
+juglan.0o	juglando		NULL	Walnuss	
+juglan.0ujo0arbo	juglandujo		NULL	Walnussbaum	
+juglan.0ujo0arbo	juglandarbo		NULL	Walnussbaum	
+juglan1.0oj	juglandujacoj		NULL	Walnussgewächse	
+juglan1.0oj	juglandacoj		NULL	Walnussgewächse	
+jugosla1.J0o	Jugoslavio		NULL	Jugoslawien	
+jugosla1.J0o.GEOG	Jugoslavio		NULL	Jugoslawien	
+jugoslav.0a	jugoslava		NULL	jugoslawisch	
+jugoslav.0o	jugoslavo		NULL	Jugoslawe	
+jugoslav.J0ujo	Jugoslavujo		NULL	Jugoslawien	
+jugoslav.J0ujo.GEOG	Jugoslavujo		NULL	Jugoslawien	
+jugx.0a	juĝa		NULL	NULL	NULL
+jugx.0aafero	juĝa afero		NULL	Gerichtssache	
+jugx.0aafero.JUR	juĝa afero		NULL	Gerichtssache	
+jugx.0ejo	juĝejo		NULL	Gericht	
+jugx.0ejo.JUR	juĝejo		NULL	Gericht	
+jugx.0i	juĝi		ekz_22	NULL	NULL
+jugx.0i.JUR	juĝi	1	ekz_22	urteilen	
+jugx.0i.JUR	juĝi	1	ekz_22	richten	
+jugx.0i.taksi	juĝi	2	ekz_22	beurteilen	
+jugx.0i.taksi	juĝi	2	ekz_22	einschätzen	
+jugx.0i.taksi	juĝi	2	ekz_22	rezensieren	
+jugx.0isto	juĝisto		NULL	Richter	
+jugx.0isto.JUR	juĝisto		NULL	Richter	
+jugx.0o	juĝo		NULL	Urteil	
+jugx.0o	juĝo		NULL	Beurteilung	
+jugx.0o.ago	juĝo	1	NULL	Urteil	
+jugx.0o.ago	juĝo	1	NULL	Beurteilung	
+jugx.0o.opinio	juĝo	2	NULL	Urteil	
+jugx.0o.opinio	juĝo	2	NULL	Beurteilung	
+jugx.0okostoj	juĝokostoj		NULL	Gerichtskosten	
+jugx.al0i	aljuĝi		NULL	zuerkennen	
+jugx.al0i	aljuĝi		NULL	zusprechen	
+jugx.al0i	aljuĝi		NULL	verleihen	verleihen (Preis)
+jugx.antaux0i	antaŭjuĝi		NULL	vorverurteilen	
+jugx.antaux0o	antaŭjuĝo		NULL	Vorurteil	
+jugx.antaux0o.KOMUNE	antaŭjuĝo		NULL	Vorurteil	
+jugx.mis0i	misjuĝi		NULL	urteilen	falsch urteilen
+jugx.mis0i.KOMUNE	misjuĝi		NULL	urteilen	falsch urteilen
+jugx.pri0i	prijuĝi		NULL	beurteilen	
+jugx.pri0i.KOMUNE	prijuĝi		NULL	beurteilen	
+jugx.senantaux0a	senantaŭjuĝa		NULL	vorurteilsfrei	
+jugx.senantaux0a	senantaŭjuĝa		NULL	unparteiisch	
+jugx.senantaux0a	senantaŭjuĝa		NULL	unvoreingenommen	
+jugx.senantaux0a	senantaŭjuĝa		NULL	unbefangen	
+jugx.senantaux0a	senantaŭjuĝa		NULL	objektiv	
+jugx.senantaux0a	senantaŭjuĝa		NULL	sachlich	
+jugx.senantaux0a.KOMUNE	senantaŭjuĝa		NULL	vorurteilsfrei	
+jugx.senantaux0a.KOMUNE	senantaŭjuĝa		NULL	unparteiisch	
+jugx.senantaux0a.KOMUNE	senantaŭjuĝa		NULL	unvoreingenommen	
+jugx.senantaux0a.KOMUNE	senantaŭjuĝa		NULL	unbefangen	
+jugx.senantaux0a.KOMUNE	senantaŭjuĝa		NULL	objektiv	
+jugx.senantaux0a.KOMUNE	senantaŭjuĝa		NULL	sachlich	
+jujub.0arbo0ujo	jujubujo		NULL	Jujubenbaum	
+jujub.0arbo0ujo	jujubarbo		NULL	Jujubenbaum	
+jujub.0arbo0ujo	jujubujo		NULL	Judendorn	
+jujub.0arbo0ujo	jujubarbo		NULL	Judendorn	
+jujub.0o	jujubo		NULL	NULL	NULL
+jujub.0o.BOT	jujubo		NULL	Jujube	
+jujub.0o.BOT	jujubo		NULL	rote Brustbeere	
+juk.0a	juka		NULL	juckend	
+juk.0a	juka		NULL	kratzig	
+juk.0a.KOMUNE	juka		NULL	juckend	
+juk.0a.KOMUNE	juka		NULL	kratzig	
+juk.0i	juki		NULL	jucken	
+juk.0i.KOMUNE	juki	1	NULL	jucken	
+juk.0i.tenti	juki	2	NULL	jucken	
+juk.0o	juko		NULL	Jucken	
+juk.0o.KOMUNE	juko		NULL	Jucken	
+juka.0o	jukao		NULL	NULL	NULL
+juka.0o.BOT	jukao		NULL	NULL	NULL
+jukon.0o	Jukono		NULL	Yukon-Fluss	
+jul.0o	Julo		NULL	Julfest	
+jul.0o.KAL	Julo		NULL	Julfest	
+juli.0a	julia		NULL	NULL	NULL
+juli.0o	Julio		NULL	Juli	
+juli.0o	julio		NULL	Juli	
+juli.0o.KAL	Julio		NULL	Juli	
+juli.0o.KAL	julio		NULL	Juli	
+juli1.0o	Julio		NULL	Julius	
+juli1.0o.NOM	Julio		NULL	Julius	
+jun.0a	juna		ekz_10	jung	
+jun.0a	juna		ekz_37	jung	
+jun.0a.junagxa	juna	1	ekz_10	jung	
+jun.0a.junagxa	juna	1	ekz_37	jung	
+jun.0a.juneska	juna	2	ekz_10	jung	
+jun.0a.juneska	juna	2	ekz_37	jung	
+jun.0a.nematura	juna	3	ekz_10	jung	
+jun.0a.nematura	juna	3	ekz_37	jung	
+jun.0e	june		NULL	NULL	NULL
+jun.0e.KOMUNE	june		NULL	NULL	NULL
+jun.0eca	juneca		NULL	NULL	NULL
+jun.0eca.KOMUNE	juneca		NULL	NULL	NULL
+jun.0eco	juneco		NULL	Jugend	
+jun.0eco.KOMUNE	juneco		NULL	Jugend	
+jun.0ularo	junularo		NULL	Jugend	
+jun.0ularo.KOMUNE	junularo		NULL	Jugend	
+jun.0ulo	junulo		uv_U	Jugendliche(r)	
+jun.0ulo	junulo		ekz_37	Jugendliche(r)	
+jun.0ulo.KOMUNE	junulo		uv_U	Jugendliche(r)	
+jun.0ulo.KOMUNE	junulo		ekz_37	Jugendliche(r)	
+jun.mal0a	maljuna		uv_U	alt	
+jun.mal0a.KOMUNE	maljuna		uv_U	alt	
+jun.mal0eco	maljuneco		NULL	Alter	
+jun.mal0eco.KOMUNE	maljuneco		NULL	Alter	
+jun.mal0igxi	maljuniĝi		NULL	altern	
+jun.mal0igxi.KOMUNE	maljuniĝi		NULL	altern	
+jun.mal0ulo	maljunulo		uv_U	Alter	
+jun.mal0ulo.KOMUNE	maljunulo		uv_U	Alter	
+junan.0o	Junano		NULL	NULL	NULL
+jung.0ajxo	jungaĵo		NULL	NULL	NULL
+jung.0ajxo.ilaro	jungaĵo	1	NULL	Geschirr	
+jung.0ajxo.jungitaro	jungaĵo	2	NULL	Gespann	
+jung.0i	jungi		NULL	einspannen	
+jung.0i	jungi		NULL	anschirren	
+jung.0i	jungi		NULL	vorspannen	
+jung.0i.RAJ	jungi	1	NULL	einspannen	
+jung.0i.RAJ	jungi	1	NULL	anschirren	
+jung.0i.RAJ	jungi	1	NULL	vorspannen	
+jung.0i.movaton	jungi	2	NULL	einspannen	
+jung.0i.movaton	jungi	2	NULL	anschirren	
+jung.0i.movaton	jungi	2	NULL	vorspannen	
+jung.0ilaro	jungilaro		NULL	NULL	NULL
+jung.0ilaro	jungiloj		NULL	NULL	NULL
+jung.0ilaro.RAJ	jungilaro		NULL	Zaumzeug	
+jung.0ilaro.RAJ	jungiloj		NULL	Zaumzeug	
+jung.0ilaro.RAJ	jungilaro		NULL	Pferdegeschirr	
+jung.0ilaro.RAJ	jungiloj		NULL	Pferdegeschirr	
+jung.0ilaro.RAJ	jungilaro		NULL	Geschirre	
+jung.0ilaro.RAJ	jungiloj		NULL	Geschirre	
+jung.0itaro	jungitaro		NULL	NULL	NULL
+jung.0itaro.RAJ	jungitaro		NULL	Gespann	
+jung.mal0i	maljungi		NULL	ausspannen	
+jung.mal0i.RAJ	maljungi		NULL	ausspannen	
+jung.pri0i	prijungi		NULL	NULL	NULL
+jung.pri0i.provizi	prijungi		NULL	NULL	NULL
+juni.0a	junia		NULL	NULL	NULL
+juni.0o	Junio		NULL	Juni	
+juni.0o	junio		NULL	Juni	
+juni.0o.KAL	Junio		NULL	Juni	
+juni.0o.KAL	junio		NULL	Juni	
+junipe.0o	junipero		NULL	Wacholder	
+junipe.0o.BOT	junipero		NULL	Wacholder	
+junk.0o	junko		NULL	Binse	
+junk.0o.BOT	junko		NULL	Binse	
+junkac.0oj	junkacoj		NULL	Binsengewächse	
+junkr.0o	junkro		NULL	Junker	
+junt.0o	junto		NULL	Fuge	
+junt.0o	junto		NULL	Junktur	
+junt.0o	junto		NULL	Naht	
+junt.0o	junto		NULL	Stoß	
+junt.0o	junto		NULL	Verbindung	
+junt.0o	junto		NULL	Schnittstelle	
+junt.0o.ilo	junto	1	NULL	Fuge	
+junt.0o.ilo	junto	1	NULL	Junktur	
+junt.0o.ilo	junto	1	NULL	Naht	
+junt.0o.ilo	junto	1	NULL	Stoß	
+junt.0o.ilo	junto	1	NULL	Verbindung	
+junt.0o.ilo	junto	1	NULL	Schnittstelle	
+junt.0o.kunigo	junto	2	NULL	Fuge	
+junt.0o.kunigo	junto	2	NULL	Junktur	
+junt.0o.kunigo	junto	2	NULL	Naht	
+junt.0o.kunigo	junto	2	NULL	Stoß	
+junt.0o.kunigo	junto	2	NULL	Verbindung	
+junt.0o.kunigo	junto	2	NULL	Schnittstelle	
+junulicx.0o	junuliĉo		NULL	NULL	NULL
+jup.0o	jupo		NULL	Rock	
+jup.0o.TEKS	jupo		NULL	Rock	
+jup.sub0o	subjupo		NULL	Unterrock	
+jup.sub0o.TEKS	subjupo		NULL	Unterrock	
+jupiter.0o	Jupitero		NULL	Jupiter	
+jupiter.0o.mita	Jupitero	1	NULL	Jupiter	
+jur.0a	jura		NULL	NULL	NULL
+jur.0a.JUR	jura	2	NULL	juristisch	
+jur.0a.KOMUNE	jura	1	NULL	rechtlich	
+jur.0isto	juristo		ekz_4	Jurist	
+jur.0isto.JUR	juristo		ekz_4	Jurist	
+jur.0o	juro		ekz_4	Recht	
+jur.0o.JUR	juro		ekz_4	Recht	
+jur.0oscienco	juroscienco		NULL	Rechtswissenschaft	
+jur.0oscienco	juroscienco		NULL	Jura	
+jur.0oscienco.SCI	juroscienco		NULL	Rechtswissenschaft	
+jur.0oscienco.SCI	juroscienco		NULL	Jura	
+jur.internacia_0o	internacia juro		NULL	Völkerrecht	
+jur.internacia_0o	internacia publika juro		NULL	Völkerrecht	
+jur.kanona_0o	kanona juro		NULL	kanonisches Recht	
+jur.kutim0o	kutimjuro		NULL	Gewohnheitsrecht	
+jur.natura_0o	natura juro		NULL	natürliches Recht	
+jur.roma_0o	roma juro		NULL	römisches Recht	
+jur.roma_0o	romana juro		NULL	römisches Recht	
+jurisdikci.0o	jurisdikcio		NULL	NULL	NULL
+jurisdikci.0o.JUR	jurisdikcio	1	NULL	Jurisdiktion	
+jurisdikci.0o.potenco	jurisdikcio	2	NULL	rechtsprechende Gewalt	
+jurisdikci.0o.potenco	jurisdikcio	2	NULL	Judikative	
+jurisprudenc.0o	jurisprudenco		NULL	Rechtswissenschaft	
+jurisprudenc.0o	jurisprudenco		NULL	Jurisprudenz	
+jurisprudenc.0o.JUR	jurisprudenco	1	NULL	Rechtswissenschaft	
+jurisprudenc.0o.JUR	jurisprudenco	1	NULL	Jurisprudenz	
+jurisprudenc.0o.SCI	jurisprudenco	2	NULL	Rechtswissenschaft	
+jurisprudenc.0o.SCI	jurisprudenco	2	NULL	Jurisprudenz	
+jurt.0o	jurto		NULL	Jurte	
+jurt.0o.ARKI	jurto		NULL	Jurte	
+just.0a	justa		NULL	recht	
+just.0a	justa		NULL	gerecht	
+just.0eco	justeco		NULL	Gerechtigkeit	
+just.mal0a	maljusta		NULL	unrecht	
+just.mal0a	maljusta		NULL	ungerecht	
+just.mal0ajxo	maljustaĵo		NULL	Unrecht	
+just.mal0eco	maljusteco		NULL	Ungerechtigkeit	
+justen.0o	Justeno		NULL	NULL	NULL
+justen.0o.NOM	Justeno		NULL	NULL	NULL
+justic.0o	justico		NULL	Justiz	
+justic.0o.JUR	justico		NULL	Justiz	
+justinian.0o	Justiniano		NULL	Justinian	
+justinian.0o.NOM	Justiniano	1	NULL	Justinian	
+justinian.0o.PERS	Justiniano	2	NULL	Justinian	
+jut.0o	juto		NULL	Jute	
+jut.0o	juto		NULL	Jutefaser	
+jut.0o	juto		NULL	Bastfaser	
+jut.0o	juto		NULL	Bastgewebe	
+jut.0o.BOT	juto	2	NULL	Jute	
+jut.0o.BOT	juto	2	NULL	Jute	
+jut.0o.BOT	juto	2	NULL	Jutefaser	
+jut.0o.BOT	juto	2	NULL	Bastfaser	
+jut.0o.BOT	juto	2	NULL	Bastgewebe	
+jut.0o.TEKS	juto	1	NULL	Jute	
+jut.0o.TEKS	juto	1	NULL	Jutefaser	
+jut.0o.TEKS	juto	1	NULL	Bastfaser	
+jut.0o.TEKS	juto	1	NULL	Bastgewebe	
+jutub.0o	Jutubo		NULL	NULL	NULL
+jutub.0o.RET	Jutubo		NULL	NULL	NULL
+juvel.0ejo	juvelejo		NULL	Juwelierladen	
+juvel.0ejo	juvelejo		NULL	Juweliergeschäft	
+juvel.0ejo	juvelejo		NULL	Schmuckgeschäft	
+juvel.0ejo.vendejo	juvelejo		NULL	Juwelierladen	
+juvel.0ejo.vendejo	juvelejo		NULL	Juweliergeschäft	
+juvel.0ejo.vendejo	juvelejo		NULL	Schmuckgeschäft	
+juvel.0isto	juvelisto		NULL	Juwelier	
+juvel.0isto	juvelisto		NULL	Schmuckhändler	
+juvel.0isto.KOMUNE	juvelisto		NULL	Juwelier	
+juvel.0isto.KOMUNE	juvelisto		NULL	Schmuckhändler	
+juvel.0o	juvelo		NULL	Juwel	
+juvel.0o	juvelo		NULL	Kleinod	
+juvel.0o	juvelo		NULL	Schmuckstück	
+juvel.0o.BELA	juvelo	1	NULL	Juwel	
+juvel.0o.BELA	juvelo	1	NULL	Kleinod	
+juvel.0o.BELA	juvelo	1	NULL	Schmuckstück	
+juvel.0o.FIG	juvelo	2	NULL	Juwel	
+juvel.0o.FIG	juvelo	2	NULL	Kleinod	
+juvel.0o.FIG	juvelo	2	NULL	Schmuckstück	
+juvel.0ujo	juvelujo		NULL	Juwelenkästchen	
+juvel.0ujo	juvelujo		NULL	Schmuckkästchen	
+juvel.0ujo	juvelujo		NULL	Schmuckschatulle	
+juvel.0ujo.MIN	juvelujo		NULL	Juwelenkästchen	
+juvel.0ujo.MIN	juvelujo		NULL	Schmuckkästchen	
+juvel.0ujo.MIN	juvelujo		NULL	Schmuckschatulle	
+jx.0	ĵo		oa_7	NULL	NULL
+jxabot.0o	ĵaboto		NULL	Jabot	
+jxabot.0o	ĵaboto		NULL	Rüschenhemdkrause	
+jxabot.0o.TEKS	ĵaboto		NULL	Jabot	
+jxabot.0o.TEKS	ĵaboto		NULL	Rüschenhemdkrause	
+jxabutikab.0arbo	ĵabutikabarbo		NULL	NULL	NULL
+jxabutikab.0arbo	ĵabutikabujo		NULL	NULL	NULL
+jxabutikab.0arbo.BOT	ĵabutikabarbo		NULL	NULL	NULL
+jxabutikab.0arbo.BOT	ĵabutikabujo		NULL	NULL	NULL
+jxabutikab.0o	ĵabutikabo		NULL	NULL	NULL
+jxabutikab.0o.KUI	ĵabutikabo		NULL	NULL	NULL
+jxak.0o	ĵako		NULL	Sakko	
+jxak.0o	ĵako		NULL	Jackett	
+jxak1.0o	ĵako		NULL	NULL	NULL
+jxak1.0o.sxtopilingo	ĵako	2	NULL	Buchse	
+jxak1.0o.sxtopilo	ĵako	1	NULL	Klinke	Klinke (Stecker)
+jxak1.0o.sxtopilo	ĵako	1	NULL	Stöpsel	
+jxaket.0o	ĵaketo		NULL	NULL	NULL
+jxaket.0o.vira	ĵaketo	1	NULL	Cut	
+jxaket.0o.virina	ĵaketo	2	NULL	Damenjackett	
+jxaluz.0a	ĵaluza		NULL	eifersüchtig	
+jxaluz.0a.PSI_KOMUNE	ĵaluza	1	NULL	eifersüchtig	
+jxaluz.0a.PSI_ame	ĵaluza	2	NULL	eifersüchtig	
+jxaluz.0i	ĵaluzi		NULL	eifersüchtig sein	
+jxaluz.0i.KOMUNE	ĵaluzi		NULL	eifersüchtig sein	
+jxaluz.0o	ĵaluzo		NULL	Eifersucht	
+jxaluz.0o.KOMUNE	ĵaluzo		NULL	Eifersucht	
+jxaluzi.0o	ĵaluzio		NULL	Jalousie	
+jxaluzi.0o.ARKI	ĵaluzio		NULL	Jalousie	
+jxam.0i	ĵami		NULL	NULL	NULL
+jxam.0i.TEL	ĵami		NULL	NULL	NULL
+jxambo.0o	ĵamboreo		NULL	Pfadfinderkongress	
+jxargo.0o	ĵargono		NULL	NULL	NULL
+jxargo.0o.pigxino	ĵargono	2	NULL	Pidgin	
+jxargo.0o.pigxino	ĵargono	2	NULL	Lingua Franca	
+jxargo.0o.socia	ĵargono	1	NULL	Jargon	
+jxartel.0o	ĵartelo		NULL	Straps	
+jxaz.0isto	ĵazisto		NULL	Jazz-Musiker	
+jxaz.0isto	ĵazisto		NULL	Jazzer	
+jxaz.0o	ĵazo		oa_9	Jazz	
+jxaz.0o	ĝazo		oa_9	Jazz	
+jxaz.novorleana0o	Nov-Orleana ĵazo		NULL	New-Orleans-Jazz	
+jxele.0o	ĵeleo		NULL	Gelee	
+jxele.0o.KUI	ĵeleo		NULL	Gelee	
+jxerz.0o	ĵerzo		NULL	NULL	NULL
+jxerz.0o.TEKS_sxtofo	ĵerzo	1	NULL	Jersey	Jersey (Stoff)
+jxerz.0o.TEKS_vesto	ĵerzo	2	NULL	NULL	NULL
+jxerzej.0o	Ĵerzejo		NULL	NULL	NULL
+jxerzej.0o.GEOG	Ĵerzejo		NULL	NULL	NULL
+jxerzej.nov0o	Novĵerzejo		NULL	NULL	NULL
+jxerzej.nov0o.GEOG	Novĵerzejo		NULL	NULL	NULL
+jxet.0egi	ĵetegi		NULL	reißen	reißen (werfen)
+jxet.0egi.KOMUNE	ĵetegi		NULL	reißen	reißen (werfen)
+jxet.0i	ĵeti		ekz_14	werfen	
+jxet.0i	ĵeti		ekz_14	schmeißen	
+jxet.0i.MAT	ĵeti	5	ekz_14	abbilden	abbilden (auf)
+jxet.0i.MAT	ĵeti	5	ekz_14	mappen	mappen (auf)
+jxet.0i.MAT	ĵeti	5	ekz_14	werfen	
+jxet.0i.MAT	ĵeti	5	ekz_14	schmeißen	
+jxet.0i.agon	ĵeti	3	ekz_14	werfen	
+jxet.0i.agon	ĵeti	3	ekz_14	schmeißen	
+jxet.0i.pusxi	ĵeti	4	ekz_14	werfen	
+jxet.0i.pusxi	ĵeti	4	ekz_14	schmeißen	
+jxet.0i.sia_korpo	ĵeti	2	ekz_14	werfen	
+jxet.0i.sia_korpo	ĵeti	2	ekz_14	schmeißen	
+jxet.0i.tra_aero	ĵeti	1	ekz_14	werfen	
+jxet.0i.tra_aero	ĵeti	1	ekz_14	schmeißen	
+jxet.0igxadi	ĵetiĝadi		NULL	schütteln	sich schütteln
+jxet.0igxadi.KOMUNE	ĵetiĝadi		NULL	schütteln	sich schütteln
+jxet.0igxi	ĵetiĝi		NULL	NULL	NULL
+jxet.0igxi.KOMUNE	ĵetiĝi		NULL	NULL	NULL
+jxet.0o	ĵeto		NULL	NULL	NULL
+jxet.0o.MAT	ĵeto	2	NULL	Abbildung	
+jxet.0o.ago	ĵeto	1	NULL	Wurf	
+jxet.akvo0ilo	akvoĵetilo		NULL	Wasserwerfer	
+jxet.akvo0ilo.MAS	akvoĵetilo		NULL	Wasserwerfer	
+jxet.de0i	deĵeti		NULL	abwerfen	
+jxet.de0i	deĵeti		NULL	abschütteln	
+jxet.de0i	deĵeti		NULL	werfen	herunter werfen
+jxet.de0i.KOMUNE	deĵeti		NULL	abwerfen	
+jxet.de0i.KOMUNE	deĵeti		NULL	abschütteln	
+jxet.de0i.KOMUNE	deĵeti		NULL	werfen	herunter werfen
+jxet.dis0a	disĵeta		NULL	NULL	NULL
+jxet.dis0a.MAT	disĵeta		NULL	injektiv	
+jxet.dis0i	disĵeti		NULL	streuen	
+jxet.dis0i	disĵeti		NULL	verstreuen	
+jxet.dis0i	disĵeti		NULL	umherwerfen	
+jxet.dis0i	disĵeti		NULL	werfen	um sich werfen
+jxet.dis0i.KOMUNE	disĵeti		NULL	streuen	
+jxet.dis0i.KOMUNE	disĵeti		NULL	verstreuen	
+jxet.dis0i.KOMUNE	disĵeti		NULL	umherwerfen	
+jxet.dis0i.KOMUNE	disĵeti		NULL	werfen	um sich werfen
+jxet.dis0o	disĵeto		NULL	NULL	NULL
+jxet.dis0o.MAT	disĵeto		NULL	Injektion	
+jxet.dissur0a	dissurĵeta		NULL	bijektiv	
+jxet.dissur0a	dissurĵeta		NULL	eineindeutig	
+jxet.dissur0o	dissurĵeto		NULL	Bijektion	
+jxet.ek0i	ekĵeti		NULL	NULL	NULL
+jxet.ek0i.KOMUNE	ekĵeti		NULL	NULL	NULL
+jxet.el0ajxo	elĵetaĵo		NULL	Abfall	
+jxet.el0ajxo	forĵetaĵo		NULL	Abfall	
+jxet.el0ajxo	forĵetindaĵo		NULL	Abfall	
+jxet.el0ajxo	elĵetaĵo		NULL	Auswurf	
+jxet.el0ajxo	forĵetaĵo		NULL	Auswurf	
+jxet.el0ajxo	forĵetindaĵo		NULL	Auswurf	
+jxet.el0ajxo.KOMUNE	elĵetaĵo		NULL	Abfall	
+jxet.el0ajxo.KOMUNE	forĵetaĵo		NULL	Abfall	
+jxet.el0ajxo.KOMUNE	forĵetindaĵo		NULL	Abfall	
+jxet.el0ajxo.KOMUNE	elĵetaĵo		NULL	Auswurf	
+jxet.el0ajxo.KOMUNE	forĵetaĵo		NULL	Auswurf	
+jxet.el0ajxo.KOMUNE	forĵetindaĵo		NULL	Auswurf	
+jxet.el0i	elĵeti		NULL	werfen	hinaus werfen
+jxet.el0i	elĵeti		NULL	auswerfen	
+jxet.el0i	elĵeti		NULL	entfernen	
+jxet.el0i.KOMUNE	elĵeti		NULL	werfen	hinaus werfen
+jxet.el0i.KOMUNE	elĵeti		NULL	auswerfen	
+jxet.el0i.KOMUNE	elĵeti		NULL	entfernen	
+jxet.el0ulo	elĵetulo		NULL	Ausgestossener	Ausgestossener (aus Gesellschaft)
+jxet.el0ulo	elĵetulo		NULL	Bettler	
+jxet.el0ulo.KOMUNE	elĵetulo		NULL	Ausgestossener	Ausgestossener (aus Gesellschaft)
+jxet.el0ulo.KOMUNE	elĵetulo		NULL	Bettler	
+jxet.en0a	enĵeta		NULL	NULL	NULL
+jxet.en0a.MAT	enĵeta		NULL	NULL	NULL
+jxet.en0o	enĵeto		NULL	NULL	NULL
+jxet.en0o.MAT	enĵeto		NULL	NULL	NULL
+jxet.for0ajxo	forĵetaĵo		NULL	Abfall	
+jxet.for0i	forĵeti		NULL	wegwerfen	
+jxet.for0i	forĵeti		NULL	verwerfen	
+jxet.for0i.KOMUNE	forĵeti		NULL	wegwerfen	
+jxet.for0i.KOMUNE	forĵeti		NULL	verwerfen	
+jxet.for0inda	forĵetinda		NULL	überflüssig	
+jxet.for0inda	forĵetinda		NULL	unnütz	
+jxet.for0inda	forĵetinda		NULL	wertlos	
+jxet.for0inda.KOMUNE	forĵetinda		NULL	überflüssig	
+jxet.for0inda.KOMUNE	forĵetinda		NULL	unnütz	
+jxet.for0inda.KOMUNE	forĵetinda		NULL	wertlos	
+jxet.sur0a	surĵeta		NULL	surjektiv	
+jxet.sur0i	surĵeti		NULL	überwerfen	
+jxet.sur0o	surĵeto		NULL	Surjektion	
+jxet.sxton0ilo	ŝtonĵetilo		NULL	schleuder	Steinschleuder
+jxet.sxton0o	ŝtonĵeto		NULL	Steinwurf	
+jxeton.0o	ĵetono		NULL	Jeton	Jeton (Spielmarke)
+jxeton.0o.KOMUNE	ĵetono		NULL	Jeton	Jeton (Spielmarke)
+jxib.0o	ĵibo		NULL	Klüver	
+jxib.0o.SHI	ĵibo		NULL	Klüver	
+jxig.0o	ĵigo		NULL	NULL	NULL
+jxig.0o	ĝigo		NULL	NULL	NULL
+jxig.0o.danco	ĵigo	1	NULL	Jig	
+jxig.0o.danco	ĝigo	1	NULL	Jig	
+jxig.0o.muzikajxo	ĵigo	2	NULL	Gigue	
+jxig.0o.muzikajxo	ĝigo	2	NULL	Gigue	
+jxig1.0o	ĵigo		NULL	Puzzle	
+jxig1.0o.puzlo	ĵigo		NULL	Puzzle	
+jxip.0o	ĵipo		NULL	Geländewagen	
+jxip.0o	ĵipo		NULL	Kübelwagen	Kübelwagen [ark]
+jxip.0o.AUT	ĵipo		NULL	Geländewagen	
+jxip.0o.AUT	ĵipo		NULL	Kübelwagen	Kübelwagen [ark]
+jxoke.0o	ĵokeo		oa_9	NULL	NULL
+jxoke.0o.MUZ	ĵokeo	2	oa_9	Discjockey	
+jxoke.0o.MUZ	ĵokeo	2	oa_9	DJ	
+jxoke.0o.SPO	ĵokeo	1	oa_9	Jockey	
+jxoke.0o.SPO	ĵokeo	1	oa_9	Berufsrennreiter	
+jxoker.0o	ĵokero		NULL	Joker	
+jxoker.0o.KOMP	ĵokero	2	NULL	Wildcard	Wildcard (Informatik)
+jxoker.0o.KOMP	ĵokero	2	NULL	Platzhalter	
+jxoker.0o.KOMP	ĵokero	2	NULL	Joker	
+jxoker.0o.karto	ĵokero	1	NULL	Joker	
+jxoker.0o.karto	ĵokero	1	NULL	Joker	
+jxongl.0i	ĵongli		NULL	jonglieren	
+jxongl.0i	ĵongli		NULL	gaukeln	
+jxongl.0i.FIG	ĵongli	2	NULL	jonglieren	
+jxongl.0i.FIG	ĵongli	2	NULL	gaukeln	
+jxongl.0i.SPO	ĵongli	1	NULL	jonglieren	
+jxongl.0i.SPO	ĵongli	1	NULL	gaukeln	
+jxongl.0isto	ĵonglisto		NULL	Jongleur	
+jxongl.0isto	ĵonglisto		NULL	Gaukler	
+jxongl.0isto.FIG	ĵonglisto	2	NULL	Jongleur	
+jxongl.0isto.FIG	ĵonglisto	2	NULL	Gaukler	
+jxongl.0isto.SPO	ĵonglisto	1	NULL	Jongleur	
+jxongl.0isto.SPO	ĵonglisto	1	NULL	Gaukler	
+jxongl.for0i	forĵongli		NULL	NULL	NULL
+jxongl.for0i.KOMUNE	forĵongli		NULL	wegzaubern	
+jxub.0o	Ĵubo		NULL	Juba	
+jxud.0isto	ĵudisto		NULL	Judoka	
+jxud.0o	ĵudo		oa_9	Judo	
+jxujxu.0o	ĵuĵuo		NULL	Pillepalle	
+jxujxu.0o	ĵuĵuo		NULL	Tand	
+jxujxu.0o.KOMUNE	ĵuĵuo		NULL	Pillepalle	
+jxujxu.0o.KOMUNE	ĵuĵuo		NULL	Tand	
+jxul.0o	Ĵulo		NULL	Joule	
+jxul.jx0o	ĵulo		NULL	Joule	
+jxur.0a	ĵura		NULL	beschworen	
+jxur.0i	ĵuri		NULL	schwören	
+jxur.0i	ĵuri		NULL	beeiden	
+jxur.0igi	ĵurigi		NULL	vereidigen	
+jxur.0igi	ĵurligi		NULL	vereidigen	
+jxur.0igi	ĵurigi		NULL	Eid	einen Eid abnehmen
+jxur.0igi	ĵurligi		NULL	Eid	einen Eid abnehmen
+jxur.0igi	ĵurigi		NULL	einschwören	
+jxur.0igi	ĵurligi		NULL	einschwören	
+jxur.0o	ĵuro		NULL	Schwur	
+jxur.0o	ĵuro		NULL	Eid	
+jxur.0peti	ĵurpeti		NULL	beschwören	
+jxur.0rompo	ĵurrompo		NULL	Meineid	
+jxur.0rompo	ĵurrompo		NULL	Brechen	Brechen eines Schwures
+jxur.je0i	jeĵuri		NULL	beschwören	
+jxur.kun0i	kunĵuri		NULL	verschwören	sich verschwören
+jxuras.0o	ĵuraso		NULL	Jura	
+jxuras.0o.GEOG	ĵuraso		NULL	Jura	
+jxuras.0o.GEOL	ĵuraso		NULL	Jura	
+jxuras.Jx0o	Ĵuraso		NULL	Jura	
+jxuri.0ano	ĵuriano		NULL	NULL	NULL
+jxuri.0ano.JUR	ĵuriano		NULL	NULL	NULL
+jxuri.0o	ĵurio		NULL	Jury	
+jxuri.0o.JUR	ĵurio	1	NULL	Jury	
+jxuri.0o.SPO	ĵurio	2	NULL	Jury	
+jxurna.0ismo	ĵurnalismo		NULL	Journalismus	
+jxurna.0ismo.INF	ĵurnalismo		NULL	Journalismus	
+jxurna.0isto	ĵurnalisto		NULL	Journalist	
+jxurna.0isto.INF	ĵurnalisto		NULL	Journalist	
+jxurna.0o	ĵurnalo		ekz_2	NULL	NULL
+jxurna.0o.INF	ĵurnalo	2	ekz_2	Journal	
+jxurna.0o.INF	ĵurnalo	2	ekz_2	Nachrichtensendung	
+jxurna.0o.TIP	ĵurnalo	1	ekz_2	Tageszeitung	
+jxurna.esplor0isto	esplorĵurnalisto		NULL	Investigativjournalist	
+jxurna.esplor0isto.INF	esplorĵurnalisto		NULL	Investigativjournalist	
+jxurna.foto0isto	fotoĵurnalisto		NULL	Fotoreporter	
+jxurna.foto0isto	fotoĵurnalisto		NULL	Fotojournalist	
+jxurna.foto0isto.INF	fotoĵurnalisto		NULL	Fotoreporter	
+jxurna.foto0isto.INF	fotoĵurnalisto		NULL	Fotojournalist	
+jxurnalistik.0o	ĵurnalistiko		NULL	NULL	NULL
+jxurnalistik.0o.INF	ĵurnalistiko		NULL	NULL	NULL
+jxus.0	ĵus		uv_J	soeben	
+jxus.0	ĵus		akkor_en	soeben	
+jxus.0	ĵus		akkor_de	soeben	
+jxus.0	ĵus		uv_J	gerade	gerade (vor einem Moment)
+jxus.0	ĵus		akkor_en	gerade	gerade (vor einem Moment)
+jxus.0	ĵus		akkor_de	gerade	gerade (vor einem Moment)
+jxus.0	ĵus		uv_J	Augenblick	einen Augenblick zuvor
+jxus.0	ĵus		akkor_en	Augenblick	einen Augenblick zuvor
+jxus.0	ĵus		akkor_de	Augenblick	einen Augenblick zuvor
+jxus.0	ĵus		uv_J	Moment	einen Moment zuvor
+jxus.0	ĵus		akkor_en	Moment	einen Moment zuvor
+jxus.0	ĵus		akkor_de	Moment	einen Moment zuvor
+jxus.0a	ĵusa		NULL	jüngste	jüngste (kurz zuvor)
+jxus.0a	ĵusa		NULL	letzte	letzte (kurz zuvor)

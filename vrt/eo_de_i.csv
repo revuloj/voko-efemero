@@ -1,0 +1,3328 @@
+#mrk	kap	num	dos	ind	trd
+i.0	-i		NULL	-ien	-ien (Suffix für Land)
+i.0	-i		NULL	-ei	-ei (Suffix für Land)
+i.0	-i		NULL	-en	-en (Suffix für Land)
+i.0.sufikso	-i		NULL	-ien	-ien (Suffix für Land)
+i.0.sufikso	-i		NULL	-ei	-ei (Suffix für Land)
+i.0.sufikso	-i		NULL	-en	-en (Suffix für Land)
+i1.0	-i		NULL	NULL	NULL
+i1.0.finajxo	-i		NULL	-en	-en (Infinitiv)
+i2.0	i		gra_fr	NULL	NULL
+i2.0	i		gra_en	NULL	NULL
+i2.0	i		gra_de	NULL	NULL
+i2.0	i		gra_ru	NULL	NULL
+i2.0	i		gra_pl	NULL	NULL
+i2.0	i		ekz_7	NULL	NULL
+i2.0	i		uv_I	NULL	NULL
+i2.0	i		oa_7	NULL	NULL
+i2.0.vokalo	i		gra_fr	NULL	NULL
+i2.0.vokalo	i		gra_en	NULL	NULL
+i2.0.vokalo	i		gra_de	NULL	NULL
+i2.0.vokalo	i		gra_ru	NULL	NULL
+i2.0.vokalo	i		gra_pl	NULL	NULL
+i2.0.vokalo	i		ekz_7	NULL	NULL
+i2.0.vokalo	i		uv_I	NULL	NULL
+i2.0.vokalo	i		oa_7	NULL	NULL
+i2.0_greka	i greka		NULL	NULL	NULL
+ia.0	ia		ekz_28	irgendein	
+ia.0	ia		ekz_30	irgendein	
+ia.0	ia		uv_I	irgendein	
+ia.0	ia		akkor_en	irgendein	
+ia.sen0	sen ia		NULL	ein	ohne einen
+ia.sen0ecxplejmalgranda	sen ia eĉ plej malgranda		NULL	gering	ohne den geringsten...
+ia1.0	ia!		NULL	iah	
+ia1.0.SON	ia!		NULL	iah	
+ia1.0i	iai		NULL	iahen	
+ia1.0i.SON	iai		NULL	iahen	
+ia1.0o	iao		NULL	Iah-Schrei	
+ia1.0o.SON	iao		NULL	Iah-Schrei	
+ial.0	ial		ekz_30	Grund	aus irgendeinem Grund
+ial.0	ial		uv_I	Grund	aus irgendeinem Grund
+ial.0	ial		akkor_en	Grund	aus irgendeinem Grund
+iam.0	iam		ekz_28	irgendwann	
+iam.0	iam		ekz_30	irgendwann	
+iam.0	iam		uv_I	irgendwann	
+iam.0	iam		akkor_en	irgendwann	
+iam.0	iam		ekz_28	einst	
+iam.0	iam		ekz_30	einst	
+iam.0	iam		uv_I	einst	
+iam.0	iam		akkor_en	einst	
+iam.0	iam		ekz_28	irgendwann	
+iam.0	iam		ekz_30	irgendwann	
+iam.0	iam		uv_I	irgendwann	
+iam.0	iam		akkor_en	irgendwann	
+iam.0a	iama		NULL	einstig	
+iam.0a	iama		NULL	gewesen	
+iam.kelk0	kelkiam		NULL	gelegentlich	
+iam.kelk0	kelkiam		NULL	ab und zu	
+ibad.0o	Ibadismo		NULL	NULL	NULL
+ibad.0o.ISL	Ibadismo		NULL	NULL	NULL
+ibadan.0o	Ibadano		NULL	Ibadan	
+ibeks.0o	ibekso		NULL	NULL	NULL
+ibeks.0o.alpa	ibekso		NULL	Steinbock	
+ibeks.0o.alpa	ibekso		NULL	Alpensteinbock	
+iber.0o	ibero		NULL	Iberer	
+ibis.0o	ibiso		NULL	Ibis	
+ibised.0oj	ibisedoj		NULL	Ibisse	Ibisse (Familie)
+icx.0	-iĉ		NULL	NULL	NULL
+icx.0.neoficiala	-iĉ		NULL	NULL	NULL
+icx.0a	iĉa		NULL	männlich	
+icx.0a.BIO	iĉa		NULL	männlich	
+icx.0o	iĉo		NULL	Mann	
+icx.0o	iĉo		NULL	Männchen	
+icx.0o.BIO	iĉo		NULL	Mann	
+icx.0o.BIO	iĉo		NULL	Männchen	
+id.0	-id		ekz_36	NULL	NULL
+id.0aro	idaro		NULL	NULL	NULL
+id.0aro.FIG	idaro	3	NULL	NULL	NULL
+id.0aro.posteuloj	idaro	2	NULL	Nachkommen	
+id.0aro.praidoj	idaro	1	NULL	Geschlecht	Geschlecht (Nachkommen)
+id.0o	ido		NULL	NULL	NULL
+id.0o.BIO	ido	1	NULL	NULL	NULL
+id.0o.FIG	ido	4	NULL	NULL	NULL
+id.0o.GEN	ido	2	NULL	Baby	
+id.0o.GEN	ido	2	NULL	Kind	
+id.0o.GEN	ido	2	NULL	Sprössling	
+id.0o.pranepo	ido	3	NULL	Nachkomme	
+id.pra0o	praido		NULL	Nachkomme	
+id1.0isto	idisto		NULL	Idist	
+id1.0isto.LIN	idisto		NULL	Idist	
+id1.0o	Ido		NULL	Ido	
+id1.0o.LIN	Ido		NULL	Ido	
+idah.0o	Idaho		NULL	NULL	NULL
+idah.0o.GEOG	Idaho		NULL	NULL	NULL
+ide.0a	idea		NULL	ideell	
+ide.0a.principa	idea	2	NULL	ideell	
+ide.0aro	idearo		NULL	Ideologie	
+ide.0aro.FIL	idearo		NULL	Ideologie	
+ide.0ismo	ideismo		NULL	Idealismus	
+ide.0ismo.FIL	ideismo		NULL	Idealismus	
+ide.0isto	ideisto		NULL	Idealist	
+ide.0isto.FIL	ideisto		NULL	Idealist	
+ide.0o	ideo		antparol	Ahnung	
+ide.0o	ideo		uv_	Ahnung	
+ide.0o	ideo		antparol	Vorstellung	
+ide.0o	ideo		uv_	Vorstellung	
+ide.0o	ideo		antparol	Idee	
+ide.0o	ideo		uv_	Idee	
+ide.0o.principo	ideo	2	antparol	Ahnung	
+ide.0o.principo	ideo	2	uv_	Ahnung	
+ide.0o.principo	ideo	2	antparol	Vorstellung	
+ide.0o.principo	ideo	2	uv_	Vorstellung	
+ide.0o.principo	ideo	2	antparol	Idee	
+ide.0o.principo	ideo	2	uv_	Idee	
+ide.fiksa0o	fiksa ideo		NULL	NULL	NULL
+ide.fiksa0o.PSI	fiksa ideo		NULL	NULL	NULL
+ide.interna_0o	interna ideo		NULL	innere Idee	
+ide.interna_0o.ESP	interna ideo		NULL	innere Idee	
+ide.sam0ano	samideano		NULL	Gleichgesinnter	
+ide.sam0ano.ESP	samideano	2	NULL	Gleichgesinnter	
+ide.sam0ano.gxenerale	samideano	1	NULL	Gleichgesinnter	
+ideal.0a	ideala		NULL	ideal	
+ideal.0a.konforma	ideala		NULL	ideal	
+ideal.0igi	idealigi		NULL	idealisieren	
+ideal.0igi	idealigi		NULL	verklären	
+ideal.0igi.KOMUNE	idealigi		NULL	idealisieren	
+ideal.0igi.KOMUNE	idealigi		NULL	verklären	
+ideal.0ismo	idealismo		NULL	Idealismus	
+ideal.0ismo.BELA	idealismo	3	NULL	Idealismus	
+ideal.0ismo.ideismo	idealismo	2	NULL	Idealismus	
+ideal.0ismo.morala	idealismo	1	NULL	Idealismus	
+ideal.0isto	idealisto		NULL	Idealist	
+ideal.0isto.ideisto	idealisto	2	NULL	Idealist	
+ideal.0isto.morale	idealisto	1	NULL	Idealist	
+ideal.0o	idealo		NULL	NULL	NULL
+ideal.0o.MAT	idealo	2	NULL	Ideal	
+ideal.0o.perfekteco	idealo	1	NULL	Ideal	
+ideal.cxef0a	ĉefideala		NULL	NULL	NULL
+ideal.cxef0a.MAT	ĉefideala		NULL	Hauptideal-	Hauptideal-(ring)
+ideal.sen0a	senideala		NULL	NULL	NULL
+ideal.sen0a.KOMUNE	senideala		NULL	NULL	NULL
+ident.0a	identa		NULL	identisch	
+ident.0a.tia_sama	identa	1	NULL	identisch	
+ident.0a.tiu_sama	identa	2	NULL	identisch	
+ident.0ajxo	identaĵo		NULL	NULL	NULL
+ident.0ajxo.KOMUNE	identaĵo	1	NULL	NULL	NULL
+ident.0ajxo.MAT	identaĵo	2	NULL	Identität	
+ident.0eco	identeco		NULL	NULL	NULL
+ident.0eco.JUR	identeco	2	NULL	Identität	
+ident.0eco.egalo	identeco	1	NULL	Identität	
+ident.0eco.identigho	identeco	3	NULL	NULL	NULL
+ident.0igi	identigi		NULL	NULL	NULL
+ident.0igi.egaligi	identigi	1	NULL	NULL	NULL
+ident.0igi.rekoni	identigi	2	NULL	identifizieren	
+ident.0igilo	identigilo		NULL	NULL	NULL
+ident.0igilo.JUR	identigilo	1	NULL	Ausweis	
+ident.0igilo.KOMP	identigilo	2	NULL	Kennzeichen	
+ident.0igilo.KOMP	identigilo	2	NULL	Kennung	
+ident.0igilo.KOMP	identigilo	2	NULL	ID	
+ident.0igxi	identiĝi		NULL	identifizieren	sich identifizieren
+ident.0o	idento		NULL	NULL	NULL
+ident.0o.memdifino	idento	2	NULL	Selbstverständnis	
+ident.0o.memdifino	idento	2	NULL	Identität	Identität (Selbstverständnis)
+ident.0o.rilato	idento	1	NULL	NULL	NULL
+ideogr.0ajxo	ideografiaĵo		NULL	Ideogramm	
+ideogr.0ajxo.LIN	ideografiaĵo		NULL	Ideogramm	
+ideogr.0o	ideografio		NULL	Ideographie	
+ideogr.0o	ideografio		NULL	Begriffsschrift	
+ideogr.0o.LIN	ideografio		NULL	Ideographie	
+ideogr.0o.LIN	ideografio		NULL	Begriffsschrift	
+ideogram.0o	ideogramo		NULL	Ideogramm	
+ideogram.0o.LIN	ideogramo		NULL	Ideogramm	
+ideolo.0a	ideologia		NULL	ideologisch	
+ideolo.0a.KOMUNE	ideologia		NULL	ideologisch	
+ideolo.0isto	ideologiisto		NULL	Ideologe	
+ideolo.0isto.KOMUNE	ideologiisto		NULL	Ideologe	
+ideolo.0o	ideologio		oa_9	NULL	NULL
+ideolo.0o.FIL	ideologio	1	oa_9	NULL	NULL
+ideolo.0o.KOMUNE	ideologio	2	oa_9	Ideologie	
+ideolog.0o	ideologo		NULL	Ideologe	
+ideolog.0o.KOMUNE	ideologo		NULL	Ideologe	
+idili.0o	idilio		NULL	Idylle	
+idili.0o	idilio		NULL	Idyll	
+idili.0o.FIG	idilio	2	NULL	Idylle	
+idili.0o.FIG	idilio	2	NULL	Idyll	
+idili.0o.POE	idilio	1	NULL	Idylle	
+idili.0o.POE	idilio	1	NULL	Idyll	
+idiom.0ajxo	idiomaĵo		NULL	idiomatischer Ausdruck	
+idiom.0ajxo	idiomaĵo		NULL	Spracheigenheit	
+idiom.0o	idiomo		oa_2	Idiom	
+idiom.0o	idiomo		oa_2	Sprache	
+idiot.0eco	idioteco		NULL	NULL	NULL
+idiot.0eco.KOMUNE	idioteco	2	NULL	Idiotie	
+idiot.0eco.MED	idioteco	1	NULL	Idiotismus	
+idiot.0igi	idiotigi		NULL	verblöden	
+idiot.0o	idioto		NULL	Idiot	
+idiot.0o.KOMUNE	idioto	2	NULL	Idiot	
+idiot.0o.MED	idioto	1	NULL	Idiot	
+idioti.0o	idiotismo		NULL	Idiotismus	Idiotismus (Ausdruck)
+idioti.0o	idiotismo		NULL	idiomatischer Ausdruck	
+idioti.0o	idiotismo		NULL	Spracheigenheit	
+idioti.0o	idiotismo		NULL	Redewendung	
+idioti.0o.LIN	idiotismo		NULL	Idiotismus	Idiotismus (Ausdruck)
+idioti.0o.LIN	idiotismo		NULL	idiomatischer Ausdruck	
+idioti.0o.LIN	idiotismo		NULL	Spracheigenheit	
+idioti.0o.LIN	idiotismo		NULL	Redewendung	
+idol.0ano	idolano		NULL	Götzendiener	
+idol.0ano.REL	idolano		NULL	Götzendiener	
+idol.0o	idolo		NULL	NULL	NULL
+idol.0o.FIG	idolo	2	NULL	Idol	
+idol.0o.REL	idolo	1	NULL	Götze	
+idu.0o	iduo		NULL	Iden	Iden (Kalender)
+idu.0o.KAL	iduo		NULL	Iden	Iden (Kalender)
+ie.0	ie		ekz_30	irgendwo	
+ie.0	ie		uv_I	irgendwo	
+ie.0	ie		akkor_en	irgendwo	
+ie.0n	ien		NULL	irgendwohin	
+iel.0	iel		ekz_30	irgendwie	
+iel.0	iel		uv_I	irgendwie	
+iel.0	iel		akkor_en	irgendwie	
+iel.0e	iele		NULL	NULL	NULL
+ies.0	ies		ekz_30	jemandes	
+ies.0	ies		uv_I	jemandes	
+ies.0	ies		akkor_en	jemandes	
+ies.0	ies		ekz_30	irgendjemandes	
+ies.0	ies		uv_I	irgendjemandes	
+ies.0	ies		akkor_en	irgendjemandes	
+ifon.0o	iFono		NULL	iPhone	
+ifon.0o.SNC	iFono		NULL	iPhone	
+ig.0	-ig		ekz_13	NULL	NULL
+ig.0.kun_adjektivigo	-ig	2	ekz_13	NULL	NULL
+ig.0.kun_adjektivo	-ig	1	ekz_13	NULL	NULL
+ig.0.kun_adverbigo	-ig	3	ekz_13	NULL	NULL
+ig.0.kun_nombro	-ig	3	ekz_13	NULL	NULL
+ig.0.kun_ntr	-ig	1	ekz_13	NULL	NULL
+ig.0.kun_substantivo	-ig	4	ekz_13	NULL	NULL
+ig.0.kun_tr	-ig	2	ekz_13	NULL	NULL
+ig.0.kunderivado	-ig	5	ekz_13	NULL	NULL
+ig.0.substantivigo	-ig	1	ekz_13	NULL	NULL
+ig.0e	ige		NULL	NULL	NULL
+ig.0i	igi		NULL	machen	
+ig.0i	igi		NULL	veranlassen	
+igl.0o	iglo		NULL	Iglu	
+igl.0o	igluo		NULL	Iglu	
+igl.0o.ARKI	iglo		NULL	Iglu	
+igl.0o.ARKI	igluo		NULL	Iglu	
+ignac.0o	Ignaco		NULL	NULL	NULL
+ignac.0o.NOM	Ignaco		NULL	NULL	NULL
+ignam.0o	ignamo		NULL	Yamswurzel	
+ignor.0i	ignori		oa_2	ignorieren	
+igumen.0ino	igumenino		NULL	Hegumene	
+igumen.0ino	higumenino		NULL	Hegumene	
+igumen.0o	igumeno		NULL	Hegumen	
+igumen.0o	higumeno		NULL	Hegumen	
+igumen.0o	egumeno		NULL	Hegumen	
+igumen.0o	igumeno		NULL	Igumen	
+igumen.0o	higumeno		NULL	Igumen	
+igumen.0o	egumeno		NULL	Igumen	
+igvan.0o	igvano		NULL	Leguan	
+igvano.0o	igvanodonto		NULL	Iguanodon	
+igvano.0o.ZOO	igvanodonto		NULL	Iguanodon	
+igx.0	-iĝ		ekz_23	NULL	NULL
+igx.0.kun_adjektivigo	-iĝ	2	ekz_23	NULL	NULL
+igx.0.kun_adjektivo	-iĝ	1	ekz_23	NULL	NULL
+igx.0.kun_adv_prep	-iĝ	2	ekz_23	NULL	NULL
+igx.0.kun_adverbigo	-iĝ	3	ekz_23	NULL	NULL
+igx.0.kun_ntr	-iĝ	1	ekz_23	NULL	NULL
+igx.0.kun_substantivigo	-iĝ	1	ekz_23	NULL	NULL
+igx.0.kun_substantivo	-iĝ	3	ekz_23	NULL	NULL
+igx.0.kun_tr	-iĝ	2	ekz_23	NULL	NULL
+igx.0.kunderivado	-iĝ	4	ekz_23	NULL	NULL
+igx.0i	iĝi		NULL	werden	
+ihxtio.0o	iĥtiokolo		NULL	Hausenblase	
+ihxtio.0o	iĥtiokolo		NULL	Fischleim	
+ihxtio1.0o	iĥtiosaŭro		NULL	Ichthyosaurus	
+ihxtio1.0o	iĥtiosaŭro		NULL	Fischsaurier	
+ihxtio1.0o.ZOO	iĥtiosaŭro		NULL	Ichthyosaurus	
+ihxtio1.0o.ZOO	iĥtiosaŭro		NULL	Fischsaurier	
+ik.0	-ik		NULL	NULL	NULL
+ik.0.KEM	-ik	2	NULL	NULL	NULL
+ik.0.KOMUNE	-ik	1	NULL	NULL	NULL
+ikeban.0o	ikebano		NULL	Ikebana	
+ikeban.0o.BELA	ikebano	1	NULL	Floristik	
+ikeban.0o.BELA	ikebano	1	NULL	Ikebana	
+ikeban.0o.ikebanajxo	ikebano	2	NULL	Gesteck	
+ikeban.0o.ikebanajxo	ikebano	2	NULL	Ikebana	
+ikon.0ismo	ikonismo		NULL	Ikonismus	
+ikon.0isto	ikonisto		NULL	NULL	NULL
+ikon.0o	ikono		NULL	Ikone	
+ikon.0o.KRI	ikono	1	NULL	Ikone	
+ikon.0o.adorato	ikono	2	NULL	Ikone	
+ikon.0rompismo	ikonrompismo		NULL	Bilderstürmerei	
+ikon.0rompisto	ikonrompisto		NULL	Bilderstürmer	
+ikonostaz.0o	ikonostazo		NULL	NULL	NULL
+ikonostaz.0o.KRI	ikonostazo		NULL	NULL	NULL
+iks.0o	ikso		oa_9	NULL	NULL
+iks.0o.TIP	ikso		oa_9	X	
+iksod.0o	iksodo		NULL	Zecke	
+iksod.0o.ZOO	iksodo		NULL	Zecke	
+ikt.0o	ikto		NULL	NULL	NULL
+ikt.0o.MED	ikto		NULL	Anfall	
+ikter.0o	iktero		NULL	Ikterus	
+ikter.0o.flavigxo	iktero	1	NULL	Ikterus	
+ikter.0o.malsano	iktero	2	NULL	Gelbsucht	
+ikter.0o.malsano	iktero	2	NULL	Ikterus	
+il.0	-il		ekz_16	NULL	NULL
+il.0aro	ilaro		NULL	NULL	NULL
+il.0aro.TEK	ilaro		NULL	NULL	NULL
+il.0o	ilo		NULL	Werkzeug	
+il.0o	ilo		NULL	Instrument	
+ile.0o	ileo		NULL	Krummdarm	
+ile.0o	ileo		NULL	Hüftdarm	
+ileks.0o	ilekso		oa_2	Stechpalme	
+iliad.0o	Iliado		NULL	Ilias	
+iliad.0o.BELE	Iliado		NULL	Ilias	
+iliard.0	-iliard		NULL	NULL	NULL
+iliard.0.sufikso	-iliard		NULL	NULL	NULL
+ilici.0o	ilicio		NULL	Sternanisbaum	
+ilinojs.0o	Ilinojso		NULL	NULL	NULL
+ilinojs.0o.GEOG	Ilinojso		NULL	NULL	NULL
+ilion.0	-ilion		NULL	NULL	NULL
+ilion.0.sufikso	-ilion		NULL	NULL	NULL
+ilir.0a	ilira		NULL	illyrisch	
+ilir.0oj	iliroj		NULL	Illyrer	
+iliri.0a	iliria		NULL	NULL	NULL
+iliri.0a.ARKE	iliria		NULL	NULL	NULL
+iliri.0o	Ilirio		NULL	Illyrien	
+iliri.0o.GEOG	Ilirio		NULL	Illyrien	
+ilirik.0o	Iliriko		NULL	NULL	NULL
+ilirik.0o.romia	Iliriko		NULL	Illyrien	Illyrien (römische Provinz)
+ilium.0o	iliumo		NULL	Hüftbein	
+ilumin.0ado	iluminado		NULL	Beleuchtung	
+ilumin.0ado	iluminado		NULL	Illumination	
+ilumin.0i	ilumini		NULL	beleuchten	
+ilumin.0i	ilumini		NULL	anstrahlen	
+ilumin.0i	ilumini		NULL	illuminieren	
+ilumin.0igxi	iluminiĝi		NULL	Erleuchtung finden	
+ilumin.0ilo	iluminilo		NULL	Leuchtelement	
+ilumin.0ilo	iluminilo		NULL	Strahler	
+iluminat.0o	Iluminatoj		NULL	Illuminaten	
+iluminat.0o.SNC	Iluminatoj		NULL	Illuminaten	
+ilustr.0ajxo	ilustraĵo		NULL	Illustration	
+ilustr.0i	ilustri		NULL	illustrieren	
+iluzi.0a	iluzia		NULL	trügerisch	
+iluzi.0a	iluzia		NULL	illusorisch	
+iluzi.0a.KOMUNE	iluzia		NULL	trügerisch	
+iluzi.0a.KOMUNE	iluzia		NULL	illusorisch	
+iluzi.0i	iluzii		NULL	vortäuschen	
+iluzi.0i.havi	iluzii	1	NULL	vortäuschen	
+iluzi.0i.kauxzi_iluzion	iluzii	2	NULL	vortäuschen	
+iluzi.0isto	iluziisto		NULL	Zauberkünstler	
+iluzi.0isto	iluziisto		NULL	Illusionist	
+iluzi.0isto.TEA	iluziisto		NULL	Zauberkünstler	
+iluzi.0isto.TEA	iluziisto		NULL	Illusionist	
+iluzi.0o	iluzio		NULL	Täuschung	
+iluzi.0o	iluzio		NULL	Illusion	
+iluzi.0o.KOMUNE	iluzio		NULL	Täuschung	
+iluzi.0o.KOMUNE	iluzio		NULL	Illusion	
+iluzi.mem0o	memiluzio		NULL	Selbsttäuschung	
+iluzi.mem0o.PSI	memiluzio		NULL	Selbsttäuschung	
+iluzi.sen0a	seniluzia		NULL	illusionslos	
+iluzi.sen0a.gardanta	seniluzia		NULL	illusionslos	
+iluzi.sen0igi	seniluziigi		NULL	enttäuschen	
+iluzi.sen0igi.KOMUNE	seniluziigi		NULL	enttäuschen	
+iluzi.sen0igxi	seniluziiĝi		NULL	enttäuscht	enttäuscht werden
+iluzi.sen0igxi.KOMUNE	seniluziiĝi		NULL	enttäuscht	enttäuscht werden
+ilz.0o	Ilzo		NULL	Ilse	
+ilz.0o.NOM	Ilzo		NULL	Ilse	
+imag.0a	imaga		NULL	NULL	NULL
+imag.0a.deLaImago	imaga	1	NULL	NULL	NULL
+imag.0a.nereala	imaga	2	NULL	eingebildet	
+imag.0a.nereala	imaga	2	NULL	imaginär	
+imag.0ado	imagado		NULL	NULL	NULL
+imag.0ado.PSI	imagado		NULL	NULL	NULL
+imag.0ajxo	imagaĵo		NULL	Vorstellung	
+imag.0ajxo	imagaĵo		NULL	Einbildung	
+imag.0ajxo.PSI	imagaĵo		NULL	Vorstellung	
+imag.0ajxo.PSI	imagaĵo		NULL	Einbildung	
+imag.0ebla	imagebla		NULL	NULL	NULL
+imag.0ema	imagema		NULL	fantasievoll	
+imag.0i	imagi		NULL	vorstellen	sich vorstellen
+imag.0i	imagi		NULL	einbilden	sich einbilden
+imag.0i.PSI	imagi		NULL	vorstellen	sich vorstellen
+imag.0i.PSI	imagi		NULL	einbilden	sich einbilden
+imag.0o	imago		NULL	NULL	NULL
+imag.0o.PSI	imago	1	NULL	Vorstellungskraft	
+imag.0o.PSI	imago	1	NULL	Einbildung	
+imag.0o.PSI	imago	1	NULL	Fantasie	
+imag.0o.imagado	imago	2	NULL	NULL	NULL
+imag.0povo	imagpovo		NULL	NULL	NULL
+imag.0povo.PSI	imagpovo		NULL	NULL	NULL
+imag.ne0ebla	neimagebla		NULL	unvorstellbar	
+imagin.0a	imaginara		NULL	imaginär	
+imagin.0o	imaginaro		NULL	Zahl	komplexe Zahl
+imagin.0o	imaginaro		NULL	Zahl	imaginäre Zahl
+imagin1.0o	imagino		NULL	NULL	NULL
+imagin1.0o.ZOO	imagino		NULL	NULL	NULL
+imam.0o	imamo		NULL	Imam	
+imam.0o.kalifo	imamo	2	NULL	Imam	
+imam.0o.pregxestro	imamo	1	NULL	Imam	
+imanen.0a	imanenta		NULL	immanent	
+imit.0ajxo	imitaĵo		NULL	Fälschung	
+imit.0ajxo	imitaĵo		NULL	Imitat	
+imit.0ajxo	imitaĵo		NULL	Imitation	
+imit.0ajxo.KOMUNE	imitaĵo		NULL	Fälschung	
+imit.0ajxo.KOMUNE	imitaĵo		NULL	Imitat	
+imit.0ajxo.KOMUNE	imitaĵo		NULL	Imitation	
+imit.0ema	imitema		NULL	NULL	NULL
+imit.0ema.PSI	imitema		NULL	NULL	NULL
+imit.0emo	imitemo		NULL	NULL	NULL
+imit.0emo.PSI	imitemo		NULL	NULL	NULL
+imit.0i	imiti		NULL	nachahmen	
+imit.0i	imiti		NULL	imitieren	
+imit.0i	imiti		NULL	nachmachen	
+imit.0i.agi	imiti	1	NULL	gleichtun	
+imit.0i.agi	imiti	1	NULL	nachahmen	
+imit.0i.agi	imiti	1	NULL	imitieren	
+imit.0i.agi	imiti	1	NULL	nachmachen	
+imit.0i.fari	imiti	2	NULL	nachbilden	
+imit.0i.fari	imiti	2	NULL	kopieren	
+imit.0i.fari	imiti	2	NULL	nachahmen	
+imit.0i.fari	imiti	2	NULL	imitieren	
+imit.0i.fari	imiti	2	NULL	nachmachen	
+imit.0ilo	imitilo		NULL	NULL	NULL
+imit.0ilo.KOMP	imitilo		NULL	Emulator	
+imit.0o	imito		NULL	Imitieren	
+imit.0o	imitado		NULL	Imitieren	
+imit.0o	imito		NULL	Imitation	
+imit.0o	imitado		NULL	Imitation	
+imit.0o.imitado	imito		NULL	Imitieren	
+imit.0o.imitado	imitado		NULL	Imitieren	
+imit.0o.imitado	imito		NULL	Imitation	
+imit.0o.imitado	imitado		NULL	Imitation	
+imit.mok0i	mokimiti		NULL	nachäffen	
+imit.mok0i.KOMUNE	mokimiti		NULL	nachäffen	
+imit.son0o	sonimito		NULL	Onomatopoetikon	
+imit.son0o	sonimito		NULL	Wort	lautnachahmendes Wort
+imit.son0o	sonimito		NULL	Wort	schallnachahmendes Wort
+imit.son0o.LIN	sonimito		NULL	Onomatopoetikon	
+imit.son0o.LIN	sonimito		NULL	Wort	lautnachahmendes Wort
+imit.son0o.LIN	sonimito		NULL	Wort	schallnachahmendes Wort
+impeda.0o	impedanco		NULL	Impedanz	
+impeda.0o	impedanco		NULL	Scheinwiderstand	
+impera.0a	imperativa		NULL	imperativ	
+impera.0o	imperativo		oa_2	Imperativ	
+impera.0o	imperativo		oa_2	Befehlsform	
+impera.0o	imperativo		oa_2	Imperativ	
+imperator.0o	imperatoro		NULL	Imperator	
+imperator.0o.titolo	imperatoro		NULL	Imperator	
+imperf.0o	imperfekto		oa_2	Imperfekt	
+imperf.0o	imperfekto		oa_2	Vergangenheitsform	
+imperfektiv.0o	imperfektivo		NULL	imperfektiver Aspekt	
+imperi.0a	imperia		NULL	imperial	
+imperi.0estro	imperiestro		NULL	Kaiser	
+imperi.0estro.RANGO	imperiestro		NULL	Kaiser	
+imperi.0i	imperii		NULL	NULL	NULL
+imperi.0ismo	imperiismo		NULL	Imperialismus	
+imperi.0ismo.MAH	imperiismo	3	NULL	Imperialismus	
+imperi.0ismo.naciisma	imperiismo	2	NULL	Imperialismus	
+imperi.0ismo.supernacia	imperiismo	1	NULL	Imperialismus	
+imperi.0isto	imperiisto		NULL	Imperialist	
+imperi.0isto	imperiisto		NULL	Kriegstreiber	
+imperi.0o	imperio		NULL	Reich	
+imperi.0o	imperio		NULL	Imperium	
+imperi.0o	imperio		NULL	Reich	
+imperi.0o	imperio		NULL	Imperium	
+imperi.0o	imperio		NULL	Großreich	
+imperi.0o	imperio		NULL	Weltreich	
+imperi.0o.FIG	imperio	3	NULL	Reich	
+imperi.0o.FIG	imperio	3	NULL	Imperium	
+imperi.0o.FIG	imperio	3	NULL	Reich	
+imperi.0o.FIG	imperio	3	NULL	Imperium	
+imperi.0o.FIG	imperio	3	NULL	Großreich	
+imperi.0o.FIG	imperio	3	NULL	Weltreich	
+imperi.0o.monarkio	imperio	1	NULL	Reich	
+imperi.0o.monarkio	imperio	1	NULL	Imperium	
+imperi.0o.monarkio	imperio	1	NULL	Reich	
+imperi.0o.monarkio	imperio	1	NULL	Imperium	
+imperi.0o.monarkio	imperio	1	NULL	Großreich	
+imperi.0o.monarkio	imperio	1	NULL	Weltreich	
+imperi.0o.monarkio_koloniisma	imperio	2	NULL	Reich	
+imperi.0o.monarkio_koloniisma	imperio	2	NULL	Imperium	
+imperi.0o.monarkio_koloniisma	imperio	2	NULL	Reich	
+imperi.0o.monarkio_koloniisma	imperio	2	NULL	Imperium	
+imperi.0o.monarkio_koloniisma	imperio	2	NULL	Großreich	
+imperi.0o.monarkio_koloniisma	imperio	2	NULL	Weltreich	
+imperi.kontraux0ismo	kontraŭimperiismo		NULL	NULL	NULL
+imperi.kontraux0ismo.POL	kontraŭimperiismo		NULL	NULL	NULL
+imperi1.0o	imperialo		NULL	Imperiale	
+imperi1.0o	imperialo		NULL	Imperial	
+imperi2.0o	imperialismo		NULL	Imperialismus	
+imperi2.0o	imperialismo		NULL	Kriegstreiberei	
+imperi2.0o.imperiismo	imperialismo		NULL	Imperialismus	
+imperi2.0o.imperiismo	imperialismo		NULL	Kriegstreiberei	
+imperi3.0o	imperialisto		NULL	Imperialist	
+imperi3.0o	imperialisto		NULL	Kriegstreiber	
+imperi4.0o	imperiumo		NULL	Imperium	
+imperi4.0o	imperiumo		NULL	Großreich	
+imperi4.0o	imperiumo		NULL	Weltreich	
+impert.0a	impertinenta		NULL	impertinent	
+impert.0a	impertinenta		NULL	frech	
+impert.0a	impertinenta		NULL	unverschämt	
+impert.0a.PSI	impertinenta		NULL	impertinent	
+impert.0a.PSI	impertinenta		NULL	frech	
+impert.0a.PSI	impertinenta		NULL	unverschämt	
+impert.0ajxo	impertinentaĵo		NULL	Frechheit	
+impert.0ajxo.MOR	impertinentaĵo		NULL	Frechheit	
+impert.0ulo	impertinentulo		NULL	NULL	NULL
+impert.0ulo.MOR	impertinentulo		NULL	NULL	NULL
+impet.0a	impeta		NULL	ungestüm	
+impet.0a	impeta		NULL	feurig	
+impet.0ega	impetega		NULL	stürmisch	
+impet.0ega	impetega		NULL	heftig	
+impet.0i	impeti		oa_8	vorstürzen	
+impet.0i	impeti		oa_8	anpacken	mit Schwung anpacken
+impet.0i	impeti		oa_8	verlangen	leidenschaftlich verlangen
+impet.0i	impeti		oa_8	werfen	sich werfen auf
+impet.0o	impeto		NULL	Ungstüm	
+impet.0o	impeto		NULL	Heftigkeit	
+impet.0o	impeto		NULL	Vorwärtsstürzen	
+impet.0o	impeto		NULL	Drang	leidenschaftlicher Drang
+impet.0o	impeto		NULL	Heftigkeit	
+impet.0o	impeto		NULL	Feuer	
+implic.0a	implica		NULL	NULL	NULL
+implic.0a.KOMUNE	implica	1	NULL	implizit	
+implic.0a.MAT	implica	2	NULL	NULL	NULL
+implic.0a.implikacia	implica	3	NULL	NULL	NULL
+implic.0i	implici		NULL	beinhalten	
+implic.0i	implici		NULL	einschließen	
+implic.0i	implici		NULL	implizieren	
+implic.0i.io	implici	2	NULL	beinhalten	
+implic.0i.io	implici	2	NULL	einschließen	
+implic.0i.io	implici	2	NULL	implizieren	
+implic.0i.iu	implici	1	NULL	beinhalten	
+implic.0i.iu	implici	1	NULL	einschließen	
+implic.0i.iu	implici	1	NULL	implizieren	
+implic.0o	implico		NULL	NULL	NULL
+implic.0o.KOMUNE	implico	1	NULL	NULL	NULL
+implic.0o.logika	implico	2	NULL	Implikation	
+implic.duobla0o	duobla implico		NULL	Äquivalenz	
+implic.duobla0o.ekvivalento	duobla implico		NULL	Äquivalenz	
+implic.mal0i	malimplici		NULL	ausführen	
+implic.mal0i	malimplici		NULL	explizit	explizit angeben
+implik.0ajxo	implikaĵo		NULL	Verwirrung	
+implik.0ajxo	implikaĵo		NULL	Gewirr	
+implik.0ajxo	implikaĵo		NULL	Verwicklung	
+implik.0ajxo	implikaĵo		NULL	Fitz	
+implik.0ajxo	implikaĵo		NULL	Durcheinander	
+implik.0ajxo.KOMUNE	implikaĵo		NULL	Verwirrung	
+implik.0ajxo.KOMUNE	implikaĵo		NULL	Gewirr	
+implik.0ajxo.KOMUNE	implikaĵo		NULL	Verwicklung	
+implik.0ajxo.KOMUNE	implikaĵo		NULL	Fitz	
+implik.0ajxo.KOMUNE	implikaĵo		NULL	Durcheinander	
+implik.0i	impliki		NULL	NULL	NULL
+implik.0i.aferojn	impliki	2	NULL	verwickeln	
+implik.0i.aferojn	impliki	2	NULL	verwirren	
+implik.0i.aferojn	impliki	2	NULL	durcheinander bringen	
+implik.0i.aferojn	impliki	2	NULL	verkomplizieren	
+implik.0i.movojn	impliki	1	NULL	verfangen	
+implik.0i.movojn	impliki	1	NULL	verfilzen	
+implik.0i.movojn	impliki	1	NULL	verstricken	
+implik.0i.movojn	impliki	1	NULL	verheddern	
+implik.0igxi	implikiĝi		NULL	verheddern	sich verheddern
+implik.0igxi	implikiĝi		NULL	verwickeln	sich verwickeln
+implik.0o	impliko		NULL	Verwicklung	
+implik.0o	impliko		NULL	Implikation	
+implik.mal0i	malimpliki		NULL	entwirren	
+implik.mal0i	malimpliki		NULL	entfitzen	
+implik.mal0i.KOMUNE	malimpliki		NULL	entwirren	
+implik.mal0i.KOMUNE	malimpliki		NULL	entfitzen	
+implikaci.0a	implikacia		NULL	NULL	NULL
+implikaci.0o	implikacio		NULL	Implikation	
+implikaci.ambauxdirekta0o	ambaŭdirekta implikacio		NULL	NULL	NULL
+implikaci.el0igo	elimplikaciigo		NULL	NULL	NULL
+implod.0i	implodi		NULL	implodieren	
+implod.0i.FIZ	implodi		NULL	implodieren	
+impon.0a	impona		NULL	imposant	
+impon.0a	impona		NULL	beeindruckend	
+impon.0a.KOMUNE	impona		NULL	imposant	
+impon.0a.KOMUNE	impona		NULL	beeindruckend	
+impon.0eco	imponeco		NULL	Großartigkeit	
+impon.0eco	imponeco		NULL	Imposanz	
+impon.0eco.KOMUNE	imponeco		NULL	Großartigkeit	
+impon.0eco.KOMUNE	imponeco		NULL	Imposanz	
+impon.0emo	imponemo		NULL	Imponiergehabe	
+impon.0emo	imponemo		NULL	Angeberei	
+impon.0emo	imponemo		NULL	Wichtigtuerei	
+impon.0emo.KOMUNE	imponemo		NULL	Imponiergehabe	
+impon.0emo.KOMUNE	imponemo		NULL	Angeberei	
+impon.0emo.KOMUNE	imponemo		NULL	Wichtigtuerei	
+impon.0i	imponi		NULL	imponieren	
+impon.0i	imponi		NULL	beeindrucken	
+impon.0i.KOMUNE	imponi		NULL	imponieren	
+impon.0i.KOMUNE	imponi		NULL	beeindrucken	
+impon.0igxi	imponiĝi		NULL	NULL	NULL
+impon.0igxi.PSI	imponiĝi		NULL	NULL	NULL
+import.0a	importa		NULL	NULL	NULL
+import.0a.rilata	importa		NULL	NULL	NULL
+import.0ado	importado		NULL	Import	
+import.0ado	importado		NULL	Importieren	
+import.0ado	importado		NULL	Einfuhr	
+import.0ado	importado		NULL	Einführen	
+import.0ado.enportado	importado		NULL	Import	
+import.0ado.enportado	importado		NULL	Importieren	
+import.0ado.enportado	importado		NULL	Einfuhr	
+import.0ado.enportado	importado		NULL	Einführen	
+import.0ajxo	importaĵo		NULL	Import	
+import.0ajxo	importaĵo		NULL	Importgut	
+import.0ajxo	importaĵo		NULL	importierte Ware	
+import.0ajxo	importaĵo		NULL	Einfuhr	
+import.0ajxo	importaĵo		NULL	Einfuhrgut	
+import.0ajxo	importaĵo		NULL	Ware	eingeführte Ware
+import.0ajxo.komercajxoj	importaĵo		NULL	Import	
+import.0ajxo.komercajxoj	importaĵo		NULL	Importgut	
+import.0ajxo.komercajxoj	importaĵo		NULL	importierte Ware	
+import.0ajxo.komercajxoj	importaĵo		NULL	Einfuhr	
+import.0ajxo.komercajxoj	importaĵo		NULL	Einfuhrgut	
+import.0ajxo.komercajxoj	importaĵo		NULL	Ware	eingeführte Ware
+import.0i	importi		NULL	importieren	
+import.0i	importi		NULL	einführen	
+import.0i.EKON	importi	1	NULL	importieren	
+import.0i.EKON	importi	1	NULL	einführen	
+import.0i.KOMP	importi	2	NULL	importieren	
+import.0i.KOMP	importi	2	NULL	einführen	
+import.0isto	importisto		NULL	Importeur	
+import.0isto	importisto		NULL	Einfuhrhändler	
+import.0isto.komercisto	importisto		NULL	Importeur	
+import.0isto.komercisto	importisto		NULL	Einfuhrhändler	
+import.0o	importo		NULL	NULL	NULL
+import.0o.importado	importo	1	NULL	NULL	NULL
+import.0o.importajxo	importo	2	NULL	NULL	NULL
+impost.0a	imposta		NULL	NULL	NULL
+impost.0a.EKON	imposta		NULL	NULL	NULL
+impost.0deklaro	impostdeklaro		NULL	Steuererklärung	
+impost.0deklaro.EKON	impostdeklaro		NULL	Steuererklärung	
+impost.0ejo	impostejo		NULL	Finanzamt	
+impost.0ejo	impostejo		NULL	Zollstation	
+impost.0ejo.loko	impostejo		NULL	Finanzamt	
+impost.0ejo.loko	impostejo		NULL	Zollstation	
+impost.0i	imposti		NULL	besteuern	
+impost.0i	imposti		NULL	erheben	Steuer erheben
+impost.0i.EKON	imposti		NULL	besteuern	
+impost.0i.EKON	imposti		NULL	erheben	Steuer erheben
+impost.0isto	impostisto		NULL	Steuereintreiber	
+impost.0isto	impostisto		NULL	Zöllner	
+impost.0isto.EKON	impostisto		NULL	Steuereintreiber	
+impost.0isto.EKON	impostisto		NULL	Zöllner	
+impost.0o	imposto		NULL	Abgabe	
+impost.0o	imposto		NULL	Steuer	
+impost.0o	imposto		NULL	Zoll	
+impost.0o.EKON	imposto		NULL	Solidaritätszuschlag	
+impost.0o.EKON	imposto		NULL	Abgabe	
+impost.0o.EKON	imposto		NULL	Steuer	
+impost.0o.EKON	imposto		NULL	Zoll	
+impost.0paganto	impostpaganto		NULL	Steuerzahler	
+impost.0paganto.EKON	impostpaganto		NULL	Steuerzahler	
+impost.aldonvalora0o	aldonvalora imposto		NULL	Mehrwertsteuer	
+impost.aldonvalora0o	aldonvalora imposto		NULL	MWSt	
+impost.aldonvalora0o.EKON	aldonvalora imposto		NULL	Mehrwertsteuer	
+impost.aldonvalora0o.EKON	aldonvalora imposto		NULL	MWSt	
+impost.dogan0o	doganimposto		NULL	Zollgebühr	
+impost.dogan0o	doganimposto		NULL	Zoll	
+impost.dogan0o	doganimposto		NULL	Einfuhrabgabe	
+impost.dogan0o.EKON	doganimposto		NULL	Zollgebühr	
+impost.dogan0o.EKON	doganimposto		NULL	Zoll	
+impost.dogan0o.EKON	doganimposto		NULL	Einfuhrabgabe	
+impost.enspez0o	enspezimposto		NULL	Einkommenssteuer	
+impost.enspez0o.EKON	enspezimposto		NULL	Einkommenssteuer	
+impost.haven0o	havenimposto		NULL	Hafengebühr	
+impost.haven0o	havenimposto		NULL	Hafengeld	
+impost.haven0o.EKON	havenimposto		NULL	Hafengebühr	
+impost.haven0o.EKON	havenimposto		NULL	Hafengeld	
+impost.hund0o	hundimposto		NULL	Hundesteuer	
+impost.hund0o.EKON	hundimposto		NULL	Hundesteuer	
+impost.kap0o	kapimposto		NULL	Kopfsteuer	
+impost.kap0o	kapimposto		NULL	Bürgersteuer	
+impost.kap0o	kapimposto		NULL	Wahlsteuer	
+impost.kap0o.EKON	kapimposto		NULL	Kopfsteuer	
+impost.kap0o.EKON	kapimposto		NULL	Bürgersteuer	
+impost.kap0o.EKON	kapimposto		NULL	Wahlsteuer	
+impost.lim0o	limimposto		NULL	Zollgebühr	
+impost.lim0o	limimposto		NULL	Zoll	
+impost.lim0o.EKON	limimposto		NULL	Zollgebühr	
+impost.lim0o.EKON	limimposto		NULL	Zoll	
+impost.pont0o	pontimposto		NULL	Brückenzoll	
+impost.pont0o.EKON	pontimposto		NULL	Brückenzoll	
+impost.sal0o	salimposto		NULL	Salzsteuer	
+impost.sal0o.EKON	salimposto		NULL	Salzsteuer	
+impost.sen0a	senimposta		NULL	steuerfrei	
+impost.sen0a	senimposta		NULL	abgabenfrei	
+impost.sen0a.EKON	senimposta		NULL	steuerfrei	
+impost.sen0a.EKON	senimposta		NULL	abgabenfrei	
+impost.spekul0o	spekulimposto		NULL	Spekulationssteuer	
+impost.spekul0o.EKON	spekulimposto		NULL	Spekulationssteuer	
+impost.stamp0o	stampimposto		NULL	Stempelsteuer	
+impost.stamp0o.EKON	stampimposto		NULL	Stempelsteuer	
+impost.super0i	superimposti		NULL	besteuern	mehrfach besteuern
+impost.super0i	superimposti		NULL	besteuern	doppelt besteuern
+impost.super0i	superimposti		NULL	erheben	Steuer mehrfach erheben
+impost.super0i.EKON	superimposti		NULL	besteuern	mehrfach besteuern
+impost.super0i.EKON	superimposti		NULL	besteuern	doppelt besteuern
+impost.super0i.EKON	superimposti		NULL	erheben	Steuer mehrfach erheben
+impost.ter0o	terimposto		NULL	Grundsteuer	
+impost.ter0o	grundimposto		NULL	Grundsteuer	
+impost.ter0o.EKON	terimposto		NULL	Grundsteuer	
+impost.ter0o.EKON	grundimposto		NULL	Grundsteuer	
+impost.vend0o	vendimposto		NULL	Umsatzsteuer	
+impost.vend0o	vendimposto		NULL	USt	
+impost.vend0o	vendimposto		NULL	Warenumsatzsteuer	
+impost.vend0o.EKON	vendimposto		NULL	Umsatzsteuer	
+impost.vend0o.EKON	vendimposto		NULL	USt	
+impost.vend0o.EKON	vendimposto		NULL	Warenumsatzsteuer	
+impost.voj0o	vojimposto		NULL	Benutzungsgebühr	
+impost.voj0o	vojimposto		NULL	Mautgebühr	
+impost.voj0o	vojimposto		NULL	Maut	
+impost.voj0o	vojimposto		NULL	Wegesteuer	
+impost.voj0o	vojimposto		NULL	Straßengebühr	
+impost.voj0o	vojimposto		NULL	Straßensteuer	
+impost.voj0o.EKON	vojimposto		NULL	Benutzungsgebühr	
+impost.voj0o.EKON	vojimposto		NULL	Mautgebühr	
+impost.voj0o.EKON	vojimposto		NULL	Maut	
+impost.voj0o.EKON	vojimposto		NULL	Wegesteuer	
+impost.voj0o.EKON	vojimposto		NULL	Straßengebühr	
+impost.voj0o.EKON	vojimposto		NULL	Straßensteuer	
+impote.0a	impotenta		NULL	impotent	
+impote.0a.FIG	impotenta	2	NULL	impotent	
+impote.0a.MED	impotenta	1	NULL	impotent	
+impote.0eco	impotenteco		NULL	NULL	NULL
+impote.0ulo	impotentulo		NULL	NULL	NULL
+impoz.0i	impozi		NULL	ausschießen	
+impoz.0i	impozi		NULL	umbrechen	
+impoz.0i.TIP	impozi		NULL	ausschießen	
+impoz.0i.TIP	impozi		NULL	umbrechen	
+impregn.0i	impregni		NULL	imprägnieren	
+impregn.0i.KOMUNE	impregni		NULL	imprägnieren	
+impres.0a	impresa		NULL	beeindruckend	
+impres.0a	impresa		NULL	eindrücklich	
+impres.0a.KOMUNE	impresa		NULL	beeindruckend	
+impres.0a.KOMUNE	impresa		NULL	eindrücklich	
+impres.0ebla	impresebla		NULL	empfindlich	
+impres.0ebla	impresiĝema		NULL	empfindlich	
+impres.0ebla.FOT	impresebla	2	NULL	lichtempfindlich	
+impres.0ebla.FOT	impresiĝema	2	NULL	lichtempfindlich	
+impres.0ebla.FOT	impresebla	2	NULL	empfindlich	
+impres.0ebla.FOT	impresiĝema	2	NULL	empfindlich	
+impres.0ebla.PSI	impresebla	1	NULL	sensibel	
+impres.0ebla.PSI	impresiĝema	1	NULL	sensibel	
+impres.0ebla.PSI	impresebla	1	NULL	beeindruckbar	
+impres.0ebla.PSI	impresiĝema	1	NULL	beeindruckbar	
+impres.0ebla.PSI	impresebla	1	NULL	empfindlich	
+impres.0ebla.PSI	impresiĝema	1	NULL	empfindlich	
+impres.0i	impresi		NULL	einwirken	
+impres.0i	impresi		NULL	beeindrucken	
+impres.0i.KOMUNE	impresi		NULL	einwirken	
+impres.0i.KOMUNE	impresi		NULL	beeindrucken	
+impres.0ismo	impresismo		NULL	Impressionismus	
+impres.0ismo.BELA	impresismo		NULL	Impressionismus	
+impres.0o	impreso		NULL	NULL	NULL
+impres.0o.FOT	impreso	2	NULL	Einwirkung	
+impres.0o.FOT	impreso	2	NULL	Lichteinwirkung	
+impres.0o.FOT	impreso	2	NULL	Belichtung	
+impres.0o.gxenerale	impreso	1	NULL	Eindruck	
+impres.malbon0a	malbonimpresa		NULL	Eindruck	einen schlechten Eindruck hinterlassend
+impres.malbon0a	misimpresa		NULL	Eindruck	einen schlechten Eindruck hinterlassend
+impres.malbon0a.KOMUNE	malbonimpresa		NULL	Eindruck	einen schlechten Eindruck hinterlassend
+impres.malbon0a.KOMUNE	misimpresa		NULL	Eindruck	einen schlechten Eindruck hinterlassend
+impres1.0o	impresario		oa_2	Theateragent	
+impres1.0o	impresario		oa_2	Konzertagent	
+impres1.0o	impresario		oa_2	Impressario	
+impres2.0o	impresionismo		NULL	Impressionismus	
+impres2.0o.BELA	impresionismo		NULL	Impressionismus	
+impres3.0o	impresionisto		NULL	Impressionist	
+impres3.0o.BELA	impresionisto		NULL	Impressionist	
+improv.0ajxo	improvizo		NULL	Improvisation	
+improv.0ajxo	improvizaĵo		NULL	Improvisation	
+improv.0e	improvize		NULL	improvisiert	
+improv.0e	improvize		NULL	provisorisch	
+improv.0e	improvize		NULL	Vorlage	ohne Vorlage
+improv.0e	improvize		NULL	Stegreif	aus dem Stegreif
+improv.0e	improvize		NULL	Stand	aus dem Stand
+improv.0i	improvizi		NULL	improvisieren	
+improv.0i	improvizi		NULL	Stegreif	aus dem Stegreif dichten
+improv.0i	improvizi		NULL	improvisieren	
+improv.0i	improvizi		NULL	organisieren	auf die Schnelle organisieren
+improv.0isto	improvizisto		NULL	Improvisierer	
+impuls.0a	impulsa		NULL	impulsgebend	
+impuls.0ema	impulsema		NULL	impulsiv	
+impuls.0ema.PSI	impulsema		NULL	impulsiv	
+impuls.0i	impulsi		NULL	NULL	NULL
+impuls.0i.fizike	impulsi	1	NULL	antreiben	
+impuls.0i.iniciate	impulsi	3	NULL	NULL	NULL
+impuls.0i.instikte	impulsi	2	NULL	anstoßen	
+impuls.0igxema	impulsiĝema		NULL	impulsiv	
+impuls.0igxema.PSI	impulsiĝema		NULL	impulsiv	
+impuls.0o	impulso		NULL	NULL	NULL
+impuls.0o.FIZ	impulso	2	NULL	Impuls	Impuls (physikalisch)
+impuls.0o.KOMUNE	impulso	1	NULL	NULL	NULL
+impuls.nerv0o	nervimpulso		NULL	NULL	NULL
+impuls.nerv0o	nerva impulso		NULL	NULL	NULL
+impuls.nerv0o.FIZL	nervimpulso		NULL	NULL	NULL
+impuls.nerv0o.FIZL	nerva impulso		NULL	NULL	NULL
+impulsiv.0a	impulsiva		NULL	NULL	NULL
+impulsiv.0a.PSI	impulsiva		NULL	NULL	NULL
+imput.0i	imputi		NULL	NULL	NULL
+imput.0i.al_konto	imputi	1	NULL	anrechnen	
+imput.0i.al_konto	imputi	1	NULL	zurechnen	
+imput.0i.al_konto	imputi	1	NULL	zuweisen	
+imput.0i.kulpigi	imputi	3	NULL	bezichtigen	
+imput.0i.kulpigi	imputi	3	NULL	unterstellen	
+imput.0i.kulpigi	imputi	3	NULL	zuschreiben	
+imput.0i.parton	imputi	2	NULL	zuteilen	
+imput.0i.parton	imputi	2	NULL	zuschreiben	
+imun.0a	imuna		oa_4	NULL	NULL
+imun.0a	imuna		oa_4	NULL	NULL
+imun.0a.JUR	imuna	2	oa_4	immun	
+imun.0a.JUR	imuna	2	oa_4	immun	
+imun.0a.MED	imuna	1	oa_4	immun	
+imun.0a.MED	imuna	1	oa_4	immun	
+imun.0a.rezista	imuna	3	oa_4	gefeit	
+imun.0a.rezista	imuna	3	oa_4	gefeit	
+imun.0eco	imuneco		NULL	NULL	NULL
+imun.0eco.JUR	imuneco	2	NULL	Immunität	
+imun.0eco.MED	imuneco	1	NULL	Immunität	
+imun.0igi	imunigi		NULL	NULL	NULL
+imun.0igi.MED	imunigi		NULL	immunisieren	
+imunolog.0o	imunologo		NULL	Immunologe	
+imunolog.0o.SCI	imunologo		NULL	Immunologe	
+imunologi.0isto	imunologiisto		NULL	Immunologe	
+imunologi.0isto.SCI	imunologiisto		NULL	Immunologe	
+imunologi.0o	imunologio		NULL	Immunologie	
+imunologi.0o.SCI	imunologio		NULL	Immunologie	
+in.0	-in		ekz_10	in	-in
+in.0.sufikso	-in		ekz_10	in	-in
+in.0a	ina		NULL	weiblich	
+in.0a.BIO	ina	1	NULL	weiblich	
+in.0a.POE	ina	2	NULL	weiblich	
+in.0ismo	inismo		NULL	Feminismus	
+in.0ismo.feminismo	inismo		NULL	Feminismus	
+in.0o	ino		NULL	Frau	Frau (homo)
+in.0o	ino		NULL	Weibchen	Weibchen (besto aŭ planto)
+in.0o.BIO	ino		NULL	Frau	Frau (homo)
+in.0o.BIO	ino		NULL	Weibchen	Weibchen (besto aŭ planto)
+inauxg.0i	inaŭguri		oa_4	einweihen	
+inauxg.0i	inaŭguri		oa_4	einweihen	
+inauxg.0i	inaŭguri		oa_4	eröffnen	
+inauxg.0i	inaŭguri		oa_4	eröffnen	
+inauxg.0i	inaŭguri		oa_4	enthüllen	
+inauxg.0i	inaŭguri		oa_4	enthüllen	
+inauxg.0o0ado	inaŭguro		NULL	Einweihung	
+inauxg.0o0ado	inaŭgurado		NULL	Einweihung	
+inauxg.0o0ado	inaŭguro		NULL	Eröffnung	
+inauxg.0o0ado	inaŭgurado		NULL	Eröffnung	
+inauxg.0o0ado	inaŭguro		NULL	Eröffnungsfeier	
+inauxg.0o0ado	inaŭgurado		NULL	Eröffnungsfeier	
+inauxg.0o0ado	inaŭguro		NULL	Enthüllung	
+inauxg.0o0ado	inaŭgurado		NULL	Enthüllung	
+inauxg1.0o	inaŭguracio		NULL	Einweihung	
+inauxg1.0o	inaŭguracio		NULL	Eröffnung	
+inauxg1.0o	inaŭguracio		NULL	Eröffnungsfeier	
+inauxg1.0o	inaŭguracio		NULL	Enthüllung	
+incend.0o	incendio		NULL	Feuersbrunst	
+incend.0o	incendio		NULL	Großbrand	
+incend.0o.brulego	incendio		NULL	Feuersbrunst	
+incend.0o.brulego	incendio		NULL	Großbrand	
+incens.0i	incensi		NULL	NULL	NULL
+incens.0i.FIG	incensi	2	NULL	beweihräuchern	
+incens.0i.per_rezino	incensi	1	NULL	beräuchern	mit Weihrauch beräuchern
+incens.0o	incenso		oa_2	Beweihräucherung	
+incens.0o.rezino	incenso		oa_2	Weihrauch	
+incens.0o.rezino	incenso		oa_2	Räucherwerk	
+incens.0o.rezino	incenso		oa_2	Beweihräucherung	
+incens.0ujo	incensujo		NULL	Räucherfass	
+incens.0ujo	incensilo		NULL	Räucherfass	
+incens.0ujo	incensujo		NULL	Weihrauchfass	
+incens.0ujo	incensilo		NULL	Weihrauchfass	
+incens.0ujo	incensujo		NULL	Weihrauchgefäß	
+incens.0ujo	incensilo		NULL	Weihrauchgefäß	
+incens.0ujo.PAR	incensujo		NULL	Räucherfass	
+incens.0ujo.PAR	incensilo		NULL	Räucherfass	
+incens.0ujo.PAR	incensujo		NULL	Weihrauchfass	
+incens.0ujo.PAR	incensilo		NULL	Weihrauchfass	
+incens.0ujo.PAR	incensujo		NULL	Weihrauchgefäß	
+incens.0ujo.PAR	incensilo		NULL	Weihrauchgefäß	
+incest.0o	incesto		NULL	Blutschande	
+incest.0o	incesto		NULL	Inzest	
+incest.0o.JUR	incesto		NULL	Blutschande	
+incest.0o.JUR	incesto		NULL	Inzest	
+incid.0a	incida		NULL	NULL	NULL
+incid.0a.FOT	incida	1	NULL	einfallend	einfallend (Licht)
+incid.0a.FOT	incida	1	NULL	auftreffend	auftreffend (Licht)
+incid.0a.grafee	incida	2	NULL	inzident	
+incid.0i	incidi		NULL	inzidieren	
+incid.0i	incidi		NULL	auftreffen	auftreffen (Licht)
+incid.0i	incidi		NULL	einfallen	einfallen (Licht)
+incid.0i.radio	incidi		NULL	inzidieren	
+incid.0i.radio	incidi		NULL	auftreffen	auftreffen (Licht)
+incid.0i.radio	incidi		NULL	einfallen	einfallen (Licht)
+incide.0o	incidento		NULL	Zwischenfall	
+incide.0o	incidento		NULL	Vorfall	
+incide.0o.interokazajxo	incidento		NULL	Zwischenfall	
+incide.0o.interokazajxo	incidento		NULL	Vorfall	
+incidenc.0o	incidenco		NULL	Inzidenz	
+incit.0adi	incitadi		NULL	NULL	NULL
+incit.0ebla	incitebla		NULL	NULL	NULL
+incit.0eco	inciteco		NULL	NULL	NULL
+incit.0eti	inciteti		NULL	NULL	NULL
+incit.0i	inciti		NULL	erregen	
+incit.0i	inciti		NULL	reizen	
+incit.0i	inciti		NULL	aufstacheln	
+incit.0i.beston	inciti	2	NULL	erregen	
+incit.0i.beston	inciti	2	NULL	reizen	
+incit.0i.beston	inciti	2	NULL	aufstacheln	
+incit.0i.fizike	inciti	4	NULL	erregen	
+incit.0i.fizike	inciti	4	NULL	reizen	
+incit.0i.fizike	inciti	4	NULL	aufstacheln	
+incit.0i.instigi	inciti	3	NULL	aufwiegeln	
+incit.0i.instigi	inciti	3	NULL	erregen	
+incit.0i.instigi	inciti	3	NULL	reizen	
+incit.0i.instigi	inciti	3	NULL	aufstacheln	
+incit.0i.ion	inciti	5	NULL	erregen	
+incit.0i.ion	inciti	5	NULL	reizen	
+incit.0i.ion	inciti	5	NULL	aufstacheln	
+incit.0i.kolerigi	inciti	1	NULL	erregen	
+incit.0i.kolerigi	inciti	1	NULL	reizen	
+incit.0i.kolerigi	inciti	1	NULL	aufstacheln	
+incit.0igxema	incitiĝema		NULL	NULL	NULL
+incit.0igxi	incitiĝi		NULL	NULL	NULL
+incit.0o	incito		NULL	NULL	NULL
+incit.0o.eco	incito	2	NULL	NULL	NULL
+incit.0o.io	incito	1	NULL	NULL	NULL
+incizi.0o	incizivo		NULL	Schneidezahn	
+incxon.0o	Inĉono		NULL	Incheon	
+ind.0	-ind		NULL	-wert	
+ind.0	-ind		NULL	-würdig	
+ind.0.sufikso	-ind		NULL	-wert	
+ind.0.sufikso	-ind		NULL	-würdig	
+ind.0a	inda		ekz_23	wert	
+ind.0a	inda		ekz_23	würdig	
+ind.0a	inda		ekz_23	lohnend	
+ind.0a.meritanta_ion	inda	1	ekz_23	wert	
+ind.0a.meritanta_ion	inda	1	ekz_23	würdig	
+ind.0a.meritanta_ion	inda	1	ekz_23	lohnend	
+ind.0a.meritoplena	inda	3	ekz_23	wert	
+ind.0a.meritoplena	inda	3	ekz_23	würdig	
+ind.0a.meritoplena	inda	3	ekz_23	lohnend	
+ind.0a.sammerita	inda	2	ekz_23	wert	
+ind.0a.sammerita	inda	2	ekz_23	würdig	
+ind.0a.sammerita	inda	2	ekz_23	lohnend	
+ind.0eco	indeco		NULL	Würde	
+ind.0eco	indo		NULL	Würde	
+ind.0eco.merito	indeco	1	NULL	Würde	
+ind.0eco.merito	indo	1	NULL	Würde	
+ind.0eco.respekto	indeco	2	NULL	Würde	
+ind.0eco.respekto	indo	2	NULL	Würde	
+ind.0eco.valoro	indeco	3	NULL	Würde	
+ind.0eco.valoro	indo	3	NULL	Würde	
+ind.0i	indi		NULL	NULL	NULL
+ind.0i.meriti	indi		NULL	NULL	NULL
+ind.0igi	indigi		NULL	würdigen	
+ind.0igi	indigi		NULL	aufwerten	
+ind.mal0a	malinda		NULL	unwert	
+ind.mal0a	malinda		NULL	unwürdig	
+ind.sen0ulo	senindulo		NULL	Nichtswürdiger	
+ind.sen0ulo	senindulo		NULL	Unwürdiger	
+ind.sen0ulo.homo	senindulo		NULL	Nichtswürdiger	
+ind.sen0ulo.homo	senindulo		NULL	Unwürdiger	
+indeks.0o	indekso		oa_4	NULL	NULL
+indeks.0o	indekso		oa_4	NULL	NULL
+indeks.0o.KAT	indekso	2	oa_4	Index Romanus	
+indeks.0o.KAT	indekso	2	oa_4	Index Romanus	
+indeks.0o.KAT	indekso	2	oa_4	Verzeichnis verbotener Bücher	
+indeks.0o.KAT	indekso	2	oa_4	Verzeichnis verbotener Bücher	
+indeks.0o.KAT	indekso	2	oa_4	Index librorum prohibitorum	
+indeks.0o.KAT	indekso	2	oa_4	Index librorum prohibitorum	
+indeks.0o.TIP	indekso	1	oa_4	Stichwortverzeichnis	
+indeks.0o.TIP	indekso	1	oa_4	Stichwortverzeichnis	
+indeks.0o.TIP	indekso	1	oa_4	Index	
+indeks.0o.TIP	indekso	1	oa_4	Index	
+indeks.0o.TIP	indekso	1	oa_4	Inhaltsverzeichnis	
+indeks.0o.TIP	indekso	1	oa_4	Inhaltsverzeichnis	
+indi.0o	indio		NULL	Indium	
+indian.0a	indiana		NULL	indianisch	
+indian.0a.ETN	indiana		NULL	indianisch	
+indian.0o	indiano		NULL	Indianer	
+indian.0o.ETN	indiano		NULL	Indianer	
+indian.I0o	Indiano		NULL	Indianer	
+indian.I0o	Indiano		NULL	Inder	
+indian.I0o.AST	Indiano		NULL	Indianer	
+indian.I0o.AST	Indiano		NULL	Inder	
+indiana.0o	Indianao		NULL	Indiana	
+indiana.0o.GEOG	Indianao		NULL	Indiana	
+indic.0o	indico		NULL	NULL	NULL
+indic.0o.KOMP	indico	2	NULL	Index	
+indic.0o.SCI	indico	4	NULL	NULL	NULL
+indic.0o.TIP	indico	1	NULL	Index	
+indic.0o.familio	indico	3	NULL	Index	
+indic.0o.indikajxo	indico	5	NULL	Indiz	
+indic.0o.indikajxo	indico	5	NULL	Hinweis	
+indien.0o	indieno		NULL	Zitz	
+indien.0o	indieno		NULL	feiner buntbedruckter Kattun	
+indien.0o.TEKS	indieno		NULL	Zitz	
+indien.0o.TEKS	indieno		NULL	feiner buntbedruckter Kattun	
+indife.0a	indiferenta		NULL	gleichgültig	
+indife.0a.io	indiferenta	1	NULL	gleich	
+indife.0a.io	indiferenta	1	NULL	egal	
+indife.0a.io	indiferenta	1	NULL	gleichgültig	
+indife.0a.iu	indiferenta	2	NULL	unbeteiligt	
+indife.0a.iu	indiferenta	2	NULL	indifferent	
+indife.0a.iu	indiferenta	2	NULL	teilahmslos	
+indife.0a.iu	indiferenta	2	NULL	gleichmütig	
+indife.0a.iu	indiferenta	2	NULL	Anteilnahme	ohne Anteilnahme
+indife.0a.iu	indiferenta	2	NULL	gleichgültig	
+indife.0e	indiferente		NULL	gleichgültig	
+indife.0e	indiferente		NULL	indifferent	
+indife.0eal	indiferente al		NULL	gleichgültig	gleichgültig gegenüber
+indife.0eal	indiferente pri		NULL	gleichgültig	gleichgültig gegenüber
+indife.0eal	indiferente al		NULL	teilnahmslos	teilnahmslos gegenüber
+indife.0eal	indiferente pri		NULL	teilnahmslos	teilnahmslos gegenüber
+indife.0eal.KOMUNE	indiferente al		NULL	gleichgültig	gleichgültig gegenüber
+indife.0eal.KOMUNE	indiferente pri		NULL	gleichgültig	gleichgültig gegenüber
+indife.0eal.KOMUNE	indiferente al		NULL	teilnahmslos	teilnahmslos gegenüber
+indife.0eal.KOMUNE	indiferente pri		NULL	teilnahmslos	teilnahmslos gegenüber
+indife.0eco	indiferenteco		NULL	Gleichgültigkeit	
+indife.0eco	indiferenteco		NULL	Gleichmut	
+indife.0eco	indiferenteco		NULL	Teilnahmslosigkeit	
+indife.0i	indiferenti		NULL	gleichgültig	gleichgültig sein
+indife.0i.io	indiferenti	1	NULL	egal	egal sein
+indife.0i.io	indiferenti	1	NULL	spielen	keine Rolle spielen
+indife.0i.io	indiferenti	1	NULL	gleichgültig	gleichgültig sein
+indife.0i.iu	indiferenti	2	NULL	unbeteiligt	unbeteiligt sein
+indife.0i.iu	indiferenti	2	NULL	teilnahmslos	teilnahmslos sein
+indife.0i.iu	indiferenti	2	NULL	gleichgültig	gleichgültig sein
+indig.0a	indiga		NULL	NULL	NULL
+indig.0a	indigokolora		NULL	NULL	NULL
+indig.0a.KOL	indiga		NULL	NULL	NULL
+indig.0a.KOL	indigokolora		NULL	NULL	NULL
+indig.0o	indigo		oa_4	Indigo	
+indig.0o	indigo		oa_4	Indigo	
+indig.0o.KOL	indigo	2	oa_4	Indigo	
+indig.0o.KOL	indigo	2	oa_4	Indigo	
+indig.0o.tinkturo	indigo	1	oa_4	Indigo	
+indig.0o.tinkturo	indigo	1	oa_4	Indigo	
+indig.0ujo	indigujo		NULL	Indigopflanze	
+indig.0ujo	indigarbo		NULL	Indigopflanze	
+indig.0ujo.BOT	indigujo		NULL	Indigopflanze	
+indig.0ujo.BOT	indigarbo		NULL	Indigopflanze	
+indign.0a	indigna		NULL	empört	
+indign.0a	indigna		NULL	entrüstet	
+indign.0a	indigna		NULL	indigniert	indigniert [geh]
+indign.0e	indigne		NULL	empört	
+indign.0e	indigne		NULL	entrüstet	
+indign.0e	indigne		NULL	indigniert	indigniert [geh]
+indign.0i	indigni		NULL	empören	sich empören
+indign.0i	indigni		NULL	entrüsten	sich entrüsten
+indign.0i	indigni		NULL	ereifern	sich ereifern
+indign.0igi	indignigi		NULL	empören	
+indign.0igi	indignigi		NULL	aufregen	
+indign.0igi	indignigi		NULL	provozieren	
+indign.0indajxo	indignindaĵo		NULL	Affront	
+indign.0indajxo	indignigaĵo		NULL	Affront	
+indign.0indajxo	indignindaĵo		NULL	Skandal	
+indign.0indajxo	indignigaĵo		NULL	Skandal	
+indign.0indajxo	indignindaĵo		NULL	Provokation	
+indign.0indajxo	indignigaĵo		NULL	Provokation	
+indign.0o	indigno		NULL	Empörung	
+indign.0o	indigno		NULL	Entrüstung	
+indign.0o	indigno		NULL	Indigniertheit	Indigniertheit [geh][rar]
+indigx.0a	indiĝena		NULL	eingeboren	
+indigx.0a	indiĝena		NULL	indigen	
+indigx.0a.ETN	indiĝena		NULL	eingeboren	
+indigx.0a.ETN	indiĝena		NULL	indigen	
+indigx.0o	indiĝeno		oa_4	Ureinwohner	
+indigx.0o	indiĝeno		oa_4	Ureinwohner	
+indigx.0o	indiĝeno		oa_4	Eingeborener	
+indigx.0o	indiĝeno		oa_4	Eingeborener	
+indigx.0o	indiĝeno		oa_4	Indigener	
+indigx.0o	indiĝeno		oa_4	Indigener	
+indigx.0o.ETN	indiĝeno		oa_4	Ureinwohner	
+indigx.0o.ETN	indiĝeno		oa_4	Ureinwohner	
+indigx.0o.ETN	indiĝeno		oa_4	Eingeborener	
+indigx.0o.ETN	indiĝeno		oa_4	Eingeborener	
+indigx.0o.ETN	indiĝeno		oa_4	Indigener	
+indigx.0o.ETN	indiĝeno		oa_4	Indigener	
+indik.0ajxo	indikaĵo		NULL	Indiz	
+indik.0ajxo	indikaĵo		NULL	Verdachtsgrund	
+indik.0i	indiki		NULL	weisen	
+indik.0i	indiki		NULL	hinweisen	
+indik.0i	indiki		NULL	anzeigen	
+indik.0i	indiki		NULL	angeben	
+indik.0i.montri	indiki	1	NULL	weisen	
+indik.0i.montri	indiki	1	NULL	hinweisen	
+indik.0i.montri	indiki	1	NULL	anzeigen	
+indik.0i.montri	indiki	1	NULL	angeben	
+indik.0i.supozigi	indiki	2	NULL	weisen	
+indik.0i.supozigi	indiki	2	NULL	hinweisen	
+indik.0i.supozigi	indiki	2	NULL	anzeigen	
+indik.0i.supozigi	indiki	2	NULL	angeben	
+indik.0ilo	indikilo		NULL	Anzeige	
+indik.0ilo	indikilo		NULL	Indikator	
+indik.0ilo	indikilo		NULL	Kennzahl	
+indik.0ilo	indikilo		NULL	Hinweisschild	
+indik.0ilo	indikilo		NULL	Markierung	
+indik.0o	indiko		NULL	Hinweis	
+indik.0o	indiko		NULL	Anzeige	
+indik.0o	indiko		NULL	Angabe	
+indik.0o.sciigo	indiko	2	NULL	Hinweis	
+indik.0o.sciigo	indiko	2	NULL	Anzeige	
+indik.0o.sciigo	indiko	2	NULL	Angabe	
+indik.0o.simptomo	indiko	3	NULL	Indiz	
+indik.0o.simptomo	indiko	3	NULL	Hinweis	
+indik.0o.simptomo	indiko	3	NULL	Anzeige	
+indik.0o.simptomo	indiko	3	NULL	Angabe	
+indik.0uzo	uzindiko		NULL	Gebrauchshinweis	
+indika.0afrazo	indikativa frazo		NULL	NULL	NULL
+indika.0o	indikativo		oa_2	Wirklichkeitsform	
+indika.0o	indikativo		oa_2	Indikativ	
+indika.0o.gxenerale	indikativo	1	oa_2	Wirklichkeitsform	
+indika.0o.gxenerale	indikativo	1	oa_2	Indikativ	
+indika.0o.verba	indikativo	2	oa_2	Wirklichkeitsform	
+indika.0o.verba	indikativo	2	oa_2	Indikativ	
+indika1.0o	indikatoro		NULL	Anzeiger	
+indika1.0o	indikatoro		NULL	Anzeigegerät	
+indika1.0o	indikatoro		NULL	Anzeigeinstrument	
+indika1.0o	indikatoro		NULL	Messgerät	
+indika1.0o	indikatoro		NULL	Messinstrument	
+indivi.0a	individua		NULL	individuell	
+indivi.0a.KOMUNE	individua		NULL	individuell	
+indivi.0eco	individueco		NULL	Individualität	
+indivi.0eco.KOMUNE	individueco		NULL	Individualität	
+indivi.0ismo	individuismo		NULL	Individualismus	
+indivi.0ismo.POL	individuismo		NULL	Individualismus	
+indivi.0isto	individuisto		NULL	Individualist	
+indivi.0isto.POL	individuisto		NULL	Individualist	
+indivi.0o	individuo		NULL	Individuum	
+indivi.0o.KOMUNE	individuo	1	NULL	Individuum	
+indivi.0o.ajnulo	individuo	2	NULL	Typ	Typ (Person)
+indivi.0o.ajnulo	individuo	2	NULL	Individuum	
+indivi1.0a	individuala		NULL	individuell	
+indivi1.0ismo	individualismo		NULL	Individualismus	
+indivi1.0isto	individualisto		NULL	Individualist	
+indonezi.I0o	Indonezio		NULL	NULL	NULL
+indonezi.I0o.GEOG	Indonezio		NULL	Indonesien	
+indr.0o	Indro		NULL	Indra	
+indr.0o.HIN	Indro		NULL	Indra	
+indukci.0o	indukcio		NULL	Induktion	
+indukci.0o.ELE	indukcio		NULL	Induktion	
+indukt.0a	indukta		NULL	induktiv	
+indukt.0i	indukti		NULL	induzieren	
+indukt.0i	indukti		NULL	auslösen	
+indukt.0i.BIO	indukti	3	NULL	induzieren	
+indukt.0i.BIO	indukti	3	NULL	auslösen	
+indukt.0i.ELE	indukti	2	NULL	induzieren	
+indukt.0i.ELE	indukti	2	NULL	auslösen	
+indukt.0i.FIG	indukti	4	NULL	induzieren	
+indukt.0i.FIG	indukti	4	NULL	auslösen	
+indukt.0i.KOMUNE	indukti	1	NULL	verallgemeinern	
+indukt.0i.KOMUNE	indukti	1	NULL	induzieren	
+indukt.0i.KOMUNE	indukti	1	NULL	auslösen	
+indukt.0o	indukto		NULL	Induktion	
+indukt.0o.ELE	indukto	2	NULL	Induktion	
+indukt.0o.KOMUNE	indukto	1	NULL	Induktion	
+indukt.0o.MAT	indukto	3	NULL	Induktion	
+indukt.0o.MAT	indukto	3	NULL	Induktion	
+indukt.il0o	induktilo		NULL	Spule	
+indukt.il0o	induktilo		NULL	Drossel	Drossel (Spule)
+indukt.il0o.ELE	induktilo		NULL	Spule	
+indukt.il0o.ELE	induktilo		NULL	Drossel	Drossel (Spule)
+indulg.0ema	indulgema		NULL	nachsichtig	
+indulg.0ema	indulgema		NULL	weitherzig	
+indulg.0ema	indulgema		NULL	großzügig	
+indulg.0i	indulgi		NULL	nachsichtig sein	
+indulg.0o	indulgo		NULL	Nachsichtig	
+indulg.0o	indulgo		NULL	Weitherzigkeit	
+indulg.0o	indulgo		NULL	Großzügigkeit	
+indulg.sen0a	senindulga		NULL	unnachsichtig	
+indulg.sen0a	senindulga		NULL	schonungslos	
+indulg1.0o	indulgenco		NULL	Ablass	
+indus.0o	Induso		NULL	Indus	
+indust.0a	industria		NULL	industriell	
+indust.0a.EKON	industria	1	NULL	industriell	
+indust.0a.industrioza	industria	2	NULL	industriell	
+indust.0isto	industriisto		NULL	Industrielle	
+indust.0isto	industriulo		NULL	Industrielle	
+indust.0isto	industriisto		NULL	Industrieller	
+indust.0isto	industriulo		NULL	Industrieller	
+indust.0isto.EKON	industriisto		NULL	Industrielle	
+indust.0isto.EKON	industriulo		NULL	Industrielle	
+indust.0isto.EKON	industriisto		NULL	Industrieller	
+indust.0isto.EKON	industriulo		NULL	Industrieller	
+indust.0o	industrio		NULL	Industrie	
+indust.0o.EKON_brancxo	industrio	2	NULL	Industrie	
+indust.0o.EKON_tuto	industrio	1	NULL	Industrie	
+indust.nutrajx0o	nutraĵindustrio		NULL	NULL	NULL
+indust.nutrajx0o	nutrindustrio		NULL	NULL	NULL
+indust.nutrajx0o.EKON	nutraĵindustrio		NULL	NULL	NULL
+indust.nutrajx0o.EKON	nutrindustrio		NULL	NULL	NULL
+indust.post0a	postindustria		NULL	NULL	NULL
+indust.post0a.EKON	postindustria		NULL	NULL	NULL
+inerci.0a	inercia		NULL	NULL	NULL
+inerci.0a.inerteca	inercia		NULL	NULL	NULL
+inerci.0o	inercio		NULL	NULL	NULL
+inerci.0o.FIZ	inercio	2	NULL	NULL	NULL
+inerci.0o.psika	inercio	1	NULL	NULL	NULL
+inerci.0uma	inerciuma		NULL	NULL	NULL
+inerci.0uma.inerteca	inerciuma		NULL	NULL	NULL
+inert.0a	inerta		oa_4	NULL	NULL
+inert.0a	inerta		oa_4	NULL	NULL
+inert.0a.FIG	inerta	3	oa_4	träge	
+inert.0a.FIG	inerta	3	oa_4	träge	
+inert.0a.KEM	inerta	2	oa_4	inert	
+inert.0a.KEM	inerta	2	oa_4	inert	
+inert.0a.KEM	inerta	2	oa_4	reaktionsträge	
+inert.0a.KEM	inerta	2	oa_4	reaktionsträge	
+inert.0a.senmova	inerta	1	oa_4	bewegungslos	
+inert.0a.senmova	inerta	1	oa_4	bewegungslos	
+inert.0a.senmova	inerta	1	oa_4	unbeweglich	
+inert.0a.senmova	inerta	1	oa_4	unbeweglich	
+inert.0eco	inerteco		NULL	Trägheit	
+inert.0eco	inerto		NULL	Trägheit	
+inert.0eco.FIZ	inerteco	1	NULL	Trägheit	
+inert.0eco.FIZ	inerto	1	NULL	Trägheit	
+inert.0eco.psika	inerteco	2	NULL	Antriebslosigkeit	
+inert.0eco.psika	inerto	2	NULL	Antriebslosigkeit	
+inert.0eco.psika	inerteco	2	NULL	Trägheit	
+inert.0eco.psika	inerto	2	NULL	Trägheit	
+infan.0a	infana		NULL	NULL	NULL
+infan.0a.deInfano	infana	1	NULL	Kinder-	
+infan.0a.sensperta	infana	2	NULL	kindlich	
+infan.0a.sensperta	infana	2	NULL	kindisch	
+infan.0ajxo	infanaĵo		NULL	Kinderei	
+infan.0eco	infaneco		ekz_11	Kindlichkeit	
+infan.0eco	infaneco		uv_E	Kindlichkeit	
+infan.0eco	infaneco		ekz_11	Kindheit	
+infan.0eco	infaneco		uv_E	Kindheit	
+infan.0eco.KOMUNE	infaneco		ekz_11	Kindlichkeit	
+infan.0eco.KOMUNE	infaneco		uv_E	Kindlichkeit	
+infan.0eco.KOMUNE	infaneco		ekz_11	Kindheit	
+infan.0eco.KOMUNE	infaneco		uv_E	Kindheit	
+infan.0eto	infaneto		NULL	Kindchen	
+infan.0eto.bebo	infaneto	1	NULL	Kindchen	
+infan.0eto.feto	infaneto	2	NULL	Kindchen	
+infan.0istino	infanistino		NULL	Kindergärtnerin	
+infan.0istino	infanistino		NULL	Erzieherin	
+infan.0istino.PED	infanistino		NULL	Kindergärtnerin	
+infan.0istino.PED	infanistino		NULL	Erzieherin	
+infan.0umi	infanumi		NULL	NULL	NULL
+infan.0umi.PSI	infanumi		NULL	NULL	NULL
+infan.mir0o	mirinfano		NULL	Wunderkind	
+infan.mir0o.PED	mirinfano		NULL	Wunderkind	
+infan.por0a	porinfana		NULL	NULL	NULL
+infan.por0a.PED	porinfana		NULL	NULL	NULL
+infan.sen0a	seninfana		NULL	kinderlos	
+infan.sen0a.GEN	seninfana		NULL	kinderlos	
+infan.sol0o	solinfano		NULL	Einzelkind	
+infan.sol0o.GEN	solinfano		NULL	Einzelkind	
+infan.sucx0o	suĉinfano		NULL	Säugling	
+infan.sucx0o	suĉinfano		NULL	Baby	
+infan.sucx0o.PED	suĉinfano		NULL	Säugling	
+infan.sucx0o.PED	suĉinfano		NULL	Baby	
+infant.0ano	infanteriano		NULL	Infanterist	
+infant.0ano	infanteriano		NULL	Fußsoldat	
+infant.0ano.MIL	infanteriano		NULL	Infanterist	
+infant.0ano.MIL	infanteriano		NULL	Fußsoldat	
+infant.0o	infanterio		NULL	Infanterie	
+infant.0o	infanterio		NULL	Fußtruppen	
+infant.0o.MIL	infanterio		NULL	Infanterie	
+infant.0o.MIL	infanterio		NULL	Fußtruppen	
+infarkt.0o	infarkto		NULL	Infarkt	
+infarkt.0o.MED	infarkto		NULL	Infarkt	
+infekt.0a	infekta		NULL	ansteckend	
+infekt.0a	infekta		NULL	infektiös	
+infekt.0a.FIG	infekta	2	NULL	ansteckend	
+infekt.0a.FIG	infekta	2	NULL	infektiös	
+infekt.0a.MED	infekta	1	NULL	ansteckend	
+infekt.0a.MED	infekta	1	NULL	infektiös	
+infekt.0ajxo	infektaĵo		NULL	NULL	NULL
+infekt.0ajxo.antajxo	infektaĵo	1	NULL	Keim	(Krankheits-)Keim
+infekt.0ajxo.atajxo	infektaĵo	2	NULL	NULL	NULL
+infekt.0i	infekti		ekz_39	anstecken	
+infekt.0i	infekti		ekz_39	infizieren	
+infekt.0i.FIG	infekti	2	ekz_39	anstecken	
+infekt.0i.FIG	infekti	2	ekz_39	infizieren	
+infekt.0i.MED	infekti	1	ekz_39	anstecken	
+infekt.0i.MED	infekti	1	ekz_39	infizieren	
+infekt.0i.rido	infekti	3	ekz_39	anstecken	
+infekt.0i.rido	infekti	3	ekz_39	infizieren	
+infekt.0o0ado	infekto		NULL	Ansteckung	
+infekt.0o0ado	infektado		NULL	Ansteckung	
+infekt.0o0ado	infekto		NULL	Infektion	
+infekt.0o0ado	infektado		NULL	Infektion	
+infekt.mal0isen0igi	malinfekti		NULL	desinfizieren	
+infekt.mal0isen0igi	seninfektigi		NULL	desinfizieren	
+infektolog.0o	infektologo		NULL	NULL	NULL
+infektolog.0o.MED	infektologo		NULL	Infektiologe	
+infektologi.0o	infektologio		NULL	NULL	NULL
+infektologi.0o.MED	infektologio		NULL	Infektiologie	
+infer.0a	infera		NULL	höllisch	
+infer.0a	infera		NULL	infernalisch	
+infer.0a.FIG	infera	2	NULL	höllisch	
+infer.0a.FIG	infera	2	NULL	infernalisch	
+infer.0a.REL	infera	1	NULL	höllisch	
+infer.0a.REL	infera	1	NULL	infernalisch	
+infer.0o	infero		NULL	Hölle	
+infer.0o.FIG	infero	3	NULL	Hölle	
+infer.0o.KRI	infero	2	NULL	Hölle	
+infer.0o.REL	infero	1	NULL	Hölle	
+infest.0i	infesti		NULL	befallen	
+infest.0i	infesti		NULL	bevölkern	bevölkern (befallen)
+infest.0i.BIO	infesti		NULL	befallen	
+infest.0i.BIO	infesti		NULL	bevölkern	bevölkern (befallen)
+infest.0o	infesto		NULL	Befall	
+infest.0o	infestado		NULL	Befall	
+infest.0o.BIO	infesto		NULL	Befall	
+infest.0o.BIO	infestado		NULL	Befall	
+infim.0o	infimo		NULL	Infimum	
+infim.0o	infimo		NULL	Grenze	untere Grenze
+infim.limes0o	limesinfimo		NULL	Limes	unterer Limes
+infim.limes0o	limesinfimo		NULL	limes inferior	
+infini.0a	infinita		NULL	NULL	NULL
+infini.0a.KOMUNE	infinita	1	NULL	unendlich	
+infini.0a.MAT	infinita	2	NULL	unendlich	
+infini.0iganto	infinitiganto		NULL	NULL	NULL
+infini.0igxi	infinitiĝi		NULL	streben	gegen Unendlich streben
+infini.0o	infinito		NULL	NULL	NULL
+infini.0o.KOMUNE	infinito	1	NULL	NULL	NULL
+infini.0o.MAT	infinito	2	NULL	Unendlich	
+infini1.0a	infinitezima		NULL	infinitesimal	
+infini1.0o	infinitezimo		NULL	Größe	unendlich kleine Größe
+infini1.0o.MAT	infinitezimo	2	NULL	Größe	unendlich kleine Größe
+infini1.cxef0o	ĉefinfinitezimo		NULL	NULL	NULL
+infini2.0o	infinitivo		oa_2	Infinitiv	
+infini2.0o	infinitivo		oa_2	Nennform	
+infini2.0o	infinitivo		oa_2	Grundform	
+inflac.0o	inflacio		oa_9	Inflation	
+inflac.0o.falo	inflacio	3	oa_9	Geldentwertung	
+inflac.0o.falo	inflacio	3	oa_9	Inflation	
+inflac.0o.kresko	inflacio	1	oa_9	Inflation	
+inflac.mal0o	malinflacio		NULL	Deflation	
+inflac.mal0o.EKON	malinflacio		NULL	Deflation	
+inflam.0a	inflama		NULL	NULL	NULL
+inflam.0i	inflami		NULL	entzündet sein	
+inflam.0igi	inflamigi		NULL	entzünden	
+inflam.0o	inflamo		oa_4	Entzündung	Entzündung (Med.)
+inflam.gorgx0o	gorĝinflamo		NULL	Halsentzündung	
+inflam.okul0o	okulinflamo		NULL	Augenentzündung	
+inflam.orel0o	orelinflamo		NULL	Mittelohrentzündung	
+inflam.pulm0o	pulminflamo		NULL	Pneumonie	
+inflam.pulm0o	pulminflamo		NULL	Lungenentzündung	
+inflek.0a	infleksa		NULL	Inflexions-	Inflexions-(punkt)
+inflek.0a	infleksa		NULL	Wende-	Wende-(punkt)
+inflor.0o	infloresko		NULL	Blütenstand	
+influ.0a	influa		NULL	einflussreich	
+influ.0a	influhava		NULL	einflussreich	
+influ.0a.KOMUNE	influa		NULL	einflussreich	
+influ.0a.KOMUNE	influhava		NULL	einflussreich	
+influ.0ebla	influebla		NULL	NULL	NULL
+influ.0ebla.KOMUNE	influebla		NULL	NULL	NULL
+influ.0i	influi		NULL	beeinflussen	
+influ.0i.KOMUNE	influi		NULL	beeinflussen	
+influ.0igxi	influiĝi		NULL	NULL	NULL
+influ.0igxi.KOMUNE	influiĝi		NULL	NULL	NULL
+influ.0o	influo		NULL	Einfluss	
+influ.0o.KOMUNE	influo		NULL	Einfluss	
+influ.kontraux0o	kontraŭinfluo		NULL	NULL	NULL
+influ.kontraux0o.KOMUNE	kontraŭinfluo		NULL	NULL	NULL
+influ.sen0a	seninflua		NULL	NULL	NULL
+influ.sen0a.KOMUNE	seninflua		NULL	NULL	NULL
+influenc.0o	influenco		NULL	Grippe	
+influenc.0o	influenco		NULL	Influenza	
+influenc.0o.MED	influenco		NULL	Grippe	
+influenc.0o.MED	influenco		NULL	Influenza	
+inform.0a	informa		NULL	NULL	NULL
+inform.0ado	informado		NULL	NULL	NULL
+inform.0ado.KOMUNE	informado		NULL	NULL	NULL
+inform.0ejo	informejo		NULL	NULL	NULL
+inform.0ejo.KOMUNE	informejo		NULL	NULL	NULL
+inform.0ero	informero		NULL	NULL	NULL
+inform.0ero.KOMUNE	informero		NULL	Sachverhalt	
+inform.0ero.KOMUNE	informero		NULL	Angabe	
+inform.0i	informi		NULL	mitteilen	
+inform.0i	informi		NULL	Kenntnis	in Kenntnis setzen
+inform.0i	informi		NULL	informieren	
+inform.0i.KOMUNE	informi		NULL	mitteilen	
+inform.0i.KOMUNE	informi		NULL	Kenntnis	in Kenntnis setzen
+inform.0i.KOMUNE	informi		NULL	informieren	
+inform.0igxi	informiĝi		NULL	NULL	NULL
+inform.0igxi.KOMUNE	informiĝi		NULL	informieren	sich informieren
+inform.0ilo	informilo		NULL	NULL	NULL
+inform.0ilo.KOMUNE	informilo		NULL	NULL	NULL
+inform.0isto	informisto		NULL	Informant	
+inform.0isto	informisto		NULL	Presseagent	
+inform.0o	informo		NULL	NULL	NULL
+inform.0o.KOMP	informo	2	NULL	Information	
+inform.0o.KOMUNE	informo	1	NULL	Mitteilung	
+inform.0o.KOMUNE	informo	1	NULL	Auskunft	
+inform.0o.KOMUNE	informo	1	NULL	Information	
+inform.mis0i	misinformi		NULL	informieren	falsch informieren
+inform.mis0i.INF	misinformi		NULL	informieren	falsch informieren
+inform.mis0o	misinformo		NULL	NULL	NULL
+inform.mis0o.INF	misinformo		NULL	NULL	NULL
+informatik.0isto	informatikisto		NULL	Informatiker	
+informatik.0isto	informadikisto		NULL	Informatiker	
+informatik.0isto.SCI	informatikisto		NULL	Informatiker	
+informatik.0isto.SCI	informadikisto		NULL	Informatiker	
+informatik.0o	informatiko		NULL	Informatik	
+informatik.0o	informadiko		NULL	Informatik	
+informatik.0o.KOMP	informatiko		NULL	Informatik	
+informatik.0o.KOMP	informadiko		NULL	Informatik	
+infra.0	infra-		NULL	NULL	NULL
+infra.0.SCI	infra-		NULL	NULL	NULL
+infrarugx.0a	infraruĝa		NULL	infrarot	
+infrarugx.0a.FIZ	infraruĝa		NULL	infrarot	
+infrason.0o	infrasono		NULL	NULL	NULL
+infrason.0o.FIZ	infrasono		NULL	NULL	NULL
+infrastruktur.0o	infrastrukturo		NULL	NULL	NULL
+infrastruktur.0o.TEK	infrastrukturo		NULL	NULL	NULL
+infuz.0ajxo	infuzaĵo		NULL	Aufguss	
+infuz.0ajxo	infuzaĵo		NULL	Tee	
+infuz.0ajxo.KUI	infuzaĵo		NULL	Aufguss	
+infuz.0ajxo.KUI	infuzaĵo		NULL	Tee	
+infuz.0i	infuzi		NULL	aufgießen	
+infuz.0i	infuzi		NULL	aufbrühen	
+infuz.0i	infuzi		NULL	ziehen lassen	
+infuz.0i.KUI	infuzi		NULL	aufgießen	
+infuz.0i.KUI	infuzi		NULL	aufbrühen	
+infuz.0i.KUI	infuzi		NULL	ziehen lassen	
+infuz.0igxi	infuziĝi		NULL	ziehen	ziehen (Teeaufguss)
+infuz.0igxi	infuziĝi		NULL	durchziehen	durchziehen (Tee)
+infuz.0igxi.KUI	infuziĝi		NULL	ziehen	ziehen (Teeaufguss)
+infuz.0igxi.KUI	infuziĝi		NULL	durchziehen	durchziehen (Tee)
+infuzori.0o	infuzorio		NULL	Infusorie	
+infuzori.0o.BAK	infuzorio		NULL	Infusorie	
+ing.0	-ing		ekz_40	NULL	NULL
+ing.0.KOMUNE	-ing		ekz_40	NULL	NULL
+ing.0ita	ingita		NULL	verschachtelt	
+ing.0ita	ingita		NULL	eingebettet	
+ing.0o	ingo		NULL	Hülse	
+ing.0o	ingo		NULL	Halter	
+ing.0o	ingo		NULL	Fassung	
+ing.0o	ingo		NULL	Scheide	
+ing.0o.KOMUNE	ingo		NULL	Hülse	
+ing.0o.KOMUNE	ingo		NULL	Halter	
+ing.0o.KOMUNE	ingo		NULL	Fassung	
+ing.0o.KOMUNE	ingo		NULL	Scheide	
+ing.el0igi	elingigi		NULL	heraus ziehen	
+ing.el0igi.KOMUNE	elingigi		NULL	ziehen	ziehen (Schwert)
+ing.el0igi.KOMUNE	elingigi		NULL	heraus ziehen	
+ing.en0igi	eningigi		NULL	einstecken	
+ing.en0igi	eningigi		NULL	einfassen	
+ing.en0igi	eningigi		NULL	fassen	fassen (einstecken)
+ing.en0igi.KOMUNE	eningigi		NULL	einstecken	
+ing.en0igi.KOMUNE	eningigi		NULL	einfassen	
+ing.en0igi.KOMUNE	eningigi		NULL	fassen	fassen (einstecken)
+ingot.0o	ingoto		NULL	Barren	Barren (Metall)
+ingred.0o	ingredienco		oa_6	Zutat	
+ingred.0o	ingredienco		oa_6	Bestandteil	
+ingred.0o	ingredienco		oa_6	Ingredienz	Ingredienz [ark]
+ingred.0o.KOMUNE	ingredienco		oa_6	Zutat	
+ingred.0o.KOMUNE	ingredienco		oa_6	Bestandteil	
+ingred.0o.KOMUNE	ingredienco		oa_6	Ingredienz	Ingredienz [ark]
+ingven.0o	ingveno		NULL	Leiste	Leiste (Anatomie)
+ingven.0o.ANA	ingveno		NULL	Leiste	Leiste (Anatomie)
+ingxen.0o	inĝeniero		ekz_25	Ingenieur	
+ingxeni.0a	inĝenia		NULL	NULL	NULL
+ingxeni.0a.KOMUNE	inĝenia		NULL	NULL	NULL
+ingxeni.0o	inĝenio		NULL	NULL	NULL
+ingxeni.0o.KOMUNE	inĝenio		NULL	NULL	NULL
+inhal.0ado	inhalado		NULL	Inhalieren	
+inhal.0ado	inhalo		NULL	Inhalieren	
+inhal.0ado	inhalado		NULL	Inhalation	
+inhal.0ado	inhalo		NULL	Inhalation	
+inhal.0ado	inhalado		NULL	Einatmen	
+inhal.0ado	inhalo		NULL	Einatmen	
+inhal.0ado.MED	inhalado		NULL	Inhalieren	
+inhal.0ado.MED	inhalo		NULL	Inhalieren	
+inhal.0ado.MED	inhalado		NULL	Inhalation	
+inhal.0ado.MED	inhalo		NULL	Inhalation	
+inhal.0ado.MED	inhalado		NULL	Einatmen	
+inhal.0ado.MED	inhalo		NULL	Einatmen	
+inhal.0ajxo	inhalaĵo		NULL	Inhalat	
+inhal.0ajxo	inhalaĵo		NULL	einzuatmende Dämpfe	
+inhal.0ajxo.MED	inhalaĵo		NULL	Inhalat	
+inhal.0ajxo.MED	inhalaĵo		NULL	einzuatmende Dämpfe	
+inhal.0i	inhali		NULL	inhalieren	
+inhal.0i	inhali		NULL	einatmen	
+inhal.0i.MED	inhali		NULL	inhalieren	
+inhal.0i.MED	inhali		NULL	einatmen	
+inhal.0ilo	inhalilo		NULL	Inhalator	
+inhal.0ilo.MED	inhalilo		NULL	Inhalator	
+inhib.0i	inhibi		NULL	hemmen	
+inhib.0i	inhibicii		NULL	hemmen	
+inhib.0i	inhibi		NULL	unterdrücken	
+inhib.0i	inhibicii		NULL	unterdrücken	
+inhib.0i.BIO	inhibi	1	NULL	hemmen	
+inhib.0i.BIO	inhibicii	1	NULL	hemmen	
+inhib.0i.BIO	inhibi	1	NULL	unterdrücken	
+inhib.0i.BIO	inhibicii	1	NULL	unterdrücken	
+inhib.0i.FIG	inhibi	2	NULL	hemmen	
+inhib.0i.FIG	inhibicii	2	NULL	hemmen	
+inhib.0i.FIG	inhibi	2	NULL	unterdrücken	
+inhib.0i.FIG	inhibicii	2	NULL	unterdrücken	
+inhib.0o	inhibo		NULL	Hemmung	
+inhib.0o	inhibicio		NULL	Hemmung	
+inhib.0o	inhibo		NULL	Unterdrückung	
+inhib.0o	inhibicio		NULL	Unterdrückung	
+inhib.0o	inhibo		NULL	Inhibition	
+inhib.0o	inhibicio		NULL	Inhibition	
+inhib.0o.BIO	inhibo	1	NULL	Hemmung	
+inhib.0o.BIO	inhibicio	1	NULL	Hemmung	
+inhib.0o.BIO	inhibo	1	NULL	Unterdrückung	
+inhib.0o.BIO	inhibicio	1	NULL	Unterdrückung	
+inhib.0o.BIO	inhibo	1	NULL	Inhibition	
+inhib.0o.BIO	inhibicio	1	NULL	Inhibition	
+inhib.0o.FIG	inhibo	2	NULL	Hemmung	
+inhib.0o.FIG	inhibicio	2	NULL	Hemmung	
+inhib.0o.FIG	inhibo	2	NULL	Unterdrückung	
+inhib.0o.FIG	inhibicio	2	NULL	Unterdrückung	
+inhib.0o.FIG	inhibo	2	NULL	Inhibition	
+inhib.0o.FIG	inhibicio	2	NULL	Inhibition	
+inic.0i	inici		NULL	einweihen	einweihen (in etw.)
+inic.0i	inici		NULL	unterweisen	unterweisen (einweihen)
+inic.0i.KOMUNE	inici		NULL	einweihen	einweihen (in etw.)
+inic.0i.KOMUNE	inici		NULL	unterweisen	unterweisen (einweihen)
+inic.0igxi	iniciĝi		NULL	eingeweiht	eingeweiht werden
+inic.0igxi	iniciĝi		NULL	eingeführt	eingeführt werden (in etwas)
+inic.0igxi.KOMUNE	iniciĝi		NULL	eingeweiht	eingeweiht werden
+inic.0igxi.KOMUNE	iniciĝi		NULL	eingeführt	eingeführt werden (in etwas)
+inic.0ito	inicito		NULL	Eingeweihter	
+inicia.0emo	iniciatemo		NULL	Unternehmungslust	
+inicia.0emo	iniciatemo		NULL	Unternehmungsgeist	
+inicia.0emo	iniciatemo		NULL	Entschlusskraft	
+inicia.0emo	iniciatemo		NULL	Agilität	
+inicia.0i	iniciati		NULL	initiieren	
+inicia.0i	iniciati		NULL	einführen	
+inicia.0i	iniciati		NULL	anstoßen	anstoßen (initiieren)
+inicia.0i	iniciati		NULL	anregen	
+inicia.0i	iniciati		NULL	Anstoß	den Anstoß geben
+inicia.0into	iniciatinto		NULL	Initiator	
+inicia.0into	iniciatinto		NULL	Anstoßgeber	
+inicia.0into	iniciatinto		NULL	Urheber	
+inicia.0o	iniciato		NULL	Initiative	
+inicia.0o	iniciato		NULL	Anstoß	
+inicia.0o	iniciato		NULL	Anregung	
+inicia1.0o	iniciativo		NULL	Initiative	
+inicia1.0o.iniciatemo	iniciativo	2	NULL	Initiative	
+inicia1.0o.iniciato	iniciativo	1	NULL	Initiative	
+inicia2.0o	iniciatoro		NULL	Initiator	
+inicia2.0o	iniciatoro		NULL	Anstoßgeber	
+inicia2.0o	iniciatoro		NULL	Urheber	
+inicia2.0o.iniciatinto	iniciatoro		NULL	Initiator	
+inicia2.0o.iniciatinto	iniciatoro		NULL	Anstoßgeber	
+inicia2.0o.iniciatinto	iniciatoro		NULL	Urheber	
+inicial.0o	inicialo		NULL	Initiale	
+injekt.0ajxo	injektaĵo		NULL	Injektionsflüssigkeit	
+injekt.0i	injekti		oa_8	spritzen	(jmd. etw.) spritzen
+injekt.0i	injekti		oa_8	injizieren	
+injekt.0i.MED	injekti	1	oa_8	spritzen	(jmd. etw.) spritzen
+injekt.0i.MED	injekti	1	oa_8	injizieren	
+injekt.0i.TEK	injekti	2	oa_8	spritzen	(jmd. etw.) spritzen
+injekt.0i.TEK	injekti	2	oa_8	injizieren	
+injekt.0ilo	injektilo		NULL	Spritze	
+injekt.0ilo.MED	injektilo	1	NULL	Spritze	
+injekt.0ilo.TEK	injektilo	2	NULL	Spritze	
+injekt.0o	injekto		NULL	Injektion	
+injekt.0o.MED	injekto	1	NULL	Injektion	
+injekt.0o.TEK	injekto	2	NULL	Injektion	
+injekt1.0o	injektoro		NULL	Injektor	
+injekt1.0o	injektoro		NULL	Wasserstrahldüse	
+injekt1.0o	injektoro		NULL	Dampfstrahlwasserpumpe	
+ink.0o	inko		ekz_34	Tinte	
+ink.0o.presa	inko	2	ekz_34	Tinte	
+ink.0o.skriba	inko	1	ekz_34	Tinte	
+ink.0ujo	inkujo		uv_U	Tintenfass	
+ink.cxina0o	ĉina inko		NULL	Tusche	
+ink.cxina0o	ĥina inko		NULL	Tusche	
+ink.pres0o	presinko		NULL	Druckerschwärze	
+ink.pres0o	presinko		NULL	Druckfarbe	
+inka.0o	inkao		NULL	Inka	
+inka.0o.ano	inkao	2	NULL	Inka	
+inkand.0a	inkandeska		NULL	weißglühend	
+inkand.0a.FIZ	inkandeska		NULL	weißglühend	
+inkand.0i	inkandeski		NULL	weißglühen	
+inkand.0i	inkandeski		NULL	weißglühend werden	
+inkand.0i.FIZ	inkandeski		NULL	weißglühen	
+inkand.0i.FIZ	inkandeski		NULL	weißglühend werden	
+inkand.0o	inkandesko		NULL	Weißglut	
+inkand.0o.FIZ	inkandesko		NULL	Weißglut	
+inklin.0a	inklina		NULL	geneigt	
+inklin.0a	inklina		NULL	hingezogen sein	hingezogen sein (zu etwas)
+inklin.0a.PSI	inklina		NULL	geneigt	
+inklin.0a.PSI	inklina		NULL	hingezogen sein	hingezogen sein (zu etwas)
+inklin.0i	inklini		NULL	neigen	neigen zu
+inklin.0i.PSI	inklini		NULL	neigen	neigen zu
+inklin.0igi	inklinigi		NULL	gewogen	gewogen machen
+inklin.0igi	inklinigi		NULL	gewinnen	(jmd. für etwas) gewinnen
+inklin.0igi.PSI	inklinigi		NULL	gewogen	gewogen machen
+inklin.0igi.PSI	inklinigi		NULL	gewinnen	(jmd. für etwas) gewinnen
+inklin.0igxi	inkliniĝi		NULL	Gefallen	Gefallen finden
+inklin.0igxi	inkliniĝi		NULL	zuneigen	sich zuneigen
+inklin.0igxi.PSI	inkliniĝi		NULL	Gefallen	Gefallen finden
+inklin.0igxi.PSI	inkliniĝi		NULL	zuneigen	sich zuneigen
+inklin.0o	inklino		NULL	NULL	NULL
+inklin.0o.KOMUNE	inklino	1	NULL	Neigung	
+inklin.0o.KOMUNE	inklino	1	NULL	Hang	Hang (zu etwas)
+inklin.0o.KOMUNE	inklino	1	NULL	Veranlagung	Veranlagung (Neigung)
+inklin.0o.MAT	inklino	2	NULL	Steigung	
+inklin.0o.MAT	inklino	2	NULL	Richtungskoeffizient	
+inklin.kor0i	korinklini		NULL	NULL	NULL
+inklin.kor0i.PSI	korinklini		NULL	NULL	NULL
+inklin.kor0igxi	korinkliniĝi		NULL	Zuneigung	Zuneigung gewinnen
+inklin.kor0igxi.PSI	korinkliniĝi		NULL	Zuneigung	Zuneigung gewinnen
+inklin.kor0o	korinklino		NULL	Zuneigung	
+inklin.kor0o	kora inklino		NULL	Zuneigung	
+inklin.kor0o.PSI	korinklino		NULL	Zuneigung	
+inklin.kor0o.PSI	kora inklino		NULL	Zuneigung	
+inklin.mal0a	malinklina		NULL	abgeneigt	
+inklin.mal0a.PSI	malinklina		NULL	abgeneigt	
+inklin.mal0i	malinklini		NULL	NULL	NULL
+inklin.mal0i.PSI	malinklini		NULL	NULL	NULL
+inklin.mal0o	malinklino		NULL	NULL	NULL
+inklin.mal0o.PSI	malinklino		NULL	NULL	NULL
+inklud.0i	inkludi		NULL	NULL	NULL
+inklud.0i.inkluzivi	inkludi	2	NULL	einschließen	
+inklud.0i.inkluzivi	inkludi	2	NULL	beinhalten	
+inklud.0i.inkluzivi	inkludi	2	NULL	enthalten	
+inklud.0i.inkluzivigi	inkludi	1	NULL	einschließen	
+inklud.0i.inkluzivigi	inkludi	1	NULL	einbeziehen	
+inkluz.0a	inkluziva		NULL	einschließlich	
+inkluz.0a	inkluziva		NULL	inklusive	
+inkluz.0a.KOMUNE	inkluziva		NULL	einschließlich	
+inkluz.0a.KOMUNE	inkluziva		NULL	inklusive	
+inkluz.0e	inkluzive		oa_2	einschließlich	
+inkluz.0e	inkluzive		oa_2	inklusive	
+inkluz.0e.KOMUNE	inkluzive		oa_2	einschließlich	
+inkluz.0e.KOMUNE	inkluzive		oa_2	inklusive	
+inkluz.0i	inkluzivi		NULL	einschließen	
+inkluz.0i	inkluzivi		NULL	inkludieren	
+inkluz.0i.aro	inkluzivi	2	NULL	einschließen	
+inkluz.0i.aro	inkluzivi	2	NULL	inkludieren	
+inkluz.0i.aro	inkluzivi	2	NULL	enthalten	enthalten (als Untermenge)
+inkluz.0igi	inkluzivigi		NULL	aufnehmen	
+inkluz.0igi	inkluzivigi		NULL	inkludieren	inkludieren (hinzunehmen)
+inkluz.0igi	inkluzivigi		NULL	hinzunehmen	
+inkluz.0igi	inkluzivigi		NULL	hinzufügen	
+inkluz.mal0i	malinkluzivi		NULL	ausschließen	
+inkluz.mal0i	malinkluzivi		NULL	exkludieren	
+inkluz.mal0i.KOMUNE	malinkluzivi		NULL	ausschließen	
+inkluz.mal0i.KOMUNE	malinkluzivi		NULL	exkludieren	
+inkogn.0e	inkognite		NULL	inkognito	inkognito (adv.)
+inkogn.0e.nerekonate	inkognite		NULL	inkognito	inkognito (adv.)
+inkogn.0eco	inkogniteco		NULL	Anonymität	
+inkogn.0eco	inkogniteco		NULL	Tarnung	Tarnung (Inkognito)
+inkogn.0eco.stato	inkogniteco		NULL	Anonymität	
+inkogn.0eco.stato	inkogniteco		NULL	Tarnung	Tarnung (Inkognito)
+inkogn.0o	inkognito		NULL	NULL	NULL
+inkogn.0o.eco	inkognito	2	NULL	Inkognito	
+inkogn.0o.ulo	inkognito	1	NULL	NULL	NULL
+inkrus.0ajxo	inkrustaĵo		NULL	Einlegearbeit	
+inkrus.0ajxo	inkrustaĵo		NULL	Inkrustation	
+inkrus.0ajxo	inkrustaĵo		NULL	Intarsie	
+inkrus.0ajxo.BELA	inkrustaĵo		NULL	Einlegearbeit	
+inkrus.0ajxo.BELA	inkrustaĵo		NULL	Inkrustation	
+inkrus.0ajxo.BELA	inkrustaĵo		NULL	Intarsie	
+inkrus.0i	inkrusti		NULL	inkrustieren	
+inkrus.0i	inkrusti		NULL	einlegen	
+inkrus.0i	inkrusti		NULL	ausführen	als Einlegearbeit ausführen
+inkrus.0i.BELA	inkrusti		NULL	inkrustieren	
+inkrus.0i.BELA	inkrusti		NULL	einlegen	
+inkrus.0i.BELA	inkrusti		NULL	ausführen	als Einlegearbeit ausführen
+inkub.0o	inkubo		NULL	NULL	NULL
+inkub.0o.KAT	inkubo	2	NULL	Alp	
+inkub.0o.KAT	inkubo	2	NULL	Alb	
+inkub.0o.KAT	inkubo	2	NULL	Inkubus	
+inkub.0o.KAT	inkubo	2	NULL	Nachtmahr	
+inkub.0o.KAT	inkubo	2	NULL	Nachtgespenst	
+inkub.0o.songxo	inkubo	1	NULL	Alptraum	
+inkub.0o.songxo	inkubo	1	NULL	Albtraum	
+inkub.0o.songxo	inkubo	1	NULL	Alpdrücken	
+inkub.0o.songxo	inkubo	1	NULL	Alpdruck	
+inkubaci.0o	inkubacio		NULL	Inkubation	
+inkubaci.0o	inkubacio		NULL	Inkubationszeit	
+inkubator.0o	inkubatoro		NULL	Brutkasten	
+inkubator.0o	inkubatoro		NULL	Inkubator	Inkubator [fak]
+inkud.0o	inkudo		NULL	Amboss	
+inkunabl.0o	inkunablo		NULL	Inkunabel	
+inkunabl.0o.TIP	inkunablo		NULL	Inkunabel	
+inkviz.0o	inkvizicio		NULL	Inquisition	
+inkviz1.0o	inkvizitoro		NULL	Inquisitor	
+inocent.0o	Inocento		NULL	Innozenz	Innozenz (Vorname)
+inocent.0o.NOM	Inocento		NULL	Innozenz	Innozenz (Vorname)
+inokul.0i	inokuli		NULL	NULL	NULL
+inokul.0i.FIG	inokuli	2	NULL	einimpfen	
+inokul.0i.FIG	inokuli	2	NULL	durchdringen	
+inokul.0i.FIG	inokuli	2	NULL	erfüllen	
+inokul.0i.MED	inokuli	1	NULL	impfen	(mit einer Lanzette) impfen
+inokul.0i.grefti	inokuli	3	NULL	pfropfen	
+inokul.0i.grefti	inokuli	3	NULL	veredeln	
+insekt.0o	insekto		NULL	Insekt	
+insekt.0o.ZOO	insekto		NULL	Insekt	
+insekt.0oj	insektoj		NULL	Insekten	
+insekt.0oj.ZOO	insektoj		NULL	Insekten	
+insekt.fi0o	fiinsekto		NULL	Ungeziefer	
+insekt.fi0o	insektaĉo		NULL	Ungeziefer	
+insekt.fi0o.KOS	fiinsekto		NULL	Ungeziefer	
+insekt.fi0o.KOS	insektaĉo		NULL	Ungeziefer	
+insekticid.0o	insekticido		NULL	NULL	NULL
+insekticid.0o.AGR	insekticido		NULL	NULL	NULL
+insert.0ajxo	insertaĵo		NULL	Einsatz	
+insert.0ajxo	insertaĵo		NULL	Einsatzteil	
+insert.0ajxo	insertaĵo		NULL	aufgesetztes Teil	
+insert.0ajxo	insertaĵo		NULL	angefügtes Teil	
+insert.0i	inserti		NULL	transplantieren	
+insert.0i	inserti		NULL	veredeln	
+insert.0i	inserti		NULL	okulieren	
+insert.0i	inserti		NULL	propfen	
+insert.0i	inserti		NULL	transplantieren	
+insert.0i	inserti		NULL	verpflanzen	
+insert.0i	inserti		NULL	übertragen	
+insert.0o	inserto		NULL	Ansetzen	
+insert.0o	inserto		NULL	Anfügung	
+insert.0o	inserto		NULL	Insertion	
+insid.0a	insida		NULL	tückisch	
+insid.0a	insida		NULL	hinterhältig	
+insid.0a.KOMUNE	insida		NULL	tückisch	
+insid.0a.KOMUNE	insida		NULL	hinterhältig	
+insid.0ema	insidema		NULL	heimtückisch	
+insid.0ema	insidema		NULL	intrigant	
+insid.0ema.KOMUNE	insidema		NULL	heimtückisch	
+insid.0ema.KOMUNE	insidema		NULL	intrigant	
+insid.0i	insidi		NULL	NULL	NULL
+insid.0i.KOMUNE	insidi	1	NULL	intrigieren	
+insid.0i.KOMUNE	insidi	1	NULL	Licht	hinters Licht führen
+insid.0i.embuski	insidi	2	NULL	auflauern	
+insid.0o	insido		NULL	Tücke	
+insid.0o	insidaĵo		NULL	Tücke	
+insid.0o	insido		NULL	Machenschaft	
+insid.0o	insidaĵo		NULL	Machenschaft	
+insid.0o	insido		NULL	Intrige	
+insid.0o	insidaĵo		NULL	Intrige	
+insid.0o.ruzo	insido		NULL	Tücke	
+insid.0o.ruzo	insidaĵo		NULL	Tücke	
+insid.0o.ruzo	insido		NULL	Machenschaft	
+insid.0o.ruzo	insidaĵo		NULL	Machenschaft	
+insid.0o.ruzo	insido		NULL	Intrige	
+insid.0o.ruzo	insidaĵo		NULL	Intrige	
+insign.0o	insigno		NULL	Insigne	
+insign.0o	insigno		NULL	Abzeichen	
+insign.0o	insigno		NULL	Auszeichnung	
+insign.0o.signo	insigno		NULL	Insigne	
+insign.0o.signo	insigno		NULL	Abzeichen	
+insign.0o.signo	insigno		NULL	Auszeichnung	
+insinu.0i	insinui		NULL	NULL	NULL
+insinu.0i.sugesti	insinui		NULL	NULL	NULL
+insist.0a	insista		NULL	beharrlich	
+insist.0e	insiste		NULL	NULL	NULL
+insist.0ema	insistema		NULL	NULL	NULL
+insist.0ema.KOMUNE	insistema	1	NULL	NULL	NULL
+insist.0ema.insista	insistema	2	NULL	NULL	NULL
+insist.0i	insisti		NULL	beharren	
+insist.0i	insisti		NULL	bestehen	bestehen (auf etw.)
+insist.0i	insisti		NULL	insistieren	
+insist.0i.emfazi	insisti	2	NULL	beharren	
+insist.0i.emfazi	insisti	2	NULL	bestehen	bestehen (auf etw.)
+insist.0i.emfazi	insisti	2	NULL	insistieren	
+insist.0o	insisto		NULL	Beharren	
+insist.0o	insisto		NULL	Drängen	
+insist.0o	insisto		NULL	Nachdruck	
+insolent.0a	insolenta		NULL	NULL	NULL
+insolent.0o	insolento		NULL	NULL	NULL
+inspek.0anto	inspektanto		NULL	Inspektor	
+inspek.0anto	inspektisto		NULL	Inspektor	
+inspek.0anto	inspektanto		NULL	Prüfer	
+inspek.0anto	inspektisto		NULL	Prüfer	
+inspek.0anto	inspektanto		NULL	Überwacher	
+inspek.0anto	inspektisto		NULL	Überwacher	
+inspek.0anto	inspektanto		NULL	Beschauer	
+inspek.0anto	inspektisto		NULL	Beschauer	
+inspek.0anto	inspektanto		NULL	Kontrolleur	
+inspek.0anto	inspektisto		NULL	Kontrolleur	
+inspek.0anto.KOMUNE	inspektanto		NULL	Inspektor	
+inspek.0anto.KOMUNE	inspektisto		NULL	Inspektor	
+inspek.0anto.KOMUNE	inspektanto		NULL	Prüfer	
+inspek.0anto.KOMUNE	inspektisto		NULL	Prüfer	
+inspek.0anto.KOMUNE	inspektanto		NULL	Überwacher	
+inspek.0anto.KOMUNE	inspektisto		NULL	Überwacher	
+inspek.0anto.KOMUNE	inspektanto		NULL	Beschauer	
+inspek.0anto.KOMUNE	inspektisto		NULL	Beschauer	
+inspek.0anto.KOMUNE	inspektanto		NULL	Kontrolleur	
+inspek.0anto.KOMUNE	inspektisto		NULL	Kontrolleur	
+inspek.0i	inspekti		oa_2	inspizieren	
+inspek.0i	inspekti		oa_2	nachprüfen	
+inspek.0i	inspekti		oa_2	überwachen	
+inspek.0i	inspekti		oa_2	beschauen	
+inspek.0i	inspekti		oa_2	kontrollieren	
+inspek.0i.KOMUNE	inspekti		oa_2	inspizieren	
+inspek.0i.KOMUNE	inspekti		oa_2	nachprüfen	
+inspek.0i.KOMUNE	inspekti		oa_2	überwachen	
+inspek.0i.KOMUNE	inspekti		oa_2	beschauen	
+inspek.0i.KOMUNE	inspekti		oa_2	kontrollieren	
+inspek.0i.kontrolo	inspekti	1	oa_2	inspizieren	
+inspek.0i.kontrolo	inspekti	1	oa_2	nachprüfen	
+inspek.0i.kontrolo	inspekti	1	oa_2	überwachen	
+inspek.0i.kontrolo	inspekti	1	oa_2	beschauen	
+inspek.0i.kontrolo	inspekti	1	oa_2	kontrollieren	
+inspek.0i.kontrolo	inspekti	1	oa_2	Inspektion	
+inspek.0o	inspekto		NULL	NULL	NULL
+inspek.0o	inspektado		NULL	NULL	NULL
+inspek.0o.KOMUNE	inspekto	2	NULL	Aufsicht	
+inspek.0o.KOMUNE	inspektado	2	NULL	Aufsicht	
+inspek.0o.KOMUNE	inspekto	2	NULL	Obhut	
+inspek.0o.KOMUNE	inspektado	2	NULL	Obhut	
+inspek1.0o	inspektoro		NULL	Inspektor	
+inspek1.0o	inspektoro		NULL	Prüfer	
+inspek1.0o	inspektoro		NULL	Überwacher	
+inspek1.0o	inspektoro		NULL	Beschauer	
+inspek1.0o	inspektoro		NULL	Kontrolleur	
+inspek1.0o.inspektisto	inspektoro		NULL	Inspektor	
+inspek1.0o.inspektisto	inspektoro		NULL	Prüfer	
+inspek1.0o.inspektisto	inspektoro		NULL	Überwacher	
+inspek1.0o.inspektisto	inspektoro		NULL	Beschauer	
+inspek1.0o.inspektisto	inspektoro		NULL	Kontrolleur	
+inspir.0i	inspiri		NULL	inspirieren	
+inspir.0i	inspiri		NULL	eingeben	
+inspir.0i.farendajxon	inspiri	1	NULL	eingeben	
+inspir.0i.farendajxon	inspiri	1	NULL	einflößen	
+inspir.0i.farendajxon	inspiri	1	NULL	inspirieren	
+inspir.0i.farendajxon	inspiri	1	NULL	inspirieren	
+inspir.0i.farendajxon	inspiri	1	NULL	eingeben	
+inspir.0i.gvidi	inspiri	3	NULL	anregen	
+inspir.0i.gvidi	inspiri	3	NULL	Vorbild sein	
+inspir.0i.gvidi	inspiri	3	NULL	inspirieren	
+inspir.0i.gvidi	inspiri	3	NULL	inspirieren	
+inspir.0i.gvidi	inspiri	3	NULL	eingeben	
+inspir.0i.senton	inspiri	2	NULL	anregen	
+inspir.0i.senton	inspiri	2	NULL	auslösen	
+inspir.0i.senton	inspiri	2	NULL	erwecken	
+inspir.0i.senton	inspiri	2	NULL	inspirieren	
+inspir.0i.senton	inspiri	2	NULL	eingeben	
+inspir.0igxi	inspiriĝi		NULL	NULL	NULL
+inspir.0o	inspiro		NULL	Eingebung	
+inspir.0o.ago	inspiro		NULL	Eingebung	
+instal.0ado	instalado		NULL	NULL	NULL
+instal.0ajxo	instalaĵo		NULL	Anlage	
+instal.0ajxo.kolektive	instalaĵo	2	NULL	Anlage	
+instal.0ajxo.unuope	instalaĵo	1	NULL	Anlage	
+instal.0i	instali		oa_2	NULL	NULL
+instal.0i.enpostenigi	instali	3	oa_2	NULL	NULL
+instal.0i.ion	instali	1	oa_2	installieren	
+instal.0i.iun	instali	2	oa_2	NULL	NULL
+instal.0igxi	instaliĝi		NULL	NULL	NULL
+instal.0ilo	instalilo		NULL	Installationsprogramm	
+instal.0isto	instalisto		NULL	Installateur	
+instal.mal0i	malinstali		NULL	deinstallieren	
+instal.mal0ilo	malinstalilo		NULL	Deinstallationsprogramm	
+instan.0o	instanco		oa_2	Instanz	
+instan.0o.JUR	instanco	1	oa_2	Instanz	
+instan.0o.KOMP	instanco	4	oa_2	Instanz	
+instan.0o.POL	instanco	2	oa_2	Instanz	
+instan.0o.institucio	instanco	3	oa_2	Instanz	
+instig.0i	instigi		NULL	antreiben	
+instig.0i	instigi		NULL	anreizen	
+instig.0i	instigi		NULL	anspornen	
+instig.0i	instigi		NULL	anstacheln	
+instig.0i	instigi		NULL	ermuntern	
+instig.0i	instigi		NULL	anstiften	
+instig.0i	instigi		NULL	anzetteln	
+instig.0i	instigi		NULL	veranlassen	
+instig.0i.KOMUNE	instigi		NULL	antreiben	
+instig.0i.KOMUNE	instigi		NULL	anreizen	
+instig.0i.KOMUNE	instigi		NULL	anspornen	
+instig.0i.KOMUNE	instigi		NULL	anstacheln	
+instig.0i.KOMUNE	instigi		NULL	ermuntern	
+instig.0i.KOMUNE	instigi		NULL	anstiften	
+instig.0i.KOMUNE	instigi		NULL	anzetteln	
+instig.0i.KOMUNE	instigi		NULL	veranlassen	
+instig.0ilo	instigilo		NULL	NULL	NULL
+instig.0ilo.KOMUNE	instigilo		NULL	NULL	NULL
+instig.0o	instigo		NULL	Ansporn	
+instig.0o	instigo		NULL	Anstachelung	
+instig.0o	instigo		NULL	Ermunterung	
+instig.0o	instigo		NULL	Anstiftung	
+instig.0o	instigo		NULL	Veranlassung	
+instig.0o.KOMUNE	instigo		NULL	Ansporn	
+instig.0o.KOMUNE	instigo		NULL	Anstachelung	
+instig.0o.KOMUNE	instigo		NULL	Ermunterung	
+instig.0o.KOMUNE	instigo		NULL	Anstiftung	
+instig.0o.KOMUNE	instigo		NULL	Veranlassung	
+instig.mal0i	malinstigi		NULL	abraten	
+instig.mal0i.KOMUNE	malinstigi		NULL	abraten	
+instig.pens0a	pensinstiga		NULL	NULL	NULL
+instig.pens0a.KOMUNE	pensinstiga		NULL	NULL	NULL
+instig.sub0i	subinstigi		NULL	NULL	NULL
+instig.sub0i.KOMUNE	subinstigi		NULL	NULL	NULL
+instin.0a	instinkta		NULL	instinktiv	
+instin.0o	instinkto		NULL	Instinkt	
+instit.0o	institucio		antparol	Institution	
+instit.0o	institucio		antparol	Einrichtung	
+instit.0o.POL	institucio		antparol	Institution	
+instit.0o.POL	institucio		antparol	Einrichtung	
+instit1.0o	instituto		NULL	Institut	
+instru.0a	instrua		NULL	NULL	NULL
+instru.0a.0plena	instrua	1	NULL	lehrreich	
+instru.0a.0plena	instrua	1	NULL	instruktiv	
+instru.0a.0rilata	instrua	2	NULL	Lehr-	
+instru.0a.0rilata	instrua	2	NULL	Schul-	
+instru.0ado	instruado		NULL	Lehre	
+instru.0ado	instruado		NULL	Unterricht	
+instru.0ado	instruado		NULL	Pädagogik	
+instru.0ado.PED	instruado		NULL	Lehre	
+instru.0ado.PED	instruado		NULL	Unterricht	
+instru.0ado.PED	instruado		NULL	Pädagogik	
+instru.0ajxo	instruaĵo		NULL	Lehre	
+instru.0ajxo	instruaĵo		NULL	Unterweisung	
+instru.0ejo	instruejo		NULL	Schule	
+instru.0ejo	instruejo		NULL	Unterrichtsraum	
+instru.0ejo	instruejo		NULL	Seminarraum	
+instru.0ejo.lernejo	instruejo		NULL	Schule	
+instru.0ejo.lernejo	instruejo		NULL	Unterrichtsraum	
+instru.0ejo.lernejo	instruejo		NULL	Seminarraum	
+instru.0i	instrui		ekz_20	NULL	NULL
+instru.0i.FIG	instrui	4	ekz_20	lehren	
+instru.0i.FIG	instrui	4	ekz_20	beibringen	
+instru.0i.PED	instrui	1	ekz_20	unterrichten	
+instru.0i.PED	instrui	1	ekz_20	lehren	
+instru.0i.PED	instrui	1	ekz_20	unterweisen	
+instru.0i.ekzerci	instrui	2	ekz_20	beibringen	
+instru.0i.ekzerci	instrui	2	ekz_20	trainieren	
+instru.0i.kiel_agi	instrui	3	ekz_20	vorführen	
+instru.0i.kiel_agi	instrui	3	ekz_20	vormachen	
+instru.0i.kiel_agi	instrui	3	ekz_20	zeigen	
+instru.0igxi	instruiĝi		NULL	belehrt	belehrt werden
+instru.0igxi	instruiĝi		NULL	unterrichtet	unterrichtet werden
+instru.0igxi	instruiĝi		NULL	lernen	
+instru.0igxi.PED	instruiĝi		NULL	belehrt	belehrt werden
+instru.0igxi.PED	instruiĝi		NULL	unterrichtet	unterrichtet werden
+instru.0igxi.PED	instruiĝi		NULL	lernen	
+instru.0isto	instruisto		NULL	Lehrer	
+instru.0isto	instruisto		NULL	Lehrerin	
+instru.0isto	instruisto		NULL	Lehrer	
+instru.0isto	instruisto		NULL	Lehrerin	
+instru.0isto.PED	instruisto		NULL	Lehrer	
+instru.0isto.PED	instruisto		NULL	Lehrerin	
+instru.0isto.PED	instruisto		NULL	Lehrer	
+instru.0isto.PED	instruisto		NULL	Lehrerin	
+instru.0iteco	instruiteco		NULL	Gelehrtheit	
+instru.0iteco.KOMUNE	instruiteco		NULL	Gelehrtheit	
+instru.0itulo	instruitulo		NULL	Gelehrter	
+instru.0itulo.klerulo	instruitulo		NULL	Gelehrter	
+instru.0o	instruo		NULL	NULL	NULL
+instru.0o.instruado	instruo	2	NULL	Unterricht	
+instru.0o.instruajxo	instruo	1	NULL	Lehre	
+instru.0o.instruajxo	instruo	1	NULL	Lektion	
+instru.0o.instruajxo	instruo	1	NULL	Unterweisung	
+instru.0plena	instruplena		NULL	lehrreich	
+instru.0plena	instruoplena		NULL	lehrreich	
+instru.0plena	instruplena		NULL	instruktiv	
+instru.0plena	instruoplena		NULL	instruktiv	
+instru.mal0i	malinstrui		NULL	austreiben	(etwas) austreiben
+instru.mal0i	malinstrui		NULL	abgewöhnen	(etwas) abgewöhnen
+instru.mal0i.PED	malinstrui		NULL	austreiben	(etwas) austreiben
+instru.mal0i.PED	malinstrui		NULL	abgewöhnen	(etwas) abgewöhnen
+instru.mem0ito	meminstruito		NULL	Autodidakt	
+instru.mem0ito.PED	meminstruito		NULL	Autodidakt	
+instru.moral0o	moralinstruo		NULL	Moralpredigt	
+instru.moral0o.KOMUNE	moralinstruo		NULL	Moralpredigt	
+instru.pri0a	priinstrua		NULL	didaktisch	
+instru.pri0a.PED	priinstrua		NULL	didaktisch	
+instru1.0i	instrukcii		NULL	NULL	NULL
+instru1.0i.KOMUNE	instrukcii		NULL	NULL	NULL
+instru1.0igxi	instrukciiĝi		NULL	NULL	NULL
+instru1.0igxi.KOMUNE	instrukciiĝi		NULL	NULL	NULL
+instru1.0o	instrukcio		NULL	NULL	NULL
+instru1.0o.KOMP	instrukcio	2	NULL	NULL	NULL
+instru1.0o.KOMUNE	instrukcio	1	NULL	NULL	NULL
+instru2.0isto	instrumentisto		NULL	Musikinstrumentspieler	
+instru2.0isto.MUZ	instrumentisto		NULL	Musikinstrumentspieler	
+instru2.0o	instrumento		NULL	Instrument	
+instru2.0o	instrumento		NULL	Werkzeug	
+instru2.0o	instrumento		NULL	Gerät	
+instru2.0o.TEK	instrumento		NULL	Instrument	
+instru2.0o.TEK	instrumento		NULL	Werkzeug	
+instru2.0o.TEK	instrumento		NULL	Gerät	
+instru2.arcx0o	arĉinstrumento		NULL	NULL	NULL
+instru2.arcx0o.MUZ	arĉinstrumento		NULL	NULL	NULL
+instru2.blov0o	blovinstrumento		NULL	Blasinstrument	
+instru2.blov0o.MUZ	blovinstrumento		NULL	Blasinstrument	
+instru2.frap0o	frapinstrumento		NULL	Schlaginstrument	
+instru2.frap0o.MUZ	frapinstrumento		NULL	Schlaginstrument	
+instru2.kord0o	kordinstrumento		NULL	Saiteninstrument	
+instru2.kord0o.MUZ	kordinstrumento		NULL	Saiteninstrument	
+instru2.muzik0o	muzikinstrumento		NULL	Musikinstrument	
+instru2.muzik0o.MUZ	muzikinstrumento		NULL	Musikinstrument	
+insul.0a	insula		NULL	Insel-	
+insul.0a.GEOG	insula		NULL	Insel-	
+insul.0ano	insulano		NULL	Inselbewohner	
+insul.0ano.KOMUNE	insulano		NULL	Inselbewohner	
+insul.0aro	insularo		NULL	Inselgruppe	
+insul.0aro	insularo		NULL	Archipel	
+insul.0aro.GEOG	insularo		NULL	Inselgruppe	
+insul.0aro.GEOG	insularo		NULL	Archipel	
+insul.0eto	insuleto		NULL	NULL	NULL
+insul.0eto.GEOG	insuleto		NULL	NULL	NULL
+insul.0o	insulo		NULL	Insel	
+insul.0o.GEOG	insulo		NULL	Insel	
+insul.BritajVirgul0oj	Britaj Virgulinsuloj		NULL	Britische Jungferninseln	
+insul.BritajVirgul0oj.GEOG	Britaj Virgulinsuloj		NULL	Britische Jungferninseln	
+insul.I0odePrincoEduardo	Insulo de Princo Eduardo		NULL	NULL	NULL
+insul.I0odePrincoEduardo.GEOG	Insulo de Princo Eduardo		NULL	NULL	NULL
+insul.Pask0o	Paskinsulo		NULL	Osterinsel	
+insul.Pask0o.insulo	Paskinsulo		NULL	Osterinsel	
+insul.UsonajVirgul0oj	Usonaj Virgulinsuloj		NULL	Amerikanische Jungferninseln	
+insul.UsonajVirgul0oj.GEOG	Usonaj Virgulinsuloj		NULL	Amerikanische Jungferninseln	
+insul.Virgul0oj	Virgulinsuloj		NULL	Jungferninseln	
+insul.Virgul0oj.GEOG	Virgulinsuloj		NULL	Jungferninseln	
+insul.duon0o	duoninsulo		NULL	Halbinsel	
+insul.duon0o.GEOG	duoninsulo		NULL	Halbinsel	
+insul.glaci0o	glaciinsulo		NULL	Eisberg	
+insul.glaci0o.GEOG	glaciinsulo		NULL	Eisberg	
+insulin.0o	insulino		oa_9	Insulin	
+insulin.0o.MED	insulino		oa_9	Insulin	
+insult.0ajxo	insultaĵo		NULL	NULL	NULL
+insult.0ajxo.KOMUNE	insultaĵo		NULL	NULL	NULL
+insult.0ema	insultema		NULL	NULL	NULL
+insult.0ema.KOMUNE	insultema		NULL	NULL	NULL
+insult.0i	insulti		ekz_17	beschimpfen	
+insult.0i	insulti		ekz_17	schimpfen	
+insult.0i.KOMUNE	insulti		ekz_17	beschimpfen	
+insult.0i.KOMUNE	insulti		ekz_17	schimpfen	
+insult.0o	insulto		NULL	Beschimpfung	
+insult.0o.KOMUNE	insulto		NULL	Beschimpfung	
+insurekci.0ano	insurekciano		NULL	NULL	NULL
+insurekci.0ano	insurekciulo		NULL	NULL	NULL
+insurekci.0ano.POL	insurekciano		NULL	NULL	NULL
+insurekci.0ano.POL	insurekciulo		NULL	NULL	NULL
+insurekci.0i	insurekcii		NULL	NULL	NULL
+insurekci.0i	insurekti		NULL	NULL	NULL
+insurekci.0i.POL	insurekcii		NULL	NULL	NULL
+insurekci.0i.POL	insurekti		NULL	NULL	NULL
+insurekci.0o	insurekcio		NULL	NULL	NULL
+insurekci.0o	insurekto		NULL	NULL	NULL
+insurekci.0o.POL	insurekcio		NULL	NULL	NULL
+insurekci.0o.POL	insurekto		NULL	NULL	NULL
+insurgent.0o	insurgento		NULL	NULL	NULL
+insurgent.0o.ribelulo	insurgento		NULL	NULL	NULL
+int.0	-int		gra_fr	NULL	NULL
+int.0	-int		gra_en	NULL	NULL
+int.0	-int		gra_de	NULL	NULL
+int.0	-int		gra_ru	NULL	NULL
+int.0	-int		gra_pl	NULL	NULL
+int.0	-int		ekz_22	NULL	NULL
+int.0.SNC	-int		gra_fr	NULL	NULL
+int.0.SNC	-int		gra_en	NULL	NULL
+int.0.SNC	-int		gra_de	NULL	NULL
+int.0.SNC	-int		gra_ru	NULL	NULL
+int.0.SNC	-int		gra_pl	NULL	NULL
+int.0.SNC	-int		ekz_22	NULL	NULL
+int.0a	inta		NULL	NULL	NULL
+int.0a.TEMP	inta		NULL	NULL	NULL
+intajl.0o	intajlo		NULL	Intaglio	
+intajl.0o	intajlo		NULL	Gemme mit vertieft eingeschnittenem Bild	
+intakt.0a	intakta		NULL	intakt	
+intakt.0a.KOMUNE	intakta		NULL	intakt	
+integr.0a	integra		NULL	integer	
+integr.0a	integra		NULL	ganz	
+integr.0a.MAT	integra	3	NULL	Integritäts-	Integritäts-(ring)
+integr.0a.MAT	integra	3	NULL	integer	
+integr.0a.MAT	integra	3	NULL	ganz	
+integr.0a.kohera	integra	1	NULL	integer	
+integr.0a.kohera	integra	1	NULL	ganz	
+integr.0a.neforprenebla	integra	4	NULL	integer	
+integr.0a.neforprenebla	integra	4	NULL	ganz	
+integr.0a.sendifekta	integra	2	NULL	integer	
+integr.0a.sendifekta	integra	2	NULL	ganz	
+integr.0i	integri		NULL	NULL	NULL
+integr.0i.ntr	integri	1	NULL	NULL	NULL
+integr.0i.tr	integri	2	NULL	NULL	NULL
+integr.0igi	integrigi		NULL	NULL	NULL
+integr.0igi.kunigi	integrigi		NULL	integrieren	
+integr.0igi.kunigi	integrigi		NULL	vereinen	
+integr.0igxi	integriĝi		NULL	NULL	NULL
+integr.0igxi.kunigxi	integriĝi		NULL	integrieren	sich integrieren
+integr.0ismo	integrismo		NULL	NULL	NULL
+integr.0ismo.POL	integrismo		NULL	NULL	NULL
+integr.0isto	integristo		NULL	NULL	NULL
+integr.0isto.POL	integristo		NULL	NULL	NULL
+integr1.0ado	integrado		NULL	Integration	
+integr1.0ajxo	integraĵo		NULL	Integral	
+integr1.0ato	integrato		NULL	Integrand	
+integr1.0ebla	integrebla		NULL	integrierbar	
+integr1.0i	integri		NULL	integrieren	
+integr1.0ilo	integrilo		NULL	Integralzeichen	
+integr2.0a	integrala		NULL	Integral-	
+integr2.0ado	integralado		NULL	Integration	
+integr2.0ado.ago	integralado	1	NULL	Integration	
+integr2.0ado.teorio	integralado	2	NULL	Integration	
+integr2.0ato	integralato		NULL	Integrand	
+integr2.0ebla	integralebla		NULL	integrierbar	
+integr2.0ebla	integralhava		NULL	integrierbar	
+integr2.0i	integrali		NULL	integrieren	
+integr2.0o	integralo		NULL	Integral	
+integr2.0o.malderivajxo	integralo	2	NULL	Integral	
+integr2.0o.sumo	integralo	1	NULL	Integral	
+integr2.0signo	integralsigno		NULL	Integralzeichen	
+integr2.difinita0o	difinita integralo		NULL	Integral	bestimmtes Integral
+integr2.lebega0o	lebega integralo		NULL	Integral	Lebesguesches Integral
+integr2.lebega0o.de_funkcio	lebega integralo	2	NULL	Integral	Lebesguesches Integral
+integr2.lebega0o.de_simpla_funkcio	lebega integralo	1	NULL	Integral	Lebesguesches Integral
+integr2.nedifinita0o	nedifinita integralo		NULL	Stammfunktion	
+integr2.nedifinita0o	nedifinita integralo		NULL	Integral	unbestimmtes Integral
+integr2.rimana0o	rimana integralo		NULL	Integral	Riemannsches Integral
+integr2.rimana0o.de_funkcio	rimana integralo	2	NULL	Integral	Riemannsches Integral
+integr2.rimana0o.de_sxtupara_funkcio	rimana integralo	1	NULL	Integral	Riemannsches Integral
+intele.0a	intelekta		NULL	intellektuell	
+intele.0a.MENS	intelekta		NULL	intellektuell	
+intele.0o	intelekto		oa_4	Intellekt	
+intele.0o	intelekto		oa_4	Intellekt	
+intele.0o	intelekto		oa_4	Verstand	
+intele.0o	intelekto		oa_4	Verstand	
+intele.0o.MENS	intelekto		oa_4	Intellekt	
+intele.0o.MENS	intelekto		oa_4	Intellekt	
+intele.0o.MENS	intelekto		oa_4	Verstand	
+intele.0o.MENS	intelekto		oa_4	Verstand	
+intele.0ularo	intelektularo		NULL	NULL	NULL
+intele.0ularo.KOMUNE	intelektularo		NULL	NULL	NULL
+intele.0ulo	intelektulo		NULL	Intellektuelle	
+intele.0ulo	intelektulo		NULL	Intellektueller	
+intele.0ulo.KOMUNE	intelektulo		NULL	Intellektuelle	
+intele.0ulo.KOMUNE	intelektulo		NULL	Intellektueller	
+intele.artefarita0o	artefarita intelekto		NULL	Intelligenz	künstliche Intelligenz
+intele.artefarita0o	artefarita intelekto		NULL	KI	
+intele.artefarita0o.KOMP	artefarita intelekto		NULL	Intelligenz	künstliche Intelligenz
+intele.artefarita0o.KOMP	artefarita intelekto		NULL	KI	
+inteli.0a	inteligenta		NULL	intelligent	
+inteli.0a	inteligenta		NULL	klug	
+inteli.0a	inteligenta		NULL	schlau	
+inteli.0a	inteligenta		NULL	clever	
+inteli.0a.PSI	inteligenta		NULL	intelligent	
+inteli.0a.PSI	inteligenta		NULL	klug	
+inteli.0a.PSI	inteligenta		NULL	schlau	
+inteli.0a.PSI	inteligenta		NULL	clever	
+inteli.0eco	inteligenteco		NULL	Intelligenz	
+inteli.0eco.PSI	inteligenteco		NULL	Intelligenz	
+inteli.0o	inteligento		NULL	Intelligenz	
+inteli.0o.PSI	inteligento		NULL	Intelligenz	
+inteli.0ulo	inteligentulo		NULL	NULL	NULL
+inteli.0ulo.KOMUNE	inteligentulo	1	NULL	intelligenter Mensch	
+inteli.0ulo.intelektulo	inteligentulo	2	NULL	Intellektueller	
+inteli.0ulo.intelektulo	inteligentulo	2	NULL	Intellektuelle	
+inteli.arta0o	arta inteligento		NULL	künstliche Intelligenz	
+inteli.arta0o	artefarita inteligento		NULL	künstliche Intelligenz	
+inteli.arta0o.KOMP	arta inteligento		NULL	künstliche Intelligenz	
+inteli.arta0o.KOMP	artefarita inteligento		NULL	künstliche Intelligenz	
+inteli.mal0a	malinteligenta		NULL	unintelligent	
+inteli.mal0a	malinteligenta		NULL	nicht intelligent	
+inteli.mal0a	malinteligenta		NULL	unklug	
+inteli.mal0a	malinteligenta		NULL	dumm	
+inteli.mal0a	malinteligenta		NULL	blöd	
+inteli.mal0a.PSI	malinteligenta		NULL	unintelligent	
+inteli.mal0a.PSI	malinteligenta		NULL	nicht intelligent	
+inteli.mal0a.PSI	malinteligenta		NULL	unklug	
+inteli.mal0a.PSI	malinteligenta		NULL	dumm	
+inteli.mal0a.PSI	malinteligenta		NULL	blöd	
+intenc.0a	intenca		NULL	beabsichtigt	
+intenc.0a	intenca		NULL	absichtlich	
+intenc.0a.KOMUNE	intenca		NULL	beabsichtigt	
+intenc.0a.KOMUNE	intenca		NULL	absichtlich	
+intenc.0e	intence		NULL	absichtlich	
+intenc.0e.KOMUNE	intence		NULL	absichtlich	
+intenc.0i	intenci		ekz_22	beabsichtigen	
+intenc.0i	intenci		ekz_22	intendieren	
+intenc.0i	intenci		ekz_22	vorhaben	
+intenc.0i.KOMUNE	intenci		ekz_22	beabsichtigen	
+intenc.0i.KOMUNE	intenci		ekz_22	intendieren	
+intenc.0i.KOMUNE	intenci		ekz_22	vorhaben	
+intenc.0o	intenco		NULL	Absicht	
+intenc.0o	intenco		NULL	Intension	
+intenc.0o	intenco		NULL	Vorhaben	
+intenc.0o.KOMUNE	intenco		NULL	Absicht	
+intenc.0o.KOMUNE	intenco		NULL	Intension	
+intenc.0o.KOMUNE	intenco		NULL	Vorhaben	
+intenc.bon0a	bonintenca		NULL	gutwillig	
+intenc.bon0a	bonintenca		NULL	gutmütig	
+intenc.bon0a	bonintenca		NULL	wohlmeinend	
+intenc.bon0a.KOMUNE	bonintenca		NULL	gutwillig	
+intenc.bon0a.KOMUNE	bonintenca		NULL	gutmütig	
+intenc.bon0a.KOMUNE	bonintenca		NULL	wohlmeinend	
+intenc.bon0o	bonintenco		NULL	Absicht	gute Absicht
+intenc.bon0o	bonintenco		NULL	Wille	guter Wille
+intenc.bon0o.KOMUNE	bonintenco		NULL	Absicht	gute Absicht
+intenc.bon0o.KOMUNE	bonintenco		NULL	Wille	guter Wille
+intenc.kiel0e	kiel intence		NULL	absichtlich	gleichsam absichtlich
+intenc.kiel0e	kvazaŭ intence		NULL	absichtlich	gleichsam absichtlich
+intenc.kiel0e	kiel intence		NULL	Absicht	als ob es Absicht wäre
+intenc.kiel0e	kvazaŭ intence		NULL	Absicht	als ob es Absicht wäre
+intenc.kiel0e.KOMUNE	kiel intence		NULL	absichtlich	gleichsam absichtlich
+intenc.kiel0e.KOMUNE	kvazaŭ intence		NULL	absichtlich	gleichsam absichtlich
+intenc.kiel0e.KOMUNE	kiel intence		NULL	Absicht	als ob es Absicht wäre
+intenc.kiel0e.KOMUNE	kvazaŭ intence		NULL	Absicht	als ob es Absicht wäre
+intenc.malbon0a	malbonintenca		NULL	böswillig	
+intenc.malbon0a.KOMUNE	malbonintenca		NULL	böswillig	
+intenc.malbon0o	malbonintenco		NULL	Wille	böser Wille
+intenc.malbon0o.KOMUNE	malbonintenco		NULL	Wille	böser Wille
+intenc.sen0a	senintenca		NULL	unbeabsichtigt	
+intenc.sen0a	senintenca		NULL	unabsichtlich	
+intenc.sen0a	senintenca		NULL	absichtslos	
+intenc.sen0a.KOMUNE	senintenca		NULL	unbeabsichtigt	
+intenc.sen0a.KOMUNE	senintenca		NULL	unabsichtlich	
+intenc.sen0a.KOMUNE	senintenca		NULL	absichtslos	
+intenc.sen0e	senintence		NULL	unbeabsichtigt	
+intenc.sen0e	senintence		NULL	unabsichtlich	
+intenc.sen0e	senintence		NULL	absichtslos	
+intenc.sen0e.KOMUNE	senintence		NULL	unbeabsichtigt	
+intenc.sen0e.KOMUNE	senintence		NULL	unabsichtlich	
+intenc.sen0e.KOMUNE	senintence		NULL	absichtslos	
+intend.0o	intendanto		oa_2	NULL	NULL
+intend.0o.administra	intendanto	2	oa_2	Intendant	
+intend.0o.privata	intendanto	1	oa_2	Aufseher	
+intend.0o.privata	intendanto	1	oa_2	Verwalter	
+intend.0o.privata	intendanto	1	oa_2	Oberaufseher	
+intend.0o.privata	intendanto	1	oa_2	Oberverwalter	
+intens.0a	intensa		oa_4	intensiv	
+intens.0a	intensa		oa_4	intensiv	
+intens.0a.impresa	intensa	2	oa_4	intensiv	
+intens.0a.impresa	intensa	2	oa_4	intensiv	
+intens.0a.rendimenta	intensa	3	oa_4	intensiv	
+intens.0a.rendimenta	intensa	3	oa_4	intensiv	
+intens.0a.strecxa	intensa	1	oa_4	intensiv	
+intens.0a.strecxa	intensa	1	oa_4	intensiv	
+intens.0eco	intenseco		NULL	Intensität	
+intens.0igi	intensigi		NULL	intensivieren	
+inter.0	inter		ekz_13	NULL	NULL
+inter.0	inter		uv_I	NULL	NULL
+inter.0	inter		akkor_de	NULL	NULL
+inter.0.en_aro	inter	3	ekz_13	unter	
+inter.0.en_aro	inter	3	uv_I	unter	
+inter.0.en_aro	inter	3	akkor_de	unter	
+inter.0.en_aro	inter	3	ekz_13	inmitten	
+inter.0.en_aro	inter	3	uv_I	inmitten	
+inter.0.en_aro	inter	3	akkor_de	inmitten	
+inter.0.loke	inter	1	ekz_13	zwischen	
+inter.0.loke	inter	1	uv_I	zwischen	
+inter.0.loke	inter	1	akkor_de	zwischen	
+inter.0.pref_loke	inter	1	ekz_13	NULL	NULL
+inter.0.pref_loke	inter	1	uv_I	NULL	NULL
+inter.0.pref_loke	inter	1	akkor_de	NULL	NULL
+inter.0.pref_rilatece	inter	3	ekz_13	NULL	NULL
+inter.0.pref_rilatece	inter	3	uv_I	NULL	NULL
+inter.0.pref_rilatece	inter	3	akkor_de	NULL	NULL
+inter.0.pref_tempe	inter	2	ekz_13	NULL	NULL
+inter.0.pref_tempe	inter	2	uv_I	NULL	NULL
+inter.0.pref_tempe	inter	2	akkor_de	NULL	NULL
+inter.0.rilatece	inter	4	ekz_13	unter	
+inter.0.rilatece	inter	4	uv_I	unter	
+inter.0.rilatece	inter	4	akkor_de	unter	
+inter.0.rilatece	inter	4	ekz_13	zwischen	
+inter.0.rilatece	inter	4	uv_I	zwischen	
+inter.0.rilatece	inter	4	akkor_de	zwischen	
+inter.0.tempe	inter	2	ekz_13	zwischen	
+inter.0.tempe	inter	2	uv_I	zwischen	
+inter.0.tempe	inter	2	akkor_de	zwischen	
+inter.0a	intera		NULL	dazwischen	dazwischen seiend
+inter.0a	intera		NULL	eingeschoben	
+inter.0ajxo	interaĵo		NULL	Zwischending	
+inter.0ulo	interulo		NULL	Mittler	
+inter.0ulo	interulo		NULL	Vermittler	
+inter.al0	al inter		NULL	NULL	NULL
+inter.al0	inter ...-n		NULL	NULL	NULL
+inter.de0	de inter		NULL	NULL	NULL
+inter.el0	el inter		NULL	NULL	NULL
+inter.el0	elinter		NULL	NULL	NULL
+inter.el0.KOMUNE	el inter		NULL	NULL	NULL
+inter.el0.KOMUNE	elinter		NULL	NULL	NULL
+interd.0o	interdikto		NULL	Interdikt	
+intere.0a	interesa		NULL	interessant	
+intere.0egi	interesegi		NULL	NULL	NULL
+intere.0i	interesi		NULL	NULL	NULL
+intere.0i.igi_a	interesi	2	NULL	NULL	NULL
+intere.0i.igi_igxi	interesi	1	NULL	Interesse	Interesse wecken (für etwas)
+intere.0i.per_profito	interesi	2	NULL	beteiligen	
+intere.0i.tenadi_atenton	interesi	1	NULL	NULL	NULL
+intere.0igi	interesigi		NULL	NULL	NULL
+intere.0igxisin0i	interesiĝi		NULL	NULL	NULL
+intere.0igxisin0i	sin interesi		NULL	NULL	NULL
+intere.0igxo	interesiĝo		NULL	Interesse	
+intere.0o	intereso		NULL	Interesse	
+intere.0o.eco	intereso	1	NULL	Interesse	
+intere.0o.pro_graveco	intereso	3	NULL	Interesse	
+intere.0o.sento	intereso	2	NULL	Interesse	
+intere.ne0one0igxo	neintereso		NULL	Desinteresse	
+intere.ne0one0igxo	neinteresiĝo		NULL	Desinteresse	
+intere.pli0igi	pliinteresigi		NULL	NULL	NULL
+intere.sen0ane0a	seninteresa		NULL	uninteressant	
+intere.sen0ane0a	neinteresa		NULL	uninteressant	
+intere.sen0igxi	seninteresiĝi		NULL	desinteressiert sein	
+intere.sen0igxo	seninteresiĝo		NULL	Desinteresse	
+intere.sen0igxo	neinteresiĝo		NULL	Desinteresse	
+intere1.0o	interezo		NULL	Zins	
+intere1.0o	interezo		NULL	Zinsen	
+intere1.0o	interezo		NULL	Verzinsung	
+intere1.0o	interezo		NULL	Zinsen	
+intere1.sen0a	senintereza		NULL	NULL	NULL
+intere1.sen0a.EKON	senintereza		NULL	NULL	NULL
+interf.0a	interfera		NULL	interferierend	
+interf.0a.FOT	interfera		NULL	interferierend	
+interf.0afrangxo	interfera franĝo		NULL	Interferenzmuster	
+interf.0afrangxo.FOT	interfera franĝo		NULL	Interferenzmuster	
+interf.0i	interferi		NULL	interferieren	
+interf.0i	interferi		NULL	überlagern	
+interf.0i.FIG	interferi	2	NULL	interferieren	
+interf.0i.FIG	interferi	2	NULL	überlagern	
+interf.0i.FIZ	interferi	1	NULL	interferieren	
+interf.0i.FIZ	interferi	1	NULL	überlagern	
+interf.0igajspeguloj	interferigaj speguloj		NULL	NULL	NULL
+interf.0igajspeguloj.FOT	interferigaj speguloj		NULL	NULL	NULL
+interf.0o	interfero		NULL	Interferenz	
+interf.0o	interfero		NULL	Überlagerung	
+interf.0o.FIZ	interfero	1	NULL	Interferenz	
+interf.0o.FIZ	interfero	1	NULL	Überlagerung	
+interf.0o.perturbo	interfero	2	NULL	Interferenz	
+interf.0o.perturbo	interfero	2	NULL	Überlagerung	
+interf.lingva0o	lingva interfero		NULL	NULL	NULL
+interf.lingva0o	interlingva interfero		NULL	NULL	NULL
+interf.lingva0o.LIN	lingva interfero		NULL	NULL	NULL
+interf.lingva0o.LIN	interlingva interfero		NULL	NULL	NULL
+interferometri.0o	interferometrio		NULL	Interferometrie	
+interferometri.0o.FOT	interferometrio		NULL	Interferometrie	
+interferon.0o	interferono		NULL	NULL	NULL
+interferon.0o.FIZL	interferono		NULL	NULL	NULL
+interior.0o	interioro		NULL	NULL	NULL
+interior.0o.BELA	interioro		NULL	NULL	NULL
+interj.0o	interjekcio		NULL	Empfindungswort	
+interj.0o	interjekcio		NULL	Ausrufewort	
+interj.0o	interjekcio		NULL	Interjektion	
+interj.0o.GRA	interjekcio		NULL	Empfindungswort	
+interj.0o.GRA	interjekcio		NULL	Ausrufewort	
+interj.0o.GRA	interjekcio		NULL	Interjektion	
+interlingva.0o	Interlingvao		NULL	NULL	NULL
+interlingva.0o.LIN	Interlingvao		NULL	NULL	NULL
+interlingvistik.0o	interlingvistiko		NULL	Interlinguistik	
+interm.0a	intermita		NULL	intermittierend	
+interm.0a	intermita		NULL	aussetzend	von Zeit zu Zeit aussetzend
+interm.0a.KOMUNE	intermita		NULL	intermittierend	
+interm.0a.KOMUNE	intermita		NULL	aussetzend	von Zeit zu Zeit aussetzend
+interm.0e	intermite		NULL	intermittierend	
+interm.0e	intermite		NULL	aussetzend	von Zeit zu Zeit aussetzend
+interm.0e.KOMUNE	intermite		NULL	intermittierend	
+interm.0e.KOMUNE	intermite		NULL	aussetzend	von Zeit zu Zeit aussetzend
+interm.0i	intermiti		NULL	intermittieren	
+interm.0i	intermiti		NULL	aussetzen	von Zeit zu Zeit aussetzen
+interm.0i.KOMUNE	intermiti		NULL	intermittieren	
+interm.0i.KOMUNE	intermiti		NULL	aussetzen	von Zeit zu Zeit aussetzen
+interm.0o	intermito		NULL	Unterbrechung	
+interm.0o	intermito		NULL	Aussetzzeit	
+interm.0o	intermito		NULL	Pause	
+interm.0o	intermito		NULL	Sendepause	
+interm.0o	intermito		NULL	Unterlass	
+interm.0o.KOMUNE	intermito		NULL	Unterbrechung	
+interm.0o.KOMUNE	intermito		NULL	Aussetzzeit	
+interm.0o.KOMUNE	intermito		NULL	Pause	
+interm.0o.KOMUNE	intermito		NULL	Sendepause	
+interm.0o.KOMUNE	intermito		NULL	Unterlass	
+interm.sen0a	senintermita		NULL	NULL	NULL
+interm.sen0a.KOMUNE	senintermita		NULL	NULL	NULL
+intern.0a	interna		NULL	NULL	NULL
+intern.0a.enlanda	interna	2	NULL	inländisch	
+intern.0a.enlanda	interna	2	NULL	binnenländisch	
+intern.0a.enlanda	interna	2	NULL	intern	
+intern.0a.malekstera	interna	1	NULL	innen	
+intern.0a.malekstera	interna	1	NULL	inwendig	
+intern.0a.malekstera	interna	1	NULL	drinnen	
+intern.0a.malekstera	interna	1	NULL	innerhalb	
+intern.0a.malekstera	interna	1	NULL	intern	
+intern.0a.mensa	interna	3	NULL	innerlich	
+intern.0a.mensa	interna	3	NULL	intern	
+intern.0a.punkto	interna	4	NULL	inner	inner (-er Punkt)
+intern.0ajxo	internaĵo		NULL	Inneres	
+intern.0ajxo	internaĵo		NULL	Innerei	
+intern.0ajxo	internaĵo		NULL	Einrichtung	
+intern.0e	interne		NULL	innen	
+intern.0e.spirite	interne	2	NULL	innen	
+intern.0ede	interne de		NULL	NULL	NULL
+intern.0igi	internigi		NULL	NULL	NULL
+intern.0igi.KOMUNE	internigi	1	NULL	verinnerlichen	
+intern.0igi.speciale	internigi	2	NULL	internieren	
+intern.0o	interno		NULL	Inneres	
+intern.0o	interno		NULL	Kern	offener Kern
+intern.0o.parto	interno	1	NULL	Inneres	
+intern.0o.parto	interno	1	NULL	Kern	offener Kern
+intern.0o.topologio	interno	2	NULL	Inneres	
+intern.0o.topologio	interno	2	NULL	Kern	offener Kern
+intern.0o.topologio	interno	2	NULL	Inneres	
+intern.0o.topologio	interno	2	NULL	Kern	offener Kern
+intern.0ulejo	internulejo		NULL	Internat	
+intern.0ulejo.PED	internulejo		NULL	Internat	
+intern.0ulo	internulo		NULL	NULL	NULL
+intern.0ulo.PED	internulo	2	NULL	Internatsschüler	
+intern.0ulo.ano	internulo	1	NULL	Interner	
+intern.0ulo.ano	internulo	1	NULL	Eigener	
+interp.0i	interpelacii		oa_8	NULL	NULL
+interp.0i.POL	interpelacii		oa_8	anfragen	parlamentarisch anfragen
+interp.0i.POL	interpelacii		oa_8	interpellieren	
+interp.0o	interpelacio		NULL		
+interp.0o	interpelacio		NULL		
+interp.0o.POL	interpelacio		NULL	Anfrage	parlamentarische Anfrage
+interp.0o.POL	interpelacio		NULL	Interpellation	
+interp.0o.POL	interpelacio		NULL		
+interp.0o.POL	interpelacio		NULL		
+interp1.0i	interpoli		NULL	interpolieren	
+interp1.0i	interpoli		NULL	einschieben	
+interp1.0i	interpoli		NULL	einfügen	
+interp2.0i	interpreti		NULL	NULL	NULL
+interp2.0i.BELA	interpreti	3	NULL	interpretieren	
+interp2.0i.KOMP	interpreti	5	NULL	NULL	NULL
+interp2.0i.LIN	interpreti	4	NULL	NULL	NULL
+interp2.0i.kompreni	interpreti	1	NULL	interpretieren	
+interp2.0i.kompreni	interpreti	1	NULL	deuten	
+interp2.0i.trakti	interpreti	2	NULL	auslegen	
+interp2.0i.trakti	interpreti	2	NULL	interpretieren	
+interp2.0ilo	interpretilo		NULL	Interpreter	
+interp2.0ilo.KOMP	interpretilo		NULL	Interpreter	
+interp2.0isto	interpretisto		NULL	Dolmetscher	
+interp2.0isto	interpretisto		NULL	Dolmetscherin	
+interp2.0isto.LIN	interpretisto		NULL	Dolmetscher	
+interp2.0isto.LIN	interpretisto		NULL	Dolmetscherin	
+interp2.0o	interpreto		NULL	Interpretation	
+interp2.0o.KOMUNE	interpreto		NULL	Interpretation	
+interp3.0i	interpunkcii		NULL	NULL	NULL
+interp3.0o	interpunkcio		NULL	Interpunktion	
+interp3.0o	interpunkcio		NULL	Zeichensetzung	
+interp3.0o.TIP	interpunkcio		NULL	Interpunktion	
+interp3.0o.TIP	interpunkcio		NULL	Zeichensetzung	
+interpelac.0i	interpelaci		NULL	anfragen	anfragen (offiziell)
+interpelac.0o	interpelaco		NULL	Anfrage	offizielle Anfrage
+interv.0o	intervalo		NULL	Intervall	
+interv.0o.MAT	intervalo	3	NULL	Intervall	
+interv.0o.MUZ	intervalo	2	NULL	Intervall	
+interv.0o.distanco	intervalo	1	NULL	Spanne	
+interv.0o.distanco	intervalo	1	NULL	Intervall	
+interv.konvergx0o	konverĝintervalo		NULL	Konvergenzintervall	
+interv1.0i	intervjui		NULL	befragen	
+interv1.0i	intervjui		NULL	interviewen	
+interv1.0i.INF	intervjui		NULL	befragen	
+interv1.0i.INF	intervjui		NULL	interviewen	
+interv1.0igxi	intervjuiĝi		NULL	NULL	NULL
+interv1.0igxi.INF	intervjuiĝi		NULL	NULL	NULL
+interv1.0o	intervjuo		NULL	Befragung	
+interv1.0o	intervjuo		NULL	Interview	
+interv1.0o.INF	intervjuo		NULL	Befragung	
+interv1.0o.INF	intervjuo		NULL	Interview	
+interv1.dung0o	dungintervjuo		NULL	NULL	NULL
+interv1.dung0o	laborintervjuo		NULL	NULL	NULL
+interv1.dung0o.EKON	dungintervjuo		NULL	NULL	NULL
+interv1.dung0o.EKON	laborintervjuo		NULL	NULL	NULL
+intest.0aro	intestaro		NULL	Verdauungstrakt	
+intest.0aro	intestaro		NULL	Verdauungsapparat	
+intest.0o	intesto		NULL	Darm	
+intest.dika0o	dika intesto		NULL	Dickdarm	
+intest.maldika0o	maldika intesto		NULL	Dünndarm	
+intest.rekta0o	rekta intesto		NULL	Enddarm	
+intest.rekta0o	rekta intesto		NULL	Mastdarm	
+intest.rekta0o	rekta intesto		NULL	Rectum	
+intim.0a	intima		NULL	NULL	NULL
+intim.0a.nepublika	intima	2	NULL	intim	
+intim.0a.nepublika	intima	2	NULL	privat	
+intim.0a.sento	intima	1	NULL	intim	
+intim.0a.sento	intima	1	NULL	vertraut	
+intim.0a.sento	intima	1	NULL	innig	
+intim.0eco	intimeco		NULL	Intimität	
+intim.0eco	intimeco		NULL	Vertrautheit	
+intim.0eco	intimeco		NULL	Innigkeit	
+intim.0eco.KOMUNE	intimeco		NULL	Intimität	
+intim.0eco.KOMUNE	intimeco		NULL	Vertrautheit	
+intim.0eco.KOMUNE	intimeco		NULL	Innigkeit	
+intim.0igxi	intimiĝi		NULL	NULL	NULL
+intim.0igxi.PSI	intimiĝi		NULL	NULL	NULL
+intim.0ismo	intimismo		NULL	NULL	NULL
+intim.0ismo.BELA	intimismo		NULL	NULL	NULL
+intim.0ulo	intimulo		NULL	Intimus	
+intim.0ulo	intimulo		NULL	Vertraute	
+intim.0ulo	intimulo		NULL	Vertrauter	
+intim.0ulo.KOMUNE	intimulo		NULL	Intimus	
+intim.0ulo.KOMUNE	intimulo		NULL	Vertraute	
+intim.0ulo.KOMUNE	intimulo		NULL	Vertrauter	
+intim.mal0a	malintima		NULL	NULL	NULL
+intim.mal0a.KOMUNE	malintima		NULL	NULL	NULL
+intonaci.0o	intonacio		NULL	Intonation	
+intonaci.0o	intonacio		NULL	Sprachmelodie	
+intonaci.0o.FON	intonacio		NULL	Intonation	
+intonaci.0o.FON	intonacio		NULL	Sprachmelodie	
+intrig.0i	intrigi		NULL	intrigieren	
+intrig.0o	intrigo		NULL	NULL	NULL
+intrig.0o.BELE	intrigo	2	NULL	NULL	NULL
+intrig.0o.amafero	intrigo	3	NULL	NULL	NULL
+intrig.0o.komploto	intrigo	1	NULL	Intrige	
+intrig.am0o	amintrigo		NULL	NULL	NULL
+intros.0a	introspekta		NULL	Innen	nach Innen gekehrt
+intros.0a	introspekta		NULL	reflektiert	
+intros.0o	introspekto		NULL	Selbstbeobachtung	
+intros.0o	introspekto		NULL	Introspektion	
+intros.0o	introspekto		NULL	Reflexion	
+intros.0o.PSI	introspekto		NULL	Selbstbeobachtung	
+intros.0o.PSI	introspekto		NULL	Introspektion	
+intros.0o.PSI	introspekto		NULL	Reflexion	
+introvert.0a	introverta		NULL	NULL	NULL
+introvert.0a.PSI	introverta		NULL	NULL	NULL
+introvert.0ulo	introvertulo		NULL	NULL	NULL
+introvert.0ulo.PSI	introvertulo		NULL	NULL	NULL
+introvertit.0a	introvertita		NULL	introvertiert	
+introvertit.0a	introvertita		NULL	verschlossen	
+introvertit.0a.PSI	introvertita		NULL	introvertiert	
+introvertit.0a.PSI	introvertita		NULL	verschlossen	
+introvertit.0o	introvertito		NULL	Introvertierter	
+introvertit.0o.PSI	introvertito		NULL	Introvertierter	
+intuic.0a	intuicia		NULL	intuitiv	
+intuic.0a	intua		NULL	intuitiv	
+intuic.0a.instinkta	intuicia		NULL	intuitiv	
+intuic.0a.instinkta	intua		NULL	intuitiv	
+intuic.0e	intuicie		NULL	intuitiv	
+intuic.0e	intue		NULL	intuitiv	
+intuic.0e.instinkte	intuicie		NULL	intuitiv	
+intuic.0e.instinkte	intue		NULL	intuitiv	
+intuic.0i	intuicii		NULL	NULL	NULL
+intuic.0i	intui		NULL	NULL	NULL
+intuic.0i.kompreni	intuicii		NULL	erfassen	erfassen (intuitiv)
+intuic.0i.kompreni	intui		NULL	erfassen	erfassen (intuitiv)
+intuic.0o	intuicio		NULL	Intuition	
+intuic.0o	intuo		NULL	Intuition	
+intuic.0o	intuicio		NULL	instinktives Erfassen	
+intuic.0o	intuo		NULL	instinktives Erfassen	
+intuic.0o.instinkto	intuicio		NULL	Intuition	
+intuic.0o.instinkto	intuo		NULL	Intuition	
+intuic.0o.instinkto	intuicio		NULL	instinktives Erfassen	
+intuic.0o.instinkto	intuo		NULL	instinktives Erfassen	
+inuit.0a	inuita		NULL	eskimoisch	
+inuit.0aj_lingvoj	inuitaj lingvoj		NULL	NULL	NULL
+inuit.0aj_lingvoj.LIN	inuitaj lingvoj		NULL	NULL	NULL
+inuit.0o	inuito		NULL	Inuit	
+inuit.0o	inuito		NULL	Eskimo	
+inukti.0o	Inuktituto		NULL	Inuktitut	
+inukti.0o.LIN	Inuktituto		NULL	Inuktitut	
+inund.0i	inundi		oa_4	überschwemmen	
+inund.0i	inundi		oa_4	überschwemmen	
+inund.0i	inundi		oa_4	überfluten	
+inund.0i	inundi		oa_4	überfluten	
+inund.0i.MET	inundi		oa_4	überschwemmen	
+inund.0i.MET	inundi		oa_4	überschwemmen	
+inund.0i.MET	inundi		oa_4	überfluten	
+inund.0i.MET	inundi		oa_4	überfluten	
+inund.0o	inundo		NULL	NULL	NULL
+inund.0o.MET	inundo		NULL	NULL	NULL
+invad.0i	invadi		NULL	einfallen	
+invad.0i	invadi		NULL	eindringen	
+invad.0i.FIG	invadi	2	NULL	einfallen	
+invad.0i.FIG	invadi	2	NULL	eindringen	
+invad.0i.landon	invadi	1	NULL	überfallen	
+invad.0i.landon	invadi	1	NULL	angreifen	
+invad.0i.landon	invadi	1	NULL	einfallen	
+invad.0i.landon	invadi	1	NULL	eindringen	
+invad.0o	invado		NULL	Invasion	
+invali.0eco	invalideco		NULL	Invalidität	
+invali.0eco.stato	invalideco		NULL	Invalidität	
+invali.0o	invalido		NULL	Invalide	
+invali.0o.homo	invalido		NULL	Invalide	
+invari.0a	invarianta		NULL	NULL	NULL
+invari.0a.gxenerale	invarianta	1	NULL	invariant	
+invari.0a.subgrupo	invarianta	2	NULL	invariant	invariant (-e Untergruppe)
+invari.0a.subgrupo	invarianta	2	NULL	Normal-	Normal-(teiler)
+invari.0a.subgrupo	invarianta	2	NULL	selbst-konjugiert	selbst-konjugiert (-e Untergruppe)
+invari.0o	invarianto		NULL	Invariante	
+invent.0ajxo	inventaĵo		NULL	Erfindung	
+invent.0ajxo	inventaĵo		NULL	Erfundenes	
+invent.0i	inventi		oa_8	erfinden	
+invent.0i	inventi		oa_8	ausdenken	
+invent.0isto	inventisto		NULL	Erfinder	
+invent.0isto	inventisto		NULL	Erfinderin	
+invent.0o	invento		NULL	Erfindung	
+invent.0o	invento		NULL	Erfinden	
+invent1.0i	inventari		NULL	inventarisieren	
+invent1.0i	inventari		NULL	Inventur	eine Inventur durchführen
+invent1.0i.EKON	inventari		NULL	inventarisieren	
+invent1.0i.EKON	inventari		NULL	Inventur	eine Inventur durchführen
+invent1.0o	inventaro		NULL	Inventar	
+invent1.0o	inventaro		NULL	Bestandsliste	
+invent1.0o.EKON	inventaro	1	NULL	Inventar	
+invent1.0o.EKON	inventaro	1	NULL	Bestandsliste	
+invent1.0o.objektaro	inventaro	2	NULL	Bestand	
+invent1.0o.objektaro	inventaro	2	NULL	Inventar	
+invent1.0o.objektaro	inventaro	2	NULL	Bestandsliste	
+invers.0a	inversa		oa_4	umgekehrt	
+invers.0a	inversa		oa_4	umgekehrt	
+invers.0a	inversa		oa_4	invers	
+invers.0a	inversa		oa_4	invers	
+invers.0a.MAT	inversa	2	oa_4	inverse	
+invers.0a.MAT	inversa	2	oa_4	inverse	
+invers.0a.MAT	inversa	2	oa_4	umgekehrt	
+invers.0a.MAT	inversa	2	oa_4	umgekehrt	
+invers.0a.MAT	inversa	2	oa_4	invers	
+invers.0a.MAT	inversa	2	oa_4	invers	
+invers.0e	inverse		NULL	umgekehrt	
+invers.0hava	invershava		NULL	umkehrbar	
+invers.0igebla	inversigebla		NULL	umkehrbar	
+invers.0igebla.KOMUNE	inversigebla	1	NULL	umkehrbar	
+invers.0igebla.MAT	inversigebla	2	NULL	umkehrbar	
+invers.0igi	inversigi		NULL	NULL	NULL
+invers.0igi.KOMUNE	inversigi	1	NULL	umkehren	
+invers.0igi.KOMUNE	inversigi	1	NULL	invertieren	
+invers.0igi.MAT	inversigi	2	NULL	NULL	NULL
+invers.0igo	inversigo		NULL	NULL	NULL
+invers.0igo.KOMUNE	inversigo	1	NULL	NULL	NULL
+invers.0igo.MAT	inversigo	2	NULL	NULL	NULL
+invers.0o	inverso		NULL	Umkehrung	
+invers.0o	inverso		NULL	umgekehrte Richtung	
+invers.0o.MAT	inverso	2	NULL	Umkehrung	
+invers.0o.MAT	inverso	2	NULL	umgekehrte Richtung	
+invers.ne0hava	neinvershava		NULL	unumkehrbar	
+invers.ne0igebla	neinversigebla		NULL	unumkehrbar	
+invers.ne0igebla.KOMUNE	neinversigebla	1	NULL	unumkehrbar	
+invers.ne0igebla.KOMUNE	neinversigebla	1	NULL	irreversibel	
+invers.ne0igebla.KOMUNE	neinversigebla	1	NULL	unumkehrbar	
+invers1.0o	inversio		NULL	Inversion	
+invers1.0o	inversio		NULL	Umkehrung der regelmäßigen Wortfolge	
+invest.0ado	investado		NULL	NULL	NULL
+invest.0ado.EKON	investado		NULL	NULL	NULL
+invest.0ajxo	investaĵo		NULL	NULL	NULL
+invest.0ajxo.ajxo_acxetita	investaĵo	2	NULL	NULL	NULL
+invest.0ajxo.kapitalo	investaĵo	1	NULL	NULL	NULL
+invest.0i	investi		NULL	NULL	NULL
+invest.0i.EKON	investi		NULL	investieren	
+invest.0i.EKON	investi		NULL	anlegen	
+invest.0o	investo		NULL	NULL	NULL
+invest.0o.ado	investo	2	NULL	NULL	NULL
+invest.0o.ajxo	investo	1	NULL	NULL	NULL
+invest1.0i	investituri		NULL	einführen	
+invest1.0i.enoficigi	investituri	1	NULL	einführen	
+invest1.0o	investituro		NULL	NULL	NULL
+invest1.0o.enoficigi	investituro	1	NULL	NULL	NULL
+invest1.0o.episkopojn	investituro	3	NULL	Investitur	
+invest1.0o.feuxda	investituro	2	NULL	Investitur	
+invest1.0o.vasalon	investituro	2	NULL	NULL	NULL
+invest2.0i	investi		NULL	NULL	NULL
+invest2.0i.enoficigi	investi		NULL	einführen	einführen (in ein Amt)
+invest2.0i.enoficigi	investi		NULL	benennen	benennen (für ein Amt)
+invest2.0o	investo		NULL	NULL	NULL
+invest2.0o	investado		NULL	NULL	NULL
+invest2.0o.enoficigo	investo		NULL	Einführung	(Amts-)Einführung
+invest2.0o.enoficigo	investado		NULL	Einführung	(Amts-)Einführung
+invit.0i	inviti		ekz_25	einladen	
+invit.0i.ien	inviti	1	ekz_25	einladen	
+invit.0i.instige	inviti	2	ekz_25	einladen	
+invit.0ilo	invitilo		NULL	NULL	NULL
+invit.0ilo.MOR	invitilo		NULL	NULL	NULL
+invit.0o	invito		NULL	Einladung	
+invit.0o.KOMP	invito	2	NULL	Einladung	
+invok.0i	invoki		NULL	berufen	sich berufen auf
+involu.0o	involukro		NULL	Blütenhülle	
+involu1.0a	involucia		NULL	involutorisch	
+involu1.0o	involucio		NULL	Involution	
+io.0	io		ekz_30	etwas	
+io.0	io		uv_I	etwas	
+io.0	io		akkor_en	etwas	
+io.0.nepreciza	io	1	ekz_30	etwas	
+io.0.nepreciza	io	1	uv_I	etwas	
+io.0.nepreciza	io	1	akkor_en	etwas	
+io.0.simila	io	2	ekz_30	etwas	
+io.0.simila	io	2	uv_I	etwas	
+io.0.simila	io	2	akkor_en	etwas	
+io.0kajalio	io kaj alio		NULL	NULL	NULL
+io.0kajalio.KOMUNE	io kaj alio		NULL	NULL	NULL
+iom.0	iom		ekz_30	etwas	
+iom.0	iom		uv_I	etwas	
+iom.0	iom		akkor_en	etwas	
+iom.0	iom		ekz_30	bisschen	ein bisschen
+iom.0	iom		uv_I	bisschen	ein bisschen
+iom.0	iom		akkor_en	bisschen	ein bisschen
+iom.0.iome	iom	2	ekz_30	etwas	
+iom.0.iome	iom	2	uv_I	etwas	
+iom.0.iome	iom	2	akkor_en	etwas	
+iom.0.iome	iom	2	ekz_30	bisschen	ein bisschen
+iom.0.iome	iom	2	uv_I	bisschen	ein bisschen
+iom.0.iome	iom	2	akkor_en	bisschen	ein bisschen
+iom.0.iomo	iom	1	ekz_30	etwas	
+iom.0.iomo	iom	1	uv_I	etwas	
+iom.0.iomo	iom	1	akkor_en	etwas	
+iom.0.iomo	iom	1	ekz_30	bisschen	ein bisschen
+iom.0.iomo	iom	1	uv_I	bisschen	ein bisschen
+iom.0.iomo	iom	1	akkor_en	bisschen	ein bisschen
+iom.0a	ioma		NULL	bisschen	ein bisschen
+iom.0a	ioma		NULL	etwas	
+iom.0a.KOMUNE	ioma		NULL	bisschen	ein bisschen
+iom.0a.KOMUNE	ioma		NULL	etwas	
+iom.0e	iome		NULL	etwas	
+iom.0e	iome		NULL	bisschen	ein bisschen
+iom.0ete	iomete		NULL	etwas	
+iom.0ete	iomete		NULL	wenig	ein wenig
+iom.0ete	iomete		NULL	bisschen	ein bisschen
+iom.0ete.grado	iomete	2	NULL	etwas	
+iom.0ete.grado	iomete	2	NULL	wenig	ein wenig
+iom.0ete.grado	iomete	2	NULL	bisschen	ein bisschen
+iom.0ete.kvanto	iomete	1	NULL	etwas	
+iom.0ete.kvanto	iomete	1	NULL	wenig	ein wenig
+iom.0ete.kvanto	iomete	1	NULL	bisschen	ein bisschen
+iom.0post0	iom post iom		NULL	nach und nach	
+iom.0post0	iompostiom		NULL	nach und nach	
+iom.0post0	iom post iom		NULL	allmählich	
+iom.0post0	iompostiom		NULL	allmählich	
+iom.0post0.KOMUNE	iom post iom		NULL	nach und nach	
+iom.0post0.KOMUNE	iompostiom		NULL	nach und nach	
+iom.0post0.KOMUNE	iom post iom		NULL	allmählich	
+iom.0post0.KOMUNE	iompostiom		NULL	allmählich	
+iom.0post0a	iom-post-ioma		NULL	NULL	NULL
+iom.0post0a	iompostioma		NULL	NULL	NULL
+iom.0post0a.KOMUNE	iom-post-ioma		NULL	NULL	NULL
+iom.0post0a.KOMUNE	iompostioma		NULL	NULL	NULL
+iom.kelk0	kelkiom		NULL	NULL	NULL
+iom.kelk0.KOMUNE	kelkiom		NULL	NULL	NULL
+iom.po0a	poioma		NULL	NULL	NULL
+iom.po0a.KOMUNE	poioma		NULL	NULL	NULL
+iom.post0e	postiome		NULL	NULL	NULL
+iom.post0e.TEMP	postiome		NULL	NULL	NULL
+iom.sen0a	sen ioma		NULL	NULL	NULL
+iom.sen0a.KOMUNE	sen ioma		NULL	NULL	NULL
+ion.0a	iona		NULL	ionisch	
+ion.0a	ionika		NULL	ionisch	
+iova.0o	Iovao		NULL	NULL	NULL
+iova.0o.GEOG	Iovao		NULL	NULL	NULL
+ip.0	-ip		NULL	NULL	NULL
+ips.0o	ipso		NULL	NULL	NULL
+ips.0o.ZOO	ipso		NULL	Ips	
+ips.0o.ZOO	ipso		NULL	Borkenkäfer	
+ipsilon.0o	ipsilono		oa_9	NULL	NULL
+ipsilon.0o.litero	ipsilono		oa_9	Ypsilon	
+ir.0ado	irado		uv_A	Gehen	
+ir.0ado	irado		uv_A	Gehen	
+ir.0ado	irado		uv_A	Gang	Gang(art)
+ir.0ado	irado		uv_A	Gang	Gang(art)
+ir.0antaro	irantaro		NULL	Zug	Zug (Gruppe)
+ir.0antaro	irantaro		NULL	Schar	
+ir.0antaro	irantaro		NULL	Weggemeinschaft	
+ir.0antaro	irantaro		NULL	Kolonne	
+ir.0ebla	irebla		NULL	gangbar	
+ir.0ebla.KOMUNE	irebla		NULL	gangbar	
+ir.0ejo	irejo		NULL	Weg	
+ir.0ejo	irejo		NULL	Bahn	
+ir.0ejo.KOMUNE	irejo	1	NULL	Weg	
+ir.0ejo.KOMUNE	irejo	1	NULL	Bahn	
+ir.0ejo.vivovojo	irejo	2	NULL	Lebensweg	
+ir.0ejo.vivovojo	irejo	2	NULL	Weg	
+ir.0ejo.vivovojo	irejo	2	NULL	Bahn	
+ir.0i	iri		ekz_9	gehen	
+ir.0i	iri		ekz_13	gehen	
+ir.0i	iri		ekz_13	gehen	
+ir.0i	iri		ekz_28	gehen	
+ir.0i.al	iri	2	ekz_9	gehen	
+ir.0i.al	iri	2	ekz_13	gehen	
+ir.0i.al	iri	2	ekz_13	gehen	
+ir.0i.al	iri	2	ekz_28	gehen	
+ir.0i.deAl	iri	1	ekz_9	gehen	
+ir.0i.deAl	iri	1	ekz_13	gehen	
+ir.0i.deAl	iri	1	ekz_13	gehen	
+ir.0i.deAl	iri	1	ekz_28	gehen	
+ir.0i.funkcii	iri	4	ekz_9	gehen	
+ir.0i.funkcii	iri	4	ekz_13	gehen	
+ir.0i.funkcii	iri	4	ekz_13	gehen	
+ir.0i.funkcii	iri	4	ekz_28	gehen	
+ir.0i.konduki	iri	3	ekz_9	führen	entlang führen
+ir.0i.konduki	iri	3	ekz_13	führen	entlang führen
+ir.0i.konduki	iri	3	ekz_13	führen	entlang führen
+ir.0i.konduki	iri	3	ekz_28	führen	entlang führen
+ir.0i.konduki	iri	3	ekz_9	reichen	reichen (von..bis)
+ir.0i.konduki	iri	3	ekz_13	reichen	reichen (von..bis)
+ir.0i.konduki	iri	3	ekz_13	reichen	reichen (von..bis)
+ir.0i.konduki	iri	3	ekz_28	reichen	reichen (von..bis)
+ir.0i.konduki	iri	3	ekz_9	gehen	
+ir.0i.konduki	iri	3	ekz_13	gehen	
+ir.0i.konduki	iri	3	ekz_13	gehen	
+ir.0i.konduki	iri	3	ekz_28	gehen	
+ir.0i.progresi	iri	5	ekz_9	verlaufen	
+ir.0i.progresi	iri	5	ekz_13	verlaufen	
+ir.0i.progresi	iri	5	ekz_13	verlaufen	
+ir.0i.progresi	iri	5	ekz_28	verlaufen	
+ir.0i.progresi	iri	5	ekz_9	gehen	
+ir.0i.progresi	iri	5	ekz_13	gehen	
+ir.0i.progresi	iri	5	ekz_13	gehen	
+ir.0i.progresi	iri	5	ekz_28	gehen	
+ir.0igi	irigi		NULL	führen	
+ir.0igi	irigi		NULL	schicken	
+ir.0igi	irigi		NULL	senden	
+ir.0igi.funkciigi	irigi	2	NULL	Gang	in Gang bringen
+ir.0igi.funkciigi	irigi	2	NULL	führen	
+ir.0igi.funkciigi	irigi	2	NULL	schicken	
+ir.0igi.funkciigi	irigi	2	NULL	senden	
+ir.0igi.irebligi	irigi	3	NULL	führen	
+ir.0igi.irebligi	irigi	3	NULL	führen	
+ir.0igi.irebligi	irigi	3	NULL	schicken	
+ir.0igi.irebligi	irigi	3	NULL	senden	
+ir.0igi.movigi	irigi	1	NULL	antreiben	
+ir.0igi.movigi	irigi	1	NULL	führen	
+ir.0igi.movigi	irigi	1	NULL	schicken	
+ir.0igi.movigi	irigi	1	NULL	senden	
+ir.0ilo	irilo		uv_I	Stelze	
+ir.0ilo.stilzo	irilo		uv_I	Stelze	
+ir.0o	iro		NULL	NULL	NULL
+ir.0o.alcela	iro	2	NULL	Gang	Gang (zu...)
+ir.0o.funkciado	iro	4	NULL	Gang	Gang (Uhr usw.)
+ir.0o.irejo	iro	3	NULL	Gang	Gang (Durchgang)
+ir.0o.movigxo	iro	1	NULL	Gehen	
+ir.0o.progresado	iro	5	NULL	Gang	Gang (Verlauf)
+ir.0o.progresado	iro	5	NULL	Verlauf	
+ir.0o.progresado	iro	5	NULL	Ausgang	Ausgang (Verlauf)
+ir.al0ebla	alirebla		NULL	NULL	NULL
+ir.al0ebla.FIG	alirebla	2	NULL	zugänglich	
+ir.al0ebla.KOMUNE	alirebla	1	NULL	begehbar	
+ir.al0ebla.KOMUNE	alirebla	1	NULL	erreichbar	
+ir.al0i	aliri		NULL	herantreten	
+ir.al0i	aliri		NULL	herangehen	
+ir.al0i.FIG	aliri	2	NULL	angehen	
+ir.al0i.FIG	aliri	2	NULL	herantreten	
+ir.al0i.FIG	aliri	2	NULL	herangehen	
+ir.al0i.KOMUNE	aliri	1	NULL	herantreten	
+ir.al0i.KOMUNE	aliri	1	NULL	herangehen	
+ir.al0o	aliro		NULL	Zugang	
+ir.al0o.FIG	aliro	3	NULL	Ansatz	Ansatz (Zugang)
+ir.al0o.FIG	aliro	3	NULL	Zugang	
+ir.al0o.ago	aliro	1	NULL	Zugang	
+ir.al0o.ebleco	aliro	2	NULL	Zugang	
+ir.antaux0i	antaŭiri		NULL	NULL	NULL
+ir.antaux0i.KOMUNE	antaŭiri	1	NULL	vorangehen	
+ir.antaux0i.KOMUNE	antaŭiri	1	NULL	vorausgehen	
+ir.antaux0i.KOMUNE	antaŭiri	1	NULL	vorgehen	
+ir.antaux0i.antauxen	antaŭiri	2	NULL	vorwärts gehen	
+ir.antauxen0i	antaŭeniri		NULL	vorwärtsgehen	
+ir.antauxen0i	antaŭeniri		NULL	vorwärtsschreiten	
+ir.antauxen0i	antaŭeniri		NULL	vorrücken	
+ir.antauxen0i.KOMUNE	antaŭeniri		NULL	vorwärtsgehen	
+ir.antauxen0i.KOMUNE	antaŭeniri		NULL	vorwärtsschreiten	
+ir.antauxen0i.KOMUNE	antaŭeniri		NULL	vorrücken	
+ir.cxirkaux0i	ĉirkaŭiri		NULL	NULL	NULL
+ir.cxirkaux0i.cxien	ĉirkaŭiri	3	NULL	herumgehen	
+ir.cxirkaux0i.cxien	ĉirkaŭiri	3	NULL	umhergehen	
+ir.cxirkaux0i.eviti	ĉirkaŭiri	2	NULL	umgehen	
+ir.cxirkaux0i.lauxrondo	ĉirkaŭiri	1	NULL	herumgehen	
+ir.cxirkaux0i.lauxrondo	ĉirkaŭiri	1	NULL	umkreisen	
+ir.de0i	deiri		NULL	abgehen	
+ir.de0i	deiri		NULL	weggehen	
+ir.de0i	deiri		NULL	starten	
+ir.de0i	deiri		NULL	absteigen	
+ir.de0i	deiri		NULL	losgehen	
+ir.de0i	deiri		NULL	verlassen	
+ir.de0i.KOMUNE	deiri		NULL	abgehen	
+ir.de0i.KOMUNE	deiri		NULL	weggehen	
+ir.de0i.KOMUNE	deiri		NULL	starten	
+ir.de0i.KOMUNE	deiri		NULL	absteigen	
+ir.de0i.KOMUNE	deiri		NULL	losgehen	
+ir.de0i.KOMUNE	deiri		NULL	verlassen	
+ir.dis0i	disiri		uv_D	gehen	auseinander gehen
+ir.dis0i	disiri		ekz_28	gehen	auseinander gehen
+ir.dis0i	disiri		uv_D	zerstreuen	sich zerstreuen
+ir.dis0i	disiri		ekz_28	zerstreuen	sich zerstreuen
+ir.dis0i.KOMUNE	disiri		uv_D	gehen	auseinander gehen
+ir.dis0i.KOMUNE	disiri		ekz_28	gehen	auseinander gehen
+ir.dis0i.KOMUNE	disiri		uv_D	zerstreuen	sich zerstreuen
+ir.dis0i.KOMUNE	disiri		ekz_28	zerstreuen	sich zerstreuen
+ir.ek0i	ekiri		NULL	losgehen	
+ir.ek0i	ekiri		NULL	aufbrechen	
+ir.ek0i.KOMUNE	ekiri		NULL	losgehen	
+ir.ek0i.KOMUNE	ekiri		NULL	aufbrechen	
+ir.el0ejo	elirejo		NULL	NULL	NULL
+ir.el0ejo.FIG	elirejo	2	NULL	Ausweg	
+ir.el0i	eliri		ekz_15	NULL	NULL
+ir.el0i.eksteren	eliri	1	ekz_15	draußen gehen	nach draußen gehen
+ir.el0i.eksteren	eliri	1	ekz_15	herausgehen	
+ir.el0i.publike	eliri	2	ekz_15	außen	nach außen gehen
+ir.el0i.publike	eliri	2	ekz_15	zeigen	sich zeigen
+ir.el0vojo	elirvojo		NULL	Ausweg	
+ir.el0vojo.FIG	elirvojo	2	NULL	Ausweg	
+ir.el0vojo.KOMUNE	elirvojo	1	NULL	Ausweg	
+ir.en0ejo	enirejo		NULL	Eingang	
+ir.en0ejo.KOMUNE	enirejo		NULL	Eingang	
+ir.en0i	eniri		NULL	hineingehen	
+ir.en0i	eniri		NULL	eintreten	
+ir.en0i.FIG	eniri	2	NULL	hineingehen	
+ir.en0i.FIG	eniri	2	NULL	eintreten	
+ir.en0i.KOMUNE	eniri	1	NULL	hineingehen	
+ir.en0i.KOMUNE	eniri	1	NULL	eintreten	
+ir.flanken0i	flankeniri		NULL	NULL	NULL
+ir.flanken0i.KOMUNE	flankeniri		NULL	gehen	zur Seite gehen
+ir.flanken0i.KOMUNE	flankeniri		NULL	ausweichen	
+ir.for0i	foriri		NULL	weggehen	
+ir.for0i	foriri		NULL	fortgehen	
+ir.for0i	foriri		NULL	verlassen	
+ir.for0i	foriri		NULL	abreisen	
+ir.for0i.KOMUNE	foriri		NULL	weggehen	
+ir.for0i.KOMUNE	foriri		NULL	fortgehen	
+ir.for0i.KOMUNE	foriri		NULL	verlassen	
+ir.for0i.KOMUNE	foriri		NULL	abreisen	
+ir.for0o	foriro		NULL	Weggang	
+ir.for0o	foriro		NULL	Abreise	
+ir.for0o.KOMUNE	foriro		NULL	Weggang	
+ir.for0o.KOMUNE	foriro		NULL	Abreise	
+ir.gxis0i	ĝisiri		NULL	hingehen	
+ir.gxis0i.KOMUNE	ĝisiri		NULL	hingehen	
+ir.hejmen0i	hejmeniri		NULL	gehen	nach Hause gehen
+ir.hejmen0i.KOMUNE	hejmeniri		NULL	gehen	nach Hause gehen
+ir.kun0i	kuniri		NULL	gehen	zusammen gehen
+ir.kun0i	kuniri		NULL	wandeln	gemeinsam wandeln
+ir.kun0i	kuniri		NULL	mitkommen	
+ir.kun0i	kuniri		NULL	begleiten	
+ir.kun0i.KOMUNE	kuniri		NULL	gehen	zusammen gehen
+ir.kun0i.KOMUNE	kuniri		NULL	wandeln	gemeinsam wandeln
+ir.kun0i.KOMUNE	kuniri		NULL	mitkommen	
+ir.kun0i.KOMUNE	kuniri		NULL	begleiten	
+ir.laux0i	laŭiri		NULL	entlanggehen	
+ir.laux0i	laŭiri		NULL	entlangschreiten	
+ir.laux0i	laŭiri		NULL	ablaufen	ablaufen (entlang gehen)
+ir.laux0i.KOMUNE	laŭiri		NULL	entlanggehen	
+ir.laux0i.KOMUNE	laŭiri		NULL	entlangschreiten	
+ir.laux0i.KOMUNE	laŭiri		NULL	ablaufen	ablaufen (entlang gehen)
+ir.malantauxen0i	malantaŭeniri		NULL	NULL	NULL
+ir.malantauxen0i.KOMUNE	malantaŭeniri		NULL	NULL	NULL
+ir.malsupren0i	malsupreniri		NULL	NULL	NULL
+ir.malsupren0i.KOMUNE	malsupreniri		NULL	hinuntergehen	
+ir.malsupren0i.KOMUNE	malsupreniri		NULL	heruntergehen	
+ir.neal0ebla	nealirebla		NULL	NULL	NULL
+ir.neal0ebla.FIG	nealirebla	2	NULL	NULL	NULL
+ir.neal0ebla.KOMUNE	nealirebla	1	NULL	NULL	NULL
+ir.pied0anto	piediranto		NULL	Fußgänger	
+ir.pied0anto.TRA	piediranto		NULL	Fußgänger	
+ir.pied0i	piediri		NULL	zu Fuß gehen	
+ir.pied0i	piediri		NULL	wandeln	
+ir.pied0i.KOMUNE	piediri		NULL	zu Fuß gehen	
+ir.pied0i.KOMUNE	piediri		NULL	wandeln	
+ir.post0i	postiri		NULL	NULL	NULL
+ir.post0i.KOMUNE	postiri		NULL	NULL	NULL
+ir.preter0i	preteriri		NULL	NULL	NULL
+ir.preter0i.KOMUNE	preteriri	1	NULL	vorbeigehen	
+ir.preter0i.KOMUNE	preteriri	1	NULL	vorübergehen	
+ir.preter0i.KOMUNE	preteriri	1	NULL	ziehen	vorbeiziehen
+ir.preter0i.limon	preteriri	2	NULL	übertreten	übertreten (Grenze)
+ir.re0i	reiri		NULL	NULL	NULL
+ir.re0i.denove	reiri	2	NULL	zurückgehen	
+ir.re0i.denove	reiri	2	NULL	zurückkehren	
+ir.re0i.returne	reiri	1	NULL	NULL	NULL
+ir.rond0i	rondiri		NULL	NULL	NULL
+ir.rond0i.cxien	rondiri	2	NULL	NULL	NULL
+ir.rond0i.lauxrondo	rondiri	1	NULL	herumgehen	
+ir.rond0i.lauxrondo	rondiri	1	NULL	Kreis laufen	im Kreis laufen
+ir.senel0ejo	senelirejo		NULL	Sackgasse	
+ir.senel0ejo	senelirejo		NULL	Ausweglosigkeit	
+ir.senel0ejo	senelirejo		NULL	Ende	totes Ende
+ir.senel0ejo.FIG	senelirejo	2	NULL	Sackgasse	
+ir.senel0ejo.FIG	senelirejo	2	NULL	Ausweglosigkeit	
+ir.senel0ejo.FIG	senelirejo	2	NULL	Ende	totes Ende
+ir.senel0ejo.KOMUNE	senelirejo	1	NULL	Sackgasse	
+ir.senel0ejo.KOMUNE	senelirejo	1	NULL	Ausweglosigkeit	
+ir.senel0ejo.KOMUNE	senelirejo	1	NULL	Ende	totes Ende
+ir.sub0i	subiri		NULL	untergehen	
+ir.sub0i	subiri		NULL	hinuntergehen	
+ir.sub0i	subiri		NULL	heruntergehen	
+ir.sub0i	subiri		NULL	unten gehen	
+ir.sub0i.ASTR	subiri	2	NULL	untergehen	
+ir.sub0i.ASTR	subiri	2	NULL	hinuntergehen	
+ir.sub0i.ASTR	subiri	2	NULL	heruntergehen	
+ir.sub0i.ASTR	subiri	2	NULL	unten gehen	
+ir.sub0i.KOMUNE	subiri	1	NULL	untergehen	
+ir.sub0i.KOMUNE	subiri	1	NULL	hinuntergehen	
+ir.sub0i.KOMUNE	subiri	1	NULL	heruntergehen	
+ir.sub0i.KOMUNE	subiri	1	NULL	unten gehen	
+ir.supren0i	supreniri		NULL	NULL	NULL
+ir.supren0i.KOMUNE	supreniri		NULL	heraufgehen	
+ir.supren0i.KOMUNE	supreniri		NULL	hinaufgehen	
+ir.supren0i.KOMUNE	supreniri		NULL	ersteigen	
+ir.supren0i.KOMUNE	supreniri		NULL	erklimmen	
+ir.sur0i	suriri		NULL	steigen	steigen auf
+ir.sur0i	suriri		NULL	besteigen	
+ir.sur0i	suriri		NULL	beschreiten	
+ir.sur0i	suriri		NULL	betreten	
+ir.sur0i.KOMUNE	suriri		NULL	steigen	steigen auf
+ir.sur0i.KOMUNE	suriri		NULL	besteigen	
+ir.sur0i.KOMUNE	suriri		NULL	beschreiten	
+ir.sur0i.KOMUNE	suriri		NULL	betreten	
+ir.sxip0i	ŝipiri		NULL	mit dem Schiff fahren	
+ir.sxip0i	ŝipiri		NULL	schifffahren	
+ir.sxip0i.MAR	ŝipiri		NULL	mit dem Schiff fahren	
+ir.sxip0i.MAR	ŝipiri		NULL	schifffahren	
+ir.sxtel0i	ŝteliri		NULL	schleichen	
+ir.sxtel0i.kasxe	ŝteliri		NULL	schleichen	
+ir.tra0i	trairi		NULL	NULL	NULL
+ir.tra0i.KOMUNE	trairi	1	NULL	hindurchgehen	
+ir.tra0i.KOMUNE	trairi	1	NULL	durchgehen	
+ir.tra0i.KOMUNE	trairi	1	NULL	durchqueren	
+ir.tra0i.MAT	trairi	3	NULL	gehen	gehen (z.B. durch einen Punkt)
+ir.tra0i.distancon	trairi	2	NULL	zurücklegen	zurücklegen (eine Strecke gehen)
+ir.trans0a	transira		NULL	NULL	NULL
+ir.trans0a.GRA	transira	3	NULL	transitiv	
+ir.trans0a.loke	transira	1	NULL	übergehend	
+ir.trans0a.loke	transira	1	NULL	passierend	
+ir.trans0a.nedauxra	transira	2	NULL	vorübergehend	
+ir.trans0a.nedauxra	transira	2	NULL	transitorisch	
+ir.trans0ejo	transirejo		NULL	Übergang	
+ir.trans0ejo	transirejo		NULL	Überführung	
+ir.trans0ejo	transirejo		NULL	Unterführung	
+ir.trans0i	transiri		NULL	NULL	NULL
+ir.trans0i.metafore	transiri	2	NULL	überlaufen	überlaufen (zur anderen Seite)
+ir.trans0i.metafore	transiri	2	NULL	übergehen	übergehen (zu)
+ir.trans0i.movigxi	transiri	1	NULL	hinübergehen	
+ir.trans0i.movigxi	transiri	1	NULL	überschreiten	
+ir.trans0i.sxangxigxi	transiri	3	NULL	übergehen	übergehen (in)
+ir.trans0i.sxangxigxi	transiri	3	NULL	wandeln	sich wandeln zu
+ir.voj0i	vojiri		NULL	wandern	
+ir.voj0i.KOMUNE	vojiri		NULL	wandern	
+irak.0a	iraka		NULL	NULL	NULL
+irak.0ano	irakano		NULL	NULL	NULL
+irak.I0o	Irako		oa_8	Irak	
+irak.I0o.GEOG	Irako	2	oa_8	Irak	
+irak.I0o.HIS	Irako	1	oa_8	Irak	
+iran.0a	irana		NULL	iranisch	
+iran.0ano	iranano		NULL	Iraner	
+iran.I0o	Irano		oa_8	NULL	NULL
+iran.I0o.GEOG	Irano		oa_8	Iran	
+ireden.0a	iredenta		NULL	irredentistisch	
+ireden.0ismo	iredentismo		NULL	Irredentismus	
+irene.0o	Ireneo		NULL	NULL	NULL
+irene.0o.NOM	Ireneo		NULL	NULL	NULL
+irid.0o	irido		oa_2	Schwertlilie	
+irid.0o	irido		oa_2	Iris	
+iridac.0oj	iridacoj		NULL	Schwertliliengewächse	
+iridi.0o	iridio		NULL	Iridium	
+irigac.0i	irigaci		NULL	NULL	NULL
+irigac.0i.AGR	irigaci		NULL	NULL	NULL
+irigac.0o	irigaco		NULL	NULL	NULL
+irigac.0o.AGR	irigaco		NULL	NULL	NULL
+irigaci.0i	irigacii		NULL	bewässern	
+irigaci.0i.AGR	irigacii		NULL	bewässern	
+irigaci.0o	irigacio		NULL	Bewässerung	
+irigaci.0o.AGR	irigacio		NULL	Bewässerung	
+iris.0o	iriso		NULL	Iris	
+iris.0o	iriso		NULL	Regenbogenhaut	
+irit.0a	irita		NULL	irritierend	
+irit.0a	irita		NULL	reizend	
+irit.0a.MED	irita		NULL	irritierend	
+irit.0a.MED	irita		NULL	reizend	
+irit.0i	iriti		NULL	irritieren	
+irit.0i	iriti		NULL	reizen	
+irit.0i.MED	iriti	1	NULL	irritieren	
+irit.0i.MED	iriti	1	NULL	reizen	
+irit.0i.kolerigi	iriti	2	NULL	irritieren	
+irit.0i.kolerigi	iriti	2	NULL	reizen	
+irit.0o	irito		NULL	Irritation	
+irit.0o	irito		NULL	Reizung	
+irit.0o.MED	irito	1	NULL	Irritation	
+irit.0o.MED	irito	1	NULL	Reizung	
+irit.0o.PSI	irito	2	NULL	Irritation	
+irit.0o.PSI	irito	2	NULL	Reizung	
+iriz.0a	iriza		NULL	irisierend	
+iriz.0a.KOMUNE	iriza		NULL	irisierend	
+iriz.0i	irizi		NULL	irisieren	
+iriz.0i.KOMUNE	irizi		NULL	irisieren	
+iriz.0o	irizo		NULL	NULL	NULL
+iriz.0o.KOMUNE	irizo		NULL	NULL	NULL
+irland.0a	irlanda		NULL	irisch	
+irland.0ano	irlandano		NULL	NULL	NULL
+irland.I0o	Irlando		oa_8	Irland	
+irland.I0o.insulo	Irlando	2	oa_8	Irland	
+irland.I0o.sxtato	Irlando	1	oa_8	Irland	
+irland.Nord0o	Nord-Irlando		NULL	Nordirland	
+irland.Nord0o	Nordirlando		NULL	Nordirland	
+ironi.0a	ironia		NULL	ironisch	
+ironi.0i	ironii		NULL	ironisch sprechen	
+ironi.0o	ironio		NULL	Ironie	
+ironi.mem0o	memironio		NULL	NULL	NULL
+ironi.mem0o.KOMUNE	memironio		NULL	NULL	NULL
+irtisx.I0o	Irtiŝo		NULL	Irtisch	
+is.0	-is		gra_fr	NULL	NULL
+is.0	-is		gra_en	NULL	NULL
+is.0	-is		gra_de	NULL	NULL
+is.0	-is		gra_ru	NULL	NULL
+is.0	-is		gra_pl	NULL	NULL
+is.0	-is		ekz_6	NULL	NULL
+is.0	-is		uv_I	NULL	NULL
+is.0.SNC	-is		gra_fr	NULL	NULL
+is.0.SNC	-is		gra_en	NULL	NULL
+is.0.SNC	-is		gra_de	NULL	NULL
+is.0.SNC	-is		gra_ru	NULL	NULL
+is.0.SNC	-is		gra_pl	NULL	NULL
+is.0.SNC	-is		ekz_6	NULL	NULL
+is.0.SNC	-is		uv_I	NULL	NULL
+isaak.0o	Isaako		NULL	Isaak	
+isaak.0o	Izaako		NULL	Isaak	
+isaak.0o.BIB	Isaako	2	NULL	Isaak	
+isaak.0o.BIB	Izaako	2	NULL	Isaak	
+isaak.0o.nomo	Isaako	1	NULL	Isaak	
+isaak.0o.nomo	Izaako	1	NULL	Isaak	
+isel.I0aLago	Isela Lago		NULL	IJsselmeer	
+isel.I0o	Iselo		NULL	Issel	
+isel.I0o	Iselo		NULL	Ijssel	
+ishxemi.0o	isĥemio		NULL	Ischämie	
+ishxemi.0o	iskemio		NULL	Ischämie	
+ishxemi.0o.FIZL	isĥemio		NULL	Ischämie	
+ishxemi.0o.FIZL	iskemio		NULL	Ischämie	
+iski.0o	iskio		NULL	Sitzbein	
+iski.0o	iskio		NULL	Ischium	
+iskiat.0o	iskiatiko		NULL	NULL	NULL
+iskiat.0o.ANA	iskiatiko	1	NULL	Ischiasnerv	
+iskiat.0o.MED	iskiatiko	2	NULL	Ischialgie	
+iskiat1.0o	iskiatalgio		NULL	Ischialgie	
+islam.0a	islama		NULL	muslimisch	
+islam.0a.REL	islama		NULL	muslimisch	
+islam.0ano	islamano		NULL	Moslem	
+islam.0ano.REL	islamano		NULL	Moslem	
+islam.0igi	islamigi		NULL	NULL	NULL
+islam.0igi	islamanigi		NULL	NULL	NULL
+islam.0igi.REL	islamigi		NULL	NULL	NULL
+islam.0igi.REL	islamanigi		NULL	NULL	NULL
+islam.0igxi	islamiĝi		NULL	NULL	NULL
+islam.0igxi	islamaniĝi		NULL	NULL	NULL
+islam.0igxi.REL	islamiĝi		NULL	NULL	NULL
+islam.0igxi.REL	islamaniĝi		NULL	NULL	NULL
+islam.0ismo	islamismo		NULL	Islamismus	
+islam.0ismo.POL	islamismo		NULL	Islamismus	
+islam.0isto	islamisto		NULL	Islamist	
+islam.0isto.POL	islamisto		NULL	Islamist	
+islam.0o	islamo		NULL	Islam	
+islam.0o.REL	islamo		NULL	Islam	
+islamabad.0o	Islamabado		NULL	NULL	NULL
+islamabad.0o.cxefurbo	Islamabado		NULL	Islamabad	
+island.0a	islanda		NULL	NULL	NULL
+island.0ano	islandano		NULL	NULL	NULL
+island.I0o	Islando		oa_8	Island	
+island.la0a	la islanda		NULL	NULL	NULL
+ism.0	-ism		NULL	ismus	-ismus
+ism.0.KOMUNE	-ism	1	NULL	ismus	-ismus
+ism.0.SCI	-ism	2	NULL	ismus	-ismus
+ism.0o	ismo		oa_2	Ismus	
+ism.0o.KOMUNE	ismo		oa_2	Ismus	
+israel.I0o	Israelo		oa_9	Israel	
+israel.I0o.GEOG	Israelo		oa_9	Israel	
+israel.i0a	israela		NULL	israelisch	
+israel.i0a.GEOG	israela		NULL	israelisch	
+israel.i0ano	israelano		NULL	Israeli	
+israel.i0ano.POL	israelano		NULL	Israeli	
+ist.0	-ist		ekz_31	ist	-ist
+ist.0.adepto	-ist	2	ekz_31	ist	-ist
+ist.0.okupa	-ist	1	ekz_31	ist	-ist
+istanbul.0o	Istanbulo		NULL	Istanbul	
+istm.0o	istmo		NULL	Isthmus	
+istm.0o	istmo		NULL	Landenge	
+istm.0o.terkolo	istmo		NULL	Isthmus	
+istm.0o.terkolo	istmo		NULL	Landenge	
+istri.0a	istria		NULL	istrisch	
+istri.0o	Istrio		NULL	NULL	NULL
+istri.0o.duoninsulo	Istrio		NULL	Istrien	
+it.0	-it		gra_fr	NULL	NULL
+it.0	-it		gra_en	NULL	NULL
+it.0	-it		gra_de	NULL	NULL
+it.0	-it		gra_ru	NULL	NULL
+it.0	-it		gra_pl	NULL	NULL
+it.0	-it		ekz_12	NULL	NULL
+it.0.SNC	-it		gra_fr	NULL	NULL
+it.0.SNC	-it		gra_en	NULL	NULL
+it.0.SNC	-it		gra_de	NULL	NULL
+it.0.SNC	-it		gra_ru	NULL	NULL
+it.0.SNC	-it		gra_pl	NULL	NULL
+it.0.SNC	-it		ekz_12	NULL	NULL
+it.0ismo	itismo		NULL	NULL	NULL
+it.0ismo.ESP	itismo		NULL	NULL	NULL
+ital.0a	itala		NULL	italienisch	
+ital.0o	italo		oa_8	Italiener	
+ital.I0ujo	Italujo		NULL	Italien	
+itali.I0o	Italio		NULL	Italien	
+itali.I0o.GEOG	Italio		NULL	Italien	
+iteraci.0a	iteracia		NULL	NULL	NULL
+iteraci.0a.MAT	iteracia		NULL	NULL	NULL
+iteraci.0aordono	iteracia ordono		NULL	NULL	NULL
+iteraci.0ero	iteraciero		NULL	NULL	NULL
+iteraci.0ero.MAT	iteraciero		NULL	NULL	NULL
+iteraci.0i	iteracii		NULL	NULL	NULL
+iteraci.0i.MAT	iteracii		NULL	NULL	NULL
+iteraci.0ilo	iteraciilo		NULL	NULL	NULL
+iteraci.0ilo.MAT	iteraciilo		NULL	NULL	NULL
+iteraci.0o	iteracio		NULL	NULL	NULL
+iteraci.0o.KOMUNE	iteracio	2	NULL	NULL	NULL
+iteraci.0o.MAT	iteracio	1	NULL	NULL	NULL
+iteraci.finkondicxa0o	finkondiĉa iteracio		NULL	NULL	NULL
+iteraci.komenckondicxa0o	komenckondiĉa iteracio		NULL	NULL	NULL
+iteraci.kondicxa0o	kondiĉa iteracio		NULL	NULL	NULL
+iteraci.nombrila0o	nombrila iteracio		NULL	NULL	NULL
+iterbi.0o	iterbio		NULL	Ytterbium	
+itiner.0o	itinero		NULL	NULL	NULL
+itiner.0o.TRA	itinero		NULL	NULL	NULL
+itri.0o	itrio		NULL	Yttrium	
+iu.0	iu		ekz_30	NULL	NULL
+iu.0	iu		uv_I	NULL	NULL
+iu.0	iu		akkor_en	NULL	NULL
+iu.0.adj	iu	3	ekz_30	irgendein	
+iu.0.adj	iu	3	uv_I	irgendein	
+iu.0.adj	iu	3	akkor_en	irgendein	
+iu.0.adj	iu	3	ekz_30	irgendwelche	
+iu.0.adj	iu	3	uv_I	irgendwelche	
+iu.0.adj	iu	3	akkor_en	irgendwelche	
+iu.0.elektajxo	iu	2	ekz_30	einer	
+iu.0.elektajxo	iu	2	uv_I	einer	
+iu.0.elektajxo	iu	2	akkor_en	einer	
+iu.0.elektajxo	iu	2	ekz_30	eine	
+iu.0.elektajxo	iu	2	uv_I	eine	
+iu.0.elektajxo	iu	2	akkor_en	eine	
+iu.0.elektajxo	iu	2	ekz_30	eines	
+iu.0.elektajxo	iu	2	uv_I	eines	
+iu.0.elektajxo	iu	2	akkor_en	eines	
+iu.0.elektajxo	iu	2	ekz_30	welche	
+iu.0.elektajxo	iu	2	uv_I	welche	
+iu.0.elektajxo	iu	2	akkor_en	welche	
+iu.0.elektajxo	iu	2	ekz_30	irgendwelche	
+iu.0.elektajxo	iu	2	uv_I	irgendwelche	
+iu.0.elektajxo	iu	2	akkor_en	irgendwelche	
+iu.0.ulo	iu	1	ekz_30	jemand	
+iu.0.ulo	iu	1	uv_I	jemand	
+iu.0.ulo	iu	1	akkor_en	jemand	
+iu.kelk0j	kelkiuj		NULL	NULL	NULL
+iu.kelk0j.determinilo	kelkiuj	2	NULL	NULL	NULL
+iu.kelk0j.pronomo	kelkiuj	1	NULL	NULL	NULL
+iu.mult0j	multiuj		NULL	NULL	NULL
+iu.mult0j.pronomo	multiuj		NULL	NULL	NULL
+iv.0	-iv		NULL	NULL	NULL
+iv.0.KOMUNE	-iv		NULL	NULL	NULL
+iv1.0o	Ivo		NULL	NULL	NULL
+iv1.0o.NOM	Ivo		NULL	NULL	NULL
+ivan.0o	Ivano		NULL	Iwan	
+iz.0	-iz		NULL		(inoffizielles Suffix, entspricht oft dem deutschen -isieren)
+iz.0.KOMUNE	-iz		NULL		(inoffizielles Suffix, entspricht oft dem deutschen -isieren)
+izidor.0o	Izidoro		NULL	Isidor	
+izidor.0o.NOM	Izidoro		NULL	Isidor	
+izis.0o	Iziso		NULL	NULL	NULL
+izis.0o	Izido		NULL	NULL	NULL
+izis.0o.MIT	Iziso		NULL	Isis	
+izis.0o.MIT	Izido		NULL	Isis	
+izmir.0o	Izmiro		NULL	Izmir	
+izocel.0a	izocela		NULL	gleichschenklig	
+izol.0a	izola		NULL	NULL	NULL
+izol.0a.izolanta	izola	1	NULL	NULL	NULL
+izol.0a.izolita	izola	2	NULL	NULL	NULL
+izol.0i	izoli		NULL	isolieren	
+izol.0i.KOMUNE	izoli		NULL	isolieren	
+izol.0ilo	izolilo		NULL	Isolator	
+izol.0ilo.ELE	izolilo		NULL	Isolator	
+izol.0ismo	izolismo		NULL	NULL	NULL
+izol.0ismo.POL	izolismo		NULL	NULL	NULL
+izol.0ita	izolita		NULL	NULL	NULL
+izol.0ita.KOMUNE	izolita	1	NULL	NULL	NULL
+izol.0ita.MAT	izolita	2	NULL	NULL	NULL
+izol.0iteco	izoliteco		NULL	Isoliertheit	
+izol.0iteco	izoliteco		NULL	Isolation	
+izol.0iteco.KOMUNE	izoliteco		NULL	Isoliertheit	
+izol.0iteco.KOMUNE	izoliteco		NULL	Isolation	
+izol.0o	izolo		NULL	NULL	NULL
+izol.0o.KOMUNE	izolo		NULL	NULL	NULL
+izomer.0o	izomero		NULL	Isomer	
+izomer.0o.KEM	izomero		NULL	Isomer	
+izomet.0a	izometria		NULL	isometrisch	
+izomet.0a.bildigo	izometria	3	NULL	isometrisch	
+izomet.0a.spacoj	izometria	1	NULL	isometrisch	
+izomet.0a.subaroj	izometria	2	NULL	isometrisch	
+izomet.0o	izometrio		NULL	Isometrie	
+izomor.0a	izomorfa		NULL	NULL	NULL
+izomor.0a.FIZ	izomorfa	1	NULL	isomorph	
+izomor.0a.FIZ	izomorfa	1	NULL	formgleich	
+izomor.0a.KOMP	izomorfa	4	NULL	NULL	NULL
+izomor.0a.MAT	izomorfa	3	NULL	isomorph	
+izomor.0a.MIN	izomorfa	2	NULL	von gleicher Kristallform	
+izomor1.0a	izomorfia		NULL	isomorph	
+izomor1.0a.bildigo	izomorfia	2	NULL	isomorph	
+izomor1.0a.strukt	izomorfia	1	NULL	isomorph	
+izomor1.0o	izomorfio		NULL	Isomorphie	
+izopod.0oj	izopodoj		NULL	NULL	NULL
+izopod.0oj.ZOO	izopodoj		NULL	Asseln	
+izoter.0a	izoterma		NULL	isothermisch	
+izoter.0a	izoterma		NULL	isotherm	
+izoter.0a.GEOG	izoterma	2	NULL	isothermisch	
+izoter.0a.GEOG	izoterma	2	NULL	isotherm	
+izoter.0o	izotermo		NULL	Isotherme	
+izoter.0o.GEOG	izotermo		NULL	Isotherme	
+izotop.0a	izotopa		NULL	isotopisch	
+izotop.0o	izotopo		NULL	Isotop	
+izotro.0a	izotropa		NULL	isotrop	
+izotro.0eco	izotropeco		NULL	Isotropie	
+izotro.mal0a	malizotropa		NULL	anisotrop	
+izrael.0ido	Izraelido		ekz_36	Isrealit	
+izrael.0ido	Izraelido		ekz_36	Isrealit	
+izrael.0ido	Izraelido		ekz_36	Isrealit	
+izrael.0ido	Izraelido		ekz_36	Isrealit	
+izrael.0ido	Izraelido		uv_I	Isrealit	
+izrael.0ido	Izraelido		uv_I	Isrealit	
+izrael.0ido	Izraelido		uv_I	Isrealit	
+izrael.0ido	Izraelido		uv_I	Isrealit	
+izrael.0ido.popolano	Izraelido		ekz_36	Isrealit	
+izrael.0ido.popolano	Izraelido		ekz_36	Isrealit	
+izrael.0ido.popolano	Izraelido		ekz_36	Isrealit	
+izrael.0ido.popolano	Izraelido		ekz_36	Isrealit	
+izrael.0ido.popolano	Izraelido		uv_I	Isrealit	
+izrael.0ido.popolano	Izraelido		uv_I	Isrealit	
+izrael.0ido.popolano	Izraelido		uv_I	Isrealit	
+izrael.0ido.popolano	Izraelido		uv_I	Isrealit	
+izrael.0o	Izraelo		ekz_36	Israel	
+izrael.0o	Izraelo		ekz_36	Israel	
+izrael.0o	Izraelo		ekz_36	Israel	
+izrael.0o	Izraelo		ekz_36	Israel	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Isreal	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Isreal	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Isreal	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Isreal	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Jakob	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Jakob	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Jakob	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Jakob	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Israel	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Israel	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Israel	
+izrael.0o.jakobo	Izraelo	1	ekz_36	Israel	
+izrael.0o.norda_regno	Izraelo	4	ekz_36	Israel	
+izrael.0o.norda_regno	Izraelo	4	ekz_36	Israel	
+izrael.0o.norda_regno	Izraelo	4	ekz_36	Israel	
+izrael.0o.norda_regno	Izraelo	4	ekz_36	Israel	
+izrael.0o.popolo	Izraelo	3	ekz_36	Israel	
+izrael.0o.popolo	Izraelo	3	ekz_36	Israel	
+izrael.0o.popolo	Izraelo	3	ekz_36	Israel	
+izrael.0o.popolo	Izraelo	3	ekz_36	Israel	
+izrael.0o.praregno	Izraelo	2	ekz_36	Israel	
+izrael.0o.praregno	Izraelo	2	ekz_36	Israel	
+izrael.0o.praregno	Izraelo	2	ekz_36	Israel	
+izrael.0o.praregno	Izraelo	2	ekz_36	Israel	
