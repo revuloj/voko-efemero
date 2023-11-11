@@ -1323,3 +1323,216 @@ assert(celo('Gvineo-Bisaŭo','gvine.G0oBisauxo','几内亚比索[jī nèi yà b�
 assert(celo('Nov-Gvineo','gvine.NovG0o.GEOG','新几内亚[xīn jī nèi yà]')).
 assert(celo('Papuo-Nov-Gvineo','gvine.PapuoNovG0o.sxtato','巴布亚新几内亚[bā bù yà xīn jǐ nèi yà]')).
 assert(celo(ĝajnismo,'gxajn.0ismo','耆那教[qí nà jiào]')).
+assert(celo('Ĝajpuro','gxajpur.0o','斋浦尔[zhāi pǔ ěr]')).
+assert(celo('Ĝakarto','gxakart.0o','雅加达[yǎ jiā dá]')).
+assert(celo(ĝangalo,'gxanga.0o','丛林[cóng lín]')).
+assert(celo(ĝangalo,'gxanga.0o','獉[zhēn]')).
+assert(celo(ĝardenisto,'gxarde.0isto','花匠[huā jiàng]')).
+assert(celo(ĝardenisto,'gxarde.0isto','园丁[yuán dīng]')).
+assert(celo(ĝardenisto,'gxarde.0isto','花工[huā gōng]')).
+assert(celo(ĝardenisto,'gxarde.0isto','园艺家[yuán yì jiā]')).
+assert(celo(ĝardenisto,'gxarde.0isto','未計入[wèi jì rù]')).
+assert(celo(ĝardenurbo,'gxarde.0urbo','新市鎮[xīn shì zhèn]')).
+assert(celo(ĝardenurbo,'gxarde.0urbo','計劃城市[jì huà chéng shì]')).
+assert(celo(bestoĝardeno,'','动物园[dòng wù yuán]')).
+assert(celo(bestoĝardeno,'','苑[yuàn]')).
+assert(celo(fruktoĝardeno,'gxarde.frukto0o','果园[guǒ yuán]')).
+assert(celo(infanĝardeno,'','幼稚园[yòu zhì yuán]')).
+assert(celo(infanĝardeno,'','幼儿园[yòu ér yuán]')).
+assert(celo(legomĝardeno,'gxarde.legom0o','菜园[cài yuán]')).
+assert(celo(studĝardeno,'gxarde.stud0o','植物园[zhí wù yuán]')).
+assert(celo(studĝardeno,'gxarde.stud0o','北京植物园[běi jīng zhí wù yuán]')).
+assert(celo(ĝartero,'gxarter.0o','袜带[wà dài]')).
+assert(celo(ĝemi,'gxem.0i.FIG','唏嘘[xī xū]')).
+assert(celo(ĝemi,'gxem.0i.FIG','感叹[gǎn tàn]')).
+assert(celo(ĝemi,'gxem.0i.FIG','嚝[hōng]')).
+assert(celo(ĝemi,'gxem.0i.FIG','唧唧[jí jí]')).
+assert(celo(ĝemo,'','嗟叹[jiē tàn]')).
+assert(celo(ĝemo,'','太息[tài xí]')).
+assert(celo(ĝemo,'','叹息[tàn xí]')).
+assert(celo(ĝemo,'','唶[jiè]')).
+assert(celo(dolorĝemi,'','悲叹[bēi tàn]')).
+assert(celo(ĝemelo,'gxemel.0o','双晶[shuāng jīng]')).
+assert(celo(ĝemelo,'gxemel.0o','孖[zī]')).
+assert(celo(ĝemelo,'gxemel.0o','双筒枪[shuāng tǒng qiāng]')).
+assert(celo('Ĝemeloj','gxemel.Gx0oj','双子座[shuāng zǐ zuò]')).
+assert(celo(ĝena,'gxen.0a','干涉[gān shè]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','障碍[zhàng ài]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','不起作用[bù qǐ zuò yòng]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','杂乱[zá luàn]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','扰乱[rǎo luàn]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','失調[shī tiáo]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','忧虑[yōu lü]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','干涉[gān shè]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','跳栏[tiào lán]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','障碍物[zhàng ài wù]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','阻塞[zǔ sè]')).
+assert(celo(ĝenaĵo,'gxen.0ajxo','阻碍[zǔ ài]')).
+assert(celo(ĝeni,'gxen.0i','碍[ài]')).
+assert(celo(ĝeni,'gxen.0i','牵掣[qiān chè]')).
+assert(celo(ĝeni,'gxen.0i','悮[wù]')).
+assert(celo(ĝeni,'gxen.0i','悞[wù]')).
+assert(celo(ĝeni,'gxen.0i','碍脚[ài jiǎo]')).
+assert(celo(ĝeni,'gxen.0i','捣[dǎo]')).
+assert(celo(ĝeni,'gxen.0i','騷擾[sāo rǎo]')).
+assert(celo(ĝeni,'gxen.0i','扰乱[rǎo luàn]')).
+assert(celo(ĝeni,'gxen.0i','打扰[dǎ rǎo]')).
+assert(celo(ĝenulo,'gxen.0ulo','抗議者[kàng yì zhe]')).
+assert(celo(senĝena,'gxen.sen0a','不知羞恥[bù zhī xiū chǐ]')).
+assert(celo(senĝena,'gxen.sen0a','不受約束[bù shòu yuē shù]')).
+assert(celo(sinĝena,'gxen.sin0a.hontema','限制地[xiàn zhì dì]')).
+assert(celo(sinĝena,'gxen.sin0a.hontema','謙虛[qiān xū]')).
+assert(celo(sinĝena,'gxen.sin0a.hontema','得回[dé huí]')).
+assert(celo('sin ĝeni','gxen.sin0i','感到为难[gǎn dào wéi nán]')).
+assert(celo('sin ĝeni','gxen.sin0i','为难[wéi nán]')).
+assert(celo('sin ĝeni','gxen.sin0i','难为情[nán wéi qíng]')).
+assert(celo(ĝenerale,'gxener.0e','普遍地[pǔ biàn de]')).
+assert(celo(ĝenerala,'','通[tōng]')).
+assert(celo(ĝenerala,'','普遍[pǔ biàn]')).
+assert(celo(ĝenerala,'','泛[fàn]')).
+assert(celo(ĝenerala,'','一般都[yì bān dōu]')).
+assert(celo(ĝenerala,'','普通[pǔ tōng]')).
+assert(celo(ĝeneraligi,'gxener.0igi','一概而論[yī gài ér lùn]')).
+assert(celo(ĝeneralo,'gxener.0o','概括化[gài kuò huà]')).
+assert(celo(ĝeneralo,'gxener.0o','普遍化[pǔ biàn huà]')).
+assert(celo(ĝeneralo,'gxener.0o','泛化[fàn huà]')).
+assert(celo(ĝeneralo,'gxener.0o','广义[guǎng yì]')).
+assert(celo('Ĝenevo','','日內瓦[rì nèi wǎ]')).
+assert(celo('Ĝenovo','gxenov.0o','热那亚[rè nà yà]')).
+assert(celo(ĝenro,'gxenr.0o.BELA','体裁[tǐ cái]')).
+assert(celo(ĝenro,'gxenr.0o.BELA','流派[liú pài]')).
+assert(celo(ĝentila,'gxenti.0a','温文尔雅[wēn wén ěr yǎ]')).
+assert(celo(ĝentila,'gxenti.0a','民法上[mín fǎ shàng]')).
+assert(celo(ĝentila,'gxenti.0a','彬彬有礼[bīn bīn yǒu lǐ]')).
+assert(celo(ĝentila,'gxenti.0a','殷勤[yīn qín]')).
+assert(celo(ĝentila,'gxenti.0a','客气[kè qi]')).
+assert(celo(ĝentileco,'','公德心[gōng dé xīn]')).
+assert(celo(ĝentileco,'','礼度[lǐ dù]')).
+assert(celo(ĝentileco,'','礼貌[lǐ mào]')).
+assert(celo(ĝentileco,'','礼让[lǐ ràng]')).
+assert(celo(ĝentileco,'','有礼貌[yǒu lǐ mào]')).
+assert(celo(ĝentilhomo,'','正人君子[zhèng rén jūn zǐ]')).
+assert(celo(ĝentilhomo,'','紳士[shēn shì]')).
+assert(celo(malĝentila,'gxenti.mal0a','不礼貌地[bù lǐ mào de]')).
+assert(celo(malĝentila,'gxenti.mal0a','无礼地[wú lǐ de]')).
+assert(celo(malĝentila,'gxenti.mal0a','失仪[shī yí]')).
+assert(celo(malĝentila,'gxenti.mal0a','不礼貌[bù lǐ mào]')).
+assert(celo(malĝentila,'gxenti.mal0a','不客气[bú kè qi]')).
+assert(celo(ĝentlemano,'gxentl.0o','叟[sǒu]')).
+assert(celo(ĝermi,'gxerm.0i','出芽[chū yá]')).
+assert(celo(ĝermi,'gxerm.0i','开始发育[kāi shǐ fā yù]')).
+assert(celo(ĝermi,'gxerm.0i','菌[jūn]')).
+assert(celo(ĝermo,'gxerm.0o','萌芽[méng yá]')).
+assert(celo(ĝermo,'gxerm.0o','菌[jūn]')).
+assert(celo(ĝermo,'gxerm.0o','芽体[yá tǐ]')).
+assert(celo('ĝermanaj lingvoj','gxerman.0a','日耳曼語族[rì ěr màn yǔ zú]')).
+assert(celo(ĝibiĝi,'gxib.0igxi.KOMUNE','弯腰[wān yāo]')).
+assert(celo(ĝibiĝi,'gxib.0igxi.KOMUNE','弯[wān]')).
+assert(celo(ĝibo,'gxib.0o.ANA','肿块[zhǒng kuài]')).
+assert(celo(ĝibo,'gxib.0o.ANA','突起[tú qǐ]')).
+assert(celo(ĝibo,'gxib.0o.ANA','偻[lóu]')).
+assert(celo(ĝibulo,'gxib.0ulo','駝背[tuó bèi]')).
+assert(celo(ĝibulo,'gxib.0ulo','駝背的人[tuó bèi de rén]')).
+assert(celo(ĝibulo,'gxib.0ulo','駝[tuó]')).
+assert(celo('Ĝibraltaro','gxibraltar.0o','直布罗陀[zhí bù luó tuó]')).
+assert(celo('Ĝibuto','gxibut.0o.urbo','吉布提[jí bù tí]')).
+assert(celo('Ĝibutio','gxibuti.GX0o.GEOG','吉布提[jí bù tí]')).
+assert(celo('Ĝido','gxid.0o.havenurbo','吉达[jí dá]')).
+assert(celo(ĝihado,'gxihad.0o','圣战[shèng zhàn]')).
+assert(celo(ĝihado,'gxihad.0o','伊斯兰圣战[yī sī lán shèng zhàn]')).
+assert(celo(ĝinzo,'gxinz.0o','牛仔裤[niú zǎi kù]')).
+assert(celo(ĝiraĵo,'gxir.0ajxo.sumo','汇款[huì kuǎn]')).
+assert(celo(ĝiri,'gxir.0i.sumon','匯[huì]')).
+assert(celo(ĝiri,'gxir.0i.sumon','轉移法[zhuǎn yí fǎ]')).
+assert(celo(ĝiri,'gxir.0i.sumon','匯入[huì rù]')).
+assert(celo(ĝirilo,'gxir.0ilo.transpagilo','匯單[huì dān]')).
+assert(celo(ĝirilo,'gxir.0ilo.transpagilo','匯款委託[huì kuǎn wěi tuō]')).
+assert(celo(ĝirilo,'gxir.0ilo.transpagilo','匯款單[huì kuǎn dān]')).
+assert(celo(ĝiro,'gxir.0o.transpago','銀行轉帳[yín háng zhuǎn zhàng]')).
+assert(celo(ĝiro,'gxir.0o.transpago','轉賬[zhuǎn zhàng]')).
+assert(celo(ĝiro,'gxir.0o.transpago','匯單[huì dān]')).
+assert(celo(ĝiro,'gxir.0o.transpago','匯款委託[huì kuǎn wěi tuō]')).
+assert(celo(ĝiro,'gxir.0o.transpago','匯款單[huì kuǎn dān]')).
+assert(celo(ĝirafo,'gxiraf.0o','長頸鹿[cháng jǐng lù]')).
+assert(celo(ĝirafo,'gxiraf.0o','駝豹[tuó bào]')).
+assert(celo(ĝis,'gxis.0.konj','直到[zhí dào]')).
+assert(celo(ĝis,'gxis.0.konj','为止[wéi zhǐ]')).
+assert(celo(ĝis,'gxis.0.konj','止[zhǐ]')).
+assert(celo(ĝis,'gxis.0.konj','迨[dài]')).
+assert(celo(ĝoja,'gxoj.0a','喜悅地[xǐ yuè de]')).
+assert(celo(ĝoja,'gxoj.0a','倖[xìng]')).
+assert(celo(ĝoja,'gxoj.0a','喜悅[xǐ yuè]')).
+assert(celo(ĝoja,'gxoj.0a','欣[xīn]')).
+assert(celo(ĝoja,'gxoj.0a','高兴[gāo xìng]')).
+assert(celo(ĝoja,'gxoj.0a','忻[xīn]')).
+assert(celo(ĝoja,'gxoj.0a','光光[guāng guāng]')).
+assert(celo(ĝoja,'gxoj.0a','恞[yí]')).
+assert(celo(ĝoja,'gxoj.0a','乐[lè]')).
+assert(celo(ĝoja,'gxoj.0a','恺[kǎi]')).
+assert(celo(ĝoja,'gxoj.0a','欢喜[huān xǐ]')).
+assert(celo(ĝoja,'gxoj.0a','吉祥[jí xiáng]')).
+assert(celo(ĝoja,'gxoj.0a','愉悅[yú yuè]')).
+assert(celo(ĝoja,'gxoj.0a','快活[kuài huo]')).
+assert(celo(ĝoji,'gxoj.0i','欣喜[xīn xǐ]')).
+assert(celo(ĝoji,'gxoj.0i','喜[xǐ]')).
+assert(celo(ĝoji,'gxoj.0i','瞩望[zhǔ wàng]')).
+assert(celo(ĝojigi,'gxoj.0igi','使高兴[shǐ gāo xìng]')).
+assert(celo(ĝojigi,'gxoj.0igi','祈[qí]')).
+assert(celo(ĝojo,'gxoj.0o','兴[xīng]')).
+assert(celo(ĝojo,'gxoj.0o','快感[kuài gǎn]')).
+assert(celo(ĝojo,'gxoj.0o','悰[cóng]')).
+assert(celo(ĝojo,'gxoj.0o','禧[xǐ]')).
+assert(celo(ĝojo,'gxoj.0o','喜悅[xǐ yuè]')).
+assert(celo(ĝojo,'gxoj.0o','欢乐[huān lè]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','凄[qī]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','蓝领工人[lán lǐng gōng rén]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','伤心的[shāng xīn de]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','唿[hū]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','凄苦[qī kǔ]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','萧[xiāo]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','悲恸[bēi tòng]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','悲[bēi]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','怆[chuàng]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','辛酸[xīn suān]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','悲戚[bēi qī]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','哀伤[āi shāng]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','悴[cuì]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','忡[chōng]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','箫萧[xiāo xiāo]')).
+assert(celo(malĝoja,'gxoj.mal0a.mem','悒[yì]')).
+assert(celo(malĝoji,'gxoj.mal0i','悼[dào]')).
+assert(celo(malĝoji,'gxoj.mal0i','謼[hū]')).
+assert(celo(malĝoji,'gxoj.mal0i','啼[tí]')).
+assert(celo(malĝojo,'gxoj.mal0o','丧[sāng]')).
+assert(celo(malĝojo,'gxoj.mal0o','哀悼[āi dào]')).
+assert(celo(malĝojo,'gxoj.mal0o','哀伤[āi shāng]')).
+assert(celo(malĝojo,'gxoj.mal0o','哀[āi]')).
+assert(celo(malĝojo,'gxoj.mal0o','悲哀[bēi āi]')).
+assert(celo(vivĝojo,'gxoj.viv0o','动物灵魂[dòng wù líng hún]')).
+assert(celo(vivĝojo,'gxoj.viv0o','生活乐趣[shēng huó lè qù]')).
+assert(celo(ĝonko,'gxonk.0o','戎克船[róng kè chuán]')).
+assert(celo(ĝuema,'gxu.0ema','情欲[qíng yù]')).
+assert(celo(ĝuemulo,'gxu.0emulo','老饕[lǎo tāo]')).
+assert(celo(ĝuemulo,'gxu.0emulo','享乐主义者[xiǎng lè zhǔ yì zhě]')).
+assert(celo(ĝuo,'gxu.0o','享用[xiǎng yòng]')).
+assert(celo(ĝuado,'gxu.0o','享用[xiǎng yòng]')).
+assert(celo(ĝusta,'gxust.0a','韙[wěi]')).
+assert(celo(ĝusta,'gxust.0a','对了[duì le]')).
+assert(celo(ĝusta,'gxust.0a','合适[hé shì]')).
+assert(celo(ĝusta,'gxust.0a','属实[shǔ shí]')).
+assert(celo(ĝuste,'gxust.0e.precize','恰好[qià hǎo]')).
+assert(celo(ĝuste,'gxust.0e.precize','恰[qià]')).
+assert(celo(ĝustigi,'gxust.0igi','糾正[jiū zhèng]')).
+assert(celo(alĝustigi,'gxust.al0igi','媲[pì]')).
+assert(celo(alĝustigi,'gxust.al0igi','調節[tiáo jié]')).
+assert(celo(alĝustigi,'gxust.al0igi','逑[qiú]')).
+assert(celo(alĝustigi,'gxust.al0igi','坒[bì]')).
+assert(celo(alĝustigi,'gxust.al0igi','配[pèi]')).
+assert(celo(malĝusta,'','贗[yàn]')).
+assert(celo(malĝusta,'','如猫[rú māo]')).
+assert(celo(malĝusta,'','机诈[jī zhà]')).
+assert(celo(malĝusta,'','不实[bù shí]')).
+assert(celo(malĝusta,'','不对[bù duì]')).
+assert(celo(malĝusta,'','虚假[xū jiǎ]')).
+assert(celo(malĝusta,'','冤枉[yuān wang]')).
+assert(celo(malĝusta,'','不是[bù shì]')).
