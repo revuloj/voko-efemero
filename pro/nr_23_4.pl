@@ -16,6 +16,7 @@ legu :-
     triopoj(eo),
     legu_zh(de,'vrt/handedict_23.u8'),
     legu_zh(en,'vrt/cedict.u8'),
+    legu_zh(fr,'vrt/cfdict.u8'),
     triopoj(zh).
 
 
@@ -93,16 +94,46 @@ triopoj(zh) :-
  * eo_zh(ekzemplo,Zh,Ponto).
  */
 eo_zh(Eo,Zh,1.0-Lp:Ponto) :-
-    member(Lp,[en,de]),
+    member(Lp,[en,de,fr]),
     trd(eo-Lp,Eo,Ponto), % ni povas trovi tradukon per pontlingvo
     trd(zh-Lp,Zh,Ponto).
 
 eo_zh(Eo,Zh,Simileco-Lp:P2) :-
-    member(Lp,[en,de]),
-    trd(eo-Lp,Eo,P1), % ni povas trovi tradukon per pontlingvo kaj simileco
-    trd(zh-Lp,Zh,P2),
-    isub(P1,P2,Simileco,[zero_to_one(true)]),
-    Simileco>0.8.
+    member(Lp,[en,de,fr]),
+    limit(100,(
+        trd(eo-Lp,Eo,P1), % ni povas trovi tradukon per pontlingvo kaj simileco
+        trd(zh-Lp,Zh,P2),
+        isub(P1,P2,Simileco,[zero_to_one(true)]),
+        Simileco>0.8
+    )).
+
+eo_zh_grup(Eo,Zh,SimSum-Pontoj) :-
+    % serĉu parojn Eo-Zh 
+    % kaj identajn paroj sumiĝu
+    group_by(Eo-Zh,
+        Simil-Lp:Ponto,
+        eo_zh(Eo,Zh,Simil-Lp:Ponto),
+        Trovoj),
+    % ni nun adicias la similecojn al poentoj, por samaj paroj
+    foldl(kunigo,Trovoj,0-[],SimSum-Pontoj).
+
+kunigo(
+    Sim1-Lp1:P1,
+    Sim2-PList,
+    SimSum-[Lp1:P1|PList]) :- 
+        SimSum is Sim1+Sim2.
+
+eo_zh_ord(Eo,Zh,SimSum-Pontoj) :-
+    order_by([desc(SimSum)], 
+        eo_zh_grup(Eo,Zh,SimSum-Pontoj)
+    ).
+
+zh_2dek(Eo) :-
+    forall(
+    limit(20,eo_zh_ord(Eo,Zh,SimSum-Pontoj)),
+    format('~1f ~w ~36|~w~n',[SimSum,Zh,Pontoj])
+    ).
+
 
 % Ni iom simpligas la dialogon 
 % permesante doni komencan demandsignon kaj serĉvorton,
