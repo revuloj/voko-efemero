@@ -515,7 +515,8 @@ zh_pr_vokal_super(V,D,VS) :-
 % por apliki la regulojn, do ni transformas la silabon al paroj
 % 0-x, 1-i, 2-a,... kie 1 kaj 2 montras la unuan kaj duan vokalon
 % kaj 0 konsonantojn kaj pliajn vokalojn
-zh_pr_vokal([],_,[]).hzh_pr_vokal([Lit|Rest],N,[N1-Lit|Paroj]) :-
+zh_pr_vokal([],_,[]).
+zh_pr_vokal([Lit|Rest],N,[N1-Lit|Paroj]) :-
     vokalo(Lit), N<2, !,
     N1 is N+1,
     zh_pr_vokal(Rest,N1,Paroj).

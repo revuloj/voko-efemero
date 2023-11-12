@@ -1,0 +1,381 @@
+created(1699719250.447842).
+assert(celo('Habsburgoj','habsburg.0oj.dinastio','奥地利哈布斯堡王朝[ào dì lì hā bù sī bǎo wáng cháo]')).
+assert(celo('Habsburgoj','habsburg.0oj.dinastio','哈布斯堡王朝[hā bù sī bǎo wáng cháo]')).
+assert(celo('Hadeso','hades.0o','哈底斯[hā dǐ sī]')).
+assert(celo(hadiso,'hadis.0o','圣训[shèng xùn]')).
+assert(celo(hadrono,'hadron.0o','強子[qiáng zǐ]')).
+assert(celo(hafnio,'hafni.0o','鉿[hā]')).
+assert(celo('Hago','hag.H0o','海牙[hǎi yá]')).
+assert(celo(haĝo,'hagx.0o','朝覲[cháo jǐn]')).
+assert(celo(haĝulo,'hagx.0ulo','哈只[hā zhī]')).
+assert(celo('Haitio','haiti.0o.sxtato','海地[hǎi dì]')).
+assert(celo('Hajderabado','hajderabad.0o','海得拉巴[hǎi dé lā bā]')).
+assert(celo('Hajderabado','hajderabad.0o','海得拉巴[hǎi de lā bā]')).
+assert(celo('Hajfongo','hajfong.0o.havenurbo','海防[hǎi fáng]')).
+assert(celo('Hajfongo','hajfong.0o.havenurbo','海防市[hǎi fáng shì]')).
+assert(celo(hajko,'hajk.0o','俳句[pái jù]')).
+assert(celo(hajli,'hajl.0i','下雹[xià báo]')).
+assert(celo(hajli,'hajl.0i','下冰雹[xià bīng báo]')).
+assert(celo(hajlo,'hajl.0o','霰弹[xiàn dàn]')).
+assert(celo(hajlo,'hajl.0o','雹[báo]')).
+assert(celo(hajlo,'hajl.0o','雹子[báo zi]')).
+assert(celo(haki,'hak.0i.trancxi','侵截[qīn jié]')).
+assert(celo(haki,'hak.0i.trancxi','鋤地[chú dì]')).
+assert(celo(haki,'hak.0i.trancxi','剁碎[duò suì]')).
+assert(celo(haki,'hak.0i.trancxi','鐝[jué]')).
+assert(celo(haki,'hak.0i.trancxi','劈[pī]')).
+assert(celo(haki,'hak.0i.trancxi','切碎[qiē suì]')).
+assert(celo(haki,'hak.0i.trancxi','砍[kǎn]')).
+assert(celo(hakilo,'hak.0ilo.klingo','鈇[fū]')).
+assert(celo(hakilo,'hak.0ilo.klingo','斨[qiāng]')).
+assert(celo(hakilo,'hak.0ilo.klingo','斧子[fǔ zǐ]')).
+assert(celo(batalhakilo,'','鈅[yuè]')).
+assert(celo(batalhakilo,'','戉[yuè]')).
+assert(celo(dehaki,'','砍下[kǎn xià]')).
+assert(celo(dehaki,'','斩[zhǎn]')).
+assert(celo(halo,'hal.0o','庭[tíng]')).
+assert(celo(halo,'hal.0o','殿堂[diàn táng]')).
+assert(celo(enirhalo,'','門廳[mén tīng]')).
+assert(celo(enirhalo,'','大堂[dà táng]')).
+assert(celo(sporthalo,'','室內體育場[shì nèi tǐ yù chǎng]')).
+assert(celo(sporthalo,'','运动馆[yùn dòng guǎn]')).
+assert(celo(sporthalo,'','体育馆[tǐ yù guǎn]')).
+assert(celo(haladzo,'haladz.0o','汗[hàn]')).
+assert(celo(haladzo,'haladz.0o','氛[fēn]')).
+assert(celo(haladzo,'','烟[yān]')).
+assert(celo(haladzo,'','烟气[yān qì]')).
+assert(celo(haladzo,'','烟雾[yān wù]')).
+assert(celo(halebardo,'haleba.0o','戵[qú]')).
+assert(celo(halebardo,'haleba.0o','戟[jǐ]')).
+assert(celo(halebardo,'haleba.0o','大刀[dà dāo]')).
+assert(celo(haleluja,'halelu.0','哈利路亚[hā lì lù yà]')).
+assert(celo(haleluja,'halelu.0','哈裡路亞[hā lǐ lù yà]')).
+assert(celo('Halepo','halep.0o','阿勒頗[ā lēi pō]')).
+assert(celo(haliaeto,'haliaet.0o','海鵰[hǎi diāo]')).
+assert(celo('Halifakso','halifaks.0o','哈利法克斯[hā lì fǎ kè sī]')).
+assert(celo(halioto,'haliot.0o','鮑魚[bào yú]')).
+assert(celo(haloo,'','晕轮效应[yūn lún xiào yìng]')).
+assert(celo(halogeno,'haloge.0o','卤族化合物[lǔ zú huà hé wù]')).
+assert(celo('Haloveno','haloven.0o','万圣节前夜[wàn shèng jié qián yè]')).
+assert(celo('Haloveno','haloven.0o','万圣夜[wàn shèng yè]')).
+assert(celo('Haloveno','haloven.0o','大瓜節[dà guā jié]')).
+assert(celo(haltejo,'halt.0ejo','站[zhàn]')).
+assert(celo(haltejo,'halt.0ejo','停靠站[tíng kào zhàn]')).
+assert(celo(haltejo,'halt.0ejo','巴士站[bā shì zhàn]')).
+assert(celo(haltejo,'halt.0ejo','泊車場所[bó chē chǎng suǒ]')).
+assert(celo(haltejo,'halt.0ejo','出租車候車處[chū zū chē hòu chē chù]')).
+assert(celo(haltejo,'halt.0ejo','停車場[tíng chē chǎng]')).
+assert(celo(haltejo,'halt.0ejo','断点[duàn diǎn]')).
+assert(celo(halti,'','停車[tíng chē]')).
+assert(celo(halti,'','停止[tíng zhǐ]')).
+assert(celo(halti,'','停下來[tíng xia lai]')).
+assert(celo(halti,'','止[zhǐ]')).
+assert(celo(halti,'','煞[shā]')).
+assert(celo(haltigi,'halt.0igi','捉拿[zhuō ná]')).
+assert(celo(haltigi,'','信守[xìn shǒu]')).
+assert(celo(haltigi,'','含[hán]')).
+assert(celo(haltigilo,'halt.0igilo','刹挚[chà zhì]')).
+assert(celo(haltigilo,'halt.0igilo','刹车闸[shā chē zhá]')).
+assert(celo(haltigilo,'halt.0igilo','制动机构[zhì dòng jī gòu]')).
+assert(celo(haltigilo,'halt.0igilo','牛蝇[niú yíng]')).
+assert(celo(haltigilo,'halt.0igilo','牛虻[niú méng]')).
+assert(celo(haltigilo,'halt.0igilo','蜚[fěi]')).
+assert(celo(haltigilo,'halt.0igilo','制动器[zhì dòng qì]')).
+assert(celo(halto,'halt.0o','小站[xiǎo zhàn]')).
+assert(celo(halto,'halt.0o','拿着[ná zhe]')).
+assert(celo(halto,'halt.0o','停頓[tíng dùn]')).
+assert(celo(halto,'halt.0o','頑固[wán gù]')).
+assert(celo(antaŭhaltigi,'halt.antaux0igi','毖[bì]')).
+assert(celo(antaŭhaltigi,'halt.antaux0igi','杜[dù]')).
+assert(celo(aŭtobushaltejo,'halt.auxtobus0ejo','停站[tíng zhàn]')).
+assert(celo(aŭtobushaltejo,'halt.auxtobus0ejo','汽車站[qì chē zhàn]')).
+assert(celo(aŭtobushaltejo,'halt.auxtobus0ejo','公共汽車站[gōng gòng qì chē zhàn]')).
+assert(celo(aŭtobushaltejo,'halt.auxtobus0ejo','車站[chē zhàn]')).
+assert(celo(bushaltejo,'halt.bus0ejo','停站[tíng zhàn]')).
+assert(celo(bushaltejo,'halt.bus0ejo','汽車站[qì chē zhàn]')).
+assert(celo(bushaltejo,'halt.bus0ejo','公共汽車站[gōng gòng qì chē zhàn]')).
+assert(celo(bushaltejo,'halt.bus0ejo','車站[chē zhàn]')).
+assert(celo(metrohaltejo,'halt.metro0ejo','地鐵車站[dì tiě chē zhàn]')).
+assert(celo(metrohaltejo,'halt.metro0ejo','地鐵站[dì tiě zhàn]')).
+assert(celo(nehaltigebla,'','势不可挡[shì bù kě dàng]')).
+assert(celo(nehaltigebla,'','銳不可當[ruì bù kě dāng]')).
+assert(celo(nehaltigebla,'','不能抵抗[bù néng dǐ kàng]')).
+assert(celo(nehaltigebla,'','不可阻挡[bù kě zǔ dǎng]')).
+assert(celo(nehaltigebla,'','留不住[liú bú zhù]')).
+assert(celo(nehaltigebla,'','好玩儿[hǎo wán r]')).
+assert(celo(senhalta,'halt.sen0a','一口气地[yī kǒu qì de]')).
+assert(celo(senhalta,'halt.sen0a','不輟[bù chuò]')).
+assert(celo(senhalta,'halt.sen0a','寻[xún]')).
+assert(celo(senhalta,'halt.sen0a','接二连三[jiē èr lián sān]')).
+assert(celo(haltero,'halter.0o','哑铃[yǎ líng]')).
+assert(celo(halucino,'haluci.0o','幻覺[huàn jué]')).
+assert(celo(halucino,'haluci.0o','夢幻[mèng huàn]')).
+assert(celo(halucinacio,'halucinaci.0o','幻覺[huàn jué]')).
+assert(celo(hamamelido,'hamamelid.0o','金縷梅科[jīn lǚ méi kē]')).
+assert(celo('Hamburgo','hamburg.H0o','汉堡市[hàn bǎo shì]')).
+assert(celo(hamburgero,'hamburger.0o','汉堡包[hàn bǎo bāo]')).
+assert(celo(hamburgero,'hamburger.0o','汉堡[hàn bǎo]')).
+assert(celo('Hameleno','hamelen.0o','哈梅恩[hā méi ēn]')).
+assert(celo('Hamleto','hamlet.0o','哈姆莱特[hā mǔ lái tè]')).
+assert(celo('Hamleto','hamlet.0o','哈姆雷特[hā mǔ léi tè]')).
+assert(celo('Novhampŝiro','','新罕布夏州[xīn hǎn bù xià zhōu]')).
+assert(celo('Novhampŝiro','','新罕布什尔州[xīn hǎn bù shí ěr zhōu]')).
+assert(celo(hamstri,'hamstr.0i','囤积[tún jī]')).
+assert(celo(hamstro,'hamstr.0o','仓鼠[cāng shǔ]')).
+assert(celo('Hamurabo','hamurab.0o','汉谟拉比[hàn mó lā bǐ]')).
+assert(celo(handbalisto,'handbal.0isto','巴掌[bā zhǎng]')).
+assert(celo(handbalo,'handbal.0o','手球[shǒu qiú]')).
+assert(celo(handikapi,'handikap.0i','受歧視[shòu qí shì]')).
+assert(celo(handikapi,'handikap.0i','受到亏待[shòu dào kuī dài]')).
+assert(celo(handikapi,'handikap.0i','笥[sì]')).
+assert(celo(handikapo,'handikap.0o','不公平[bù gōng píng]')).
+assert(celo(handikapo,'handikap.0o','不公正[bù gōng zhèng]')).
+assert(celo(handikapo,'handikap.0o','歧視[qí shì]')).
+assert(celo(handikapo,'handikap.0o','身心障碍者[shēn xīn zhàng ài zhě]')).
+assert(celo(handikapo,'handikap.0o','残疾[cán jí]')).
+assert(celo('Hangĝoŭo','','杭州湾跨海大桥[háng zhōu wān kuà hǎi dà qiáo]')).
+assert(celo('Hangĝoŭo','','杭州市[háng zhōu shì]')).
+assert(celo('Hanibalo','hanibal.0o','汉尼拔[hàn ní bá]')).
+assert(celo('Hanojo','hanoj.0o','河內市[hé nèi shì]')).
+assert(celo('Hanojo','hanoj.0o','河內[hé nèi]')).
+assert(celo('Hanovro','hanovr.0o.urbo','汉诺威[hàn nuò wēi]')).
+assert(celo(hanso,'hans.0o','汉萨同盟[hàn sà tóng méng]')).
+assert(celo(hanti,'hant.0i','侵袭[qīn xí]')).
+assert(celo(hararo,'har.0aro','髪[fà]')).
+assert(celo(hararo,'har.0aro','头发[tóu fa]')).
+assert(celo(harego,'har.0ego','刚毛[gāng máo]')).
+assert(celo(harego,'har.0ego','鬣[liè]')).
+assert(celo(harŝprucaĵo,'','发胶[fà jiāo]')).
+assert(celo(harŝprucaĵo,'','喷发胶[pēn fà jiāo]')).
+assert(celo(harligo,'har.0ligo','发辫[fǎ biàn]')).
+assert(celo(harligo,'har.0ligo','辫[biàn]')).
+assert(celo(harligo,'har.0ligo','辫子[biàn zi]')).
+assert(celo(harligo,'har.0ligo','馬尾辮[mǎ wěi biàn]')).
+assert(celo(haro,'har.0o','髪[fà]')).
+assert(celo(haro,'har.0o','发[fà]')).
+assert(celo(harplektaĵo,'har.0plektajxo','发辫[fǎ biàn]')).
+assert(celo(harplektaĵo,'har.0plektajxo','辫[biàn]')).
+assert(celo(harplektaĵo,'har.0plektajxo','辫子[biàn zi]')).
+assert(celo(harplektaĵo,'har.0plektajxo','馬尾辮[mǎ wěi biàn]')).
+assert(celo(harstariga,'har.0stariga','恐惧[kǒng jù]')).
+assert(celo(harstariga,'har.0stariga','发指[fǎ zhǐ]')).
+assert(celo(harstariga,'har.0stariga','駭人聽聞[hài rén tīng wén]')).
+assert(celo(kolhararo,'har.kol0aro','鬣[liè]')).
+assert(celo(kolharoj,'','馬鬃[mǎ zōng]')).
+assert(celo(liphararo,'har.lip0aro','胡[hú]')).
+assert(celo(liphararo,'har.lip0aro','髭须[zī xū]')).
+assert(celo(okulharo,'har.okul0o','睫[jié]')).
+assert(celo(senhara,'har.sen0a','痜[tū]')).
+assert(celo(senhara,'har.sen0a','未修飾[wèi xiū shì]')).
+assert(celo(senhara,'har.sen0a','不毛[bù máo]')).
+assert(celo(senhara,'har.sen0a','无毛[wú máo]')).
+assert(celo(senhara,'har.sen0a','禿[tū]')).
+assert(celo(senhara,'har.sen0a','兀[wù]')).
+assert(celo(vangharoj,'har.vang0oj','腮須[sāi xū]')).
+assert(celo(vangharoj,'har.vang0oj','髥[rán]')).
+assert(celo(vangharoj,'har.vang0oj','髯[rán]')).
+assert(celo(vangharoj,'har.vang0oj','胡须[hú xū]')).
+assert(celo('Hararo','harar.0o','哈拉雷[hā la léi]')).
+assert(celo('Harco','harc.0o','树脂[shù zhī]')).
+assert(celo('Harco','harc.0o','松树胶[sōng shù jiāo]')).
+assert(celo('Harco','harc.0o','脂[zhī]')).
+retractall(celo('Harco',_,_),3).
+assert(celo('Harco','harc.0o','哈茨山[hā cí shān]')).
+assert(celo(hardado,'hard.0ado.KOMUNE','养成习惯[yǎng chéng xí guàn]')).
+assert(celo(hardado,'hard.0ado.KOMUNE','強化[qiáng huà]')).
+assert(celo(hardi,'hard.0i.FIG','焠[cuì]')).
+assert(celo(hardi,'hard.0i.FIG','实体化[shí tǐ huà]')).
+assert(celo(hardiĝi,'hard.0igxi.KOMUNE','使硬化[shǐ yìng huà]')).
+assert(celo(hardiĝi,'hard.0igxi.KOMUNE','磨炼[mó liàn]')).
+assert(celo(harditeco,'hard.0iteco','严重性[yán zhòng xìng]')).
+assert(celo(hardeco,'hard.0iteco','硬度[yìng dù]')).
+assert(celo(haremo,'harem.0o','閨房里的妻妾群[guī fáng lǐ de qī qiè qún]')).
+assert(celo(haremo,'harem.0o','閨房[guī fáng]')).
+assert(celo('Hariano','harian.0o','哈裡亞納邦[hā lǐ yà nà bāng]')).
+assert(celo(haringo,'haring.0o','鯡魚[fèi yú]')).
+assert(celo(haringo,'haring.0o','青魚[qīng yú]')).
+assert(celo(haringo,'haring.0o','鰽[qiú]')).
+assert(celo('Harlemo','harlem.H0o','哈琳[hā lín]')).
+assert(celo('Harlemo','harlem.H0o','哈莱姆区[hā lái mǔ qū]')).
+assert(celo(harmono,'harmon.0o','倍頻[bèi pín]')).
+assert(celo(harmonia,'harmon1.0a','龢[hé]')).
+assert(celo(harmonia,'harmon1.0a','諧波[xié bō]')).
+assert(celo(harmonia,'harmon1.0a','雝[yōng]')).
+assert(celo(harmonia,'harmon1.0a','諧[xié]')).
+assert(celo(harmonia,'harmon1.0a','喈[jiē]')).
+assert(celo(harmonia,'harmon1.0a','勰[xié]')).
+assert(celo(harmonia,'harmon1.0a','投洽[tóu qià]')).
+assert(celo(harmonia,'harmon1.0a','和美[hé měi]')).
+assert(celo(harmonia,'harmon1.0a','廱[yōng]')).
+assert(celo(harmonia,'harmon1.0a','邕[yōng]')).
+assert(celo(harmonia,'harmon1.0a','融洽[róng qià]')).
+assert(celo(harmonia,'harmon1.0a','和諧的[hé xié de]')).
+assert(celo(harmonia,'harmon1.0a','睦和[mù hé]')).
+assert(celo(harmonia,'harmon1.0a','协和[xié hé]')).
+assert(celo(harmonia,'harmon1.0a','雍[yōng]')).
+assert(celo(harmonii,'harmon1.0i','和睦相处[hé mù xiāng chǔ]')).
+assert(celo(harmonii,'harmon1.0i','龤[xié]')).
+assert(celo(harmoniigi,'harmon1.0igi','諧調[xié tiáo]')).
+assert(celo(harmoniigi,'harmon1.0igi','协调[xié tiáo]')).
+assert(celo(harmoniigi,'harmon1.0igi','調和[tiáo hè]')).
+assert(celo(harmonio,'harmon1.0o','雍[yōng]')).
+assert(celo(harmonio,'harmon1.0o','和睦[hé mù]')).
+assert(celo(harmonio,'harmon1.0o','和諧[hé xié]')).
+assert(celo(malharmonio,'harmon1.mal0o','不諧和音[bù xié hè yīn]')).
+assert(celo(malharmonio,'harmon1.mal0o','刺耳的声音[cì ěr de shēng yīn]')).
+assert(celo(malharmonio,'harmon1.mal0o','不調和[bù tiáo hé]')).
+assert(celo(malharmonio,'harmon1.mal0o','不一致[bù yī zhì]')).
+assert(celo(harmoniko,'harmon2.0o.SCI','和声[hé shēng]')).
+assert(celo(buŝharmoniko,'harmon2.busx0o','口琴[kǒu qín]')).
+assert(celo(frapharmoniko,'harmon2.frap0o','木琴[mù qín]')).
+assert(celo(tirharmoniko,'harmon2.tir0o','手風琴[shǒu fēng qín]')).
+assert(celo(harniso,'harnis.0o','挽具[wǎn jù]')).
+assert(celo(harpo,'harp.0o','竖琴[shù qín]')).
+assert(celo(harpio,'harpi.0o.ZOO','角雕[jiǎo diāo]')).
+assert(celo(harpuni,'harpun.0i','魚叉[yú chā]')).
+assert(celo(hasta,'hast.0a','慌张地[huāng zhāng de]')).
+assert(celo(hasta,'hast.0a','貿然[mào rán]')).
+assert(celo(hasta,'hast.0a','仓猝[cāng cù]')).
+assert(celo(hasta,'hast.0a','匆[cōng]')).
+assert(celo(hasta,'hast.0a','急促[jí cù]')).
+assert(celo(hasta,'hast.0a','孟浪[mèng làng]')).
+assert(celo(hasta,'hast.0a','慌忙[huāng máng]')).
+assert(celo(hastema,'','孟浪[mèng làng]')).
+assert(celo(hastema,'','性急[xìng jí]')).
+assert(celo(hastema,'','易怒[yì nù]')).
+assert(celo(hastema,'','輕率[qīng shuài]')).
+assert(celo(hasti,'hast.0i','头在前[tóu zài qián]')).
+assert(celo(hasti,'hast.0i','头朝下[tóu cháo xià]')).
+assert(celo(hasti,'hast.0i','过于匆忙[guò yú cōng máng]')).
+assert(celo(hasti,'hast.0i','髞[zào]')).
+assert(celo(hastigi,'hast.0igi','催促[cuī cù]')).
+assert(celo(hastigi,'hast.0igi','鞭策[biān cè]')).
+assert(celo(hastigi,'hast.0igi','鞭茦[biān cè]')).
+assert(celo(hastigi,'hast.0igi','推[tuī]')).
+assert(celo(malhasta,'hast.mal0a','安閒[ān xián]')).
+assert(celo(malhasta,'hast.mal0a','悠然[yōu rán]')).
+assert(celo(malhasta,'hast.mal0a','逍[xiāo]')).
+assert(celo(malhasta,'hast.mal0a','慢条斯理[màn tiáo sī lǐ]')).
+assert(celo(malhasta,'hast.mal0a','悠[yōu]')).
+assert(celo(malhasta,'hast.mal0a','劮[yì]')).
+assert(celo(haŝiŝo,'hasxisx.0o','大麻[dà má]')).
+assert(celo(hati,'hat.0i','憎[zēng]')).
+assert(celo(hati,'hat.0i','恨死[hèn sǐ]')).
+assert(celo(hati,'hat.0i','堲[jí]')).
+assert(celo(hati,'hat.0i','忌恨[jì hèn]')).
+assert(celo(hati,'hat.0i','厌恨[yàn hèn]')).
+assert(celo(haŭbizo,'hauxbi.0o','榴弹炮[liú dàn pào]')).
+assert(celo(haŭli,'hauxl.0i','拽[yè]')).
+assert(celo(haŭli,'hauxl.0i','搲[wà]')).
+assert(celo(haŭli,'hauxl.0i','拖带[tuō dài]')).
+assert(celo(haŭlisto,'','縴夫[qiàn fū]')).
+assert(celo(haŭso,'hauxs.0o.borsa','牛市[niú shì]')).
+assert(celo(haŭli,'','縴夫[qiān fū]')).
+assert(celo(malhaŭso,'hauxs.mal0o.borsa','長時間的強烈下跌[cháng shí jiān de qiáng liè xià diē]')).
+assert(celo(haŭsero,'hauxser.0o','纜索[lǎn suǒ]')).
+assert(celo(haŭsero,'hauxser.0o','纜[lǎn]')).
+assert(celo(haŭsero,'hauxser.0o','纜繩[lǎn shéng]')).
+assert(celo(haŭto,'hauxt.0o','皮肤[pí fū]')).
+assert(celo(haŭto,'hauxt.0o','膜[mó]')).
+assert(celo(haŭto,'hauxt.0o','体被[tǐ bèi]')).
+assert(celo(anserhaŭto,'hauxt.anser0o','雞皮疙瘩[jī pí gē da]')).
+assert(celo(senhaŭtigi,'','去皮[qù pí]')).
+assert(celo(senhaŭtigi,'','剝皮[bō pí]')).
+assert(celo(havebla,'hav.0ebla.KOMUNE','可处理[kě chǔ lǐ]')).
+assert(celo(havebla,'hav.0ebla.KOMUNE','可支配[kě zhī pèi]')).
+assert(celo(havebla,'hav.0ebla.KOMUNE','可使用[kě shǐ yòng]')).
+assert(celo(havebla,'hav.0ebla.KOMUNE','液[yè]')).
+assert(celo(havebla,'','可买到[kě mǎi dào]')).
+assert(celo(havema,'hav.0ema.KOMUNE','猪一般地[zhū yì bān de]')).
+assert(celo(havema,'hav.0ema.KOMUNE','貪得無厭[tān dé wú yàn]')).
+assert(celo(havema,'hav.0ema.KOMUNE','不知足[bù zhī zú]')).
+assert(celo(havema,'hav.0ema.KOMUNE','愛財[ài cái]')).
+assert(celo(havenda,'hav.0enda','必要[bì yào]')).
+assert(celo(havenda,'hav.0enda','枢[shū]')).
+assert(celo(havigi,'hav.0igi','搞到[gǎo dào]')).
+assert(celo(havigi,'hav.0igi','設法獲得[shè fǎ huò dé]')).
+assert(celo(havigi,'hav.0igi','努力取得[nǔ lì qǔ dé]')).
+assert(celo(havigi,'hav.0igi','謀得[móu dé]')).
+assert(celo(havigi,'hav.0igi','弄到[nòng dào]')).
+assert(celo(havigi,'hav.0igi','张罗[zhāng luó]')).
+assert(celo(bonhavo,'hav.bon0o.EKON','权衡[quán héng]')).
+assert(celo(bonhavo,'hav.bon0o.EKON','储蓄[chǔ xù]')).
+assert(celo(bonhavo,'hav.bon0o.EKON','充値[chōng zhí]')).
+assert(celo(bonhavo,'hav.bon0o.EKON','銀行結余[yín háng jié yú]')).
+assert(celo(bonhavo,'hav.bon0o.EKON','銀行存款[yín háng cún kuǎn]')).
+assert(celo(bonhava,'','欣欣向榮[xīn xīn xiàng róng]')).
+assert(celo(bonhava,'','兴旺[xīng wàng]')).
+assert(celo(bonhava,'','优裕[yōu yù]')).
+assert(celo(bonhavo,'hav.bon0o.eco','小康[xiǎo kāng]')).
+assert(celo(bonhavo,'hav.bon0o.eco','兴旺[xīng wàng]')).
+assert(celo(ekhavi,'hav.ek0i','受[shòu]')).
+assert(celo(ekhavi,'hav.ek0i','領[lǐng]')).
+assert(celo(ekhavi,'hav.ek0i','拿到[ná dào]')).
+assert(celo(ekhavi,'hav.ek0i','收到[shōu dào]')).
+assert(celo(ekhavi,'hav.ek0i','利[lì]')).
+assert(celo(ekhavi,'hav.ek0i','进[jìn]')).
+assert(celo(enhaveco,'hav.en0eco','容納能力[róng nà néng lì]')).
+assert(celo(enhavi,'hav.en0i.aro','鋡[hán]')).
+assert(celo(enhavi,'hav.en0i.aro','量入[liàng rù]')).
+assert(celo(enhavi,'hav.en0i.aro','戒除[jiè chú]')).
+assert(celo(enhavi,'hav.en0i.aro','包含[bāo hán]')).
+assert(celo(enhavi,'hav.en0i.aro','包括有[bāo kuò yǒu]')).
+assert(celo(enhavi,'hav.en0i.aro','內裝有[nèi zhuāng yǒu]')).
+assert(celo(enhavi,'hav.en0i.aro','內含[nèi hán]')).
+assert(celo(enhavi,'hav.en0i.aro','藴[yùn]')).
+assert(celo(enhavo,'hav.en0o','內含物品[nèi hán wù pǐn]')).
+assert(celo(enhavo,'hav.en0o','內容[nèi róng]')).
+assert(celo(enhavo,'hav.en0o','含量[hán liàng]')).
+assert(celo(kunhavi,'hav.kun0i.disponi','携带[xié dài]')).
+assert(celo(kunhavi,'hav.kun0i.disponi','怀有[huái yǒu]')).
+assert(celo(kunhavi,'hav.kun0i.disponi','随带[suí dài]')).
+assert(celo(kunhavi,'hav.kun0i.disponi','随身[suí shēn]')).
+assert(celo(nehavo,'hav.ne0o','貧困[pín kùn]')).
+assert(celo(nemalhavebla,'hav.nemal0ebla.KOMUNE','必要[bì yào]')).
+assert(celo(nemalhavebla,'hav.nemal0ebla.KOMUNE','枢[shū]')).
+assert(celo(senhavigi,'hav.sen0igi','饒有興趣[ráo yǒu xìng qù]')).
+assert(celo(senhavigi,'hav.sen0igi','預先處理[yù xiān chǔ lǐ]')).
+assert(celo(senhavigi,'hav.sen0igi','扣押[kòu yā]')).
+assert(celo(senhavigi,'hav.sen0igi','侵吞[qīn tūn]')).
+assert(celo(senhavigi,'hav.sen0igi','剪短[jiǎn duǎn]')).
+assert(celo(senhavigi,'hav.sen0igi','剝奪[bō duó]')).
+assert(celo(senhaviĝi,'hav.sen0igxi.KOMUNE','失落[shī luò]')).
+assert(celo(senhaviĝi,'hav.sen0igxi.KOMUNE','丟失[diū shī]')).
+assert(celo(senhaviĝi,'hav.sen0igxi.KOMUNE','輸[shū]')).
+assert(celo(senhaviĝi,'hav.sen0igxi.KOMUNE','损失[sǔn shī]')).
+assert(celo(senhaviĝi,'hav.sen0igxi.KOMUNE','遗[yí]')).
+assert(celo(senhaviĝi,'hav.sen0igxi.KOMUNE','失[shī]')).
+assert(celo(senhaviĝi,'hav.sen0igxi.KOMUNE','损[sǔn]')).
+assert(celo(senhaviĝi,'hav.sen0igxi.KOMUNE','无望[wú wàng]')).
+assert(celo(senhavulo,'hav.sen0ulo','穷棒子[qióng bàng zi]')).
+assert(celo(senenhava,'hav.senen0a','虚[xū]')).
+assert(celo(senenhava,'hav.senen0a','空車[kōng chē]')).
+assert(celo(senenhava,'hav.senen0a','空空[kōng kōng]')).
+assert(celo(senenhava,'hav.senen0a','空[kòng]')).
+assert(celo(senenhava,'hav.senen0a','空虚[kōng xū]')).
+assert(celo(surhavi,'hav.sur0i','身着[shēn zhuó]')).
+assert(celo(surhavi,'hav.sur0i','戴着[dài zhuó]')).
+assert(celo('Havajo','havaj.0o','夏威夷[xià wēi yí]')).
+assert(celo('Havajo','havaj.0o','檀香山[tán xiāng shān]')).
+assert(celo('Havajo','havaj.0o','夏威夷州群岛[xià wēi yí zhōu qún dǎo]')).
+assert(celo('Havano','havan.H0o','哈瓦那[hā wǎ nà]')).
+assert(celo(haveno,'haven.0o','港[gǎng]')).
+assert(celo(haveno,'haven.0o','津步[jīn bù]')).
+assert(celo(haveno,'haven.0o','港口[gǎng kǒu]')).
+assert(celo(fiŝhaveno,'haven.fisx0o','渔港[yú gǎng]')).
+assert(celo(flughaveno,'haven.flug0o','空港[kōng gǎng]')).
+assert(celo(flughaveno,'haven.flug0o','航空站[háng kōng zhàn]')).
+assert(celo(flughaveno,'haven.flug0o','航空港[háng kōng gǎng]')).
+assert(celo(marhaveno,'haven.mar0o','海港[hǎi gǎng]')).
+assert(celo(marhaveno,'haven.mar0o','港口[gǎng kǒu]')).
+assert(celo(hazardo,'hazard.0o','偶然事件[ǒu rán shì jiàn]')).
+assert(celo(hazardo,'hazard.0o','偶然的机会[ǒu rán de jī huì]')).
+assert(celo(hazardo,'hazard.0o','巧合[qiǎo hé]')).
+assert(celo(hazardo,'hazard.0o','巧劲儿[qiǎo jìn r]')).
+assert(celo(hazardo,'hazard.0o','偶然[ǒu rán]')).
+assert(celo(hazardo,'hazard.0o','万一[wàn yī]')).
+assert(celo(hazardo,'hazard.0o','意外[yì wài]')).
+assert(celo(hazardo,'hazard.0o','不测[bù cè]')).
+assert(celo(hebeta,'hebet.0a.PSI','麻木[má mù]')).
+assert(celo(hebeta,'hebet.0a.PSI','麻[má]')).
+assert(celo(hebeta,'hebet.0a.PSI','痲[má]')).
