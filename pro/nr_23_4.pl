@@ -89,32 +89,27 @@ triopoj(zh) :-
         assertz(trd(zh-Lng,Zh,Trd)) % kreu nun apartan fakton kiel paro zhde(Ĉina,Germana)
     ).
 
-/*
- * Permesu en la triopoj serĉi tradukojn inter du lingvoj laŭ ambaŭ direktoj kaj
- * aldone tra pontlingvo
- */
-trd2(Lde-Lal,De,Al) :-
-    trd(Lde-Lal,De,Al). % traduko estas en la faktoj trd/3
-
-trd2(Lde-Lal,De,Al) :-
-    trd(Lal-Lde,Al,De). % traduko estas inverse trovebla en la faktoj trd/3
-
-
 /**
- * Nun ni ebligos trovi tradukojn, por kiuj ne nepre
- * havas paron en niaj faktoj. Tiam ni provos uzi
- * pontlingvon (eo aŭ zh povas funkcii nun), ekz-e:
- * traduko(de-en,dürftig,En,Pont).
- * traduko(eo-zh,ekzemplo,Zh,Pont).
- */ 
-    
-traduko(Lde-Lal,De,Al,'-':'-') :-
-    trd2(Lde-Lal,De,Al). % traduko estas en la faktoj trd2/3 (ambaŭdirekta)   
+ * eo_zh(ekzemplo,Zh,Ponto).
+ */
+eo_zh(Eo,Zh,1.0-Lp:Ponto) :-
+    member(Lp,[en,de]),
+    trd(eo-Lp,Eo,Ponto), % ni povas trovi tradukon per pontlingvo
+    trd(zh-Lp,Zh,Ponto).
 
-traduko(Lde-Lal,De,Al,Lp:Ponto) :-
-    trd2(Lde-Lp,De,Ponto), % ni povas troci tradukon per pontlingvo
-    trd2(Lp-Lal,Ponto,Al).
+eo_zh(Eo,Zh,Simileco-Lp:P2) :-
+    member(Lp,[en,de]),
+    trd(eo-Lp,Eo,P1), % ni povas trovi tradukon per pontlingvo kaj simileco
+    trd(zh-Lp,Zh,P2),
+    isub(P1,P2,Simileco,[zero_to_one(true)]),
+    Simileco>0.8.
 
+% Ni iom simpligas la dialogon 
+% permesante doni komencan demandsignon kaj serĉvorton,
+% do ?<serĉvorto>. anstataŭ p(<serĉvorto>).
+% :- op(800,fy,user:(?)).
+% ?(Eo) :- p(Eo).
+% ?(Eo-De) :- pde(Eo,De).
 
 
 
