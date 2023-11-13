@@ -1,0 +1,2049 @@
+#kap	mrk	lng	trd	ind
+-j	j.0	en	ending to mark the plural in Esperanto	plural
+-j	j.0	de		Pluralendung
+-j	j.0	fr	marque du pluriel	pluriel
+-j	j.0.GRA	de		Pluralendung
+-j	j.0.GRA	fr	marque du pluriel	pluriel
+-j	j.0.GRA	en	ending to mark the plural in Esperanto	plural
+jo	j1.0	NULL	NULL	NULL
+jo	j1.0.konsonanto	fr	j (lettre)	j
+jo	j1.0.konsonanto	fr		année
+jo	j1.0.konsonanto	fr		Joule
+-j	j2.0	en	-y (gender-neutral suffix of endearment)	-y
+-j	j2.0.sufikso	en	-y (gender-neutral suffix of endearment)	-y
+ja	ja.0	fr		effectivement
+ja	ja.0	fr		certes
+ja	ja.0	en	after all (informal)	after all
+ja	ja.0	en		decidedly
+ja	ja.0	en		surely
+ja	ja.0	fr	bien (effectivement)	bien
+ja	ja.0	en		indeed
+ja	ja.0	fr		en fait
+ja	ja.0	fr	il est vrai que	vrai
+ja	ja.0.interj	fr		effectivement
+ja	ja.0.interj	fr		certes
+ja	ja.0.interj	en	after all (informal)	after all
+ja	ja.0.interj	en		decidedly
+ja	ja.0.interj	en		surely
+ja	ja.0.interj	fr	bien (effectivement)	bien
+ja	ja.0.interj	en		indeed
+ja	ja.0.interj	fr		en fait
+ja	ja.0.interj	fr	il est vrai que	vrai
+ja	ja.0.konj	fr		certes
+ja	ja.0.konj	en	after all (informal)	after all
+ja	ja.0.konj	en		decidedly
+ja	ja.0.konj	en		surely
+ja	ja.0.konj	fr	bien (effectivement)	bien
+ja	ja.0.konj	en		indeed
+ja	ja.0.konj	fr		en fait
+ja	ja.0.konj	de		ja
+ja	ja.0.konj	fr	il est vrai que	vrai
+ja	ja.0.konj	fr		effectivement
+ja	ja.0.sed	fr		certes
+ja	ja.0.sed	en	after all (informal)	after all
+ja	ja.0.sed	en		decidedly
+ja	ja.0.sed	en		surely
+ja	ja.0.sed	fr	bien (effectivement)	bien
+ja	ja.0.sed	en		indeed
+ja	ja.0.sed	fr		en fait
+ja	ja.0.sed	de		zwar
+ja	ja.0.sed	fr	il est vrai que	vrai
+ja	ja.0.sed	fr		effectivement
+hiacinto	jacint.0o	fr		hyacinthe
+jacinto	jacint.0o	fr		hyacinthe
+hiacinto	jacint.0o	de		Jacinth
+jacinto	jacint.0o	de		Jacinth
+hiacinto	jacint.0o	de		Hyazinth
+jacinto	jacint.0o	de		Hyazinth
+hiacinto	jacint.0o	en		hyacinth
+jacinto	jacint.0o	en		hyacinth
+hiacinto	jacint.0o.MIN	de		Jacinth
+jacinto	jacint.0o.MIN	de		Jacinth
+hiacinto	jacint.0o.MIN	fr		hyacinthe
+jacinto	jacint.0o.MIN	fr		hyacinthe
+hiacinto	jacint.0o.MIN	de		Hyazinth
+jacinto	jacint.0o.MIN	de		Hyazinth
+hiacinto	jacint.0o.MIN	en		hyacinth
+jacinto	jacint.0o.MIN	en		hyacinth
+jado	jad.0o	fr		jade
+jado	jad.0o	en		jade
+jado	jad.0o	de		Jade
+jado	jad.0o.MIN	fr		jade
+jado	jad.0o.MIN	en		jade
+jado	jad.0o.MIN	de		Jade
+Jafo	jaf.0o	de		Jaffa
+Jafo	jaf.0o	fr		Jaffa
+Jafo	jaf.0o	en		Jaffa
+jaguaro	jaguar.0o	fr		jaguar
+jaguaro	jaguar.0o	en		jaguar
+jaguaro	jaguar.0o	de		Jaguar
+jogurto	jahurt.0o	fr		yogourt
+jahurto	jahurt.0o	fr		yogourt
+jogurto	jahurt.0o	fr		yoghourt
+jahurto	jahurt.0o	fr		yoghourt
+jogurto	jahurt.0o	fr		yaourt
+jahurto	jahurt.0o	fr		yaourt
+jogurto	jahurt.0o	en		yogurt
+jahurto	jahurt.0o	en		yogurt
+jogurto	jahurt.0o	de		Joghurt
+jahurto	jahurt.0o	de		Joghurt
+jakto	jahxt.0o	fr		yacht
+jaĥto	jahxt.0o	fr		yacht
+jakto	jahxt.0o	en		yacht
+jaĥto	jahxt.0o	en		yacht
+jakto	jahxt.0o	de		Jacht
+jaĥto	jahxt.0o	de		Jacht
+jaketo	jak.0eto	en		jacket
+jaketo	jak.0eto.TEKS	en		jacket
+jaketo	jak.0eto.TEKS	fr		pourpoint
+jaketo	jak.0eto.TEKS	fr		blouson
+jaketo	jak.0eto.TEKS	fr	veste (courte)	veste
+jaketo	jak.0eto.TIP	en		jacket
+jaketo	jak.0eto.TIP	fr	couverture (jaquette)	couverture
+jaketo	jak.0eto.TIP	fr	jaquette (de livre)	jaquette
+jako	jak.0o	fr		veston
+jako	jak.0o	fr	veste (d'homme)	veste
+jako	jak.0o	en		jacket
+jako	jak.0o	de		Sakko
+jako	jak.0o	de		Jackett
+jako	jak.0o	de		Jacke
+jako	jak.0o.TEKS	fr	veste (d'homme)	veste
+jako	jak.0o.TEKS	en		jacket
+jako	jak.0o.TEKS	de		Sakko
+jako	jak.0o.TEKS	de		Jackett
+jako	jak.0o.TEKS	de		Jacke
+jako	jak.0o.TEKS	fr		veston
+trikita jako	jak.trikita_0o	fr		cardigan
+trikita jako	jak.trikita_0o	en		cardigan
+trikita jako	jak.trikita_0o	de		Strickjacke
+Jakob	jakob.0o	fr		Jacques
+Jakob	jakob.0o	fr		Jacob
+Jakobo	jakob.0o	fr		Jacques
+Jakobo	jakob.0o	fr		Jacob
+Jakob	jakob.0o	de		Jakob
+Jakobo	jakob.0o	de		Jakob
+Jakob	jakob.0o.BIB	fr		Jacques
+Jakob	jakob.0o.BIB	fr		Jacob
+Jakobo	jakob.0o.BIB	fr		Jacques
+Jakobo	jakob.0o.BIB	fr		Jacob
+Jakob	jakob.0o.BIB	de		Jakob
+Jakobo	jakob.0o.BIB	de		Jakob
+Jakob	jakob.0o.NOM	fr		Jacques
+Jakobo	jakob.0o.NOM	fr		Jacques
+Jakob	jakob.0o.NOM	fr		Jacob
+Jakob	jakob.0o.NOM	de		Jakob
+Jakobo	jakob.0o.NOM	fr		Jacob
+Jakobo	jakob.0o.NOM	de		Jakob
+jakobeno	jakobe.0o	fr	jacobin (subst., politique)	jacobin
+jakobeno	jakobe.0o	de		Jakobiner
+jakobeno	jakobe.0o	en		jacobin
+jakobeno	jakobe.0o.POL	fr	jacobin (subst., politique)	jacobin
+jakobeno	jakobe.0o.POL	de		Jakobiner
+jakobeno	jakobe.0o.POL	en		jacobin
+Jakobio	jakobi.0o	de		Jacobi
+Jakobio	jakobi.0o	en		Jacobi
+Jakobio	jakobi.0o	fr		Jacobi
+jakobia	jakobi.j0a	fr	jacobien (adj.)	jacobien
+jakobia	jakobi.j0a	en		Jacobian
+jakobia	jakobi.j0a	de		Jacobisch
+jakobiano	jakobi1.0o	fr	jacobien (subst.)	jacobien
+jakobiano	jakobi1.0o	fr		déterminant jacobien
+jakobiano	jakobi1.0o	en		Jacobian
+jakobiano	jakobi1.0o	en	Jacobian determinant	determinant
+jakobiano	jakobi1.0o	de	Jacobische Determinante	Determinante
+jakvujo	jakv.0arbo	fr		jaquier
+jakvarbo	jakv.0arbo	fr		jaquier
+jakvujo	jakv.0arbo	fr		jacquier
+jakvarbo	jakv.0arbo	fr		jacquier
+jakvujo	jakv.0arbo	de		Jackfruchtbaum
+jakvarbo	jakv.0arbo	de		Jackfruchtbaum
+jakvujo	jakv.0arbo.BOT	fr		jaquier
+jakvarbo	jakv.0arbo.BOT	fr		jaquier
+jakvujo	jakv.0arbo.BOT	fr		jacquier
+jakvarbo	jakv.0arbo.BOT	fr		jacquier
+jakvujo	jakv.0arbo.BOT	de		Jackfruchtbaum
+jakvarbo	jakv.0arbo.BOT	de		Jackfruchtbaum
+jakvo	jakv.0o	fr	jaque (fruit)	jaque
+jakvo	jakv.0o	fr	jacque (fruit)	jacque
+jakvo	jakv.0o	en		jackfruit
+jakvo	jakv.0o.KUI	fr	jaque (fruit)	jaque
+jakvo	jakv.0o.KUI	fr	jacque (fruit)	jacque
+jakvo	jakv.0o.KUI	en		jackfruit
+Jalto	jalt.0o	NULL	NULL	NULL
+Jalto	jalt.0o.urbo	fr		Yalta
+Jalto	jalt.0o.urbo	en		Yalta
+Jalto	jalt.0o.urbo	de		Jalta
+jam	jam.0	fr		déjà
+jam	jam.0	de		bereits
+jam	jam.0	de		schon
+jam	jam.0.antau_nun	fr		déjà
+jam	jam.0.antau_nun	de		bereits
+jam	jam.0.antau_nun	de		schon
+jam	jam.0.antau_nun	en		up to now
+jam	jam.0.antau_nun	en		before now
+jam	jam.0.antau_nun	en		by now
+jam	jam.0.antau_nun	en		already
+jam	jam.0.antau_tiam	fr		déjà
+jam	jam.0.antau_tiam	de		bereits
+jam	jam.0.antau_tiam	de		schon
+jam	jam.0.antau_tiam	en		beforehand
+jam	jam.0.antau_tiam	en		already
+jam	jam.0.antau_tiam	en		before then
+jam	jam.0.de_nun	en		already
+jam	jam.0.de_nun	fr		déjà
+jam	jam.0.de_nun	de		bereits
+jam	jam.0.de_nun	de		schon
+jam	jam.0.de_nun	en		as of now
+jam	jam.0.de_tiam	fr		déjà
+jam	jam.0.de_tiam	de		bereits
+jam	jam.0.de_tiam	de		schon
+jam	jam.0.de_tiam	en		already
+jam	jam.0.de_tiam	en		yet
+jam	jam.0.de_tiam	en		by this time
+jam	jam.0.de_tiam	en		by then
+jam	jam.0.pli_frue	fr		déjà
+jam	jam.0.pli_frue	de		bereits
+jam	jam.0.pli_frue	de		schon
+jam	jam.0.pli_frue	en		already
+jam	jam.0.pli_frue	en		so early
+jam	jam.0.pli_frue	en		so soon
+jama	jam.0a	en		present
+jama	jam.0a	en		existing
+jama	jam.0a	de		bisheriger
+jama	jam.0a	de		bestehende
+Jamao	jama.0o	fr		Yama
+Jamao	jama.0o	de	Yama (Todesgott)	Yama
+Jamao	jama.0o.HIN	fr		Yama
+Jamao	jama.0o.HIN	de	Yama (Todesgott)	Yama
+Jamajko	jamajk.0o	fr		Jamaïque
+Jamajko	jamajk.0o	en		Jamaica
+Jamajko	jamajk.0o	de		Jamaika
+Jamajko	jamajk.0o.GEOG	fr		Jamaïque
+Jamajko	jamajk.0o.GEOG	en		Jamaica
+Jamajko	jamajk.0o.GEOG	de		Jamaika
+Jamajko	jamajk.0o.sxtato	fr		Jamaïque
+Jamajko	jamajk.0o.sxtato	en		Jamaica
+Jamajko	jamajk.0o.sxtato	de		Jamaika
+jambo	jamb.0o	fr		ïambe
+jambo	jamb.0o	fr		iambe
+jambo	jamb.0o	en		iamb
+jambo	jamb.0o	de		Jambus
+jambo	jamb.0o	de		Jambe
+ĥorjambo	jamb.hxor0o	fr		chorïambe
+ĥorjambo	jamb.hxor0o	en		choriamb
+Jamusukro	jamusukr.0o	de		Yamoussoukro
+Jamusukro	jamusukr.0o	en		Yamoussoukro
+Jangzio	jangzi.0o	fr		Yangzi jiang
+Jangzio	jangzi.0o	fr		Yang-tseu-kiang
+Jangzio	jangzi.0o	fr		Chang jiang
+Jangzio	jangzi.0o	en		Chang Jiang
+Jangzio	jangzi.0o	en		Yangtze Kiang
+Jangzio	jangzi.0o	de		Jangtse-Fluss
+Jangzio	jangzi.0o	de		Jangtsekiang
+janiĉaro	janicx.0o	fr		janissaire
+janiĉaro	janicx.0o	de		Janitschare
+jankio	janki.0o	fr		yanquee
+jankio	janki.0o	fr		yanqui
+jankio	janki.0o.ETN	fr		yanqui
+jankio	janki.0o.ETN	fr		yanquee
+jansenano	jansen.0ano	fr		janséniste
+jansenano	jansen.0ano.KAT	fr		janséniste
+jansenismo	jansen.0ismo	en		jansenism
+jansenismo	jansen.0ismo	de		Jansenismus
+jansenismo	jansen.0ismo	fr		jansénisme
+jansenismo	jansen.0ismo.KAT	de		Jansenismus
+jansenismo	jansen.0ismo.KAT	fr		jansénisme
+jansenismo	jansen.0ismo.KAT	en		jansenism
+jansenisto	jansen.0isto	fr		janséniste
+jansenisto	jansen.0isto.KAT	fr		janséniste
+Janseno	jansen.0o	fr	Cornelius Jansen	Jansen
+Janseno	jansen.0o.PERS	fr	Cornelius Jansen	Jansen
+januara	januar.0a	fr	de janvier	janvier
+japanesko	japanesk.0o	fr		poème à la manière japonaise
+japanesko	japanesk.0o	fr		japonaiserie
+japanesko	japanesk.0o.POE	fr		poème à la manière japonaise
+japanesko	japanesk.0o.POE	fr		japonaiserie
+centjaro	jar.cent0o	de		Jahrhundert
+centjaro	jar.cent0o.KAL	de		Jahrhundert
+ĉiujara	jar.cxiu0a	fr		annuel
+ĉiujara	jar.cxiu0a	en		annual
+ĉiujara	jar.cxiu0a	de		jährlich
+ĉiujara	jar.cxiu0a.KAL	fr		annuel
+ĉiujara	jar.cxiu0a.KAL	en		annual
+ĉiujara	jar.cxiu0a.KAL	de		jährlich
+ĉiudujara	jar.cxiudu0a	fr		bisannuel
+ĉiudujara	jar.cxiudu0a.KAL	fr		bisannuel
+dekjaro	jar.dek0o	NULL	NULL	NULL
+dekjaro	jar.dek0o.KAL	NULL	NULL	NULL
+dekkelkjarulo	jar.dekkelk0ulo	en		teenager
+dekkelkjarulo	jar.dekkelk0ulo.KOMUNE	en		teenager
+duonjaro	jar.duon0o	fr		semestre
+duonjaro	jar.duon0o	de		Halbjahr
+duonjaro	jar.duon0o.AST	fr		semestre
+duonjaro	jar.duon0o.AST	de		Halbjahr
+duonjaro	jar.duon0o.KAL	de		Halbjahr
+duonjaro	jar.duon0o.KAL	fr		semestre
+lumjaro	jar.lum0o	fr		année-lumière
+lumjaro	jar.lum0o	en		light-year
+lumjaro	jar.lum0o	de		Lichtjahr
+lumjaro	jar.lum0o.AST	fr		année-lumière
+lumjaro	jar.lum0o.AST	en		light-year
+lumjaro	jar.lum0o.AST	de		Lichtjahr
+miljaro	jar.mil0o	de		Jahrtausend
+miljaro	jar.mil0o.KAL	de		Jahrtausend
+Novjaro	jar.nov0o	fr		nouvel an
+Novjaro	jar.nov0o.KAL	fr		nouvel an
+provjaro	jar.prov0o	fr	période de formation	formation
+provjaro	jar.prov0o	fr	période d'apprentissage	apprentissage
+provjaro	jar.prov0o.PED	fr	période de formation	formation
+provjaro	jar.prov0o.PED	fr	période d'apprentissage	apprentissage
+studjaro	jar.stud0o	fr		année universitaire
+studjaro	jar.stud0o	fr		année scolaire
+studjaro	jar.stud0o	de		akademisches Jahr
+studjaro	jar.stud0o	de		Studienjahr
+studjaro	jar.stud0o	de		Schuljahr
+studjaro	jar.stud0o.PED	fr		année universitaire
+studjaro	jar.stud0o.PED	fr		année scolaire
+studjaro	jar.stud0o.PED	de		akademisches Jahr
+studjaro	jar.stud0o.PED	de		Studienjahr
+studjaro	jar.stud0o.PED	de		Schuljahr
+superjaro	jar.super0o	fr		année bissextile
+superjaro	jar.super0o	en		leap year
+superjaro	jar.super0o	de		Schaltjahr
+superjaro	jar.super0o.KAL	fr		année bissextile
+superjaro	jar.super0o.KAL	en		leap year
+superjaro	jar.super0o.KAL	de		Schaltjahr
+jardo	jard.0o	de		Rahe
+jardo	jard.0o	fr		espar
+jardo	jard.0o	en		yard
+jardo	jard.0o.MAR	fr		espar
+jardo	jard.0o.MAR	en		yard
+jardo	jard.0o.MAR	de		Rahe
+jardo	jard1.0o	fr		yard
+jardo	jard1.0o	en		yard
+jardo	jard1.0o	de		Yard
+jardo	jard1.0o.MEZ	fr		yard
+jardo	jard1.0o.MEZ	en		yard
+jardo	jard1.0o.MEZ	de		Yard
+Jaroslavo	jaroslav.0o	NULL	NULL	NULL
+Jaroslavo	jaroslav.0o.NOM	fr		Iaroslav
+jasmeno	jasmen.0o	fr		jasmin
+jasmeno	jasmen.0o	en		jasmine
+jasmeno	jasmen.0o	de		Jasmin
+jaspi	jasp.0i	fr		jasper
+jaspiso	jasp.0o	fr		jaspe
+jaspo	jasp.0o	fr		jaspe
+jaspiso	jasp.0o	de		Jaspis
+jaspo	jasp.0o	de		Jaspis
+jaspiso	jasp.0o	en		jasper
+jaspo	jasp.0o	en		jasper
+jaspiso	jasp.0o.sxtono	fr		jaspe
+jaspo	jasp.0o.sxtono	fr		jaspe
+jaspiso	jasp.0o.sxtono	de		Jaspis
+jaspo	jasp.0o.sxtono	de		Jaspis
+jaspiso	jasp.0o.sxtono	en		jasper
+jaspo	jasp.0o.sxtono	en		jasper
+jaŝiro	jasxir.0o	fr		jinja
+jaŝiro	jasxir.0o	fr		yashiro
+jaŝiro	jasxir.0o.REL	fr		jinja
+jaŝiro	jasxir.0o.REL	fr		yashiro
+jato	jat.0o	en		yat
+jatagano	jatagan.0o	fr		yatagan
+jatagano	jatagan.0o.ARM	fr		yatagan
+Jaundo	jaund.0o	en		Yaoundé
+Jaundo	jaund.0o	de		Yaoundé
+Jaundo	jaund.0o	fr		Yaoundé
+Jazono	jazon.0o	fr		Jason
+Jazono	jazon.0o	en		Jason
+Jazono	jazon.0o	de		Jason
+Jazono	jazon.0o	de		Iason
+Jazono	jazon.0o.NOM	fr		Jason
+Jazono	jazon.0o.NOM	en		Jason
+Jazono	jazon.0o.NOM	de		Jason
+Jazono	jazon.0o.NOM	de		Iason
+Jazono	jazon.0o.mit	fr		Jason
+Jazono	jazon.0o.mit	en		Jason
+Jazono	jazon.0o.mit	de		Jason
+Jazono	jazon.0o.mit	de		Iason
+je	je.0	de		je
+je	je.0	fr		de
+je	je.0	en		indefinite preposition
+je	je.0	de		zu
+je	je.0	de		um
+je	je.0	de		von
+je	je.0	de		an
+je	je.0	fr		à
+je	je.0.adj	de		je
+je	je.0.adj	fr		de
+je	je.0.adj	en		indefinite preposition
+je	je.0.adj	de		zu
+je	je.0.adj	en		in
+je	je.0.adj	de		um
+je	je.0.adj	en		with
+je	je.0.adj	en		of
+je	je.0.adj	de		von
+je	je.0.adj	de		an
+je	je.0.adj	fr		à
+je	je.0.cirkonstanco	fr		de
+je	je.0.cirkonstanco	en		from
+je	je.0.cirkonstanco	en		by
+je	je.0.cirkonstanco	en		in
+je	je.0.cirkonstanco	en		at
+je	je.0.cirkonstanco	en		indefinite preposition
+je	je.0.cirkonstanco	de		zu
+je	je.0.cirkonstanco	de		um
+je	je.0.cirkonstanco	de		von
+je	je.0.cirkonstanco	de		an
+je	je.0.cirkonstanco	fr		à
+je	je.0.cirkonstanco	de		je
+je	je.0.objekta	fr		de
+je	je.0.objekta	en		for
+je	je.0.objekta	en		of
+je	je.0.objekta	en		at
+je	je.0.objekta	en		to
+je	je.0.objekta	en		indefinite preposition
+je	je.0.objekta	en		on
+je	je.0.objekta	de		zu
+je	je.0.objekta	de		um
+je	je.0.objekta	de		von
+je	je.0.objekta	de		an
+je	je.0.objekta	fr		à
+je	je.0.objekta	de		je
+je	je.0.verba	en		indefinite preposition
+je	je.0.verba	en		by
+je	je.0.verba	en		over
+je	je.0.verba	en		about
+je	je.0.verba	en		with
+je	je.0.verba	de		zu
+je	je.0.verba	en		from
+je	je.0.verba	en		on
+je	je.0.verba	en		in
+je	je.0.verba	en		for
+je	je.0.verba	en		at
+je	je.0.verba	de		um
+je	je.0.verba	en		of
+je	je.0.verba	de		von
+je	je.0.verba	de		an
+je	je.0.verba	fr		à
+je	je.0.verba	de		je
+je	je.0.verba	fr		de
+jehovismo	jehov.0ismo	fr		Jéhovisme
+jehovismo	jehov.0ismo.KRI	fr		Jéhovisme
+atestanto de Jehovo	jehov.0isto	fr		témoin de Jéhovah
+jehovano	jehov.0isto	fr		témoin de Jéhovah
+jehovisto	jehov.0isto	fr		témoin de Jéhovah
+atestanto de Jehovo	jehov.0isto.KRI	fr		témoin de Jéhovah
+jehovano	jehov.0isto.KRI	fr		témoin de Jéhovah
+jehovisto	jehov.0isto.KRI	fr		témoin de Jéhovah
+Jehovo	jehov.0o	fr		Jéhovah
+Jehovo	jehov.0o.KRI	fr		Jéhovah
+Jekaterinburgo	jekaterinburg.0o	fr		Iekaterinbourg
+Jekaterinburgo	jekaterinburg.0o	en		Yekaterinburg
+Jekaterinburgo	jekaterinburg.0o	de		Jekaterinburg
+jelpi	jelp.0i	fr		japper
+jelpi	jelp.0i	de		kläffen
+jelpi	jelp.0i	en		yelp
+jelpi	jelp.0i	de		bellen
+jelpi	jelp.0i.FIG	fr		japper
+jelpi	jelp.0i.FIG	de		kläffen
+jelpi	jelp.0i.FIG	en		yelp
+jelpi	jelp.0i.FIG	de		bellen
+jelpi	jelp.0i.ZOO	fr		japper
+jelpi	jelp.0i.ZOO	en		yelp
+jelpi	jelp.0i.ZOO	de		bellen
+jelpi	jelp.0i.ZOO	de		kläffen
+Jemeno	jemen.0o	fr		Yémen
+Jemeno	jemen.0o	en		Yemen
+Jemeno	jemen.0o	de		Jemen
+Jemeno	jemen.0o	fr		République du Yémen
+Jemeno	jemen.0o.GEOG	fr		Yémen
+Jemeno	jemen.0o.GEOG	en		Yemen
+Jemeno	jemen.0o.GEOG	de		Jemen
+Jemeno	jemen.0o.GEOG	fr		République du Yémen
+jen	jen.0	fr		voilà
+jen	jen.0	fr		voici
+jen	jen.0	de		ei kucke da
+jen	jen.0	de		sieh da
+jen	jen.0	de		da
+jen	jen.0	de		hier
+jen... jen...	jen.00	fr		tantôt... tantôt
+jen... jen...	jen.00	fr		parfois... parfois...
+jen... jen...	jen.00	de		nun... dann...
+jen... jen...	jen.00	de		bald... bald...
+jen... jen...	jen.00	de		jetzt... dann...
+jen... jen...	jen.00	de		mal... mal...
+jena	jen.0a	fr	le suivant	suivant
+jena	jen.0a	fr		ci-après
+jena	jen.0a	fr		celui-là
+jena	jen.0a	fr		celui-ci
+jena	jen.0a	de		dieser da
+jena	jen.0a	de		der da
+jena	jen.0a	de		jener
+jene	jen.0e	fr	de la manière suivante	suivante
+jene	jen.0e	de		wie folgt
+jene	jen.0e	de		folgendermaßen
+jeno	jen.0o	fr	la chose suivante	suivante
+jeno	jen.0o	fr	ce qui suit	suit
+jeno	jen.0o	fr		cela
+jeno	jen.0o	fr		ceci
+jeno	jen.0o	de		Folgendes
+jen vi havas	jen.0vihavas	fr	et voilà (face à une déconvenue)	et voilà
+jen vi havas	jen.0vihavas	de		da haben wir den Salat!
+jen vi havas	jen.0vihavas	de	da hast du es	da
+jen vi havas	jen.0vihavas	fr		je l'avais bien dit
+Jeniseja Golfo	jenisej.J0aGolfo	de		Jenissej-Busen
+Jenisejo	jenisej.J0o	fr		Ienisseï
+Jenisejo	jenisej.J0o	de		Jenissej
+jerego	jer.0ego	en		hard sign
+jereto	jer.0eto	en		soft sign
+jerio	jer.0io	en		Yery
+jero	jer.0o	en		yer
+jeralaŝo	jeralasx.0o	de		Bridge
+jeralaŝo	jeralasx.0o	fr		iéralache
+Jeriĥo	jerihx.0o	NULL	NULL	NULL
+Jeriĥo	jerihx.0o.urbo	fr		Jericho
+Jeriĥo	jerihx.0o.urbo	en		Jericho
+Jeriĥo	jerihx.0o.urbo	de		Jericho
+Jerusalemo	jerusa.J0o	en		Jerusalem
+Jeruzalemo	jerusa.J0o	fr		Jérusalem
+Jerusalemo	jerusa.J0o	fr		Jérusalem
+Jeruzalemo	jerusa.J0o	de		Jerusalem
+Jerusalemo	jerusa.J0o	de		Jerusalem
+Jeruzalemo	jerusa.J0o	en		Jerusalem
+Jeruzalemo	jerusa.J0o.GEOG	fr		Jérusalem
+Jerusalemo	jerusa.J0o.GEOG	fr		Jérusalem
+Jeruzalemo	jerusa.J0o.GEOG	de		Jerusalem
+Jerusalemo	jerusa.J0o.GEOG	de		Jerusalem
+Jeruzalemo	jerusa.J0o.GEOG	en		Jerusalem
+Jerusalemo	jerusa.J0o.GEOG	en		Jerusalem
+jes	jes.0	NULL	NULL	NULL
+jes	jes.0.emfazo	NULL	NULL	NULL
+jesa	jes.0a	fr	positif (affirmatif)	positif
+jesa	jes.0a	fr	affirmatif (positif)	affirmatif
+jesa	jes.0a	en		affirmative
+jesa	jes.0a	de		bejahend
+jesa	jes.0a.KOMUNE	fr	positif (affirmatif)	positif
+jesa	jes.0a.KOMUNE	fr	affirmatif (positif)	affirmatif
+jesa	jes.0a.KOMUNE	en		affirmative
+jesa	jes.0a.KOMUNE	de		bejahend
+jesi	jes.0i	en		say yes
+jesi	jes.0i	de		bejahen
+jesi	jes.0i	fr	répondre par oui	oui
+jesi	jes.0i	fr	dire oui	oui
+jesi	jes.0i.KOMUNE	en		say yes
+jesi	jes.0i.KOMUNE	de		bejahen
+jesi	jes.0i.KOMUNE	fr	répondre par oui	oui
+jesi	jes.0i.KOMUNE	fr	dire oui	oui
+jesigi	jes.0igi	fr		confirmer
+jesigi	jes.0igi	en		confirm
+jesigi	jes.0igi	en		certify
+jesigi	jes.0igi	de		bestätigen
+jesigi	jes.0igi.KOMUNE	fr		confirmer
+jesigi	jes.0igi.KOMUNE	en		confirm
+jesigi	jes.0igi.KOMUNE	en		certify
+jesigi	jes.0igi.KOMUNE	de		bestätigen
+jes ja	jes.0ja	NULL	NULL	NULL
+jes ja	jes.0ja.emfaza	en		indeed
+jes ja	jes.0ja.emfaza	en		yes indeed
+jes ja	jes.0ja.emfaza	de		ja genau
+jes ja	jes.0ja.malkonfirmo	fr		si
+jes ja	jes.0ja.malkonfirmo	de		doch
+jeso	jes.0o	fr	réponse positive	positive
+jeso	jes.0o	fr	réponse affirmative	affirmative
+jeso	jes.0o	fr	accord (consentement)	accord
+jeso	jes.0o	fr	oui (subst.)	oui
+jeso	jes.0o	de		Ja
+jeso	jes.0o.KOMUNE	fr	réponse positive	positive
+jeso	jes.0o.KOMUNE	fr	réponse affirmative	affirmative
+jeso	jes.0o.KOMUNE	fr	accord (consentement)	accord
+jeso	jes.0o.KOMUNE	fr	oui (subst.)	oui
+jeso	jes.0o.KOMUNE	de		Ja
+jesulo	jes.0ulo	NULL	NULL	NULL
+jesulo	jes.0ulo.KOMUNE	NULL	NULL	NULL
+kapjesi	jes.kap0i	de		nicken
+kapjesi	jes.kap0i	fr		opiner du chef
+kapjesi	jes.kap0i	fr	répondre par oui (d'un signe de tête)	oui
+kapjesi	jes.kap0i	fr	dire oui (d'un signe de tête)	oui
+kapjesi	jes.kap0i.MIEN	de		nicken
+kapjesi	jes.kap0i.MIEN	fr		opiner du chef
+kapjesi	jes.kap0i.MIEN	fr	répondre par oui (d'un signe de tête)	oui
+kapjesi	jes.kap0i.MIEN	fr	dire oui (d'un signe de tête)	oui
+maljesi	jes.mal0i	fr	répondre par non	non
+maljesi	jes.mal0i	fr	dire non	non
+maljesi	jes.mal0i	en		say no
+maljesi	jes.mal0i	de		verneinen
+maljesi	jes.mal0i.KOMUNE	fr	répondre par non	non
+maljesi	jes.mal0i.KOMUNE	fr	dire non	non
+maljesi	jes.mal0i.KOMUNE	en		say no
+maljesi	jes.mal0i.KOMUNE	de		verneinen
+Jesuo	jesu.0o	fr		Jésus
+Jesuo	jesu.0o	de		Jesus
+Jesuo	jesu.0o	en		Jesus
+Jesuo	jesu.0o.homo	fr		Jésus
+Jesuo	jesu.0o.homo	en		Jesus
+Jesuo	jesu.0o.homo	de		Jesus
+Jesuo	jesu.0o.vorto	fr		Jésus
+Jesuo	jesu.0o.vorto	en		Jesus
+Jesuo	jesu.0o.vorto	de		Jesus
+jeŝivo	jesxiv.0o	fr		jeshiva
+jeŝivo	jesxiv.0o	de		Jeschiwa
+jeŝivo	jesxiv.0o.PED	fr		jeshiva
+jeŝivo	jesxiv.0o.PED	de		Jeschiwa
+jetaviadilo	jet.0avio	en		jet plane
+jetavio	jet.0avio	en		jet plane
+jetaviadilo	jet.0avio	de		Düsenjet
+jetavio	jet.0avio	de		Düsenjet
+jetaviadilo	jet.0avio	de		Jet
+jetavio	jet.0avio	de		Jet
+jetaviadilo	jet.0avio	de		Düsenflugzeug
+jetavio	jet.0avio	de		Düsenflugzeug
+jetaviadilo	jet.0avio	de		Strahlflugzeug
+jetavio	jet.0avio	de		Strahlflugzeug
+jetaviadilo	jet.0avio	fr	jet (avion)	jet
+jetavio	jet.0avio	fr	jet (avion)	jet
+jeti	jet.0i	en	to jet	jet
+jeti	jet.0i	de		jetten
+jetmotoro	jet.0motoro	fr	réacteur (moteur)	réacteur
+jetmotoro	jet.0motoro	en		jet engine
+jetmotoro	jet.0motoro	de		Düsentriebwerk
+jetmotoro	jet.0motoro	de		Strahltriebwerk
+jeto	jet.0o	NULL	NULL	NULL
+jeto	jet.0o.avio	NULL	NULL	NULL
+jeto	jet.0o.reakcio	en		jet propulsion
+jetio	jeti.0o	fr		Yéti
+jetio	jeti.0o	en		Abominable Snowman
+jetio	jeti.0o	en		Yeti
+jetio	jeti.0o	de		Yeti
+jetio	jeti.0o.SNC	fr		Yéti
+jetio	jeti.0o.SNC	en		Abominable Snowman
+jetio	jeti.0o.SNC	en		Yeti
+jetio	jeti.0o.SNC	de		Yeti
+Jezidismo	jezid.0ismo	fr		yézidisme
+Jezidismo	jezid.0ismo	de		Jesidentum
+Jezidismo	jezid.0ismo.REL	fr		yézidisme
+Jezidismo	jezid.0ismo.REL	de		Jesidentum
+jezido	jezid.0o	fr		yézidi
+jezido	jezid.0o	de		Jeside
+jezido	jezid.0o.REL	fr		yézidi
+jezido	jezid.0o.REL	de		Jeside
+jezuito	jezuit.0o	NULL	NULL	NULL
+jezuito	jezuit.0o.REL	fr	jésuite (subst., religieux)	jésuite
+jezuito	jezuit.0o.REL	en		Jesuit
+jezuito	jezuit.0o.REL	de		Jesuit
+jezuito	jezuit.0o.hipokritulo	fr	hypocrite (subst.)	hypocrite
+jezuito	jezuit.0o.hipokritulo	fr	fourbe (subst.)	fourbe
+jezuito	jezuit.0o.hipokritulo	fr	jésuite (fig.)	jésuite
+jezuito	jezuit.0o.hipokritulo	en		jesuit
+jezuito	jezuit.0o.hipokritulo	de		Heuchler
+Jido	jid.0o	de		Jiddisch
+Jido	jid.0o	fr	yiddish (subst.)	yiddish
+Jido	jid.0o	en		Yiddish
+Jido	jid.0o.lingvo	de		Jiddisch
+Jido	jid.0o.lingvo	fr	yiddish (subst.)	yiddish
+Jido	jid.0o.lingvo	en		Yiddish
+Joakimo	joakim.0o	fr		Josquin
+Joakimo	joakim.0o	fr		Joachim
+Joakimo	joakim.0o	de		Joachim
+Joakimo	joakim.0o	en		Joaquin
+Joakimo	joakim.0o	en		Joachim
+Joakimo	joakim.0o.NOM	fr		Josquin
+Joakimo	joakim.0o.NOM	fr		Joachim
+Joakimo	joakim.0o.NOM	de		Joachim
+Joakimo	joakim.0o.NOM	en		Joaquin
+Joakimo	joakim.0o.NOM	en		Joachim
+jodo	jod.0o	fr		iode
+jodo	jod.0o	en		iodine
+jodo	jod.0o	de		Jod
+jodli	jodl.0i	NULL	NULL	NULL
+jodli	jodl.0i.MUZ	fr		iodler
+jodli	jodl.0i.MUZ	en		yodel
+jodli	jodl.0i.MUZ	de		jodeln
+jodoformo	jodofo.0o	fr		iodoforme
+jodoformo	jodofo.0o	en		iodoform
+jodoformo	jodofo.0o	de		Trijodmethan
+jodoformo	jodofo.0o	de		Jodoform
+jogo	jog.0o	fr		yoga
+jogo	jog.0o	en		yoga
+jogo	jog.0o	de		Yoga
+jogo	jog.0o.KOMUNE	fr		yoga
+jogo	jog.0o.KOMUNE	en		yoga
+jogo	jog.0o.KOMUNE	de		Yoga
+Joĉjo	johan.0cxjo	fr		Johnny
+Johanĉjo	johan.0cxjo	fr		Johnny
+Joĉjo	johan.0cxjo	fr		Jeannot
+Johanĉjo	johan.0cxjo	fr		Jeannot
+Johanino	johan.0ino	fr		Jehanne
+Johanino	johan.0ino	fr		Jeanne
+Johanino	johan.0ino	en		Joanna
+Johanino	johan.0ino	en		Joan
+Johanino	johan.0ino	en		Joanne
+Johanino	johan.0ino	de		Johanna
+Johanino	johan.0ino.NOM	fr		Jehanne
+Johanino	johan.0ino.NOM	fr		Jeanne
+Johanino	johan.0ino.NOM	en		Joanna
+Johanino	johan.0ino.NOM	en		Joan
+Johanino	johan.0ino.NOM	en		Joanne
+Johanino	johan.0ino.NOM	de		Johanna
+Johano	johan.0o	fr		Jehan
+Johano	johan.0o	fr		Jean
+Johano	johan.0o	en		John
+Johano	johan.0o	de		Johannes
+Johano	johan.0o.NOM	fr		Jean
+Johano	johan.0o.NOM	en		John
+Johano	johan.0o.NOM	de		Johannes
+Johano	johan.0o.NOM	fr		Jehan
+Johanesburgo	johanesburg.0o	fr		Johannesbourg
+Johanesburgo	johanesburg.0o	en		Johannesburg
+Johanesburgo	johanesburg.0o	de		Johannesburg
+jojko	jojk.0o	fr	yoïk (chant sami)	yoïk
+jojko	jojk.0o	fr	joïk (chant sami)	joïk
+jojko	jojk.0o	en		yoik
+jojko	jojk.0o	en		joik
+jojko	jojk.0o	de		Joik
+jojko	jojk.0o.MUZ	fr	yoïk (chant sami)	yoïk
+jojko	jojk.0o.MUZ	fr	joïk (chant sami)	joïk
+jojko	jojk.0o.MUZ	en		yoik
+jojko	jojk.0o.MUZ	en		joik
+jojko	jojk.0o.MUZ	de		Joik
+Jokohamo	jokoham.0o	fr		Yokohama
+Jokohamo	jokoham.0o	de		Yokohama
+jokto-	jokto.0	fr		yocto-
+jokto-	jokto.0	en		yocto-
+jokto-	jokto.0	de		Yokto-
+jokto-	jokto.0.MEZ	en		yocto-
+jokto-	jokto.0.MEZ	de		Yokto-
+jokto-	jokto.0.MEZ	fr		yocto-
+Jomkipuro	jomkipur.0o	fr		Yom Kippour
+Jomkipuro	jomkipur.0o	de		Jom Kippur
+Jomkipuro	jomkipur.0o.JUD	fr		Yom Kippour
+Jomkipuro	jomkipur.0o.JUD	de		Jom Kippur
+jonigi	jon.0igi	fr	ioniser (transformer en ion)	ioniser
+jonigi	jon.0igi	en		ionize
+jonigi	jon.0igi	de		ionisieren
+jonigi	jon.0igi.KEM	fr	ioniser (transformer en ion)	ioniser
+jonigi	jon.0igi.KEM	en		ionize
+jonigi	jon.0igi.KEM	de		ionisieren
+jono	jon.0o	fr		ion
+jono	jon.0o	en		ion
+jono	jon.0o	de		Ion
+jono	jon.0o.KEM	fr		ion
+jono	jon.0o.KEM	en		ion
+jono	jon.0o.KEM	de		Ion
+jonizi	joniz.0i	fr	ioniser (enrichir en ions)	ioniser
+jonizi	joniz.0i	en		ionize
+jonizi	joniz.0i	de		jonisieren
+jonkvilo	jonkvi.0o	fr		jonquille
+jonkvilo	jonkvi.0o	en		jonquil
+jonkvilo	jonkvi.0o	de		Jonquille
+jonkvilo	jonkvi.0o.BOT	fr		jonquille
+jonkvilo	jonkvi.0o.BOT	en		jonquil
+jonkvilo	jonkvi.0o.BOT	de		Jonquille
+jori	jor.0i	de	(seitlich) ausbrechen	ausbrechen
+jori	jor.0i	de		schlingern
+jori	jor.0i	fr	faire une embardée	embardée
+jori	jor.0i	fr	faire un écart	écart
+jori	jor.0i	de		schleudern
+jori	jor.0i.VET	de	(seitlich) ausbrechen	ausbrechen
+jori	jor.0i.VET	de		schlingern
+jori	jor.0i.VET	en		skid
+jori	jor.0i.VET	en	yaw (skid)	yaw
+jori	jor.0i.VET	fr	faire une embardée	embardée
+jori	jor.0i.VET	fr	faire un écart	écart
+jori	jor.0i.VET	de		schleudern
+joro	jor.0o	fr		embardée
+joro	jor.0o.VET	fr		embardée
+Jordanio	jordan.J0o	fr		Jordanie
+Jordanio	jordan.J0o	en	Jordan (country)	Jordan
+Jordanio	jordan.J0o	de		Jordanien
+Jordanio	jordan.J0o.GEOG	fr		Jordanie
+Jordanio	jordan.J0o.GEOG	en	Jordan (country)	Jordan
+Jordanio	jordan.J0o.GEOG	de		Jordanien
+Okcidenta Jordanio	jordan.Okcidenta_0o	NULL	NULL	NULL
+jordania	jordan.j0a	fr	jordanien (adj.)	jordanien
+jordania	jordan.j0a	en		jordanian
+jordania	jordan.j0a	de		jordanisch
+jordania	jordan.j0a.GEOG	fr	jordanien (adj.)	jordanien
+jordania	jordan.j0a.GEOG	en		jordanian
+jordania	jordan.j0a.GEOG	de		jordanisch
+jordaniano	jordan.j0ano	fr	Jordanien (subst.)	Jordanien
+jordaniano	jordan.j0ano	en		Jordanian
+jordaniano	jordan.j0ano	de		Jordanier
+jordaniano	jordan.j0ano.GEOG	fr	Jordanien (subst.)	Jordanien
+jordaniano	jordan.j0ano.GEOG	en		Jordanian
+jordaniano	jordan.j0ano.GEOG	de		Jordanier
+Jordano	jordan1.J0o	NULL	NULL	NULL
+Jordano	jordan1.J0o.EVI	NULL	NULL	NULL
+Jordano	jordan1.J0o.GEOG	en	Jordan River	Jordan
+Jordano	jordan1.J0o.GEOG	de		Jordan
+Jorko	jork.0o	fr		York
+Jorko	jork.0o	en		York
+Jorko	jork.0o.GEOG	fr		York
+Jorko	jork.0o.GEOG	en		York
+Nov-Jorka Akciborso	jork.nov0akciborso	NULL	NULL	NULL
+Nov-Jorka Akciborso	jork.nov0akciborso.EKON	fr		Bourse de New York
+Nov-Jorka Akciborso	jork.nov0akciborso.EKON	en		Wall street
+Nov-Jorka Akciborso	jork.nov0akciborso.EKON	en		big board
+Nov-Jorka Akciborso	jork.nov0akciborso.EKON	en		NYSE
+Nov-Jorka Akciborso	jork.nov0akciborso.EKON	en	New York Stock Exchange	Stock Exchange
+Nov-Jorka Akciborso	jork.nov0akciborso.EKON	de		Effektenbörse New York
+Nov-Jorka Akciborso	jork.nov0akciborso.EKON	de		Aktienbörse New York
+Nov-Jorka Akciborso	jork.nov0akciborso.EKON	de		New-Yorker Aktienbörse
+Nov-Jorkanino	jork.nov0anino	fr		New Yorkaise
+Nov-Jorkanino	jork.nov0anino	en	New Yorker (woman)	New Yorker
+Nov-Jorkanino	jork.nov0anino.popolanino	fr		New Yorkaise
+Nov-Jorkanino	jork.nov0anino.popolanino	en	New Yorker (woman)	New Yorker
+Nov-Jorkano	jork.nov0ano	fr		New Yorkais
+Nov-Jorkano	jork.nov0ano	en	New Yorker (man)	New Yorker
+Nov-Jorkano	jork.nov0ano.popolano	fr		New Yorkais
+Nov-Jorkano	jork.nov0ano.popolano	en	New Yorker (man)	New Yorker
+Novjorko	jork.nov0o	fr		New-York
+Nov-Jorko	jork.nov0o	fr		New-York
+Novjorko	jork.nov0o.GEOG_sxtato	fr		New-York
+Nov-Jorko	jork.nov0o.GEOG_sxtato	fr		New-York
+Nov-Jorko	jork.nov0o.GEOG_urbo	en		New York
+Novjorko	jork.nov0o.GEOG_urbo	de	Neu-York [ark]	Neu-York
+Nov-Jorko	jork.nov0o.GEOG_urbo	de	Neu-York [ark]	Neu-York
+Novjorko	jork.nov0o.GEOG_urbo	de		New York
+Nov-Jorko	jork.nov0o.GEOG_urbo	de		New York
+Novjorko	jork.nov0o.GEOG_urbo	fr		New-York
+Nov-Jorko	jork.nov0o.GEOG_urbo	fr		New-York
+Novjorko	jork.nov0o.GEOG_urbo	fr		New York
+Nov-Jorko	jork.nov0o.GEOG_urbo	fr		New York
+Novjorko	jork.nov0o.GEOG_urbo	en		New York
+Josuo	josu.0o	NULL	NULL	NULL
+Josuo	josu.0o.nomo	fr		Josué
+Josuo	josu.0o.nomo	en		Joshua
+Josuo	josu.0o.nomo	de		Josua
+joto	jot.0o	fr		iota
+joto	jot.0o	en		iota
+joto	jot.0o.LIN	fr		iota
+joto	jot.0o.LIN	en		iota
+jota-	jota.0	fr		yotta-
+jota-	jota.0	en		yotta-
+jota-	jota.0	de		Yotta-
+jota-	jota.0.MEZ	fr		yotta-
+jota-	jota.0.MEZ	en		yotta-
+jota-	jota.0.MEZ	de		Yotta-
+joviala	jovial.0a	fr		jovial
+joviala	jovial.0a	de		jovial
+jovialeco	jovial.0eco	fr		jovialité
+jovialeco	jovial.0eco	de		Jovialität
+Jozefino	jozef.0ino	de		Josefine
+Jozefino	jozef.0ino.nomo	de		Josefine
+Josefo	jozef.0o	fr		Joseph
+Jozefo	jozef.0o	fr		Joseph
+Josefo	jozef.0o	de		Josef
+Jozefo	jozef.0o	de		Josef
+Josefo	jozef.0o.BIB	fr		Joseph
+Jozefo	jozef.0o.BIB	fr		Joseph
+Josefo	jozef.0o.BIB	de		Josef
+Jozefo	jozef.0o.BIB	de		Josef
+Josefo	jozef.0o.NOM	fr		Joseph
+Josefo	jozef.0o.NOM	de		Josef
+Jozefo	jozef.0o.NOM	fr		Joseph
+Jozefo	jozef.0o.NOM	de		Josef
+ju	ju.0	en		the (more, less)
+ju	ju.0	de	je (... desto)	je
+jubile	jubil.0e	de		jubilierend
+jubili	jubil.0i	fr	se réjouir	réjouir
+jubili	jubil.0i	fr		jubiler
+jubili	jubil.0i	fr		exulter
+jubili	jubil.0i	de		jubilieren
+jubili	jubil.0i	de		jubeln
+jubilado	jubil.0o	fr		jubilation
+jubilo	jubil.0o	fr		exultation
+jubilado	jubil.0o	fr		exultation
+jubilo	jubil.0o	de		Jubel
+jubilado	jubil.0o	de		Jubel
+jubilo	jubil.0o	fr		jubilation
+jubilea	jubile.0a	NULL	NULL	NULL
+jubilea	jubile.0a.KAL	NULL	NULL	NULL
+jubileo	jubile.0o	fr		jubilé
+jubileo	jubile.0o.KAL	fr		jubilé
+jubileo	jubile.0o.KAL	de		Jahrestag
+jubileo	jubile.0o.KAL	de		Gedenkfeier
+jubileo	jubile.0o.KAL	de		Jubiläum
+jubileo	jubile.0o.KAT	fr		jubilé
+jubileo	jubile.0o.KAT	de		Jubeljahr
+jubileo	jubile.0o.KAT	de		Heiliges Jahr
+jubileo	jubile.0o.KAT	de		Erlassjahr
+jubileo	jubile.0o.KAT	de		Halljahr
+juda	jud.0a	fr	juif (adj.)	juif
+juda	jud.0a	en		Jewish
+juda	jud.0a	de		jüdisch
+judaro	jud.0aro	fr	juiverie (le peuple juif)	juiverie
+judaro	jud.0aro	fr	le peuple juif	juif
+judaro	jud.0aro	en		Jewry
+judkvartalo	jud.0ejo	fr	juiverie (quartier juif)	juiverie
+judejo	jud.0ejo	fr	juiverie (quartier juif)	juiverie
+judkvartalo	jud.0ejo	en		ghetto
+judejo	jud.0ejo	en		ghetto
+judkvartalo	jud.0ejo	en		Jewish quarter
+judejo	jud.0ejo	en		Jewish quarter
+judkvartalo	jud.0ejo	de		Judenviertel
+judejo	jud.0ejo	de		Judenviertel
+judkvartalo	jud.0ejo	fr	ghetto (quartier juif)	ghetto
+judejo	jud.0ejo	fr	ghetto (quartier juif)	ghetto
+judejo	jud.0ejo.MOR	fr	juiverie (quartier juif)	juiverie
+judkvartalo	jud.0ejo.MOR	en		ghetto
+judejo	jud.0ejo.MOR	en		ghetto
+judkvartalo	jud.0ejo.MOR	en		Jewish quarter
+judejo	jud.0ejo.MOR	en		Jewish quarter
+judkvartalo	jud.0ejo.MOR	de		Judenviertel
+judejo	jud.0ejo.MOR	de		Judenviertel
+judkvartalo	jud.0ejo.MOR	fr	ghetto (quartier juif)	ghetto
+judejo	jud.0ejo.MOR	fr	ghetto (quartier juif)	ghetto
+judkvartalo	jud.0ejo.MOR	fr	juiverie (quartier juif)	juiverie
+judismo	jud.0ismo	fr		judaïsme
+judismo	jud.0ismo	en		Judaism
+judismo	jud.0ismo	de		jüdische Religion
+judismo	jud.0ismo	de		Judaismus
+judismo	jud.0ismo.REL	fr		judaïsme
+judismo	jud.0ismo.REL	en		Judaism
+judismo	jud.0ismo.REL	de		jüdische Religion
+judismo	jud.0ismo.REL	de		Judaismus
+Judujo	jud.J0ujo	en		Judea
+Judujo	jud.J0ujo	fr		Judée
+Judujo	jud.J0ujo.GEOG	fr		Judée
+Judujo	jud.J0ujo.GEOG	en		Judea
+kontraŭjudismo	jud.kontraux0ismo	fr		antijudaïsme
+kontraŭjudismo	jud.kontraux0ismo	en		Anti-Judaism
+kontraŭjudismo	jud.kontraux0ismo	de		antijudaismus
+kontraŭjudismo	jud.kontraux0ismo.MOR	fr		antijudaïsme
+kontraŭjudismo	jud.kontraux0ismo.MOR	en		Anti-Judaism
+kontraŭjudismo	jud.kontraux0ismo.MOR	de		antijudaismus
+judaismo	judais.0o	fr		judaïsme
+judaismo	judais.0o	en		Judaism
+judaismo	judais.0o	de		jüdische Religion
+judaismo	judais.0o	de		Judaismus
+Judeo	jude.0o	NULL	NULL	NULL
+Judeo	jude.0o.GEOG	fr		Judée
+Judeo	jude.0o.GEOG	de		Judäa
+jufto	juft.0o	NULL	NULL	NULL
+jufto	juft.0o.ledo	en		Russia leather
+jufto	juft.0o.ledo	de		Juchtenleder
+jugi	jug.0i	NULL	NULL	NULL
+jugi	jug.0i.FIG	fr	soumettre (assujettir)	soumettre
+jugi	jug.0i.FIG	fr		asservir
+jugi	jug.0i.FIG	fr		assujettir
+jugi	jug.0i.FIG	fr	subjuguer (assujettir)	subjuguer
+jugi	jug.0i.FIG	en		subjugate
+jugi	jug.0i.FIG	de		unterjochen
+jugi	jug.0i.propre	fr		enjuguer
+jugo	jug.0o	en		subjugation
+jugo	jug.0o	en		Roman yoke
+jugo	jug.0o	en		yoke
+jugo	jug.0o	fr		servitude
+jugo	jug.0o	fr		carcan
+jugo	jug.0o	fr		oppression
+jugo	jug.0o	fr		joug
+jugo	jug.0o	de		Joch
+jugo	jug.0o.areo	en		subjugation
+jugo	jug.0o.areo	en		Roman yoke
+jugo	jug.0o.areo	en		yoke
+jugo	jug.0o.areo	fr		servitude
+jugo	jug.0o.areo	fr		carcan
+jugo	jug.0o.areo	fr		oppression
+jugo	jug.0o.areo	fr		joug
+jugo	jug.0o.areo	de		Joch
+subjugigi	jug.sub0igi	fr	soumettre (assujettir)	soumettre
+subjugigi	jug.sub0igi	fr		asservir
+subjugigi	jug.sub0igi	fr		assujettir
+subjugigi	jug.sub0igi	fr	subjuguer (assujettir)	subjuguer
+subjugigi	jug.sub0igi	en		subjugate
+subjugigi	jug.sub0igi	de		unterjochen
+juglando	juglan.0o	fr		noix
+juglando	juglan.0o	en		walnut
+juglando	juglan.0o	de		Walnuss
+juglandarbo	juglan.0ujo0arbo	fr		noyer
+juglandujo	juglan.0ujo0arbo	fr		noyer
+juglandarbo	juglan.0ujo0arbo	en		walnut
+juglandujo	juglan.0ujo0arbo	en		walnut
+juglandarbo	juglan.0ujo0arbo	de		Walnussbaum
+juglandujo	juglan.0ujo0arbo	de		Walnussbaum
+juglandacoj	juglan1.0oj	fr		juglandacées
+juglandujacoj	juglan1.0oj	fr		juglandacées
+juglandacoj	juglan1.0oj	de		Walnussgewächse
+juglandujacoj	juglan1.0oj	de		Walnussgewächse
+Jugoslavio	jugosla1.J0o	en		Yugoslavia
+Jugoslavio	jugosla1.J0o	de		Jugoslawien
+Jugoslavio	jugosla1.J0o	fr		Yougoslavie
+Jugoslavio	jugosla1.J0o.GEOG	en		Yugoslavia
+Jugoslavio	jugosla1.J0o.GEOG	de		Jugoslawien
+Jugoslavio	jugosla1.J0o.GEOG	fr		Yougoslavie
+jugoslava	jugoslav.0a	de		jugoslawisch
+jugoslavo	jugoslav.0o	de		Jugoslawe
+Jugoslavujo	jugoslav.J0ujo	fr		Yougoslavie
+Jugoslavujo	jugoslav.J0ujo	en		Yugoslavia
+Jugoslavujo	jugoslav.J0ujo	de		Jugoslawien
+Jugoslavujo	jugoslav.J0ujo.GEOG	fr		Yougoslavie
+Jugoslavujo	jugoslav.J0ujo.GEOG	en		Yugoslavia
+Jugoslavujo	jugoslav.J0ujo.GEOG	de		Jugoslawien
+juĝa	jugx.0a	fr		juridique
+juĝa	jugx.0a.JUR	fr		juridique
+juĝa afero	jugx.0aafero	fr		affaire en justice
+juĝa afero	jugx.0aafero	de		Gerichtssache
+juĝa afero	jugx.0aafero.JUR	fr		affaire en justice
+juĝa afero	jugx.0aafero.JUR	de		Gerichtssache
+juĝejo	jugx.0ejo	fr		tribunal
+juĝejo	jugx.0ejo	de		Gericht
+juĝejo	jugx.0ejo.JUR	fr		tribunal
+juĝejo	jugx.0ejo.JUR	de		Gericht
+juĝi	jugx.0i	fr		juger
+juĝi	jugx.0i	en		judge
+juĝi	jugx.0i.JUR	fr		juger
+juĝi	jugx.0i.JUR	en		judge
+juĝi	jugx.0i.JUR	de		richten
+juĝi	jugx.0i.JUR	de		urteilen
+juĝi	jugx.0i.taksi	fr		juger
+juĝi	jugx.0i.taksi	en		judge
+juĝi	jugx.0i.taksi	fr		estimer
+juĝi	jugx.0i.taksi	de		rezensieren
+juĝi	jugx.0i.taksi	de		einschätzen
+juĝi	jugx.0i.taksi	de		beurteilen
+juĝisto	jugx.0isto	fr		juge
+juĝisto	jugx.0isto	de		Richter
+juĝisto	jugx.0isto.JUR	fr		juge
+juĝisto	jugx.0isto.JUR	de		Richter
+juĝo	jugx.0o	fr		jugement
+juĝo	jugx.0o	de		Beurteilung
+juĝo	jugx.0o	de		Urteil
+juĝo	jugx.0o.ago	de		Beurteilung
+juĝo	jugx.0o.ago	de		Urteil
+juĝo	jugx.0o.ago	fr		jugement
+juĝo	jugx.0o.opinio	de		Beurteilung
+juĝo	jugx.0o.opinio	de		Urteil
+juĝo	jugx.0o.opinio	fr		jugement
+juĝokostoj	jugx.0okostoj	fr		dépens
+juĝokostoj	jugx.0okostoj	de		Gerichtskosten
+aljuĝi	jugx.al0i	fr		attribuer
+aljuĝi	jugx.al0i	fr		adjuger
+aljuĝi	jugx.al0i	de	verleihen (Preis)	verleihen
+aljuĝi	jugx.al0i	de		zusprechen
+aljuĝi	jugx.al0i	de		zuerkennen
+antaŭjuĝi	jugx.antaux0i	fr		préjuger
+antaŭjuĝi	jugx.antaux0i	de		vorverurteilen
+antaŭjuĝo	jugx.antaux0o	fr		préjugé
+antaŭjuĝo	jugx.antaux0o	en		prejudice
+antaŭjuĝo	jugx.antaux0o	de		Vorurteil
+antaŭjuĝo	jugx.antaux0o.KOMUNE	fr		préjugé
+antaŭjuĝo	jugx.antaux0o.KOMUNE	en		prejudice
+antaŭjuĝo	jugx.antaux0o.KOMUNE	de		Vorurteil
+misjuĝi	jugx.mis0i	de	falsch urteilen	urteilen
+misjuĝi	jugx.mis0i.KOMUNE	de	falsch urteilen	urteilen
+prijuĝi	jugx.pri0i	fr	juger (estimer)	juger
+prijuĝi	jugx.pri0i	fr	estimer (juger)	estimer
+prijuĝi	jugx.pri0i	de		beurteilen
+prijuĝi	jugx.pri0i.KOMUNE	fr	estimer (juger)	estimer
+prijuĝi	jugx.pri0i.KOMUNE	de		beurteilen
+prijuĝi	jugx.pri0i.KOMUNE	fr	juger (estimer)	juger
+senantaŭjuĝa	jugx.senantaux0a	de		unparteiisch
+senantaŭjuĝa	jugx.senantaux0a	fr		dépourvu de préjugés
+senantaŭjuĝa	jugx.senantaux0a	de		sachlich
+senantaŭjuĝa	jugx.senantaux0a	de		objektiv
+senantaŭjuĝa	jugx.senantaux0a	de		unbefangen
+senantaŭjuĝa	jugx.senantaux0a	de		vorurteilsfrei
+senantaŭjuĝa	jugx.senantaux0a	de		unvoreingenommen
+senantaŭjuĝa	jugx.senantaux0a.KOMUNE	de		unparteiisch
+senantaŭjuĝa	jugx.senantaux0a.KOMUNE	de		vorurteilsfrei
+senantaŭjuĝa	jugx.senantaux0a.KOMUNE	fr		dépourvu de préjugés
+senantaŭjuĝa	jugx.senantaux0a.KOMUNE	de		sachlich
+senantaŭjuĝa	jugx.senantaux0a.KOMUNE	de		objektiv
+senantaŭjuĝa	jugx.senantaux0a.KOMUNE	de		unbefangen
+senantaŭjuĝa	jugx.senantaux0a.KOMUNE	de		unvoreingenommen
+jujubarbo	jujub.0arbo0ujo	fr		jujubier
+jujubujo	jujub.0arbo0ujo	fr		jujubier
+jujubarbo	jujub.0arbo0ujo	en		jujube
+jujubujo	jujub.0arbo0ujo	en		jujube
+jujubarbo	jujub.0arbo0ujo	de		Judendorn
+jujubujo	jujub.0arbo0ujo	de		Judendorn
+jujubarbo	jujub.0arbo0ujo	de		Jujubenbaum
+jujubujo	jujub.0arbo0ujo	de		Jujubenbaum
+jujubo	jujub.0o	fr		jujube
+jujubo	jujub.0o	en		jujube
+jujubo	jujub.0o.BOT	fr		jujube
+jujubo	jujub.0o.BOT	en		jujube
+jujubo	jujub.0o.BOT	de		rote Brustbeere
+jujubo	jujub.0o.BOT	de		Jujube
+juka	juk.0a	fr		prurigineux
+juka	juk.0a	fr	qui démange	démange
+juka	juk.0a	en		itching
+juka	juk.0a	en		itchy
+juka	juk.0a	de		kratzig
+juka	juk.0a	de		juckend
+juka	juk.0a.KOMUNE	fr		prurigineux
+juka	juk.0a.KOMUNE	fr	qui démange	démange
+juka	juk.0a.KOMUNE	en		itching
+juka	juk.0a.KOMUNE	en		itchy
+juka	juk.0a.KOMUNE	de		kratzig
+juka	juk.0a.KOMUNE	de		juckend
+juki	juk.0i	de		jucken
+juki	juk.0i	fr		démanger
+juki	juk.0i	en		itch
+juki	juk.0i.KOMUNE	de		jucken
+juki	juk.0i.KOMUNE	fr		démanger
+juki	juk.0i.KOMUNE	en		itch
+juki	juk.0i.tenti	fr		démanger
+juki	juk.0i.tenti	en		itch
+juki	juk.0i.tenti	de		jucken
+juko	juk.0o	fr		prurit
+juko	juk.0o	fr		démangeaison
+juko	juk.0o	en		itch
+juko	juk.0o	de		Jucken
+juko	juk.0o.KOMUNE	fr		prurit
+juko	juk.0o.KOMUNE	fr		démangeaison
+juko	juk.0o.KOMUNE	en		itch
+juko	juk.0o.KOMUNE	de		Jucken
+jukao	juka.0o	fr		yucca
+jukao	juka.0o.BOT	fr		yucca
+Jukono	jukon.0o	fr	Yukon (fleuve)	Yukon
+Jukono	jukon.0o	en		Yukon River
+Jukono	jukon.0o	de		Yukon-Fluss
+Julo	jul.0o	fr		Yule
+Julo	jul.0o	de		Julfest
+Julo	jul.0o.KAL	fr		Yule
+Julo	jul.0o.KAL	de		Julfest
+julia	juli.0a	NULL	NULL	NULL
+Julio	juli.0o	de		Juli
+julio	juli.0o	fr		juillet
+Julio	juli.0o	fr		juillet
+julio	juli.0o	en		July
+Julio	juli.0o	en		July
+julio	juli.0o	de		Juli
+julio	juli.0o.KAL	fr		juillet
+Julio	juli.0o.KAL	fr		juillet
+julio	juli.0o.KAL	en		July
+Julio	juli.0o.KAL	en		July
+julio	juli.0o.KAL	de		Juli
+Julio	juli.0o.KAL	de		Juli
+Julio	juli1.0o	fr		Jules
+Julio	juli1.0o	de		Julius
+Julio	juli1.0o.NOM	fr		Jules
+Julio	juli1.0o.NOM	de		Julius
+juna	jun.0a	fr	jeune (adj.)	jeune
+juna	jun.0a	en		young
+juna	jun.0a	de		jung
+juna	jun.0a.junagxa	fr	jeune (adj.)	jeune
+juna	jun.0a.junagxa	en		young
+juna	jun.0a.junagxa	de		jung
+juna	jun.0a.juneska	fr	jeune (adj.)	jeune
+juna	jun.0a.juneska	en		young
+juna	jun.0a.juneska	de		jung
+juna	jun.0a.nematura	fr	jeune (adj.)	jeune
+juna	jun.0a.nematura	en		young
+juna	jun.0a.nematura	de		jung
+june	jun.0e	en		youthfully
+june	jun.0e.KOMUNE	en		youthfully
+juneca	jun.0eca	en		youthful
+juneca	jun.0eca	en		young-looking
+juneca	jun.0eca	fr		juvénile
+juneca	jun.0eca.KOMUNE	en		young-looking
+juneca	jun.0eca.KOMUNE	fr		juvénile
+juneca	jun.0eca.KOMUNE	en		youthful
+juneco	jun.0eco	fr	jeunesse (temps de la vie)	jeunesse
+juneco	jun.0eco	de		Jugend
+juneco	jun.0eco.KOMUNE	fr	jeunesse (temps de la vie)	jeunesse
+juneco	jun.0eco.KOMUNE	de		Jugend
+junularo	jun.0ularo	fr	jeunesse (ensemble des jeunes)	jeunesse
+junularo	jun.0ularo	en		youth
+junularo	jun.0ularo	de		Jugend
+junularo	jun.0ularo.KOMUNE	fr	jeunesse (ensemble des jeunes)	jeunesse
+junularo	jun.0ularo.KOMUNE	en		youth
+junularo	jun.0ularo.KOMUNE	de		Jugend
+junulo	jun.0ulo	fr		jeune homme
+junulo	jun.0ulo	fr	jeune (subst., jeune homme)	jeune
+junulo	jun.0ulo	en		youth
+junulo	jun.0ulo	de		Jugendliche(r)
+junulo	jun.0ulo.KOMUNE	fr		jeune homme
+junulo	jun.0ulo.KOMUNE	fr	jeune (subst., jeune homme)	jeune
+junulo	jun.0ulo.KOMUNE	en		youth
+junulo	jun.0ulo.KOMUNE	de		Jugendliche(r)
+maljuna	jun.mal0a	de		alt
+maljuna	jun.mal0a	fr		vieux
+maljuna	jun.mal0a	en		old
+maljuna	jun.mal0a.KOMUNE	fr		vieux
+maljuna	jun.mal0a.KOMUNE	en		old
+maljuna	jun.mal0a.KOMUNE	de		alt
+maljuneco	jun.mal0eco	fr		vieillesse
+maljuneco	jun.mal0eco	de		Alter
+maljuneco	jun.mal0eco.KOMUNE	fr		vieillesse
+maljuneco	jun.mal0eco.KOMUNE	de		Alter
+maljuniĝi	jun.mal0igxi	fr		vieillir
+maljuniĝi	jun.mal0igxi	de		altern
+maljuniĝi	jun.mal0igxi.KOMUNE	fr		vieillir
+maljuniĝi	jun.mal0igxi.KOMUNE	de		altern
+maljunulo	jun.mal0ulo	de		Alter
+maljunulo	jun.mal0ulo	fr	vieux (subst., vieil homme)	vieux
+maljunulo	jun.mal0ulo	fr		vieil homme
+maljunulo	jun.mal0ulo	fr		vieillard
+maljunulo	jun.mal0ulo	en		old person
+maljunulo	jun.mal0ulo.KOMUNE	de		Alter
+maljunulo	jun.mal0ulo.KOMUNE	fr	vieux (subst., vieil homme)	vieux
+maljunulo	jun.mal0ulo.KOMUNE	fr		vieil homme
+maljunulo	jun.mal0ulo.KOMUNE	fr		vieillard
+maljunulo	jun.mal0ulo.KOMUNE	en		old person
+Junano	junan.0o	NULL	NULL	NULL
+jungaĵo	jung.0ajxo	NULL	NULL	NULL
+jungaĵo	jung.0ajxo.ilaro	de		Geschirr
+jungaĵo	jung.0ajxo.jungitaro	de		Gespann
+jungi	jung.0i	fr		atteler
+jungi	jung.0i	en		yoke
+jungi	jung.0i	en		harness
+jungi	jung.0i	de		vorspannen
+jungi	jung.0i	de		anschirren
+jungi	jung.0i	de		einspannen
+jungi	jung.0i.RAJ	fr		atteler
+jungi	jung.0i.RAJ	en		yoke
+jungi	jung.0i.RAJ	en		harness
+jungi	jung.0i.RAJ	de		vorspannen
+jungi	jung.0i.RAJ	de		anschirren
+jungi	jung.0i.RAJ	de		einspannen
+jungi	jung.0i.movaton	fr		atteler
+jungi	jung.0i.movaton	en		yoke
+jungi	jung.0i.movaton	en		harness
+jungi	jung.0i.movaton	de		vorspannen
+jungi	jung.0i.movaton	de		anschirren
+jungi	jung.0i.movaton	de		einspannen
+jungiloj	jung.0ilaro	NULL	NULL	NULL
+jungilaro	jung.0ilaro	NULL	NULL	NULL
+jungiloj	jung.0ilaro.RAJ	de		Pferdegeschirr
+jungilaro	jung.0ilaro.RAJ	de		Pferdegeschirr
+jungiloj	jung.0ilaro.RAJ	de		Zaumzeug
+jungilaro	jung.0ilaro.RAJ	de		Zaumzeug
+jungiloj	jung.0ilaro.RAJ	fr		harnais
+jungilaro	jung.0ilaro.RAJ	fr		harnais
+jungiloj	jung.0ilaro.RAJ	en		yoke
+jungilaro	jung.0ilaro.RAJ	en		yoke
+jungiloj	jung.0ilaro.RAJ	en		harness
+jungilaro	jung.0ilaro.RAJ	en		harness
+jungiloj	jung.0ilaro.RAJ	de		Geschirre
+jungilaro	jung.0ilaro.RAJ	de		Geschirre
+jungitaro	jung.0itaro	fr	attelage (animaux attelés)	attelage
+jungitaro	jung.0itaro	en		team
+jungitaro	jung.0itaro.RAJ	fr	attelage (animaux attelés)	attelage
+jungitaro	jung.0itaro.RAJ	en		team
+jungitaro	jung.0itaro.RAJ	de		Gespann
+maljungi	jung.mal0i	en		unharness
+maljungi	jung.mal0i	fr		dételer
+maljungi	jung.mal0i	de		ausspannen
+maljungi	jung.mal0i	en		unyoke
+maljungi	jung.mal0i.RAJ	fr		dételer
+maljungi	jung.mal0i.RAJ	de		ausspannen
+maljungi	jung.mal0i.RAJ	en		unyoke
+maljungi	jung.mal0i.RAJ	en		unharness
+prijungi	jung.pri0i	NULL	NULL	NULL
+prijungi	jung.pri0i.provizi	NULL	NULL	NULL
+junia	juni.0a	NULL	NULL	NULL
+junio	juni.0o	fr		juin
+Junio	juni.0o	fr		juin
+junio	juni.0o	en		June
+Junio	juni.0o	en		June
+junio	juni.0o	de		Juni
+Junio	juni.0o	de		Juni
+junio	juni.0o.KAL	fr		juin
+Junio	juni.0o.KAL	fr		juin
+junio	juni.0o.KAL	en		June
+Junio	juni.0o.KAL	en		June
+junio	juni.0o.KAL	de		Juni
+Junio	juni.0o.KAL	de		Juni
+junipero	junipe.0o	en		juniper
+junipero	junipe.0o	de		Wacholder
+junipero	junipe.0o	fr		genévrier
+junipero	junipe.0o.BOT	en		juniper
+junipero	junipe.0o.BOT	de		Wacholder
+junipero	junipe.0o.BOT	fr		genévrier
+junko	junk.0o	fr		jonc
+junko	junk.0o	en	rush (grassy plant)	rush
+junko	junk.0o	de		Binse
+junko	junk.0o.BOT	fr		jonc
+junko	junk.0o.BOT	en	rush (grassy plant)	rush
+junko	junk.0o.BOT	de		Binse
+junkacoj	junkac.0oj	fr		juncacées
+junkacoj	junkac.0oj	en		rushes
+junkacoj	junkac.0oj	en		rush family
+junkacoj	junkac.0oj	en		Juncaceae
+junkacoj	junkac.0oj	de		Binsengewächse
+junkro	junkr.0o	fr		junker
+junkro	junkr.0o	de		Junker
+junto	junt.0o	de		Schnittstelle
+junto	junt.0o	de		Verbindung
+junto	junt.0o	de		Stoß
+junto	junt.0o	de		Naht
+junto	junt.0o	de		Junktur
+junto	junt.0o	de		Fuge
+junto	junt.0o	fr	joint (subst.)	joint
+junto	junt.0o	fr	jonction (interface)	jonction
+junto	junt.0o.ilo	de		Schnittstelle
+junto	junt.0o.ilo	de		Verbindung
+junto	junt.0o.ilo	de		Stoß
+junto	junt.0o.ilo	de		Naht
+junto	junt.0o.ilo	de		Junktur
+junto	junt.0o.ilo	de		Fuge
+junto	junt.0o.ilo	fr	joint (subst.)	joint
+junto	junt.0o.ilo	fr	jonction (interface)	jonction
+junto	junt.0o.kunigo	de		Verbindung
+junto	junt.0o.kunigo	de		Stoß
+junto	junt.0o.kunigo	de		Naht
+junto	junt.0o.kunigo	de		Junktur
+junto	junt.0o.kunigo	de		Fuge
+junto	junt.0o.kunigo	fr	joint (subst.)	joint
+junto	junt.0o.kunigo	fr	jonction (interface)	jonction
+junto	junt.0o.kunigo	de		Schnittstelle
+junuliĉo	junulicx.0o	NULL	NULL	NULL
+jupo	jup.0o	en		skirt
+jupo	jup.0o	de		Rock
+jupo	jup.0o	fr		jupe
+jupo	jup.0o.TEKS	de		Rock
+jupo	jup.0o.TEKS	fr		jupe
+jupo	jup.0o.TEKS	en		skirt
+subjupo	jup.sub0o	fr		jupon
+subjupo	jup.sub0o	en		underskirt
+subjupo	jup.sub0o	en		petticoat
+subjupo	jup.sub0o	de		Unterrock
+subjupo	jup.sub0o.TEKS	fr		jupon
+subjupo	jup.sub0o.TEKS	en		underskirt
+subjupo	jup.sub0o.TEKS	en		petticoat
+subjupo	jup.sub0o.TEKS	de		Unterrock
+Jupitero	jupiter.0o	fr		Jupiter
+Jupitero	jupiter.0o	en		Jupiter
+Jupitero	jupiter.0o	de		Jupiter
+Jupitero	jupiter.0o.mita	fr		Jupiter
+Jupitero	jupiter.0o.mita	en		Jupiter
+Jupitero	jupiter.0o.mita	de		Jupiter
+jura	jur.0a	en		legal
+jura	jur.0a	fr		juridique
+jura	jur.0a.JUR	en		legal
+jura	jur.0a.JUR	de		juristisch
+jura	jur.0a.JUR	fr		juridique
+jura	jur.0a.KOMUNE	de		rechtlich
+jura	jur.0a.KOMUNE	fr		juridique
+jura	jur.0a.KOMUNE	en		legal
+juristo	jur.0isto	fr		juriste
+juristo	jur.0isto	en		lawyer
+juristo	jur.0isto	en		jurist
+juristo	jur.0isto	de		Jurist
+juristo	jur.0isto.JUR	fr		juriste
+juristo	jur.0isto.JUR	en		lawyer
+juristo	jur.0isto.JUR	en		jurist
+juristo	jur.0isto.JUR	de		Jurist
+juro	jur.0o	fr	droit (subst., justice)	droit
+juro	jur.0o	en		law
+juro	jur.0o	de		Recht
+juro	jur.0o.JUR	fr	droit (subst., justice)	droit
+juro	jur.0o.JUR	en		law
+juro	jur.0o.JUR	de		Recht
+juroscienco	jur.0oscienco	de		Rechtswissenschaft
+juroscienco	jur.0oscienco	en		legal science
+juroscienco	jur.0oscienco	de		Jura
+juroscienco	jur.0oscienco	fr	droit (discipline)	droit
+juroscienco	jur.0oscienco.SCI	en		legal science
+juroscienco	jur.0oscienco.SCI	de		Jura
+juroscienco	jur.0oscienco.SCI	fr	droit (discipline)	droit
+juroscienco	jur.0oscienco.SCI	de		Rechtswissenschaft
+internacia publika juro	jur.internacia_0o	en		international law
+internacia juro	jur.internacia_0o	en		international law
+internacia publika juro	jur.internacia_0o	de		Völkerrecht
+internacia juro	jur.internacia_0o	de		Völkerrecht
+kanona juro	jur.kanona_0o	fr		droit canonique
+kanona juro	jur.kanona_0o	en		canon law
+kanona juro	jur.kanona_0o	de		kanonisches Recht
+kutimjuro	jur.kutim0o	fr		droit coutumier
+kutimjuro	jur.kutim0o	en		common law
+kutimjuro	jur.kutim0o	de		Gewohnheitsrecht
+natura juro	jur.natura_0o	fr		droit naturel
+natura juro	jur.natura_0o	en		natural law
+natura juro	jur.natura_0o	de		natürliches Recht
+romana juro	jur.roma_0o	fr		droit romain
+roma juro	jur.roma_0o	fr		droit romain
+romana juro	jur.roma_0o	en		roman law
+roma juro	jur.roma_0o	en		roman law
+romana juro	jur.roma_0o	de		römisches Recht
+roma juro	jur.roma_0o	de		römisches Recht
+jurisdikcio	jurisdikci.0o	NULL	NULL	NULL
+jurisdikcio	jurisdikci.0o.JUR	fr		juridiction
+jurisdikcio	jurisdikci.0o.JUR	en		jurisdiction
+jurisdikcio	jurisdikci.0o.JUR	de		Jurisdiktion
+jurisdikcio	jurisdikci.0o.potenco	fr		pouvoir judiciaire
+jurisdikcio	jurisdikci.0o.potenco	en		judiciary
+jurisdikcio	jurisdikci.0o.potenco	de		Judikative
+jurisdikcio	jurisdikci.0o.potenco	de		rechtsprechende Gewalt
+jurisprudenco	jurisprudenc.0o	fr		jurisprudence
+jurisprudenco	jurisprudenc.0o	de		Jurisprudenz
+jurisprudenco	jurisprudenc.0o	de		Rechtswissenschaft
+jurisprudenco	jurisprudenc.0o.JUR	fr		jurisprudence
+jurisprudenco	jurisprudenc.0o.JUR	de		Jurisprudenz
+jurisprudenco	jurisprudenc.0o.JUR	de		Rechtswissenschaft
+jurisprudenco	jurisprudenc.0o.SCI	fr		jurisprudence
+jurisprudenco	jurisprudenc.0o.SCI	de		Jurisprudenz
+jurisprudenco	jurisprudenc.0o.SCI	de		Rechtswissenschaft
+jurto	jurt.0o	fr		yourte
+jurto	jurt.0o	de		Jurte
+jurto	jurt.0o.ARKI	fr		yourte
+jurto	jurt.0o.ARKI	de		Jurte
+justa	just.0a	fr		légitime
+justa	just.0a	fr		juste
+justa	just.0a	en		just
+justa	just.0a	de		gerecht
+justa	just.0a	de		recht
+justeco	just.0eco	fr	justice (caractère juste)	justice
+justeco	just.0eco	en		justice
+justeco	just.0eco	de		Gerechtigkeit
+maljusta	just.mal0a	de		ungerecht
+maljusta	just.mal0a	de		unrecht
+maljusta	just.mal0a	fr		illégitime
+maljusta	just.mal0a	fr		injuste
+maljusta	just.mal0a	en		unjust
+maljustaĵo	just.mal0ajxo	fr	injustice (acte d'injustice)	injustice
+maljustaĵo	just.mal0ajxo	fr	acte d'injustice	injustice
+maljustaĵo	just.mal0ajxo	en		injustice
+maljustaĵo	just.mal0ajxo	de		Unrecht
+maljusteco	just.mal0eco	fr	injustice (caractère injuste)	injustice
+maljusteco	just.mal0eco	en		injustice
+maljusteco	just.mal0eco	de		Ungerechtigkeit
+Justeno	justen.0o	NULL	NULL	NULL
+Justeno	justen.0o.NOM	fr		Justin
+justico	justic.0o	fr	justice (institution)	justice
+justico	justic.0o	en		criminal justice system
+justico	justic.0o	de		Justiz
+justico	justic.0o.JUR	fr	justice (institution)	justice
+justico	justic.0o.JUR	en		criminal justice system
+justico	justic.0o.JUR	de		Justiz
+Justiniano	justinian.0o	fr		Justinien
+Justiniano	justinian.0o	en		Justinian
+Justiniano	justinian.0o	de		Justinian
+Justiniano	justinian.0o.NOM	fr		Justinien
+Justiniano	justinian.0o.NOM	en		Justinian
+Justiniano	justinian.0o.NOM	de		Justinian
+Justiniano	justinian.0o.PERS	fr		Justinien
+Justiniano	justinian.0o.PERS	en		Justinian
+Justiniano	justinian.0o.PERS	de		Justinian
+juto	jut.0o	de		Bastgewebe
+juto	jut.0o	de		Bastfaser
+juto	jut.0o	de		Jute
+juto	jut.0o	de		Jutefaser
+juto	jut.0o	fr		jute
+juto	jut.0o	en		jute
+juto	jut.0o.BOT	de		Bastfaser
+juto	jut.0o.BOT	de		Jute
+juto	jut.0o.BOT	de		Jutefaser
+juto	jut.0o.BOT	de		Jute
+juto	jut.0o.BOT	fr		jute
+juto	jut.0o.BOT	en		jute
+juto	jut.0o.BOT	de		Bastgewebe
+juto	jut.0o.TEKS	de		Bastfaser
+juto	jut.0o.TEKS	de		Jute
+juto	jut.0o.TEKS	de		Jutefaser
+juto	jut.0o.TEKS	fr		jute
+juto	jut.0o.TEKS	en		jute
+juto	jut.0o.TEKS	de		Bastgewebe
+Jutubo	jutub.0o	fr		Youtube
+Jutubo	jutub.0o	en		Youtube
+Jutubo	jutub.0o.RET	fr		Youtube
+Jutubo	jutub.0o.RET	en		Youtube
+juvelejo	juvel.0ejo	fr	joaillerie (magasin)	joaillerie
+juvelejo	juvel.0ejo	fr		bijouterie
+juvelejo	juvel.0ejo	en		jewelry shop
+juvelejo	juvel.0ejo	de		Schmuckgeschäft
+juvelejo	juvel.0ejo	de		Juweliergeschäft
+juvelejo	juvel.0ejo	de		Juwelierladen
+juvelejo	juvel.0ejo.vendejo	fr	joaillerie (magasin)	joaillerie
+juvelejo	juvel.0ejo.vendejo	fr		bijouterie
+juvelejo	juvel.0ejo.vendejo	en		jewelry shop
+juvelejo	juvel.0ejo.vendejo	de		Schmuckgeschäft
+juvelejo	juvel.0ejo.vendejo	de		Juweliergeschäft
+juvelejo	juvel.0ejo.vendejo	de		Juwelierladen
+juvelisto	juvel.0isto	de		Juwelier
+juvelisto	juvel.0isto	fr		joaillier
+juvelisto	juvel.0isto	fr		bijoutier
+juvelisto	juvel.0isto	en		jeweler
+juvelisto	juvel.0isto	de		Schmuckhändler
+juvelisto	juvel.0isto.KOMUNE	de		Juwelier
+juvelisto	juvel.0isto.KOMUNE	fr		joaillier
+juvelisto	juvel.0isto.KOMUNE	fr		bijoutier
+juvelisto	juvel.0isto.KOMUNE	en		jeweler
+juvelisto	juvel.0isto.KOMUNE	de		Schmuckhändler
+juvelo	juvel.0o	fr		joyau
+juvelo	juvel.0o	fr		bijou
+juvelo	juvel.0o	en		jewel
+juvelo	juvel.0o	de		Schmuckstück
+juvelo	juvel.0o	de		Kleinod
+juvelo	juvel.0o	de		Juwel
+juvelo	juvel.0o.BELA	fr		joyau
+juvelo	juvel.0o.BELA	fr		bijou
+juvelo	juvel.0o.BELA	en		jewel
+juvelo	juvel.0o.BELA	de		Schmuckstück
+juvelo	juvel.0o.BELA	de		Kleinod
+juvelo	juvel.0o.BELA	de		Juwel
+juvelo	juvel.0o.FIG	fr		joyau
+juvelo	juvel.0o.FIG	fr		bijou
+juvelo	juvel.0o.FIG	en		jewel
+juvelo	juvel.0o.FIG	de		Schmuckstück
+juvelo	juvel.0o.FIG	de		Kleinod
+juvelo	juvel.0o.FIG	de		Juwel
+juvelujo	juvel.0ujo	fr	écrin (à bijoux)	écrin
+juvelujo	juvel.0ujo	fr		boite à bijoux
+juvelujo	juvel.0ujo	de		Schmuckkästchen
+juvelujo	juvel.0ujo	en		jewelry box
+juvelujo	juvel.0ujo	de		Juwelenkästchen
+juvelujo	juvel.0ujo	de		Schmuckschatulle
+juvelujo	juvel.0ujo.MIN	fr	écrin (à bijoux)	écrin
+juvelujo	juvel.0ujo.MIN	fr		boite à bijoux
+juvelujo	juvel.0ujo.MIN	de		Schmuckkästchen
+juvelujo	juvel.0ujo.MIN	en		jewelry box
+juvelujo	juvel.0ujo.MIN	de		Juwelenkästchen
+juvelujo	juvel.0ujo.MIN	de		Schmuckschatulle
+ĵo	jx.0	NULL	NULL	NULL
+ĵaboto	jxabot.0o	en		jabot
+ĵaboto	jxabot.0o	de		Rüschenhemdkrause
+ĵaboto	jxabot.0o	de		Jabot
+ĵaboto	jxabot.0o	fr	jabot (de vêtement)	jabot
+ĵaboto	jxabot.0o.TEKS	de		Rüschenhemdkrause
+ĵaboto	jxabot.0o.TEKS	de		Jabot
+ĵaboto	jxabot.0o.TEKS	fr	jabot (de vêtement)	jabot
+ĵaboto	jxabot.0o.TEKS	en		jabot
+ĵabutikabujo	jxabutikab.0arbo	fr		vigne brésilienne
+ĵabutikabarbo	jxabutikab.0arbo	fr		vigne brésilienne
+ĵabutikabujo	jxabutikab.0arbo	fr		jaboticaba
+ĵabutikabarbo	jxabutikab.0arbo	fr		jaboticaba
+ĵabutikabujo	jxabutikab.0arbo.BOT	fr		vigne brésilienne
+ĵabutikabarbo	jxabutikab.0arbo.BOT	fr		vigne brésilienne
+ĵabutikabujo	jxabutikab.0arbo.BOT	fr		jaboticaba
+ĵabutikabarbo	jxabutikab.0arbo.BOT	fr		jaboticaba
+ĵabutikabo	jxabutikab.0o	fr		jaboticaba
+ĵabutikabo	jxabutikab.0o	en		jabuticaba
+ĵabutikabo	jxabutikab.0o.KUI	fr		jaboticaba
+ĵabutikabo	jxabutikab.0o.KUI	en		jabuticaba
+ĵako	jxak.0o	fr		justaucorps
+ĵako	jxak.0o	fr		redingote
+ĵako	jxak.0o	en		topcoat
+ĵako	jxak.0o	de		Jackett
+ĵako	jxak.0o	de		Sakko
+ĵako	jxak1.0o	fr		connecteur jack
+ĵako	jxak1.0o	fr		jack
+ĵako	jxak1.0o	en		jack
+ĵako	jxak1.0o	fr		prise jack
+ĵako	jxak1.0o	fr		fiche jack
+ĵako	jxak1.0o.sxtopilingo	fr		connecteur jack
+ĵako	jxak1.0o.sxtopilingo	fr		jack
+ĵako	jxak1.0o.sxtopilingo	en		jack
+ĵako	jxak1.0o.sxtopilingo	de		Buchse
+ĵako	jxak1.0o.sxtopilingo	fr		prise jack
+ĵako	jxak1.0o.sxtopilingo	fr		fiche jack
+ĵako	jxak1.0o.sxtopilo	fr		connecteur jack
+ĵako	jxak1.0o.sxtopilo	fr		jack
+ĵako	jxak1.0o.sxtopilo	en		jack
+ĵako	jxak1.0o.sxtopilo	de		Stöpsel
+ĵako	jxak1.0o.sxtopilo	de	Klinke (Stecker)	Klinke
+ĵako	jxak1.0o.sxtopilo	fr		prise jack
+ĵako	jxak1.0o.sxtopilo	fr		fiche jack
+ĵaketo	jxaket.0o	en		jacket
+ĵaketo	jxaket.0o.vira	en		jacket
+ĵaketo	jxaket.0o.vira	fr	habit (vêt. d'homme, jaquette)	habit
+ĵaketo	jxaket.0o.vira	fr	jaquette (vêt. d'homme)	jaquette
+ĵaketo	jxaket.0o.vira	de		Cut
+ĵaketo	jxaket.0o.virina	en		jacket
+ĵaketo	jxaket.0o.virina	fr	jaquette (vêt. de femme)	jaquette
+ĵaketo	jxaket.0o.virina	de		Damenjackett
+ĵaluza	jxaluz.0a	en		jealous
+ĵaluza	jxaluz.0a	fr		jaloux
+ĵaluza	jxaluz.0a	de		eifersüchtig
+ĵaluza	jxaluz.0a.PSI_KOMUNE	fr		jaloux
+ĵaluza	jxaluz.0a.PSI_KOMUNE	de		eifersüchtig
+ĵaluza	jxaluz.0a.PSI_KOMUNE	en		jealous
+ĵaluza	jxaluz.0a.PSI_ame	fr		jaloux
+ĵaluza	jxaluz.0a.PSI_ame	de		eifersüchtig
+ĵaluza	jxaluz.0a.PSI_ame	en		jealous
+ĵaluzi	jxaluz.0i	fr	être jaloux (de)	jaloux
+ĵaluzi	jxaluz.0i	en	be jealous	jealous
+ĵaluzi	jxaluz.0i	de		eifersüchtig sein
+ĵaluzi	jxaluz.0i.KOMUNE	fr	être jaloux (de)	jaloux
+ĵaluzi	jxaluz.0i.KOMUNE	en	be jealous	jealous
+ĵaluzi	jxaluz.0i.KOMUNE	de		eifersüchtig sein
+ĵaluzo	jxaluz.0o	fr		jalousie
+ĵaluzo	jxaluz.0o	en		jealousy
+ĵaluzo	jxaluz.0o	de		Eifersucht
+ĵaluzo	jxaluz.0o.KOMUNE	fr		jalousie
+ĵaluzo	jxaluz.0o.KOMUNE	en		jealousy
+ĵaluzo	jxaluz.0o.KOMUNE	de		Eifersucht
+ĵaluzio	jxaluzi.0o	de		Jalousie
+ĵaluzio	jxaluzi.0o	fr	jalousie (de fenêtre)	jalousie
+ĵaluzio	jxaluzi.0o	en		Venetian blind
+ĵaluzio	jxaluzi.0o	en		louvre
+ĵaluzio	jxaluzi.0o	en		jalousie
+ĵaluzio	jxaluzi.0o.ARKI	de		Jalousie
+ĵaluzio	jxaluzi.0o.ARKI	fr	jalousie (de fenêtre)	jalousie
+ĵaluzio	jxaluzi.0o.ARKI	en		Venetian blind
+ĵaluzio	jxaluzi.0o.ARKI	en		louvre
+ĵaluzio	jxaluzi.0o.ARKI	en		jalousie
+ĵami	jxam.0i	fr	brouiller (télécom.)	brouiller
+ĵami	jxam.0i.TEL	fr	brouiller (télécom.)	brouiller
+ĵamboreo	jxambo.0o	fr		jamboree
+ĵamboreo	jxambo.0o	en		jamboree
+ĵamboreo	jxambo.0o	de		Pfadfinderkongress
+ĵargono	jxargo.0o	NULL	NULL	NULL
+ĵargono	jxargo.0o.pigxino	fr		sabir
+ĵargono	jxargo.0o.pigxino	en		pidgin
+ĵargono	jxargo.0o.pigxino	en		lingua franca
+ĵargono	jxargo.0o.pigxino	de		Lingua Franca
+ĵargono	jxargo.0o.pigxino	de		Pidgin
+ĵargono	jxargo.0o.socia	fr		argot
+ĵargono	jxargo.0o.socia	fr		jargon
+ĵargono	jxargo.0o.socia	de		Jargon
+ĵartelo	jxartel.0o	fr		jarretelle
+ĵartelo	jxartel.0o	en		garter belt
+ĵartelo	jxartel.0o	de		Straps
+ĵazisto	jxaz.0isto	de		Jazzer
+ĵazisto	jxaz.0isto	de		Jazz-Musiker
+ĵazisto	jxaz.0isto	fr		jazz-man
+ĵazisto	jxaz.0isto	en		jazz musician
+ĝazo	jxaz.0o	fr		jazz
+ĵazo	jxaz.0o	fr		jazz
+ĝazo	jxaz.0o	en		jazz
+ĵazo	jxaz.0o	en		jazz
+ĝazo	jxaz.0o	de		Jazz
+ĵazo	jxaz.0o	de		Jazz
+Nov-Orleana ĵazo	jxaz.novorleana0o	fr	jazz Nouvelle-Orléans	Nouvelle-Orléans
+Nov-Orleana ĵazo	jxaz.novorleana0o	fr	jazz New Orleans	New Orleans
+Nov-Orleana ĵazo	jxaz.novorleana0o	en		New Orleans jazz
+Nov-Orleana ĵazo	jxaz.novorleana0o	de		New-Orleans-Jazz
+ĵeleo	jxele.0o	fr	gelée (de fruits)	gelée
+ĵeleo	jxele.0o	en		jelly
+ĵeleo	jxele.0o	de		Gelee
+ĵeleo	jxele.0o.KUI	fr	gelée (de fruits)	gelée
+ĵeleo	jxele.0o.KUI	en		jelly
+ĵeleo	jxele.0o.KUI	de		Gelee
+ĵerzo	jxerz.0o	fr	jersey (tissu, vêtement)	jersey
+ĵerzo	jxerz.0o	en		jersey
+ĵerzo	jxerz.0o.TEKS_sxtofo	fr	jersey (tissu, vêtement)	jersey
+ĵerzo	jxerz.0o.TEKS_sxtofo	en		jersey
+ĵerzo	jxerz.0o.TEKS_sxtofo	de	Jersey (Stoff)	Jersey
+ĵerzo	jxerz.0o.TEKS_vesto	fr	jersey (tissu, vêtement)	jersey
+ĵerzo	jxerz.0o.TEKS_vesto	en		jersey
+Ĵerzejo	jxerzej.0o	fr		Jersey
+Ĵerzejo	jxerzej.0o	en		Jersey
+Ĵerzejo	jxerzej.0o.GEOG	fr		Jersey
+Ĵerzejo	jxerzej.0o.GEOG	en		Jersey
+Novĵerzejo	jxerzej.nov0o	fr		Nouveau Jersey
+Novĵerzejo	jxerzej.nov0o	fr		New Jersey
+Novĵerzejo	jxerzej.nov0o	en		New Jersey
+Novĵerzejo	jxerzej.nov0o.GEOG	fr		Nouveau Jersey
+Novĵerzejo	jxerzej.nov0o.GEOG	fr		New Jersey
+Novĵerzejo	jxerzej.nov0o.GEOG	en		New Jersey
+ĵetegi	jxet.0egi	fr		arrojar
+ĵetegi	jxet.0egi	en		hurl
+ĵetegi	jxet.0egi	de	reißen (werfen)	reißen
+ĵetegi	jxet.0egi.KOMUNE	fr		arrojar
+ĵetegi	jxet.0egi.KOMUNE	en		hurl
+ĵetegi	jxet.0egi.KOMUNE	de	reißen (werfen)	reißen
+ĵeti	jxet.0i	de		werfen
+ĵeti	jxet.0i	fr	jeter (lancer)	jeter
+ĵeti	jxet.0i	en		toss
+ĵeti	jxet.0i	en		pitch
+ĵeti	jxet.0i	en		throw
+ĵeti	jxet.0i	de		schmeißen
+ĵeti	jxet.0i.MAT	de		werfen
+ĵeti	jxet.0i.MAT	fr	jeter (lancer)	jeter
+ĵeti	jxet.0i.MAT	fr	jeter (sur, dans)	jeter
+ĵeti	jxet.0i.MAT	en	map (onto, into)	map
+ĵeti	jxet.0i.MAT	de	mappen (auf)	mappen
+ĵeti	jxet.0i.MAT	de	abbilden (auf)	abbilden
+ĵeti	jxet.0i.MAT	en		toss
+ĵeti	jxet.0i.MAT	en		pitch
+ĵeti	jxet.0i.MAT	en		throw
+ĵeti	jxet.0i.MAT	de		schmeißen
+ĵeti	jxet.0i.agon	de		werfen
+ĵeti	jxet.0i.agon	fr	jeter (lancer)	jeter
+ĵeti	jxet.0i.agon	en		toss
+ĵeti	jxet.0i.agon	en		pitch
+ĵeti	jxet.0i.agon	en		throw
+ĵeti	jxet.0i.agon	de		schmeißen
+ĵeti	jxet.0i.pusxi	de		werfen
+ĵeti	jxet.0i.pusxi	fr	jeter (lancer)	jeter
+ĵeti	jxet.0i.pusxi	en		toss
+ĵeti	jxet.0i.pusxi	en		pitch
+ĵeti	jxet.0i.pusxi	en		throw
+ĵeti	jxet.0i.pusxi	de		schmeißen
+ĵeti	jxet.0i.sia_korpo	fr	jeter (lancer)	jeter
+ĵeti	jxet.0i.sia_korpo	en		toss
+ĵeti	jxet.0i.sia_korpo	en		pitch
+ĵeti	jxet.0i.sia_korpo	en		throw
+ĵeti	jxet.0i.sia_korpo	de		schmeißen
+ĵeti	jxet.0i.sia_korpo	de		werfen
+ĵeti	jxet.0i.tra_aero	fr	jeter (lancer)	jeter
+ĵeti	jxet.0i.tra_aero	en		toss
+ĵeti	jxet.0i.tra_aero	en		pitch
+ĵeti	jxet.0i.tra_aero	en		throw
+ĵeti	jxet.0i.tra_aero	de		schmeißen
+ĵeti	jxet.0i.tra_aero	de		werfen
+ĵetiĝadi	jxet.0igxadi	fr	s'agiter (dans son lit, par ex.)	agiter
+ĵetiĝadi	jxet.0igxadi	en		roll
+ĵetiĝadi	jxet.0igxadi	en		pace
+ĵetiĝadi	jxet.0igxadi	de	sich schütteln	schütteln
+ĵetiĝadi	jxet.0igxadi.KOMUNE	fr	s'agiter (dans son lit, par ex.)	agiter
+ĵetiĝadi	jxet.0igxadi.KOMUNE	en		roll
+ĵetiĝadi	jxet.0igxadi.KOMUNE	en		pace
+ĵetiĝadi	jxet.0igxadi.KOMUNE	de	sich schütteln	schütteln
+ĵetiĝi	jxet.0igxi	fr	se jeter	jeter
+ĵetiĝi	jxet.0igxi	en	get thrown	thrown
+ĵetiĝi	jxet.0igxi.KOMUNE	fr	se jeter	jeter
+ĵetiĝi	jxet.0igxi.KOMUNE	en	get thrown	thrown
+ĵeto	jxet.0o	NULL	NULL	NULL
+ĵeto	jxet.0o.MAT	de		Abbildung
+ĵeto	jxet.0o.MAT	fr	application (math.)	application
+ĵeto	jxet.0o.MAT	en		mapping
+ĵeto	jxet.0o.ago	fr	jet (action de jeter)	jet
+ĵeto	jxet.0o.ago	en		toss
+ĵeto	jxet.0o.ago	en		pitch
+ĵeto	jxet.0o.ago	en		throw
+ĵeto	jxet.0o.ago	de		Wurf
+akvoĵetilo	jxet.akvo0ilo	fr		canon à eau
+akvoĵetilo	jxet.akvo0ilo	de		Wasserwerfer
+akvoĵetilo	jxet.akvo0ilo.MAS	fr		canon à eau
+akvoĵetilo	jxet.akvo0ilo.MAS	de		Wasserwerfer
+deĵeti	jxet.de0i	fr	laisser choir	choir
+deĵeti	jxet.de0i	fr	ôter (de soi)	ôter
+deĵeti	jxet.de0i	en		throw off
+deĵeti	jxet.de0i	de	herunter werfen	werfen
+deĵeti	jxet.de0i	de		abschütteln
+deĵeti	jxet.de0i	de		abwerfen
+deĵeti	jxet.de0i.KOMUNE	fr	ôter (de soi)	ôter
+deĵeti	jxet.de0i.KOMUNE	en		throw off
+deĵeti	jxet.de0i.KOMUNE	de	herunter werfen	werfen
+deĵeti	jxet.de0i.KOMUNE	de		abschütteln
+deĵeti	jxet.de0i.KOMUNE	de		abwerfen
+deĵeti	jxet.de0i.KOMUNE	fr	laisser choir	choir
+disĵeta	jxet.dis0a	NULL	NULL	NULL
+disĵeta	jxet.dis0a.MAT	fr		injectif
+disĵeta	jxet.dis0a.MAT	de		injektiv
+disĵeta	jxet.dis0a.MAT	en		injective
+disĵeti	jxet.dis0i	fr		éparpiller
+disĵeti	jxet.dis0i	fr	jeter (en tous sens)	jeter
+disĵeti	jxet.dis0i	en		scatter
+disĵeti	jxet.dis0i	en	(broad)cast	cast
+disĵeti	jxet.dis0i	de	um sich werfen	werfen
+disĵeti	jxet.dis0i	de		umherwerfen
+disĵeti	jxet.dis0i	de		verstreuen
+disĵeti	jxet.dis0i	de		streuen
+disĵeti	jxet.dis0i.KOMUNE	fr		éparpiller
+disĵeti	jxet.dis0i.KOMUNE	fr	jeter (en tous sens)	jeter
+disĵeti	jxet.dis0i.KOMUNE	en		scatter
+disĵeti	jxet.dis0i.KOMUNE	en	(broad)cast	cast
+disĵeti	jxet.dis0i.KOMUNE	de	um sich werfen	werfen
+disĵeti	jxet.dis0i.KOMUNE	de		umherwerfen
+disĵeti	jxet.dis0i.KOMUNE	de		verstreuen
+disĵeti	jxet.dis0i.KOMUNE	de		streuen
+disĵeto	jxet.dis0o	NULL	NULL	NULL
+disĵeto	jxet.dis0o.MAT	fr		application injective
+disĵeto	jxet.dis0o.MAT	fr		injection
+disĵeto	jxet.dis0o.MAT	en		injection
+disĵeto	jxet.dis0o.MAT	de		Injektion
+dissurĵeta	jxet.dissur0a	fr		biunivoque
+dissurĵeta	jxet.dissur0a	fr		bijectif
+dissurĵeta	jxet.dissur0a	en		one-to-one
+dissurĵeta	jxet.dissur0a	en		bijective
+dissurĵeta	jxet.dissur0a	de		eineindeutig
+dissurĵeta	jxet.dissur0a	de		bijektiv
+dissurĵeto	jxet.dissur0o	en		bijection
+dissurĵeto	jxet.dissur0o	fr		application bijective
+dissurĵeto	jxet.dissur0o	de		Bijektion
+dissurĵeto	jxet.dissur0o	fr		bijection
+dissurĵeto	jxet.dissur0o	en		one-to-one mapping
+dissurĵeto	jxet.dissur0o	en		biunique correspondence
+ekĵeti	jxet.ek0i	fr		projeter
+ekĵeti	jxet.ek0i.KOMUNE	fr		projeter
+forĵetindaĵo	jxet.el0ajxo	de		Abfall
+forĵetaĵo	jxet.el0ajxo	de		Abfall
+elĵetaĵo	jxet.el0ajxo	de		Abfall
+forĵetindaĵo	jxet.el0ajxo	de		Auswurf
+forĵetaĵo	jxet.el0ajxo	de		Auswurf
+elĵetaĵo	jxet.el0ajxo	de		Auswurf
+forĵetaĵo	jxet.el0ajxo.KOMUNE	de		Abfall
+elĵetaĵo	jxet.el0ajxo.KOMUNE	de		Abfall
+forĵetindaĵo	jxet.el0ajxo.KOMUNE	fr		rebut
+forĵetaĵo	jxet.el0ajxo.KOMUNE	fr		rebut
+elĵetaĵo	jxet.el0ajxo.KOMUNE	fr		rebut
+forĵetindaĵo	jxet.el0ajxo.KOMUNE	en		refuse
+forĵetaĵo	jxet.el0ajxo.KOMUNE	en		refuse
+elĵetaĵo	jxet.el0ajxo.KOMUNE	en		refuse
+forĵetindaĵo	jxet.el0ajxo.KOMUNE	en		waste
+forĵetaĵo	jxet.el0ajxo.KOMUNE	en		waste
+elĵetaĵo	jxet.el0ajxo.KOMUNE	en		waste
+forĵetindaĵo	jxet.el0ajxo.KOMUNE	en		trash
+forĵetaĵo	jxet.el0ajxo.KOMUNE	en		trash
+elĵetaĵo	jxet.el0ajxo.KOMUNE	en		trash
+forĵetindaĵo	jxet.el0ajxo.KOMUNE	en		garbage
+forĵetaĵo	jxet.el0ajxo.KOMUNE	en		garbage
+elĵetaĵo	jxet.el0ajxo.KOMUNE	en		garbage
+forĵetindaĵo	jxet.el0ajxo.KOMUNE	de		Auswurf
+forĵetaĵo	jxet.el0ajxo.KOMUNE	de		Auswurf
+elĵetaĵo	jxet.el0ajxo.KOMUNE	de		Auswurf
+forĵetindaĵo	jxet.el0ajxo.KOMUNE	de		Abfall
+elĵeti	jxet.el0i	de		entfernen
+elĵeti	jxet.el0i	de		auswerfen
+elĵeti	jxet.el0i	de	hinaus werfen	werfen
+elĵeti	jxet.el0i.KOMUNE	de		entfernen
+elĵeti	jxet.el0i.KOMUNE	de		auswerfen
+elĵeti	jxet.el0i.KOMUNE	de	hinaus werfen	werfen
+elĵeti	jxet.el0i.KOMUNE	fr	rejeter (son repas, un exclu,...)	rejeter
+elĵeti	jxet.el0i.KOMUNE	fr	jeter par la fenêtre (dépenser inconsidérément)	jeter par la fenêtre
+elĵeti	jxet.el0i.KOMUNE	fr		déverser
+elĵeti	jxet.el0i.KOMUNE	en		spit out
+elĵeti	jxet.el0i.KOMUNE	en		spew
+elĵetulo	jxet.el0ulo	fr	misérable (subst.)	misérable
+elĵetulo	jxet.el0ulo	fr		gueux
+elĵetulo	jxet.el0ulo	de		Bettler
+elĵetulo	jxet.el0ulo	de	Ausgestossener (aus Gesellschaft)	Ausgestossener
+elĵetulo	jxet.el0ulo.KOMUNE	fr	misérable (subst.)	misérable
+elĵetulo	jxet.el0ulo.KOMUNE	fr		gueux
+elĵetulo	jxet.el0ulo.KOMUNE	de		Bettler
+elĵetulo	jxet.el0ulo.KOMUNE	de	Ausgestossener (aus Gesellschaft)	Ausgestossener
+enĵeta	jxet.en0a	NULL	NULL	NULL
+enĵeta	jxet.en0a.MAT	NULL	NULL	NULL
+enĵeto	jxet.en0o	NULL	NULL	NULL
+enĵeto	jxet.en0o.MAT	NULL	NULL	NULL
+forĵetaĵo	jxet.for0ajxo	de		Abfall
+forĵeti	jxet.for0i	fr		écarter
+forĵeti	jxet.for0i	fr	rejeter (une offre)	rejeter
+forĵeti	jxet.for0i	en		throw away
+forĵeti	jxet.for0i	de		verwerfen
+forĵeti	jxet.for0i	de		wegwerfen
+forĵeti	jxet.for0i.KOMUNE	fr		écarter
+forĵeti	jxet.for0i.KOMUNE	fr	rejeter (une offre)	rejeter
+forĵeti	jxet.for0i.KOMUNE	en		throw away
+forĵeti	jxet.for0i.KOMUNE	de		verwerfen
+forĵeti	jxet.for0i.KOMUNE	de		wegwerfen
+forĵetinda	jxet.for0inda	fr		négligeable
+forĵetinda	jxet.for0inda	fr		bon à jeter
+forĵetinda	jxet.for0inda	de		wertlos
+forĵetinda	jxet.for0inda	de		unnütz
+forĵetinda	jxet.for0inda	de		überflüssig
+forĵetinda	jxet.for0inda.KOMUNE	fr		négligeable
+forĵetinda	jxet.for0inda.KOMUNE	fr		bon à jeter
+forĵetinda	jxet.for0inda.KOMUNE	de		wertlos
+forĵetinda	jxet.for0inda.KOMUNE	de		unnütz
+forĵetinda	jxet.for0inda.KOMUNE	de		überflüssig
+surĵeta	jxet.sur0a	en		surjective
+surĵeta	jxet.sur0a	fr		surjectif
+surĵeta	jxet.sur0a	de		surjektiv
+surĵeti	jxet.sur0i	de		überwerfen
+surĵeto	jxet.sur0o	fr		application surjective
+surĵeto	jxet.sur0o	fr		surjection
+surĵeto	jxet.sur0o	en	onto function	function
+surĵeto	jxet.sur0o	en		surjection
+surĵeto	jxet.sur0o	de		Surjektion
+ŝtonĵetilo	jxet.sxton0ilo	de	Steinschleuder	schleuder
+ŝtonĵetilo	jxet.sxton0ilo	fr		lance-pierres
+ŝtonĵetilo	jxet.sxton0ilo	en		sling-shot
+ŝtonĵeto	jxet.sxton0o	de		Steinwurf
+ĵetono	jxeton.0o	fr		jeton
+ĵetono	jxeton.0o	en		disk
+ĵetono	jxeton.0o	en		chip
+ĵetono	jxeton.0o	en		token
+ĵetono	jxeton.0o	de	Jeton (Spielmarke)	Jeton
+ĵetono	jxeton.0o.KOMUNE	fr		jeton
+ĵetono	jxeton.0o.KOMUNE	en		disk
+ĵetono	jxeton.0o.KOMUNE	en		chip
+ĵetono	jxeton.0o.KOMUNE	en		token
+ĵetono	jxeton.0o.KOMUNE	de	Jeton (Spielmarke)	Jeton
+ĵibo	jxib.0o	fr		foc
+ĵibo	jxib.0o	en		jib
+ĵibo	jxib.0o	de		Klüver
+ĵibo	jxib.0o.SHI	fr		foc
+ĵibo	jxib.0o.SHI	en		jib
+ĵibo	jxib.0o.SHI	de		Klüver
+ĝigo	jxig.0o	fr		gigue
+ĵigo	jxig.0o	fr		gigue
+ĝigo	jxig.0o	en		jig
+ĵigo	jxig.0o	en		jig
+ĝigo	jxig.0o.danco	fr		gigue
+ĵigo	jxig.0o.danco	fr		gigue
+ĝigo	jxig.0o.danco	en		jig
+ĵigo	jxig.0o.danco	en		jig
+ĝigo	jxig.0o.danco	de		Jig
+ĵigo	jxig.0o.danco	de		Jig
+ĝigo	jxig.0o.muzikajxo	fr		gigue
+ĵigo	jxig.0o.muzikajxo	fr		gigue
+ĝigo	jxig.0o.muzikajxo	en		jig
+ĵigo	jxig.0o.muzikajxo	en		jig
+ĝigo	jxig.0o.muzikajxo	de		Gigue
+ĵigo	jxig.0o.muzikajxo	de		Gigue
+ĵigo	jxig1.0o	de		Puzzle
+ĵigo	jxig1.0o.puzlo	de		Puzzle
+ĵipo	jxip.0o	fr		jeep
+ĵipo	jxip.0o	de		Geländewagen
+ĵipo	jxip.0o	en		jeep
+ĵipo	jxip.0o	de	Kübelwagen [ark]	Kübelwagen
+ĵipo	jxip.0o.AUT	fr		jeep
+ĵipo	jxip.0o.AUT	de		Geländewagen
+ĵipo	jxip.0o.AUT	en		jeep
+ĵipo	jxip.0o.AUT	de	Kübelwagen [ark]	Kübelwagen
+ĵokeo	jxoke.0o	NULL	NULL	NULL
+ĵokeo	jxoke.0o.MUZ	de		DJ
+ĵokeo	jxoke.0o.MUZ	de		Discjockey
+ĵokeo	jxoke.0o.SPO	fr		jockey
+ĵokeo	jxoke.0o.SPO	en		jockey
+ĵokeo	jxoke.0o.SPO	de		Berufsrennreiter
+ĵokeo	jxoke.0o.SPO	de		Jockey
+ĵokero	jxoker.0o	de		Joker
+ĵokero	jxoker.0o.KOMP	de		Platzhalter
+ĵokero	jxoker.0o.KOMP	de	Wildcard (Informatik)	Wildcard
+ĵokero	jxoker.0o.KOMP	de		Joker
+ĵokero	jxoker.0o.KOMP	fr	joker (info.)	joker
+ĵokero	jxoker.0o.KOMP	en		match-all pattern
+ĵokero	jxoker.0o.KOMP	en		wildcard character
+ĵokero	jxoker.0o.karto	fr	joker (carte)	joker
+ĵokero	jxoker.0o.karto	en		joker
+ĵokero	jxoker.0o.karto	de		Joker
+ĵokero	jxoker.0o.karto	de		Joker
+ĵongli	jxongl.0i	fr		jongler
+ĵongli	jxongl.0i	en		juggle
+ĵongli	jxongl.0i	de		gaukeln
+ĵongli	jxongl.0i	de		jonglieren
+ĵongli	jxongl.0i.FIG	fr		jongler
+ĵongli	jxongl.0i.FIG	en		juggle
+ĵongli	jxongl.0i.FIG	de		gaukeln
+ĵongli	jxongl.0i.FIG	de		jonglieren
+ĵongli	jxongl.0i.SPO	fr		jongler
+ĵongli	jxongl.0i.SPO	en		juggle
+ĵongli	jxongl.0i.SPO	de		gaukeln
+ĵongli	jxongl.0i.SPO	de		jonglieren
+ĵonglisto	jxongl.0isto	fr		jongleur
+ĵonglisto	jxongl.0isto	en		juggler
+ĵonglisto	jxongl.0isto	de		Gaukler
+ĵonglisto	jxongl.0isto	de		Jongleur
+ĵonglisto	jxongl.0isto.FIG	fr		jongleur
+ĵonglisto	jxongl.0isto.FIG	en		juggler
+ĵonglisto	jxongl.0isto.FIG	de		Gaukler
+ĵonglisto	jxongl.0isto.FIG	de		Jongleur
+ĵonglisto	jxongl.0isto.SPO	fr		jongleur
+ĵonglisto	jxongl.0isto.SPO	en		juggler
+ĵonglisto	jxongl.0isto.SPO	de		Gaukler
+ĵonglisto	jxongl.0isto.SPO	de		Jongleur
+forĵongli	jxongl.for0i	fr		escamoter
+forĵongli	jxongl.for0i.KOMUNE	de		wegzaubern
+forĵongli	jxongl.for0i.KOMUNE	fr		escamoter
+Ĵubo	jxub.0o	fr		Djouba
+Ĵubo	jxub.0o	en		Juba
+Ĵubo	jxub.0o	de		Juba
+ĵudisto	jxud.0isto	fr		judoka
+ĵudisto	jxud.0isto	en		judo wrestler
+ĵudisto	jxud.0isto	de		Judoka
+ĵudo	jxud.0o	fr		judo
+ĵudo	jxud.0o	de		Judo
+ĵudo	jxud.0o	en		judo
+ĵuĵuo	jxujxu.0o	de		Tand
+ĵuĵuo	jxujxu.0o	de		Pillepalle
+ĵuĵuo	jxujxu.0o	fr		babiole
+ĵuĵuo	jxujxu.0o.KOMUNE	de		Tand
+ĵuĵuo	jxujxu.0o.KOMUNE	de		Pillepalle
+ĵuĵuo	jxujxu.0o.KOMUNE	fr		babiole
+Ĵulo	jxul.0o	fr		Joule
+Ĵulo	jxul.0o	de		Joule
+Ĵulo	jxul.0o	en	Joule (James)	Joule
+ĵulo	jxul.jx0o	fr	joule (unité de mesure)	joule
+ĵulo	jxul.jx0o	en		joule
+ĵulo	jxul.jx0o	de		Joule
+ĵura	jxur.0a	en		sworn
+ĵura	jxur.0a	de		beschworen
+ĵuri	jxur.0i	fr	prêter serment	serment
+ĵuri	jxur.0i	fr	faire serment	serment
+ĵuri	jxur.0i	fr	donner sa parole	parole
+ĵuri	jxur.0i	fr	jurer (faire un serment)	jurer
+ĵuri	jxur.0i	en		swear
+ĵuri	jxur.0i	de		beeiden
+ĵuri	jxur.0i	de		schwören
+ĵurligi	jxur.0igi	fr		assermenté
+ĵurigi	jxur.0igi	fr		assermenté
+ĵurligi	jxur.0igi	fr	faire prêter serment	serment
+ĵurigi	jxur.0igi	fr	faire prêter serment	serment
+ĵurligi	jxur.0igi	fr	faire jurer	jurer
+ĵurigi	jxur.0igi	fr	faire jurer	jurer
+ĵurligi	jxur.0igi	en	swear (in) (transitiva)	swear (in)
+ĵurigi	jxur.0igi	en	swear (in) (transitiva)	swear (in)
+ĵurligi	jxur.0igi	de		einschwören
+ĵurigi	jxur.0igi	de		einschwören
+ĵurligi	jxur.0igi	de	einen Eid abnehmen	Eid
+ĵurigi	jxur.0igi	de	einen Eid abnehmen	Eid
+ĵurligi	jxur.0igi	de		vereidigen
+ĵurigi	jxur.0igi	de		vereidigen
+ĵuro	jxur.0o	fr	vœu (serment)	vœu
+ĵuro	jxur.0o	fr	parole (serment)	parole
+ĵuro	jxur.0o	fr		serment
+ĵuro	jxur.0o	en		oath
+ĵuro	jxur.0o	de		Eid
+ĵuro	jxur.0o	de		Schwur
+ĵurpeti	jxur.0peti	fr		supplier
+ĵurpeti	jxur.0peti	en		petition
+ĵurpeti	jxur.0peti	de		beschwören
+ĵurrompo	jxur.0rompo	de	Brechen eines Schwures	Brechen
+ĵurrompo	jxur.0rompo	de		Meineid
+jeĵuri	jxur.je0i	de		beschwören
+kunĵuri	jxur.kun0i	fr	se conjurer	conjurer
+kunĵuri	jxur.kun0i	en		conspire
+kunĵuri	jxur.kun0i	de	sich verschwören	verschwören
+ĵuraso	jxuras.0o	fr	jurassique (subst., époque)	jurassique
+ĵuraso	jxuras.0o	en		Jurassic
+ĵuraso	jxuras.0o	de		Jura
+ĵuraso	jxuras.0o.GEOG	fr	jurassique (subst., époque)	jurassique
+ĵuraso	jxuras.0o.GEOG	en		Jurassic
+ĵuraso	jxuras.0o.GEOG	de		Jura
+ĵuraso	jxuras.0o.GEOL	fr	jurassique (subst., époque)	jurassique
+ĵuraso	jxuras.0o.GEOL	en		Jurassic
+ĵuraso	jxuras.0o.GEOL	de		Jura
+Ĵuraso	jxuras.Jx0o	de		Jura
+ĵuriano	jxuri.0ano	fr	juré (membre de jury)	juré
+ĵuriano	jxuri.0ano.JUR	fr	juré (membre de jury)	juré
+ĵurio	jxuri.0o	fr		jury
+ĵurio	jxuri.0o	en		jury
+ĵurio	jxuri.0o	de		Jury
+ĵurio	jxuri.0o.JUR	en		jury
+ĵurio	jxuri.0o.JUR	fr		jury
+ĵurio	jxuri.0o.JUR	de		Jury
+ĵurio	jxuri.0o.SPO	en		jury
+ĵurio	jxuri.0o.SPO	fr		jury
+ĵurio	jxuri.0o.SPO	de		Jury
+ĵurnalismo	jxurna.0ismo	fr		journalisme
+ĵurnalismo	jxurna.0ismo	de		Journalismus
+ĵurnalismo	jxurna.0ismo.INF	fr		journalisme
+ĵurnalismo	jxurna.0ismo.INF	de		Journalismus
+ĵurnalisto	jxurna.0isto	fr		journaliste
+ĵurnalisto	jxurna.0isto	en		journalist
+ĵurnalisto	jxurna.0isto	de		Journalist
+ĵurnalisto	jxurna.0isto.INF	fr		journaliste
+ĵurnalisto	jxurna.0isto.INF	en		journalist
+ĵurnalisto	jxurna.0isto.INF	de		Journalist
+ĵurnalo	jxurna.0o	fr		journal
+ĵurnalo	jxurna.0o	en		newspaper
+ĵurnalo	jxurna.0o	en		journal
+ĵurnalo	jxurna.0o.INF	fr		journal
+ĵurnalo	jxurna.0o.INF	en		newspaper
+ĵurnalo	jxurna.0o.INF	en		journal
+ĵurnalo	jxurna.0o.INF	de		Nachrichtensendung
+ĵurnalo	jxurna.0o.INF	de		Journal
+ĵurnalo	jxurna.0o.TIP	fr		journal
+ĵurnalo	jxurna.0o.TIP	en		newspaper
+ĵurnalo	jxurna.0o.TIP	en		journal
+ĵurnalo	jxurna.0o.TIP	de		Tageszeitung
+esplorĵurnalisto	jxurna.esplor0isto	fr		journaliste d'enquête
+esplorĵurnalisto	jxurna.esplor0isto	de		Investigativjournalist
+esplorĵurnalisto	jxurna.esplor0isto.INF	de		Investigativjournalist
+esplorĵurnalisto	jxurna.esplor0isto.INF	fr		journaliste d'enquête
+fotoĵurnalisto	jxurna.foto0isto	fr		reporter-photographe
+fotoĵurnalisto	jxurna.foto0isto	de		Fotojournalist
+fotoĵurnalisto	jxurna.foto0isto	de		Fotoreporter
+fotoĵurnalisto	jxurna.foto0isto.INF	fr		reporter-photographe
+fotoĵurnalisto	jxurna.foto0isto.INF	de		Fotojournalist
+fotoĵurnalisto	jxurna.foto0isto.INF	de		Fotoreporter
+ĵurnalistiko	jxurnalistik.0o	NULL	NULL	NULL
+ĵurnalistiko	jxurnalistik.0o.INF	NULL	NULL	NULL
+ĵus	jxus.0	fr	il y a peu	peu
+ĵus	jxus.0	fr	juste (il y a peu)	juste
+ĵus	jxus.0	en		just (a moment ago)
+ĵus	jxus.0	de	einen Moment zuvor	Moment
+ĵus	jxus.0	de	einen Augenblick zuvor	Augenblick
+ĵus	jxus.0	de	gerade (vor einem Moment)	gerade
+ĵus	jxus.0	de		soeben
+ĵusa	jxus.0a	fr		récent
+ĵusa	jxus.0a	en		recent
+ĵusa	jxus.0a	de	letzte (kurz zuvor)	letzte
+ĵusa	jxus.0a	de	jüngste (kurz zuvor)	jüngste

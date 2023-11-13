@@ -6,7 +6,6 @@
 % vortaron per merge_trd_xml.pl
 
 % FARENDA:
-% traduko de prononcoj al supersignaj vokaloj
 % adicio de zh-tradukoj, se ili validas por diversaj de-tradukoj de la sama senco
 
 % uzo:
