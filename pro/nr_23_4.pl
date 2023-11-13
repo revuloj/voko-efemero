@@ -103,6 +103,7 @@ eo_zh(Eo,Zh,Simileco-Lp:P2) :-
     limit(100,(
         trd(eo-Lp,Eo,P1), % ni povas trovi tradukon per pontlingvo kaj simileco
         trd(zh-Lp,Zh,P2),
+        P1 \= P2, % evitu duoble trovi/kalkuli tradukojn
         isub(P1,P2,Simileco,[zero_to_one(true)]),
         Simileco>0.8
     )).
@@ -128,19 +129,29 @@ eo_zh_ord(Eo,Zh,SimSum-Pontoj) :-
         eo_zh_grup(Eo,Zh,SimSum-Pontoj)
     ).
 
-zh_2dek(Eo) :-
+zh_pontoj(Eo,Kiom) :-
     forall(
-    limit(20,eo_zh_ord(Eo,Zh,SimSum-Pontoj)),
+    limit(Kiom,eo_zh_ord(Eo,Zh,SimSum-Pontoj)),
     format('~1f ~w ~36|~w~n',[SimSum,Zh,Pontoj])
     ).
 
+zh_trdj(Zh,Tradukoj) :-
+    setof(Lng:Trd,trd(zh-Lng,Zh,Trd),Tradukoj).
+
+zh_tradukoj(Eo,Kiom) :-
+    forall(
+        limit(Kiom,eo_zh_ord(Eo,Zh,SimSum-_)),
+        (
+            zh_trdj(Zh,Tradukoj),
+            format('~1f ~w ~36|~w~n',[SimSum,Zh,Tradukoj])
+        )
+    ).
 
 % Ni iom simpligas la dialogon 
 % permesante doni komencan demandsignon kaj serĉvorton,
-% do ?<serĉvorto>. anstataŭ p(<serĉvorto>).
-% :- op(800,fy,user:(?)).
-% ?(Eo) :- p(Eo).
-% ?(Eo-De) :- pde(Eo,De).
+% do ?enhavo. anstataŭ zh_tradukoj(enhavo,10).
+:- op(800,fy,user:(?)).
+?(Eo) :- zh_tradukoj(Eo,10).
 
 
 
