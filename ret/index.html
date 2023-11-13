@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>Ponta Vortaro</title>
+        <script>
+        window.onload = () => {
+            document.getElementById("ek").addEventListener("click", (event) => {
+                const q = { q: document.getElementById("sercho").value };
+                const request = new Request("/sercho", {
+                    method: "POST",
+                    body: JSON.stringify(q)
+                });
+                document.body.style.cursor = "wait";
+                fetch(request, { headers: { 
+                    "Content-Type": "application/json" 
+                    }})
+                    .then((response) => {
+                        if (!response.ok) {
+                            throw new Error(`HTTP-eraro! Status: ${response.status}`);
+                        }
+                        return response.json();
+                    })
+                    .then((response) => {
+                        const trovoj = document.getElementById("trovoj");
+                        trovoj.textContent = "";
+                        const linioj = response.trovoj.split(/\n/);
+                        linioj.forEach((l) => {
+                            const p = document.createElement("p");
+                            p.textContent = l;
+                            if (! l.match(/^\s*(de|en|fr):/))
+                                p.classList.add("china");
+                            else 
+                                p.classList.add("traduko");
+                            trovoj.append(p);
+                        }) 
+                        document.body.style.cursor = "default";
+                    });
+            });
+        }
+        </script>
+        <style>
+           .traduko {
+                margin: 0;
+            }
+           .china { 
+                color: blue;
+                margin-bottom: 0;
+                font-size: 110%
+            } 
+        </style>
+    </head>
+    <body>
+        <h1>Ponta Vortaro</h1>
+        <input id="sercho" type="text" placeholder="esperanto-vorto">
+        <input id="ek" value="ek" type="button">
+        <div id="trovoj"></div>
+    </body>
+</html>
