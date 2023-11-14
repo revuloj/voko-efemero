@@ -592,3 +592,206 @@ assert(celo(hemorojdoj,'hemoro.0oj','痔疮[zhì chuang]')).
 assert(celo(heni,'hen.0i','嘶鳴[sī míng]')).
 assert(celo(heni,'hen.0i','像馬一樣嘶叫[xiàng mǎ yí yàng sī jiào]')).
 assert(celo(heni,'hen.0i','嘶叫[sī jiào]')).
+assert(celo(henaarbo,'hena.0arbo.BOT','指甲花[zhǐ jia huā]')).
+assert(celo(hepato,'hepat.0o','肝[gān]')).
+assert(celo(hepato,'hepat.0o','肝脏[gān zàng]')).
+assert(celo('Heraklo','herakl1.0o','重型机器[zhòng xíng jī qì]')).
+assert(celo('Heraklo','herakl1.0o','海格力斯[hǎi gé lì sī]')).
+assert(celo(heraldiko,'herald.0o','紋章學[wén zhāng xué]')).
+assert(celo(trudherbo,'herb.0acxo','野草[yě cǎo]')).
+assert(celo(trudherbo,'herb.0acxo','杂草[zá cǎo]')).
+assert(celo(herbejo,'herb.0ejo','草地[cǎo dì]')).
+assert(celo(herbejo,'herb.0ejo','草坪[cǎo píng]')).
+assert(celo(herbero,'herb.0ero','莛[tíng]')).
+assert(celo(herbo,'herb.0o','草[cǎo]')).
+assert(celo(herbo,'herb.0o','青草[qīng cǎo]')).
+assert(celo(herbo,'herb.0o','綠草[lù: cǎo]')).
+assert(celo(herboriĉa,'herb.0oricxa','如草[rú cǎo]')).
+assert(celo(herboriĉa,'herb.0oricxa','像草[xiàng cǎo]')).
+assert(celo(herboriĉa,'herb.0oricxa','多草[duō cǎo]')).
+assert(celo(herboriĉa,'herb.0oricxa','草做[cǎo zuò]')).
+assert(celo(herboriĉa,'herb.0oricxa','富含汁液[fù hán zhī yè]')).
+assert(celo(herboriĉa,'herb.0oricxa','幼弱[yòu ruò]')).
+assert(celo(aromherbo,'herb.arom0o','芞[qì]')).
+assert(celo(aromherbo,'herb.arom0o','芗[xiāng]')).
+assert(celo(aromherbo,'herb.arom0o','香草[xiāng cǎo]')).
+assert(celo(kuracherbo,'herb.kurac0o','草药[cǎo yào]')).
+assert(celo(kuracherbo,'herb.kurac0o','萴[zé]')).
+assert(celo(kuracherbo,'herb.kurac0o','中草药[zhōng cǎo yào]')).
+assert(celo(kuracherbo,'herb.kurac0o','药草[yào cǎo]')).
+assert(celo(panherbo,'herb.pan0o','粮食[liáng shi]')).
+assert(celo(panherbo,'herb.pan0o','穀類[gǔ lèi]')).
+assert(celo(panherbo,'herb.pan0o','穀物[gǔ wù]')).
+assert(celo(panherbo,'herb.pan0o','禾[hé]')).
+assert(celo(panherbo,'herb.pan0o','麥[mài]')).
+assert(celo(herco,'herc.0o','赫[hè]')).
+assert(celo('Hercegovino','hercegov.H0o','黑塞哥維那[Hēi sài gē wéi nà]')).
+assert(celo('Hercegovino','hercegov.H0o','黑塞哥維那[Hēi sè gē wéi nà]')).
+assert(celo('Hercegovino','hercegov.H0o','赫塞哥維納[Hè sè gē wéi nà]')).
+assert(celo('Hercegovino','hercegov.H0o','赫塞哥維納[hè sāi gē wéi nà]')).
+assert(celo(hereda,'hered.0a','世袭[shì xí]')).
+assert(celo(hereda,'hered.0a','遗传[yí chuán]')).
+assert(celo(heredaĵo,'hered.0ajxo','遗产[yí chǎn]')).
+assert(celo(heredanto,'hered.0anto','繼承人[jì chéng rén]')).
+assert(celo(heredanto,'hered.0anto','储[chǔ]')).
+assert(celo(heredanto,'hered.0anto','嗣子[sì zǐ]')).
+assert(celo(heredanto,'hered.0anto','子嗣[zǐ sì]')).
+assert(celo(heredeco,'hered.0eco','遗传[yí chuán]')).
+assert(celo(heredeco,'hered.0eco.GNT','遗传[yí chuán]')).
+assert(celo(heredi,'hered.0i','繼承[jì chéng]')).
+assert(celo(heredi,'hered.0i','承受[chéng shòu]')).
+assert(celo(heredi,'hered.0i','胤[yìn]')).
+assert(celo(heredi,'hered.0i','繼[jì]')).
+assert(celo(heredi,'hered.0i','嗣位[sì wèi]')).
+assert(celo(heredi,'hered.0i','繼述[jì shù]')).
+assert(celo(heredigi,'hered.0igi','詒[yí]')).
+assert(celo(heredigi,'hered.0igi','貽[yí]')).
+assert(celo(heredigi,'hered.0igi','遗留[yí liú]')).
+assert(celo(heredigi,'hered.0igi','授业[shòu yè]')).
+assert(celo(heredigi,'hered.0igi','遗赠[yí zèng]')).
+assert(celo(herezi,'herez.0i','离经叛道[lí jīng pàn dào]')).
+assert(celo(herezo,'herez.0o','妖言[yāo yán]')).
+assert(celo(herezo,'herez.0o','异教[yì jiào]')).
+assert(celo(herezo,'herez.0o','异端[yì duān]')).
+assert(celo(herezo,'herez.0o','野狐禅[yě hú chán]')).
+assert(celo(herezulo,'herez.0ulo','异端者[yì duān zhě]')).
+assert(celo(herezulo,'herez.0ulo','妖言[yāo yán]')).
+assert(celo(herezulo,'herez.0ulo','异教[yì jiào]')).
+assert(celo(herezulo,'herez.0ulo','异教徒[yì jiào tú]')).
+assert(celo(herezulo,'herez.0ulo','异端邪说[yì duān xié shuō]')).
+assert(celo(herezulo,'herez.0ulo','离经叛道者[lí jīng pàn dào zhě]')).
+assert(celo(herezulo,'herez.0ulo','本处[běn chù]')).
+retract(celo(herezulo,'herez.0ulo','本处[běn chù]')).
+assert(celo('Herkuleso','herkul.0o','大力士[dà lì shì]')).
+assert(celo('Herkulo','herkul.0o.FIG','大力士[dà lì shì]')).
+assert(celo('Herkulo','herkul.H0o.AST','武仙座[Wǔ xiān zuò]')).
+assert(celo('Herkulo','herkul.0o.mita','大力神[Dà lì shén]')).
+assert(celo(hermafrodita,'hermaf.0a','两性[liǎng xìng]')).
+assert(celo(hermafrodito,'hermaf.0o','雌雄同体[cí xióng tóng tǐ]')).
+assert(celo(hermafrodito,'hermaf.0o','雌雄同体人[cí xióng tóng tǐ rén]')).
+assert(celo(hermafrodito,'hermaf.0o','两性人[liǎng xìng rén]')).
+assert(celo(hermafrodito,'hermaf.0o','两性动物[liǎng xìng dòng wù]')).
+assert(celo('Hermano','herman.0o','赫尔曼[hè ěr màn]')).
+assert(celo(hermeneŭtiko,'hermeneuxtik.0o','解释学[jiě shì xué]')).
+assert(celo(hermeneŭtiko,'hermeneuxtik.0o','詮釋學[quán shì xué]')).
+assert(celo('Hermeso','hermes.0o','赫尔墨斯[Hè ěr mò sī]')).
+assert(celo('Hermeso','hermes.0o','赫耳墨斯[hè ěr mò sī]')).
+assert(celo('Hermeso','hermes.0o','赫耳墨斯[Hè ěr mò sī]')).
+assert(celo(hernio,'herni.0o','疝[shàn]')).
+assert(celo(hernio,'herni.0o','疝气[shàn qì]')).
+assert(celo(heroaĵo,'hero.0ajxo','英烈[yīng liè]')).
+assert(celo(heroaĵo,'hero.0ajxo','壮举[zhuàng jǔ]')).
+assert(celo(heroeco,'hero.0eco','豪气[háo qì]')).
+assert(celo(heroeco,'hero.0eco','英勇[yīng yǒng]')).
+assert(celo(heroino,'hero.0ino','傑[jié]')).
+assert(celo(heroino,'hero.0ino','女中豪傑[nǚ zhōng háo jié]')).
+assert(celo(heroino,'hero.0ino','女英雄[nǚ yīng xióng]')).
+assert(celo(heroino,'hero.0ino','巾帼英雄[jīn guó yīng xióng]')).
+assert(celo(heroino,'heroin.0o','海洛因[hǎi luò yīn]')).
+assert(celo(heroino,'heroin.0o','海洛英[hǎi luò yīng]')).
+assert(celo(heroo,'hero.0o','英雄[yīng xióng]')).
+assert(celo(heroo,'hero.0o','豪傑[háo jié]')).
+assert(celo(heroo,'hero.0o','壮士[zhuàng shì]')).
+assert(celo(heroo,'hero.0o','主人公[zhǔ rén gōng]')).
+assert(celo('Herodo','herod.0o','希律王[xī lü wáng]')).
+assert(celo('Herodo','herod.0o','黑落德[Hēi luò dé]')).
+assert(celo('Herodo','herod.0o','大希律王[dà xī lü wáng]')).
+assert(celo('Herodoto','herodot.0o','希罗多德[xī luó duō dé]')).
+assert(celo(heroldi,'herold.0i','先声[xiān shēng]')).
+assert(celo(heroldo,'herold.0o','先声[xiān shēng]')).
+assert(celo(herpeto,'herpet.0o','单纯皰疹病毒[dān chún pào zhěn bìng dú]')).
+assert(celo(herpeto,'herpet.0o','疱疹[pào zhěn]')).
+assert(celo(herpeto,'herpet.0o','疱疹病毒科[pào zhěn bìng dú kē]')).
+assert(celo(herpeto,'herpet.0o','类疱疹病毒[lèi pào zhěn bìng dú]')).
+assert(celo(herpeto,'herpet.0o','单纯疱疹病毒[dān chún pào zhěn bìng dú]')).
+assert(celo(herpeto,'herpet.0o','带状疱疹[dài zhuàng pào zhěn]')).
+assert(celo(herso,'hers.0o','吊闸[diào zhá]')).
+assert(celo(heso,'hes.0o','海森[hǎi sēn]')).
+assert(celo(heterogena,'hetero.0a','异质[yì zhì]')).
+assert(celo(heterogena,'hetero.0a','异类[yì lèi]')).
+assert(celo(heterogena,'hetero.0a','駁雜[bó zá]')).
+assert(celo(heterogeneco,'hetero.0eco','异质性[yì zhì xìng]')).
+assert(celo(heŭristiko,'heuxristik.0o','启发法[qǐ fā fǎ]')).
+assert(celo(heŭristiko,'heuxristik.0o','經驗法則[jīng yàn fǎ zé]')).
+assert(celo(heŭristiko,'heuxristik.0o','經驗規律[jīng yàn guī lü]')).
+assert(celo('Heziodo','heziod.0o','赫西奥德[hè xī ào dé]')).
+assert(celo(hezita,'hezit.0a','犹豫不决[yóu yù bù jué]')).
+assert(celo(hezita,'hezit.0a','犹豫[yóu yù]')).
+assert(celo(hezita,'hezit.0a','踟[chí]')).
+assert(celo(hezita,'hezit.0a','犹豫地[yóu yù de]')).
+assert(celo(hezita,'hezit.0a','迟疑地[chí yí de]')).
+assert(celo(hezita,'hezit.0a','踯[zhí]')).
+assert(celo(hezita,'hezit.0a','佪[huái]')).
+assert(celo(hezita,'hezit.0a','儃[chán]')).
+assert(celo(hezitema,'hezit.0ema','佪[huái]')).
+assert(celo(hezitema,'hezit.0ema','徬[páng]')).
+assert(celo(heziti,'hezit.0i','躅[zhú]')).
+assert(celo(heziti,'hezit.0i','迟疑[chí yí]')).
+assert(celo(heziti,'hezit.0i','躇[chú]')).
+assert(celo(heziti,'hezit.0i','踌躇[chóu chú]')).
+assert(celo(heziti,'hezit.0i','踌躇不前[chóu chú bù qián]')).
+assert(celo(heziti,'hezit.0i','犯嘀咕[fàn dí gu]')).
+assert(celo(heziti,'hezit.0i','犹疑[yóu yí]')).
+assert(celo(heziti,'hezit.0i','畏避[wèi bì]')).
+assert(celo(heziti,'hezit.0i','趄[jū]')).
+assert(celo(heziti,'hezit.0i','碍口[ài kǒu]')).
+assert(celo(hezito,'hezit.0o','犹豫[yóu yù]')).
+assert(celo(senhezita,'hezit.sen0a','果断[guǒ duàn]')).
+assert(celo(senhezita,'hezit.sen0a','毫不踌躇地[háo bù chóu chú de]')).
+assert(celo(senhezita,'hezit.sen0a','不加思索[bù jiā sī suǒ]')).
+assert(celo(senhezita,'hezit.sen0a','立即[lì jí]')).
+assert(celo(senhezita,'hezit.sen0a','坚决[jiān jué]')).
+assert(celo(hiacinto,'hiacin.0o','風信子[fēng xìn zǐ]')).
+assert(celo(hiato,'hiat.0o','空窗期[kōng chuāng qī]')).
+assert(celo(hiato,'hiat.0o','間隙[jiàn xì]')).
+assert(celo(hibaĉo,'hibacx.0o','火盆[huǒ pén]')).
+assert(celo(hibisko,'hibisk.0o','芙蓉[fú róng]')).
+assert(celo(hibisko,'hibisk.0o','木槿[mù jǐn]')).
+assert(celo(hibisko,'hibisk.0o','木槿属[mù jǐn shǔ]')).
+assert(celo(hibisko,'hibisk.0o','蕣[shùn]')).
+assert(celo(hibrida,'hibrid.0a','混血[hùn xuè]')).
+assert(celo(hibrida,'hibrid.0a','混种[hùn zhǒng]')).
+assert(celo(hibrida,'hibrid.0a','混合[hùn hé]')).
+assert(celo(hibrido,'hibrid.0o','杂种[zá zhǒng]')).
+assert(celo(hida,'hid.0a','狰[zhēng]')).
+assert(celo(hida,'hid.0a','令人不适[lìng rén bù shì]')).
+assert(celo('Virhidro','hidr.Vir0o','水蛇座[Shuǐ shé zuò]')).
+assert(celo(hidranto,'hidrant.0o','消防栓[xiāo fáng shuān]')).
+assert(celo(hidranto,'hidrant.0o','消火栓[xiāo huǒ shuān]')).
+assert(celo(hidrargo,'hidrar.0o','水銀[shuǐ yín]')).
+assert(celo(hidrargo,'hidrar.0o','汞[gǒng]')).
+assert(celo(hidrargo,'hidrar.0o','汞[hòng]')).
+assert(celo(hidrato,'hidrat.0o','水合物[shuǐ hé wù]')).
+assert(celo(karbonhidrato,'hidrat.karbon0o','碳水化合物[tàn shuǐ huà hé wù]')).
+assert(celo(karbonhidrato,'hidrat.karbon0o','醣[táng]')).
+assert(celo(karbonhidrato,'hidrat.karbon0o','醣类[táng lèi]')).
+assert(celo(karbonhidrato,'hidrat.karbon0o','糖类[táng lèi]')).
+assert(celo(hidraŭlika,'hidrau.0a','液力[yè lì]')).
+assert(celo(hidraŭlika,'hidrau.0a','水力[shuǐ lì]')).
+assert(celo(hidraŭlika,'hidrau.0a','液压[yè yā]')).
+assert(celo(hidraŭlika,'hidrau.0a','油压[yóu yā]')).
+assert(celo(hidraŭlika,'hidrau.0a','由液压控制[yóu yè yā kòng zhì]')).
+assert(celo(hidraŭliko,'hidrau.0o','水力学[shuǐ lì xué]')).
+assert(celo(hidraŭliko,'hidrau.0o','液压技术[yè yā jì shù]')).
+assert(celo(hidredoj,'hidred.0oj','水螅[shuǐ xī]')).
+assert(celo(hidroaeroplano,'hidroa.0o','水上飛機[shuǐ shàng fēi jī]')).
+assert(celo(hidrocefalo,'hidroc.0o','脑水肿[nǎo shuǐ zhǒng]')).
+assert(celo(hidrocefalo,'hidroc.0o','脑积水[nǎo jī shuǐ]')).
+assert(celo(hidrodinamiko,'hidrodinamik.0o','流体力学[liú tǐ lì xué]')).
+assert(celo(hidrodinamiko,'hidrodinamik.0o','水动力学[shuǐ dòng lì xué]')).
+assert(celo(hidrofobio,'hidrof.0o','瘈[jì]')).
+assert(celo(hidrofobio,'hidrof.0o','恐水症[kǒng shuǐ zhèng]')).
+assert(celo(hidrofobio,'hidrof.0o','恐水病[kǒng shuǐ bìng]')).
+assert(celo(hidrogeno,'hidrog.0o','氢[qīng]')).
+assert(celo(hidrogeno,'hidrog.0o','氢气[qīng qì]')).
+assert(celo(hidrogeno,'hidrog.0o','气脆[qì cuì]')).
+assert(celo(hidrokarbido,'hidrok.0o','烃[tīng]')).
+assert(celo(hidrokarbido,'hidrok.0o','碳氢化合物[tàn qīng huà hé wù]')).
+assert(celo(hidrokarbido,'hidrok.0o','碳化氢[tàn huà qīng]')).
+assert(celo(hidroksido,'hidroksid.0o','氢氧化物[qīng yǎng huà wù]')).
+assert(celo(hidroksido,'hidroksid.0o','氢氧化盐[qīng yǎng huà yán]')).
+assert(celo(hidrologio,'hidrologi.0o','水文[shuǐ wén]')).
+assert(celo(hidrologio,'hidrologi.0o','水文学[shuǐ wén xué]')).
+assert(celo(hidro,'','九头蛇[jiǔ tóu shé]')).
+assert(celo(hidroplano,'hidrop.0o','水上飛機[shuǐ shàng fēi jī]')).
+assert(celo(hidropso,'hidrops.0o','水肿[shuǐ zhǒng]')).
