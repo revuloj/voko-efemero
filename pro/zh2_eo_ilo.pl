@@ -82,6 +82,61 @@ eo_def('vrt/eo_def_h.csv'). % eo-de/en/fr
 db_celo('pdb/eo_zh_h.db').
 csv_celo('vrt/eo_zh_h.csv').
 
+/**
+ * Dialogo por aldono de tradukoj:
+ * a..t - elektu/konservu proponon kun tiu numero
+ * RET, spaco - sekva propono por la aktuala vorto
+ * x - finu
+ * 
+ * ALDONENAJ:
+ * 1..2 - iru al senco/marko kun tiu cifero
+ * ?, - iru al venonta vorto
+ * % ^ - iru al la antaŭa propono
+ */
+dialog :- sekva(Eo), dialog(Eo).
+dialog(Eo) :-
+    % superrigardo pri proponoj
+    format('superrigardo:~n'),
+    zh_proponoj(eo,Eo,-16), nl,
+    % iteraciu tra proponoj por unuopajn konservi
+    repeat, (
+        zh_propono(eo,Eo,N,Na,20),
+        format('-------------------------------~n'),
+        format(' ⏎ konservu, ␠ sekva, x fino, a..t konservu laŭ litero >:'),
+        get_single_char(K),
+        format('<~w>~n',K),
+        (
+            K = 0'x, % finu
+            true
+            ;
+            once((
+                % ENTER: sekurigu la lastan (aktualan) proponon
+                memberchk(K,[13]),
+                atom_concat(Na,N,P),
+                sekurigo(P)
+                ;
+                % sekurigu proponon laŭ donita litero
+                between(0'a,0't,K),
+                char_code(Ch,K),
+                atom_concat(Ch,N,P),
+                sekurigo(P)
+                ;
+                % montru sekvan proponon, klavoj SPAC, SUBEN
+                memberchk(K,[32,27])
+                ;
+                % iru al marko/serio N
+                % between(0'1,0'9,K),
+                % number_codes(N,[K])
+                %;
+                writeln('❗nevalida klavo!')
+            )),
+            fail
+        )
+        ; % finu se ne troviĝas proponoj plu
+        format('❗plu neniu propono~n'), true
+    ),!.
+ 
+
 legu :-
     % db por tradukoj eo-zh
     db_celo(DB),
@@ -108,14 +163,14 @@ legu :-
 
 % per kajsigno ni aldonas tradukojn per siaj numeroj/literoj
 :- op(1200,fy,user:(&)).
-&(Kion) :- s(Kion).
-a :- s(a1).
-b :- s(b1).
-c :- s(c1).
-ab :- s(ab1).
-ac :- s(ac1).
-bc :- s(bc1).
-abc :- s(abc1).
+&(Kion) :- sekurigo(Kion).
+a :- sekurigo(a1).
+b :- sekurigo(b1).
+c :- sekurigo(c1).
+ab :- sekurigo(ab1).
+ac :- sekurigo(ac1).
+bc :- sekurigo(bc1).
+abc :- sekurigo(abc1).
 
 
 /**
@@ -220,7 +275,7 @@ eo_zh(Eo,Mrk,Zh,Simileco-Lp:P2) :-
         trd(zh-Lp,Zh,P2),
         P1 \= P2, % evitu duoble trovi/kalkuli tradukojn
         isub(P1,P2,Simileco,[zero_to_one(true)]),
-        Simileco>0.8
+        Simileco>0.7
     )).
 
 eo_zh_grup(Eo,Mrk,Zh,SimSum-Pontoj) :-
@@ -265,6 +320,9 @@ zh_tradukoj(Eo,Mrk,Kiom) :-
 eo_mrk(Eo,Mrk) :-
     distinct(Mrk,eo(Eo,Mrk,_,_,_)).
 
+mrk_trdj(Mrk,Tradukoj) :-
+    setof(Lng:Trd,trd(eo-Lng,_,Mrk,Trd),Tradukoj).
+
 tradukita(Mrk,TStat) :-
     once((
         celo(_,Mrk,_), TStat = '+' % celtraduko jam registrita
@@ -302,21 +360,78 @@ skribu_lin(Str,Indent,LLen) :-
     sub_atom(Str,S,_,0,Resto),
     skribu_lin(Resto,Indent,LLen).
 
-zh_proponoj(eo,Eo,Mrk,N,Kiom) :-
-    forall(
-        call_nth(
-            limit(Kiom,eo_zh_ord(Eo,Mrk,Zh,SimSum-_)),
-            N1),
-        (
-            Nc is 0'a + N1 -1,
-            char_code(Na,Nc),
-            assertz(propono(N,Na,Eo,Mrk,Zh)),
-            zh_trdj(Zh,Tradukoj),
-            format('(~1f) [~w~d]: ~w~n',[SimSum,Na,N,Zh]),
-            skribu_trd(Tradukoj)
-        )
-    ).
 
+/**
+ * Trovas unu post alia proponojn por traduki vorton Eo/Mrk al ĉina kaj skribas la proponojn ankaŭ
+ * N,Na servas por identigi unuopan proponon (faktoj propono(N,Na,Eo,Mrk,Zh))
+ * Kiom donas maksimuman nombron por porponoj, se negativa ni pli koncize skribas la proponojn
+ * kaj ne savas ilin en faktoj propono/5.
+ * 
+ */ 
+zh_propono(eo,Eo,Mrk,N,Na,Kiom) :-
+    retractall(propono(N,_,_,_,_)),
+    Max is abs(Kiom),
+    call_nth(
+        limit(Max,eo_zh_ord(Eo,Mrk,Zh,SimSum-_)),
+        N1),
+    Nc is 0'a + N1 -1,
+    char_code(Na,Nc),
+    once((
+        Kiom>0,
+        assertz(propono(N,Na,Eo,Mrk,Zh)),
+        zh_trdj(Zh,Tradukoj),
+        format('~n-------------------------------~n'),
+        format('(~1f) [~w~d]: ~w~n',[SimSum,Na,N,Zh]),
+        skribu_trd(Tradukoj)
+        ;
+        zh_trdj(Zh,Tradukoj),
+        format('✩ (~1f) [~w~d]: ~w ~w~n',[SimSum,Na,N,Tradukoj,Zh])
+    )).
+
+    
+
+%zh_proponoj(eo,Eo,Mrk,N,Kiom) :-
+%    forall(
+%        call_nth(
+%            limit(Kiom,eo_zh_ord(Eo,Mrk,Zh,SimSum-_)),
+%            N1),
+%        (
+%            Nc is 0'a + N1 -1,
+%            char_code(Na,Nc),
+%            assertz(propono(N,Na,Eo,Mrk,Zh)),
+%            zh_trdj(Zh,Tradukoj),
+%            format('(~1f) [~w~d]: ~w~n',[SimSum,Na,N,Zh]),
+%            skribu_trd(Tradukoj)
+%        )
+%    ).
+
+/**
+ * Trovas unu post alia proponojn por traduki vorton Eo al ĉina kaj skribas la proponojn ankaŭ
+ * N,Na servas por identigi unuopan proponon (faktoj propono(N,Na,Eo,Mrk,Zh))
+ * Kiom donas maksimuman nombron por porponoj, se negativa ni pli koncize skribas la proponojn
+ * 
+ */ 
+zh_propono(eo,Eo,N,Na,Kiom) :-
+    retractall(propono(_,_,_,_,_)),
+    % kiuj diversaj Markoj/Sencoj troviĝas por vorto Eo?
+    findall(N-Mrk,call_nth(eo_mrk(Eo,Mrk),N),Sencoj),
+    % ni unue listigas ĉiujn ĉi
+    forall(
+        member(N-Mrk,Sencoj),
+        (
+            tradukita(Mrk,TStat),    
+            format('~d~w: ~w ~w~n',[N,TStat,Eo,Mrk]),
+            (mrk_trdj(Mrk,Trdj);Trdj=[]),
+            skribu_trd(Trdj)
+        )
+    ),
+    % nun ni serĉu kaj prezentu tradukproponojn por ili
+    member(N-Mrk,Sencoj),
+    format('~n### ❓~w~n',Mrk),
+    zh_propono(eo,Eo,Mrk,N,Na,Kiom).
+
+zh_proponoj(eo,Eo,Mrk,N,Kiom) :-
+    forall(zh_propono(eo,Eo,Mrk,N,_,Kiom),true).
 
 zh_proponoj(eo,Eo,Kiom) :-
     % kiuj diversaj Markoj/Sencoj troviĝas por vorto Eo?
@@ -342,11 +457,11 @@ zh_proponoj(eo,Eo,Kiom) :-
  * Konciza predikatoj por ricevi proponoj por Eo-vortoj
  * serĉu po 20 proponojn por (sekva en vico) esperanta vorto
  */
-p :- 
+propono :- 
     sekva(Eo),
     zh_proponoj(eo,Eo,20).
 
-p(Eo) :- 
+propono(Eo) :- 
     once((
         nonvar(Eo)
         ;
@@ -363,7 +478,7 @@ p(Eo) :-
 % memoru proponon <Na><N> por posta skribo al csv_celo
 % eblas ĉenigi la Na por registri plurajn: s(abgt1).
 % cetere oni povas implice forlasi la 1
-s(Kion) :- 
+sekurigo(Kion) :- 
     atom_chars(Kion,Kodoj),
     once((
         append(Literoj,[Cifero],Kodoj),
@@ -375,23 +490,23 @@ s(Kion) :-
     )),
     forall(
         member(L,Literoj),
-        s(N,L)
+        sekurigo(N,L)
     ).
 
-s(N,Na) :-
+sekurigo(N,Na) :-
     propono(N,Na,Eo,Mrk,Zh),
     zh_prononco(Zh,ZhPr),
     once((
         celo(Eo,Mrk,ZhPr),
-        format('jam ekzistas: ~w;~w;~w~n',[Eo,Mrk,ZhPr])
+        format('❗jam ekzistas: ~w;~w;~w~n',[Eo,Mrk,ZhPr])
         ;
         assert_celo(Eo,Mrk,ZhPr),
-        format('aldonita: ~w;~w;~w~n',[Eo,Mrk,ZhPr])
+        format('✅ aldonita: ~w;~w;~w~n',[Eo,Mrk,ZhPr])
     )),!.
 
 % forigu evtl. antaŭe memoratajn pri tiu senco
 % antaŭ aldoni novan
-sf(N,N1) :-
+sekurigo_for(N,N1) :-
     propono(N,N1,Eo,Mrk,Zh),
     zh_prononco(Zh,ZhPr),
     retractall_celo(Eo,Mrk,_),
@@ -399,7 +514,7 @@ sf(N,N1) :-
     format('aldonita: ~w;~w;~w~n',[Eo,Mrk,ZhPr]).
 
 % registru proponon sub certa (alia) esperanto-vorto
-seo(Eo,Mrk,Na,N) :-
+sekurigo_eo(Eo,Mrk,Na,N) :-
     propono(N,Na,_,_,Zh),
     zh_prononco(Zh,ZhPr),
     once((
@@ -425,8 +540,16 @@ sekva(Eo,Sekva) :-
  * Sekva laŭ vico post 'lasta', ni transsaltas samajn kapvortoj/markojn
  */ 
 sekva(Sekva) :-
-    once((nb_getval(lasta,Lasta);Lasta=1)),
-    call_nth(eo(Eo,Mrk,_,_,_),Lasta),
+    once((
+        catch(nb_getval(lasta,Lasta),_,fail),
+        call_nth(eo(Eo,Mrk,_,_,_),Lasta)
+        ;
+        propono(_,_,Eo,Mrk,_),
+        call_nth(eo(EoN,MrkN,_,_,_),Lasta),
+        Eo=EoN, MrkN=Mrk
+        ;
+        Lasta=1
+    )),
     % trovu la sekvan vorton en mankoj
     call_nth(eo(Sekva,MrkS,_,_,_),N1),
     N1>Lasta, Sekva\=Eo, MrkS\=Mrk, !,
