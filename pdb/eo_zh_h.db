@@ -795,3 +795,852 @@ assert(celo(hidrologio,'hidrologi.0o','水文学[shuǐ wén xué]')).
 assert(celo(hidro,'','九头蛇[jiǔ tóu shé]')).
 assert(celo(hidroplano,'hidrop.0o','水上飛機[shuǐ shàng fēi jī]')).
 assert(celo(hidropso,'hidrops.0o','水肿[shuǐ zhǒng]')).
+assert(celo(hidrostatiko,'hidros.0o','流体静力学[liú tǐ jìng lì xué]')).
+assert(celo(hidrostatiko,'hidros.0o','静水力学[jìng shuǐ lì xué]')).
+assert(celo(hidrostatiko,'hidros.0o','静水学[jìng shuǐ xué]')).
+assert(celo(hidroterapio,'hidrot.0o','水疗[shuǐ liáo]')).
+assert(celo(hidrozooj,'hidroz.0oj','水螅綱[shuǐ xī gāng]')).
+assert(celo(hieno,'hien.0o','鬣狗[liè gǒu]')).
+assert(celo(hienedoj,'hiened.0oj','鬣狗[liè gǒu]')).
+assert(celo(hierarkio,'hierar.0o','层级[céng jí]')).
+assert(celo(hierarkio,'hierar.0o','阶层[jiē céng]')).
+assert(celo(hierarkio,'hierar.0o','等級制度[děng jí zhì dù]')).
+assert(celo(hierarkio,'hierar.0o','僧侣政治[sēng lǚ zhèng zhì]')).
+assert(celo(hieraŭa,'hierau.0a','昨[zuó]')).
+assert(celo(hieraŭa,'hierau.0a','昨天[zuó tiān]')).
+assert(celo(hieraŭa,'hierau.0a','昨日[zuó rì]')).
+assert(celo(hieraŭo,'hierau.0o','前一天[qián yī tiān]')).
+assert(celo(antaŭhieraŭ,'hierau.antaux0','前日[qián rì]')).
+assert(celo(antaŭhieraŭ,'hierau.antaux0','前天[qián tiān]')).
+assert(celo(hieroglifo,'hierog.0o','象形文字[xiàng xíng wén zì]')).
+assert(celo('Hieronimo','hieronim.H0o','杰罗姆[jié luō mǔ]')).
+assert(celo(hifo,'hif.0o','菌丝[jūn sī]')).
+assert(celo(higiena,'higien.0a.rilata','卫生[wèi shēng]')).
+assert(celo(higiena,'higien.0a.saniga','卫生的[wèi shēng de]')).
+assert(celo(higieno,'higien.0o','卫生[wèi shēng]')).
+assert(celo(higieno,'higien.0o','衞生[wèi shēng]')).
+assert(celo(higieno,'higien.0o','卫生学[wèi shēng xué]')).
+assert(celo(higieno,'higien.0o','防疫站[fáng yì zhàn]')).
+retract(celo(higieno,'higien.0o','防疫站[fáng yì zhàn]')).
+assert(celo(higrometro,'higrom.0o','湿度计[shī dù jì]')).
+assert(celo(higroskopo,'higros.0o','湿度计[shī dù jì]')).
+assert(celo(hihi,'hihi.0','呵呵[hē hē]')).
+assert(celo(hihi,'hihi.0','嘻嘻[xī xī]')).
+assert(celo(hiki,'hik.0i','呃逆[è nì]')).
+assert(celo(hiki,'hik.0i','瘚[jué]')).
+assert(celo(hiki,'hik.0i','餩[è]')).
+assert(celo(hiki,'hik.0i','呃[è]')).
+assert(celo(hiki,'hik.0i','打嗝[dǎ gé]')).
+assert(celo('Himalajo','himalaj.H0o','喜馬拉雅[Xǐ mǎ lā yǎ]')).
+assert(celo('Himalajo','himalaj.H0o','喜馬拉雅[xǐ mǎ lā yǎ]')).
+assert(celo('Himalajo','himalaj.H0o','喜馬拉雅山[xǐ mǎ lā yǎ shān]')).
+assert(celo('Himalajo','himalaj.H0o','喜馬拉雅山脈[xǐ mǎ lā yǎ shān mài]')).
+assert(celo('Himalajo','himalaj.H0o','喜馬拉雅山[Xǐ mǎ lā yǎ shān]')).
+assert(celo('Himalajo','himalaj.H0o','喜馬拉雅山脈[Xǐ mǎ lā yǎ shān mài]')).
+assert(celo(himeno,'himen.0o.ANA','处女膜[chǔ nǔ: mó]')).
+assert(celo(himeno,'himen.0o.ANA','处女膜[chǔ nǚ mò]')).
+assert(celo(himenopteroj,'himeno.0oj','膜翅目[mó chì mù]')).
+assert(celo(himnaro,'himn.0aro','宗教詩歌集[zōng jiào shī gē jí]')).
+assert(celo(himno,'himn.0o','贊歌[zàn gē]')).
+assert(celo(himno,'himn.0o','讚美詩[zàn měi shī]')).
+assert(celo(himno,'himn.0o','上帝讚美詩[shàng dì zàn měi shī]')).
+assert(celo(himno,'himn.0o','国歌[guó gē]')).
+assert(celo(himno,'himn.0o','頌[sòng]')).
+assert(celo(himno,'himn.0o','圣歌[shèng gē]')).
+assert(celo(himno,'himn.0o','圣诗[shèng shī]')).
+assert(celo(hino,'hin.0o','驢騾[lú: luó]')).
+assert(celo('Hinajano','hinajan.0o','下乘[xià chéng]')).
+assert(celo('Hinajano','hinajan.0o','小乘[xiǎo chéng]')).
+assert(celo('Hinajano','hinajan.0o','小乘佛教[xiǎo chéng fó jiào]')).
+assert(celo(hindeŭropa,'hind.0euxropa','印欧文[Yìn Oū wén]')).
+assert(celo(hindeŭropa,'hind.0euxropa','印欧语[Yìn Oū yǔ]')).
+assert(celo(hindeŭropa,'hind.0euxropa','印欧语言[Yìn Oū yǔ yán]')).
+assert(celo(hindo,'hind.0o','印度人[yìn dù rén]')).
+assert(celo('Hindujo','hind.H0ujo','印度[Yìn dù]')).
+assert(celo('Hindio','hindi.0o','印度[Yìn dù]')).
+assert(celo('Hindio','hindi.0o','天竺[tiān zhú]')).
+assert(celo('Hindio','hindi.0o','西竺国[xī zhú guó]')).
+assert(celo('Hindio','hindi.0o','身毒[yuán dú]')).
+assert(celo('Hindio','hindi.0o','印度[yìn dù]')).
+assert(celo(hinduismo,'hindu.0ismo','印度教[Yìn dù jiào]')).
+assert(celo(hinduismo,'hindu.0ismo','婆罗门教[pó luó mén jiào]')).
+assert(celo(hinduo,'hindu.0o','印度教徒[Yìn dù jiào tú]')).
+assert(celo('Hindukuŝo','hindukusx.H0o','兴都库什[xīng dū kù shí]')).
+assert(celo('Hindukuŝo','hindukusx.H0o','兴都库什山脉[xīng dū kù shí shān mài]')).
+assert(celo('Hindustano','','印度斯坦[Yìn dù sī tǎn]')).
+assert(celo(hinĝo,'hingx.0o','枢[shū]')).
+assert(celo(hinĝo,'hingx.0o','門樞[mén shū]')).
+assert(celo(hiperbolo,'hiperb.0o','双曲线[shuāng qū xiàn]')).
+assert(celo(hiperbolo,'hiperb.0o','双曲函数[shuāng qǔ hán shù]')).
+assert(celo('hiper-','','极超[jí chāo]')).
+assert(celo('hiper-','','超級[chāo jí]')).
+assert(celo(hiperboloido,'hiperb1.0o','双曲面[shuāng qū miàn]')).
+assert(celo(hiperebeno,'hipere.0o','超平面[chāo píng miàn]')).
+assert(celo(hiperiko,'hiperi.0o','貫葉連翹[guàn yè lián qiáo]')).
+assert(celo(hiperikacoj,'','金丝桃[jīn sī táo]')).
+assert(celo(hiperteksto,'hipertekst.0o','超文本[chāo wén běn]')).
+assert(celo(hiperteksto,'hipertekst.0o','超文件[chāo wén jiàn]')).
+assert(celo(hiperteksto,'hipertekst.0o','網頁格式[wǎng yè gé shì]')).
+assert(celo(hiperteksto,'hipertekst.0o','超文本系統[chāo wén běn xì tǒng]')).
+assert(celo(hipertiroidismo,'hipertiroidism.0o','甲亢[jiǎ kàng]')).
+assert(celo(hipertiroidismo,'hipertiroidism.0o','甲状腺功能亢进[jiǎ zhuàng xiàn gōng néng kàng jìn]')).
+assert(celo(hiphopo,'hiphop.0o','嘻哈[xī hā]')).
+assert(celo(hiphopo,'hiphop.0o','嬉蹦文化[xī bèng wén huà]')).
+assert(celo(hipio,'hipi.0o','嬉皮士[xī pí shì]')).
+assert(celo(hipio,'hipi.0o','嬉皮[xī pí]')).
+assert(celo(hipnoto,'hipnot.0o','催眠[cuī mián]')).
+assert(celo(hipnoto,'hipnot.0o','催眠状态[cuī mián zhuàng tài]')).
+assert(celo(hipocikloido,'hipoci.0o','圆内旋轮线[yuán nèi xuán lún xiàn]')).
+assert(celo(hipocikloido,'hipoci.0o','双纽线[shuāng niǔ xiàn]')).
+assert(celo(hipocikloido,'hipoci.0o','圆内螺线[yuán nèi luó xiàn]')).
+assert(celo(hipodromo,'hipodr.0o','賽馬場[sài mǎ chǎng]')).
+assert(celo(hipofeo,'hipofe.0o.arbedo','沙棘[shā jí]')).
+assert(celo(hipofizo,'hipofiz.0o','脑下垂体[nǎo xià chuí tǐ]')).
+assert(celo(hipogloso,'hipoglos.0o','比目魚[bǐ mù yú]')).
+assert(celo(hipogloso,'hipoglos.0o','大比目魚[dà bǐ mù yú]')).
+assert(celo(hipogrifo,'hipogrif.0o','駿鷹[jùn yīng]')).
+assert(celo(hipokondrio,'hipohx.0o','疑病症[yí bìng zhèng]')).
+assert(celo(hipokondrio,'hipohx.0o','慮病症[lù: bìng zhèng]')).
+assert(celo(hipoĥondriulo,'hipohx.0ulo','疑病症患者[yí bìng zhēng huàn zhě]')).
+assert(celo(hipokaŝtano,'hipoka.0o','桫[suō]')).
+assert(celo(hipokampo,'hipokamp.0o','海馬[hǎi mǎ]')).
+assert(celo(hipokrita,'hipokr.0a','虚伪[xū wěi]')).
+assert(celo(hipokrita,'hipokr.0a','假惺惺[jiǎ xīng xīng]')).
+assert(celo(hipokrita,'hipokr.0a','伪善[wěi shàn]')).
+assert(celo(hipokrita,'hipokr.0a','假仁假义[jiǎ rén jiǎ yì]')).
+assert(celo(hipokritaĵo,'hipokr.0ajxo','假意[jiǎ yì]')).
+assert(celo(hipokritaĵo,'hipokr.0ajxo','口是心非[kǒu shì xīn fēi]')).
+assert(celo(hipokriteco,'hipokr.0eco','伪善[wěi shàn]')).
+assert(celo(hipokriti,'hipokr.0i','佯[yáng]')).
+assert(celo(hipokriti,'hipokr.0i.ion','佯[yáng]')).
+assert(celo(hipokriti,'hipokr.0i.ion','不老实[bù lǎo shí]')).
+assert(celo(hipokriti,'hipokr.0i.ion','两面[liǎng miàn]')).
+assert(celo(hipokriti,'hipokr.0i.ion','心口不一[xīn kǒu bù yī]')).
+assert(celo(hipokriti,'hipokr.0i.ion','装假[zhuāng jiǎ]')).
+assert(celo(hipokritulo,'hipokr.0ulo','伪君子[wěi jūn zǐ]')).
+assert(celo(hipokritulo,'hipokr.0ulo','假正經[jiǎ zhèng jīng]')).
+assert(celo(hipokritulo,'hipokr.0ulo','伪善者[wèi shàn zhě]')).
+assert(celo(malhipokriteco,'hipokr.mal0eco','德性[dé xìng]')).
+assert(celo(malhipokriteco,'hipokr.mal0eco.PSI','真挚[zhēn zhì]')).
+assert(celo(malhipokriteco,'hipokr.mal0eco.PSI','真誠[zhēn chéng]')).
+assert(celo(malhipokriteco,'hipokr.mal0eco.PSI','諴[xián]')).
+assert(celo('Hipokrato','hipokrat.0o','希波克拉底[xī bō kè lā dǐ]')).
+assert(celo(hipoksio,'hipoksi.0o','缺氧[quē yǎng]')).
+assert(celo(hiponimo,'hiponim.0o','下义词[xià yì cí]')).
+assert(celo(hipopotamo,'hipopo.0o','河馬[hé mǎ]')).
+assert(celo(hipopotamedoj,'hipopo1.0oj','河馬科[hé mǎ kē]')).
+assert(celo(hipoteki,'hipote.0i','抵[dǐ]')).
+assert(celo(hipoteki,'hipote.0i','典質[diǎn zhì]')).
+assert(celo(hipoteko,'hipote.0o','按揭[àn jiē]')).
+assert(celo(hipoteko,'hipote.0o','抵押[dǐ yā]')).
+assert(celo(hipoteko,'hipote.0o','抵押貸款[dǐ yā dài kuǎn]')).
+assert(celo(hipotenuzo,'hipote1.0o','絃[xián]')).
+assert(celo(hipotenuzo,'hipote1.0o','斜边[xié biān]')).
+assert(celo(hipoteza,'hipote2.0a','假定[jiǎ dìng]')).
+assert(celo(hipoteza,'hipote2.0a','假想[jiǎ xiǎng]')).
+assert(celo(hipotezi,'hipote2.0i','假定[jiǎ dìng]')).
+assert(celo(hipotezo,'hipote2.0o','假定[jiǎ dìng]')).
+assert(celo(hipotezo,'hipote2.0o','假想[jiǎ xiǎng]')).
+assert(celo(hipotezo,'hipote2.0o','假設[jiǎ shè]')).
+assert(celo(hipotezo,'hipote2.0o','假說[jiǎ shuō]')).
+assert(celo(hipotezo,'hipote2.0o','統假設[tǒng jiǎ shè]')).
+assert(celo(hipstero,'hipster.0o','小清新[xiǎo qīng xīn]')).
+assert(celo(hiragano,'hiragana.0o.TIP','平假名[píng jiǎ míng]')).
+assert(celo(hiraganao,'hiragana.0o.TIP','平假名[píng jiǎ míng]')).
+assert(celo('Hiroŝimo','hirosxim.0o.havenurbo','广岛[Guǎng dǎo]')).
+assert(celo('Hiroŝimo','hirosxim.0o.havenurbo','广岛[guǎng dǎo]')).
+assert(celo('Hiroŝimo','hirosxim.0o.havenurbo','广岛市[guǎng dǎo shì]')).
+assert(celo(hirudo,'hirud.0o','蛭[zhì]')).
+assert(celo(hirudo,'hirud.0o','蚂蟥[mǎ huáng]')).
+assert(celo(hirudo,'hirud.0o','水蛭[shuǐ zhì]')).
+assert(celo(hirudo,'hirud.0o','馬鱉[mǎ biē]')).
+assert(celo(hirudo,'hirud.0o','吸血者[xī xuè zhě]')).
+assert(celo(hirudo,'hirud.0o','蟥[huáng]')).
+assert(celo(hirudo,'hirud.0o','吸血虫[xī xiě chóng]')).
+assert(celo(hirudo,'hirud.0o','高利貸者[gāo lì dài zhě]')).
+assert(celo(hirudo,'hirud.0o','榨取他人金錢者[zhà qǔ tā rén jīn qián zhě]')).
+assert(celo(hirundo,'hirund.0o.KOMUNE','燕子[yàn zi]')).
+assert(celo(hirundo,'hirund.0o.KOMUNE','鳦[yǐ]')).
+assert(celo(hirundo,'hirund.0o.KOMUNE','鷾[yì]')).
+assert(celo(hirundo,'hirund.0o.KOMUNE','燕[yàn]')).
+assert(celo(noktohirundo,'hirund.nokto0o','夜鷹[yè yīng]')).
+assert(celo(hirundedoj,'hirund1.0oj','燕科[yān kē]')).
+assert(celo(hisi,'his.0i','扬帆[yáng fān]')).
+assert(celo(hisi,'his.0i','开船[kāi chuán]')).
+assert(celo(hiskiamo,'hiskia.0o','菪[dàng]')).
+assert(celo(hisopo,'hisop.0o','牛膝草[niú xī cǎo]')).
+assert(celo(hispana,'hispan.0a.lingvo','西語[xī yǔ]')).
+assert(celo(hispana,'hispan.0a.lingvo','西班牙語[Xī bān yá yǔ]')).
+assert(celo(hispana,'hispan.0a.lingvo','西文[Xī wén]')).
+assert(celo(hispano,'hispan.0o','西班牙人[Xī bān yá rén]')).
+assert(celo(hispano,'hispan.0o','西班牙人[xī bān yá rén]')).
+assert(celo('Hispanujo','hispan.H0ujo','西班牙[Xī bān yá]')).
+assert(celo('Hispanujo','hispan.H0ujo','日斯巴尼亞[rì sī bā ní yà]')).
+assert(celo('Hispanujo','hispan.H0ujo','日国[rì guó]')).
+assert(celo('Hispanio','hispani.H0o','西班牙[Xī bān yá]')).
+assert(celo('Hispaniolo','hispaniol.0o','伊斯帕尼奥拉岛[yī sī pà ní ào lā dǎo]')).
+assert(celo('Hispaniolo','hispaniol.0o','伊斯帕尼奥拉[Yī sī pà ní ào lā]')).
+assert(celo('Hispaniolo','hispaniol.0o','海地岛[Hǎi dì Dǎo]')).
+assert(celo(histo,'hist.0o','組織[zǔ zhī]')).
+assert(celo(histamino,'histamin.0o','組織胺[zǔ zhī àn]')).
+assert(celo(histamino,'histamin.0o','組織胺[zǔ zhī ān]')).
+assert(celo(histamino,'histamin.0o','組胺[zǔ ān]')).
+assert(celo(histeria,'hister.0a','歇斯底里[xiē sī dǐ lǐ]')).
+assert(celo(histeria,'hister.0a','癔病[yì bìng]')).
+assert(celo(histeria,'hister.0a','脏躁[zàng zào]')).
+assert(celo(histeria,'hister.0a','狂乱[kuáng luàn]')).
+assert(celo(histerie,'hister.0e','歇斯底里[xiē sī dǐ lǐ]')).
+assert(celo(histerie,'hister.0e','癔病[yì bìng]')).
+assert(celo(histerio,'hister.0o','歇斯底里[xiē sī dǐ lǐ]')).
+assert(celo(histerio,'hister.0o','脏躁[zàng zào]')).
+assert(celo(histerio,'hister.0o','癪[jī]')).
+assert(celo(histerio,'hister.0o','癔病[yì bìng]')).
+assert(celo(histerio,'hister.0o','癔[yì]')).
+assert(celo(histologio,'histologi.0o','組織學[zǔ zhī xué]')).
+assert(celo(historia,'histor.0a','历史上[lì shǐ shàng]')).
+assert(celo(historia,'histor.0a','历史性[lì shǐ xìng]')).
+assert(celo(historiisto,'histor.0isto','历史学家[lì shǐ xué jiā]')).
+assert(celo(historiisto,'histor.0isto','史学家[shǐ xué jiā]')).
+assert(celo(historiisto,'histor.0isto','历史家[lì shǐ jiā]')).
+assert(celo(historio,'histor.0o','历史学[lì shǐ xué]')).
+assert(celo(historio,'histor.0o','史[shǐ]')).
+assert(celo(historio,'histor.0o','历史[lì shǐ]')).
+assert(celo(malsanhistorio,'histor.malsan0o','病史[bìng shǐ]')).
+assert(celo(malsanhistorio,'histor.malsan0o','病历[bìng lì]')).
+assert(celo(antaŭhistorio,'histor.pra0o','史前[shǐ qián]')).
+assert(celo(antaŭhistorio,'histor.pra0o','史前史[shǐ qián shǐ]')).
+assert(celo(vivhistorio,'histor.viv0o','传[zhuàn]')).
+assert(celo(vivhistorio,'histor.viv0o','列传[liè zhuàn]')).
+assert(celo(vivhistorio,'histor.viv0o','传记[zhuàn jì]')).
+assert(celo(vorthistorio,'histor.vort0o','語源[yǔ yuán]')).
+assert(celo(vorthistorio,'histor.vort0o','字源[zì yuán]')).
+assert(celo(vorthistorio,'histor.vort0o','詞源[cí yuán]')).
+assert(celo(vorthistorio,'histor.vort0o','語源學[yǔ yuán xué]')).
+assert(celo(historiografio,'historiografi.0o','史官[shǐ guān]')).
+assert(celo(histriko,'histri.0o','豪猪[háo zhū]')).
+assert(celo(histriko,'histri.0o','箭猪[jiàn zhū]')).
+assert(celo(histriono,'histri1.0o.amuzisto','小丑[xiǎo chǒu]')).
+assert(celo(histrikedoj,'histri2.0oj','箭猪[jiàn zhū]')).
+assert(celo(histrikedoj,'histri2.0oj','豪猪[háo zhū]')).
+assert(celo('Hitlero','hitler.0o.diktatoro','希特勒[Xī tè lè]')).
+assert(celo(hitita,'hitit.0a.hxetida','赫梯[hè tī]')).
+assert(celo(hitita,'hitit.0a.hxetida','赫梯王国[hè tī wáng guó]')).
+assert(celo(oh,'ho.0','咳[hāi]')).
+assert(celo(oh,'ho.0','喔[ō]')).
+assert(celo(oh,'ho.0','嗬[hē]')).
+assert(celo(hobia,'','业余[yè yú]')).
+assert(celo(hobio,'hobi.0o','愛好[ài hào]')).
+assert(celo(hobio,'hobi.0o','癖好[pǐ hào]')).
+assert(celo(hobio,'hobi.0o','嗜好[shì hào]')).
+assert(celo(hobio,'hobi.0o','业余爱好[yè yú ài hǎo]')).
+assert(celo(hobio,'hobi.0o','业余生活爱好[yè yú shēng huó ài hǎo]')).
+assert(celo(hobio,'hobi.0o','兴趣[xìng qù]')).
+assert(celo(hobiulo,'hobi.0ulo','票友[piào yǒu]')).
+assert(celo(hobiulo,'hobi.0ulo','业余[yè yú]')).
+assert(celo(hobiulo,'hobi.0ulo','俗家[sú jiā]')).
+assert(celo(hobiulo,'hobi.0ulo','非专业人员[fēi zhuān yè rén yuán]')).
+assert(celo(hobiulo,'hobi.0ulo','愛好者[ài hǎo zhě]')).
+assert(celo(hobiulo,'hobi.0ulo','业馀者[yè yú zhě]')).
+assert(celo(hobiulo,'hobi.0ulo','外行[wài háng]')).
+assert(celo(hodiaŭ,'hodiau.0','今日[jīn rì]')).
+assert(celo(hodiaŭ,'hodiau.0','今天[jīn tiān]')).
+assert(celo(hodiaŭ,'hodiau.0','本日[běn rì]')).
+assert(celo(hodiaŭ,'hodiau.0','今[jīn]')).
+assert(celo(hodiaŭ,'hodiau.0','今朝[jīn zhāo]')).
+assert(celo(hodiaŭ,'hodiau.0','今儿[jīn r]')).
+assert(celo(hodiaŭ,'hodiau.0','如今[rú jīn]')).
+assert(celo(hodiaŭ,'hodiau.0','当今[dāng jīn]')).
+assert(celo(hodiaŭa,'hodiau.0a','当今[dāng jīn]')).
+assert(celo(hodiaŭo,'hodiau.0o','今日[jīn rì]')).
+assert(celo(hojli,'hojl.0i','狂吠[kuáng fèi]')).
+assert(celo(hojli,'hojl.0i','嚎[háo]')).
+assert(celo(hojli,'hojl.0i','号叫[háo jiào]')).
+assert(celo(hojli,'hojl.0i','狼嗥[láng háo]')).
+assert(celo(hokŝnuro,'hok.0fadeno0sxnuro','釣絲[diào sī]')).
+assert(celo(hoki,'hok.0i.krocxi','引上鉤[yǐn shàng gōu]')).
+assert(celo(hoki,'hok.0i.krocxi','掛…於鉤上[guà … yú gōu shàng]')).
+assert(celo(hoko,'hok.0o','剳[dá]')).
+assert(celo(hoko,'hok.0o','鉅[jù]')).
+assert(celo(hoko,'hok.0o','鉤[gōu]')).
+assert(celo(hoko,'hok.0o','鉤子[gōu zi]')).
+assert(celo(fiŝhoki,'hok.fisx0i','垂釣[chuí diào]')).
+assert(celo(fiŝhoki,'hok.fisx0i','釣[diào]')).
+assert(celo(fiŝhoki,'hok.fisx0i','釣魚[diào yú]')).
+assert(celo(pordhoko,'hok.pord0o','門鉸[mén jiǎo]')).
+assert(celo(pordhoko,'hok.pord0o','枢[shū]')).
+assert(celo(pordhoko,'hok.pord0o','門樞[mén shū]')).
+assert(celo(hokeilo,'hoke.0ilo','曲棍[qū gùn]')).
+assert(celo(hokeo,'hoke.0o','曲棍球[qū gùn qiú]')).
+assert(celo(glacihokeo,'','冰球[bīng qiú]')).
+assert(celo(halo,'hal.0o','大厅[dà tīng]')).
+assert(celo(halo,'hal.0o','厅[tīng]')).
+assert(celo(hola,'hola.0','嘿[hēi]')).
+assert(celo(hola,'hola.0','喂[wèi]')).
+assert(celo('Holando','holand.H0o','荷[Hé]')).
+assert(celo('Holando','holand.H0o','荷兰[Hé lán]')).
+assert(celo('Holando','holand.H0o','菏兰[Hé lán]')).
+assert(celo('Nord-Holando','holand.NordH0o','北荷兰[Běi Hé lán]')).
+assert(celo('Nord-Holando','holand.NordH0o','北荷兰省[běi hé lán shěng]')).
+assert(celo('Sud-Holando','holand.SudH0o','南荷兰[Nán Hé lán]')).
+assert(celo('Sud-Holando','holand.SudH0o','南荷兰[nán hé lán]')).
+assert(celo('Sud-Holando','holand.SudH0o','南荷兰省[nán hé lán xǐng]')).
+assert(celo(holdo,'hold.0o','貨物室[huò wù shì]')).
+assert(celo(holdo,'hold.0o','貨艙[huò cāng]')).
+assert(celo(holdo,'hold.0o','貨間[huò jiān]')).
+assert(celo(holivudo,'holivud.0o','好莱坞[Hǎo lái wù]')).
+assert(celo(holivudo,'holivud.0o','好菜坞[hǎo cài wù]')).
+assert(celo(holivudo,'holivud.0o','好莱坞[hǎo lái wū]')).
+assert(celo(holmio,'holmi.0o','鈥[huǒ]')).
+assert(celo(holmio,'holmi.0o','錵[huā]')).
+assert(celo(hologramo,'hologram.0o.FOT','全息照相[quán xī zhào xiāng]')).
+assert(celo(hologramo,'hologram.0o.FOT','三維圖[sān wéi tú]')).
+assert(celo(hologramo,'hologram.0o.FOT','全息图[quán xī tú]')).
+assert(celo(hologramo,'hologram.0o.FOT','全息图象[quán xī tú xiàng]')).
+assert(celo(hologramo,'hologram.0o.FOT','全息照片[quán xī zhào piàn]')).
+assert(celo(hologramo,'hologram.0o.FOT','立体照相[lì tǐ zhào xiàng]')).
+assert(celo(holograafio,'','全息摄影[quán xī shè yǐng]')).
+assert(celo(holograafio,'','全息摄影术[quán xī shè yǐng shù]')).
+assert(celo(holokaŭsto,'holokauxst.0o','种族灭绝[zhǒng zú miè jué]')).
+assert(celo(holokaŭsto,'holokauxst.0o','集体屠杀[jí tǐ tú shā]')).
+assert(celo(holokaŭsto,'holokauxst.0o','犹太人大屠杀[yóu tài rén dà tú shā]')).
+assert(celo(holomorfa,'holomo.0a','全純[quán chún]')).
+assert(celo(holoturio,'holoturi.0o','海参[hǎi shēn]')).
+assert(celo('Holstinio','holstini.0o','霍尔斯坦[huò ěr sī tǎn]')).
+assert(celo('Ŝlesvig-Holstinio','holstini.Sxlesvig0o','石勒苏益格‐荷尔斯泰因州[shí lè sū yì gé ‐ hé ěr sī tài yīn zhōu]')).
+assert(celo('Ŝlesvig-Holstinio','holstini.Sxlesvig0o','石勒苏益格荷尔斯泰因州[shí lè sū yì gé hé ěr sī tài yīn zhōu]')).
+assert(celo('Ŝlesvig-Holstinio','holstini.Sxlesvig0o','石荷州[shí hé zhōu]')).
+assert(celo(homa,'hom.0a','用人力[yòng rén lì]')).
+assert(celo(homa,'hom.0a','从人的角度看[cōng rén de jiǎo dù kàn]')).
+assert(celo(homa,'hom.0a','通人情[tōng rén qíng]')).
+assert(celo(homama,'hom.0ama','仁慈[rén cí]')).
+assert(celo(homama,'hom.0ama','慈善[cí shàn]')).
+assert(celo(homeca,'hom.0eca.morale','用人力[yòng rén lì]')).
+assert(celo(homeca,'hom.0eca.morale','具有人类特点[jù yǒu rén lèi tè diǎn]')).
+assert(celo(homeca,'hom.0eca.morale','从人的角度看[cōng rén de jiǎo dù kàn]')).
+assert(celo(homeca,'hom.0eca.morale','通人情[tōng rén qíng]')).
+assert(celo(homeca,'hom.0eca.morale','人一样[rén yī yàng]')).
+assert(celo(homeco,'hom.0eco.morala','人道[rén dào]')).
+assert(celo(homeco,'hom.0eco.morala','为人[wéi rén]')).
+assert(celo(homeco,'hom.0eco.morala','为人的资格[wéi rén de zī ge]')).
+assert(celo(homido,'hom.0ido.infano','囝[jiǎn]')).
+assert(celo(homido,'hom.0ido.infano','孩[hái]')).
+assert(celo(homido,'hom.0ido.infano','少儿[shào ér]')).
+assert(celo(homino,'hom.0ino','女人[nǚ rén]')).
+assert(celo(homino,'hom.0ino','女子[nǚ zǐ]')).
+assert(celo(homino,'hom.0ino','女性[nǚ xìng]')).
+assert(celo(homino,'hom.0ino','妇女[fù nǚ]')).
+assert(celo(ĉiuhoma,'hom.cxiu0a','普遍[pǔ biàn]')).
+assert(celo(kunhomo,'hom.kun0o','同胞[tóng bāo]')).
+assert(celo(malhoma,'hom.mal0a','残忍[cán rěn]')).
+assert(celo(malhoma,'hom.mal0a','非人[fēi rén]')).
+assert(celo(homplena,'hom.mult0a','人口稠密[rén kǒu chóu mì]')).
+assert(celo(neĝhomo,'hom.negx0o','雪人[xuě rén]')).
+assert(celo(neĝhomo,'hom.negx0o','堆雪人[duī xuě rén]')).
+assert(celo(prahomo,'hom.pra0o','原始人[yuán shǐ rén]')).
+assert(celo(senhoma,'hom.sen0a','无人[wú rén]')).
+assert(celo(senhomejo,'hom.sen0ejo','废地[fèi dì]')).
+assert(celo(senhomejo,'hom.sen0ejo','荒野[huāng yě]')).
+assert(celo(senhomejo,'hom.sen0ejo','废墟[fèi xū]')).
+assert(celo(senhomejo,'hom.sen0ejo','荒漠[huāng mò]')).
+assert(celo(senhomejo,'hom.sen0ejo','荒地[huāng dì]')).
+assert(celo(senhomigi,'hom.sen0igi','减少人口[jiǎn shǎo rén kǒu]')).
+assert(celo(superhoma,'hom.super0a','超乎常人的[chāo hū cháng rén de]')).
+assert(celo(superhomo,'hom.super0o','超人[chāo rén]')).
+assert(celo(superhomo,'hom.super0o','超人說[chāo rén shuǒ]')).
+assert(celo(homedoj,'homed.0oj','类人猿[lèi rén yuán]')).
+assert(celo(homedoj,'homed.0oj','人科[rén kē]')).
+assert(celo(homeomorfio,'homeom.0o','已扩张[yǐ kuò zhāng]')).
+assert(celo(homeomorfio,'homeom.0o','同胚[tóng pēi]')).
+assert(celo(homeopatio,'homeop.0o','順勢療法[shùn shì liáo fǎ]')).
+assert(celo('Homero','homer.0o','荷馬[Hé mǎ]')).
+assert(celo(homofobio,'homofo.0o','同性恋恐惧症[tóng xìng liàn kǒng jù zhèng]')).
+assert(celo(homofobio,'homofo.0o','恐同症[kǒng tóng zhèng]')).
+assert(celo(homogena,'homoge.0a','同質[tóng zhì]')).
+assert(celo(homogena,'homoge.0a','均勻[jūn yún]')).
+assert(celo(homogeneco,'homoge.0eco','齊性[qí xìng]')).
+assert(celo(homogeneco,'homoge.0eco','均勻性[jūn yún xìng]')).
+assert(celo(malhomogeneco,'homoge.mal0eco','不均勻[bù jūn yún]')).
+assert(celo(homologa,'homolo.0a','同源[tóng yuán]')).
+assert(celo(homologa,'homolo.0a','类似器官[lèi sì qì guān]')).
+assert(celo(homomorfio,'homomo.0o','同态[tóng tài]')).
+assert(celo(homonimeco,'homoni.0eco','同音异议词[tóng yīn yì yì cí]')).
+assert(celo(homonimo,'homoni.0o','同音詞[tóng yīn cí]')).
+assert(celo(homonimio,'homonimi.0o','同音异议词[tóng yīn yì yì cí]')).
+assert(celo(homotetiaĵo,'homote.0ajxo','等軸雙曲線[děng zhóu shuāng qū xiàn]')).
+assert(celo(homotetio,'homote.0o','等軸雙曲線[děng zhóu shuāng qū xiàn]')).
+assert(celo('Honduro','hondur.H0o','宏都拉斯[Hóng dū lā sī]')).
+assert(celo('Honduro','hondur.H0o','洪都拉斯[Hóng dū lā sī]')).
+assert(celo('Honduro','hondur.H0o','洪都拉斯[hóng dū lā sī]')).
+assert(celo(honesta,'honest.0a','廉[lián]')).
+assert(celo(honesta,'honest.0a','廉洁[lián jié]')).
+assert(celo(honesta,'honest.0a','正直[zhèng zhí]')).
+assert(celo(honesta,'honest.0a','誠實[chéng shí]')).
+assert(celo(honesta,'honest.0a','忠厚[zhōng hòu]')).
+assert(celo(honesta,'honest.0a','讜[dǎng]')).
+assert(celo(honesta,'honest.0a','悫[què]')).
+assert(celo(honesta,'honest.0a','顜[jiǎng]')).
+assert(celo(honesta,'honest.0a','实诚[shí chéng]')).
+assert(celo(honesta,'honest.0a','惇[dūn]')).
+assert(celo(honesta,'honest.0a','正派[zhèng pài]')).
+assert(celo(malhonesta,'honest.mal0a.rigora','不正当[bù zhèng dàng]')).
+assert(celo(malhonesta,'honest.mal0a.rigora','歪[wāi]')).
+assert(celo(malhonesta,'honest.mal0a.rigora','缺德[quē dé]')).
+assert(celo(malhonestaĵo,'honest.mal0ajxo','謊[huǎng]')).
+assert(celo(malhonestaĵo,'honest.mal0ajxo','詐欺[zhà qī]')).
+assert(celo(malhonestaĵo,'honest.mal0ajxo','弊[bì]')).
+assert(celo('Hongkongo','honkong.0o','香港[Xiāng gǎng]')).
+assert(celo(honora,'honor.0a','可敬[kě jìng]')).
+assert(celo(honora,'honor.0a','尊貴[zūn guì]')).
+assert(celo(honora,'honor.0a','光彩[guāng cǎi]')).
+assert(celo(honora,'honor.0a','崇[chóng]')).
+assert(celo(honori,'honor.0i','榮[róng]')).
+assert(celo(honori,'honor.0i','榮幸[róng xìng]')).
+assert(celo(honori,'honor.0i','尊崇[zūn chóng]')).
+assert(celo(honori,'honor.0i','尊敬[zūn jìng]')).
+assert(celo(honori,'honor.0i','使高貴[shǐ gāo guì]')).
+assert(celo(honoriga,'honor.0iga','祗[zhī]')).
+assert(celo(honorinda,'honor.0inda','可敬[kě jìng]')).
+assert(celo(honoro,'honor.0o','尊严[zūn yán]')).
+assert(celo(honoro,'honor.0o','榮耀[róng yào]')).
+assert(celo(honoro,'honor.0o','榮譽[róng yù]')).
+assert(celo(honoro,'honor.0o','榮幸[róng xìng]')).
+assert(celo(malhonora,'honor.mal0a','不礼貌[bù lǐ mào]')).
+assert(celo(malhonora,'honor.mal0a','无耻[wú chǐ]')).
+assert(celo(senhonorigi,'honor.mal0isen0igi','可恥[kě chǐ]')).
+assert(celo(senhonorigi,'honor.mal0isen0igi','玷辱[diàn rǔ]')).
+assert(celo(malhonoro,'honor.mal0o','辱[rǔ]')).
+assert(celo(malhonoro,'honor.mal0o','恥辱[chǐ rǔ]')).
+assert(celo(honorario,'honora.0o','酬金[chóu jīn]')).
+assert(celo(honorario,'honora.0o','謝儀[xiè yí]')).
+assert(celo(honorario,'honora.0o','謝禮[xiè lǐ]')).
+assert(celo(honorario,'honora.0o','稿費[gǎo fèi]')).
+assert(celo('Honŝuo','honsxu.0o.insulo','本州[Běn zhōu]')).
+assert(celo(hontema,'hont.0ema','腼腆[miǎn tiǎn]')).
+assert(celo(hontema,'hont.0ema','愐[miǎn]')).
+assert(celo(hontema,'hont.0ema','忸怩[niǔ ní]')).
+assert(celo(hontema,'hont.0ema','怩[ní]')).
+assert(celo(honti,'hont.0i','沒臉[méi liǎn]')).
+assert(celo(honti,'hont.0i','羞惭[xiū cán]')).
+assert(celo(honti,'hont.0i','瞢[méng]')).
+assert(celo(honti,'hont.0i','惭愧[cán kuì]')).
+assert(celo(honti,'hont.0i','难为情[nán wéi qíng]')).
+assert(celo(honti,'hont.0i','忝[tiǎn]')).
+assert(celo(honti,'hont.0i','感到羞愧[gǎn dào xiū kuì]')).
+assert(celo(honti,'hont.0i','惭[cán]')).
+assert(celo(hontigi,'hont.0igi','使感到羞愧[shǐ gǎn dào xiū kuì]')).
+assert(celo(hontigi,'hont.0igi','势感到可耻[shì gǎn dào kě chǐ]')).
+assert(celo(hontigi,'hont.0igi','可恥[kě chǐ]')).
+assert(celo(hontigi,'hont.0igi','应受谴责[yìng shòu qiǎn zé]')).
+assert(celo(hontigi,'hont.0igi','使困窘[shǐ kùn jiǒng]')).
+assert(celo(hontigi,'hont.0igi','过不去[guò bu qù]')).
+assert(celo(hontindaĵo,'hont.0indajxo','恥[chǐ]')).
+assert(celo(hontindaĵo,'hont.0indajxo','謑[xì]')).
+assert(celo(hontindaĵo,'hont.0indajxo','恥辱[chǐ rǔ]')).
+assert(celo(hontindaĵo,'hont.0indajxo','辱[rǔ]')).
+assert(celo(honto,'hont.0o','恥[chǐ]')).
+assert(celo(honto,'hont.0o','恥辱[chǐ rǔ]')).
+assert(celo(honto,'hont.0o','羞恥[xiū chǐ]')).
+assert(celo(honto,'hont.0o','詬[gòu]')).
+assert(celo(honto,'hont.0o','謑[xì]')).
+assert(celo(honto,'hont.0o','赧[nǎn]')).
+assert(celo(honto,'hont.0o','辱[rǔ]')).
+assert(celo(honto,'hont.0o','羞愧[xiū kuì]')).
+assert(celo(sekshonto,'hont.seks0emo','羞恥[xiū chǐ]')).
+assert(celo(senhonta,'hont.sen0a','皮脸[pí liǎn]')).
+assert(celo(senhonta,'hont.sen0a','覥[tiǎn]')).
+assert(celo(senhonta,'hont.sen0a','无耻[wú chǐ]')).
+assert(celo(senhonta,'hont.sen0a','淫秽[yín huì]')).
+assert(celo(senhonta,'hont.sen0a','不恥[bù chǐ]')).
+assert(celo(senhonta,'hont.sen0a','不要脸[bù yào liǎn]')).
+assert(celo(senhonta,'hont.sen0a','侮辱性[wǔ rù xìng]')).
+assert(celo(senhonta,'hont.sen0a','沒羞沒臊[méi xiū méi sào]')).
+assert(celo(senhonta,'hont.sen0a','脸皮厚[liǎn pí hòu]')).
+assert(celo(senhontulo,'hont.sen0ulo','无赖[wú lài]')).
+assert(celo(hopi,'hop.0i','跳[tiào]')).
+assert(celo(hopi,'hop.0i','蹦[bèng]')).
+assert(celo(hopi,'hop.0i','蹦跳[bèng tiào]')).
+assert(celo(hopi,'hop.0i','独脚跳[dú jiǎo tiào]')).
+assert(celo(hopi,'hop.0i','跃[yuè]')).
+assert(celo(hopi,'hop.0i','跳跃[tiào yuè]')).
+assert(celo(hopi,'hop.0i','单脚跳[dān jiǎo tiào]')).
+assert(celo(hopludo,'hop.0ludo.SPO','跳房子[tiào fáng zi]')).
+assert(celo(horlibro,'hor.0aro','时刻表[shí kè biǎo]')).
+assert(celo(horlibro,'hor.0aro','时程[shí chéng]')).
+assert(celo(horlibro,'hor.0aro','时间表[shí jiān biǎo]')).
+assert(celo(hore,'hor.0e','每小時一次的[měi xiǎo shí yī cì de]')).
+assert(celo(hore,'hor.0e','每小时一次[měi xiǎo shí yī cì]')).
+assert(celo(horo,'hor.0o','小时[xiǎo shí]')).
+assert(celo(horo,'hor.0o','鐘頭[zhōng tóu]')).
+assert(celo(horo,'hor.0o','鐘點[zhōng diǎn]')).
+assert(celo(ĉiuhore,'hor.cxiu0e','每小時一次的[měi xiǎo shí yī cì de]')).
+assert(celo(ĉiuhore,'hor.cxiu0e','每小时一次[měi xiǎo shí yī cì]')).
+assert(celo(horduono,'hor.duon0o','半小时[bàn xiǎo shí]')).
+assert(celo(kvaronhoro,'hor.kvaron0o','刻[kè]')).
+assert(celo(kvaronhoro,'hor.kvaron0o','一刻鐘[yī kè zhōng]')).
+assert(celo(kvaronhoro,'hor.kvaron0o','一刻[yí kè]')).
+assert(celo(kvaronhoro,'hor.kvaron0o','十五分鐘[shí wǔ fèn zhōng]')).
+assert(celo(premhoro,'hor.prem0o','高峰期[gāo fēng qī]')).
+assert(celo(premhoro,'hor.prem0o','上下班时间[shàng xià bān shí jiān]')).
+assert(celo(hordo,'hord.0o','驫[biāo]')).
+assert(celo(hordo,'hord.0o','鍵箱[jiàn xiāng]')).
+assert(celo('Ora hordo','hord.Ora0o','金帐汗国[Jīn zhàng Hán guó]')).
+assert(celo('Ora hordo','hord.Ora0o','金帐汗国[jīn zhàng hàn guó]')).
+assert(celo(hordeo,'horde.0o','大麥[dà mài]')).
+assert(celo(hordeo,'horde.0o','牟[móu]')).
+assert(celo(hordeo,'horde.0o','麰[móu]')).
+assert(celo(horizonto,'horizo.0o','天边[tiān biān]')).
+assert(celo(horizonto,'horizo.0o','天际[tiān jì]')).
+assert(celo(horizonto,'horizo.0o','地平線[dì píng xiàn]')).
+assert(celo(horizonto,'horizo.0o','眼界[yǎn jiè]')).
+assert(celo(horizontala,'horizo1.0a','横[héng]')).
+assert(celo(horizontala,'horizo1.0a','卧式[wò shì]')).
+assert(celo(horizontala,'horizo1.0a','水平[shuǐ píng]')).
+assert(celo(horizontalo,'horizo1.0o','水平線[shuǐ píng xiàn]')).
+assert(celo(horloĝisto,'horlog.0isto','表的制造人[biǎo de zhì zào rén]')).
+assert(celo(horloĝisto,'horlog.0isto','鐘表匠[zhōng biǎo jiàng]')).
+assert(celo('Horloĝo','horlog.H0o','时钟座[Shí zhōng zuò]')).
+assert(celo(akvohorloĝo,'horlog.akvo0o','滴漏計時器[dī lòu jì shí qì]')).
+assert(celo(akvohorloĝo,'horlog.akvo0o','漏壶[lòu hú]')).
+assert(celo('atoma horloĝo','horlog.atom0o','原子鐘[yuán zǐ zhōng]')).
+assert(celo(atomhorloĝo,'horlog.atom0o','原子鐘[yuán zǐ zhōng]')).
+assert(celo(bracelethorloĝo,'horlog.bracelet0o','腕表[wàn biǎo]')).
+assert(celo(bracelethorloĝo,'horlog.bracelet0o','表[biǎo]')).
+assert(celo(bracelethorloĝo,'horlog.bracelet0o','手表[shǒu biǎo]')).
+assert(celo(brakhorloĝo,'horlog.brak0o','腕表[wàn biǎo]')).
+assert(celo(brakhorloĝo,'horlog.brak0o','表[biǎo]')).
+assert(celo(brakhorloĝo,'horlog.brak0o','手表[shǒu biǎo]')).
+assert(celo(stophorloĝo,'horlog.klik0o','秒表[miǎo biǎo]')).
+assert(celo(stophorloĝo,'horlog.klik0o','停表[tíng biǎo]')).
+assert(celo(stophorloĝo,'horlog.klik0o','跑表[pǎo biǎo]')).
+assert(celo(stophorloĝo,'horlog.klik0o','馬表[mǎ biǎo]')).
+assert(celo(stophorloĝo,'horlog.klik0o','計時計[jì shí jì]')).
+assert(celo(stophorloĝo,'horlog.klik0o','跑錶[pǎo biǎo]')).
+assert(celo(murhorloĝo,'horlog.mur0o','鐘[zhōng]')).
+assert(celo(murhorloĝo,'horlog.mur0o','挂钟[guà zhōng]')).
+assert(celo(poŝhorloĝo,'horlog.posx0o','怀表[huái biǎo]')).
+assert(celo(poŝhorloĝo,'horlog.posx0o','表[biǎo]')).
+assert(celo(poŝhorloĝo,'horlog.posx0o','怀錶[huái biǎo]')).
+assert(celo(poŝhorloĝo,'horlog.posx0o','袋錶[dài biǎo]')).
+assert(celo('sabla horloĝo','horlog.sablo0o','沙漏[shā lòu]')).
+assert(celo('sabla horloĝo','horlog.sablo0o','沙鐘[shā zhōng]')).
+assert(celo('sabla horloĝo','horlog.sablo0o','砂玻璃[shā bō li]')).
+assert(celo(sablohorloĝo,'horlog.sablo0o','沙漏[shā lòu]')).
+assert(celo(sablohorloĝo,'horlog.sablo0o','沙鐘[shā zhōng]')).
+assert(celo(sablohorloĝo,'horlog.sablo0o','砂玻璃[shā bō li]')).
+assert(celo(sunhorloĝo,'horlog.sun0o','晷[guǐ]')).
+assert(celo(sunhorloĝo,'horlog.sun0o','日規[rì guī]')).
+assert(celo(sunhorloĝo,'horlog.sun0o','日晷[rì guǐ]')).
+assert(celo(vekhorloĝo,'horlog.vek0o','闹钟[nào zhōng]')).
+assert(celo(hormono,'hormon.0o','激素[jī sù]')).
+assert(celo(hormono,'hormon.0o','荷尔蒙[hé ěr méng]')).
+assert(celo(hormono,'hormon.0o','賀爾蒙[hè ěr méng]')).
+assert(celo(hormono,'hormon.0o','激素类[jī sù lèi]')).
+assert(celo(horora,'horor.0a','可怕[kě pà]')).
+assert(celo(horora,'horor.0a','了不得[liǎo bu de]')).
+assert(celo(horora,'horor.0a','触目惊心[chù mù jīng xīn]')).
+assert(celo(horora,'horor.0a','駭人聽聞[hài rén tīng wén]')).
+assert(celo(horora,'horor.0a','恐怖[kǒng bù]')).
+assert(celo(hororfilmo,'horor.0filmo','恐怖电影[kǒng bù diàn yǐng]')).
+assert(celo(hororfilmo,'horor.0filmo','恐怖片[kǒng bù piàn]')).
+assert(celo(horori,'horor.0i','顫[chàn]')).
+assert(celo(hororigi,'horor.0igi','吓坏[xià huài]')).
+assert(celo(hororigi,'horor.0igi','惊吓[jīng xià]')).
+assert(celo(hororigi,'horor.0igi','吓傻[xià shǎ]')).
+assert(celo(hororigi,'horor.0igi','瘆[shèn]')).
+assert(celo(hororo,'horor.0o','恐怖[kǒng bù]')).
+assert(celo(hororo,'horor.0o','怖[bù]')).
+assert(celo(horoskopo,'horosk.0o','运势[yùn shì]')).
+assert(celo(horoskopo,'horosk.0o','占星[zhān xīng]')).
+assert(celo(horoskopo,'horosk.0o','命相[mìng xiàng]')).
+assert(celo(horoskopo,'horosk.0o','八字[bā zì]')).
+assert(celo(horoskopo,'horosk.0o','占星术[zhān xīng shù]')).
+assert(celo(horoskopo,'horosk.0o','星象学[xīng xiàng xué]')).
+assert(celo(horoskopo,'horosk.0o','天宫图[tiān gōng tú]')).
+assert(celo(horto,'hort.0o','果园[guǒ yuán]')).
+assert(celo(hortensio,'horten.0o','繡球花[xiù qiú huā]')).
+assert(celo(hortikulturisto,'hortikultur.0isto','园丁[yuán dīng]')).
+assert(celo(hortikulturisto,'hortikultur.0isto','园艺家[yuán yì jiā]')).
+assert(celo(hortikulturisto,'hortikultur.0isto','花匠[huā jiàng]')).
+assert(celo(hortikulturisto,'hortikultur.0isto','花商[huā shāng]')).
+assert(celo(hortikulturisto,'hortikultur.0isto','花工[huā gōng]')).
+assert(celo(hortikulturisto,'hortikultur.0isto','卖花人[mài huā rén]')).
+assert(celo(hortikulturo,'hortikultur.0o','园艺[yuán yì]')).
+assert(celo(hortikulturo,'hortikultur.0o','园艺学[yuán yì xué]')).
+assert(celo(hortulano,'hortul.0o','圃鵐[pǔ wú]')).
+assert(celo(hoso,'hos.0o','軟管[ruǎn guǎn]')).
+assert(celo(hospico,'hospic.0o','安宁病房[ān níng bìng fáng]')).
+assert(celo(hospico,'hospic.0o','安养院[ān yǎng yuàn]')).
+assert(celo(hospico,'hospic.0o','收容所[shōu róng suǒ]')).
+assert(celo(hospitalo,'hospit.0o','医院[yī yuàn]')).
+assert(celo(enhospitaligi,'','住院治疗[zhù yuàn zhì liáo]')).
+assert(celo(hoto,'hot.0','咑[dā]')).
+assert(celo(hot,'hot.0','咑[dā]')).
+assert(celo(hotelmastro,'hotel.0estro.posedanto','客栈老板[kè zhàn lǎo bǎn]')).
+assert(celo(hotelmastro,'hotel.0estro.posedanto','旅店經理[lǚ diàn jīng lǐ]')).
+assert(celo(hotelmastro,'hotel.0estro.posedanto','旅館主人[lǚ guǎn zhǔ rén]')).
+assert(celo(hotelmastro,'hotel.0estro.posedanto','旅館老闆[lǚ guǎn lǎo bǎn]')).
+assert(celo(hotelestro,'hotel.0estro.posedanto','旅店經理[lǚ diàn jīng lǐ]')).
+assert(celo(hotelestro,'hotel.0estro.posedanto','旅館老闆[lǚ guǎn lǎo bǎn]')).
+assert(celo(hotelo,'hotel.0o','酒店[jiǔ diàn]')).
+assert(celo(hotelo,'hotel.0o','飯店[fàn diàn]')).
+assert(celo(hotelo,'hotel.0o','宾馆[bīn guǎn]')).
+assert(celo(hotelo,'hotel.0o','旅社[lǔ: shè]')).
+assert(celo(hotelo,'hotel.0o','旅館[lǔ: guǎn]')).
+assert(celo(hotelo,'hotel.0o','客栈[kè zhàn]')).
+assert(celo(hotelo,'hotel.0o','招待所[zhāo dài suǒ]')).
+assert(celo(hotelo,'hotel.0o','大飯店[dà fàn diàn]')).
+assert(celo('Huberto','hubert.0o','胡伯特[hú bó tè]')).
+assert(celo(huĉino,'hucxin.0o','胡琴[hú qin]')).
+assert(celo('Hudsono','hudson.0o','哈德逊河[Hā dé xùn Hé]')).
+assert(celo(hufo,'huf.0o','蹄[tí]')).
+assert(celo(hufo,'huf.0o','蹢[dí]')).
+assert(celo(hufo,'huf.0o','蹄子[tí zi]')).
+assert(celo(hufo,'huf.0o','馬腳蹄[mǎ jiǎo tí]')).
+assert(celo(hufumo,'huf.0umo','馬蹄鐵[mǎ tí tiě]')).
+assert(celo(hufumo,'huf.0umo','鐵掌[tiě zhǎng]')).
+assert(celo(hufumo,'huf.0umo','馬掌[mǎ zhǎng]')).
+assert(celo(neparhufuloj,'huf.nepar0uloj','奇蹄目[jī tí mù]')).
+assert(celo(parhufuloj,'huf.par0uloj','偶蹄目[ǒu tí mù]')).
+assert(celo(unuhufuloj,'huf.unu0uloj','馬科[mǎ kē]')).
+assert(celo(hugenoto,'hugenot.0o','雨格諾派[yǔ gé nuò pài]')).
+assert(celo(hulo,'hul.0o.KOMUNE','澜[lán]')).
+assert(celo(hulo,'hul.0o.MAR','船身[chuán shēn]')).
+assert(celo(huligano,'huligan.0o','古惑仔[gǔ huò zǎi]')).
+assert(celo(huligano,'huligan.0o','小混混[xiǎo hùn hùn]')).
+assert(celo(huligano,'huligan.0o','阿飛[ā fēi]')).
+assert(celo(huligano,'huligan.0o','流氓[liú máng]')).
+assert(celo(huligano,'huligan.0o','痞子[pǐ zi]')).
+assert(celo(humo,'hum.0o','腐殖質[fǔ zhí zhì]')).
+assert(celo(humana,'human.0a','人道[rén dào]')).
+assert(celo(humana,'human.0a','仁[rén]')).
+assert(celo(humana,'human.0a','仁惠[rén huì]')).
+assert(celo(humana,'human.0a','慈[cí]')).
+assert(celo(humana,'human.0a','有人情[yǒu rén qíng]')).
+assert(celo(humaneco,'human.0eco','人道[rén dào]')).
+assert(celo(humaneco,'human.0eco','仁[rén]')).
+assert(celo(humanismo,'human.0ismo','人道主义[rén dào zhǔ yì]')).
+assert(celo(humanismo,'human.0ismo','人文主义[rén wén zhǔ yì]')).
+assert(celo(nehumana,'human.mal0a','残忍[cán rěn]')).
+assert(celo(nehumana,'human.mal0a','非人[fēi rén]')).
+assert(celo(humanistiko,'humanistik.0o','人文科学[rén wén kē xué]')).
+assert(celo(humanitara,'humanitar.0a','人道主义[rén dào zhǔ yì]')).
+assert(celo(humero,'humer.0o','肱骨[gōng gǔ]')).
+assert(celo(humero,'humer.0o','肱[gōng]')).
+assert(celo(humero,'humer.0o','肱部[gōng bù]')).
+assert(celo(humida,'humid.0a','滋润[zī rùn]')).
+assert(celo(humida,'humid.0a','浥[yì]')).
+assert(celo(humida,'humid.0a','潮湿[cháo shī]')).
+assert(celo(humida,'humid.0a','湿润[shī rùn]')).
+assert(celo(humida,'humid.0a','润泽[rùn zé]')).
+assert(celo(humida,'humid.0a','湿[shī]')).
+assert(celo(humida,'humid.0a','洳[rù]')).
+assert(celo(humideco,'humid.0o','湿度[shī dù]')).
+assert(celo(humideco,'humid.0o','澍[shù]')).
+assert(celo(humideco,'humid.0o','墒[shāng]')).
+assert(celo(humido,'humid.0o','湿度[shī dù]')).
+assert(celo(humido,'humid.0o','澍[shù]')).
+assert(celo(humila,'humil.0a','謙卑[qiān bēi]')).
+assert(celo(humila,'humil.0a','謙遜[qiān xùn]')).
+assert(celo(humila,'humil.0a','謙虛[qiān xū]')).
+assert(celo(humila,'humil.0a','使卑下[shǐ bēi xià]')).
+assert(celo(humila,'humil.0a','使苦恼[shǐ kǔ nǎo]')).
+assert(celo(humileco,'humil.0eco','謙卑[qiān bēi]')).
+assert(celo(humileco,'humil.0eco','謙遜[qiān xùn]')).
+assert(celo(humiligi,'humil.0igi','㧑损[huī sǔn]')).
+assert(celo(humiligi,'humil.0igi','使丟臉[shǐ diū liǎn]')).
+assert(celo(humiligi,'humil.0igi','使苦恼[shǐ kǔ nǎo]')).
+assert(celo(humiligi,'humil.0igi','侮辱[wǔ rǔ]')).
+assert(celo(humiligi,'humil.0igi','凌辱[líng rǔ]')).
+assert(celo(humiligo,'humil.0igo','欺辱[qī rǔ]')).
+assert(celo(humiligo,'humil.0igo','羞辱[xiū rǔ]')).
+assert(celo(humiligo,'humil.0igo','屈辱[qū rǔ]')).
+assert(celo(humiligo,'humil.0igo','丟臉[diū liǎn]')).
+assert(celo(humiligo,'humil.0igo','恥辱[chǐ rǔ]')).
+assert(celo(humiligo,'humil.0igo','抛脸[pāo liǎn]')).
+assert(celo(malhumila,'humil.mal0a','傲慢[ào màn]')).
+assert(celo(malhumila,'humil.mal0a','高傲[gāo ào]')).
+assert(celo(malhumila,'humil.mal0a','傲[ào]')).
+assert(celo(malhumila,'humil.mal0a','驕[jiāo]')).
+assert(celo(malhumila,'humil.mal0a','自大[zì dà]')).
+assert(celo(malhumila,'humil.mal0a','牛气[niú qi]')).
+assert(celo(malhumila,'humil.mal0a','奡[ào]')).
+assert(celo(malhumila,'humil.mal0a','驕矜[jiāo jīn]')).
+assert(celo(malhumila,'humil.mal0a','憍[jiāo]')).
+assert(celo(malhumila,'humil.mal0a','牛屄[niú bī]')).
+assert(celo(malhumila,'humil.mal0a','嚣张[xiāo zhāng]')).
+assert(celo(malhumileco,'humil.mal0eco','驕傲[jiāo ào]')).
+assert(celo(malhumileco,'humil.mal0eco','架子[jià zi]')).
+assert(celo(malhumileco,'humil.mal0eco','气焰[qì yàn]')).
+assert(celo(humori,'humor.0i.animstate','屈尊[qū zūn]')).
+assert(celo(humori,'humor.0i.animstate','屈就[qū jiù]')).
+assert(celo(humoro,'humor.0o.animstato','心境[xīn jìng]')).
+assert(celo(humoro,'humor.0o.animstato','心緒[xīn xù]')).
+assert(celo(humoro,'humor.0o.animstato','脾气[pí qi]')).
+assert(celo(humoro,'humor.0o.animstato','心情[xīn qíng]')).
+assert(celo(humoro,'humor.0o.animstato','情志[qíng zhì]')).
+assert(celo(humoro,'humor.0o.animstato','情緒[qíng xù]')).
+assert(celo(bonhumora,'humor.bon0a','高兴[gāo xìng]')).
+assert(celo(bonhumora,'humor.bon0a','高高兴兴[gāo gāo xìng xìng]')).
+assert(celo(bonhumora,'humor.bon0a','好气[hǎo qì]')).
+assert(celo(mishumora,'humor.malbon0a','不爽[bù shuǎng]')).
+assert(celo(mishumora,'humor.malbon0a','心緒不佳[xīn xù bù jiā]')).
+assert(celo(humura,'humur.0a','幽默[yōu mò]')).
+assert(celo(humura,'humur.0a','風趣[fēng qù]')).
+assert(celo(humura,'humur.0a','詼諧[huī xié]')).
+assert(celo(humura,'humur.0a','戏虐[xì nüè]')).
+assert(celo(humuri,'humur.0i','說著玩[shuō zhe wán]')).
+assert(celo(humuri,'humur.0i','开玩笑[kāi wán xiào]')).
+assert(celo(humuro,'humur.0o','幽默[yōu mò]')).
+assert(celo(humuro,'humur.0o','風趣[fēng qù]')).
+assert(celo(humuro,'humur.0o','幽默感[yōu mò gǎn]')).
+assert(celo(humuro,'humur.0o','笑林[xiào lín]')).
+assert(celo('nigra humuro','humur.nigra0o','黩[dú]')).
+retractall(celo('nigra humuro',_,_),1).
+assert(celo(humuso,'humus.0o','鷹嘴豆泥[yīng zuǐ dòu ní]')).
+assert(celo(huno,'hun.0o','匈人[xiōng rén]')).
+assert(celo(hundejo,'hund.0ejo','狗屋[gǒu wū]')).
+assert(celo(hundido,'hund.0ido','小狗[xiǎo gǒu]')).
+assert(celo(hundo,'hund.0o','犬[quǎn]')).
+assert(celo(hundo,'hund.0o','狗[gǒu]')).
+assert(celo('Ĉashundoj','hund.Cxas0oj','猎犬座[Liè quǎn zuò]')).
+assert(celo('Granda Hundo','hund.GrandaH0o','大犬座[Dà quǎn zuò]')).
+assert(celo('Malgranda Hundo','hund.MalgrandaH0o','小犬座[Xiǎo quǎn zuò]')).
+assert(celo(ĉashundo,'hund.cxas0o','猎犬[liè quǎn]')).
+assert(celo(ĉashundo,'hund.cxas0o','猎狗[liè gǒu]')).
+assert(celo(ĉenhundo,'hund.cxen0o','看家狗[kān jiā gǒu]')).
+assert(celo(leporhundo,'hund.lepor0o','灰猎犬[huī liè quǎn]')).
+assert(celo(melhundo,'hund.mel0o','猈[bà]')).
+assert(celo(melhundo,'hund.mel0o','短腿猎犬[duǎn tuǐ liè quǎn]')).
+assert(celo(ŝafhundo,'hund.sxaf0o','牧羊犬[mù yáng quǎn]')).
+assert(celo(ŝafhundo,'hund.sxaf0o','牧犬[mù quǎn]')).
+assert(celo(terhundo,'hund.ter0o','梗犬[gěng quǎn]')).
+assert(celo(terhundo,'hund.ter0o','鐵利亞[tiě lì yà]')).
+assert(celo(hundedoj,'hunded.0oj','犬科[quǎn kē]')).
+assert(celo(hungaro,'hungar.0o','馬扎爾[Mǎ zhā ěr]')).
+assert(celo('Hungarujo','hungar.H0ujo','匈牙利[Xiōng yá lì]')).
+assert(celo('Hungarujo','hungar.H0ujo','匈[Xiōng]')).
+assert(celo('Hungario','hungari.H0o','匈牙利[Xiōng yá lì]')).
+assert(celo('Hungario','hungari.H0o','匈牙利[xiōng yá lì]')).
+assert(celo(hupi,'hup.0i','按喇叭[àn lǎ ba]')).
+assert(celo(hupi,'hup.0i','鳴號[míng hào]')).
+assert(celo(hupo,'hup.0o','嘟[dū]')).
+assert(celo(hura,'hura.0','好哇[hǎo wā]')).
+assert(celo(hurai,'hura.0i','喝彩[hè cǎi]')).
+assert(celo(hurai,'hura.0i','慆[tāo]')).
+assert(celo(hurai,'hura.0i','怿[yì]')).
+assert(celo(hurai,'hura.0i','欢呼[huān hū]')).
+assert(celo(hurai,'hura.0i','誉为[yù wéi]')).
+assert(celo(hurao,'hura.0o','好哇[hǎo wā]')).
+assert(celo(hurli,'hurl.0i','狂吠[kuáng fèi]')).
+assert(celo(hurli,'hurl.0i','叫喊[jiào hǎn]')).
+assert(celo(hurli,'hurl.0i','吼[hǒu]')).
+assert(celo(hurli,'hurl.0i','呼啸[hū xiào]')).
+assert(celo(hurli,'hurl.0i','啸[xiào]')).
+assert(celo(hurli,'hurl.0i','嚎[háo]')).
+assert(celo(husaro,'husar.0o','輕騎兵[qīng qí bīng]')).
+assert(celo('Hustono','huston.0o','休斯頓[Xiū sī dùn]')).
+assert(celo('Hustono','huston.0o','休斯敦[Xiū sī dūn]')).
+assert(celo('Hustono','huston.0o','休士頓[Xiū shì dùn]')).
+assert(celo(husumo,'husum.0o','分块[fèn kuài]')).
+assert(celo(husumo,'husum.0o','拉門[lā mén]')).
+assert(celo(husumo,'husum.0o','滑門[huá mén]')).
+assert(celo(huŝi,'husx.0i','吓跑[xià pǎo]')).
+assert(celo(ĥaldeo,'hxalde.0o','新巴比伦王国[xīn bā bǐ lún wáng guó]')).
+assert(celo(ĥalkogeno,'hxalkogen.0o','氧族元素[yǎng zú yuán sù]')).
+assert(celo(ĥalkolitiko,'hxalkolitik.0o','紅銅時代[hóng tóng shí dài]')).
+assert(celo(kameleono,'hxamel.0o','变色龙[biàn sè lóng]')).
+assert(celo(kameleono,'hxamel.0o','避役[bì yì]')).
+assert(celo(kameleono,'hxamel.0o','見風使舵[jiàn fēng shǐ duò]')).
+assert(celo(kameleono,'hxamel.0o','蜥[xī]')).
+assert(celo(kameleono,'hxamel.0o','蜴[yì]')).
+assert(celo(kameleono,'hxamel.0o','变色蜥[biàn sè xī]')).
+assert(celo('Ĥameleono','hxamel.Hx0o','堰蜓座[Yàn tíng zuò]')).
+assert(celo(ĥano,'hxan.0o','可[kè]')).
+assert(celo(ĥano,'hxan.0o','可汗[kè hán]')).
+assert(celo(ĥanujo,'hxan.0ujo','汗国[hàn guó]')).
+assert(celo(ĥanujo,'hxan.0ujo','汗国[hán guó]')).
+assert(celo('Ĥanuko','hxanuk.0o','光明節[Guāng míng jié]')).
+assert(celo('Ĥanuko','hxanuk.0o','哈努卡[Hā nǔ kǎ]')).
+assert(celo(kaosa,'hxaos.0a','忞[wěn]')).
+assert(celo(kaosa,'hxaos.0a','乱成一团[luàn chéng yī tuán]')).
+assert(celo(kaosa,'hxaos.0a','杂乱[zá luàn]')).
+assert(celo(kaosa,'hxaos.0a','乱局[luàn jú]')).
+assert(celo(kaoso,'hxaos.0o','混乱[hùn luàn]')).
+assert(celo(kaoso,'hxaos.0o','混沌[hùn dùn]')).
+assert(celo(kaoso,'hxaos.0o','乱象[luàn xiàng]')).
+assert(celo(karadrio,'hxarad.0o','鴴[héng]')).
+assert(celo(ĥaraktero,'hxarakt.0o','性格[xìng gé]')).
+assert(celo(ĥaraktero,'hxarakt.0o','質[zhì]')).
+assert(celo(ĥaraktero,'hxarakt.0o','人气[rén qì]')).
+assert(celo(ĥaraktero,'hxarakt.0o','性[xìng]')).
+assert(celo(ĥaraktero,'hxarakt.0o','骨气[gǔ qì]')).
+assert(celo(ĥaraktero,'hxarakt.0o','品質[pǐn zhì]')).
+assert(celo(ĥaraktero,'hxarakt.0o','風調[fēng diào]')).
+assert(celo(ĥaraktero,'hxarakt.0o','个性[gè xìng]')).
+assert(celo(ĥaraktero,'hxarakt.0o','特徵[tè zhēng]')).
+assert(celo(ĥaraktero,'hxarakt.0o','性子[xìng zi]')).
+assert(celo(ĥaraktero,'hxarakt.0o','人品[rén pǐn]')).
+assert(celo(ĥaraktero,'hxarakt.0o','品德[pǐn dé]')).
+assert(celo('Ĥarkivo','hxarkov.0o','卡尔可夫[kǎ ěr kě fū]')).
+assert(celo('Ĥarkivo','hxarkov.0o','哈尔科夫[hā ěr kē fū]')).
+assert(celo('Kartumo','hxartum.0o','喀土穆[Kā tǔ mù]')).
+assert(celo('Kartumo','hxartum.0o','喀土穆[kā tǔ mù]')).
+assert(celo('Ĥebrono','hxebron.0o','希伯仑[xī bó lún]')).
+assert(celo(kemiaĵo,'hxemi.0ajxo','化学品[huà xué pǐn]')).
+assert(celo(kemiaĵo,'hxemi.0ajxo','化学物质[huà xué wù zhì]')).
+assert(celo(kemiaĵo,'hxemi.0ajxo','化学材料[huà xué cái liào]')).
+assert(celo(kemiaĵo,'hxemi.0ajxo','化学试剂[huà xué shì jì]')).
+assert(celo(ĥemia,'','化学性[huà xué xìng]')).
+assert(celo(kemiisto,'hxemi.0isto','化学家[huà xué jiā]')).
+assert(celo(kemiisto,'hxemi.0isto','化学者[huà xué zhě]')).
+assert(celo(kemiisto,'hxemi.0isto','女化学家[nǚ huà xué jiā]')).
+assert(celo(kemio,'hxemi.0o','化学[huà xué]')).
+assert(celo(elektroĥemio,'hxemi.elektro0o','电化学[diàn huà xué]')).
+assert(celo(elektroĥemio,'hxemi.elektro0o','磁化学[cí huà xué]')).
+assert(celo('neorganika ĥemio','hxemi.neorganika0o','无机化学[wú jī huà xué]')).
+assert(celo('organika ĥemio','hxemi.organika0o','有机化学[yǒu jī huà xué]')).
+assert(celo(petrolĥemio,'hxemi.petrol0o','石油化工[shí yóu huà gōng]')).
+assert(celo(petrolĥemio,'hxemi.petrol0o','石油化学[shí yóu huà xué]')).
+assert(celo(petrolĥemio,'hxemi.petrol0o','石油化学工业[shí yóu huà xué gōng yè]')).
+assert(celo('Ĥeopso','hxeops.0o','胡夫[hú fū]')).
+assert(celo(ĥetido,'hxet.0ido','赫梯[hè tī]')).
+assert(celo(ĥetido,'hxet.0ido','赫梯王国[hè tī wáng guó]')).
+assert(celo('Ĥio','hxi2.Hx0o','希俄斯[xī é sī]')).
+assert(celo(kimero,'hximer.0o.FIG','奇想[qí xiǎng]')).
+assert(celo(kimero,'hximer.0o.FIG','空想[kōng xiǎng]')).
+assert(celo(ĥina,'hxin.0a','中文[Zhōng wén]')).
+assert(celo(ĥinino,'hxinin.0o','奎宁[kuí níng]')).
+assert(celo(ĥinino,'hxinin.0o','金雞納[jīn jī nà]')).
+assert(celo(kirurgia,'hxirur.0a','手术上[shǒu shù shàng]')).
+assert(celo(kirurgia,'hxirur.0a','用于外科[yòng yú wài kē]')).
+assert(celo(kirurgiisto,'hxirur.0isto','外科医生[wài kē yī shēng]')).
+assert(celo(kirurgio,'hxirur.0o','外科[wài kē]')).
+assert(celo(kirurgio,'hxirur.0o','外科学[wài kē xué]')).
+assert(celo(kirurgo,'hxirurg.0o','外科医生[wài kē yī shēng]')).
+assert(celo(kirurgo,'hxirurg.0o','外科医师[wài kē yī shī]')).
+assert(celo(kitino,'hxitin.0o','几丁[jī dīng]')).
+assert(celo(kitino,'hxitin.0o','几丁质[jī dīng zhì]')).
+assert(celo(kitino,'hxitin.0o','壳质[qiào zhì]')).
+assert(celo(kitino,'hxitin.0o','甲壳素[jiǎ qiào sù]')).
+assert(celo(kitino,'hxitin.0o','几丁壳质甲壳质壳沅[jī dīng ké zhì jiǎ ké zhì ké yuán]')).
+assert(celo(kitino,'hxitin.0o','甲壳素[jiǎ ké sù]')).
+assert(celo(klamidio,'hxlamidi.0o','衣細菌[yī xì jūn]')).
+assert(celo(klamidio,'hxlamidi.0o','非淋[fēi lìn]')).
+assert(celo(ĥmero,'hxmer.0o','高棉族[gāo mián zú]')).
+assert(celo('Ruĝaj Ĥmeroj','hxmer.Rugxaj_0oj','紅色高棉[hóng sè gāo mián]')).
+assert(celo('Ruĝaj Ĥmeroj','hxmer.Rugxaj_0oj','柬埔寨共产党[jiǎn pǔ zhài gòng chǎn dǎng]')).
+assert(celo(ĥolero,'hxoler.0o','痧[shā]')).
+assert(celo(ĥolero,'hxoler.0o','霍乱[huò luàn]')).
+assert(celo(ĥolero,'hxoler.0o','虎列拉[hǔ liè lā]')).
+assert(celo(ĥolero,'hxoler.0o','虎烈拉[hǔ liè lā]')).
+assert(celo(ĥolesterino,'hxolesterin.0o','胆固醇[dǎn gù chún]')).
+assert(celo(kolesterolo,'hxolesterol.0o','胆固醇[dǎn gù chún]')).
+assert(celo(ĥoraĵo,'hxor.0ajxo','頌歌[sòng gē]')).
+assert(celo(ĥoraĵo,'hxor.0ajxo','众赞歌[zhòng zàn gē]')).
+assert(celo(ĥorano,'hxor.0ano','歌唱家[gē chàng jiā]')).
+assert(celo(ĥorano,'hxor.0ano','歌手[gē shǒu]')).
+assert(celo(ĥorestro,'hxor.0estro','領唱[lǐng chàng]')).
+assert(celo(ĥoro,'hxor.0o','合唱团[hé chàng tuán]')).
+assert(celo(ĥoro,'hxor.0o','合唱[hé chàng]')).
+assert(celo(ĥoro,'hxor.0o','唱詩班[chàng shī bān]')).
+assert(celo(ĥorduloj,'hxord.0uloj','脊索动物[jǐ suǒ dòng wù]')).
