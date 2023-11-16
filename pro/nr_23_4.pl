@@ -150,6 +150,7 @@ zh_tradukoj(Eo,Kiom) :-
 % Ni iom simpligas la dialogon 
 % permesante doni komencan demandsignon kaj serĉvorton,
 % do ?enhavo. anstataŭ zh_tradukoj(enhavo,10).
+% ?Ido...
 :- op(800,fy,user:(?)).
 ?(Eo) :- zh_tradukoj(Eo,10).
 

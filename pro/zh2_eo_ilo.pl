@@ -78,9 +78,9 @@ sercho(Request) :-
 */
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-eo_def('vrt/eo_def_h.csv'). % eo-de/en/fr
-db_celo('pdb/eo_zh_h.db').
-csv_celo('vrt/eo_zh_h.csv').
+eo_def('vrt/eo_def_i.csv'). % eo-de/en/fr
+db_celo('pdb/eo_zh_i.db').
+csv_celo('vrt/eo_zh_i.csv').
 
 /**
  * Dialogo por aldono de tradukoj:
@@ -96,7 +96,7 @@ csv_celo('vrt/eo_zh_h.csv').
 dialog :- sekva(Eo), dialog(Eo).
 dialog(Eo) :-
     % superrigardo pri proponoj
-    format('superrigardo:~n'),
+    format('## superrigardo:~n'),
     zh_proponoj(eo,Eo,-16), nl,
     % iteraciu tra proponoj por unuopajn konservi
     repeat, (
