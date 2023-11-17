@@ -528,6 +528,13 @@ sekurigo_eo(Eo,Mrk,Na,N) :-
 trad_stat(Tradukita,TStat) :- member(Tradukita-TStat,[true-'+',false-'-']).
 
 /**
+ * Trovas la lastan konservitan tradukon eo-zh
+ */
+lasta(Eo,N) :-
+    order_by([desc(N)],call_nth(celo(Eo,_,_),N)).
+
+
+/**
  * Sekva en vico post iu Esperanto-vorto.
  * Voku komence por meti komencan numeron en variablo 'lasta'
  */ 
@@ -542,6 +549,9 @@ sekva(Eo,Sekva) :-
 sekva(Sekva) :-
     once((
         catch(nb_getval(lasta,Lasta),_,fail),
+        call_nth(eo(Eo,Mrk,_,_,_),Lasta)
+        ;
+        lasta(Eo,Lasta),
         call_nth(eo(Eo,Mrk,_,_,_),Lasta)
         ;
         propono(_,_,Eo,Mrk,_),
