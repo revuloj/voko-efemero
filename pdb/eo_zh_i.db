@@ -879,3 +879,469 @@ assert(celo(injekto,'injekt.0o','注射[zhù shè]')).
 assert(celo(inko,'ink.0o','墨水[mò shuǐ]')).
 assert(celo(inko,'ink.0o','墨[mò]')).
 assert(celo(inko,'ink.0o','墨魚[mò yú]')).
+assert(celo('ĥina inko','ink.cxina0o','墨汁[mò zhī]')).
+assert(celo(presinko,'ink.pres0o','油墨[yóu mò]')).
+assert(celo(presinko,'ink.pres0o','黑墨[hēi mò]')).
+assert(celo(presinko,'ink.pres0o','印刷彩色油墨[yìn shuà cǎi sè yóu mò]')).
+assert(celo(presinko,'ink.pres0o','印刷油墨[yìn shuà yóu mò]')).
+assert(celo(presinko,'ink.pres0o','墨色[mò sè]')).
+assert(celo(presinko,'ink.pres0o','打印墨水[dǎ yìn mò shuǐ]')).
+assert(celo(inkao,'inka.0o','印加人[yìn jiā rén]')).
+assert(celo(inkao,'inka.0o','印加文明[yìn jiā wén míng]')).
+assert(celo(inkao,'inka.0o','印加[yìn jiā]')).
+assert(celo(inkandeska,'inkand.0a','极亮[jí liàng]')).
+assert(celo(inklini,'inklin.0i','倾向[qīng xiàng]')).
+assert(celo(inklini,'inklin.0i','倾向于[qīng xiàng yú]')).
+assert(celo(inklini,'inklin.0i','趋于[qū yú]')).
+assert(celo(korinklini,'inklin.kor0i','怜爱[lián ài]')).
+assert(celo(korinkliniĝi,'inklin.kor0igxi','愛慕[ài mù]')).
+assert(celo('kora inklino','inklin.kor0o','亲情[qīn qíng]')).
+assert(celo(malinklina,'inklin.mal0a','不乐意[bù lè yì]')).
+assert(celo(malinklina,'inklin.mal0a','勉強[miǎn qiǎng]')).
+assert(celo(malinklina,'inklin.mal0a','厌恶[yān è]')).
+assert(celo(malinklina,'inklin.mal0a','不感兴趣[bù gǎn xìng qù]')).
+assert(celo(malinklina,'inklin.mal0a','厌恶[yàn wù]')).
+assert(celo(inkludi,'inklud.0i','內含[nèi hán]')).
+assert(celo(inkludi,'inklud.0i','包括[bāo kuò]')).
+assert(celo(inkludi,'inklud.0i','包罗[bāo luó]')).
+assert(celo(inkludi,'inklud.0i','含括[hán guā]')).
+assert(celo(inkludi,'inklud.0i','囊括[náng kuò]')).
+assert(celo(inkludi,'inklud.0i','括[kuò]')).
+assert(celo(inkludi,'inklud.0i','收列[shōu liè]')).
+assert(celo(inkludi,'inklud.0i','归入[guī rù]')).
+assert(celo(inkludi,'inklud.0i','涵[hán]')).
+assert(celo(inkluzivi,'inkluz.0i','內含[nèi hán]')).
+assert(celo(inkluzivi,'inkluz.0i','括[kuò]')).
+assert(celo(inkluzivi,'inkluz.0i','收列[shōu liè]')).
+assert(celo(inkluzivi,'inkluz.0i','包括[bāo kuò]')).
+assert(celo(inkluzivi,'inkluz.0i','並把[bìng bǎ]')).
+assert(celo(inkluzivigi,'inkluz.0igi','附上[fù shàng]')).
+assert(celo(inkluzivigi,'inkluz.0igi','並把[bìng bǎ]')).
+assert(celo(inkluzivigi,'inkluz.0igi','括[kuò]')).
+assert(celo(inkluzivigi,'inkluz.0igi','收列[shōu liè]')).
+assert(celo(malinkluzivi,'inkluz.mal0i','不参与[bù cān yù]')).
+assert(celo(malinkluzivi,'inkluz.mal0i','排除掉[pái chú diào]')).
+assert(celo(malinkluzivi,'inkluz.mal0i','毫无考虑余地[háo wú kǎo lü yú dì]')).
+assert(celo(malinkluzivi,'inkluz.mal0i','关在门外[guān zài mén wài]')).
+assert(celo(inkognite,'inkogn.0e','隐名[yǐn míng]')).
+assert(celo(inkogniteco,'inkogn.0eco','匿名[nì míng]')).
+assert(celo(inkogniteco,'inkogn.0eco','无名[wú míng]')).
+assert(celo(inkogniteco,'inkogn.0eco','匿名性[nì míng xìng]')).
+assert(celo(inkogniteco,'inkogn.0eco','匿名者[nì míng zhě]')).
+assert(celo(inkrustaĵo,'inkrus.0ajxo','鑲嵌[xiāng qiàn]')).
+assert(celo(inkrusti,'inkrus.0i','鑲嵌[xiāng qiàn]')).
+assert(celo(inkubo,'inkub.0o.songxo','夢魘[mèng yǎn]')).
+assert(celo(inkubo,'inkub.0o.songxo','魇[yǎn]')).
+assert(celo(inkubo,'inkub.0o.songxo','噩夢[è mèng]')).
+assert(celo(inkubo,'inkub.0o.songxo','恶梦[è mèng]')).
+assert(celo(inkubo,'inkub.0o.songxo','寎[bìng]')).
+assert(celo(inkubo,'inkub.0o.songxo','夢魔[mèng mó]')).
+assert(celo(inkubo,'inkub.0o.songxo','可怕的事物[kě pà de shì wù]')).
+assert(celo(inkubacio,'inkubaci.0o','潛伏期[qián fú qī]')).
+assert(celo(inkubacio,'inkubaci.0o','抱蛋[bào dàn]')).
+assert(celo(inkubacio,'inkubaci.0o','熟慮[shú lü]')).
+assert(celo(inkubatoro,'inkubator.0o','保育箱[bǎo yù xiāng]')).
+assert(celo(inkubatoro,'inkubator.0o','孵化器[fū huà qì]')).
+assert(celo(inkubatoro,'inkubator.0o','孵化场[fū huà chǎng]')).
+assert(celo(inkudo,'inkud.0o','砧[zhēn]')).
+assert(celo(inkudo,'inkud.0o','鐵砧[tiě zhēn]')).
+assert(celo(inkunablo,'inkunabl.0o','初期刊本[chū qī kān běn]')).
+assert(celo(inkvizicio,'inkviz.0o','刑訊[xíng xùn]')).
+assert(celo(inkvizicio,'inkviz.0o','异端裁判所[yì duān cái pàn suǒ]')).
+assert(celo(inkvizicio,'inkviz.0o','审理[shěn lǐ]')).
+assert(celo(inokuli,'inokul.0i.grefti','接木[jiē mù]')).
+assert(celo(insekto,'insekt.0o','虫子[chóng zi]')).
+assert(celo(insekto,'insekt.0o','昆虫[kūn chóng]')).
+assert(celo(insektoj,'insekt.0oj','昆虫[kūn chóng]')).
+assert(celo(insektaĉo,'insekt.fi0o','害虫[hài chóng]')).
+assert(celo(insekticido,'insekticid.0o','杀虫剂[shā chóng jì]')).
+assert(celo(insekticido,'insekticid.0o','杀虫[shā chóng]')).
+assert(celo(insekticido,'insekticid.0o','杀虫药[shā chóng yào]')).
+assert(celo(inkrusti,'inkrus.0i','結殼[jié ké]')).
+assert(celo(inserti,'','鑲[xiāng]')).
+assert(celo(insida,'insid.0a','隐袭[yǐn xí]')).
+assert(celo(insida,'insid.0a','阴险[yīn xiǎn]')).
+assert(celo(insida,'insid.0a','阴毒[yīn dú]')).
+assert(celo(insida,'insid.0a','蛇一般[shé yī bān]')).
+assert(celo(insida,'insid.0a','蛇形[shé xíng]')).
+assert(celo(insida,'insid.0a','詭譎[guǐ jué]')).
+assert(celo(insidema,'insid.0ema','隐袭[yǐn xí]')).
+assert(celo(insidema,'insid.0ema','阴险[yīn xiǎn]')).
+assert(celo(insidi,'insid.0i','暗算[àn suàn]')).
+assert(celo(insidaĵo,'insid.0o','图谋[tú móu]')).
+assert(celo(insidaĵo,'insid.0o','詭計[guǐ jì]')).
+assert(celo(insidaĵo,'insid.0o','阴谋[yīn móu]')).
+assert(celo(insidaĵo,'insid.0o','陷阱[xiàn jǐng]')).
+assert(celo(insigno,'insign.0o','徽[huī]')).
+assert(celo(insigno,'insign.0o','徽章[huī zhāng]')).
+assert(celo(insigno,'insign.0o','像章[xiàng zhāng]')).
+assert(celo(insigno,'insign.0o','象徵[xiàng zhēng]')).
+assert(celo(insinui,'insinu.0i','隐射[yǐn shè]')).
+assert(celo(insista,'insist.0a','毅[yì]')).
+assert(celo(insista,'insist.0a','坚持不懈[jiān chí bù xiè]')).
+assert(celo(insista,'insist.0a','始終不渝[shǐ zhōng bù yú]')).
+assert(celo(insista,'insist.0a','鍥而不捨[qiè ér bù shě]')).
+assert(celo(insistadi,'insist.0adi','坚称[jiān chēng]')).
+assert(celo(insistadi,'insist.0adi','執意[zhí yì]')).
+assert(celo(insistadi,'insist.0adi','坚持[jiān chí]')).
+assert(celo(insiste,'insist.0e','再三[zài sān]')).
+assert(celo(insiste,'insist.0e','苦苦[kǔ kǔ]')).
+assert(celo(insisti,'insist.0i','坚持[jiān chí]')).
+assert(celo(insisti,'insist.0i','偏要[piān yào]')).
+assert(celo(insisti,'insist.0i','執意[zhí yì]')).
+assert(celo(insisti,'insist.0i','坚执[jiān zhí]')).
+assert(celo(insisti,'insist.0i','非要[fēi yào]')).
+assert(celo(insisti,'insist.0i','坚称[jiān chēng]')).
+assert(celo(insolenta,'insolent.0a','嚣张[xiāo zhāng]')).
+assert(celo(insolenta,'insolent.0a','张狂[zhāng kuáng]')).
+assert(celo(insolenta,'insolent.0a','驕橫[jiāo hèng]')).
+assert(celo(insolento,'insolent.0o','狂妄[kuáng wàng]')).
+assert(celo(inspektisto,'inspek.0anto','监督员[jiān dū yuán]')).
+assert(celo(inspektisto,'inspek.0anto','监察员[jiān chá yuán]')).
+assert(celo(inspektisto,'inspek.0anto','检察员[jiǎn chá yuán]')).
+assert(celo(inspektisto,'inspek.0anto','視察員[shì chá yuán]')).
+assert(celo(inspektisto,'inspek.0anto','高級官員[gāo jí guān yuán]')).
+assert(celo(inspektisto,'inspek.0anto','检验员[jiǎn yàn yuán]')).
+assert(celo(inspektisto,'inspek.0anto','监判员[jiān pàn yuán]')).
+assert(celo(inspektisto,'inspek.0anto','監审員[jiān shěn yuán]')).
+assert(celo(inspekti,'inspek.0i','查看[chá kàn]')).
+assert(celo(inspekti,'inspek.0i','核查[hé chá]')).
+assert(celo(inspekti,'inspek.0i','稽查[jī chá]')).
+assert(celo(inspekti,'inspek.0i','稽[jī]')).
+assert(celo(inspekti,'inspek.0i','检查[jiǎn chá]')).
+assert(celo(inspekti,'inspek.0i','視察[shì chá]')).
+assert(celo(inspekti,'inspek.0i','查驗[chá yàn]')).
+assert(celo(inspekti,'inspek.0i','审核[shěn hé]')).
+assert(celo(inspekti,'inspek.0i','察[chá]')).
+assert(celo(inspekti,'inspek.0i','检验[jiǎn yàn]')).
+assert(celo(inspekti,'inspek.0i','攷[kǎo]')).
+assert(celo(inspekti,'inspek.0i','查[chá]')).
+assert(celo(inspekti,'inspek.0i','检[jiǎn]')).
+assert(celo(inspekti,'inspek.0i','稽核[jī hé]')).
+assert(celo(inspektado,'inspek.0o.KOMUNE','管制[guǎn zhì]')).
+assert(celo(inspektado,'inspek.0o.KOMUNE','检查[jiǎn chá]')).
+assert(celo(inspektoro,'inspek1.0o','督察[dū chá]')).
+assert(celo(inspektoro,'inspek1.0o','检查员[jiǎn chá yuán]')).
+assert(celo(inspektoro,'inspek1.0o','监督员[jiān dū yuán]')).
+assert(celo(inspektoro,'inspek1.0o','督工[dū gōng]')).
+assert(celo(inspektoro,'inspek1.0o','稽查人员[jī chá rén yuán]')).
+assert(celo(inspektoro,'inspek1.0o','稽查员[jī chá yuán]')).
+assert(celo(inspektoro,'inspek1.0o','查票员[chá piào yuán]')).
+retract(celo(inspektoro,'inspek1.0o','督工[dū gōng]')).
+retract(celo(inspektoro,'inspek1.0o','查票员[chá piào yuán]')).
+assert(celo(inspiri,'inspir.0i','振奋[zhèn fèn]')).
+assert(celo(inspiri,'inspir.0i','授意[shòu yì]')).
+assert(celo(inspiri,'inspir.0i','感召[gǎn zhào]')).
+assert(celo(inspiro,'inspir.0o','灵感[líng gǎn]')).
+assert(celo(instalaĵo,'instal.0ajxo','設施[shè shī]')).
+assert(celo(instalaĵo,'instal.0ajxo','装置[zhuāng zhì]')).
+assert(celo(instalaĵo,'instal.0ajxo','設備[shè bei]')).
+assert(celo(instali,'instal.0i.enpostenigi','安放[ān fàng]')).
+assert(celo(instali,'instal.0i.ion','装[zhuāng]')).
+assert(celo(instali,'instal.0i.ion','装机[zhuāng jī]')).
+assert(celo(instali,'instal.0i.ion','置[zhì]')).
+assert(celo(instaliĝi,'instal.0igxi','安家[ān jiā]')).
+assert(celo(instaliĝi,'instal.0igxi','定居[dìng jū]')).
+assert(celo(instaliĝi,'instal.0igxi','立足[lì zú]')).
+assert(celo(instaliĝi,'instal.0igxi','落戶[luò hù]')).
+assert(celo(instalilo,'instal.0ilo','安装程序[ān zhuāng chéng xù]')).
+assert(celo(malinstali,'instal.mal0i','卸載[xiè zǎi]')).
+assert(celo(malinstali,'instal.mal0i','卸載[xiè zài]')).
+assert(celo(instigi,'instig.0i','煽动[shān dòng]')).
+assert(celo(instigi,'instig.0i','煽[shān]')).
+assert(celo(instigi,'instig.0i','鼓动[gǔ dòng]')).
+assert(celo(instigi,'instig.0i','挑起[tiǎo qǐ]')).
+assert(celo(instigi,'instig.0i','促[cù]')).
+assert(celo(instigi,'instig.0i','怂恿[sǒng yǒng]')).
+assert(celo(instigi,'instig.0i','指使[zhǐ shǐ]')).
+assert(celo(instigi,'instig.0i','誘導[yòu dǎo]')).
+assert(celo(instigi,'instig.0i','誘發[yòu fā]')).
+assert(celo(instigi,'instig.0i','鼓励[gǔ lì]')).
+assert(celo(instigi,'instig.0i','引发[yǐn fā]')).
+assert(celo(instigi,'instig.0i','引起[yǐn qǐ]')).
+retract(celo(instigi,'instig.0i','引起[yǐn qǐ]')).
+assert(celo(instigilo,'instig.0ilo','誘因[yòu yīn]')).
+assert(celo(instigo,'instig.0o','煽动[shān dòng]')).
+assert(celo(malinstigi,'instig.mal0i','劝阻[quàn zǔ]')).
+assert(celo(instinkta,'instin.0a','凭直觉[píng zhí jué]')).
+assert(celo(instinkta,'instin.0a','本能[běn néng]')).
+assert(celo(instinkto,'instin.0o','本能[běn néng]')).
+assert(celo(institucio,'instit.0o','机构[jī gòu]')).
+assert(celo(institucio,'instit.0o','事业单位[shì yè dān wèi]')).
+assert(celo(institucio,'instit.0o.POL','院[yuàn]')).
+assert(celo(instituto,'instit1.0o','学院[xué yuàn]')).
+assert(celo(instituto,'instit1.0o','所[suǒ]')).
+assert(celo(instituto,'instit1.0o','艺术学院[yì shù xué yuàn]')).
+assert(celo(instituto,'instit1.0o','实验所[shí yàn suǒ]')).
+assert(celo(instrua,'instru.0a.0plena','教育性[jiào yù xìng]')).
+assert(celo(instruado,'instru.0ado','教学[jiào xué]')).
+assert(celo(instruado,'instru.0ado','教誨[jiào huì]')).
+assert(celo(instruado,'instru.0ado','教育[jiào yù]')).
+assert(celo(instruejo,'instru.0ejo','学校[xué xiào]')).
+assert(celo(instruejo,'instru.0ejo','校舍[xiào shè]')).
+assert(celo(instrui,'instru.0i','授业[shòu yè]')).
+assert(celo(instrui,'instru.0i','教育[jiào yù]')).
+assert(celo(instrui,'instru.0i','講授[jiǎng shòu]')).
+assert(celo(instrui,'instru.0i','开示[kāi shì]')).
+assert(celo(instrui,'instru.0i','講習[jiǎng xí]')).
+assert(celo(instrui,'instru.0i','授[shòu]')).
+assert(celo(instrui,'instru.0i','教[jiāo]')).
+assert(celo(instrui,'instru.0i','传授[chuán shòu]')).
+assert(celo(instruisto,'instru.0isto','教员[jiào yuán]')).
+assert(celo(instruisto,'instru.0isto','老师[lǎo shī]')).
+assert(celo(instruisto,'instru.0isto','业师[yè shī]')).
+assert(celo(instruisto,'instru.0isto','师尊[shī zūn]')).
+assert(celo(instruisto,'instru.0isto','教师[jiào shī]')).
+assert(celo(instruisto,'instru.0isto','师长[shī zhǎng]')).
+assert(celo(instruisto,'instru.0isto','女教员[nǚ jiào yuán]')).
+assert(celo(instruisto,'instru.0isto','指导员[zhǐ dǎo yuán]')).
+assert(celo(instruiteco,'instru.0iteco','学识[xué shí]')).
+assert(celo(instruiteco,'instru.0iteco','学问[xué wèn]')).
+assert(celo(instruitulo,'instru.0itulo','儒[rú]')).
+assert(celo(instruitulo,'instru.0itulo','士[shì]')).
+assert(celo(instruitulo,'instru.0itulo','学家[xué jiā]')).
+assert(celo(instruitulo,'instru.0itulo','飽學之士[bǎo xué zhī shì]')).
+assert(celo(instruitulo,'instru.0itulo','先賢[xiān xián]')).
+assert(celo(instruitulo,'instru.0itulo','博学的人[bó xué de rén]')).
+assert(celo(instruitulo,'instru.0itulo','学者[xué zhě]')).
+assert(celo(instruitulo,'instru.0itulo','文人[wén rén]')).
+assert(celo(instruitulo,'instru.0itulo','书生[shū shēng]')).
+assert(celo(instruo,'instru.0o.instruado','課文[kè wén]')).
+assert(celo(instruo,'instru.0o.instruajxo','教誨[jiào huì]')).
+assert(celo(instruo,'instru.0o.instruajxo','教学[jiào xué]')).
+assert(celo(meminstruito,'instru.mem0ito','自主学习[zì zhǔ xué xí]')).
+assert(celo(meminstruito,'instru.mem0ito','自学者[zì xué zhě]')).
+assert(celo(meminstruito,'instru.mem0ito','草根艺人[cǎo gēn yì rén]')).
+assert(celo(moralinstruo,'instru.moral0o','伦理[lún lǐ]')).
+assert(celo(priinstrua,'instru.pri0a','教学法[jiào xué fǎ]')).
+assert(celo(priinstrua,'instru.pri0a','好教誨[hǎo jiào huì]')).
+assert(celo(priinstrua,'instru.pri0a','有教育意义[yǒu jiào yù yì yì]')).
+assert(celo(instrukcii,'instru1.0i','点拨[diǎn bō]')).
+assert(celo(instrukcii,'instru1.0i','悉数[xī shǔ]')).
+assert(celo(instrumento,'instru2.0o','仪器[yí qì]')).
+assert(celo(instrumento,'instru2.0o','乐器[yuè qì]')).
+assert(celo(instrumento,'instru2.0o','工具[gōng jù]')).
+assert(celo(arĉinstrumento,'','弦乐器[xián yuè qì]')).
+assert(celo(blovinstrumento,'instru2.blov0o','管乐器[guǎn yuè qì]')).
+assert(celo(frapinstrumento,'instru2.frap0o','打击乐器[dǎ jī yuè qì]')).
+assert(celo(frapinstrumento,'instru2.frap0o','响器[xiǎng qì]')).
+assert(celo(frapinstrumento,'instru2.frap0o','打击乐器[dǎ jí yuè qì]')).
+assert(celo(kordinstrumento,'instru2.kord0o','弦乐器[xián yuè qì]')).
+assert(celo(muzikinstrumento,'instru2.muzik0o','乐器[yuè qì]')).
+assert(celo(insulano,'insul.0ano','岛民[dǎo mín]')).
+assert(celo(insularo,'insul.0aro','群岛[qún dǎo]')).
+assert(celo(insularo,'insul.0aro','列岛[liè dǎo]')).
+assert(celo(insuleto,'insul.0eto','屿[yǔ]')).
+assert(celo(insuleto,'insul.0eto','坻[chí]')).
+assert(celo(insuleto,'insul.0eto','小岛[xiǎo dǎo]')).
+assert(celo(insuleto,'insul.0eto','沚[zhǐ]')).
+assert(celo(insuleto,'insul.0eto','洲[zhōu]')).
+assert(celo(insuleto,'insul.0eto','渚[zhǔ]')).
+assert(celo(insuleto,'insul.0eto','陼[zhǔ]')).
+assert(celo(insulo,'insul.0o','岛屿[dǎo yǔ]')).
+assert(celo(insulo,'insul.0o','岛[dǎo]')).
+assert(celo(insulo,'insul.0o','洲[zhōu]')).
+assert(celo(insula,'','海岛[hǎi dǎo]')).
+assert(celo('Britaj Virgulinsuloj','insul.BritajVirgul0oj','英属维尔京群岛[Yīng shǔ Wéi ěr jīng Qún dǎo]')).
+assert(celo('Britaj Virgulinsuloj','insul.BritajVirgul0oj','英属维尔京群岛[yīng shǔ wéi ěr jīng qún dǎo]')).
+assert(celo('Insulo de Princo Eduardo','insul.I0odePrincoEduardo','愛德華島[Aì dé huá Dǎo]')).
+assert(celo('Insulo de Princo Eduardo','insul.I0odePrincoEduardo','愛德華王子島[Aì dé huá Wáng zǐ Dǎo]')).
+assert(celo('Paskinsulo','insul.Pask0o','复活节岛[fù huó jié dǎo]')).
+assert(celo('Usonaj Virgulinsuloj','insul.UsonajVirgul0oj','美属维尔京群岛[Měi shǔ Wéi ěr jīng Qún dǎo]')).
+assert(celo('Usonaj Virgulinsuloj','insul.UsonajVirgul0oj','美属维尔京群岛[měi shǔ wéi ěr jīng qún dǎo]')).
+assert(celo(duoninsulo,'insul.duon0o','半岛[bàn dǎo]')).
+assert(celo(glaciinsulo,'insul.glaci0o','冰山[bīng shān]')).
+assert(celo(insulino,'insulin.0o','胰岛素[yí dǎo sù]')).
+assert(celo(insultaĵo,'insult.0ajxo','凌辱[líng rǔ]')).
+assert(celo(insulti,'insult.0i','辱罵[rǔ mà]')).
+assert(celo(insulti,'insult.0i','侮[wǔ]')).
+assert(celo(insulti,'insult.0i','僇[lù]')).
+assert(celo(insulti,'insult.0i','僝[chán]')).
+assert(celo(insulti,'insult.0i','侮辱[wǔ rǔ]')).
+assert(celo(insulti,'insult.0i','藉[jí]')).
+assert(celo(insulti,'insult.0i','罵人[mà rén]')).
+assert(celo(inta,'int.0a','昔[xī]')).
+assert(celo(inta,'int.0a','往时[wǎng shí]')).
+assert(celo(intakta,'intakt.0a','完好[wán hǎo]')).
+assert(celo(intakta,'intakt.0a','完好如初[wán hǎo rú chū]')).
+assert(celo(intakta,'intakt.0a','完好无损[wán hǎo wú sǔn]')).
+assert(celo(intakta,'intakt.0a','完整[wán zhěng]')).
+assert(celo(intakta,'intakt.0a','无损伤[wú sǔn shāng]')).
+assert(celo(intakta,'intakt.0a','完整无缺[wán zhěng wú quē]')).
+assert(celo(intakta,'intakt.0a','情况良好[qíng kuàng liáng hǎo]')).
+assert(celo(integrigi,'integr.0igi','統合[tǒng hé]')).
+assert(celo(integrigi,'integr.0igi','整合[zhěng hé]')).
+assert(celo(integrado,'integr1.0ado','集成[jí chéng]')).
+assert(celo(integraĵo,'integr1.0ajxo','积分[jī fēn]')).
+assert(celo(integrato,'integr1.0ato','被积分函数[bèi jī fēn hán shù]')).
+assert(celo(integrato,'integr1.0ato','被积分式[bèi jī fēn shì]')).
+assert(celo(integrebla,'integr1.0ebla','可积[kě jī]')).
+assert(celo(integrilo,'integr1.0ilo','积分符号[jī fēn fú hào]')).
+assert(celo(integrilo,'integr1.0ilo','积分号[jī fēn hào]')).
+assert(celo(integralo,'integr2.0o','积分[jī fēn]')).
+assert(celo('difinita integralo','integr2.difinita0o','定积分[dìng jī fēn]')).
+assert(celo('lebega integralo','integr2.lebega0o','勒貝格積分[lēi bèi gé jī fēn]')).
+assert(celo('nedifinita integralo','integr2.nedifinita0o','不定积分[bù dìng jī fēn]')).
+assert(celo('nedifinita integralo','integr2.nedifinita0o','原函数[yuán hán shù]')).
+assert(celo('rimana integralo','integr2.rimana0o','黎曼积分[lí màn jī fēn]')).
+assert(celo(intelekta,'intele.0a','知識分子[zhī shi fèn zǐ]')).
+assert(celo(intelekta,'intele.0a','讀書人[dú shū rén]')).
+assert(celo(intelekto,'intele.0o','智能[zhì néng]')).
+assert(celo(intelekto,'intele.0o','知道意思[zhī dao yì sī]')).
+assert(celo(intelekto,'intele.0o','知識界[zhī shi jiè]')).
+assert(celo(intelektulo,'intele.0ulo','书生[shū shēng]')).
+assert(celo(intelektulo,'intele.0ulo','知識分子[zhī shì fèn zǐ]')).
+assert(celo('artefarita intelekto','intele.artefarita0o','人工智能[rén gōng zhì néng]')).
+assert(celo(inteligenta,'inteli.0a','聪明[cōng ming]')).
+assert(celo(inteligenta,'inteli.0a','㑩[luó]')).
+assert(celo(inteligenta,'inteli.0a','慧黠[huì xiá]')).
+assert(celo(inteligenta,'inteli.0a','穎悟[yǐng wù]')).
+assert(celo(inteligenta,'inteli.0a','聪[cōng]')).
+assert(celo(inteligenta,'inteli.0a','聪慧[cōng huì]')).
+assert(celo(inteligenta,'inteli.0a','智慧[zhì huì]')).
+assert(celo(inteligenta,'inteli.0a','俐[lì]')).
+assert(celo(inteligenta,'inteli.0a','聪敏[cōng mǐn]')).
+assert(celo(inteligenteco,'inteli.0eco','智慧[zhì huì]')).
+assert(celo(inteligenteco,'inteli.0eco','智力[zhì lì]')).
+assert(celo(inteligenteco,'inteli.0eco','智能[zhì néng]')).
+assert(celo(inteligentulo,'inteli.0ulo.KOMUNE','聪颖[cōng yǐng]')).
+assert(celo(inteligentulo,'inteli.0ulo.KOMUNE','知識分子[zhī shi fèn zǐ]')).
+assert(celo(inteligentulo,'inteli.0ulo.intelektulo','知識分子[zhī shi fèn zǐ]')).
+assert(celo(inteligentulo,'inteli.0ulo.intelektulo','讀書人[dú shū rén]')).
+retract(celo(inteligentulo,'inteli.0ulo.KOMUNE','聪颖[cōng yǐng]')).
+assert(celo('artefarita inteligento','inteli.arta0o','人工智能[rén gōng zhì néng]')).
+assert(celo(malinteligenta,'inteli.mal0a','愚蠢[yú chǔn]')).
+assert(celo(malinteligenta,'inteli.mal0a','三八[sān bā]')).
+assert(celo(malinteligenta,'inteli.mal0a','笨[bèn]')).
+assert(celo(malinteligenta,'inteli.mal0a','蠢[chǔn]')).
+assert(celo(malinteligenta,'inteli.mal0a','侗[tóng]')).
+assert(celo(malinteligenta,'inteli.mal0a','倥[kōng]')).
+assert(celo(malinteligenta,'inteli.mal0a','嚚[yín]')).
+assert(celo(malinteligenta,'inteli.mal0a','懵[měng]')).
+assert(celo(malinteligenta,'inteli.mal0a','頑[wán]')).
+assert(celo(malinteligenta,'inteli.mal0a','呆[dāi]')).
+assert(celo(malinteligenta,'inteli.mal0a','痴[chī]')).
+assert(celo(intenca,'intenc.0a','有意[yǒu yì]')).
+assert(celo(intenca,'intenc.0a','成心[chéng xīn]')).
+assert(celo(intenca,'intenc.0a','蓄意[xù yì]')).
+assert(celo(intenca,'intenc.0a','意图[yì tú]')).
+assert(celo(intenca,'intenc.0a','故意地[gù yì de]')).
+assert(celo(intenca,'intenc.0a','深思熟慮過[shēn sī shú lü guò]')).
+assert(celo(intence,'intenc.0e','特意[tè yì]')).
+assert(celo(intence,'intenc.0e','深思熟慮過[shēn sī shú lü guò]')).
+assert(celo(intenci,'intenc.0i','有心[yǒu xīn]')).
+assert(celo(intenci,'intenc.0i','意欲[yì yù]')).
+assert(celo(intenci,'intenc.0i','有意[yǒu yì]')).
+assert(celo(intenci,'intenc.0i','瞄[miáo]')).
+assert(celo(intenci,'intenc.0i','瞄准[miáo zhǔn]')).
+assert(celo(intenci,'intenc.0i','針對[zhēn duì]')).
+assert(celo(intenci,'intenc.0i','拟[nǐ]')).
+assert(celo(intenco,'intenc.0o','标的[biāo dì]')).
+assert(celo(intenco,'intenc.0o','意图[yì tú]')).
+assert(celo(intenco,'intenc.0o','旨[zhǐ]')).
+assert(celo(intenco,'intenc.0o','宗旨[zōng zhǐ]')).
+assert(celo(bonintenca,'intenc.bon0a','好意[hǎo yì]')).
+assert(celo(bonintenco,'intenc.bon0o','好意[hǎo yì]')).
+assert(celo(bonintenco,'intenc.bon0o','善意[shàn yì]')).
+assert(celo(malbonintenco,'intenc.malbon0o','恶意[è yì]')).
+assert(celo(malbonintenco,'intenc.malbon0o','黑心[hēi xīn]')).
+assert(celo(malbonintenco,'intenc.malbon0o','坏意[huài yì]')).
+assert(celo(senintenca,'intenc.sen0a','无心[wú xīn]')).
+assert(celo(senintenca,'intenc.sen0a','无意中[wú yì zhōng]')).
+assert(celo(senintenca,'intenc.sen0a','不注意地[bù zhù yì de]')).
+assert(celo(senintenca,'intenc.sen0a','沒有計劃[méi yǒu jì huà]')).
+assert(celo(senintenca,'intenc.sen0a','无意间[wú yì jiān]')).
+assert(celo(senintenca,'intenc.sen0a','不注意[bù zhù yì]')).
+assert(celo(senintenca,'intenc.sen0a','非存心[fēi cún xīn]')).
+assert(celo(senintenca,'intenc.sen0a','非故意[fēi gù yì]')).
+assert(celo(senintenca,'intenc.sen0a','不是故意[bú shì gù yì]')).
+assert(celo(senintenca,'intenc.sen0a','无意识[wú yì shì]')).
+assert(celo(intendanto,'intend.0o','管理人[guǎn lǐ rén]')).
+assert(celo(intendanto,'intend.0o','总管[zǒng guǎn]')).
+assert(celo(intensa,'intens.0a','強化[qiáng huà]')).
+assert(celo(intensa,'intens.0a','浓厚[nóng hòu]')).
+assert(celo(intensa,'intens.0a','烈[liè]')).
+assert(celo(intensa,'intens.0a','紧张[jǐn zhāng]')).
+assert(celo(intensa,'intens.0a','酷烈[kù liè]')).
+assert(celo(intensa,'intens.0a','使紧张[shǐ jǐn zhāng]')).
+assert(celo(intensa,'intens.0a','使紧凑[shǐ jǐn còu]')).
+assert(celo(intenseco,'intens.0eco','強度[qiáng dù]')).
+assert(celo(intenseco,'intens.0eco','密集度[mì jí dù]')).
+assert(celo(intenseco,'intens.0eco','強烈[qiáng liè]')).
+assert(celo(intenseco,'intens.0eco','明暗度[míng àn dù]')).
+assert(celo(intenseco,'intens.0eco','烈度[liè dù]')).
+assert(celo(intensigi,'intens.0igi','強化[qiáng huà]')).
+assert(celo(intensigi,'intens.0igi','加紧[jiā jǐn]')).
+assert(celo(intensigi,'intens.0igi','使紧张[shǐ jǐn zhāng]')).
+assert(celo(intensigi,'intens.0igi','使紧凑[shǐ jǐn còu]')).
+assert(celo(intensigi,'intens.0igi','激化[jī huà]')).
+assert(celo(inter,'inter.0','中間[zhōng jiān]')).
+assert(celo(inter,'inter.0','之間[zhī jiān]')).
+assert(celo(inter,'inter.0','介[jiè]')).
+assert(celo(inter,'inter.0','际[jì]')).
+assert(celo(interaĵo,'inter.0ajxo','中間物[zhōng jiàn wù]')).
+assert(celo(interulo,'inter.0ulo','介紹人[jiè shào rén]')).
+assert(celo(interulo,'inter.0ulo','經紀人[jīng jì rén]')).
+assert(celo(interulo,'inter.0ulo','調停人[tiáo tíng rén]')).
+assert(celo(interulo,'inter.0ulo','調解人[tiáo jiě rén]')).
+assert(celo(interulo,'inter.0ulo','居間人[jū jiān rén]')).
+assert(celo(interesa,'intere.0a','趣[qù]')).
+assert(celo(interesa,'intere.0a','有兴趣[yǒu xìng qù]')).
+assert(celo(interesa,'intere.0a','有趣[yǒu qù]')).
+assert(celo(interesa,'intere.0a','趣味[qù wèi]')).
+assert(celo(interesegi,'intere.0egi','多情[duō qíng]')).
+assert(celo(interesegi,'intere.0egi','迷住[mí zhu]')).
+assert(celo(interesi,'intere.0i','兴致[xìng zhì]')).
+assert(celo(interesi,'intere.0i.igi_a','有关[yǒu guān]')).
+assert(celo(interesi,'intere.0i.igi_a','关系[guān xi]')).
+assert(celo(interesi,'intere.0i.igi_a','兴致[xìng zhì]')).
+assert(celo(interesiĝo,'intere.0igxo','兴[xìng]')).
+assert(celo(intereso,'intere.0o','利益[lì yì]')).
+assert(celo(intereso,'intere.0o','兴[xìng]')).
+assert(celo(intereso,'intere.0o','兴趣[xìng qù]')).
+assert(celo(intereso,'intere.0o','兴致[xìng zhì]')).
+assert(celo(intereso,'intere.0o','趣味[qù wèi]')).
+assert(celo(intereso,'intere.0o','利害关系[lì hài guān xì]')).
+assert(celo(intereso,'intere.0o','兴味[xìng wèi]')).
+assert(celo(neinteresa,'intere.sen0ane0a','沒意思[méi yì si]')).
+assert(celo(neinteresa,'intere.sen0ane0a','平平[píng píng]')).
+assert(celo(neinteresa,'intere.sen0ane0a','庸[yōng]')).
+assert(celo(interezo,'intere1.0o','利息[lì xī]')).
+assert(celo(interezo,'intere1.0o','利息[lì xí]')).
+assert(celo(interezo,'intere1.0o','呬錢[xí qián]')).
+assert(celo(interezo,'intere1.0o','息錢[xí qián]')).
+assert(celo(interezo,'intere1.0o','稅點[shuì diǎn]')).
+assert(celo('interfera franĝo','interf.0afrangxo','干涉现象[gān shè xiàn xiàng]')).
+assert(celo(interfero,'interf.0o','插手[chā shǒu]')).
+assert(celo(interfero,'interf.0o','干涉现象[gān shè xiàn xiàng]')).
+assert(celo(interioro,'interior.0o','室內[shì nèi]')).
+assert(celo(interioro,'interior.0o','內飾[nèi shì]')).
+assert(celo(interioro,'interior.0o','室內裝潢[shì nèi zhuāng huáng]')).
+assert(celo(interjekcio,'interj.0o','欹[yī]')).
+assert(celo(interjekcio,'interj.0o','叹词[tàn cí]')).
+assert(celo(intermita,'interm.0a','間歇[jiàn xiē]')).
+assert(celo(intermita,'interm.0a','断断续续[duàn duàn xù xù]')).
+assert(celo(senintermita,'interm.sen0a','恆久[héng jiǔ]')).
+assert(celo(interna,'intern.0a','对内[duì nèi]')).
+assert(celo(interna,'intern.0a','室內[shì nèi]')).
+assert(celo(interna,'intern.0a','裡頭[lǐ tou]')).
+assert(celo(interna,'intern.0a','內[nèi]')).
+assert(celo(interna,'intern.0a','內部[nèi bù]')).
+assert(celo(internaĵo,'intern.0ajxo','裡面[lǐ miàn]')).
+assert(celo(internaĵo,'intern.0ajxo','裡[lǐ]')).
+assert(celo(internigi,'intern.0igi.KOMUNE','引进[yǐn jìn]')).
+assert(celo(internigi,'intern.0igi.speciale','內置[nèi zhì]')).
+assert(celo(internigi,'intern.0igi.speciale','使內在化[shǐ nèi zài huà]')).
+assert(celo(internigi,'intern.0igi.speciale','使成为主观[shǐ chéng wéi zhǔ guān]')).
+assert(celo(internulejo,'intern.0ulejo','寄宿学校[jì sù xué xiào]')).
+assert(celo(internulejo,'intern.0ulejo','寄宿制学校[jì sù zhì xué xiào]')).
+assert(celo(interpreti,'interp2.0i','譯[yì]')).
+assert(celo(interpreti,'interp2.0i','訓釋[xùn shì]')).
+assert(celo(interpreti,'interp2.0i','口譯[kǒu yì]')).
+assert(celo(interpretilo,'interp2.0ilo','解释器[jiě shì qì]')).
+assert(celo(interpretilo,'interp2.0ilo','直譯器[zhí yì qì]')).
+assert(celo(interpretisto,'interp2.0isto','口譯員[kǒu yì yuán]')).
+assert(celo(interpretisto,'interp2.0isto','譯員[yì yuán]')).
+assert(celo(interpretisto,'interp2.0isto','口头翻译[kǒu tóu fān yì]')).
+assert(celo(interpretisto,'interp2.0isto','翻譯[fān yì]')).
+assert(celo(interpretisto,'interp2.0isto','通譯[tōng yì]')).
