@@ -1345,3 +1345,288 @@ assert(celo(interpretisto,'interp2.0isto','譯員[yì yuán]')).
 assert(celo(interpretisto,'interp2.0isto','口头翻译[kǒu tóu fān yì]')).
 assert(celo(interpretisto,'interp2.0isto','翻譯[fān yì]')).
 assert(celo(interpretisto,'interp2.0isto','通譯[tōng yì]')).
+assert(celo(interpreto,'interp2.0o','訓釋[xùn shì]')).
+assert(celo(interpunkcii,'interp3.0i','标点[biāo diǎn]')).
+assert(celo(interpunkcio,'interp3.0o','标点[biāo diǎn]')).
+assert(celo(intervalo,'interv.0o','区间[qū jiān]')).
+assert(celo(intervalo,'interv.0o','間歇[jiàn xiē]')).
+assert(celo(intervalo,'interv.0o','間隔期[jiàn gé qī]')).
+assert(celo(intervjui,'interv1.0i','訪談[fǎng tán]')).
+assert(celo(intervjuiĝi,'interv1.0igxi','面試[miàn shì]')).
+assert(celo(intervjuiĝi,'interv1.0igxi','受訪[shòu fǎng]')).
+assert(celo(intervjuo,'interv1.0o','面試[miàn shì]')).
+assert(celo(intervjuo,'interv1.0o','訪談[fǎng tán]')).
+assert(celo(intervjuo,'interv1.0o','晤談[wù tán]')).
+assert(celo(intervjuo,'interv1.0o','面談[miàn tán]')).
+assert(celo(dungintervjuo,'interv1.dung0o','面試[miàn shì]')).
+assert(celo(intestaro,'intest.0aro','消化道[xiāo huà dào]')).
+assert(celo(intestaro,'intest.0aro','消化器官[xiāo huà qì guān]')).
+assert(celo(intesto,'intest.0o','肠道[cháng dào]')).
+assert(celo(intesto,'intest.0o','肠[cháng]')).
+assert(celo('dika intesto','intest.dika0o','胴[dòng]')).
+assert(celo('dika intesto','intest.dika0o','大肠[dà cháng]')).
+assert(celo('dika intesto','intest.dika0o','結腸[jié cháng]')).
+assert(celo('maldika intesto','intest.maldika0o','小肠[xiǎo cháng]')).
+assert(celo('rekta intesto','intest.rekta0o','直肠[zhí cháng]')).
+assert(celo(intima,'intim.0a','私密[sī mì]')).
+assert(celo(intima,'intim.0a','密[mì]')).
+assert(celo(intima,'intim.0a','密切[mì qiè]')).
+assert(celo(intima,'intim.0a','知心[zhī xīn]')).
+assert(celo(intima,'intim.0a','亲密[qīn mì]')).
+assert(celo(intima,'intim.0a','亲近[qīn jìn]')).
+assert(celo(intima,'intim.0a','貼心[tiē xīn]')).
+assert(celo(intimeco,'intim.0eco','私生活[sī shēng huó]')).
+assert(celo(intimeco,'intim.0eco','交情[jiāo qíng]')).
+assert(celo(intimeco,'intim.0eco','亲昵[qīn nì]')).
+assert(celo(intimeco,'intim.0eco','私通[sī tōng]')).
+assert(celo(intimeco,'intim.0eco','亲切感[qīn qiè gǎn]')).
+assert(celo(intimeco,'intim.0eco','性行为[xìng xíng wéi]')).
+assert(celo(intimeco,'intim.0eco','私事[sī shì]')).
+assert(celo(intimeco,'intim.0eco','亲昵行为[qīn nì xíng wéi]')).
+assert(celo(intonacio,'intonaci.0o','发声法[fā shēng fǎ]')).
+assert(celo(intrigi,'intrig.0i','暗算[àn suàn]')).
+assert(celo(intrigi,'intrig.0i','图谋[tú móu]')).
+assert(celo(intrigo,'intrig.0o.BELE','剧情[jù qíng]')).
+assert(celo(intrigo,'intrig.0o.BELE','情節[qíng jié]')).
+assert(celo(intrigo,'intrig.0o.BELE','故事[gù shi]')).
+assert(celo(intrigo,'intrig.0o.komploto','阴谋[yīn móu]')).
+assert(celo(intrigo,'intrig.0o.komploto','套儿[tào r]')).
+assert(celo(intrigo,'intrig.0o.komploto','詭計[guǐ jì]')).
+retract(celo(intrigo,'intrig.0o.komploto','套儿[tào r]')).
+assert(celo(introspekta,'intros.0a','內省[nèi xǐng]')).
+assert(celo(introspekta,'intros.0a','內省性[nèi xǐng xìng]')).
+assert(celo(introspekto,'intros.0o','內省[nèi shěng]')).
+assert(celo(introspekto,'intros.0o','內省[nèi xǐng]')).
+assert(celo(introverta,'introvert.0a','內向[nèi xiàng]')).
+assert(celo(introverta,'introvert.0a','內斂[nèi liǎn]')).
+assert(celo(intua,'intuic.0a','直覺[zhí jué]')).
+assert(celo(intuo,'intuic.0o','直覺[zhí jué]')).
+assert(celo(intuo,'','第六感覺[dì liù gǎn jué]')).
+assert(celo(inuito,'inuit.0o','愛斯基摩[Aì sī jī mó]')).
+assert(celo(inuito,'inuit.0o','伊奴依[yī nú yī]')).
+assert(celo(inuito,'inuit.0o','愛斯基摩人[ài sī jī mó rén]')).
+assert(celo(inuito,'inuit.0o','因紐特人[Yīn niǔ tè rén]')).
+assert(celo(inuito,'inuit.0o','愛斯基摩人[Aì sī jī mó rén]')).
+assert(celo('Inuktituto','inukti.0o','因紐特語[yīn niǔ tè yǔ]')).
+assert(celo(inundi,'inund.0i','淹[yān]')).
+assert(celo(inundi,'inund.0i','沒[mò]')).
+assert(celo(inundi,'inund.0i','淹沒[yān mò]')).
+assert(celo(inundi,'inund.0i','洚[jiàng]')).
+assert(celo(inundi,'inund.0i','流泻[liú xiè]')).
+assert(celo(inundi,'inund.0i','充斥[chōng chì]')).
+assert(celo(inundi,'inund.0i','涌向[yǒng xiàng]')).
+assert(celo(inundi,'inund.0i','躏[lìn]')).
+assert(celo(inundo,'inund.0o','洪[hóng]')).
+assert(celo(inundo,'inund.0o','洪水[hóng shuǐ]')).
+assert(celo(inundo,'inund.0o','大水[dà shuǐ]')).
+assert(celo(inundo,'inund.0o','沔[miǎn]')).
+assert(celo(inundo,'inund.0o','洚[jiàng]')).
+assert(celo(inundo,'inund.0o','津水[jīn shuǐ]')).
+assert(celo(inundo,'inund.0o','洪涝[hóng lào]')).
+assert(celo(inundo,'inund.0o','水患[shuǐ huàn]')).
+assert(celo(inundo,'inund.0o','水災[shuǐ zāi]')).
+assert(celo(invadi,'invad.0i','侵入[qīn rù]')).
+assert(celo(invadi,'invad.0i','入侵[rù qīn]')).
+assert(celo(invadi,'invad.0i','侵袭[qīn xí]')).
+assert(celo(invadi,'invad.0i','进犯[jìn fàn]')).
+assert(celo(invadi,'invad.0i','侵略[qīn lu:è]')).
+assert(celo(invado,'invad.0o','侵略[qīn lu:è]')).
+assert(celo(invado,'invad.0o','侵略[qīn lüè]')).
+assert(celo(invado,'invad.0o','入侵[rù qīn]')).
+assert(celo(invalideco,'invali.0eco','病残[bìng cán]')).
+assert(celo(invalideco,'invali.0eco','伤残[shāng cán]')).
+assert(celo(invalideco,'invali.0eco','无力化[wú lì huà]')).
+assert(celo(invalido,'invali.0o','残疾人[cán jí rén]')).
+assert(celo(invalido,'invali.0o','残疾[cán jí]')).
+assert(celo(invarianta,'invari.0a.gxenerale','不变量[bù biàn liàng]')).
+assert(celo(invarianto,'invari.0o','不变量[bù biàn liàng]')).
+assert(celo(inventaĵo,'invent.0ajxo','发明[fā míng]')).
+assert(celo(inventi,'invent.0i','发明创造[fā míng chuàng zào]')).
+assert(celo(inventi,'invent.0i','发明[fā míng]')).
+assert(celo(inventi,'invent.0i','虚构[xū gòu]')).
+assert(celo(inventi,'invent.0i','造[zào]')).
+assert(celo(inventi,'invent.0i','想出[xiǎng chū]')).
+assert(celo(inventi,'invent.0i','追及[zhuī jí]')).
+assert(celo(inventisto,'invent.0isto','发明家[fā míng jiā]')).
+assert(celo(inventisto,'invent.0isto','发明者[fā míng zhě]')).
+assert(celo(inventisto,'invent.0isto','发明人[fā míng rén]')).
+assert(celo(invento,'invent.0o','发明[fā míng]')).
+assert(celo(invento,'invent.0o','发明构思[fā míng gòu sī]')).
+assert(celo(inventari,'invent1.0i','盘点[pán diǎn]')).
+assert(celo(inventari,'invent1.0i','点货[diǎn huò]')).
+assert(celo(inventaro,'invent1.0o','存貨[cún huò]')).
+assert(celo(inventaro,'invent1.0o','財產清單[cái chǎn qīng dān]')).
+assert(celo(inventaro,'invent1.0o','存貨清單[cún huò qīng dān]')).
+assert(celo(inventaro,'invent1.0o','財產目錄[cái chǎn mù lù]')).
+assert(celo(inventaro,'invent1.0o','調查表[diào chá biǎo]')).
+assert(celo(inversa,'invers.0a','相反[xiāng fǎn]')).
+assert(celo(inversa,'invers.0a','反[fǎn]')).
+assert(celo(inversa,'invers.0a','反过来[fǎn guo lái]')).
+assert(celo(inversa,'invers.0a','相反地[xiāng fǎn dì]')).
+assert(celo(inversa,'invers.0a','逆反[nì fǎn]')).
+assert(celo(inversa,'invers.0a','逆轉[nì zhuàn]')).
+assert(celo(inverse,'invers.0e','倒[dào]')).
+assert(celo(inverse,'invers.0e','反[fǎn]')).
+assert(celo(invershava,'invers.0hava','反轉[fǎn zhuǎn]')).
+assert(celo(invershava,'invers.0hava','可逆性[kě nì xìng]')).
+assert(celo(inversigi,'invers.0igi.KOMUNE','顛倒過來[diān dǎo guò lái]')).
+assert(celo(inversigi,'invers.0igi.KOMUNE','反轉[fǎn zhuǎn]')).
+assert(celo(inversigi,'invers.0igi.KOMUNE','翻轉[fān zhuǎn]')).
+assert(celo(inversigi,'invers.0igi.KOMUNE','顛倒[diān dǎo]')).
+assert(celo(inversigi,'invers.0igi.KOMUNE','向后转[xiàng hòu zhuǎn]')).
+assert(celo(inversigo,'invers.0igo.KOMUNE','反轉[fǎn zhuǎn]')).
+assert(celo(inverso,'invers.0o','倒反[dào fǎn]')).
+assert(celo(neinvershava,'invers.ne0hava','不可逆轉[bù kě nì zhuàn]')).
+assert(celo(neinversigebla,'invers.ne0igebla','不可逆轉[bù kě nì zhuàn]')).
+assert(celo(inversio,'invers1.0o','倒位[dào wèi]')).
+assert(celo(investado,'invest.0ado','投資[tóu zī]')).
+assert(celo(investaĵo,'invest.0ajxo','投資[tóu zī]')).
+assert(celo(investaĵo,'invest.0ajxo','投入[tóu rù]')).
+assert(celo(investi,'invest.0i','投資[tóu zī]')).
+assert(celo(investi,'invest.0i','入股[rù gǔ]')).
+assert(celo(investi,'invest.0i','出資[chū zī]')).
+assert(celo(investo,'invest.0o','投資[tóu zī]')).
+assert(celo(inviti,'invit.0i','邀請[yāo qǐng]')).
+assert(celo(inviti,'invit.0i','邀[yāo]')).
+assert(celo(inviti,'invit.0i','邀約[yāo yuē]')).
+assert(celo(inviti,'invit.0i','請[qǐng]')).
+assert(celo(inviti,'invit.0i','将[qiāng]')).
+assert(celo(inviti,'invit.0i','約[yuē]')).
+assert(celo(inviti,'invit.0i','被邀請[bèi yāo qǐng]')).
+assert(celo(inviti,'invit.0i','請客[qǐng kè]')).
+assert(celo(inviti,'invit.0i','約請[yuē qǐng]')).
+assert(celo(inviti,'invit.0i','宴請[yàn qǐng]')).
+assert(celo(invitilo,'invit.0ilo','帖子[tiě zi]')).
+assert(celo(invitilo,'invit.0ilo','請帖[qǐng tiě]')).
+assert(celo(invito,'invit.0o','邀請[yāo qǐng]')).
+assert(celo(invito,'invit.0o','邀約[yāo yuē]')).
+assert(celo(ioma,'iom.0a','少許[shǎo xǔ]')).
+assert(celo(ioma,'iom.0a','有点儿[yǒu diǎn r]')).
+assert(celo(ioma,'iom.0a','几个[jǐ ge]')).
+assert(celo(iom,'','少量[shǎo liàng]')).
+assert(celo(iom,'','稍[shāo]')).
+assert(celo(iom,'','一点[yī diǎn]')).
+assert(celo(iom,'','稍稍[shāo shāo]')).
+assert(celo(iom,'','些許[xiē xǔ]')).
+assert(celo(iome,'iom.0e','稍稍[shāo shāo]')).
+assert(celo(iomete,'iom.0ete','稍稍[shāo shāo]')).
+assert(celo(iomete,'iom.0ete','略微[lu:è wēi]')).
+assert(celo(iomete,'iom.0ete','稍[shāo]')).
+assert(celo(iompostiom,'iom.0post0','渐[jiàn]')).
+assert(celo(iompostiom,'iom.0post0','渐渐[jiàn jiàn]')).
+assert(celo(iompostiom,'iom.0post0','逐渐[zhú jiàn]')).
+assert(celo(iompostiom,'iom.0post0','一点一点[yī diǎn yī diǎn]')).
+assert(celo(iompostiom,'iom.0post0','緩緩[huǎn huǎn]')).
+assert(celo(iompostiom,'iom.0post0','逐次[zhú cì]')).
+assert(celo(iompostiom,'iom.0post0','節節[jié jié]')).
+assert(celo(iompostiom,'iom.0post0','陆续[lù xù]')).
+assert(celo(iompostiom,'iom.0post0','一來二去[yī lái èr qù]')).
+assert(celo(iompostiom,'iom.0post0','一点一滴[yī diǎn yī dī]')).
+assert(celo(iompostiom,'iom.0post0','日渐[rì jiàn]')).
+assert(celo(iompostioma,'iom.0post0a','渐[jiàn]')).
+assert(celo(iompostioma,'iom.0post0a','逐渐[zhú jiàn]')).
+assert(celo(iompostioma,'iom.0post0a','渐进[jiàn jìn]')).
+assert(celo(iompostioma,'iom.0post0a','日趋[rì qū]')).
+assert(celo(iompostioma,'iom.0post0a','渐渐[jiàn jiàn]')).
+assert(celo(kelkiom,'iom.kelk0','某[mǒu]')).
+assert(celo(kelkiom,'iom.kelk0','有的[yǒu de]')).
+assert(celo(kelkiom,'iom.kelk0','某些[mǒu xiē]')).
+assert(celo(poioma,'iom.po0a','渐[jiàn]')).
+assert(celo(poioma,'iom.po0a','逐渐[zhú jiàn]')).
+assert(celo('Iovao','iova.0o','愛奧華[Aì ào huá]')).
+assert(celo('Iovao','iova.0o','愛奧華州[Aì ào huá zhōu]')).
+assert(celo('Iovao','iova.0o','艾奥瓦[Aì ào wǎ]')).
+assert(celo('Iovao','iova.0o','艾奥瓦州[Aì ào wǎ zhōu]')).
+assert(celo('Iovao','iova.0o','愛荷華[Aì hé huá]')).
+assert(celo('Iovao','iova.0o','愛州[Aì zhōu]')).
+assert(celo(irado,'ir.0ado','蹡[qiāng]')).
+assert(celo(irado,'ir.0ado','躣[qú]')).
+assert(celo(irado,'ir.0ado','步态[bù tài]')).
+assert(celo(irado,'ir.0ado','步履[bù lǚ]')).
+assert(celo(irado,'ir.0ado','竞走[jìng zǒu]')).
+assert(celo(irantaro,'ir.0antaro','行列[háng liè]')).
+assert(celo(irejo,'ir.0ejo','蹊径[xī jìng]')).
+assert(celo(irejo,'ir.0ejo','迳[jìng]')).
+assert(celo(irejo,'ir.0ejo','路径[lù jìng]')).
+assert(celo(irejo,'ir.0ejo','軌[guǐ]')).
+assert(celo(iri,'ir.0i','跞[lì]')).
+assert(celo(iri,'ir.0i','躞[xiè]')).
+assert(celo(iri,'ir.0i','迶[yòu]')).
+assert(celo(iri,'ir.0i','走路[zǒu lù]')).
+assert(celo(iri,'ir.0i','跦[zhū]')).
+assert(celo(iri,'ir.0i','躘[lóng]')).
+assert(celo(iri,'ir.0i','措举[cuò jǔ]')).
+assert(celo(iri,'ir.0i','步行[bù xíng]')).
+assert(celo(iri,'ir.0i','行[xíng]')).
+assert(celo(iri,'ir.0i','走[zǒu]')).
+assert(celo(iri,'ir.0i','行走[xíng zǒu]')).
+assert(celo(irigi,'ir.0igi','发动[fā dòng]')).
+assert(celo(irigi,'ir.0igi','开动[kāi dòng]')).
+assert(celo(irilo,'ir.0ilo','跷[qiāo]')).
+assert(celo(alirebla,'ir.al0ebla','易取得[yì qǔ dé]')).
+assert(celo(aliro,'ir.al0o','增补的人[zēng bǔ de rén]')).
+assert(celo(aliro,'ir.al0o','新补充的人[xīn bǔ chōng de rén]')).
+assert(celo(aliro,'ir.al0o','門徑[mén jìng]')).
+assert(celo(aliro,'ir.al0o','路子[lù zi]')).
+assert(celo(antaŭeniri,'ir.antauxen0i','上进[shàng jìn]')).
+assert(celo(antaŭeniri,'ir.antauxen0i','前进[qián jìn]')).
+assert(celo(antaŭeniri,'ir.antauxen0i','烝[zhēng]')).
+assert(celo(antaŭeniri,'ir.antauxen0i','往前[wǎng qián]')).
+assert(celo(ĉirkaŭiri,'ir.cxirkaux0i','巡回[xún huí]')).
+assert(celo(deiri,'ir.de0i','走[zǒu]')).
+assert(celo(disiri,'ir.dis0i','分手[fēn shǒu]')).
+assert(celo(disiri,'ir.dis0i','散摊子[sàn tān zi]')).
+assert(celo(disiri,'ir.dis0i.KOMUNE','散[sǎn]')).
+assert(celo(disiri,'ir.dis0i.KOMUNE','散摊子[sàn tān zi]')).
+retract(celo(disiri,'ir.dis0i.KOMUNE','散[sǎn]')).
+retract(celo(disiri,'ir.dis0i','散摊子[sàn tān zi]')).
+assert(celo(ekiri,'ir.ek0i','起程[qǐ chéng]')).
+assert(celo(ekiri,'ir.ek0i','出外[chū wài]')).
+assert(celo(ekiri,'ir.ek0i','启程[qǐ chéng]')).
+assert(celo(ekiri,'ir.ek0i','出发[chū fā]')).
+assert(celo(elirejo,'ir.el0ejo.FIG','出路[chū lù]')).
+assert(celo(elirejo,'ir.el0ejo.FIG','解决办法[jiě jué bàn fǎ]')).
+assert(celo(eliri,'ir.el0i.eksteren','出去[chū qù]')).
+assert(celo(eliri,'ir.el0i.eksteren','出外[chū wài]')).
+assert(celo(elirvojo,'ir.el0vojo','出路[chū lù]')).
+assert(celo(elirvojo,'ir.el0vojo','退路[tuì lù]')).
+assert(celo(enirejo,'ir.en0ejo','入口[rù kǒu]')).
+assert(celo(enirejo,'ir.en0ejo','大門[dà mén]')).
+assert(celo(enirejo,'ir.en0ejo','玄关[xuán guān]')).
+assert(celo(enirejo,'ir.en0ejo','前厅[qián tīng]')).
+assert(celo(enirejo,'ir.en0ejo','門口[mén kǒu]')).
+assert(celo(eniri,'ir.en0i','步入[bù rù]')).
+assert(celo(eniri,'ir.en0i','进入[jìn rù]')).
+assert(celo(eniri,'ir.en0i','进门[jìn mén]')).
+assert(celo(eniri,'ir.en0i','进[jìn]')).
+assert(celo(eniri,'ir.en0i','入[rù]')).
+assert(celo(eniri,'ir.en0i','走进[zǒu jìn]')).
+assert(celo(eniri,'ir.en0i','进来[jìn lái]')).
+assert(celo(eniri,'ir.en0i','进去[jìn qù]')).
+assert(celo(flankeniri,'ir.flanken0i','横步[héng bù]')).
+assert(celo(flankeniri,'ir.flanken0i','讓開[ràng kāi]')).
+assert(celo(foriri,'ir.for0i','走[zǒu]')).
+assert(celo(foriri,'ir.for0i','出外[chū wài]')).
+assert(celo(foriri,'ir.for0i','出发[chū fā]')).
+assert(celo(foriri,'ir.for0i','起程[qǐ chéng]')).
+assert(celo(foriri,'ir.for0i','抛离[pāo lí]')).
+assert(celo(foriri,'ir.for0i','启程[qǐ chéng]')).
+assert(celo(foriro,'ir.for0o','往外[wǎng wài]')).
+assert(celo(foriro,'ir.for0o','发车[fā chē]')).
+assert(celo(ĝisiri,'ir.gxis0i','到达[dào dá]')).
+assert(celo(ĝisiri,'ir.gxis0i','及[jí]')).
+assert(celo(ĝisiri,'ir.gxis0i','巟[huāng]')).
+assert(celo(ĝisiri,'ir.gxis0i','抵达[dǐ dá]')).
+assert(celo(hejmeniri,'ir.hejmen0i','回家[huí jiā]')).
+assert(celo(hejmeniri,'ir.hejmen0i','返家[fǎn jiā]')).
+assert(celo(kuniri,'ir.kun0i','伴[bàn]')).
+assert(celo(kuniri,'ir.kun0i','陪[péi]')).
+assert(celo(kuniri,'ir.kun0i','陪伴[péi bàn]')).
+assert(celo(kuniri,'ir.kun0i','陪同[péi tóng]')).
+assert(celo(kuniri,'ir.kun0i','随伴[suí bàn]')).
+assert(celo(kuniri,'ir.kun0i','随行[suí xíng]')).
+assert(celo(malantaŭeniri,'ir.malantauxen0i','回归[huí guī]')).
+assert(celo(malantaŭeniri,'ir.malantauxen0i','倒退[dào tuì]')).
+assert(celo(malantaŭeniri,'ir.malantauxen0i','后退[hòu tuì]')).
+assert(celo(malantaŭeniri,'ir.malantauxen0i','退却[tuì què]')).
+assert(celo(malantaŭeniri,'ir.malantauxen0i','退縮[tuì suō]')).
