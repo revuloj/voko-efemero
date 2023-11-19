@@ -1630,3 +1630,202 @@ assert(celo(malantaŭeniri,'ir.malantauxen0i','倒退[dào tuì]')).
 assert(celo(malantaŭeniri,'ir.malantauxen0i','后退[hòu tuì]')).
 assert(celo(malantaŭeniri,'ir.malantauxen0i','退却[tuì què]')).
 assert(celo(malantaŭeniri,'ir.malantauxen0i','退縮[tuì suō]')).
+assert(celo(nealirebla,'ir.neal0ebla','可望而不可即[kě wàng ér bù kě jí]')).
+assert(celo(nealirebla,'ir.neal0ebla','可望而不可及[kě wàng ér bù kě jí]')).
+assert(celo(nealirebla,'ir.neal0ebla','迢[tiáo]')).
+assert(celo(nealirebla,'ir.neal0ebla','难于接近[nán yú jiē jìn]')).
+assert(celo(nealirebla,'ir.neal0ebla','达不到[dá bù dào]')).
+assert(celo(piediranto,'ir.pied0anto','步行者[bù xíng zhě]')).
+assert(celo(piediranto,'ir.pied0anto','行人[xíng rén]')).
+assert(celo(piediri,'ir.pied0i','走路[zǒu lù]')).
+assert(celo(piediri,'ir.pied0i','步行[bù xíng]')).
+assert(celo(piediri,'ir.pied0i','走着去[zǒu zhe qù]')).
+assert(celo(piediri,'ir.pied0i','徒步阿[tú bù ā]')).
+assert(celo(postiri,'ir.post0i','跟着[gēn zhe]')).
+assert(celo(postiri,'ir.post0i','伴随[bàn suí]')).
+assert(celo(postiri,'ir.post0i','尾随[wěi suí]')).
+assert(celo(preteriri,'ir.preter0i.KOMUNE','改用[gǎi yòng]')).
+assert(celo(preteriri,'ir.preter0i.KOMUNE','經過[jīng guò]')).
+assert(celo(reiri,'ir.re0i','返[fǎn]')).
+assert(celo(reiri,'ir.re0i','回到[huí dào]')).
+assert(celo(reiri,'ir.re0i','返回[fǎn huí]')).
+assert(celo(rondiri,'ir.rond0i','兜圈子[dōu quān zi]')).
+assert(celo(rondiri,'ir.rond0i','匝[zā]')).
+assert(celo(rondiri,'ir.rond0i','巡回[xún huí]')).
+assert(celo(senelirejo,'ir.senel0ejo','僵局[jiāng jú]')).
+assert(celo(senelirejo,'ir.senel0ejo','死路[sǐ lù]')).
+assert(celo(senelirejo,'ir.senel0ejo','死局[sǐ jú]')).
+assert(celo(senelirejo,'ir.senel0ejo','胶着状况[jiāo zhuó zhuàng kuàng]')).
+assert(celo(subiri,'ir.sub0i','下去[xià qu]')).
+assert(celo(subiri,'ir.sub0i','创立者[chuàng lì zhě]')).
+assert(celo(subiri,'ir.sub0i','下山[xià shān]')).
+assert(celo(supreniri,'ir.supren0i.KOMUNE','上涨[shàng zhǎng]')).
+assert(celo(supreniri,'ir.supren0i.KOMUNE','爬[pá]')).
+assert(celo(supreniri,'ir.supren0i.KOMUNE','跻[jī]')).
+assert(celo(supreniri,'ir.supren0i.KOMUNE','升到[shēng dào]')).
+assert(celo(supreniri,'ir.supren0i.KOMUNE','正在爬升[zhèng zài pá shēng]')).
+assert(celo(supreniri,'ir.supren0i.KOMUNE','达高峰[dá gāo fēng]')).
+assert(celo(suriri,'ir.sur0i','攀爬[pān pá]')).
+assert(celo(suriri,'ir.sur0i','走进[zǒu jìn]')).
+assert(celo(suriri,'ir.sur0i','踏上[tà shàng]')).
+assert(celo(suriri,'ir.sur0i','往上爬[wǎng shàng pá]')).
+assert(celo(suriri,'ir.sur0i','搲[wǎ]')).
+assert(celo(suriri,'ir.sur0i','攀[pān]')).
+assert(celo(suriri,'ir.sur0i','攀登[pān dēng]')).
+assert(celo(suriri,'ir.sur0i','爬[pá]')).
+assert(celo(ŝipiri,'ir.sxip0i','航[háng]')).
+assert(celo(ŝipiri,'ir.sxip0i','坐船[zuò chuán]')).
+assert(celo(ŝipiri,'ir.sxip0i','航行[háng xíng]')).
+assert(celo(ŝipiri,'ir.sxip0i','乘船去[chéng chuán qù]')).
+assert(celo(ŝipiri,'ir.sxip0i','巡航[xún háng]')).
+assert(celo(ŝteliri,'ir.sxtel0i','緩慢地爬行[huǎn màn de pá xíng]')).
+assert(celo(ŝteliri,'ir.sxtel0i','蹑手蹑脚地走[niè shǒu niè jiǎo de zǒu]')).
+assert(celo(ŝteliri,'ir.sxtel0i','趾尖[zhǐ jiān]')).
+assert(celo(trairi,'ir.tra0i','經過[jīng guò]')).
+assert(celo(trairi,'ir.tra0i','通行[tōng xíng]')).
+assert(celo(transirejo,'ir.trans0ejo','斑馬線[bān mǎ xiàn]')).
+assert(celo(transirejo,'ir.trans0ejo','通道[tōng dào]')).
+assert(celo(transirejo,'ir.trans0ejo','津[jīn]')).
+assert(celo(transiri,'ir.trans0i','穿馬路[chuān mǎ lù]')).
+assert(celo(transiri,'ir.trans0i','渡河[dù hé]')).
+assert(celo(transiri,'ir.trans0i.metafore','改用[gǎi yòng]')).
+assert(celo(transiri,'ir.trans0i.metafore','轉手[zhuǎn shǒu]')).
+assert(celo(transiri,'ir.trans0i.movigxi','超标[chāo biāo]')).
+assert(celo(transiri,'ir.trans0i.movigxi','超越[chāo yuè]')).
+assert(celo(transiri,'ir.trans0i.movigxi','逾越[yú yuè]')).
+assert(celo(transiri,'ir.trans0i.movigxi','越过[yuè guò]')).
+assert(celo(transiri,'ir.trans0i.movigxi','超过[chāo guò]')).
+assert(celo(transiri,'ir.trans0i.movigxi','超[chāo]')).
+assert(celo(transiri,'ir.trans0i.movigxi','逾[yú]')).
+assert(celo(transiri,'ir.trans0i.movigxi','紹出[shào chū]')).
+assert(celo(transiri,'ir.trans0i.movigxi','越出[yuè chū]')).
+assert(celo(transiri,'ir.trans0i.movigxi','偭[miǎn]')).
+assert(celo(transiri,'ir.trans0i.sxangxigxi','变[biàn]')).
+assert(celo(transiri,'ir.trans0i.sxangxigxi','演变成[yǎn biàn chéng]')).
+assert(celo(vojiri,'ir.voj0i','旅游[lǔ: yóu]')).
+assert(celo(vojiri,'ir.voj0i','行走[xíng zǒu]')).
+assert(celo(vojiri,'ir.voj0i','健行[jiàn xíng]')).
+assert(celo(vojiri,'ir.voj0i','徒步旅行[tú bù lǚ xíng]')).
+assert(celo('Irako','irak.I0o','伊拉克[Yī lā kè]')).
+assert(celo('Irako','irak.I0o','伊拉克[yī lā kè]')).
+assert(celo('Irako','irak.I0o','伊[yī]')).
+assert(celo(irakano,'','伊拉克人[yī lā kè rén]')).
+assert(celo(iranano,'iran.0ano','伊朗人[yī lǎng rén]')).
+assert(celo(iranano,'iran.0ano','伊朗語系[yī lǎng yǔ xì]')).
+assert(celo('Irano','iran.I0o.GEOG','伊朗[Yī lǎng]')).
+assert(celo(iredentismo,'ireden.0ismo','領土收復主義[lǐng tǔ shōu fù zhǔ yì]')).
+assert(celo(iredentismo,'ireden.0ismo','民族統一主義[mín zú tǒng yī zhǔ yì]')).
+assert(celo(irido,'irid.0o','蝴蝶花[hú dié huā]')).
+assert(celo(irido,'irid.0o','虹彩[hóng cǎi]')).
+assert(celo(irido,'irid.0o','馬蘭花[mǎ lán huā]')).
+assert(celo(iridacoj,'iridac.0oj','鳶尾花[yuān wěi huā]')).
+assert(celo(iridacoj,'iridac.0oj','鳶尾科[yuān wěi kē]')).
+assert(celo(iridio,'iridi.0o','銥[yī]')).
+assert(celo(irigaci,'irigac.0i','溉[gài]')).
+assert(celo(irigaci,'irigac.0i','浇灌[jiāo guàn]')).
+assert(celo(irigaco,'irigac.0o','灌溉[guàn gài]')).
+assert(celo(irigacii,'irigaci.0i','灌溉[guàn gài]')).
+assert(celo(irigacii,'irigaci.0i','溉[gài]')).
+assert(celo(irigacii,'irigaci.0i','浇灌[jiāo guàn]')).
+assert(celo(irigacio,'irigaci.0o','灌溉[guàn gài]')).
+assert(celo(irigacio,'irigaci.0o','水利[shuǐ lì]')).
+assert(celo(iriso,'iris.0o','虹膜[hóng mò]')).
+assert(celo(irita,'irit.0a','刺激性[cì jī xìng]')).
+assert(celo(irita,'irit.0a','可恼[kě nǎo]')).
+assert(celo(irita,'irit.0a','可气[kě qì]')).
+assert(celo(iriti,'irit.0i','迷感[mí gǎn]')).
+assert(celo(irito,'irit.0o','恼怒[nǎo nù]')).
+assert(celo(irito,'irit.0o','惹人生气的东西[rě rén shēng qì de dōng xi]')).
+assert(celo('Irlando','irland.I0o','愛爾蘭[ài ěr lán]')).
+assert(celo('Irlando','irland.I0o.insulo','愛爾蘭[Aì ěr lán]')).
+assert(celo('Irlando','irland.I0o.sxtato','愛爾蘭[ài ěr lán]')).
+assert(celo('Nordirlando','irland.Nord0o','北愛爾蘭[běi ài ěr lán]')).
+assert(celo(ironia,'','令人啼笑皆非[lìng rén tí xiào jiē fēi]')).
+assert(celo(ironio,'ironi.0o','反語法[fǎn yǔ fǎ]')).
+assert(celo(ironio,'ironi.0o','反話[fǎn huà]')).
+assert(celo(ironio,'ironi.0o','反語[fǎn yǔ]')).
+assert(celo(ironio,'ironi.0o','反諷[fǎn fěng]')).
+assert(celo(ironio,'ironi.0o','反諷[fǎn fèng]')).
+assert(celo(ironio,'ironi.0o','諷刺[fèng cì]')).
+assert(celo('Izaako','isaak.0o','以撒[Yǐ sā]')).
+assert(celo('Izaako','isaak.0o','以撒[yǐ sǎ]')).
+assert(celo('Isela Lago','isel.I0aLago','艾瑟尔湖[ài sè ěr hú]')).
+assert(celo(iskiatiko,'iskiat.0o.ANA','坐骨神經[zuò gǔ shén jīng]')).
+assert(celo(iskiatiko,'iskiat.0o.ANA','坐骨神經痛[zuò gǔ shén jīng tòng]')).
+assert(celo(islama,'islam.0a','清真[qīng zhēn]')).
+assert(celo(islamano,'islam.0ano','穆斯林[Mù sī lín]')).
+assert(celo(islamano,'islam.0ano','伊斯兰教徒[yī sī lán jiào tú]')).
+assert(celo(islamano,'islam.0ano','回教徒[huí jiào tú]')).
+assert(celo(islamismo,'islam.0ismo','伊斯兰教[Yī sī lán jiào]')).
+assert(celo(islamismo,'islam.0ismo','伊斯兰[Yī sī lán]')).
+assert(celo(islamo,'islam.0o','伊斯兰教[Yī sī lán jiào]')).
+assert(celo(islamo,'islam.0o','伊斯兰[Yī sī lán]')).
+assert(celo(islamo,'islam.0o','回教[Huí jiào]')).
+assert(celo(islamo,'islam.0o','伊斯兰[yī sī lán]')).
+assert(celo(islamo,'islam.0o','回教[huí jiào]')).
+assert(celo(islamo,'islam.0o','淸真[qīng zhēn]')).
+assert(celo('Islamabado','islamabad.0o.cxefurbo','伊斯兰马巴德[Yī sī lán mǎ bā dé]')).
+assert(celo('Islamabado','islamabad.0o.cxefurbo','伊斯兰堡[Yī sī lán bǎo]')).
+assert(celo(islanda,'island.0a','冰岛语[bīng dǎo yǔ]')).
+assert(celo('Islando','island.I0o','冰岛[Bīng dǎo]')).
+assert(celo('-ism','ism.0','主义[zhǔ yì]')).
+assert(celo('-ism','ism.0','唯[wéi]')).
+assert(celo('-ism','ism.0','惟[wéi]')).
+assert(celo('Israelo','israel.I0o','以色列[Yǐ sè liè]')).
+assert(celo('Israelo','israel.I0o','以色列国[yǐ sè liè guó]')).
+assert(celo(israelano,'israel.i0ano','以色列人[Yǐ sè liè rén]')).
+assert(celo(israelano,'israel.i0ano','以色列人[yǐ sè liè rén]')).
+assert(celo('Istanbulo','istanbul.0o','伊斯坦布尔[yī sī tǎn bù ěr]')).
+assert(celo('Istanbulo','istanbul.0o','伊斯坦堡[Yī sī tǎn bǎo]')).
+assert(celo('Istanbulo','istanbul.0o','伊斯坦布尔[Yī sī tǎn bù ěr]')).
+assert(celo('Istanbulo','istanbul.0o','伊斯坦堡[yī sī tǎn bǎo]')).
+assert(celo(istmo,'istm.0o','地腰[dì yāo]')).
+assert(celo(istmo,'istm.0o','峡部[xiá bù]')).
+assert(celo(istmo,'istm.0o','苏伊士地峡[sū yī shì dì xiá]')).
+assert(celo(itala,'ital.0a','意大利語[yì dà lì yǔ]')).
+assert(celo(italo,'ital.0o','意大利人[Yì dà lì rén]')).
+assert(celo(italo,'ital.0o','意大利人[yì dà lì rén]')).
+assert(celo('Italujo','ital.I0ujo','义大利[Yì dà lì]')).
+assert(celo('Italujo','ital.I0ujo','意大利[Yì dà lì]')).
+assert(celo('Italujo','ital.I0ujo','义大利[yì dà lì]')).
+assert(celo('Italio','itali.I0o','义大利[Yì dà lì]')).
+assert(celo('Italio','itali.I0o','意大利[Yì dà lì]')).
+assert(celo('Italio','itali.I0o','义大利[yì dà lì]')).
+assert(celo(iterbio,'iterbi.0o','鐿[yì]')).
+assert(celo(itinero,'itiner.0o','行程[xíng chéng]')).
+assert(celo(itinero,'itiner.0o','路線[lù xiàn]')).
+assert(celo(itinero,'itiner.0o','旅程表[lǔ: chéng biǎo]')).
+assert(celo(itrio,'itri.0o','釔[yǐ]')).
+assert(celo(iu,'iu.0.adj','有人[yǒu rén]')).
+assert(celo(iu,'iu.0.adj','哪[nǎ]')).
+assert(celo(iu,'iu.0.adj','不知是誰[bù zhī shì shéi]')).
+assert(celo(iu,'iu.0.adj','随便哪个人[suí biàn nǎ ge rén]')).
+assert(celo(kelkiuj,'iu.kelk0j.pronomo','有的[yǒu de]')).
+assert(celo('Ivano','ivan.0o','伊凡[yī fán]')).
+assert(celo('Ivano','ivan.0o','伊万[yī wàn]')).
+assert(celo('Izido','izis.0o.MIT','艾西斯[ài xī sī]')).
+assert(celo('Izmiro','izmir.0o','伊兹密尔[yī cí mì ěr]')).
+assert(celo(izola,'izol.0a.izolita','孤立[gū lì]')).
+assert(celo(izola,'izol.0a.izolita','隔絕[gé jué]')).
+assert(celo(izola,'izol.0a.izolita','孤[gū]')).
+assert(celo(izola,'izol.0a.izolita','孤独[gū dú]')).
+assert(celo(izola,'izol.0a.izolita','孤絕[gū jué]')).
+assert(celo(izoli,'izol.0i','隔絕[gé jué]')).
+assert(celo(izoli,'izol.0i','隔离[gé lí]')).
+assert(celo(izoli,'izol.0i','絕緣[jué yuán]')).
+assert(celo(izolilo,'izol.0ilo','絕緣子[jué yuán zǐ]')).
+assert(celo(izolilo,'izol.0ilo','絕緣裝置[jué yuán zhuāng zhì]')).
+assert(celo(izolilo,'izol.0ilo','隔离的人[gé lí de rén]')).
+assert(celo(izolilo,'izol.0ilo','隔音装置[gé yīn zhuāng zhì]')).
+assert(celo(izoliteco,'izol.0iteco','孤立[gū lì]')).
+assert(celo(izoliteco,'izol.0iteco','隔离[gé lí]')).
+assert(celo(izomero,'izomer.0o','同分异构体[tóng fēn yì gòu tǐ]')).
+assert(celo(izometria,'izomet.0a','保長[bǎo cháng]')).
+assert(celo(izometria,'izomet.0a','等長[děng cháng]')).
+assert(celo(izometrio,'izomet.0o','同分异构[tóng fēn yì gòu]')).
+assert(celo(izomorfa,'izomor.0a.MAT','同构[tóng gòu]')).
+assert(celo(izomorfia,'izomor1.0a','同构[tóng gòu]')).
+assert(celo(izomorfio,'izomor1.0o','同型性[tóng xíng xìng]')).
+assert(celo(izotopo,'izotop.0o','同位素[tóng wèi sù]')).
+assert(celo(izotropeco,'izotro.0eco','各向同性[gè xiàng tóng xìng]')).
+assert(celo('Izraelo','izrael.0o','以色列[Yǐ sè liè]')).
