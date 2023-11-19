@@ -1,0 +1,306 @@
+created(1700418318.5150633).
+assert(celo(ja,'ja.0','实则[shí zé]')).
+assert(celo(ja,'ja.0','实际上[shí jì shàng]')).
+assert(celo(ja,'ja.0','敢情[gǎn qing]')).
+assert(celo(ja,'ja.0','信然[xìn rán]')).
+assert(celo(hiacinto,'jacint.0o','橘紅色[jú hóng sè]')).
+assert(celo(hiacinto,'jacint.0o','風信子石[fēng xìn zǐ shí]')).
+assert(celo(jado,'jad.0o','玉[yù]')).
+assert(celo(jado,'jad.0o','珃[rǎn]')).
+assert(celo(jado,'jad.0o','珔[jiàn]')).
+assert(celo(jado,'jad.0o','珖[guāng]')).
+assert(celo(jado,'jad.0o','琇[xiù]')).
+assert(celo(jado,'jad.0o','琨[kūn]')).
+assert(celo(jado,'jad.0o','琭[lù]')).
+assert(celo(jado,'jad.0o','瑁[mào]')).
+assert(celo(jado,'jad.0o','瑏[chuān]')).
+assert(celo(jado,'jad.0o','瑭[táng]')).
+assert(celo('Jafo','jaf.0o','雅法港[Yǎ fǎ gǎng]')).
+assert(celo('Jafo','jaf.0o','雅法[yǎ fǎ]')).
+assert(celo(jaguaro,'jaguar.0o','美洲虎[měi zhōu hǔ]')).
+assert(celo(jaguaro,'jaguar.0o','美洲虎[Měi zhōu hǔ]')).
+assert(celo(jaguaro,'jaguar.0o','美洲豹[měi zhōu bào]')).
+assert(celo(jaguaro,'jaguar.0o','美洲豹[Měi zhōu bào]')).
+assert(celo(jogurto,'jahurt.0o','酸奶[suān nǎi]')).
+assert(celo(jogurto,'jahurt.0o','酸乳[suān rǔ]')).
+assert(celo(jogurto,'jahurt.0o','酸乳酪[suān rǔ lào]')).
+assert(celo(jogurto,'jahurt.0o','优格[yōu gé]')).
+assert(celo(jogurto,'jahurt.0o','优酪乳[yōu luò rǔ]')).
+assert(celo(jakto,'jahxt.0o','游艇[yóu tǐng]')).
+assert(celo(jaketo,'jak.0eto','外套[wài tào]')).
+assert(celo(jaketo,'jak.0eto','袄[ǎo]')).
+assert(celo(jaketo,'jak.0eto','袄子[ǎo zi]')).
+assert(celo(jaketo,'jak.0eto','襦[rú]')).
+assert(celo(jako,'jak.0o','上衣[shàng yī]')).
+assert(celo(jako,'jak.0o','夹克[jiā kè]')).
+assert(celo(jako,'jak.0o','袄[ǎo]')).
+assert(celo(jako,'jak.0o','外衣[wài yī]')).
+assert(celo('trikita jako','jak.trikita_0o','开襟衫[kāi jīn shān]')).
+assert(celo('trikita jako','jak.trikita_0o','毛衣[máo yī]')).
+assert(celo('trikita jako','jak.trikita_0o','开襟羊毛衫[kāi jīn yáng máo shān]')).
+assert(celo('Jakob','jakob.0o','加科布[jiā kē bù]')).
+assert(celo('Jakob','jakob.0o','詹姆士[zhān mǔ shì]')).
+assert(celo('Jakob','jakob.0o','雅各[yǎ gè]')).
+assert(celo('Jakob','jakob.0o','傑客[jié kè]')).
+assert(celo(jakvujo,'jakv.0arbo','木菠萝[mù bō luó]')).
+assert(celo(jakvujo,'jakv.0arbo','面包果[miàn bāo guǒ]')).
+assert(celo(jakvujo,'jakv.0arbo','菠萝蜜[bō luó mì]')).
+assert(celo('Jalto','jalt.0o.urbo','雅尔塔[Yǎ ěr tǎ]')).
+assert(celo(jam,'jam.0','业已[yè yǐ]')).
+assert(celo(jam,'jam.0','兀自[wù zì]')).
+assert(celo(jam,'jam.0','即只[jí zhǐ]')).
+assert(celo(jam,'jam.0','已經[yǐ jīng]')).
+assert(celo('Jamao','jama.0o','閻王[Yán wáng]')).
+assert(celo('Jamajko','jamajk.0o','牙买加[Yá mǎi jiā]')).
+assert(celo('Jamajko','jamajk.0o','牙买加[yá mǎi jiā]')).
+assert(celo('Jamusukro','jamusukr.0o','亚穆苏克罗[yà mù sū kè luó]')).
+assert(celo('Jamusukro','jamusukr.0o','亚穆苏克罗[Yà mù sū kè luó]')).
+assert(celo('Jamusukro','jamusukr.0o','雅穆索戈[Yǎ mù suǒ gē]')).
+assert(celo('Jangzio','jangzi.0o','長江[Cháng Jiāng]')).
+assert(celo('Jangzio','jangzi.0o','長江[cháng jiāng]')).
+assert(celo(centjaro,'jar.cent0o','世紀[shì jì]')).
+assert(celo(ĉiujara,'jar.cxiu0a','每年[měi nián]')).
+assert(celo(ĉiujara,'jar.cxiu0a','年度[nián dù]')).
+assert(celo(dekkelkjarulo,'jar.dekkelk0ulo','青少年[qīng shào nián]')).
+assert(celo(duonjaro,'jar.duon0o','半年[bàn nián]')).
+assert(celo(lumjaro,'jar.lum0o','光年[guāng nián]')).
+assert(celo(miljaro,'jar.mil0o','一千年[yī qiān nián]')).
+assert(celo(miljaro,'jar.mil0o','千年[qiān nián]')).
+assert(celo('Novjaro','jar.nov0o','新年[xīn nián]')).
+assert(celo(provjaro,'jar.prov0o','試用期[shì yòng qī]')).
+assert(celo(studjaro,'jar.stud0o','学年[xué nián]')).
+assert(celo(superjaro,'jar.super0o','閏年[rùn nián]')).
+assert(celo(jasmeno,'jasmen.0o','茉[mò]')).
+assert(celo(jasmeno,'jasmen.0o','莉[lì]')).
+assert(celo(jasmeno,'jasmen.0o','茉莉[mò lì]')).
+assert(celo(jasmeno,'jasmen.0o','茉莉花[mò li huā]')).
+assert(celo(jasmeno,'jasmen.0o','茉莉属[mò lì shǔ]')).
+assert(celo(jasmeno,'jasmen.0o','茉莉香水[mò lì xiāng shuǐ]')).
+assert(celo(jasmeno,'jasmen.0o','茉莉[mò li]')).
+assert(celo(jaspi,'jasp.0i','碧玉[bì yù]')).
+assert(celo(jaspiso,'jasp.0o','碧玉[bì yù]')).
+assert(celo(jaspo,'jasp.0o','碧玉[bì yù]')).
+assert(celo('Jaundo','jaund.0o','瑤族[yáo zú]')).
+assert(celo('Jaundo','jaund.0o','雅温得[Yǎ wēn dé]')).
+assert(celo('Jaundo','jaund.0o','雅温得[yǎ wēn dé]')).
+retract(celo('Jaundo','jaund.0o','瑤族[yáo zú]')).
+assert(celo('Jehovo','jehov.0o','耶和华[Yē hé huá]')).
+assert(celo('Jekaterinburgo','jekaterinburg.0o','叶卡捷琳堡[yè kǎ jié lín bǎo]')).
+assert(celo(jelpi,'jelp.0i','吠[fèi]')).
+assert(celo('Jemeno','jemen.0o','也門[Yě mén]')).
+assert(celo('Jemeno','jemen.0o','叶门[Yè mén]')).
+assert(celo(jen,'jen.0','这会儿[zhè huì r]')).
+assert(celo('jen... jen...','jen.00','时而[shí ér]')).
+assert(celo('jen... jen...','jen.00','不时[bù shí]')).
+assert(celo('jen... jen...','jen.00','偶而[ǒu ér]')).
+assert(celo('jen... jen...','jen.00','有时[yǒu shí]')).
+assert(celo(jena,'jen.0a','那个[nà ge]')).
+assert(celo(jene,'jen.0e','如下[rú xià]')).
+assert(celo(jeno,'jen.0o','丌[qí]')).
+assert(celo(jeno,'jen.0o','其[qí]')).
+assert(celo('Jeriĥo','jerihx.0o.urbo','耶利哥[Yē lì gē]')).
+assert(celo('Jerusalemo','jerusa.J0o','耶路撒冷[Yē lù sā lěng]')).
+assert(celo(jesa,'jes.0a','肯定[kěn dìng]')).
+assert(celo(jesigi,'jes.0igi','确认[què rèn]')).
+assert(celo('jes ja','jes.0ja.emfaza','信然[xìn rán]')).
+assert(celo('jes ja','jes.0ja.emfaza','固[gù]')).
+assert(celo('jes ja','jes.0ja.emfaza','委实[wěi shí]')).
+assert(celo('jes ja','jes.0ja.emfaza','实在[shí zài]')).
+assert(celo(maljesi,'jes.mal0i','否認[fǒu rèn]')).
+assert(celo('Jesuo','jesu.0o','耶稣[Yē sū]')).
+assert(celo('Jesuo','jesu.0o','基督[Jī dū]')).
+assert(celo('Jesuo','jesu.0o','耶稣基督[Yē sū Jī dū]')).
+assert(celo('Jesuo','jesu.0o','耶稣基督[yē sū jī dū]')).
+assert(celo('Jesuo','jesu.0o','耶稣[yē sū]')).
+assert(celo(jetaviadilo,'jet.0avio','喷气式飞机[pēn qì shì fēi jī]')).
+assert(celo(jetaviadilo,'jet.0avio','喷射机[pēn shè jī]')).
+assert(celo(jetmotoro,'jet.0motoro','喷气发动机[pēn qì fā dòng jī]')).
+assert(celo(jetmotoro,'jet.0motoro','涡轮发动机[wō lún fā dòng jī]')).
+assert(celo(jetmotoro,'jet.0motoro','喷气推进装置[pēn qì tuī jìn zhuāng zhì]')).
+assert(celo(jeto,'jet.0o.reakcio','喷漆推进[pēn qī tuī jìn]')).
+assert(celo(jetio,'jeti.0o','雪人[xuě rén]')).
+assert(celo(jezuito,'jezuit.0o.REL','耶稣会士[Yē sū huì shì]')).
+assert(celo(jezuito,'jezuit.0o.REL','耶酥会士[Yē sū huì shì]')).
+assert(celo('Jido','jid.0o','意第緒語[yì dì xù yǔ]')).
+assert(celo('Jido','jid.0o','意第緒語[Yì dì xù yǔ]')).
+assert(celo('Joakimo','joakim.0o','約阿希姆[yuē ā xī mǔ]')).
+assert(celo(jodo,'jod.0o','碘[diǎn]')).
+assert(celo(jodli,'jodl.0i.MUZ','岳得尔歌[yuè dé ěr gē]')).
+assert(celo(jogo,'jog.0o','瑜伽[yú jiā]')).
+assert(celo(jogo,'jog.0o','瑜珈[yú jiā]')).
+assert(celo(jogo,'jog.0o','喻珈术[yù jiā shù]')).
+assert(celo(jogo,'jog.0o','瑜迦[yú jiā]')).
+assert(celo('Johano','johan.0o','約翰[Yuē hàn]')).
+assert(celo('Johano','johan.0o','若望[Ruò wàng]')).
+assert(celo('Johanesburgo','johanesburg.0o','約翰內斯堡[Yuē hàn nèi sī bǎo]')).
+assert(celo('Johanesburgo','johanesburg.0o','約翰內斯堡[yuē hàn nèi sī bǎo]')).
+assert(celo('Johanesburgo','johanesburg.0o','約韓內斯堡[yuē hán nèi sī bǎo]')).
+assert(celo('Jokohamo','jokoham.0o','横滨[héng bīn]')).
+assert(celo('Jokohamo','jokoham.0o','横滨市[héng bīn shì]')).
+assert(celo('Jomkipuro','jomkipur.0o','贖罪節[shú zuì jié]')).
+assert(celo(jono,'jon.0o','离子[lí zǐ]')).
+assert(celo(jonkvilo,'jonkvi.0o','水僊[shuǐ xiān]')).
+assert(celo('Jordanio','jordan.J0o','約旦[yuē dàn]')).
+assert(celo(jordania,'jordan.j0a','約旦人[yuē dàn rén]')).
+assert(celo(jordaniano,'jordan.j0ano','約旦人[yuē dàn rén]')).
+assert(celo('Jordano','jordan1.J0o.GEOG','約旦河[Yuē dàn Hé]')).
+assert(celo('Jordano','jordan1.J0o.GEOG','約旦河[yuē dàn hé]')).
+assert(celo('Jorko','jork.0o','約克[Yuē kè]')).
+assert(celo('Nov-Jorka Akciborso','jork.nov0akciborso.EKON','华尔街[Huá ěr Jiē]')).
+assert(celo('Nov-Jorkano','jork.nov0ano','紐約人[Niǔ yuē rén]')).
+assert(celo('Novjorko','jork.nov0o','紐約[Niǔ yuē]')).
+assert(celo('Novjorko','jork.nov0o.GEOG_urbo','紐約市[Niǔ yuē Shì]')).
+assert(celo('Josuo','josu.0o.nomo','約書亞[Yuē shū yà]')).
+assert(celo('Josuo','josu.0o.nomo','約書亞[yuē shū yǎ]')).
+assert(celo(joviala,'jovial.0a','和蔼[hé ǎi]')).
+assert(celo(jovialeco,'jovial.0eco','愉快的言行[yú kuài de yán xíng]')).
+assert(celo('Josefo','jozef.0o','約瑟夫[Yuē sè fū]')).
+assert(celo('Josefo','jozef.0o','若瑟[Ruò sè]')).
+assert(celo(ju,'ju.0','越‥越[yuè ‥ yuè]')).
+assert(celo(jubili,'jubil.0i','叫好[jiào hǎo]')).
+assert(celo(jubilado,'jubil.0o','喜气洋洋[xǐ qì yáng yáng]')).
+assert(celo(jubileo,'jubile.0o.KAL','周年[zhōu nián]')).
+assert(celo(jubileo,'jubile.0o.KAL','年紀日[nián jì rì]')).
+assert(celo(jubileo,'jubile.0o.KAL','悼念仪式[dào niàn yí shì]')).
+assert(celo(jubileo,'jubile.0o.KAL','紀念會[jì niàn huì]')).
+assert(celo(jubileo,'jubile.0o.KAL','紀念節[jì niàn jié]')).
+assert(celo(jubileo,'jubile.0o.KAT','禧年[xǐ nián]')).
+assert(celo(juda,'jud.0a','犹太[yóu tài]')).
+assert(celo(judaro,'jud.0aro','犹太[Yóu tài]')).
+assert(celo(judaro,'jud.0aro','希伯來人[Xī bó lái rén]')).
+assert(celo(judkvartalo,'jud.0ejo','城中村[chéng zhōng cūn]')).
+assert(celo(judkvartalo,'jud.0ejo','隔都[gé dōu]')).
+assert(celo(judismo,'jud.0ismo','犹太教[Yóu tài jiào]')).
+assert(celo('Judujo','jud.J0ujo','犹地亚[Yóu dì yà]')).
+assert(celo('Judujo','jud.J0ujo','朱迪亚[Zhū dí yà]')).
+assert(celo(kontraŭjudismo,'jud.kontraux0ismo','排犹[pái yóu]')).
+assert(celo(judaismo,'judais.0o','犹太教[Yóu tài jiào]')).
+assert(celo('Judeo','jude.0o.GEOG','犹地亚[Yóu dì yà]')).
+assert(celo(jugi,'jug.0i.FIG','奴化[nú huà]')).
+assert(celo(jugi,'jug.0i.FIG','奴役[nú yì]')).
+assert(celo(jugo,'jug.0o','牛軛[niú è]')).
+assert(celo(jugo,'jug.0o','枷鎖[jiā suǒ]')).
+assert(celo(jugo,'','奴役[nú yì]')).
+assert(celo(subjugigi,'jug.sub0igi','奴化[nú huà]')).
+assert(celo(juglando,'juglan.0o','核桃[hé tao]')).
+assert(celo(juglando,'juglan.0o','胡桃[hú táo]')).
+assert(celo(juglando,'juglan.0o','核桃泥[hé táo ní]')).
+assert(celo(juglandarbo,'juglan.0ujo0arbo','胡桃[hú táo]')).
+assert(celo(juglandacoj,'juglan1.0oj','胡桃科[hú táo kē]')).
+assert(celo('Jugoslavio','jugosla1.J0o','南斯拉夫[Nán sī lā fū]')).
+assert(celo('Jugoslavio','jugosla1.J0o','南斯拉夫[nán sī lā fū]')).
+assert(celo(juĝejo,'jugx.0ejo','法庭[fǎ tíng]')).
+assert(celo(juĝejo,'jugx.0ejo','法院[fǎ yuàn]')).
+assert(celo(juĝejo,'jugx.0ejo','庭[tíng]')).
+assert(celo(juĝejo,'jugx.0ejo','审判室[shěn pàn shì]')).
+assert(celo(juĝi,'jugx.0i','判断[pàn duàn]')).
+assert(celo(juĝi,'jugx.0i','判定[pàn dìng]')).
+assert(celo(juĝi,'jugx.0i','論斷[lùn duàn]')).
+assert(celo(juĝi,'jugx.0i','判[pàn]')).
+assert(celo(juĝisto,'jugx.0isto','仲裁人[zhòng cái rén]')).
+assert(celo(juĝisto,'jugx.0isto','法官[fǎ guān]')).
+assert(celo(juĝo,'jugx.0o','判决[pàn jué]')).
+assert(celo(juĝo,'jugx.0o','判断[pàn duàn]')).
+assert(celo(juĝo,'jugx.0o','論斷[lùn duàn]')).
+assert(celo(juĝo,'jugx.0o','評論文章[píng lùn wén zhāng]')).
+assert(celo(aljuĝi,'jugx.al0i','归因[guī yīn]')).
+assert(celo(antaŭjuĝo,'jugx.antaux0o','偏見[piān jiàn]')).
+assert(celo(antaŭjuĝo,'jugx.antaux0o','成見[chéng jiàn]')).
+assert(celo(antaŭjugi,'','有偏見[yǒu piān jiàn]')).
+assert(celo(prijuĝi,'jugx.pri0i','評價[píng jià]')).
+assert(celo(prijuĝi,'jugx.pri0i','判定[pàn dìng]')).
+assert(celo(prijuĝi,'jugx.pri0i','評定[píng dìng]')).
+assert(celo(prijuĝi,'jugx.pri0i','評審[píng shěn]')).
+assert(celo(prijuĝi,'jugx.pri0i','判决[pàn jué]')).
+assert(celo(senantaŭjuĝa,'jugx.senantaux0a','受格[shòu gé]')).
+assert(celo(senantaŭjuĝa,'jugx.senantaux0a','客觀[kè guān]')).
+assert(celo(senantaŭjuĝa,'jugx.senantaux0a','与事实有关[yǔ shì shí yǒu guān]')).
+assert(celo(senantaŭjuĝa,'jugx.senantaux0a','沒有偏差[méi yǒu piān chā]')).
+assert(celo(senantaŭjuĝa,'jugx.senantaux0a','无偏见[wú piān jiàn]')).
+assert(celo(jujubarbo,'jujub.0arbo0ujo','棯[rěn]')).
+assert(celo(jujubarbo,'jujub.0arbo0ujo','果味胶糖[guǒ wèi jiāo táng]')).
+assert(celo(jujubarbo,'jujub.0arbo0ujo','枣树[zǎo shù]')).
+assert(celo(jujubo,'jujub.0o','枣[zǎo]')).
+assert(celo(jujubo,'jujub.0o','枣子[zǎo zi]')).
+assert(celo(jujubo,'jujub.0o','紅棗[hóng zǎo]')).
+assert(celo(juki,'juk.0i','瘙痒[sào yǎng]')).
+assert(celo(juki,'juk.0i','痒[yǎng]')).
+assert(celo(juki,'juk.0i','痒痒[yǎng yang]')).
+assert(celo(juki,'juk.0i','想去抓痒[xiǎng qù zhuā yǎng]')).
+assert(celo(juki,'juk.0i','抓痒[zhuā yǎng]')).
+assert(celo(juko,'juk.0o','瘙痒[sào yǎng]')).
+assert(celo('Julio','juli.0o','七月[Qī yuè]')).
+assert(celo('Julio','juli.0o','七月份[qī yuè fèn]')).
+assert(celo('Julio','juli1.0o','儒略[rú lüè]')).
+assert(celo('Julio','juli1.0o','尤利乌斯[yóu lì wū sī]')).
+assert(celo(juna,'jun.0a','年幼[nián yòu]')).
+assert(celo(juna,'jun.0a','幼[yòu]')).
+assert(celo(juna,'jun.0a','年輕[nián qīng]')).
+assert(celo(juna,'jun.0a','少[shào]')).
+assert(celo(juna,'jun.0a','年紀輕[nián jì qīng]')).
+assert(celo(juneca,'jun.0eca','綺年[qǐ nián]')).
+assert(celo(juneca,'jun.0eca','年青[nián qīng]')).
+assert(celo(juneco,'jun.0eco','青年[qīng nián]')).
+assert(celo(juneco,'jun.0eco','青春[qīng chūn]')).
+assert(celo(juneco,'jun.0eco','花季[huā jì]')).
+assert(celo(junularo,'jun.0ularo','青少年[qīng shào nián]')).
+assert(celo(junularo,'jun.0ularo','年輕人[nián qīng rén]')).
+assert(celo(junulo,'jun.0ulo','青年[qīng nián]')).
+assert(celo(junulo,'jun.0ulo','少年[shào nián]')).
+assert(celo(junulo,'jun.0ulo','年輕人[nián qīng rén]')).
+assert(celo(maljuna,'jun.mal0a','年迈[nián mài]')).
+assert(celo(maljuna,'jun.mal0a','高年[gāo nián]')).
+assert(celo(maljuneco,'jun.mal0eco','晚年[wǎn nián]')).
+assert(celo(maljuneco,'jun.mal0eco','暮岁[mù suì]')).
+assert(celo(maljuniĝi,'jun.mal0igxi','衰老[shuāi lǎo]')).
+assert(celo(maljuniĝi,'jun.mal0igxi','变老[biàn lǎo]')).
+assert(celo(maljuniĝi,'jun.mal0igxi','老了[lǎo liǎo]')).
+assert(celo(maljuniĝi,'jun.mal0igxi','老熟[lǎo shú]')).
+assert(celo(maljuniĝi,'jun.mal0igxi','衰老了[shuāi lǎo liǎo]')).
+assert(celo(maljunulo,'jun.mal0ulo','老翁[lǎo wēng]')).
+assert(celo(maljunulo,'jun.mal0ulo','老人[lǎo rén]')).
+assert(celo(maljunulo,'jun.mal0ulo','老汉[lǎo hàn]')).
+assert(celo(jungaĵo,'jung.0ajxo.ilaro','挽具[wǎn jù]')).
+assert(celo(jungi,'jung.0i','牵绊[qiān bàn]')).
+assert(celo(jungi,'jung.0i','套馬[tào mǎ]')).
+assert(celo(jungiloj,'jung.0ilaro.RAJ','挽具[wǎn jù]')).
+assert(celo(jungitaro,'jung.0itaro','团队[tuán duì]')).
+assert(celo(jungitaro,'jung.0itaro','团体[tuán tǐ]')).
+assert(celo(junio,'juni.0o','六月[Liù yuè]')).
+assert(celo(junio,'juni.0o','六月份[liù yuè fèn]')).
+assert(celo(junio,'juni.0o','六月[liù yuè]')).
+assert(celo(junipero,'junipe.0o','杜松[dù sōng]')).
+assert(celo(junipero,'junipe.0o','刺柏[cì bó]')).
+assert(celo(junko,'junk.0o','蓐[rù]')).
+assert(celo(junko,'junk.0o','芦[lú]')).
+assert(celo(junko,'junk.0o','蒻[ruò]')).
+assert(celo(junko,'junk.0o','芦苇[lú wěi]')).
+assert(celo(junko,'junk.0o','香蒲[xiāng pú]')).
+assert(celo(junko,'junk.0o','紙草[zhǐ cǎo]')).
+assert(celo(junkacoj,'junkac.0oj','灯心草[dēng xīn cǎo]')).
+assert(celo(junkro,'junkr.0o','德国贵族大地主[dé guó guì zú dà dì zhǔ]')).
+assert(celo(junkro,'junkr.0o','德国青年贵族[dé guó qīng nián guì zú]')).
+assert(celo(junkro,'junkr.0o','容克[róng kè]')).
+assert(celo(junto,'junt.0o','拼接[pīn jiē]')).
+assert(celo(junto,'junt.0o','交界处[jiāo jiè chù]')).
+assert(celo(jupo,'jup.0o','裳[cháng]')).
+assert(celo(jupo,'jup.0o','裙子[qún zi]')).
+assert(celo(jupo,'jup.0o','裙[qún]')).
+assert(celo(subjupo,'jup.sub0o','裳[cháng]')).
+assert(celo(subjupo,'jup.sub0o','衬裙[chèn qún]')).
+assert(celo('Jupitero','jupiter.0o','涒[tūn]')).
+assert(celo('Jupitero','jupiter.0o','木星[Mù xīng]')).
+assert(celo('Jupitero','jupiter.0o','木星[mù xīng]')).
+assert(celo('Jupitero','jupiter.0o','朱庇特[Zhū bì tè]')).
+assert(celo(jura,'jur.0a','依法[yī fǎ]')).
+assert(celo(juristo,'jur.0isto','法学家[fǎ xué jiā]')).
+assert(celo(juro,'jur.0o','法学[fǎ xué]')).
+assert(celo(juro,'jur.0o','法[fǎ]')).
+assert(celo(juro,'jur.0o','律[lù:]')).
+retract(celo(juro,'jur.0o','律[lù:]')).
+assert(celo(juroscienco,'jur.0oscienco','法学[fǎ xué]')).
+assert(celo('internacia publika juro','jur.internacia_0o','国际法[guó jì fǎ]')).
+assert(celo('internacia publika juro','jur.internacia_0o','万国公法[wàn guó gōng fǎ]')).
+assert(celo(kutimjuro,'jur.kutim0o','习惯法[xí guàn fǎ]')).
+assert(celo('romana juro','jur.roma_0o','罗马法[Luó mǎ fǎ]')).
+assert(celo(jurisdikcio,'jurisdikci.0o.JUR','审判权[shěn pàn quán]')).

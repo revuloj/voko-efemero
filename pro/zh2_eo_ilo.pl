@@ -78,9 +78,9 @@ sercho(Request) :-
 */
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-eo_def('vrt/eo_def_i.csv'). % eo-de/en/fr
-db_celo('pdb/eo_zh_i.db').
-csv_celo('vrt/eo_zh_i.csv').
+eo_def('vrt/eo_def_j.csv'). % eo-de/en/fr
+db_celo('pdb/eo_zh_j.db').
+csv_celo('vrt/eo_zh_j.csv').
 
 /**
  * Dialogo por aldono de tradukoj:
@@ -558,7 +558,7 @@ sekva(Sekva) :-
         call_nth(eo(EoN,MrkN,_,_,_),Lasta),
         Eo=EoN, MrkN=Mrk
         ;
-        Lasta=1
+        Lasta=1, Eo='', Mrk=''
     )),
     % trovu la sekvan vorton en mankoj
     call_nth(eo(Sekva,MrkS,_,_,_),N1),
