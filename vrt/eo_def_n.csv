@@ -1,0 +1,4503 @@
+#kap	mrk	lng	trd	ind
+-n	n.0	fr	marque de l'accusatif	accusatif
+-n	n.0	en		ending to mark the accusative case in Esperanto
+-n	n.0.direkto	fr	marque de l'accusatif	accusatif
+-n	n.0.direkto	en		ending to mark the accusative case in Esperanto
+-n	n.0.je	fr	marque de l'accusatif	accusatif
+-n	n.0.je	en		ending to mark the accusative case in Esperanto
+-n	n.0.komplemento	fr	marque de l'accusatif	accusatif
+-n	n.0.komplemento	en		ending to mark the accusative case in Esperanto
+-n	n.0.kun	fr	marque de l'accusatif	accusatif
+-n	n.0.kun	en		ending to mark the accusative case in Esperanto
+-n	n.0.mezuro	fr	marque de l'accusatif	accusatif
+-n	n.0.mezuro	en		ending to mark the accusative case in Esperanto
+-n	n.0.tempo	fr	marque de l'accusatif	accusatif
+-n	n.0.tempo	en		ending to mark the accusative case in Esperanto
+no	n1.0	NULL	NULL	NULL
+no	n1.0.konsonanto	fr		nord
+no	n1.0.konsonanto	fr	N (ensemble des nombres naturels)	N
+no	n1.0.konsonanto	fr		Newton
+no	n1.0.konsonanto	fr		azote
+naismo	na.0ismo	NULL	NULL	NULL
+naismo	na.0ismo.ESP	NULL	NULL	NULL
+na	na.0o	fr		préposition de C.O.D.
+na	na.0o	en		accusative preposition
+na	na.0o.SNC	fr		préposition de C.O.D.
+na	na.0o.SNC	en		accusative preposition
+nabo	nab.0o	de		Hub
+nabo	nab.0o	en		hub
+nabo	nab.0o.FIG	de		Hub
+nabo	nab.0o.FIG	de		Hub
+nabo	nab.0o.FIG	en		hub
+nabo	nab.0o.KOMP	de		Hub
+nabo	nab.0o.KOMP	fr	concentrateur (informatique)	concentrateur
+nabo	nab.0o.KOMP	de		Hub
+nabo	nab.0o.KOMP	en		hub
+nabo	nab.0o.TEK	de		Hub
+nabo	nab.0o.TEK	fr		moyeu
+nabo	nab.0o.TEK	de		Nabe
+nabo	nab.0o.TEK	en		hub
+nababo	nabab.0o	fr		nabab
+nababo	nabab.0o	en		nabob
+nababo	nabab.0o	de		Nawab
+nababo	nabab.0o.FIG	fr		nabab
+nababo	nabab.0o.FIG	en		nabob
+nababo	nabab.0o.FIG	de		Nawab
+nababo	nabab.0o.POL	fr		nabab
+nababo	nabab.0o.POL	en		nabob
+nababo	nabab.0o.POL	de		Nawab
+nablo	nabl.0o	NULL	NULL	NULL
+nablo	nabl.0o.MAT	en		nabla
+nablo	nabl.0o.MUZ	en		psaltery
+nacia	naci.0a	en		national
+nacia	naci.0a	fr		national
+nacia	naci.0a.etna	en		national
+nacia	naci.0a.etna	fr		national
+nacia	naci.0a.etna	de		national
+nacia	naci.0a.sxtata	en		national
+nacia	naci.0a.sxtata	fr		national
+nacia	naci.0a.sxtata	de		Landes-
+nacia	naci.0a.sxtata	de		National-
+naciaĵo	naci.0ajxo	en		national idiom
+naciaĵo	naci.0ajxo	de	nationale Besonderheit	Besonderheit
+naciaĵo	naci.0ajxo	fr	spécialité nationale	nationale
+naciaĵo	naci.0ajxo	fr	particularité nationale	nationale
+nacianigi	naci.0anigi	en		nationalize
+nacianigi	naci.0anigi	de		naturalisieren
+nacianigi	naci.0anigi.JUR_POL	en		nationalize
+nacianigi	naci.0anigi.JUR_POL	de		einbürgern
+nacianigi	naci.0anigi.JUR_POL	de		naturalisieren
+naciano	naci.0ano	fr		ressortissant
+naciano	naci.0ano	fr	national (subst.)	national
+naciano	naci.0ano	en		national
+naciano	naci.0ano.BIB	fr		ressortissant
+naciano	naci.0ano.BIB	fr	national (subst.)	national
+naciano	naci.0ano.BIB	en		national
+naciano	naci.0ano.BIB	fr	gentil (non-juif)	gentil
+naciano	naci.0ano.BIB	de		Nichtjude
+naciano	naci.0ano.etnano	fr		ressortissant
+naciano	naci.0ano.etnano	fr	national (subst.)	national
+naciano	naci.0ano.etnano	en		national
+naciano	naci.0ano.etnano	de		Angehöriger einer Nationalität
+naciano	naci.0ano.sxtatano	fr		ressortissant
+naciano	naci.0ano.sxtatano	fr	national (subst.)	national
+naciano	naci.0ano.sxtatano	en		national
+naciano	naci.0ano.sxtatano	de		Staatsangehöriger
+nacieco	naci.0eco	fr		nationalité
+nacieco	naci.0eco	en		nationality
+nacieco	naci.0eco	de		Nationalität
+nacieco	naci.0eco.etno	fr		nationalité
+nacieco	naci.0eco.etno	en		nationality
+nacieco	naci.0eco.etno	de		Nationalität
+nacieco	naci.0eco.propra	fr		nationalité
+nacieco	naci.0eco.propra	en		nationality
+nacieco	naci.0eco.propra	de		Nationalität
+nacianismo	naci.0ismo	en		nationalism
+naciismo	naci.0ismo	en		nationalism
+nacianismo	naci.0ismo.LIN	en		nationalism
+naciismo	naci.0ismo.LIN	en		nationalism
+nacianismo	naci.0ismo.LIN	fr		idiotisme
+naciismo	naci.0ismo.LIN	fr		idiotisme
+nacianismo	naci.0ismo.LIN	de	nationaler Sprachidiotismus	Sprachidiotismus
+naciismo	naci.0ismo.LIN	de	nationaler Sprachidiotismus	Sprachidiotismus
+nacianismo	naci.0ismo.POL	en		nationalism
+naciismo	naci.0ismo.POL	en		nationalism
+nacianismo	naci.0ismo.POL	fr		nationalisme
+naciismo	naci.0ismo.POL	fr		nationalisme
+nacianismo	naci.0ismo.POL	de		Nationalismus
+naciismo	naci.0ismo.POL	de		Nationalismus
+nacianisto	naci.0isto	fr		nationaliste
+naciisto	naci.0isto	fr		nationaliste
+nacianisto	naci.0isto	en		nationalist
+naciisto	naci.0isto	en		nationalist
+nacianisto	naci.0isto	de		Nationalist
+naciisto	naci.0isto	de		Nationalist
+nacianisto	naci.0isto.POL	fr		nationaliste
+naciisto	naci.0isto.POL	fr		nationaliste
+nacianisto	naci.0isto.POL	en		nationalist
+naciisto	naci.0isto.POL	en		nationalist
+nacianisto	naci.0isto.POL	de		Nationalist
+naciisto	naci.0isto.POL	de		Nationalist
+nacio	naci.0o	fr		nation
+nacio	naci.0o	en		nation
+nacio	naci.0o.popolo	fr		nation
+nacio	naci.0o.popolo	en		nation
+nacio	naci.0o.popolo	de		Nation
+nacio	naci.0o.regno	fr		nation
+nacio	naci.0o.regno	en		nation
+nacio	naci.0o.regno	de		Staatsvolk
+nacio	naci.0o.suvereno	fr		nation
+nacio	naci.0o.suvereno	en		nation
+nacio	naci.0o.suvereno	de		Volk
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj	fr		ONU
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj	fr	Organisation des Nations Unies	Nations
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj	en		UN
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj	en		UNO
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj	en	United Nations	Nations
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj	en	United Nations Organisation	Nations
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj	de		UN
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj	de	Vereinte Nationen	Nationen
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj.POL	fr		ONU
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj.POL	fr	Organisation des Nations Unies	Nations
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj.POL	en		UN
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj.POL	en		UNO
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj.POL	en	United Nations	Nations
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj.POL	en	United Nations Organisation	Nations
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj.POL	de		UN
+Unuiĝintaj Nacioj	naci.Unuigxintaj_0oj.POL	de	Vereinte Nationen	Nationen
+alinaciano	naci.ali0ano	de	Angehöriger eines anderen Volkes	Volkes
+internacia	naci.inter0a	fr		international
+internacia	naci.inter0a	en		international
+internacia	naci.inter0a.prop	fr		international
+internacia	naci.inter0a.prop	en		international
+internacia	naci.inter0a.prop	de		multinational
+internacia	naci.inter0a.sxtat	fr		international
+internacia	naci.inter0a.sxtat	en		international
+internacia	naci.inter0a.sxtat	de		international
+internaciismo	naci.inter0ismo	NULL	NULL	NULL
+internaciismo	naci.inter0ismo.JUR	en		internationalism
+internaciismo	naci.inter0ismo.JUR	de		Internationalismus
+internaciismo	naci.inter0ismo.JUR	fr		internationalisme
+internaciismo	naci.inter0ismo.LIN	NULL	NULL	NULL
+internaciismo	naci.inter0ismo.POL	NULL	NULL	NULL
+samnaciano	naci.sam0ano	fr	compatriote (de même nation)	compatriote
+samnaciano	naci.sam0ano.KOMUNE	fr	compatriote (de même nation)	compatriote
+sennaciismo	naci.sen0ismo	fr	cosmopolitisme (politique)	cosmopolitisme
+sennaciismo	naci.sen0ismo	fr		anationalisme
+sennaciismo	naci.sen0ismo	en		anationalism
+sennaciismo	naci.sen0ismo	de		Weltbürgertum
+sennaciismo	naci.sen0ismo	de	Doktrin der Nationslosigkeit	Nationslosigkeit
+sennaciismo	naci.sen0ismo.POL	fr	cosmopolitisme (politique)	cosmopolitisme
+sennaciismo	naci.sen0ismo.POL	fr		anationalisme
+sennaciismo	naci.sen0ismo.POL	en		anationalism
+sennaciismo	naci.sen0ismo.POL	de		Weltbürgertum
+sennaciismo	naci.sen0ismo.POL	de	Doktrin der Nationslosigkeit	Nationslosigkeit
+nacionalismo	nacion.0o	en		nationalism
+nacionalismo	nacion.0o	de		Nationalismus
+nacionalismo	nacion.0o	fr		nationalisme
+nacionalismo	nacion.0o.naciismo	de		Nationalismus
+nacionalismo	nacion.0o.naciismo	fr		nationalisme
+nacionalismo	nacion.0o.naciismo	en		nationalism
+nadiro	nadir.0o	NULL	NULL	NULL
+nadiro	nadir.0o.AST	fr		nadir
+nadiro	nadir.0o.AST	en		nadir
+nadiro	nadir.0o.AST	de		Nullpunkt
+nadiro	nadir.0o.AST	de		Fußpunkt
+nadiro	nadir.0o.AST	de		Nadir
+nadiro	nadir.0o.FIG	fr	point le plus bas	plus bas
+nadiro	nadir.0o.FIG	de		Tiefpunkt
+nadlo	nadl.0o	fr	aiguille (sauf pour coudre)	aiguille
+nadlo	nadl.0o	en		pointer
+nadlo	nadl.0o	en		hand
+nadlo	nadl.0o	en		indicator
+nadlo	nadl.0o	en		needle
+nadlo	nadl.0o	de		Nadel
+nafto	naft.0o	fr		pétrole brut
+nafto	naft.0o	fr		naphte
+nafto	naft.0o	fr	brut (pétrole)	brut
+nafto	naft.0o	de		Rohöl
+nafto	naft.0o	en		crude oil
+nafto	naft.0o	de		Erdöl
+nafto	naft.0o	en		oil
+nafto	naft.0o.MIN	fr		pétrole brut
+nafto	naft.0o.MIN	fr		naphte
+nafto	naft.0o.MIN	fr	brut (pétrole)	brut
+nafto	naft.0o.MIN	de		Rohöl
+nafto	naft.0o.MIN	en		crude oil
+nafto	naft.0o.MIN	de		Erdöl
+nafto	naft.0o.MIN	en		oil
+naftoputo	naft.0oputo	fr		puits de pétrole
+naftoputo	naft.0oputo	en	oil well	well
+naftoputo	naft.0oputo	de		Ölquelle
+naftoputo	naft.0oputo.TEK	fr		puits de pétrole
+naftoputo	naft.0oputo.TEK	en	oil well	well
+naftoputo	naft.0oputo.TEK	de		Ölquelle
+naftoŝipo	naft.0osxipo	de		Öltanker
+naftoŝipo	naft.0osxipo	fr		pétrolier
+naftoŝipo	naft.0osxipo	en	oil tanker	tanker
+naftoŝipo	naft.0osxipo	de		Tanker
+naftalino	naftal.0o	fr		naphtaline
+naftalino	naftal.0o	en		naphthalene
+naftalino	naftal.0o	de		Naphthalin
+naftalino	naftal.0o.KEM	fr		naphtaline
+naftalino	naftal.0o.KEM	en		naphthalene
+naftalino	naftal.0o.KEM	de		Naphthalin
+naftolo	naftol.0o	fr		naphtol
+naftolo	naftol.0o	en		naphthol
+naftolo	naftol.0o	de		Naphthol
+Nagalando	naga.0lando	fr		Nagaland
+Nagalando	naga.0lando.GEOG	fr		Nagaland
+nagao	naga.0o	fr		naga
+nagao	naga.0o.ETN	fr		naga
+Nagasako	nagasak.0o	NULL	NULL	NULL
+Nagasako	nagasak.0o.havenurbo	fr		Nagasaki
+Nagasako	nagasak.0o.havenurbo	en		Nagasaki
+Nagasako	nagasak.0o.havenurbo	de		Nagasaki
+Nagojo	nagoj.0o	fr		Nagoya
+Nagojo	nagoj.0o	en		Nagoya
+Nagojo	nagoj.0o	de		Nagoya
+naĝejo	nagx.0ejo	fr		piscine
+naĝejo	nagx.0ejo	de		Schwimmbad
+naĝejo	nagx.0ejo.SPO	fr		piscine
+naĝejo	nagx.0ejo.SPO	de		Schwimmbad
+naĝi	nagx.0i	fr		nager
+naĝi	nagx.0i	de		schwimmen
+naĝi	nagx.0i.FIG_enesti	de		baden
+naĝi	nagx.0i.FIG_enesti	de		schwimmen
+naĝi	nagx.0i.FIG_enesti	fr		nager
+naĝi	nagx.0i.FIG_enesti	de		schwimmen
+naĝi	nagx.0i.FIG_sxvebi	de		schweifen
+naĝi	nagx.0i.FIG_sxvebi	de		fließen
+naĝi	nagx.0i.FIG_sxvebi	fr		nager
+naĝi	nagx.0i.FIG_sxvebi	de		schwimmen
+naĝi	nagx.0i.KOMUNE	de		treiben
+naĝi	nagx.0i.KOMUNE	de		schwimmen
+naĝi	nagx.0i.KOMUNE	de		treiben
+naĝi	nagx.0i.KOMUNE	de		schwimmen
+naĝi	nagx.0i.KOMUNE	en		swim
+naĝi	nagx.0i.KOMUNE	de		schwimmen
+naĝi	nagx.0i.KOMUNE	fr		nager
+naĝi	nagx.0i.KOMUNE	de		schwimmen
+naĝilo	nagx.0ilo	NULL	NULL	NULL
+naĝilo	nagx.0ilo.SPO	fr		palme
+naĝilo	nagx.0ilo.ZOO	en		fin
+naĝilo	nagx.0ilo.ZOO	de		Flosse
+naĝilo	nagx.0ilo.ZOO	fr		nageoire
+ĉirkaŭnaĝi	nagx.cxirkaux0i	fr		contourner en nageant
+ĉirkaŭnaĝi	nagx.cxirkaux0i	de		umschwimmen
+ĉirkaŭnaĝi	nagx.cxirkaux0i.KOMUNE	fr		contourner en nageant
+ĉirkaŭnaĝi	nagx.cxirkaux0i.KOMUNE	de		umschwimmen
+elnaĝi	nagx.el0i	fr		émerger
+elnaĝi	nagx.el0i	de		auftauchen
+elnaĝi	nagx.el0i.KOMUNE	fr		émerger
+elnaĝi	nagx.el0i.KOMUNE	de		auftauchen
+subnaĝi	nagx.sub0i	fr		plonger
+subnaĝi	nagx.sub0i	en		dive
+subnaĝi	nagx.sub0i	de		abtauchen
+subnaĝi	nagx.sub0i.subsurface	fr		plonger
+subnaĝi	nagx.sub0i.subsurface	en		dive
+subnaĝi	nagx.sub0i.subsurface	de		abtauchen
+naiva	naiv.0a	NULL	NULL	NULL
+naiva	naiv.0a.PSI	de		töricht
+naiva	naiv.0a.PSI	de		harmlos
+naiva	naiv.0a.PSI	de		blauäugig
+naiva	naiv.0a.PSI	de		einfältig
+naiva	naiv.0a.PSI	de		naiv
+naiva	naiv.0a.PSI	de		unschuldig
+naiva	naiv.0a.PSI	de		unbefangen
+naiva	naiv.0a.PSI	fr	simple (naïf)	simple
+naiva	naiv.0a.PSI	fr		naïf
+naiva	naiv.0a.PSI	fr		ingénu
+naiva	naiv.0a.PSI	en		unsophisticated
+naiva	naiv.0a.PSI	en		unaffected
+naiva	naiv.0a.PSI	en		simple
+naiva	naiv.0a.PSI	en		natural
+naiva	naiv.0a.PSI	en		innocent
+naiva	naiv.0a.PSI	en		ingenuous
+naiva	naiv.0a.PSI	en		artless
+naiva	naiv.0a.PSI	en		naive
+naiva	naiv.0a.PSI	de		ursprünglich
+naiva	naiv.0a.PSI	de	kindlich (naiv)	kindlich
+naive	naiv.0e	NULL	NULL	NULL
+naive	naiv.0e.PSI	NULL	NULL	NULL
+naiveco	naiv.0eco	de		Unschuld
+naiveco	naiv.0eco	de		Torheit
+naiveco	naiv.0eco	de		Einfalt
+naiveco	naiv.0eco	de		Blauäugikeit
+naiveco	naiv.0eco	de		Naivität
+naivega	naiv.0ega	en		silly
+naivega	naiv.0ega	en		green
+naivega	naiv.0ega	de		ziemlich naiv
+naivega	naiv.0ega	de		leichtgläubig
+naivega	naiv.0ega	de		einfältig
+naivega	naiv.0ega	fr		niais
+naivega	naiv.0ega	fr		crédule
+naivega	naiv.0ega.PSI	en		silly
+naivega	naiv.0ega.PSI	en		green
+naivega	naiv.0ega.PSI	de		ziemlich naiv
+naivega	naiv.0ega.PSI	de		leichtgläubig
+naivega	naiv.0ega.PSI	de		einfältig
+naivega	naiv.0ega.PSI	fr		niais
+naivega	naiv.0ega.PSI	fr		crédule
+naivi	naiv.0i	fr	être naïf	naïf
+naivi	naiv.0i	en		to be naive
+naivi	naiv.0i.PSI	fr	être naïf	naïf
+naivi	naiv.0i.PSI	en		to be naive
+naivismo	naiv.0ismo	fr	art naïf	naïf
+naivismo	naiv.0ismo	en		naivism
+naivismo	naiv.0ismo	de	naive Kunst	Kunst
+naivismo	naiv.0ismo.BELA	fr	art naïf	naïf
+naivismo	naiv.0ismo.BELA	en		naivism
+naivismo	naiv.0ismo.BELA	de	naive Kunst	Kunst
+naivulo	naiv.0ulo	fr	bêta (subst.)	bêta
+naivulo	naiv.0ulo	fr	benêt (subst.)	benêt
+naivulo	naiv.0ulo	en		ingenue
+naivulo	naiv.0ulo	de		Einfaltspinsel
+naivulo	naiv.0ulo	en		gullible person
+naivulo	naiv.0ulo	de		Simplizissimus
+naivulo	naiv.0ulo	de		Tor
+naivulo	naiv.0ulo.PSI	fr	bêta (subst.)	bêta
+naivulo	naiv.0ulo.PSI	fr	benêt (subst.)	benêt
+naivulo	naiv.0ulo.PSI	en		ingenue
+naivulo	naiv.0ulo.PSI	de		Einfaltspinsel
+naivulo	naiv.0ulo.PSI	en		gullible person
+naivulo	naiv.0ulo.PSI	de		Simplizissimus
+naivulo	naiv.0ulo.PSI	de		Tor
+najado	najad.0o	fr		naïade
+najado	najad.0o	en		water nymph
+najado	najad.0o	en		naiad
+najado	najad.0o	de		Flussnymphe
+najado	najad.0o	de		Quellnymphe
+najado	najad.0o	de		Najade
+najbara	najbar.0a	de		nachbarschaftlich
+najbara	najbar.0a	fr	voisin (adj.)	voisin
+najbara	najbar.0a	de		benachbart
+najbara	najbar.0a	en		adjacent
+najbara	najbar.0a	en		adjoining
+najbara	najbar.0a	en		neighbouring
+najbara	najbar.0a	en		neighboring
+najbara	najbar.0a	de		angrenzend
+najbara	najbar.0a	de		Nachbar-
+najbara	najbar.0a	en		adjacent
+najbara	najbar.0a	en		adjoining
+najbara	najbar.0a	en		neighbouring
+najbara	najbar.0a	en		neighboring
+najbara	najbar.0a	de		Nachbarschafts-
+najbara	najbar.0a.MAT	de		nachbarschaftlich
+najbara	najbar.0a.MAT	fr	voisin (adj.)	voisin
+najbara	najbar.0a.MAT	de		benachbart
+najbara	najbar.0a.MAT	en		adjacent
+najbara	najbar.0a.MAT	en		adjoining
+najbara	najbar.0a.MAT	en		neighbouring
+najbara	najbar.0a.MAT	en		neighboring
+najbara	najbar.0a.MAT	de		angrenzend
+najbara	najbar.0a.MAT	de		Nachbar-
+najbara	najbar.0a.MAT	en		adjacent
+najbara	najbar.0a.MAT	en		adjoining
+najbara	najbar.0a.MAT	en		neighbouring
+najbara	najbar.0a.MAT	en		neighboring
+najbara	najbar.0a.MAT	de		Nachbarschafts-
+najbaraĵo	najbar.0ajxo	fr		voisinage
+najbaraĵo	najbar.0ajxo	en		surroundings
+najbaraĵo	najbar.0ajxo	en		vicinity
+najbaraĵo	najbar.0ajxo	en		neighbourhood
+najbaraĵo	najbar.0ajxo	en		neighborhood
+najbaraĵo	najbar.0ajxo	de	Nähe (Nachbarschaft)	Nähe
+najbaraĵo	najbar.0ajxo	de		Nachbarschaft
+najbare kun	najbar.0ede	de	gleich neben	neben
+najbare de	najbar.0ede	en		next to
+najbare de	najbar.0ede	de	gleich neben	neben
+najbare kun	najbar.0ede	en		adjacent to
+najbare kun	najbar.0ede	de	in unmittelbarer Nachbarschaft	Nachbarschaft
+najbare de	najbar.0ede	en		adjacent to
+najbare de	najbar.0ede	de	in unmittelbarer Nachbarschaft	Nachbarschaft
+najbare kun	najbar.0ede	de	in Nachbarschaft zu	Nachbarschaft
+najbare de	najbar.0ede	de	in Nachbarschaft zu	Nachbarschaft
+najbare kun	najbar.0ede	fr		au voisinage de
+najbare kun	najbar.0ede	de		nahebei
+najbare de	najbar.0ede	fr		au voisinage de
+najbare de	najbar.0ede	de		nahebei
+najbare kun	najbar.0ede	en		next to
+najbaro	najbar.0o	fr	voisin (subst.)	voisin
+najbaro	najbar.0o	en		near dweller
+najbaro	najbar.0o	en		neighbour
+najbaro	najbar.0o	en		neighbor
+najbaro	najbar.0o	de		Nachbar
+najli	najl.0i	fr		clouer
+najli	najl.0i	en		to nail
+najli	najl.0i	de		nageln
+najlo	najl.0o	fr		clou
+najlo	najl.0o	en		nail
+najlo	najl.0o	de		Nagel
+alnajli	najl.al0i	fr	clouer (fig.)	clouer
+alnajli	najl.al0i	en		to pin
+alnajli	najl.al0i	de		annageln
+alnajli	najl.al0i.alfiksi	fr	clouer (fig.)	clouer
+alnajli	najl.al0i.alfiksi	en		to pin
+alnajli	najl.al0i.alfiksi	de		annageln
+lignonajlo	najl.ligno0o	fr		cheville
+lignonajlo	najl.ligno0o	en		trenail
+lignonajlo	najl.ligno0o	en		dowel
+lignonajlo	najl.ligno0o	en		pin
+lignonajlo	najl.ligno0o	en		peg
+lignonajlo	najl.ligno0o	de		Holzstift
+Najrobo	najrobi.0o	en		Nairobi
+Najrobio	najrobi.0o	en		Nairobi
+Najrobo	najrobi.0o	de		Nairobi
+Najrobio	najrobi.0o	de		Nairobi
+Najrobo	najrobi.0o	fr		Nairobi
+Najrobio	najrobi.0o	fr		Nairobi
+najtingalo	najtin.0o	fr		rossignol
+najtingalo	najtin.0o	en		nightingale
+najtingalo	najtin.0o	de		Nachtigall
+Namibio	namibi.N0o	fr		République de Namibie
+Namibio	namibi.N0o	fr		Namibie
+Namibio	namibi.N0o	en		Namibia
+Namibio	namibi.N0o	de		Namibia
+Namibio	namibi.N0o.GEOG	fr		République de Namibie
+Namibio	namibi.N0o.GEOG	fr		Namibie
+Namibio	namibi.N0o.GEOG	en		Namibia
+Namibio	namibi.N0o.GEOG	de		Namibia
+Namuro	namur.N0o	de		Namur
+Namuro	namur.N0o	fr		Namur
+Namuro	namur.N0o.prov	de		Namur
+Namuro	namur.N0o.prov	fr		Namur
+Namuro	namur.N0o.urb	de		Namur
+Namuro	namur.N0o.urb	fr		Namur
+nana	nan.0a	fr	nain (adj.)	nain
+nana	nan.0a.MED	fr	nain (adj.)	nain
+nano	nan.0o	fr	nain (subst.)	nain
+nano	nan.0o	en		little person
+nano	nan.0o	en		midget
+nano	nan.0o	en		dwarf
+nano	nan.0o	de		Zwerg
+nano	nan.0o.MED	en		little person
+nano	nan.0o.MED	en		midget
+nano	nan.0o.MED	fr	nain (subst.)	nain
+nano	nan.0o.MED	en		dwarf
+nano	nan.0o.MED	de		Zwerg
+nandino	nandin.0o	fr	nandina (bot.)	nandina
+nandino	nandin.0o	de		Nandine
+nandino	nandin.0o	de		Himmelsbambus
+nandino	nandin.0o.BOT	fr	nandina (bot.)	nandina
+nandino	nandin.0o.BOT	de		Nandine
+nandino	nandin.0o.BOT	de		Himmelsbambus
+nankeno	nanken.0o	fr		nankin
+nankeno	nanken.0o	en		nankeen
+nankeno	nanken.0o	de		Nanking
+Nankino	nankin.0o	NULL	NULL	NULL
+nano-	nano.0	fr		nano-
+nano-	nano.0	en		nano-
+nano-	nano.0	de		Nano-
+nano-	nano.0.MEZ	fr		nano-
+nano-	nano.0.MEZ	en		nano-
+nano-	nano.0.MEZ	de		Nano-
+nano-	nano.0.TEK	fr		nano-
+nano-	nano.0.TEK	en		nano-
+nano-	nano.0.TEK	de		Nano-
+Nanto	nant.0o	fr		Nantes
+Nanto	nant.0o	en		Nantes
+Nanto	nant.0o	de		Nantes
+napo	nap.0o	fr		navet
+napo	nap.0o	en		canola
+napo	nap.0o	en		rapeseed
+napo	nap.0o	en		rape
+napo	nap.0o	de		Kohlrübe
+napo	nap.0o	de		Steckrübe
+napokapa	nap.0okapa	en		dumb
+napokapa	nap.0okapa	de		bekloppt
+napokapa	nap.0okapa	de		bescheuert
+napokapa	nap.0okapa	de	beschränkt (doof)	beschränkt
+napokapa	nap.0okapa	de		engstirnig
+napalmo	napalm.0o	fr		napalm
+napalmo	napalm.0o	en		napalm
+napalmo	napalm.0o	de		Napalm
+napalmo	napalm.0o.KEM	fr		napalm
+napalmo	napalm.0o.KEM	en		napalm
+napalmo	napalm.0o.KEM	de		Napalm
+Napolo	napol.0o	de		Neapel
+Napoleono	napoleon.0o	fr		Napoléon
+Napoleono	napoleon.0o	en		Napoleon
+Napoleono	napoleon.0o	de		Napoleon
+narciso	narcis.0o	fr		narcisse
+narciso	narcis.0o	en		daffodil
+narciso	narcis.0o	en		narcissus
+narciso	narcis.0o	de		Narzisse
+narciso	narcis.0o.BOT	fr		narcisse
+narciso	narcis.0o.BOT	en		daffodil
+narciso	narcis.0o.BOT	en		narcissus
+narciso	narcis.0o.BOT	de		Narzisse
+narcisismo	narcis1.0ismo	fr		narcissisme
+narcisismo	narcis1.0ismo	en		narcissism
+narcisismo	narcis1.0ismo.PSI	fr		narcissisme
+narcisismo	narcis1.0ismo.PSI	en		narcissism
+Narciso	narcis1.0o	fr	Narcisse (nom)	Narcisse
+Narciso	narcis1.0o	en		Narcissus
+Narciso	narcis1.0o.MIT	fr	Narcisse (nom)	Narcisse
+Narciso	narcis1.0o.MIT	en		Narcissus
+Narciso	narcis1.0o.NOM	fr	Narcisse (nom)	Narcisse
+Narciso	narcis1.0o.NOM	en		Narcissus
+nardo	nard.0o	fr		Nardus
+nardo	nard.0o	de		Borstgras
+nargileo	nargile.0o	fr		narguilé
+nargileo	nargile.0o	en		narghile
+nargileo	nargile.0o	en		hookah
+nargileo	nargile.0o	en		hooka
+nargileo	nargile.0o	en		water pipe
+nargileo	nargile.0o	de		Shisha
+nargileo	nargile.0o	de		Wasserpfeife
+nargileo	nargile.0o.FUM	en		narghile
+nargileo	nargile.0o.FUM	en		hookah
+nargileo	nargile.0o.FUM	en		hooka
+nargileo	nargile.0o.FUM	en		water pipe
+nargileo	nargile.0o.FUM	de		Shisha
+nargileo	nargile.0o.FUM	de		Wasserpfeife
+nargileo	nargile.0o.FUM	fr		narguilé
+narkotilo	narkot.0ajxo	fr	narcotique (subst.)	narcotique
+narkotaĵo	narkot.0ajxo	fr	narcotique (subst.)	narcotique
+narkotilo	narkot.0ajxo	fr	drogue (narcotique)	drogue
+narkotaĵo	narkot.0ajxo	fr	drogue (narcotique)	drogue
+narkotilo	narkot.0ajxo	en		narcotic
+narkotaĵo	narkot.0ajxo	en		narcotic
+narkotilo	narkot.0ajxo	de		Schlafmittel
+narkotaĵo	narkot.0ajxo	de		Schlafmittel
+narkotilo	narkot.0ajxo	de		Betäubungsmittel
+narkotaĵo	narkot.0ajxo	de		Betäubungsmittel
+narkotilo	narkot.0ajxo	de		Narkotikum
+narkotaĵo	narkot.0ajxo	de		Narkotikum
+narkoti	narkot.0i	de		betäuben
+narkoti	narkot.0i	de		narkotisieren
+narkoti	narkot.0i	fr	endormir (par narcotique)	endormir
+narkoti	narkot.0i	en		narcotize
+narkoti	narkot.0i	de		narkotisieren
+narkotaĵemulo	narkot.0ulo	fr		toxicomane
+narkotulo	narkot.0ulo	fr		toxicomane
+narkotaĵemulo	narkot.0ulo	fr	drogué (subst.)	drogué
+narkotulo	narkot.0ulo	fr	drogué (subst.)	drogué
+narkotaĵemulo	narkot.0ulo	en		drug addict
+narkotulo	narkot.0ulo	en		drug addict
+narkotaĵemulo	narkot.0ulo	de		Rauschgiftsüchtiger
+narkotulo	narkot.0ulo	de		Rauschgiftsüchtiger
+narkotaĵemulo	narkot.0ulo	de		Drogensüchtiger
+narkotulo	narkot.0ulo	de		Drogensüchtiger
+narkotiko	narkot1.0o	de		Betäubungsmittel
+narkotiko	narkot1.0o	de		Narkotikum
+narkotiko	narkot1.0o	fr	narcotique (subst.)	narcotique
+narkotiko	narkot1.0o	en		narcotic
+narkotiko	narkot1.0o	de		Schlafmittel
+narkotiko	narkot1.0o.MED	de		Betäubungsmittel
+narkotiko	narkot1.0o.MED	de		Narkotikum
+narkotiko	narkot1.0o.MED	fr	narcotique (subst.)	narcotique
+narkotiko	narkot1.0o.MED	en		narcotic
+narkotiko	narkot1.0o.MED	de		Schlafmittel
+narvalo	narval.0o	fr		narval
+narvalo	narval.0o	en		narwhale
+narvalo	narval.0o	en		narwhal
+narvalo	narval.0o	de		Narwal
+naso	nas.0o	fr		nasse
+naso	nas.0o	en		hoop net
+naso	nas.0o	en		crayfish net
+naso	nas.0o	en		eel pot
+naso	nas.0o	en		eel buck
+naso	nas.0o	en		fishing basket
+naso	nas.0o	en		eel trap
+naso	nas.0o	en		lobster trap
+naso	nas.0o	de		Fischreuse
+naso	nas.0o	en		fish trap
+naso	nas.0o	de		Reuse
+naso	nas.0o.CXAS	fr		nasse
+naso	nas.0o.CXAS	en		hoop net
+naso	nas.0o.CXAS	en		crayfish net
+naso	nas.0o.CXAS	en		eel pot
+naso	nas.0o.CXAS	en		eel buck
+naso	nas.0o.CXAS	en		fishing basket
+naso	nas.0o.CXAS	en		eel trap
+naso	nas.0o.CXAS	en		lobster trap
+naso	nas.0o.CXAS	de		Fischreuse
+naso	nas.0o.CXAS	en		fish trap
+naso	nas.0o.CXAS	de		Reuse
+Nasaŭo	nasaux.0o	de		Nassau
+naskantino	nask.0antino	fr		parturiente
+naskantino	nask.0antino	de		Kreißende
+naskantino	nask.0antino	de		Gebärende
+naskanto	nask.0anto	NULL	NULL	NULL
+naskanto	nask.0anto.KOMUNE	NULL	NULL	NULL
+naskanto	nask.0anto.MAT	NULL	NULL	NULL
+naskema	nask.0ema	fr		prolifique
+naskema	nask.0ema	de		fruchtbar
+naskema	nask.0ema	fr	très fécond	fécond
+naskema	nask.0ema	de		gebärfreudig
+naskema	nask.0ema.multe	fr		prolifique
+naskema	nask.0ema.multe	de		fruchtbar
+naskema	nask.0ema.multe	fr	très fécond	fécond
+naskema	nask.0ema.multe	de		gebärfreudig
+naski	nask.0i	fr	mettre au monde	monde
+naski	nask.0i	fr		susciter
+naski	nask.0i	fr		enfanter
+naski	nask.0i	fr	engendrer (enfanter)	engendrer
+naski	nask.0i	en	to give birth	birth
+naski	nask.0i	en	to bear	bear
+naski	nask.0i.BIO	de		gebären
+naski	nask.0i.BIO	fr	mettre au monde	monde
+naski	nask.0i.BIO	fr		susciter
+naski	nask.0i.BIO	fr		enfanter
+naski	nask.0i.BIO	fr	engendrer (enfanter)	engendrer
+naski	nask.0i.BIO	en	to give birth	birth
+naski	nask.0i.BIO	en	to bear	bear
+naski	nask.0i.MAT	de		bestimmen
+naski	nask.0i.MAT	de		erzeugen
+naski	nask.0i.MAT	fr	mettre au monde	monde
+naski	nask.0i.MAT	fr		susciter
+naski	nask.0i.MAT	fr		enfanter
+naski	nask.0i.MAT	fr	engendrer (enfanter)	engendrer
+naski	nask.0i.MAT	en	to give birth	birth
+naski	nask.0i.MAT	en	to bear	bear
+naski	nask.0i.MAT	fr		sous-tendre
+naski	nask.0i.MAT	fr		générer
+naski	nask.0i.MAT	fr	engendrer (math.)	engendrer
+naski	nask.0i.MAT	en		span
+naski	nask.0i.MAT	en		generate
+naski	nask.0i.MAT	de		aufspannen
+naski	nask.0i.estigi	fr	mettre au monde	monde
+naski	nask.0i.estigi	de		hervorbringen
+naski	nask.0i.estigi	fr		susciter
+naski	nask.0i.estigi	fr		enfanter
+naski	nask.0i.estigi	fr	engendrer (enfanter)	engendrer
+naski	nask.0i.estigi	en	to give birth	birth
+naski	nask.0i.estigi	en	to bear	bear
+naskigi	nask.0igi	fr	engendrer (en p. d'un mâle)	engendrer
+naskigi	nask.0igi	fr		procréer
+naskigi	nask.0igi	en		beget
+naskigi	nask.0igi	de		erzeugen
+naskigi	nask.0igi	de		zeugen
+naskigi	nask.0igi.BIO	fr	engendrer (en p. d'un mâle)	engendrer
+naskigi	nask.0igi.BIO	fr		procréer
+naskigi	nask.0igi.BIO	en		beget
+naskigi	nask.0igi.BIO	de		erzeugen
+naskigi	nask.0igi.BIO	de		zeugen
+naskigi	nask.0igi.estigi	fr	engendrer (en p. d'un mâle)	engendrer
+naskigi	nask.0igi.estigi	fr		procréer
+naskigi	nask.0igi.estigi	en		beget
+naskigi	nask.0igi.estigi	de		erzeugen
+naskigi	nask.0igi.estigi	de		zeugen
+naskiĝi	nask.0igxi	fr		naitre
+naskiĝi	nask.0igxi	en		be born
+naskiĝi	nask.0igxi	de	geboren werden	geboren
+naskiĝi	nask.0igxi.FIG	fr		naitre
+naskiĝi	nask.0igxi.FIG	en		be born
+naskiĝi	nask.0igxi.FIG	de	geboren werden	geboren
+naskiĝi	nask.0igxi.eligxi	fr		naitre
+naskiĝi	nask.0igxi.eligxi	en		be born
+naskiĝi	nask.0igxi.eligxi	de	geboren werden	geboren
+naskiĝi	nask.0igxi.eligxi	de		geboren werden
+naskitaro	nask.0itaro	fr		descendance
+naskitaro	nask.0itaro	fr		progéniture
+naskitaro	nask.0itaro.GEN	fr		descendance
+naskitaro	nask.0itaro.GEN	fr		progéniture
+naskitaro	nask.0itaro.GEN	de		Kinder
+naskitaro	nask.0itaro.GEN	de		Nachkommen
+naskito	nask.0ito	de		Nachkomme
+naskito	nask.0ito	de		Kind
+naskito	nask.0ito.ido	de		Nachkomme
+naskito	nask.0ito.ido	de		Kind
+nasko	nask.0o	fr		naissance
+nasko	nask.0o.KOMUNE	de		Geburt
+nasko	nask.0o.KOMUNE	fr		naissance
+kunnaskita	nask.de0akun0ita	fr		inné
+denaska	nask.de0akun0ita	fr		inné
+kunnaskita	nask.de0akun0ita	de		angeboren
+denaska	nask.de0akun0ita	de		angeboren
+kunnaskita	nask.de0akun0ita.asimilita	fr		inné
+denaska	nask.de0akun0ita.asimilita	fr		inné
+kunnaskita	nask.de0akun0ita.asimilita	de		angeboren
+denaska	nask.de0akun0ita.asimilita	de		angeboren
+kunnaskita	nask.de0akun0ita.ekzistanta	fr		inné
+denaska	nask.de0akun0ita.ekzistanta	fr		inné
+kunnaskita	nask.de0akun0ita.ekzistanta	de		angeboren
+denaska	nask.de0akun0ita.ekzistanta	de		angeboren
+denaskulo	nask.de0ulo	fr	natif (subst.)	natif
+denaskulo	nask.de0ulo	de		Muttersprachler
+denaskulo	nask.de0ulo.KOMUNE	fr	natif (subst.)	natif
+denaskulo	nask.de0ulo.KOMUNE	de		Muttersprachler
+dunaskito	nask.du0ito	fr		besson
+dunaskito	nask.du0ito	fr	jumeau (subst., enfant)	jumeau
+dunaskito	nask.du0ito.GEN	fr		besson
+dunaskito	nask.du0ito.GEN	fr	jumeau (subst., enfant)	jumeau
+dunaskito	nask.du0ito.GEN	de		Zwilling
+duenaskito	nask.due0ito	de		Zweitgeborene
+duanaskito	nask.due0ito	de		Zweitgeborener
+duanaskito	nask.due0ito	fr	cadet (subst., puîné)	cadet
+duenaskito	nask.due0ito	fr	cadet (subst., puîné)	cadet
+duenaskito	nask.due0ito	de		Zweitgeborener
+duanaskito	nask.due0ito	fr	puiné (subst.)	puiné
+duenaskito	nask.due0ito	fr	puiné (subst.)	puiné
+duanaskito	nask.due0ito	de		Zweitgeborene
+duanaskito	nask.due0ito.GEN	fr	cadet (subst., puîné)	cadet
+duenaskito	nask.due0ito.GEN	fr	cadet (subst., puîné)	cadet
+duanaskito	nask.due0ito.GEN	fr	puiné (subst.)	puiné
+duenaskito	nask.due0ito.GEN	fr	puiné (subst.)	puiné
+duanaskito	nask.due0ito.GEN	de		Zweitgeborene
+duenaskito	nask.due0ito.GEN	de		Zweitgeborene
+duanaskito	nask.due0ito.GEN	de		Zweitgeborener
+duenaskito	nask.due0ito.GEN	de		Zweitgeborener
+frunaskito	nask.fru0ito	fr	prématuré (subst.)	prématuré
+frunaskito	nask.fru0ito	fr		enfant prématuré
+frunaskito	nask.fru0ito	de		Frühgeborenes
+frunaskito	nask.fru0ito.MED	fr	prématuré (subst.)	prématuré
+frunaskito	nask.fru0ito.MED	fr		enfant prématuré
+frunaskito	nask.fru0ito.MED	de		Frühgeborenes
+malvive naskita	nask.malvive0ita	fr		mort-né
+malvive naskita	nask.malvive0ita	en		stillborn
+malvive naskita	nask.malvive0ita	de		tot geboren
+malvive naskita	nask.malvive0ita.FIG	fr		mort-né
+malvive naskita	nask.malvive0ita.FIG	en		stillborn
+malvive naskita	nask.malvive0ita.FIG	de		tot geboren
+malvive naskita	nask.malvive0ita.MED	fr		mort-né
+malvive naskita	nask.malvive0ita.MED	en		stillborn
+malvive naskita	nask.malvive0ita.MED	de		tot geboren
+mortnaskita	nask.morte0ita	NULL	NULL	NULL
+morte naskita	nask.morte0ita	NULL	NULL	NULL
+mortnaskita	nask.morte0ita.EVI	NULL	NULL	NULL
+morte naskita	nask.morte0ita.EVI	NULL	NULL	NULL
+novenaskito	nask.nov0ito_nove0ito	fr		nourrisson
+novnaskito	nask.nov0ito_nove0ito	fr		nourrisson
+novenaskito	nask.nov0ito_nove0ito	fr		nouveau-né
+novnaskito	nask.nov0ito_nove0ito	fr		nouveau-né
+novenaskito	nask.nov0ito_nove0ito	de		Baby
+novnaskito	nask.nov0ito_nove0ito	de		Baby
+novenaskito	nask.nov0ito_nove0ito	de		Neugeborenes
+novnaskito	nask.nov0ito_nove0ito	de		Neugeborenes
+novenaskito	nask.nov0ito_nove0ito	fr	poupon (nouveau-né)	poupon
+novnaskito	nask.nov0ito_nove0ito	fr	poupon (nouveau-né)	poupon
+novenaskito	nask.nov0ito_nove0ito.infano	fr		nourrisson
+novnaskito	nask.nov0ito_nove0ito.infano	fr		nourrisson
+novenaskito	nask.nov0ito_nove0ito.infano	fr		nouveau-né
+novnaskito	nask.nov0ito_nove0ito.infano	fr		nouveau-né
+novenaskito	nask.nov0ito_nove0ito.infano	de		Baby
+novnaskito	nask.nov0ito_nove0ito.infano	de		Baby
+novenaskito	nask.nov0ito_nove0ito.infano	de		Neugeborenes
+novnaskito	nask.nov0ito_nove0ito.infano	de		Neugeborenes
+novenaskito	nask.nov0ito_nove0ito.infano	fr	poupon (nouveau-né)	poupon
+novnaskito	nask.nov0ito_nove0ito.infano	fr	poupon (nouveau-né)	poupon
+peknaskito	nask.pek0ito	fr		enfant du péché
+peknaskito	nask.pek0ito	fr		enfant illégitime
+peknaskito	nask.pek0ito	fr	bâtard (enfant illégitime)	bâtard
+peknaskito	nask.pek0ito	de	uneheliches Kind	Kind
+peknaskito	nask.pek0ito	de	Bastard (uneheliches Kind)	Bastard
+peknaskito	nask.pek0ito.infano	fr		enfant du péché
+peknaskito	nask.pek0ito.infano	fr		enfant illégitime
+peknaskito	nask.pek0ito.infano	fr	bâtard (enfant illégitime)	bâtard
+peknaskito	nask.pek0ito.infano	de	uneheliches Kind	Kind
+peknaskito	nask.pek0ito.infano	de	Bastard (uneheliches Kind)	Bastard
+Renaskiĝo	nask.re0igxo	NULL	NULL	NULL
+Renaskiĝo	nask.re0igxo.HIS	fr		Renaissance
+Renaskiĝo	nask.re0igxo.HIS	en		renaissance
+Renaskiĝo	nask.re0igxo.HIS	de		Renaissance
+solenaskito	nask.sole0ito	fr		enfant unique
+solenaskito	nask.sole0ito	de		Einzelkind
+solenaskito	nask.sole0ito.BIB	fr		enfant unique
+solenaskito	nask.sole0ito.BIB	de		Einzelkind
+solenaskito	nask.sole0ito.BIB	de	eingeborener (Sohn Jesus)	eingeborener
+unuanaskito	nask.unue0ito	fr		premier-né
+unuenaskito	nask.unue0ito	fr		premier-né
+unuanaskito	nask.unue0ito	de		Erstgeborener
+unuenaskito	nask.unue0ito	de		Erstgeborener
+unuanaskito	nask.unue0ito	fr	ainé (subst.)	ainé
+unuenaskito	nask.unue0ito	fr	ainé (subst.)	ainé
+unuanaskito	nask.unue0ito	de		Erstgeborene
+unuenaskito	nask.unue0ito	de		Erstgeborene
+unuenaskito	nask.unue0ito.GEN	fr		premier-né
+unuanaskito	nask.unue0ito.GEN	de		Erstgeborener
+unuenaskito	nask.unue0ito.GEN	de		Erstgeborener
+unuanaskito	nask.unue0ito.GEN	fr	ainé (subst.)	ainé
+unuenaskito	nask.unue0ito.GEN	fr	ainé (subst.)	ainé
+unuanaskito	nask.unue0ito.GEN	de		Erstgeborene
+unuenaskito	nask.unue0ito.GEN	de		Erstgeborene
+unuanaskito	nask.unue0ito.GEN	fr		premier-né
+natro	natr.0o	NULL	NULL	NULL
+natro	natr.0o.alkalo	fr		soude caustique
+natro	natr.0o.alkalo	fr		hydroxyde de sodium
+natro	natr.0o.alkalo	en		lye
+natro	natr.0o.alkalo	en	caustic soda	soda
+natro	natr.0o.alkalo	de		Ätznatron
+natro	natr.0o.sodo	fr		soude
+natro	natr.0o.sodo	en		nitre
+natro	natr.0o.sodo	de		Natron
+natrio	natri.0o	fr		sodium
+natrio	natri.0o	en		sodium
+natrio	natri.0o	de		Natrium
+natura	natur.0a	fr		naturel
+natura	natur.0a	de		natürlich
+natura	natur.0a.MUZ	fr		naturel
+natura	natur.0a.MUZ	de		natürlich
+natura	natur.0a.denaska	fr		naturel
+natura	natur.0a.denaska	de		natürlich
+natura	natur.0a.mema	fr		naturel
+natura	natur.0a.mema	de		natürlich
+natura	natur.0a.monda	fr		naturel
+natura	natur.0a.monda	de		natürlich
+naturaĵo	natur.0ajxo	NULL	NULL	NULL
+naturaĵo	natur.0ajxo.mondo	fr	produit naturel	naturel
+naturaĵo	natur.0ajxo.mondo	de		Naturprodukt
+naturaĵo	natur.0ajxo.vivajxo	de		Naturerscheinung
+nature	natur.0e	fr		naturellement
+nature	natur.0e	de		natürlich
+nature	natur.0e.denaske	fr		naturellement
+nature	natur.0e.denaske	de		natürlich
+nature	natur.0e.denaske	de	von Natur aus	Natur
+nature	natur.0e.memkompreneble	fr		naturellement
+nature	natur.0e.memkompreneble	de		natürlich
+nature	natur.0e.monde	fr		naturellement
+nature	natur.0e.monde	de		natürlich
+nature	natur.0e.simple	fr		naturellement
+nature	natur.0e.simple	de		natürlich
+natureca	natur.0eca	de		naturbelassen
+natureca	natur.0eca	de		naturhaft
+natureca	natur.0eca	de		natürlich
+natureco	natur.0eco	fr		naturalité
+natureco	natur.0eco	de		Natürlichkeit
+natureco	natur.0eco.KOMUNE	fr		naturalité
+natureco	natur.0eco.KOMUNE	de		Natürlichkeit
+naturisto	natur.0isto	NULL	NULL	NULL
+naturisto	natur.0isto.KOMUNE	fr		nudiste
+naturisto	natur.0isto.KOMUNE	fr		naturiste
+naturisto	natur.0isto.KOMUNE	de		FKK-Anhänger
+naturisto	natur.0isto.KOMUNE	de		Naturist
+naturisto	natur.0isto.SCI	fr		naturaliste
+naturisto	natur.0isto.SCI	de		Naturforscher
+naturo	natur.0o	fr		nature
+naturo	natur.0o	en		nature
+naturo	natur.0o	de		Natur
+naturo	natur.0o.karaktero	fr		nature
+naturo	natur.0o.karaktero	en		nature
+naturo	natur.0o.karaktero	de		Natur
+naturo	natur.0o.karaktero	de	Veranlagung (Natur)	Veranlagung
+naturo	natur.0o.karaktero	de	Anlage (Wesen)	Anlage
+naturo	natur.0o.mondo	fr		nature
+naturo	natur.0o.mondo	en		nature
+naturo	natur.0o.mondo	de		Natur
+eksternatura	natur.kontraux0a	fr	contre nature	nature
+kontraŭnatura	natur.kontraux0a	fr	contre nature	nature
+eksternatura	natur.kontraux0a	de		widernatürlich
+kontraŭnatura	natur.kontraux0a	de		widernatürlich
+eksternatura	natur.kontraux0a.mondo	fr	contre nature	nature
+kontraŭnatura	natur.kontraux0a.mondo	fr	contre nature	nature
+eksternatura	natur.kontraux0a.mondo	de		widernatürlich
+kontraŭnatura	natur.kontraux0a.mondo	de		widernatürlich
+malnatura	natur.mal0a	de		künstlich
+malnatura	natur.mal0a	de		unnatürlich
+malnatura	natur.mal0a.karaktero	de		künstlich
+malnatura	natur.mal0a.karaktero	de		unnatürlich
+malnatura	natur.mal0a.karaktero	fr		contre-nature
+malnatura	natur.mal0a.karaktero	fr		antinaturel
+malnatura	natur.mal0a.mondo	de		künstlich
+malnatura	natur.mal0a.mondo	de		unnatürlich
+malnatura	natur.mal0a.mondo	fr		artificiel
+malnatureco	natur.mal0eco	fr		artificialité
+malnatureco	natur.mal0eco	de		Unnatürlichkeit
+malnatureco	natur.mal0eco.KOMUNE	fr		artificialité
+malnatureco	natur.mal0eco.KOMUNE	de		Unnatürlichkeit
+samnatura	natur.sam0a	de	gleich geartet	gleich
+samnatura	natur.sam0a	de		ähnlich
+samnatura	natur.sam0a	de	von gleicher Herkunft	Herkunft
+samnatura	natur.sam0a	de	von gleicher Art	Art
+supernatura	natur.super0a	fr		surnaturel
+supernatura	natur.super0a	de		übernatürlich
+supernatura	natur.super0a.mondo	fr		surnaturel
+supernatura	natur.super0a.mondo	de		übernatürlich
+naturalismo	natura.0o	de		Naturalismus
+naturalismo	natura.0o	fr		naturalisme
+naturalismo	natura.0o	en		naturalism
+naturalismo	natura.0o.BELE	de		Naturalismus
+naturalismo	natura.0o.BELE	fr		naturalisme
+naturalismo	natura.0o.BELE	en		naturalism
+naturalismo	natura.0o.ESP	de		Naturalismus
+naturalismo	natura.0o.ESP	fr		naturalisme
+naturalismo	natura.0o.ESP	en		naturalism
+naturalismo	natura.0o.FIL	fr		naturalisme
+naturalismo	natura.0o.FIL	en		naturalism
+naturalismo	natura.0o.FIL	de		Naturalismus
+Nauro	naur.0o	NULL	NULL	NULL
+Nauro	naur.0o.GEOG	fr		Nauru
+Nauro	naur.0o.GEOG	en	Republic of Nauru	Nauru
+Nauro	naur.0o.GEOG	en		Nauru
+Nauro	naur.0o.GEOG	de		Nauru
+naŭe	naux.0e	fr		neuvièmement
+naŭe	naux.0e	de		neuntens
+naŭno	nauxn.0o	fr	neuvième (intervalle musical)	neuvième
+naŭno	nauxn.0o	en		ninth
+naŭno	nauxn.0o	de		None
+naŭto	nauxt.0o	fr	neuvième (intervalle musical)	neuvième
+naŭto	nauxt.0o	en		ninth
+naŭto	nauxt.0o	de		None
+naŭto	nauxt.0o.de_toniko	fr	neuvième (intervalle musical)	neuvième
+naŭto	nauxt.0o.de_toniko	en		ninth
+naŭto	nauxt.0o.de_toniko	de		None
+naŭto	nauxt.0o.intervalo	fr	neuvième (intervalle musical)	neuvième
+naŭto	nauxt.0o.intervalo	en		ninth
+naŭto	nauxt.0o.intervalo	de		None
+naŭtilo	nauxti.0o	fr		nautile
+naŭtilo	nauxti.0o	en		nautilus
+naŭtilo	nauxti.0o	de		Nautilus
+naŭtilo	nauxti.0o	de		Schiffsboot
+naŭtilo	nauxti.0o	de		Perlboot
+naŭza	nauxz.0a	fr		nauséabond
+naŭza	nauxz.0a	fr		écoeurant
+naŭza	nauxz.0a	fr		dégoutant
+naŭza	nauxz.0a	de		übel
+naŭza	nauxz.0a	de		eklig
+naŭza	nauxz.0a	de		widerlich
+naŭza	nauxz.0a.KOMUNE	fr		nauséabond
+naŭza	nauxz.0a.KOMUNE	fr		écoeurant
+naŭza	nauxz.0a.KOMUNE	fr		dégoutant
+naŭza	nauxz.0a.KOMUNE	de		übel
+naŭza	nauxz.0a.KOMUNE	de		eklig
+naŭza	nauxz.0a.KOMUNE	de		widerlich
+naŭzi	nauxz.0i	de		anekeln
+naŭzi	nauxz.0i	de		ekeln
+naŭzi	nauxz.0i	fr	donner la nausée	nausée
+naŭzi	nauxz.0i	fr		écœurer
+naŭzi	nauxz.0i	fr		dégouter
+naŭzi	nauxz.0i	en		nauseate
+naŭzi	nauxz.0i	de		anwidern
+naŭzi	nauxz.0i.FIG	de		anekeln
+naŭzi	nauxz.0i.FIG	de		ekeln
+naŭzi	nauxz.0i.FIG	fr	donner la nausée	nausée
+naŭzi	nauxz.0i.FIG	fr		écœurer
+naŭzi	nauxz.0i.FIG	fr		dégouter
+naŭzi	nauxz.0i.FIG	en		nauseate
+naŭzi	nauxz.0i.FIG	de		anwidern
+naŭzi	nauxz.0i.FIZL	de		ekeln
+naŭzi	nauxz.0i.FIZL	fr	donner la nausée	nausée
+naŭzi	nauxz.0i.FIZL	fr		écœurer
+naŭzi	nauxz.0i.FIZL	fr		dégouter
+naŭzi	nauxz.0i.FIZL	en		nauseate
+naŭzi	nauxz.0i.FIZL	de		anwidern
+naŭzi	nauxz.0i.FIZL	de		anekeln
+naŭzo	nauxz.0o	de		Übelkeit
+naŭzo	nauxz.0o	de		Ekel
+naŭzo	nauxz.0o	fr		nausée
+naŭzo	nauxz.0o	fr		écœurement
+naŭzo	nauxz.0o	en		nausea
+naŭzo	nauxz.0o.KOMUNE	de		Übelkeit
+naŭzo	nauxz.0o.KOMUNE	de		Ekel
+naŭzo	nauxz.0o.KOMUNE	fr		nausée
+naŭzo	nauxz.0o.KOMUNE	fr		écœurement
+naŭzo	nauxz.0o.KOMUNE	en		nausea
+navo	nav.0o	fr		nef
+navo	nav.0o	en		nave
+navo	nav.0o	de		Kirchenschiff
+navo	nav.0o	de		Schiff
+navaĥa	navahx.0a	fr	navajo (adj.)	navajo
+navaĥa	navahx.0a	fr	navaho (adj.)	navaho
+navaĥa	navahx.0a.ETN	fr	navaho (adj.)	navaho
+navaĥa	navahx.0a.ETN	fr	navajo (adj.)	navajo
+navajo	navahx.0o	fr	Navajo (subst.)	Navajo
+navaho	navahx.0o	fr	Navajo (subst.)	Navajo
+navaĥo	navahx.0o	fr	Navajo (subst.)	Navajo
+navajo	navahx.0o	fr	Navaho (subst.)	Navaho
+navaho	navahx.0o	fr	Navaho (subst.)	Navaho
+navaĥo	navahx.0o	fr	Navaho (subst.)	Navaho
+navajo	navahx.0o	en		navajo
+navaho	navahx.0o	en		navajo
+navaho	navahx.0o	de		Navajo
+navaĥo	navahx.0o	en		navajo
+navaĥo	navahx.0o	de		Navajo
+navajo	navahx.0o	de		Navajo
+navajo	navahx.0o.ETN	fr	Navajo (subst.)	Navajo
+navaho	navahx.0o.ETN	fr	Navajo (subst.)	Navajo
+navaĥo	navahx.0o.ETN	fr	Navajo (subst.)	Navajo
+navajo	navahx.0o.ETN	fr	Navaho (subst.)	Navaho
+navaho	navahx.0o.ETN	fr	Navaho (subst.)	Navaho
+navaĥo	navahx.0o.ETN	fr	Navaho (subst.)	Navaho
+navajo	navahx.0o.ETN	en		navajo
+navaho	navahx.0o.ETN	en		navajo
+navaĥo	navahx.0o.ETN	en		navajo
+navajo	navahx.0o.ETN	de		Navajo
+navaho	navahx.0o.ETN	de		Navajo
+navaĥo	navahx.0o.ETN	de		Navajo
+naveti	naved.0i	fr	faire la navette	navette
+navedi	naved.0i	fr	faire la navette	navette
+naveti	naved.0i.FIG	fr	faire la navette	navette
+navedi	naved.0i.FIG	fr	faire la navette	navette
+naveti	naved.0i.FIG	de		pendeln
+navedi	naved.0i.FIG	de		pendeln
+naveto	naved.0o	fr	navette (tissage)	navette
+navedo	naved.0o	fr	navette (tissage)	navette
+naveto	naved.0o	en		shuttle
+navedo	naved.0o	en		shuttle
+naveto	naved.0o	de		Schiffchen
+navedo	naved.0o	de		Schiffchen
+naveto	naved.0o.teksilo	fr	navette (tissage)	navette
+navedo	naved.0o.teksilo	fr	navette (tissage)	navette
+naveto	naved.0o.teksilo	en		shuttle
+navedo	naved.0o.teksilo	en		shuttle
+naveto	naved.0o.teksilo	de		Schiffchen
+navedo	naved.0o.teksilo	de		Schiffchen
+navigebla	navig.0ebla	fr		navigable
+navigebla	navig.0ebla	en		navigable
+navigebla	navig.0ebla	de		schiffbar
+navigebla	navig.0ebla	de		befahrbar
+navigebla	navig.0ebla.MAR	fr		navigable
+navigebla	navig.0ebla.MAR	en		navigable
+navigebla	navig.0ebla.MAR	de		schiffbar
+navigebla	navig.0ebla.MAR	de		befahrbar
+navigi	navig.0i	de		Meere befahren
+navigi	navig.0i	de		Seen befahren
+navigi	navig.0i	de		Flüsse befahren
+navigi	navig.0i	de		zur See fahren
+navigi	navig.0i	fr		naviguer
+navigi	navig.0i	fr		voguer
+navigi	navig.0i	en		navigate
+navigi	navig.0i.retumi	de		Meere befahren
+navigi	navig.0i.retumi	de		Seen befahren
+navigi	navig.0i.retumi	de		Flüsse befahren
+navigi	navig.0i.retumi	de		zur See fahren
+navigi	navig.0i.retumi	de	surfen (Web)	surfen
+navigi	navig.0i.retumi	fr		naviguer
+navigi	navig.0i.retumi	fr		voguer
+navigi	navig.0i.retumi	en		navigate
+navigi	navig.0i.veturi	de		Meere befahren
+navigi	navig.0i.veturi	de		Seen befahren
+navigi	navig.0i.veturi	de		Flüsse befahren
+navigi	navig.0i.veturi	de		zur See fahren
+navigi	navig.0i.veturi	fr		naviguer
+navigi	navig.0i.veturi	fr		voguer
+navigi	navig.0i.veturi	en		navigate
+navigilo	navig.0ilo	en		navigator
+navigilo	navig.0ilo.RET	en		navigator
+navigilo	navig.0ilo.RET	de		Browser
+navigilo	navig.0ilo.bira	en		navigator
+navigilo	navig.0ilo.bira	de		Navi
+navigilo	navig.0ilo.bira	de		Navigationsgerät
+navigisto	navig.0isto	fr		navigateur
+navigisto	navig.0isto	en		navigator
+navigisto	navig.0isto	de		Navigator
+navigisto	navig.0isto.MAR	fr		navigateur
+navigisto	navig.0isto.MAR	en		navigator
+navigisto	navig.0isto.MAR	de		Navigator
+navigado	navig.0o	NULL	NULL	NULL
+navigo	navig.0o	NULL	NULL	NULL
+navigado	navig.0o.veturado	fr		navigation
+navigo	navig.0o.veturado	fr		navigation
+navigado	navig.0o.veturado	en		navigation
+navigo	navig.0o.veturado	en		navigation
+navigado	navig.0o.veturado	de		Navigation
+navigo	navig.0o.veturado	de		Navigation
+navigado	navig.0o.veturado	de		Fahrt
+navigo	navig.0o.veturado	de		Fahrt
+navigacia	naviga.0a	en		navigation(al)
+navigacia	naviga.0a.bira	en		navigation(al)
+navigaciejo	naviga.0ejo	fr		abri de navigation
+navigaciejo	naviga.0ejo	en		chart house
+navigaciejo	naviga.0ejo	de	Brücke (Schiff)	Brücke
+navigaciejo	naviga.0ejo	de		Kommandobrücke
+navigacii	naviga.0i	NULL	NULL	NULL
+navigacii	naviga.0i.biri	en		lay a course
+navigacii	naviga.0i.veturi	fr		voguer
+navigacii	naviga.0i.veturi	fr		naviguer
+navigacii	naviga.0i.veturi	en		voyage
+navigacii	naviga.0i.veturi	en		sail
+navigacii	naviga.0i.veturi	en		cruise
+navigacii	naviga.0i.veturi	en		navigate
+navigacii	naviga.0i.veturi	de		navigieren
+navigaciilo	naviga.0ilo	NULL	NULL	NULL
+navigaciilo	naviga.0ilo.birilo	de		Navi
+navigaciilo	naviga.0ilo.birilo	de		Navigationsgerät
+navigaciisto	naviga.0isto	NULL	NULL	NULL
+navigaciisto	naviga.0isto.oficiro	de		Navigationsoffizier
+navigacio	naviga.0o	NULL	NULL	NULL
+navigacio	naviga.0o.biro	en		navigation
+navigacio	naviga.0o.biro	de		Navigation
+navigacio	naviga.0o.veturado	fr		navigation
+navigacio	naviga.0o.veturado	fr		croisière
+navigacio	naviga.0o.veturado	en		navigation
+navigacio	naviga.0o.veturado	de		Schiffahrt
+naza	naz.0a	en		nasal
+naza	naz.0a.FON	en		nasal
+naza	naz.0a.gxenerale	en		nasal
+naza konsonanto	naz.0akonsonanto	fr		consonne nasale
+naza konsonanto	naz.0akonsonanto	en		nasal consonant
+naza konsonanto	naz.0akonsonanto.FON	fr		consonne nasale
+naza konsonanto	naz.0akonsonanto.FON	en		nasal consonant
+naza vokalo	naz.0avokalo	fr		voyelle nasale
+naza vokalo	naz.0avokalo	en		nasal vowel
+naza vokalo	naz.0avokalo	de		Nasalvokal
+naza vokalo	naz.0avokalo.FON	fr		voyelle nasale
+naza vokalo	naz.0avokalo.FON	en		nasal vowel
+naza vokalo	naz.0avokalo.FON	de		Nasalvokal
+nazego	naz.0ego	fr		groin
+nazego	naz.0ego	fr		museau
+nazego	naz.0ego	en		muzzle
+nazego	naz.0ego	fr		mufle
+nazego	naz.0ego	en		snout
+nazego	naz.0ego.ZOO	fr		groin
+nazego	naz.0ego.ZOO	fr		museau
+nazego	naz.0ego.ZOO	en		muzzle
+nazego	naz.0ego.ZOO	fr		mufle
+nazego	naz.0ego.ZOO	en		snout
+nazsono	naz.0sono	en		nasal
+nazsono	naz.0sono	de		Nasal
+nazsono	naz.0sono	de		Nasenlaut
+nazsono	naz.0sono	fr	nasale (subst., consonne ou voyelle)	nasale
+nazsono	naz.0sono.FON	de		Nasal
+nazsono	naz.0sono.FON	de		Nasenlaut
+nazsono	naz.0sono.FON	fr	nasale (subst., consonne ou voyelle)	nasale
+nazsono	naz.0sono.FON	en		nasal
+nazumo	naz.0umo	de		Kneifer
+nazumo	naz.0umo	fr		pince-nez
+nazumo	naz.0umo	en		pince-nez
+nazumo	naz.0umo	de		Zwickel
+nazumo	naz.0umo	de		Nasenklemmer
+nazumo	naz.0umo	de		Klemmer
+nazumo	naz.0umo	de		Zwicker
+nazumo	naz.0umo.FOT	fr		pince-nez
+nazumo	naz.0umo.FOT	en		pince-nez
+nazumo	naz.0umo.FOT	de		Zwickel
+nazumo	naz.0umo.FOT	de		Nasenklemmer
+nazumo	naz.0umo.FOT	de		Klemmer
+nazumo	naz.0umo.FOT	de		Zwicker
+nazumo	naz.0umo.FOT	de		Kneifer
+altnaza	naz.alt0a	fr		prétentiard
+altnaza	naz.alt0a	en		nose-in-the-air
+altnaza	naz.alt0a.FIG	fr		prétentiard
+altnaza	naz.alt0a.FIG	en		nose-in-the-air
+kuspnaza	naz.kusp0a	fr	au nez en trompette	nez en trompette
+kuspnaza	naz.kusp0a	en		snub-nosed
+kuspnaza	naz.kusp0a.ANA	fr	au nez en trompette	nez en trompette
+kuspnaza	naz.kusp0a.ANA	en		snub-nosed
+mannazumo	naz.man0umo	fr		lorgnette
+mannazumo	naz.man0umo	fr		face à main
+mannazumo	naz.man0umo	en		lorgnette
+mannazumo	naz.man0umo.FOT	fr		lorgnette
+mannazumo	naz.man0umo.FOT	fr		face à main
+mannazumo	naz.man0umo.FOT	en		lorgnette
+stumpnaza	naz.stump0a	NULL	NULL	NULL
+stumpnaza	naz.stump0a.kuspa	NULL	NULL	NULL
+nazalo	nazal.0o	de		Nasal
+nazalo	nazal.0o.FON	de		Nasal
+nazalo	nazal.0o.FON	en		nasal consonant
+nazalo	nazal.0o.sono	de		Nasal
+nazalo	nazal.0o.sono	fr	nasale (consonne ou voyelle)	nasale
+Nazareto	nazaret.0o	fr		Nazareth
+Nazareto	nazaret.0o	en		Nazareth
+Nazareto	nazaret.0o	de		Nazareth
+Nazareto	nazaret.0o.urbo	fr		Nazareth
+Nazareto	nazaret.0o.urbo	en		Nazareth
+Nazareto	nazaret.0o.urbo	de		Nazareth
+nazia	nazi.0a	fr	nazi (adj.)	nazi
+nazia	nazi.0a	en		Nazi
+nazia	nazi.0a	de		nationalsozialistisch
+nazia	nazi.0a.POL	fr	nazi (adj.)	nazi
+nazia	nazi.0a.POL	en		Nazi
+nazia	nazi.0a.POL	de		nationalsozialistisch
+naziismo	nazi.0ismo	de		Nationalsozialismus
+naziismo	nazi.0ismo	fr		nazisme
+naziismo	nazi.0ismo	en		Nazism
+naziismo	nazi.0ismo.POL	fr		nazisme
+naziismo	nazi.0ismo.POL	en		Nazism
+naziismo	nazi.0ismo.POL	de		Nationalsozialismus
+nazio	nazi.0o	de		Nazi
+nazio	nazi.0o	fr	nazi (subst.)	nazi
+nazio	nazi.0o	en		Nazi
+nazio	nazi.0o.POL	de		Nazi
+nazio	nazi.0o.POL	fr	nazi (subst.)	nazi
+nazio	nazi.0o.POL	en		Nazi
+nea	ne.0a	fr	négatif (esprimant „non“)	négatif
+nea	ne.0a	en		negative
+nea	ne.0a	de		verneinend
+nea	ne.0a.GRA	fr	négatif (esprimant „non“)	négatif
+nea	ne.0a.GRA	en		negative
+nea	ne.0a.GRA	de		verneinend
+nea	ne.0a.respondo	fr	négatif (esprimant „non“)	négatif
+nea	ne.0a.respondo	en		negative
+nea	ne.0a.respondo	de		verneinend
+nei	ne.0i	NULL	NULL	NULL
+nei	ne.0i.diri	fr	répondre par non	non
+nei	ne.0i.diri	fr	dire non	non
+nei	ne.0i.diri	en		say no
+nei	ne.0i.diri	de		verneinen
+nei	ne.0i.negi	fr	dénier (nier)	dénier
+nei	ne.0i.negi	fr		nier
+nei	ne.0i.negi	en		negate
+nei	ne.0i.negi	de		verleugnen
+nei	ne.0i.negi	de		abstreiten
+neigi	ne.0igi	en		negate
+neigi	ne.0igi	fr	dénier (nier)	dénier
+neigi	ne.0igi	fr		nier
+neigi	ne.0igi.KOMUNE	de		abstreiten
+neigi	ne.0igi.KOMUNE	fr	dénier (nier)	dénier
+neigi	ne.0igi.KOMUNE	fr		nier
+neigi	ne.0igi.KOMUNE	en		negate
+neo	ne.0o	fr	négation (fait de dire non)	négation
+neo	ne.0o	fr		réponse négative
+neo	ne.0o	fr	non (subst.)	non
+neo	ne.0o.KOMUNE	fr	négation (fait de dire non)	négation
+neo	ne.0o.KOMUNE	fr		réponse négative
+neo	ne.0o.KOMUNE	fr	non (subst.)	non
+neo	ne.0o.KOMUNE	de		Nein
+neulo	ne.0ulo	NULL	NULL	NULL
+neulo	ne.0ulo.KOMUNE	de		Neinsager
+fornei	ne.for0i	fr		renier
+fornei	ne.for0i.KOMUNE	fr		renier
+fornei	ne.for0i.KOMUNE	de		verleugnen
+kapnei	ne.kap0i	fr	répondre par non (d'un signe de tête)	non
+kapnei	ne.kap0i	fr	dire non (d'un signe de tête)	non
+kapnei	ne.kap0i	de		kopfschütteln
+kapnei	ne.kap0i.MIEN	fr	répondre par non (d'un signe de tête)	non
+kapnei	ne.kap0i.MIEN	fr	dire non (d'un signe de tête)	non
+kapnei	ne.kap0i.MIEN	de		kopfschütteln
+neandertala	neandertal.0a	fr	néandertalien (adj.)	néandertalien
+neandertala	neandertal.0a.PRA	fr	néandertalien (adj.)	néandertalien
+neandertala homo	neandertal.0ulo	fr	homme de néandertal	néandertal
+neandertalulo	neandertal.0ulo	fr	homme de néandertal	néandertal
+neandertala homo	neandertal.0ulo	de		Neandertaler
+neandertalulo	neandertal.0ulo	de		Neandertaler
+neandertala homo	neandertal.0ulo	en		neanderthal
+neandertalulo	neandertal.0ulo	en		neanderthal
+neandertala homo	neandertal.0ulo.PRA	fr	homme de néandertal	néandertal
+neandertalulo	neandertal.0ulo.PRA	fr	homme de néandertal	néandertal
+neandertalulo	neandertal.0ulo.PRA	de		Neandertaler
+neandertala homo	neandertal.0ulo.PRA	en		neanderthal
+neandertalulo	neandertal.0ulo.PRA	en		neanderthal
+neandertala homo	neandertal.0ulo.PRA	de		Neandertaler
+Nebrasko	nebrask.0o	fr		Nébraska
+Nebrasko	nebrask.0o	en		Nebraska
+Nebrasko	nebrask.0o.GEOG	fr		Nébraska
+Nebrasko	nebrask.0o.GEOG	en		Nebraska
+nebula	nebul.0a	fr		nébuleux
+nebula	nebul.0a.FIG	fr		nébuleux
+nebula	nebul.0a.FIG	de		nebulös
+nebula	nebul.0a.MET	fr		nébuleux
+nebula	nebul.0a.MET	de		neblig
+nebuli	nebul.0i	de		vernebeln
+nebuligi	nebul.0igi	fr		troubler
+nebuligi	nebul.0igi	fr		brouiller
+nebuligi	nebul.0igi.FIG	fr		troubler
+nebuligi	nebul.0igi.FIG	fr		brouiller
+nebuligi	nebul.0igi.FIG	de		vernebeln
+nebuligi	nebul.0igi.FIG	de		benebeln
+nebuligi	nebul.0igi.MET	fr		troubler
+nebuligi	nebul.0igi.MET	fr		brouiller
+nebuligi	nebul.0igi.MET	fr		embrumer
+nebuliĝi	nebul.0igxi	de	sich vernebeln	vernebeln
+nebulo	nebul.0o	de		Nebel
+nebulo	nebul.0o	fr		brume
+nebulo	nebul.0o	fr		brouillard
+nebulo	nebul.0o	en		fog
+nebulo	nebul.0o.FIG	de		Nebel
+nebulo	nebul.0o.FIG	fr		brume
+nebulo	nebul.0o.FIG	fr		brouillard
+nebulo	nebul.0o.FIG	en		fog
+nebulo	nebul.0o.MET	de		Nebel
+nebulo	nebul.0o.MET	fr		brume
+nebulo	nebul.0o.MET	fr		brouillard
+nebulo	nebul.0o.MET	en		fog
+nebulo	nebul.0o.nebulecajxo	de		Nebel
+nebulo	nebul.0o.nebulecajxo	fr		brume
+nebulo	nebul.0o.nebulecajxo	fr		brouillard
+nebulo	nebul.0o.nebulecajxo	en		fog
+fumnebulo	nebul.fum0o	en		smog
+fumnebulo	nebul.fum0o	de		Rauchschwaden
+fumnebulo	nebul.fum0o	fr		smog
+fumnebulo	nebul.fum0o.MET	de		Rauchschwaden
+fumnebulo	nebul.fum0o.MET	de		Smog
+fumnebulo	nebul.fum0o.MET	fr		smog
+fumnebulo	nebul.fum0o.MET	en		smog
+nebulozo	nebulo.0o	fr	nébuleuse (astr.)	nébuleuse
+nebulozo	nebulo.0o	en		nebula
+nebulozo	nebulo.0o	de		Sternennebel
+nebulozo	nebulo.0o.AST	fr	nébuleuse (astr.)	nébuleuse
+nebulozo	nebulo.0o.AST	en		nebula
+nebulozo	nebulo.0o.AST	de		Sternennebel
+nebulozo	nebulo.0o.galaksio	fr	nébuleuse (astr.)	nébuleuse
+nebulozo	nebulo.0o.galaksio	en		nebula
+nebulozo	nebulo.0o.galaksio	de		Sternennebel
+necesa	neces.0a	fr		nécessaire
+necesa	neces.0a	en		necessary
+necesa	neces.0a	de		notwendig
+necesa	neces.0a	de		nötig
+necesa	neces.0a.FIL	fr		nécessaire
+necesa	neces.0a.FIL	en		necessary
+necesa	neces.0a.FIL	de		notwendig
+necesa	neces.0a.FIL	de		nötig
+necesa	neces.0a.FIL	de		zwangsläufig
+necesa	neces.0a.FIL	de		unumgänglich
+necesa	neces.0a.FIL	de		unvermeidlich
+necesa	neces.0a.KOMUNE	fr		nécessaire
+necesa	neces.0a.KOMUNE	en		necessary
+necesa	neces.0a.KOMUNE	de		notwendig
+necesa	neces.0a.KOMUNE	de		nötig
+necesa	neces.0a.KOMUNE	de		unentbehrlich
+necesa	neces.0a.KOMUNE	de	unbedingt erforderlich	erforderlich
+necesaĵo	neces.0ajxo	NULL	NULL	NULL
+necesaĵo	neces.0ajxo.KOMUNE	fr		nécessité
+necesaĵo	neces.0ajxo.KOMUNE	en		necessity
+necesaĵo	neces.0ajxo.KOMUNE	de		Notwendiges
+necesaĵo	neces.0ajxo.ekskremento	de		Notdurft
+neceseco	neces.0eco	fr		nécessité
+neceseco	neces.0eco	en		necessity
+neceseco	neces.0eco	de		Unumgänglichkeit
+neceseco	neces.0eco	de		Unvermeidlichkeit
+neceseco	neces.0eco	de		Notwendigkeit
+necesi	neces.0i	fr	être nécessaire	nécessaire
+necesi	neces.0i	fr		falloir
+necesi	neces.0i.KOMUNE	fr	être nécessaire	nécessaire
+necesi	neces.0i.KOMUNE	fr		falloir
+necesigi	neces.0igi	fr		nécessiter
+necesigi	neces.0igi	fr	exiger (nécessiter)	exiger
+necesigi	neces.0igi	fr	demander (nécessiter)	demander
+necesigi	neces.0igi	en		to necessitate
+necesigi	neces.0igi	de		verlangen
+necesigi	neces.0igi	de		erfordern
+necesigi	neces.0igi	de	notwendig machen	notwendig
+necesigi	neces.0igi	de	nötig machen	nötig
+neceso	neces.0o	de		Erfordernis
+neceso	neces.0o	de		Notwendigkeit
+neceso	neces.0o	fr		nécessité
+neceso	neces.0o	en		necessity
+neceso	neces.0o	de	dringender Bedarf	Bedarf
+neceso	neces.0o	de		Unentbehrlichkeit
+neceso	neces.0o.postulo	de		Erfordernis
+neceso	neces.0o.postulo	de		Notwendigkeit
+neceso	neces.0o.postulo	fr		nécessité
+neceso	neces.0o.postulo	en		necessity
+neceso	neces.0o.postulo	de	dringender Bedarf	Bedarf
+neceso	neces.0o.postulo	de		Unentbehrlichkeit
+neceseja seĝo	neces.0segxo	fr		cuvette de toilettes
+necesseĝo	neces.0segxo	fr		cuvette de toilettes
+neceseja seĝo	neces.0segxo	en		toilet bowl
+necesseĝo	neces.0segxo	en		toilet bowl
+neceseja seĝo	neces.0segxo	en		toilet seat
+necesseĝo	neces.0segxo	en		toilet seat
+neceseja seĝo	neces.0segxo	de		Klobecken
+necesseĝo	neces.0segxo	de		Klobecken
+neceseja seĝo	neces.0segxo	de		Toilettenstuhl
+necesseĝo	neces.0segxo	de		Toilettenstuhl
+necesujo	neces.0ujo	NULL	NULL	NULL
+necesujo	neces.0ujo.segxo	de		Kloschüssel
+necesujo	neces.0ujo.skatoleto	fr	nécessaire (trousse)	nécessaire
+necesujo	neces.0ujo.skatoleto	de		Necessaire
+laŭnecese	neces.laux0e	de	falls notwendig	notwendig
+laŭnecese	neces.laux0e	de	soweit erforderlich	erforderlich
+laŭnecese	neces.laux0e	fr		en fonction du besoin
+laŭnecese	neces.laux0e	fr		en cas de besoin
+laŭnecese	neces.laux0e.KOMUNE	de	falls notwendig	notwendig
+laŭnecese	neces.laux0e.KOMUNE	de	soweit erforderlich	erforderlich
+laŭnecese	neces.laux0e.KOMUNE	fr		en fonction du besoin
+laŭnecese	neces.laux0e.KOMUNE	fr		en cas de besoin
+malnecesa	neces.mal0a	en		unnecessary
+malnecesa	neces.mal0a	de		entbehrlich
+malnecesa	neces.mal0a	de		unnötig
+sennecesa	neces.ne0a	en		unnecessary
+nenecesa	neces.ne0a	en		unnecessary
+sennecesa	neces.ne0a	fr		inutile
+nenecesa	neces.ne0a	fr		inutile
+sennecesa	neces.ne0a.KOMUNE	en		unnecessary
+nenecesa	neces.ne0a.KOMUNE	en		unnecessary
+sennecesa	neces.ne0a.KOMUNE	fr		inutile
+nenecesa	neces.ne0a.KOMUNE	fr		inutile
+vivnecesaĵo	neces.viv0ajxo	fr		ressource vitale
+vivnecesaĵo	neces.viv0ajxo	en	life's necessities (plural)	life's necessities
+vivnecesaĵo	neces.viv0ajxo	en		basic necessity
+vivnecesaĵo	neces.viv0ajxo	en		basic need
+vivnecesaĵo	neces.viv0ajxo	de		Lebensnotwendiges
+vivnecesaĵo	neces.viv0ajxo.EKON	fr		ressource vitale
+vivnecesaĵo	neces.viv0ajxo.EKON	en	life's necessities (plural)	life's necessities
+vivnecesaĵo	neces.viv0ajxo.EKON	en		basic necessity
+vivnecesaĵo	neces.viv0ajxo.EKON	en		basic need
+vivnecesaĵo	neces.viv0ajxo.EKON	de		Lebensnotwendiges
+nederlanda	nederl.0a	fr	néerlandais(e) (adj.)	néerlandais
+nederlanda	nederl.0a	en		Dutch
+nederlanda	nederl.0a	de		niederländisch
+nederlanda	nederl.0a.gxen	fr	néerlandais(e) (adj.)	néerlandais
+nederlanda	nederl.0a.gxen	en		Dutch
+nederlanda	nederl.0a.gxen	de		niederländisch
+nederlanda	nederl.0a.lingv	en		Dutch
+nederlanda	nederl.0a.lingv	de		niederländisch
+nederlanda	nederl.0a.lingv	fr	néerlandais(e) (adj.)	néerlandais
+nederlandano	nederl.0ano	fr	Néerlandaise (subst.)	Néerlandaise
+nederlandano	nederl.0ano	fr		Néerlandais
+nederlandano	nederl.0ano	en		Dutchwoman
+nederlandano	nederl.0ano	en		Dutchman
+nederlandano	nederl.0ano	en		Dutch person
+nederlandano	nederl.0ano	de		Niederländerin
+nederlandano	nederl.0ano	de		Niederländer
+nederlandano	nederl.0ano.nacieco	fr	Néerlandaise (subst.)	Néerlandaise
+nederlandano	nederl.0ano.nacieco	fr		Néerlandais
+nederlandano	nederl.0ano.nacieco	en		Dutchwoman
+nederlandano	nederl.0ano.nacieco	en		Dutchman
+nederlandano	nederl.0ano.nacieco	en		Dutch person
+nederlandano	nederl.0ano.nacieco	de		Niederländerin
+nederlandano	nederl.0ano.nacieco	de		Niederländer
+nederlandano	nederl.0ano.sxtatano	fr	Néerlandaise (subst.)	Néerlandaise
+nederlandano	nederl.0ano.sxtatano	fr		Néerlandais
+nederlandano	nederl.0ano.sxtatano	en		Dutchwoman
+nederlandano	nederl.0ano.sxtatano	en		Dutchman
+nederlandano	nederl.0ano.sxtatano	en		Dutch person
+nederlandano	nederl.0ano.sxtatano	de		Niederländerin
+nederlandano	nederl.0ano.sxtatano	de		Niederländer
+Nederlando	nederl.N0o	en	The Netherlands	Netherlands
+Nederlando	nederl.N0o	de		Niederlande
+Nederlando	nederl.N0o	fr		Royaume des Pays-Bas
+Nederlando	nederl.N0o	fr		Pays-Bas
+Nederlando	nederl.N0o	en		Holland
+nefrito	nefrit.0o	fr	néphrite (min.)	néphrite
+nefrito	nefrit.0o	en		nephrite
+nefrito	nefrit.0o.MIN	fr	néphrite (min.)	néphrite
+nefrito	nefrit.0o.MIN	en		nephrite
+nefrito	nefrit1.0o	fr	néphrite (méd.)	néphrite
+nefrito	nefrit1.0o	en		nephritis
+nefrito	nefrit1.0o	de		Nephritis
+nefrito	nefrit1.0o.MED	fr	néphrite (méd.)	néphrite
+nefrito	nefrit1.0o.MED	en		nephritis
+nefrito	nefrit1.0o.MED	de		Nephritis
+nefrologo	nefrolog.0o	fr		néphrologue
+nefrologo	nefrolog.0o	en		nephrologist
+nefrologo	nefrolog.0o.MED	fr		néphrologue
+nefrologo	nefrolog.0o.MED	en		nephrologist
+nefrologio	nefrologi.0o	fr		néphrologie
+nefrologio	nefrologi.0o	en		nephrology
+nefrologio	nefrologi.0o.MED	fr		néphrologie
+nefrologio	nefrologi.0o.MED	en		nephrology
+nefrologio	nefrologi.0o.MED	de		Nephrologie
+nega	neg.0a	fr		négatif
+nega	neg.0a	en		negative
+negi	neg.0i	fr		nier
+negi	neg.0i.ekziston	fr		nier
+negi	neg.0i.ekziston	en		deny
+negi	neg.0i.ekziston	de		verneinen
+negi	neg.0i.fornei	fr		nier
+negi	neg.0i.fornei	en		reject
+negi	neg.0i.fornei	de		ablehnen
+negado	neg.0o	fr		négation
+nego	neg.0o	fr		négation
+negado	neg.0o	en		negation
+nego	neg.0o	en		negation
+negacio	negaci.0o	NULL	NULL	NULL
+negacio	negaci.0o.GRA	de		Verneinung
+negacio	negaci.0o.logika	fr	négation (logique)	négation
+negacio	negaci.0o.logika	en		negation
+negacio	negaci.0o.logika	de		Negation
+negativa	negati.0a	fr	négatif (adj.)	négatif
+negativa	negati.0a	de		negativ
+negativa	negati.0a.MAT	fr	négatif (adj.)	négatif
+negativa	negati.0a.MAT	de		negativ
+negativa	negati.0a.malfavora	fr	négatif (adj.)	négatif
+negativa	negati.0a.malfavora	de		negativ
+negativa	negati.0a.malpozitiva	fr	négatif (adj.)	négatif
+negativa	negati.0a.malpozitiva	de		negativ
+negativa	negati.0a.nega	fr	négatif (adj.)	négatif
+negativa	negati.0a.nega	de		negativ
+negativo	negati.0o	NULL	NULL	NULL
+negativo	negati.0o.FOT	fr	négatif (photog.)	négatif
+negativo	negati.0o.FOT	de		Negativ
+nenegativa	negati.ne0a	fr		non négatif
+nenegativa	negati.ne0a	en		non-negative
+nenegativa	negati.ne0a	de		nichtnegativ
+negatono	negatr.0o	NULL	NULL	NULL
+negatrono	negatr.0o	NULL	NULL	NULL
+negatono	negatr.0o.elektrontubo	en		negatron
+negatrono	negatr.0o.elektrontubo	en		negatron
+negatono	negatr.0o.negatono	fr		négatron
+negatrono	negatr.0o.negatono	fr		négatron
+negatono	negatr.0o.negatono	en		negatron
+negatrono	negatr.0o.negatono	en		negatron
+negatono	negatr.0o.negatono	en		negaton
+negatrono	negatr.0o.negatono	en		negaton
+negatono	negatr.0o.negatono	de		Negatron
+negatrono	negatr.0o.negatono	de		Negatron
+negatono	negatr.0o.negatono	de		Negaton
+negatrono	negatr.0o.negatono	de		Negaton
+neglektema	neglek.0ema	fr		négligent
+neglektema	neglek.0ema.KOMUNE	fr		négligent
+neglekti	neglek.0i	de		vernachlässigen
+neglekti	neglek.0i	fr		négliger
+neglekti	neglek.0i	en		neglect
+neglekti	neglek.0i.KOMUNE	fr		négliger
+neglekti	neglek.0i.KOMUNE	en		neglect
+neglekti	neglek.0i.KOMUNE	de		vernachlässigen
+neglektinda	neglek.0inda	fr		négligeable
+neglektinda	neglek.0inda	en		negligable
+neglektinda	neglek.0inda	de		vernachlässigbar
+neglektinda	neglek.0inda.KOMUNE	fr		négligeable
+neglektinda	neglek.0inda.KOMUNE	en		negligable
+neglektinda	neglek.0inda.KOMUNE	de		vernachlässigbar
+neglekto	neglek.0o	en		negligence
+neglekto	neglek.0o	de		Vernachlässigung
+neglekto	neglek.0o	fr		négligence
+neglekto	neglek.0o.KOMUNE	en		negligence
+neglekto	neglek.0o.KOMUNE	de		Vernachlässigung
+neglekto	neglek.0o.KOMUNE	fr		négligence
+negliĝo	neglig.0o	fr		vêtement d'intérieur
+negliĝo	neglig.0o	fr	négligé (vêtement d'intérieur)	négligé
+negliĝo	neglig.0o	en		housedress
+negliĝo	neglig.0o	en		negligee
+negliĝo	neglig.0o	de		Negligee
+negliĝo	neglig.0o	de		Schlafrock
+negliĝo	neglig.0o	de		Morgenrock
+negliĝo	neglig.0o	de		Morgenkleid
+negliĝo	neglig.0o.TEKS	fr		vêtement d'intérieur
+negliĝo	neglig.0o.TEKS	fr	négligé (vêtement d'intérieur)	négligé
+negliĝo	neglig.0o.TEKS	en		housedress
+negliĝo	neglig.0o.TEKS	en		negligee
+negliĝo	neglig.0o.TEKS	de		Negligee
+negliĝo	neglig.0o.TEKS	de		Schlafrock
+negliĝo	neglig.0o.TEKS	de		Morgenrock
+negliĝo	neglig.0o.TEKS	de		Morgenkleid
+negoca	negoc.0a	fr	commercial (adj.)	commercial
+negoca	negoc.0a	en		business
+negoca	negoc.0a	en		commercial
+negoca	negoc.0a	de		geschäftlich
+negoca	negoc.0a.EKON	fr	commercial (adj.)	commercial
+negoca	negoc.0a.EKON	en		business
+negoca	negoc.0a.EKON	en		commercial
+negoca	negoc.0a.EKON	de		geschäftlich
+negoci	negoc.0i	fr	négocier (commercialement)	négocier
+negoci	negoc.0i	fr	faire du négoce	négoce
+negoci	negoc.0i	de	Geschäfte machen	Geschäft
+negoci	negoc.0i	en		do business
+negoci	negoc.0i	de	Handel treiben	Handel
+negoci	negoc.0i	en		trade
+negoci	negoc.0i	de		handeln
+negoci	negoc.0i.EKON	fr	négocier (commercialement)	négocier
+negoci	negoc.0i.EKON	fr	faire du négoce	négoce
+negoci	negoc.0i.EKON	en		do business
+negoci	negoc.0i.EKON	de	Handel treiben	Handel
+negoci	negoc.0i.EKON	en		trade
+negoci	negoc.0i.EKON	de		handeln
+negoci	negoc.0i.EKON	de	Geschäfte machen	Geschäft
+negocisto	negoc.0isto	en		trader
+negocisto	negoc.0isto	de		Geschäftemacher
+negocisto	negoc.0isto	de		Händler
+negocisto	negoc.0isto	fr		négociant
+negocisto	negoc.0isto	en		businessman
+negocisto	negoc.0isto.EKON	en		trader
+negocisto	negoc.0isto.EKON	de		Geschäftemacher
+negocisto	negoc.0isto.EKON	de		Händler
+negocisto	negoc.0isto.EKON	fr		négociant
+negocisto	negoc.0isto.EKON	en		businessman
+negoco	negoc.0o	de		Geschäft
+negoco	negoc.0o	fr		négoce
+negoco	negoc.0o	fr	affaire (commerciale)	affaire
+negoco	negoc.0o	en		transaction
+negoco	negoc.0o.entrepreno	de		Geschäft
+negoco	negoc.0o.entrepreno	en		business
+negoco	negoc.0o.entrepreno	de	Handlung (Geschäft)	Handlung
+negoco	negoc.0o.entrepreno	fr		négoce
+negoco	negoc.0o.entrepreno	fr	affaire (commerciale)	affaire
+negoco	negoc.0o.entrepreno	en		transaction
+negoco	negoc.0o.transakcio	de		Geschäft
+negoco	negoc.0o.transakcio	de	Handel (Geschäft)	Handel
+negoco	negoc.0o.transakcio	fr		négoce
+negoco	negoc.0o.transakcio	fr	affaire (commerciale)	affaire
+negoco	negoc.0o.transakcio	en		transaction
+negro	negr.0o	fr		nègre
+negro	negr.0o	fr	noir (subst. personne)	noir
+negro	negr.0o	en		negro
+negro	negr.0o	en		nigger
+negro	negr.0o	en		black person
+negro	negr.0o	en		black
+negro	negr.0o	de		Mohr
+negro	negr.0o	de		Neger
+negro	negr.0o	de		Schwarzer
+neĝblovado	negx.0blovo	fr		tempête de neige
+neĝblovo	negx.0blovo	fr		tempête de neige
+neĝblovado	negx.0blovo	de		Schneetreiben
+neĝblovado	negx.0blovo	fr		blizzard
+neĝblovo	negx.0blovo	de		Schneetreiben
+neĝblovo	negx.0blovo	fr		blizzard
+neĝblovado	negx.0blovo	de		Schneesturm
+neĝblovo	negx.0blovo	de		Schneesturm
+neĝblovado	negx.0blovo.MET	fr		tempête de neige
+neĝblovo	negx.0blovo.MET	fr		tempête de neige
+neĝblovado	negx.0blovo.MET	de		Schneetreiben
+neĝblovo	negx.0blovo.MET	de		Schneetreiben
+neĝblovado	negx.0blovo.MET	fr		blizzard
+neĝblovo	negx.0blovo.MET	fr		blizzard
+neĝblovado	negx.0blovo.MET	de		Schneesturm
+neĝblovo	negx.0blovo.MET	de		Schneesturm
+neĝbulo	negx.0bulo	fr		boule de neige
+neĝbulo	negx.0bulo	en		snowball
+neĝbulo	negx.0bulo	de		Schneeball
+neĝbulo	negx.0bulo.SPO	fr		boule de neige
+neĝbulo	negx.0bulo.SPO	en		snowball
+neĝbulo	negx.0bulo.SPO	de		Schneeball
+neĝero	negx.0ero	fr		flocon de neige
+neĝero	negx.0ero	de		Schneeflocke
+neĝero	negx.0ero.MET	fr		flocon de neige
+neĝero	negx.0ero.MET	de		Schneeflocke
+neĝi	negx.0i	fr		neiger
+neĝi	negx.0i	de		schneien
+neĝi	negx.0i.MET	fr		neiger
+neĝi	negx.0i.MET	de		schneien
+neĝo	negx.0o	fr		neige
+neĝo	negx.0o	en		snow
+neĝo	negx.0o	de		Schnee
+neĝo	negx.0o.MET	fr		neige
+neĝo	negx.0o.MET	en		snow
+neĝo	negx.0o.MET	de		Schnee
+Neĝulino	negx.0ulino	fr		Blanche Neige
+Neĝulino	negx.0ulino	en		Snowhite
+Neĝulino	negx.0ulino	de		Schneeweißchen
+Neĝulino	negx.0ulino	de		Schneewittchen
+Neĝulino	negx.0ulino.PERS	fr		Blanche Neige
+Neĝulino	negx.0ulino.PERS	en		Snowhite
+Neĝulino	negx.0ulino.PERS	de		Schneeweißchen
+Neĝulino	negx.0ulino.PERS	de		Schneewittchen
+neĝulo	negx.0ulo	NULL	NULL	NULL
+neĝulo	negx.0ulo.figuro	fr		bonhomme de neige
+neĝulo	negx.0ulo.figuro	en		snowman
+neĝulo	negx.0ulo.figuro	de		Schneemann
+neĝulo	negx.0ulo.jetio	de		Yeti
+neĝulo	negx.0ulo.jetio	de		Schneemensch
+ĉiama neĝo	negx.eterna0o	fr		neiges éternelles
+eterna neĝo	negx.eterna0o	fr		neiges éternelles
+ĉiama neĝo	negx.eterna0o.GEOG	fr		neiges éternelles
+eterna neĝo	negx.eterna0o.GEOG	fr		neiges éternelles
+nek	nek.0	en		nor
+nek	nek.0	de	auch nicht	nicht
+nek	nek.0	fr		ni
+nek	nek.0.kroma	de	auch nicht	nicht
+nek	nek.0.kroma	fr		ni
+nek	nek.0.kroma	en		nor
+nek ... nek ...	nek.0nek	fr		ni ... ni
+nek ... nek ...	nek.0nek	en		neither ... nor
+nek ... nek ...	nek.0nek	de		weder ... noch
+Nekaro	nekar.0o	NULL	NULL	NULL
+Nekaro	nekar.0o.rivero	fr		Neckar
+Nekaro	nekar.0o.rivero	en		Neckar
+Nekaro	nekar.0o.rivero	de		Neckar
+nekrologo	nekrol.0o	fr		nécrologie
+nekrologo	nekrol.0o	en		obituary
+nekrologo	nekrol.0o	en		necrology
+nekrologo	nekrol.0o	de		Nachruf
+nekrologo	nekrol.0o	de		Nekrolog
+nekromanciisto	nekromanci.0isto	en		necromancer
+nekromanciisto	nekromanci.0isto	de		Schwarzkünstler
+nekromanciisto	nekromanci.0isto	de		Geisterbeschwörer
+nekromanciisto	nekromanci.0isto	de		Nekromant
+nekromanciisto	nekromanci.0isto	fr		nécromant
+nekromanciisto	nekromanci.0isto	fr		nécromancien
+nekromanciisto	nekromanci.0isto.DIV	en		necromancer
+nekromanciisto	nekromanci.0isto.DIV	de		Schwarzkünstler
+nekromanciisto	nekromanci.0isto.DIV	de		Geisterbeschwörer
+nekromanciisto	nekromanci.0isto.DIV	de		Nekromant
+nekromanciisto	nekromanci.0isto.DIV	fr		nécromant
+nekromanciisto	nekromanci.0isto.DIV	fr		nécromancien
+nekromancio	nekromanci.0o	fr		nécromancie
+nekromancio	nekromanci.0o	en		necromancy
+nekromancio	nekromanci.0o	de		Séance
+nekromancio	nekromanci.0o	de		Geisterbeschwörung
+nekromancio	nekromanci.0o	de		Nekromantie
+nekromancio	nekromanci.0o.DIV	fr		nécromancie
+nekromancio	nekromanci.0o.DIV	en		necromancy
+nekromancio	nekromanci.0o.DIV	de		Séance
+nekromancio	nekromanci.0o.DIV	de		Geisterbeschwörung
+nekromancio	nekromanci.0o.DIV	de		Nekromantie
+nekropolo	nekrop.0o	en		necropolis
+nekropolo	nekrop.0o	fr		nécropole
+nekropolo	nekrop.0o	de		Totenstadt
+nekropolo	nekrop.0o	en		catacombs
+nekropolo	nekrop.0o	de		Nekropole
+nekropolo	nekrop.0o.ARKE	en		necropolis
+nekropolo	nekrop.0o.ARKE	fr		nécropole
+nekropolo	nekrop.0o.ARKE	de		Totenstadt
+nekropolo	nekrop.0o.ARKE	en		catacombs
+nekropolo	nekrop.0o.ARKE	de		Nekropole
+nekropsia	nekrop1.0a	en		necropsy (adj)
+nekropsia	nekrop1.0a	en		autopsy (adj)
+nekropsia	nekrop1.0a	de	aus der Obduktion	Obduktion
+nekropsia	nekrop1.0a	de	bei der Obduktion	Obduktion
+nekropsio	nekrop1.0o	fr		autopsie
+nekropsio	nekrop1.0o	en		necropsy
+nekropsio	nekrop1.0o	en		autopsy
+nekropsio	nekrop1.0o	de		Obduktion
+nekropsio	nekrop1.0o	de		Nekropsie
+nektaro	nektar.0o	fr		nectar
+nektaro	nektar.0o	en		nectar
+nektaro	nektar.0o	de		Nektar
+nektaro	nektar.0o.BOT	fr		nectar
+nektaro	nektar.0o.BOT	en		nectar
+nektaro	nektar.0o.BOT	de		Nektar
+nektaro	nektar.0o.FIG	fr		nectar
+nektaro	nektar.0o.FIG	en		nectar
+nektaro	nektar.0o.FIG	de		Nektar
+nektaro	nektar.0o.MIT	fr		nectar
+nektaro	nektar.0o.MIT	en		nectar
+nektaro	nektar.0o.MIT	de		Nektar
+nektarino	nektarin.0o	NULL	NULL	NULL
+nektarino	nektarin.0o.BOT	en		nectarine
+nektarino	nektarin.0o.BOT	de		Nektarine
+nektarino	nektarin.0o.BOT	fr		nectarine
+neniaĵo	neni.0ajxo	fr		néant
+nenio	neni.0ajxo	fr		néant
+neniaĵo	neni.0ajxo.absoluta	fr		néant
+nenio	neni.0ajxo.absoluta	fr		néant
+neniaĵo	neni.0ajxo.absoluta	en		nothing
+nenio	neni.0ajxo.absoluta	en		nothing
+neniaĵo	neni.0ajxo.absoluta	de		Nichts
+nenio	neni.0ajxo.absoluta	de		Nichts
+nenieco	neni.0eco	en		vacuousness
+nenieco	neni.0eco	de		Nichtigkeit
+nenieco	neni.0eco	fr		inanité
+nenieco	neni.0eco	en		nothingness
+nenieco	neni.0eco	fr		nullité
+nenieco	neni.0eco.absoluta	fr		inanité
+nenieco	neni.0eco.absoluta	de		Nichtigkeit
+nenieco	neni.0eco.absoluta	en		nothingness
+nenieco	neni.0eco.absoluta	fr		nullité
+nenieco	neni.0eco.absoluta	en		vacuousness
+neniigi	neni.0igi	fr		annihiler
+neniigi	neni.0igi	fr		anéantir
+neniigi	neni.0igi	de		negieren
+neniigi	neni.0igi	de		auflösen
+neniigi	neni.0igi	de		annullieren
+neniigi	neni.0igi	de		aufheben
+neniigi	neni.0igi.detrui	fr		annihiler
+neniigi	neni.0igi.detrui	fr		anéantir
+neniigi	neni.0igi.detrui	de		negieren
+neniigi	neni.0igi.detrui	de		auflösen
+neniigi	neni.0igi.detrui	de		annullieren
+neniigi	neni.0igi.detrui	de		aufheben
+neniigi	neni.0igi.detrui	en		annihilate
+neniigi	neni.0igi.detrui	de		vernichten
+neniigi	neni.0igi.senefikigi	fr		annihiler
+neniigi	neni.0igi.senefikigi	fr		anéantir
+neniigi	neni.0igi.senefikigi	de		negieren
+neniigi	neni.0igi.senefikigi	de		auflösen
+neniigi	neni.0igi.senefikigi	de		annullieren
+neniigi	neni.0igi.senefikigi	de		aufheben
+neniigi	neni.0igi.senefikigi	en		void
+neniigi	neni.0igi.senefikigi	en		invalidate
+neniigi	neni.0igi.senefikigi	en		annul
+neniigi	neni.0igi.senefikigi	de		entwerten
+nenio	neni.0o	fr		rien
+nenio	neni.0o	en	not any thing	thing
+nenio	neni.0o	en		none
+nenio	neni.0o	en		naught
+nenio	neni.0o	en		nothing
+nenio	neni.0o	de		nichts
+nenio	neni.0o.malesto	en		oblivion
+nenio	neni.0o.malesto	en		nothingness
+nenio	neni.0o.malesto	fr		rien
+nenio	neni.0o.malesto	en	not any thing	thing
+nenio	neni.0o.malesto	en		none
+nenio	neni.0o.malesto	en		naught
+nenio	neni.0o.malesto	en		nothing
+nenio	neni.0o.malesto	de		nichts
+nenio	neni.0o.pronomo	fr		rien
+nenio	neni.0o.pronomo	en	not any thing	thing
+nenio	neni.0o.pronomo	en		none
+nenio	neni.0o.pronomo	en		naught
+nenio	neni.0o.pronomo	en		nothing
+nenio	neni.0o.pronomo	de		nichts
+nenia	nenia.0	en	no (adj.)	no
+nenia	nenia.0	en		not any
+nenia	nenia.0	de		keinerlei
+nenia	nenia.0	fr	d'aucune sorte	aucune sorte
+nenia	nenia.0.KOMUNE	en	no (adj.)	no
+nenia	nenia.0.KOMUNE	en		not any
+nenia	nenia.0.KOMUNE	de		keinerlei
+nenia	nenia.0.KOMUNE	fr	d'aucune sorte	aucune sorte
+nenial	nenial.0	fr		pour aucune cause
+nenial	nenial.0	en	without any reason (cause, motive) whatever	reason (cause, motive)
+nenial	nenial.0	en	on no account	account
+nenial	nenial.0	en	not for any reason (cause, motive)	reason (cause, motive)
+nenial	nenial.0	en	for no reason (cause, motive)	reason (cause, motive)
+nenial	nenial.0	de	aus keinem Grund	Grund
+nenial	nenial.0	de		grundlos
+neniam	neniam.0	fr		jamais
+neniam	neniam.0	en	not ever	ever
+neniam	neniam.0	en	at no time	time
+neniam	neniam.0	en		never
+neniam	neniam.0	de		niemals
+neniam	neniam.0	de		nie
+nenie	nenie.0	fr		nulle part
+nenie	nenie.0	en	not anywhere	anywhere
+nenie	nenie.0	en	in no case	case
+nenie	nenie.0	en		nowhere
+nenie	nenie.0	de		nirgendwo
+nenie	nenie.0	de		nirgends
+nenien	nenie.0n	NULL	NULL	NULL
+neniel	neniel.0	de	in keiner Weise	Weise
+neniel	neniel.0	fr	en aucune manière	manière
+neniel	neniel.0	de	auf keine Weise	Weise
+neniel	neniel.0	de		keinewegs
+neniel	neniel.0.adv	de	in keiner Weise	Weise
+neniel	neniel.0.adv	fr	en aucune manière	manière
+neniel	neniel.0.adv	de	auf keine Weise	Weise
+neniel	neniel.0.adv	de		keinewegs
+neniel	neniel.0.negilo	de	in keiner Weise	Weise
+neniel	neniel.0.negilo	fr	en aucune manière	manière
+neniel	neniel.0.negilo	de	auf keine Weise	Weise
+neniel	neniel.0.negilo	de		keinewegs
+nenies	nenies.0	fr	de personne	personne
+nenies	nenies.0	de		niemandes
+neniom	neniom.0	en	nothing (quantity)	nothing
+neniom	neniom.0	de	nichts (Menge)	nichts
+neniom	neniom.0	fr		rien
+neniu	neniu.0	de		keine
+neniu	neniu.0	de		kein
+neniu	neniu.0.adj	de		keine
+neniu	neniu.0.adj	de		kein
+neniu	neniu.0.substantivo	de		keine
+neniu	neniu.0.substantivo	de		kein
+neniu	neniu.0.substantivo	fr		personne
+neniu	neniu.0.substantivo	en		nobody
+neniu	neniu.0.substantivo	de		keiner
+neniu	neniu.0.substantivo	de		niemand
+neodimo	neodim.0o	fr		néodyme
+neodimo	neodim.0o	en		neodymium
+neodimo	neodim.0o	de		Neodym
+neodimo	neodim.0o.KEM	fr		néodyme
+neodimo	neodim.0o.KEM	en		neodymium
+neodimo	neodim.0o.KEM	de		Neodym
+neolitiko	neolit.0o	fr	néolithique (subst.)	néolithique
+neolitiko	neolit.0o	fr		âge de la pierre polie
+neolitiko	neolit.0o	en		Late Stone Age
+neolitiko	neolit.0o	en		Neolithic
+neolitiko	neolit.0o	de		Jungsteinzeit
+neolitiko	neolit.0o	de		Neolithikum
+neolitiko	neolit.0o.PRA	fr	néolithique (subst.)	néolithique
+neolitiko	neolit.0o.PRA	fr		âge de la pierre polie
+neolitiko	neolit.0o.PRA	en		Late Stone Age
+neolitiko	neolit.0o.PRA	en		Neolithic
+neolitiko	neolit.0o.PRA	de		Jungsteinzeit
+neolitiko	neolit.0o.PRA	de		Neolithikum
+neologismo	neolog.0o	fr		néologisme
+neologismo	neolog.0o.malnova	fr		néologisme
+neologismo	neolog.0o.malnova	de		Fremdwort
+neologismo	neolog.0o.novvorto	en		neologism
+neologismo	neolog.0o.novvorto	de		Wortneubildung
+neologismo	neolog.0o.novvorto	de		Neologismus
+neologismo	neolog.0o.novvorto	fr		néologisme
+neologo	neolog1.0o	NULL	NULL	NULL
+neologo	neolog1.0o.ESP	fr		néologue
+neono	neon.0o	fr		néon
+neono	neon.0o	en		neon
+neono	neon.0o	de		Neon
+neonikotinoido	neonikotinoid.0o	fr		néonicotinoïde
+neonikotinoido	neonikotinoid.0o	en		neonicotinoid
+neonikotinoido	neonikotinoid.0o.KEM	fr		néonicotinoïde
+neonikotinoido	neonikotinoid.0o.KEM	en		neonicotinoid
+nepino	nep.0ino	fr		petite-fille
+nepino	nep.0ino	en		granddaughter
+nepino	nep.0ino	de		Enkelin
+nepo	nep.0o	fr		petit-fils
+nepo	nep.0o	en		grandson
+nepo	nep.0o	de		Enkel
+genepo	nep.ge0o	en		grandchild
+genepo	nep.ge0o	de		Enkelkind
+genepo	nep.ge0o	fr		petit-enfant
+genepo	nep.ge0o.GEN	de		Enkelkind
+genepo	nep.ge0o.GEN	fr		petit-enfant
+genepo	nep.ge0o.GEN	en		grandchild
+genepoj	nep.ge0oj	fr		petits-enfants
+genepoj	nep.ge0oj	en		grandchildren
+genepoj	nep.ge0oj	de		Enkelkinder
+postnepino	nep.pra0opost0ino	en		great-granddaughter
+pranepino	nep.pra0opost0ino	en		great-granddaughter
+postnepino	nep.pra0opost0ino	de		Urenkelin
+pranepino	nep.pra0opost0ino	de		Urenkelin
+postnepo	nep.pra0opost0o	fr		arrière-petit-fils
+pranepo	nep.pra0opost0o	fr		arrière-petit-fils
+postnepo	nep.pra0opost0o	en		great-grandson
+pranepo	nep.pra0opost0o	en		great-grandson
+postnepo	nep.pra0opost0o	de		Urenkel
+pranepo	nep.pra0opost0o	de		Urenkel
+Nepalo	nepal.N0o	NULL	NULL	NULL
+Nepalo	nepal.N0o.GEOG	fr		République démocratique fédérale du Népal
+Nepalo	nepal.N0o.GEOG	fr		Népal
+Nepalo	nepal.N0o.GEOG	en		Nepal
+Nepalo	nepal.N0o.GEOG	de		Nepal
+Nepero	neper.0o	fr		Néper
+Nepero	neper.0o	fr		Neper
+Nepero	neper.0o	fr		Napier
+Nepero	neper.0o	de		Neper
+Nepero	neper.0o	de		Napier
+Nepero	neper.0o	en	John Napier (aŭ Neper)	Napier
+nepera	neper.n0a	fr		népérien
+nepera	neper.n0a	en		Napierian
+nepera	neper.n0a	de		Nepersche
+nepero	neper.n0o	fr	néper (unité de mesure)	néper
+nepero	neper.n0o	de		Neper
+Nepjido	nepjid.0o	NULL	NULL	NULL
+Nepjido	nepjid.0o.urbo	fr		Naypyidaw
+Nepjido	nepjid.0o.urbo	en		Naypyidaw
+Nepjido	nepjid.0o.urbo	de		Naypyidaw
+nepotismo	nepoti.0o	fr		népotisme
+nepotismo	nepoti.0o	en		nepotism
+nepotismo	nepoti.0o	de		Vetternwirtschaft
+nepotismo	nepoti.0o	de		Nepotismus
+nepotismo	nepoti.0o.POL	fr		népotisme
+nepotismo	nepoti.0o.POL	en		nepotism
+nepotismo	nepoti.0o.POL	de		Vetternwirtschaft
+nepotismo	nepoti.0o.POL	de		Nepotismus
+nepra	nepr.0a	de		unsausweichlich
+nepra	nepr.0a	de		unabdingbar
+nepra	nepr.0a	de	unbedingt notwendig	unbedingt
+nepra	nepr.0a	fr	obligatoire (inévitable)	obligatoire
+nepra	nepr.0a	fr	nécessaire (inévitable)	nécessaire
+nepra	nepr.0a	fr	impératif (inévitable)	impératif
+nepra	nepr.0a	fr		inévitable
+nepra	nepr.0a	en		vital
+nepra	nepr.0a	en		imperative
+nepra	nepr.0a	en		essential
+nepra	nepr.0a	en		absolutely necessary
+nepra	nepr.0a.KOMUNE	de		unsausweichlich
+nepra	nepr.0a.KOMUNE	de		unabdingbar
+nepra	nepr.0a.KOMUNE	de	unbedingt notwendig	unbedingt
+nepra	nepr.0a.KOMUNE	fr	obligatoire (inévitable)	obligatoire
+nepra	nepr.0a.KOMUNE	fr	nécessaire (inévitable)	nécessaire
+nepra	nepr.0a.KOMUNE	fr	impératif (inévitable)	impératif
+nepra	nepr.0a.KOMUNE	fr		inévitable
+nepra	nepr.0a.KOMUNE	en		vital
+nepra	nepr.0a.KOMUNE	en		imperative
+nepra	nepr.0a.KOMUNE	en		essential
+nepra	nepr.0a.KOMUNE	en		absolutely necessary
+nepraĵo	nepr.0ajxo	de		Unabdingbares
+nepraĵo	nepr.0ajxo	de		Notwendiges
+nepraĵo	nepr.0ajxo	de		Unvermeidliches
+nepre	nepr.0e	fr		obligatoirement
+nepre	nepr.0e	fr		nécessairement
+nepre	nepr.0e	en		without fail
+nepre	nepr.0e	de		unbedingt
+nepre	nepr.0e	en		necessarily
+nepre	nepr.0e	en		definitely
+nepre	nepr.0e.KOMUNE	fr		obligatoirement
+nepre	nepr.0e.KOMUNE	fr		nécessairement
+nepre	nepr.0e.KOMUNE	en		without fail
+nepre	nepr.0e.KOMUNE	de		unbedingt
+nepre	nepr.0e.KOMUNE	en		necessarily
+nepre	nepr.0e.KOMUNE	en		definitely
+nepri	nepr.0i	en	have to	have
+nepri	nepr.0i	de	notwendig sein	notwendig
+neprigi	nepr.0igi	fr	postuler (rendre inévitable)	postuler
+neprigi	nepr.0igi	fr	imposer (rendre inévitable)	imposer
+neprigi	nepr.0igi	fr	exiger (rendre inévitable)	exiger
+neprigi	nepr.0igi	en		necessitate
+neprigi	nepr.0igi	en		require
+neprigi	nepr.0igi	de	unabdingbar machen	unabdingbar
+neprigi	nepr.0igi	de	zwingend nach sich ziehen	zwingend
+neprigi	nepr.0igi.KOMUNE	fr	postuler (rendre inévitable)	postuler
+neprigi	nepr.0igi.KOMUNE	fr	imposer (rendre inévitable)	imposer
+neprigi	nepr.0igi.KOMUNE	fr	exiger (rendre inévitable)	exiger
+neprigi	nepr.0igi.KOMUNE	en		necessitate
+neprigi	nepr.0igi.KOMUNE	en		require
+neprigi	nepr.0igi.KOMUNE	de	unabdingbar machen	unabdingbar
+neprigi	nepr.0igi.KOMUNE	de	zwingend nach sich ziehen	zwingend
+nepreco	nepr.0o	de		Notwendigkeit
+nepro	nepr.0o	de		Notwendigkeit
+nepreco	nepr.0o	de		Unausweichlichkeit
+nepro	nepr.0o	de		Unausweichlichkeit
+nepreco	nepr.0o	de		Unabdingbarkeit
+nepro	nepr.0o	de		Unabdingbarkeit
+malnepra	nepr.mal0a	fr		optionnel
+malnepra	nepr.mal0a	fr		facultatif
+malnepra	nepr.mal0a	fr	accidentel (inessentiel)	accidentel
+malnepra	nepr.mal0a	en		optional
+malnepra	nepr.mal0a	en		unnecessary
+malnepra	nepr.mal0a	de		verzichtbar
+malnepra	nepr.mal0a	de		fakultativ
+malnepra	nepr.mal0a	de		optional
+malnepra	nepr.mal0a.KOMUNE	fr		optionnel
+malnepra	nepr.mal0a.KOMUNE	fr		facultatif
+malnepra	nepr.mal0a.KOMUNE	fr	accidentel (inessentiel)	accidentel
+malnepra	nepr.mal0a.KOMUNE	en		optional
+malnepra	nepr.mal0a.KOMUNE	en		unnecessary
+malnepra	nepr.mal0a.KOMUNE	de		verzichtbar
+malnepra	nepr.mal0a.KOMUNE	de		fakultativ
+malnepra	nepr.mal0a.KOMUNE	de		optional
+Neptuno	neptun.0o	fr		Neptune
+Neptuno	neptun.0o	en		Neptune
+Neptuno	neptun.0o	de		Neptun
+Neptuno	neptun.0o.mita	fr		Neptune
+Neptuno	neptun.0o.mita	en		Neptune
+Neptuno	neptun.0o.mita	de		Neptun
+neptunio	neptuni.0o	fr		neptunium
+neptunio	neptuni.0o	en		neptunium
+neptunio	neptuni.0o	de		Neptunium
+nerio	neri.0o	fr		laurelle
+nerio	neri.0o	de		Oleander
+nerio	neri.0o	fr		laurier-rose
+nerio	neri.0o.BOT	de		Oleander
+nerio	neri.0o.BOT	fr		laurier-rose
+nerio	neri.0o.BOT	fr		laurelle
+Nero	neron.0o	fr		Néron
+Nerono	neron.0o	fr		Néron
+Nero	neron.0o	en		Nero
+Nerono	neron.0o	en		Nero
+Nero	neron.0o	de	Nero (Röm. Kaiser)	Nero
+Nerono	neron.0o	de	Nero (Röm. Kaiser)	Nero
+nerva	nerv.0a	fr		nerveux
+nerva	nerv.0a.ANA	fr		nerveux
+nerva	nerv.0a.ANA	en	nervous (tissue)	nervous
+nerva	nerv.0a.ANA	de		Nerven-
+nerva	nerv.0a.ANA	de		nervlich
+nerva	nerv.0a.gxena	fr		nerveux
+nerva	nerv.0a.gxena	en		annoying
+nerva	nerv.0a.gxena	en		stressful
+nerva	nerv.0a.gxena	en		irritating
+nerva	nerv.0a.gxena	de		nervend
+nerva	nerv.0a.nervoza	fr		nerveux
+nerva	nerv.0a.nervoza	en		irritable
+nerva	nerv.0a.nervoza	en	nervous (feeling)	nervous
+nerva	nerv.0a.nervoza	de		nervös
+nervaro	nerv.0aro	en		nervous system
+nervaro	nerv.0aro	fr		nerfs
+nervaro	nerv.0aro.ANA	de		Nervensystem
+nervaro	nerv.0aro.ANA	fr		nerfs
+nervaro	nerv.0aro.ANA	en		nervous system
+nerveca	nerv.0ema	fr		nerveux
+nervema	nerv.0ema	fr		nerveux
+nerveca	nerv.0ema	en		annoying
+nervema	nerv.0ema	en		annoying
+nerveca	nerv.0ema	en		irritating
+nervema	nerv.0ema	en		irritating
+nerveca	nerv.0ema	en		nervous
+nervema	nerv.0ema	en		nervous
+nerveca	nerv.0ema.PSI	fr		nerveux
+nervema	nerv.0ema.PSI	fr		nerveux
+nerveca	nerv.0ema.PSI	en		annoying
+nervema	nerv.0ema.PSI	en		annoying
+nerveca	nerv.0ema.PSI	en		irritating
+nervema	nerv.0ema.PSI	en		irritating
+nerveca	nerv.0ema.PSI	en		nervous
+nervema	nerv.0ema.PSI	en		nervous
+nerveca	nerv.0ema.PSI	de		nervig
+nervema	nerv.0ema.PSI	de		nervig
+nerveco	nerv.0emo	fr		nervosité
+nervemo	nerv.0emo	fr		nervosité
+nerveco	nerv.0emo.PSI	fr		nervosité
+nervemo	nerv.0emo.PSI	fr		nervosité
+nervoza	nervoz.0a	fr	nerveux (énervé)	nerveux
+nervoza	nervoz.0a	fr		impatient
+nervoza	nervoz.0a	fr		énervé
+nervoza	nervoz.0a	en		nervous
+nervoza	nervoz.0a	en		anxious
+nervoza	nervoz.0a	de		beunruhigt
+nervoza	nervoz.0a	de		nervös
+nervozeco	nervoz.0eco	fr		stress
+nervozeco	nervoz.0eco	fr		nervosité
+nervozeco	nervoz.0eco	fr		angoisse
+nervozeco	nervoz.0eco	en		nervousness
+nervozeco	nervoz.0eco	en		anxiety
+nervozeco	nervoz.0eco	de		Nervosität
+nervoziga	nervoz.0iga	fr	irritant (énervant)	irritant
+nervoziga	nervoz.0iga	fr		énervant
+nervoziga	nervoz.0iga	en		creepy
+nervoziga	nervoz.0iga	en		annoying
+nervoziga	nervoz.0iga	en		stressful
+nervoziga	nervoz.0iga	de		nervig
+nervoziga	nervoz.0iga	de		nervend
+nervozigi	nervoz.0igi	fr	irriter (énerver)	irriter
+nervozigi	nervoz.0igi	fr		impatienter
+nervozigi	nervoz.0igi	fr		énerver
+nervozigi	nervoz.0igi	fr	déstabiliser (énerver)	déstabiliser
+nervozigi	nervoz.0igi	en		stress someone out
+nervozigi	nervoz.0igi	en		get on one's nerves
+nervozigi	nervoz.0igi	en		make nervous
+nervozigi	nervoz.0igi	de		nervös machen
+nervozigi	nervoz.0igi	de		nerven
+nervuro	nervur.0o	fr		nervure
+nervuro	nervur.0o	de		Ader
+nervuro	nervur.0o	en		veining
+nervuro	nervur.0o	en		rib
+nervuro	nervur.0o	de		Ader
+nervuro	nervur.0o	de		Rippe
+nervuro	nervur.0o	de		Rippe
+nestego	nest.0ego	fr		tanière
+nestego	nest.0ego	en		nest
+nestego	nest.0ego.ZOO	fr		tanière
+nestego	nest.0ego.ZOO	en		nest
+nesti	nest.0i	en		nest
+nesti	nest.0i	de		nisten
+nesti	nest.0i.ZOO	en		nest
+nesti	nest.0i.ZOO	de		nisten
+nesti	nest.0i.ZOO	fr		nidifier
+nestiĝi	nest.0igxi	fr	se nicher	nicher
+nestiĝi	nest.0igxi	fr		nicher
+nestiĝi	nest.0igxi	de	sich einnisten	einnisten
+nestiĝi	nest.0igxi.FIG	fr	se nicher	nicher
+nestiĝi	nest.0igxi.FIG	fr		nicher
+nestiĝi	nest.0igxi.FIG	de	sich einnisten	einnisten
+nestiĝi	nest.0igxi.ZOO	fr	se nicher	nicher
+nestiĝi	nest.0igxi.ZOO	fr		nicher
+nestiĝi	nest.0igxi.ZOO	de	sich einnisten	einnisten
+nestiĝi	nest.0igxi.ZOO	en		nest
+nestita	nest.0ita	NULL	NULL	NULL
+nestita	nest.0ita.KOMP	NULL	NULL	NULL
+nesto	nest.0o	fr		nid
+nesto	nest.0o	en		nest
+nesto	nest.0o	de		Nest
+nesto	nest.0o.FIG	fr		nid
+nesto	nest.0o.FIG	en		nest
+nesto	nest.0o.FIG	de		Nest
+nesto	nest.0o.ZOO	en		nest
+nesto	nest.0o.ZOO	de		Nest
+nesto	nest.0o.ZOO	fr		nid
+Nestoro	nestor.0o	fr		Nestor
+Nestoro	nestor.0o	de		Nestor
+Nestoro	nestor.0o.MIT	fr		Nestor
+Nestoro	nestor.0o.MIT	de		Nestor
+Nestoro	nestor.0o.NOM	fr		Nestor
+Nestoro	nestor.0o.NOM	de		Nestor
+nestoro	nestor.n0o	NULL	NULL	NULL
+nestoro	nestor.n0o.plejagxulo	NULL	NULL	NULL
+neta	net.0a	NULL	NULL	NULL
+neta	net.0a.klara	en		neat
+neta	net.0a.klara	de		rein
+neta	net.0a.sentara	fr		net
+neta	net.0a.sentara	en		net
+neta	net.0a.sentara	de		netto
+neto	net.0o	de		Reinschrift
+neto	net.0o	fr		propre (subst.)
+neto	net.0o	en		final copy
+neto	net.0o	en		fair copy
+malneto	net.mal0o	de		Entwurf
+malneto	net.mal0o	de		Konzept
+malneto	net.mal0o	fr		brouillon (subst.)
+malneto	net.mal0o	en		first draft
+malneto	net.mal0o	en		rough draft
+malneto	net.mal0o	de		Kladde
+neŭralgio	neuxra.0o	fr		névralgie
+neŭralgio	neuxra.0o	en		neuralgia
+neŭralgio	neuxra.0o	de		Nervenschmerz
+neŭralgio	neuxra.0o	de		Neuralgie
+neŭrastenio	neuxra1.0o	fr		neurasthénie
+neŭrastenio	neuxra1.0o	en		neurasthenia
+neŭrastenio	neuxra1.0o	de		Nervenschwäche
+neŭrastenio	neuxra1.0o	de		Neurasthenie
+neŭrastenio	neuxra1.0o.MED	fr		neurasthénie
+neŭrastenio	neuxra1.0o.MED	en		neurasthenia
+neŭrastenio	neuxra1.0o.MED	de		Nervenschwäche
+neŭrastenio	neuxra1.0o.MED	de		Neurasthenie
+neŭrasteniulo	neuxra1.0ulo	fr	neurasthénique (subst.)	neurasthénique
+neŭrasteniulo	neuxra1.0ulo.MED	fr	neurasthénique (subst.)	neurasthénique
+neŭrologiisto	neuxro.0isto	fr		neurologue
+neŭrologiisto	neuxro.0isto	en		neurologist
+neŭrologiisto	neuxro.0isto	de		Nervenarzt
+neŭrologiisto	neuxro.0isto	de		Neurologe
+neŭrologiisto	neuxro.0isto.MED	fr		neurologue
+neŭrologiisto	neuxro.0isto.MED	en		neurologist
+neŭrologiisto	neuxro.0isto.MED	de		Nervenarzt
+neŭrologiisto	neuxro.0isto.MED	de		Neurologe
+neŭrologio	neuxro.0o	fr		neurologie
+neŭrologio	neuxro.0o	en		neurology
+neŭrologio	neuxro.0o	de		Neurologie
+neŭrologio	neuxro.0o.MED	fr		neurologie
+neŭrologio	neuxro.0o.MED	en		neurology
+neŭrologio	neuxro.0o.MED	de		Neurologie
+neŭrozo	neuxro1.0o	fr		névrose
+neŭrozo	neuxro1.0o	en		neurosis
+neŭrozo	neuxro1.0o	de		Neurose
+neŭrozo	neuxro1.0o.PSI	fr		névrose
+neŭrozo	neuxro1.0o.PSI	en		neurosis
+neŭrozo	neuxro1.0o.PSI	de		Neurose
+neŭrobiologio	neuxrobiologi.0o	fr		neurobiologie
+neŭrobiologio	neuxrobiologi.0o	en		neurobiology
+neŭrobiologio	neuxrobiologi.0o.SCI	fr		neurobiologie
+neŭrobiologio	neuxrobiologi.0o.SCI	en		neurobiology
+neŭrodegenero	neuxrodegener.0o	fr		neurodégénérescence
+neŭrodegenero	neuxrodegener.0o	en		neurodegeneration
+neŭrodegenero	neuxrodegener.0o.MED	fr		neurodégénérescence
+neŭrodegenero	neuxrodegener.0o.MED	en		neurodegeneration
+neŭrologo	neuxrolo.0o	fr		neurologue
+neŭrologo	neuxrolo.0o	en		neurologist
+neŭrologo	neuxrolo.0o	de		Nervenarzt
+neŭrologo	neuxrolo.0o	de		Neurologe
+neŭrologo	neuxrolo.0o.MED	fr		neurologue
+neŭrologo	neuxrolo.0o.MED	en		neurologist
+neŭrologo	neuxrolo.0o.MED	de		Nervenarzt
+neŭrologo	neuxrolo.0o.MED	de		Neurologe
+neŭrono	neuxron.0o	de		Neuron
+neŭrono	neuxron.0o	fr		neurone
+neŭrono	neuxron.0o	de		Nervenzelle
+neŭrono	neuxron.0o	en		neuron
+neŭrono	neuxron.0o.FIZL	de		Neuron
+neŭrono	neuxron.0o.FIZL	fr		neurone
+neŭrono	neuxron.0o.FIZL	de		Nervenzelle
+neŭrono	neuxron.0o.FIZL	en		neuron
+neŭrotransmisiilo	neuxrotransmisi.0ilo	fr		neurotransmetteur
+neŭrotransmisiilo	neuxrotransmisi.0ilo	en		neurotransmitter
+neŭrotransmisiilo	neuxrotransmisi.0ilo	de		Neurotransmitter
+neŭrotransmisiilo	neuxrotransmisi.0ilo.FIZL	fr		neurotransmetteur
+neŭrotransmisiilo	neuxrotransmisi.0ilo.FIZL	en		neurotransmitter
+neŭrotransmisiilo	neuxrotransmisi.0ilo.FIZL	de		Neurotransmitter
+Neŭŝatelo	neuxsxatel.0o	de		Neuenburg
+Neŭŝatelo	neuxsxatel.0o	fr		Neuchâtel
+Neŭtono	neuxto.0o	fr		Newton
+Neŭtono	neuxto.0o	de		Newton
+Neŭtono	neuxto.0o.PERS	fr		Newton
+Neŭtono	neuxto.0o.PERS	de		Newton
+Neŭtono	neuxto.0o.PERS	en	Newton (Isaac)	Newton
+neŭtono	neuxto.n0o	fr	newton (unité de mesure)	newton
+neŭtono	neuxto.n0o	de		Newton
+neŭtono	neuxto.n0o.FIZ	fr	newton (unité de mesure)	newton
+neŭtono	neuxto.n0o.FIZ	de		Newton
+neŭtra	neuxtr.0a	fr		neutre
+neŭtra	neuxtr.0a.KEM	fr		neutre
+neŭtra	neuxtr.0a.KEM	de		neutral
+neŭtra	neuxtr.0a.KEM	en		neutral
+neŭtra	neuxtr.0a.LIN	fr		neutre
+neŭtra	neuxtr.0a.LIN	de		sächlich
+neŭtra	neuxtr.0a.LIN	en		inanimate
+neŭtra	neuxtr.0a.LIN	en		neuter
+neŭtra	neuxtr.0a.MAT	fr		neutre
+neŭtra	neuxtr.0a.MAT	en		neutral
+neŭtra	neuxtr.0a.MAT	de		neutral
+neŭtraĵo	neuxtr.0aelemento	de	neutrales Element	Element
+neŭtra elemento	neuxtr.0aelemento	de	neutrales Element	Element
+neŭtraĵo	neuxtr.0aelemento	fr		élément neutre
+neŭtra elemento	neuxtr.0aelemento	fr		élément neutre
+neŭtraĵo	neuxtr.0aelemento	en	neutral element	element
+neŭtra elemento	neuxtr.0aelemento	en	neutral element	element
+neŭtriga elemento	neuxtr.0iganto	NULL	NULL	NULL
+neŭtriganto	neuxtr.0iganto	NULL	NULL	NULL
+neŭtriga elemento	neuxtr.0iganto.MAT	fr		élément symétrique
+neŭtriganto	neuxtr.0iganto.MAT	fr		élément symétrique
+neŭtriga elemento	neuxtr.0iganto.MAT	en	reciprocal element	element
+neŭtriganto	neuxtr.0iganto.MAT	en	reciprocal element	element
+neŭtriga elemento	neuxtr.0iganto.MAT	de	inverses Element	Element
+neŭtriganto	neuxtr.0iganto.MAT	de	inverses Element	Element
+neŭtrigebla	neuxtr.0igebla	NULL	NULL	NULL
+neŭtrigebla	neuxtr.0igebla.MAT	fr		symétrisable
+neŭtrigebla	neuxtr.0igebla.MAT	en		invertible
+neŭtrigebla	neuxtr.0igebla.MAT	de		invertierbar
+neŭtrala	neuxtr1.0a	fr		neutre
+neŭtrala	neuxtr1.0a	en		neutral
+neŭtrala	neuxtr1.0a	de		unparteiisch
+neŭtrala	neuxtr1.0a	de		unparteilich
+neŭtrala	neuxtr1.0a	de		neutral
+neŭtrala	neuxtr1.0a.KOMUNE	fr		neutre
+neŭtrala	neuxtr1.0a.KOMUNE	en		neutral
+neŭtrala	neuxtr1.0a.KOMUNE	de		unparteiisch
+neŭtrala	neuxtr1.0a.KOMUNE	de		unparteilich
+neŭtrala	neuxtr1.0a.KOMUNE	de		neutral
+neŭtraligi	neuxtr1.0igi	fr		neutraliser
+neŭtraligi	neuxtr1.0igi.KOMUNE	fr		neutraliser
+neŭtraligo	neuxtr1.0igo	fr		neutralisation
+neŭtraligo	neuxtr1.0igo.LIN	fr		neutralisation
+neŭtraligo	neuxtr1.0igo.LIN	en	phonetic reduction	reduction
+neŭtraligo	neuxtr1.0igo.LIN	de	Neutralisation (Phonologie)	Neutralisation
+neŭtraligo	neuxtr1.0igo.POL	fr		neutralisation
+neŭtralismo	neuxtr1.0ismo	fr		neutralisme
+neŭtralismo	neuxtr1.0ismo.ESP	fr		neutralisme
+neŭtralismo	neuxtr1.0ismo.POL	fr		neutralisme
+neŭtrono	neuxtr2.0o	fr		neutron
+neŭtrono	neuxtr2.0o	en		neutron
+neŭtrono	neuxtr2.0o	de		Neutron
+neŭtrino	neuxtr3.0o	fr		neutrino
+neŭtrino	neuxtr3.0o	en		neutrino
+neŭtrino	neuxtr3.0o	de		Neutrino
+nevino	nev.0ino	fr		nièce
+nevino	nev.0ino	en		niece
+nevino	nev.0ino	de		Nichte
+nevo	nev.0o	fr		neveu
+nevo	nev.0o	en		nephew
+nevo	nev.0o	de		Neffe
+Nevado	nevad.0o	en		Nevada
+Nevado	nevad.0o	fr		Névada
+Nevado	nevad.0o.GEOG	fr		Névada
+Nevado	nevad.0o.GEOG	en		Nevada
+neŭropteroj	nevrop.0oj	fr		névroptères
+nevropteroj	nevrop.0oj	fr		névroptères
+neŭropteroj	nevrop.0oj	de		Netzflügler
+nevropteroj	nevrop.0oj	de		Netzflügler
+nevuso	nevus.0o	fr		nævus
+nevuso	nevus.0o	fr		naevus
+nevuso	nevus.0o	fr		névus
+nevuso	nevus.0o	fr		grain de beauté
+nevuso	nevus.0o	de		Muttermal
+nevuso	nevus.0o	de		Leberfleck
+nevuso	nevus.0o.MED	fr		nævus
+nevuso	nevus.0o.MED	fr		naevus
+nevuso	nevus.0o.MED	fr		névus
+nevuso	nevus.0o.MED	fr		grain de beauté
+nevuso	nevus.0o.MED	de		Muttermal
+nevuso	nevus.0o.MED	de		Leberfleck
+nevuso	nevus.0o.MED	de		Pigmentnävus
+Nĝameno	ngxamen.0o	fr		N’Djaména
+Nĝameno	ngxamen.0o	en		N’Djamena
+Nĝameno	ngxamen.0o	de		N’Djamena
+Niagaro	niagar.0o	NULL	NULL	NULL
+Niagaro	niagar.0o.rivero	fr		Niagara
+Niagaro	niagar.0o.rivero	en		Niagara
+Niagaro	niagar.0o.rivero	de		Niagara
+Niameo	niame.0o	fr		Niamey
+Niameo	niame.0o	en		Niamey
+Niameo	niame.0o	de		Niamey
+Nibelungoj	nibelung.0oj	de		Nibelungen
+Nico	nic.0o	en		Nice
+Nico	nic.0o	de		Nizza
+Nico	nic.0o	fr		Nice
+Niceo	nice.0o	fr		Nicée
+Niceo	nice.0o	en		Nicaea
+Niceo	nice.0o	de		Nikäa
+niĉo	nicx.0o	en		nook
+niĉo	nicx.0o	en		niche
+niĉo	nicx.0o	de		Nische
+niĉo	nicx.0o.ARKI	en		niche
+niĉo	nicx.0o.ARKI	en		nook
+niĉo	nicx.0o.ARKI	de		Nische
+niĉo	nicx.0o.ARKI	fr	niche (architecture)	niche
+niĉo	nicx.0o.EKON	en		niche
+niĉo	nicx.0o.EKON	en		nook
+niĉo	nicx.0o.EKON	de		Nische
+niĉo	nicx.0o.EKON	fr	niche (économie)	niche
+niĉo	nicx.0o.EKON	de		Marktnische
+niĉirenismo	nicxiren.0ismo	NULL	NULL	NULL
+niĉirenismo	nicxiren.0ismo.BUD	NULL	NULL	NULL
+Niĉireno	nicxiren.0o	fr		Nichiren
+Niĉireno	nicxiren.0o	de		Nichiren
+Niĉireno	nicxiren.0o.PERS	fr		Nichiren
+Niĉireno	nicxiren.0o.PERS	de		Nichiren
+nielo	niel.0o	en		niello
+nielo	niel.0o	de		Niello
+nifo	nif.0o	fr		ovni
+nifo	nif.0o	en		ufo
+nifo	nif.0o	de		Ufo
+nifo	nif.0o.MET	fr		ovni
+nifo	nif.0o.MET	en		ufo
+nifo	nif.0o.MET	de		Ufo
+nigelo	nigel.0o	en		nigella
+nigelo	nigel.0o	de		Jungfer im Grünen
+nigelo	nigel.0o	de		Schwarzkümmel
+nigelo	nigel.0o	fr		nigelle
+nigelo	nigel.0o.BOT	de		Jungfer im Grünen
+nigelo	nigel.0o.BOT	de		Schwarzkümmel
+nigelo	nigel.0o.BOT	fr		nigelle
+nigelo	nigel.0o.BOT	en		nigella
+nigelo	nigel.0o.spico	de		Jungfer im Grünen
+nigelo	nigel.0o.spico	de		Schwarzkümmel
+nigelo	nigel.0o.spico	en		kalonji
+nigelo	nigel.0o.spico	en		black cumin
+nigelo	nigel.0o.spico	fr		nigelle
+nigelo	nigel.0o.spico	en		nigella
+nigraĵo	nigr.0ajxo	en		black
+nigraĵo	nigr.0ajxo	de		Schwarzes
+nigraĵo	nigr.0ajxo.KOL	en		black
+nigraĵo	nigr.0ajxo.KOL	de		Schwarzes
+nigrigi	nigr.0igi	NULL	NULL	NULL
+nigrigi	nigr.0igi.FIG_malbonfamigi	fr	noircir (calomnier)	noircir
+nigrigi	nigr.0igi.FIG_malbonfamigi	fr		médire de
+nigrigi	nigr.0igi.FIG_malbonfamigi	fr		calomnier
+nigrigi	nigr.0igi.FIG_malbonfamigi	de		anschwärzen
+nigrigi	nigr.0igi.FIG_malgajigi	fr	noircir (attrister)	noircir
+nigrigi	nigr.0igi.FIG_malgajigi	fr		attrister
+nigrigi	nigr.0igi.FIG_malgajigi	de		verdüstern
+nigrigi	nigr.0igi.KOL	fr		noircir
+nigrigi	nigr.0igi.KOL	en		blacken
+nigrigi	nigr.0igi.KOL	de		schwärzen
+nigro	nigr.0o	fr	noir (subst. couleur)	noir
+nigro	nigr.0o	en		black
+nigro	nigr.0o	de		Schwärze
+nigro	nigr.0o.KOL	fr	noir (subst. couleur)	noir
+nigro	nigr.0o.KOL	en		black
+nigro	nigr.0o.KOL	de		Schwärze
+nigro	nigr.0o.ludanto	fr	noir (subst. couleur)	noir
+nigro	nigr.0o.ludanto	en		black
+nigro	nigr.0o.ludanto	de		Schwärze
+nigrulo	nigr.0ulo	de		Neger
+nigrulo	nigr.0ulo	de		Schwarzer
+nigrulo	nigr.0ulo	fr	noir (subst. personne)	noir
+nigrulo	nigr.0ulo	en		negro
+nigrulo	nigr.0ulo	fr		nègre
+nigrulo	nigr.0ulo	en		black
+nigrulo	nigr.0ulo	en		black person
+nigrulo	nigr.0ulo.ETN	de		Neger
+nigrulo	nigr.0ulo.ETN	de		Schwarzer
+nigrulo	nigr.0ulo.ETN	fr	noir (subst. personne)	noir
+nigrulo	nigr.0ulo.ETN	en		negro
+nigrulo	nigr.0ulo.ETN	fr		nègre
+nigrulo	nigr.0ulo.ETN	en		black
+nigrulo	nigr.0ulo.ETN	en		black person
+Niĝero	nigxer.N0o	NULL	NULL	NULL
+Niĝero	nigxer.N0o.lando	fr		République du Niger
+Niĝero	nigxer.N0o.lando	fr	Niger (pays)	Niger
+Niĝero	nigxer.N0o.lando	en		Niger
+Niĝero	nigxer.N0o.lando	de		Niger
+Niĝero	nigxer.N0o.rivero	fr		Djoliba
+Niĝero	nigxer.N0o.rivero	fr	Niger (fleuve)	Niger
+Niĝero	nigxer.N0o.rivero	de	Niger (Fluss)	Niger
+Niĝerio	nigxeri.N0o	NULL	NULL	NULL
+Niĝerio	nigxeri.N0o.GEOG	fr		République fédérale du Nigeria
+Niĝerio	nigxeri.N0o.GEOG	fr		Nigeria
+Niĝerio	nigxeri.N0o.GEOG	en		Nigeria
+Niĝerio	nigxeri.N0o.GEOG	de		Nigeria
+nihilismo	nihili.0o	fr		nihilisme
+nihilismo	nihili.0o	en		nihilism
+nihilismo	nihili.0o	de		Nihilismus
+nihilisto	nihili1.0o	fr		nihiliste
+nihilisto	nihili1.0o	en		nihilist
+nihilisto	nihili1.0o	de		Nihilist
+Niko	nik.0o	NULL	NULL	NULL
+Niko	nik.0o.nomo	fr		Niko
+Niko	nik.0o.nomo	fr		Nico
+Niko	nik.0o.nomo	de		Klaus
+Niko	nik.0o.nomo	de		Niko
+nikabo	nikab.0o	de		Niqab
+nikabo	nikab.0o	de		Nikab
+nikabo	nikab.0o	de		Gesichtsschleier
+nikabo	nikab.0o	fr		niqâb
+nikabo	nikab.0o	en		niqab
+nikabo	nikab.0o.TEKS	de		Niqab
+nikabo	nikab.0o.TEKS	de		Nikab
+nikabo	nikab.0o.TEKS	de		Gesichtsschleier
+nikabo	nikab.0o.TEKS	fr		niqâb
+nikabo	nikab.0o.TEKS	en		niqab
+nikaragva	nikaragv.0a	fr	nicaraguayenne (adj.)	nicaraguayenne
+nikaragva	nikaragv.0a	fr		nicaraguayen
+nikaragva	nikaragv.0a	en		Nicaraguan
+nikaragva	nikaragv.0a	de		nicaraguanisch
+nikaragvano	nikaragv.0ano	fr	Nicaraguayenne (subst.)	Nicaraguayenne
+nikaragvano	nikaragv.0ano	fr		Nicaraguayen
+nikaragvano	nikaragv.0ano	en		Nicaraguan
+nikaragvano	nikaragv.0ano	de		Nicaraguanerin
+nikaragvano	nikaragv.0ano	de		Nicaraguaner
+Nikaragvo	nikaragv.N0o	fr		République du Nicaragua
+Nikaragvo	nikaragv.N0o	fr		Nicaragua
+Nikaragvo	nikaragv.N0o	en		Nicaragua
+Nikaragvo	nikaragv.N0o	de		Nicaragua
+Nikaragvo	nikaragv.N0o.GEOG	fr		République du Nicaragua
+Nikaragvo	nikaragv.N0o.GEOG	fr		Nicaragua
+Nikaragvo	nikaragv.N0o.GEOG	en		Nicaragua
+Nikaragvo	nikaragv.N0o.GEOG	de		Nicaragua
+nikeli	nikel.0i	fr		nickeler
+nikeli	nikel.0i	en	nickel plate	nickel
+nikeli	nikel.0i	de		vernickeln
+nikelo	nikel.0o	fr		nickel
+nikelo	nikel.0o	en		nickel
+nikelo	nikel.0o	de		Nickel
+Nikodemo	nikodem.0o	fr		Nicodème
+Nikodemo	nikodem.0o	de		Nikodemus
+Nikodemo	nikodem.0o	en		Nicodemus
+Nikĉjo	nikola.0cxjo	de	Niko (Kosename)	Niko
+Nikoĉjo	nikola.0cxjo	de	Niko (Kosename)	Niko
+Nikolĉjo	nikola.0cxjo	de	Niko (Kosename)	Niko
+Niĉjo	nikola.0cxjo	fr		Nick
+Nikĉjo	nikola.0cxjo	fr		Nick
+Nikoĉjo	nikola.0cxjo	fr		Nick
+Nikolĉjo	nikola.0cxjo	fr		Nick
+Niĉjo	nikola.0cxjo	en		Nick
+Nikĉjo	nikola.0cxjo	en		Nick
+Nikoĉjo	nikola.0cxjo	en		Nick
+Nikolĉjo	nikola.0cxjo	en		Nick
+Niĉjo	nikola.0cxjo	de	Niko (Kosename)	Niko
+Nikolao	nikola.0o	en		Nicolas
+Nikolao	nikola.0o	de		Nikolaus
+Nikolao	nikola.0o	fr		Nicolas
+Nikolao	nikola.0o	en		Nicholas
+Sankta Nikolao	nikola.Sankta_0o	de		Weihnachtsmann
+Sankta Nikolao	nikola.Sankta_0o	de	Sankt Nikolaus	Nikolaus
+nikotiano	nikoti.0o	de		Tabakpflanze
+nikotino	nikoti1.0o	fr		nicotine
+nikotino	nikoti1.0o	en		nicotine
+nikotino	nikoti1.0o	de		Nikotin
+nikotino	nikoti1.0o.KEM	fr		nicotine
+nikotino	nikoti1.0o.KEM	en		nicotine
+nikotino	nikoti1.0o.KEM	de		Nikotin
+Nikosio	nikozi.0o	fr		Nikosie
+Nikozio	nikozi.0o	fr		Nikosie
+Nikosio	nikozi.0o	en		Nikosia
+Nikozio	nikozi.0o	en		Nikosia
+Nikosio	nikozi.0o	de		Nikosia
+Nikozio	nikozi.0o	de		Nikosia
+niksino	niks.0ino	fr		nixe
+niksino	niks.0ino.MIT	fr		nixe
+nikso	niks.0o	fr		nixe
+nikso	niks.0o	de		Meerjungfrau
+nikso	niks.0o	de		Nixe
+nikso	niks.0o.MIT	fr		nixe
+nikso	niks.0o.MIT	de		Meerjungfrau
+nikso	niks.0o.MIT	de		Nixe
+niktereŭto	niktereuxt.0o	fr		chien viverrin
+niktereŭto	niktereuxt.0o	en		raccoon dog
+niktereŭto	niktereuxt.0o	de		Enok
+niktereŭto	niktereuxt.0o	de		Marderhund
+niktereŭto	niktereuxt.0o.ZOO	fr		chien viverrin
+niktereŭto	niktereuxt.0o.ZOO	en		raccoon dog
+niktereŭto	niktereuxt.0o.ZOO	de		Enok
+niktereŭto	niktereuxt.0o.ZOO	de		Marderhund
+niktito	niktit.0o	fr		membrane nictitante
+niktito	niktit.0o.ZOO	fr		membrane nictitante
+Blanka Nilo	nil.Blanka0o	fr	Nil Blanc	Nil
+Blanka Nilo	nil.Blanka0o	en	White Nile	Nile
+Blanka Nilo	nil.Blanka0o	de	Weißer Nil	Nil
+Blua Nilo	nil.Blua0o	fr	Nil Bleu	Nil
+Blua Nilo	nil.Blua0o	en	Blue Nile	Nile
+Blua Nilo	nil.Blua0o	de	Blauer Nil	Nil
+Nilo	nil.N0o	fr		Nil
+Nilo	nil.N0o	en		Nile
+Nilo	nil.N0o	de		Nil
+nilono	nilon.0o	fr		nylon
+nilono	nilon.0o	en		nylon
+nilono	nilon.0o	de		Nylon
+nilono	nilon.0o.TEKS	fr		nylon
+nilono	nilon.0o.TEKS	en		nylon
+nilono	nilon.0o.TEKS	de		Nylon
+nilpotenta	nilpot.0a	fr		nilpotent
+nilpotenta	nilpot.0a	en		nilpotent
+nilpotenta	nilpot.0a	de		nilpotent
+nimbo	nimb.0o	fr	auréole (lumière, prestige)	auréole
+nimbo	nimb.0o	fr		nimbe
+nimbo	nimb.0o	en		nimbus
+nimbo	nimb.0o	en		halo
+nimbo	nimb.0o	de		Nimbus
+nimbo	nimb.0o.auxreolo	fr		nimbe
+nimbo	nimb.0o.auxreolo	en		nimbus
+nimbo	nimb.0o.auxreolo	en		halo
+nimbo	nimb.0o.auxreolo	de		Nimbus
+nimbo	nimb.0o.auxreolo	fr	auréole (lumière, prestige)	auréole
+nimbuso	nimbus.0o	fr		nimbus
+nimbuso	nimbus.0o	en	rain cloud	cloud
+nimbuso	nimbus.0o	en		nimbus
+nimbuso	nimbus.0o	de		Schleierwolke
+nimbuso	nimbus.0o	de		Regenwolke
+nimbuso	nimbus.0o	de		Nimbus
+nimbuso	nimbus.0o.MET	fr		nimbus
+nimbuso	nimbus.0o.MET	en	rain cloud	cloud
+nimbuso	nimbus.0o.MET	en		nimbus
+nimbuso	nimbus.0o.MET	de		Schleierwolke
+nimbuso	nimbus.0o.MET	de		Regenwolke
+nimbuso	nimbus.0o.MET	de		Nimbus
+Nimego	nimeg.N0o	fr		Nimègue
+Nimego	nimeg.N0o	en		Nimeguen
+Nimego	nimeg.N0o	de		Nimwegen
+nimfo	nimf.0o	NULL	NULL	NULL
+nimfo	nimf.0o.ANA	fr	petite lèvre (ana.)	petite lèvre
+nimfo	nimf.0o.ANA	en		labia minora
+nimfo	nimf.0o.ANA	de	kleine Schamlippe	Schamlippe
+nimfo	nimf.0o.MIT	fr	nymphe (myth.)	nymphe
+nimfo	nimf.0o.MIT	en		nymph
+nimfo	nimf.0o.MIT	de		Nymphe
+nimfo	nimf.0o.ZOO	fr	nymphe (biol.)	nymphe
+nimfo	nimf.0o.ZOO	en		nymph
+nimfo	nimf.0o.ZOO	de		Nymphe
+nimfeo	nimfe.0o	fr		lotus
+nimfeo	nimfe.0o	en		water lily
+nimfeo	nimfe.0o	en		waterlily
+nimfeo	nimfe.0o	en		white water lily
+nimfeo	nimfe.0o	en		white waterlily
+nimfeo	nimfe.0o	de		Seerose
+nimfeacoj	nimfea.0oj	de		Seerosengewächse
+nimfeacoj	nimfea.0oj	fr		Nymphéacées
+nimfeacoj	nimfea.0oj	en		water lilies
+Nineveo	niniv.0o	NULL	NULL	NULL
+Ninivo	niniv.0o	NULL	NULL	NULL
+Nineveo	niniv.0o.antikva_urbo	fr		Ninive
+Ninivo	niniv.0o.antikva_urbo	fr		Ninive
+Nineveo	niniv.0o.antikva_urbo	en		Niniveh
+Ninivo	niniv.0o.antikva_urbo	en		Niniveh
+Nineveo	niniv.0o.antikva_urbo	de		Ninive
+Ninivo	niniv.0o.antikva_urbo	de		Ninive
+ninĵo	ninjx.0o	fr		ninja
+ninĵo	ninjx.0o	de		Ninja
+niobo	niob.0o	fr		niobium
+niobo	niob.0o	en		niobium
+niobo	niob.0o	de		Niob
+niobo	niob.0o.KEM	fr		niobium
+niobo	niob.0o.KEM	en		niobium
+niobo	niob.0o.KEM	de		Niob
+nipao	nipa.0o	fr		nipa
+nipao	nipa.0o	de		Nipapalme
+nipao	nipa.0o.BOT	fr		nipa
+nipao	nipa.0o.BOT	de		Nipapalme
+Nirvano	nirvan.0o	de		Nirvana
+Nirvano	nirvan.0o	fr		nirvana
+Nirvano	nirvan.0o	en		nirvana
+Nirvano	nirvan.0o.BUD	de		Nirvana
+Nirvano	nirvan.0o.BUD	fr		nirvana
+Nirvano	nirvan.0o.BUD	en		nirvana
+Niso	nis.0o	NULL	NULL	NULL
+Niso	nis.0o.rivero	fr		Neisse
+Niso	nis.0o.rivero	en		Neisse
+Niso	nis.0o.rivero	de		Neiße
+niti	nit.0i	de		nieten
+niti	nit.0i	fr	river (deux plaques)	river
+niti	nit.0i	fr		riveter
+niti	nit.0i	en	to rivet	rivet
+niti	nit.0i.TEK	de		nieten
+niti	nit.0i.TEK	fr	river (deux plaques)	river
+niti	nit.0i.TEK	fr		riveter
+niti	nit.0i.TEK	en	to rivet	rivet
+nitjunto	nit.0junto	en		rivet(ed) joint
+nitjunto	nit.0junto	de		Nietverbindung
+nitjunto	nit.0junto.TEK	en		rivet(ed) joint
+nitjunto	nit.0junto.TEK	de		Nietverbindung
+nitnajlo	nit.0najlo	de		Nietnagel
+nitnajlo	nit.0najlo	de		Blindniete
+nitnajlo	nit.0najlo.TEK	de		Nietnagel
+nitnajlo	nit.0najlo.TEK	de		Blindniete
+nito	nit.0o	fr		rivet
+nito	nit.0o	en		rivet
+nito	nit.0o	de		Niet(e)
+nito	nit.0o.TEK	fr		rivet
+nito	nit.0o.TEK	en		rivet
+nito	nit.0o.TEK	de		Niet(e)
+nitro...	nitr.0	fr		nitro-
+nitr...	nitr.0	fr		nitro-
+nitro...	nitr.0	de		Nitro-
+nitr...	nitr.0	de		Nitro-
+nitro...	nitr.0.KEM	fr		nitro-
+nitr...	nitr.0.KEM	fr		nitro-
+nitro...	nitr.0.KEM	de		Nitro-
+nitr...	nitr.0.KEM	de		Nitro-
+nitrata acido	nitrat.0a_acido	fr	acide nitrique	nitrique
+nitrata acido	nitrat.0a_acido	en		azotic acid
+nitrata acido	nitrat.0a_acido	de		Scheidewasser
+nitrata acido	nitrat.0a_acido	de		Salpetersäure
+nitrato	nitrat.0o	fr		nitrate
+nitrato	nitrat.0o	en		nitrate
+nitrato	nitrat.0o	de		Nitrat
+nitrido	nitrid.0o	fr		nitrure
+nitrido	nitrid.0o	en		nitrite
+nitrido	nitrid.0o	de		Nitrid
+nitrita acido	nitrit.0a_acido	fr		acide nitreux
+nitrita acido	nitrit.0a_acido	en		nitrous acid
+nitrita acido	nitrit.0a_acido	de		salpetrige Säure
+nitrito	nitrit.0o	fr		nitrite
+nitrito	nitrit.0o	en		nitrite
+nitrito	nitrit.0o	de		Nitrit
+nitrogeno	nitrog.0o	fr		azote
+nitrogeno	nitrog.0o	en		nitrogen
+nitrogeno	nitrog.0o	de		Stickstoff
+nitrogeno	nitrog.0o.KEM	fr		azote
+nitrogeno	nitrog.0o.KEM	en		nitrogen
+nitrogeno	nitrog.0o.KEM	de		Stickstoff
+nitroglicerino	nitrog1.0o	fr		nitroglycérine
+nitroglicerino	nitrog1.0o	en		nitroglycerin
+nitroglicerino	nitrog1.0o	de		Nitroglyzerin
+niveli	nivel.0i	fr		niveler
+niveli	nivel.0i.GEOD	fr		niveler
+niveli	nivel.0i.GEOD	en	to level	level
+niveli	nivel.0i.GEOD	de		nivellieren
+niveli	nivel.0i.GEOD	de		einebnen
+niveli	nivel.0i.horizontaligi	fr		niveler
+nivelilo	nivel.0ilo	fr	niveau (instrument)	niveau
+nivelilo	nivel.0ilo	de		Wasserwaage
+nivelilo	nivel.0ilo.TEK	fr	niveau (instrument)	niveau
+nivelilo	nivel.0ilo.TEK	de		Wasserwaage
+nivelo	nivel.0o	fr		niveau
+nivelo	nivel.0o	en		level
+nivelo	nivel.0o.FIG	fr		niveau
+nivelo	nivel.0o.FIG	en		level
+nivelo	nivel.0o.ebeno	fr		niveau
+nivelo	nivel.0o.ebeno	en		level
+nivelo	nivel.0o.ebeno	de		Niveau
+nivelo	nivel.0o.ebeno	de		Höhe
+nivelo	nivel.0o.ebeno	de		Spiegel
+nivelo	nivel.0o.ebeno	de		Stand
+nivelo	nivel.0o.ebeno	de		Ebene
+alniveligi	nivel.al0igi	fr		niveler
+altnivela	nivel.alt0a	NULL	NULL	NULL
+altnivela	nivel.alt0a.FIG	fr	de qualité	qualité
+altnivela	nivel.alt0a.FIG	fr		de haut niveau
+oceannivelo	nivel.ocean0o	fr		altitude
+marnivelo	nivel.ocean0o	fr		altitude
+oceannivelo	nivel.ocean0o	en		sea level
+marnivelo	nivel.ocean0o	en		sea level
+oceannivelo	nivel.ocean0o	de		Meeresspiegel
+marnivelo	nivel.ocean0o	de		Meeresspiegel
+oceannivelo	nivel.ocean0o.GEOG	fr		altitude
+marnivelo	nivel.ocean0o.GEOG	fr		altitude
+oceannivelo	nivel.ocean0o.GEOG	en		sea level
+marnivelo	nivel.ocean0o.GEOG	en		sea level
+oceannivelo	nivel.ocean0o.GEOG	de		Meeresspiegel
+marnivelo	nivel.ocean0o.GEOG	de		Meeresspiegel
+samnivela	nivel.sam0a	fr		de même niveau
+samnivela	nivel.sam0a.samalta	fr		de même niveau
+samnivela	nivel.sam0a.samranga	fr		de même niveau
+vivnivelo	nivel.viv0o	fr		niveau de vie
+vivnivelo	nivel.viv0o.EKON	fr		niveau de vie
+nizo	niz.0o	fr	épervier (oiseau)	épervier
+nizo	niz.0o	en		sparrow-hawk
+nizo	niz.0o	de		Sperber
+-nj	nj.0	fr	-ette (diminutif féminin)	-ette
+-nj	nj.0	en		diminutive feminine suffix of endearment (-y angle estas ambaŭseksa)
+-nj	nj.0	de	-i	i
+avinjo	nj.avi0o	fr		mémé
+avinjo	nj.avi0o	fr		mamie
+avinjo	nj.avi0o	en		granny
+avinjo	nj.avi0o	de		Omi
+avinjo	nj.avi0o.FAM	fr		mamie
+avinjo	nj.avi0o.FAM	en		granny
+avinjo	nj.avi0o.FAM	de		Omi
+avinjo	nj.avi0o.FAM	fr		mémé
+injo	nj.i0o	NULL	NULL	NULL
+injo	nj.i0o.ino	NULL	NULL	NULL
+onjo	nj.o0o	fr	tatie (tante)	tatie
+onjo	nj.o0o	fr	tata (tante)	tata
+onjo	nj.o0o.FAM	fr	tatie (tante)	tatie
+onjo	nj.o0o.FAM	fr	tata (tante)	tata
+panjo	nj.pa0o	fr		maman
+panjo	nj.pa0o	en		mommy
+panjo	nj.pa0o.FAM	fr		maman
+panjo	nj.pa0o.FAM	en		mommy
+vanjo	nj.va0o	fr		nounou
+vanjo	nj.va0o.FAM	fr		nounou
+noo	no.0o	fr		nô
+noo	no.0o	de		No-Theater
+noo	no.0o.TEA	fr		nô
+noo	no.0o.TEA	de		No-Theater
+Noaĥo	noahx.0o	fr		Noé
+Noaĥo	noahx.0o	en		Noah
+Noaĥo	noahx.0o	de		Noah
+Noaĥo	noahx.0o.NOM	fr		Noé
+Noaĥo	noahx.0o.NOM	en		Noah
+Noaĥo	noahx.0o.NOM	de		Noah
+nobela	nobel.0a	de		adlig
+nobela	nobel.0a	de		adelig
+nobela	nobel.0a	fr	noble (adj.)	noble
+nobela	nobel.0a	fr	aristocrate (adj.)	aristocrate
+nobela	nobel.0a	en		noble
+nobela	nobel.0a	de	von edler Herkunft	Herkunft
+nobela	nobel.0a	de	adligen Geblüts	Geblüts
+nobela	nobel.0a	de		blaublütig
+nobela	nobel.0a.POL	de		adlig
+nobela	nobel.0a.POL	de		adelig
+nobela	nobel.0a.POL	fr	noble (adj.)	noble
+nobela	nobel.0a.POL	fr	aristocrate (adj.)	aristocrate
+nobela	nobel.0a.POL	en		noble
+nobela	nobel.0a.POL	de	von edler Herkunft	Herkunft
+nobela	nobel.0a.POL	de	adligen Geblüts	Geblüts
+nobela	nobel.0a.POL	de		blaublütig
+nobelaro	nobel.0aro	fr	noblesse (groupe social)	noblesse
+nobelaro	nobel.0aro	fr	aristocratie (groupe social)	aristocratie
+nobelaro	nobel.0aro	en		nobility
+nobelaro	nobel.0aro	de	die Adligen	Adligen
+nobelaro	nobel.0aro	de		Adelsstand
+nobelaro	nobel.0aro.POL	fr	noblesse (groupe social)	noblesse
+nobelaro	nobel.0aro.POL	fr	aristocratie (groupe social)	aristocratie
+nobelaro	nobel.0aro.POL	en		nobility
+nobelaro	nobel.0aro.POL	de	die Adligen	Adligen
+nobelaro	nobel.0aro.POL	de		Adelsstand
+nobeleco	nobel.0eco	fr	noblesse (statut)	noblesse
+nobeleco	nobel.0eco	en		nobility
+nobeleco	nobel.0eco	de	edle Gesinnung	Gesinnung
+nobeleco	nobel.0eco	de		Adel
+nobeleco	nobel.0eco.POL	fr	noblesse (statut)	noblesse
+nobeleco	nobel.0eco.POL	en		nobility
+nobeleco	nobel.0eco.POL	de	edle Gesinnung	Gesinnung
+nobeleco	nobel.0eco.POL	de		Adel
+nobelo	nobel.0o	fr	noble (subst.)	noble
+nobelo	nobel.0o	fr	aristocrate (subst.)	aristocrate
+nobelo	nobel.0o	en		nobleman
+nobelo	nobel.0o	en		noble
+nobelo	nobel.0o	de		Edelmann
+nobelo	nobel.0o	de		Adliger
+nobelo	nobel.0o.POL	fr	noble (subst.)	noble
+nobelo	nobel.0o.POL	fr	aristocrate (subst.)	aristocrate
+nobelo	nobel.0o.POL	en		nobleman
+nobelo	nobel.0o.POL	en		noble
+nobelo	nobel.0o.POL	de		Edelmann
+nobelo	nobel.0o.POL	de		Adliger
+nobelio	nobeli.0o	en		nobelium
+nobelio	nobeli.0o	de		Nobelium
+nobelio	nobeli.0o	fr		nobélium
+nobla	nobl.0a	fr		noble
+nobla	nobl.0a	fr		élevé
+nobla	nobl.0a	en		honorable
+nobla	nobl.0a	en		great
+nobla	nobl.0a	en		noble
+nobla	nobl.0a	de		edel
+nobla	nobl.0a.KEM	fr		noble
+nobla	nobl.0a.KEM	fr		élevé
+nobla	nobl.0a.KEM	en		honorable
+nobla	nobl.0a.KEM	en		great
+nobla	nobl.0a.KEM	en		noble
+nobla	nobl.0a.KEM	de		edel
+nobla	nobl.0a.ago	de	hohe (Ideale usw.)	hohe
+nobla	nobl.0a.ago	fr		noble
+nobla	nobl.0a.ago	fr		élevé
+nobla	nobl.0a.ago	en		honorable
+nobla	nobl.0a.ago	en		great
+nobla	nobl.0a.ago	en		noble
+nobla	nobl.0a.ago	de		vornehm
+nobla	nobl.0a.ago	de		edel
+nobla	nobl.0a.ajxo	fr		noble
+nobla	nobl.0a.ajxo	fr		élevé
+nobla	nobl.0a.ajxo	en		honorable
+nobla	nobl.0a.ajxo	en		great
+nobla	nobl.0a.ajxo	en		noble
+nobla	nobl.0a.ajxo	de		edel
+nobla	nobl.0a.iu	fr		noble
+nobla	nobl.0a.iu	fr		élevé
+nobla	nobl.0a.iu	en		honorable
+nobla	nobl.0a.iu	en		great
+nobla	nobl.0a.iu	en		noble
+nobla	nobl.0a.iu	de		edel
+nobla	nobl.0a.iu	de		vornehm
+nobla	nobl.0a.iu	de		edelmütig
+noblaĵo	nobl.0ajxo	de	gute Tat	Tat
+noblaĵo	nobl.0ajxo	fr		bonne action
+noblaĵo	nobl.0ajxo.PSI	de	gute Tat	Tat
+noblaĵo	nobl.0ajxo.PSI	fr		bonne action
+nobligi	nobl.0igi	fr		ennoblir
+nobligi	nobl.0igi	fr		élever
+nobligi	nobl.0igi	de		veredeln
+nobligi	nobl.0igi.PSI	fr		ennoblir
+nobligi	nobl.0igi.PSI	fr		élever
+nobligi	nobl.0igi.PSI	de		veredeln
+noblulo	nobl.0ulo	fr		homme de bien
+noblulo	nobl.0ulo	de		Edelmann
+noblulo	nobl.0ulo.PSI	fr		homme de bien
+noblulo	nobl.0ulo.PSI	de		Edelmann
+malnobla	nobl.mal0a	fr		vil
+malnobla	nobl.mal0a	fr		ignoble
+malnobla	nobl.mal0a	en		vile
+malnobla	nobl.mal0a	en		base
+malnobla	nobl.mal0a	en		ignoble
+malnobla	nobl.mal0a	de		schändlich
+malnobla	nobl.mal0a	de		unwürdig
+malnobla	nobl.mal0a	de		unedel
+malnobla	nobl.mal0a.PSI	fr		vil
+malnobla	nobl.mal0a.PSI	fr		ignoble
+malnobla	nobl.mal0a.PSI	en		vile
+malnobla	nobl.mal0a.PSI	en		base
+malnobla	nobl.mal0a.PSI	en		ignoble
+malnobla	nobl.mal0a.PSI	de		schändlich
+malnobla	nobl.mal0a.PSI	de		unwürdig
+malnobla	nobl.mal0a.PSI	de		unedel
+malnoblaĵo	nobl.mal0ajxo	fr		bassesse
+malnoblaĵo	nobl.mal0ajxo	fr		turpitude
+malnoblaĵo	nobl.mal0ajxo.PSI	fr		bassesse
+malnoblaĵo	nobl.mal0ajxo.PSI	fr		turpitude
+malnobligi	nobl.mal0igi	fr		pervertir
+malnobligi	nobl.mal0igi	fr		avilir
+malnobligi	nobl.mal0igi.PSI	fr		pervertir
+malnobligi	nobl.mal0igi.PSI	fr		avilir
+malnoblulo	nobl.mal0ulo	en		scoundrel
+malnoblulo	nobl.mal0ulo	fr		scélérat
+malnoblulo	nobl.mal0ulo	fr		personne ignoble
+malnoblulo	nobl.mal0ulo	en		knave
+malnoblulo	nobl.mal0ulo	en		scurvy dog
+malnoblulo	nobl.mal0ulo.PSI	fr		scélérat
+malnoblulo	nobl.mal0ulo.PSI	fr		personne ignoble
+malnoblulo	nobl.mal0ulo.PSI	en		knave
+malnoblulo	nobl.mal0ulo.PSI	en		scurvy dog
+malnoblulo	nobl.mal0ulo.PSI	en		scoundrel
+noci	noc.0i	fr		nuire
+noci	noc.0i	en		harm
+noci	noc.0i	en		be injurious to
+noci	noc.0i	de		schaden
+noci	noc.0i.malutili	fr		nuire
+noci	noc.0i.malutili	en		harm
+noci	noc.0i.malutili	en		be injurious to
+noci	noc.0i.malutili	de		schaden
+nociaro	noci.0aro	de		Begriffssystem
+nocio	noci.0o	fr		notion
+nocio	noci.0o	de	klar definierte Idee	Idee
+nocio	noci.0o	de		Begriff
+nocio	noci.0o	de		Notion
+subnocio	noci.sub0o	en		subnotion
+subnocio	noci.sub0o	de		Unterbegriff
+supernocio	noci.super0o	en		supernotion
+supernocio	noci.super0o	de		Oberbegriff
+noĉi	nocx.0i	fr	faire une encoche	encoche
+noĉi	nocx.0i	fr		cocher
+noĉi	nocx.0i.KOMUNE	fr	faire une encoche	encoche
+noĉi	nocx.0i.KOMUNE	fr		cocher
+noĉo	nocx.0o	fr	coche (encoche)	coche
+noĉo	nocx.0o	fr		encoche
+noĉo	nocx.0o.KOMUNE	fr	coche (encoche)	coche
+noĉo	nocx.0o.KOMUNE	fr		encoche
+nodi	nod.0i	fr		nouer
+nodi	nod.0i	de		verknoten
+nodi	nod.0i.FIG	fr		nouer
+nodi	nod.0i.FIG	de		verknoten
+nodi	nod.0i.KOMUNE	fr		nouer
+nodi	nod.0i.KOMUNE	de		verknoten
+nodo	nod.0o	fr		nœud
+nodo	nod.0o	en		knot
+nodo	nod.0o	de		Knoten
+nodo	nod.0o.MEZ	fr		nœud
+nodo	nod.0o.MEZ	en		knot
+nodo	nod.0o.MEZ	de		Knoten
+nodo	nod.0o.MEZ	en		knot
+nodo	nod.0o.TEKS	fr		nœud
+nodo	nod.0o.TEKS	en		knot
+nodo	nod.0o.TEKS	de		Knoten
+nodo	nod.0o.centro	fr		nœud
+nodo	nod.0o.centro	en		knot
+nodo	nod.0o.centro	de		Knoten
+nodo	nod.0o.implikajxo	fr		nœud
+nodo	nod.0o.implikajxo	en		knot
+nodo	nod.0o.implikajxo	de		Knoten
+nodo	nod.0o.tubero	fr		nœud
+nodo	nod.0o.tubero	en		knot
+nodo	nod.0o.tubero	de		Knoten
+nodo	nod.0o.vojnodo	fr		nœud
+nodo	nod.0o.vojnodo	en		knot
+nodo	nod.0o.vojnodo	de		Knoten
+elnodiĝo	nod.el0igxo	fr		dénouement
+elnodiĝo	nod.el0igxo	en		denouement
+elnodiĝo	nod.el0igxo	de		Auflösung
+elnodiĝo	nod.el0igxo.BELE	fr		dénouement
+elnodiĝo	nod.el0igxo.BELE	en		denouement
+elnodiĝo	nod.el0igxo.BELE	de		Auflösung
+elnodiĝo	nod.el0igxo.BELE	de	Lysis (Drama)	Lysis
+elnodiĝo	nod.el0igxo.BELE	de		Dénouement
+elnodiĝo	nod.el0igxo.FIG	fr		dénouement
+elnodiĝo	nod.el0igxo.FIG	en		denouement
+elnodiĝo	nod.el0igxo.FIG	de		Auflösung
+ennodiĝo	nod.en0igxo	de		Epitase
+ennodiĝo	nod.en0igxo	de	Komplikation (Drama)	Komplikation
+ennodiĝo	nod.en0igxo	de	Schürzung des Knotens	Schürzung
+ennodiĝo	nod.en0igxo.BELE	de		Epitase
+ennodiĝo	nod.en0igxo.BELE	de	Komplikation (Drama)	Komplikation
+ennodiĝo	nod.en0igxo.BELE	de	Schürzung des Knotens	Schürzung
+gordia nodo	nod.gordia0o	fr		nœud gordien
+gordia nodo	nod.gordia0o	en		Gordian knot
+gordia nodo	nod.gordia0o	de		Gordischer Knoten
+gordia nodo	nod.gordia0o.FRAZ	fr		nœud gordien
+gordia nodo	nod.gordia0o.FRAZ	en		Gordian knot
+gordia nodo	nod.gordia0o.FRAZ	de		Gordischer Knoten
+gordia nodo	nod.gordia0o.MIT	fr		nœud gordien
+gordia nodo	nod.gordia0o.MIT	en		Gordian knot
+gordia nodo	nod.gordia0o.MIT	de		Gordischer Knoten
+limfonodo	nod.limfo0o	fr		ganglion lymphatique
+limfonodo	nod.limfo0o	de		Lymphknoten
+limfonodo	nod.limfo0o.ANA	fr		ganglion lymphatique
+limfonodo	nod.limfo0o.ANA	de		Lymphknoten
+malnodi	nod.mal0i	fr		dénouer
+malnodi	nod.mal0i	de	lösen (Knoten)	lösen
+malnodi	nod.mal0i	de		entknoten
+malnodi	nod.mal0i.FIG	de	lösen (Knoten)	lösen
+malnodi	nod.mal0i.FIG	de		entknoten
+malnodi	nod.mal0i.FIG	fr		dénouer
+malnodi	nod.mal0i.KOMUNE	de	lösen (Knoten)	lösen
+malnodi	nod.mal0i.KOMUNE	de		entknoten
+malnodi	nod.mal0i.KOMUNE	fr		dénouer
+vojnodo	nod.voj0o	fr		échangeur routier
+vojnodo	nod.voj0o.TRA	fr		échangeur routier
+nokoj	nok.0oj	fr		gnocchis
+nokoj	nok.0oj	en		Gnocchi
+nokoj	nok.0oj	de		Nockerln
+nokoj	nok.0oj	de		Nocken
+nokoj	nok.0oj.KUI	fr		gnocchis
+nokoj	nok.0oj.KUI	en		Gnocchi
+nokoj	nok.0oj.KUI	de		Nockerln
+nokoj	nok.0oj.KUI	de		Nocken
+nokaŭti	nokaux.0i	fr	mettre k.o.	k.o.
+nokaŭti	nokaux.0i	de	k.o. schlagen	schlagen
+nokaŭto	nokaux.0o	en		K.O.
+nokaŭto	nokaux.0o	en		knock-out
+nokte	nokt.0e	fr		nuitamment
+nokte	nokt.0e	fr	de nuit	nuit
+nokte	nokt.0e	en		night-time
+nokte	nokt.0e	de		nachts
+nokti	nokt.0i	NULL	NULL	NULL
+nokti	nokt.0i.mallumi	fr	faire nuit	nuit
+nokti	nokt.0i.mallumi	de	Nacht sein	Nacht
+nokti	nokt.0i.mallumi	en	it's night out	night
+nokti	nokt.0i.tranokti	de		übernachten
+nokti	nokt.0i.tranokti	de		nächtigen
+noktiĝi	nokt.0igxi	fr	la nuit tombe	nuit
+noktiĝi	nokt.0igxi	en		night is falling
+noktiĝi	nokt.0igxi	de	Nacht werden	Nacht
+noktmezo	nokt.0mezo	fr		minuit
+noktmezo	nokt.0mezo	en		midnight
+noktmezo	nokt.0mezo	de		Mitternacht
+blankaj noktoj	nokt.blankaj_0oj	fr		nuit blanche
+blankaj noktoj	nokt.blankaj_0oj	en		white nights
+blankaj noktoj	nokt.blankaj_0oj	de		Weiße Nächte
+tagonokto	nokt.tag0o	fr		nycthémère
+tagnokto	nokt.tag0o	fr		nycthémère
+tagonokto	nokt.tag0o	fr	jour (24 heures)	jour
+tagnokto	nokt.tag0o	fr	jour (24 heures)	jour
+tagonokto	nokt.tag0o	en	(24-hour) day	day
+tagnokto	nokt.tag0o	en	(24-hour) day	day
+tagonokto	nokt.tag0o	de	Tag (24 Stunden)	Tag
+tagnokto	nokt.tag0o	de	Tag (24 Stunden)	Tag
+tagonokto	nokt.tag0o.KAL	fr		nycthémère
+tagnokto	nokt.tag0o.KAL	fr		nycthémère
+tagonokto	nokt.tag0o.KAL	fr	jour (24 heures)	jour
+tagnokto	nokt.tag0o.KAL	fr	jour (24 heures)	jour
+tagonokto	nokt.tag0o.KAL	en	(24-hour) day	day
+tagnokto	nokt.tag0o.KAL	en	(24-hour) day	day
+tagonokto	nokt.tag0o.KAL	de	Tag (24 Stunden)	Tag
+tagnokto	nokt.tag0o.KAL	de	Tag (24 Stunden)	Tag
+tranoktejo	nokt.tra0ejo	en		accomodation
+tranoktejo	nokt.tra0ejo	de		Übernachtungsmöglichkeit
+tranoktejo	nokt.tra0ejo	de		Unterkunft
+tranoktejo	nokt.tra0ejo	fr		hébergement
+noktumi	nokt.tra0i	fr	passer la nuit	passer
+tranokti	nokt.tra0i	fr	passer la nuit	passer
+noktumi	nokt.tra0i	en	spend the night	night
+tranokti	nokt.tra0i	en	spend the night	night
+noktumi	nokt.tra0i	de		nächtigenen
+tranokti	nokt.tra0i	de		nächtigenen
+noktumi	nokt.tra0i	de		übernachten
+tranokti	nokt.tra0i	de		übernachten
+noktuo	noktu.0o	NULL	NULL	NULL
+noktuo	noktu.0o.birdo	fr		chouette chevêche
+noktuo	noktu.0o.birdo	fr		chevêche
+noktuo	noktu.0o.birdo	en		little owl
+noktuo	noktu.0o.birdo	de		Steinkauz
+noktuo	noktu.0o.papilio	en		Noctua
+noktuo	noktu.0o.papilio	de	Hausmutter (k.a.)	Hausmutter
+noktuedoj	noktue.0oj	de		Eulenschmetterlinge
+nokturno	nokturn.0o	de		Nocturne
+nokturno	nokturn.0o	fr	nocturne (subst., musique)	nocturne
+nokturno	nokturn.0o	en		nocturne
+nokturno	nokturn.0o	de		Nachtmusik
+nokturno	nokturn.0o	de		Nokturne
+nokturno	nokturn.0o.MUZ	de		Nocturne
+nokturno	nokturn.0o.MUZ	fr	nocturne (subst., musique)	nocturne
+nokturno	nokturn.0o.MUZ	en		nocturne
+nokturno	nokturn.0o.MUZ	de		Nachtmusik
+nokturno	nokturn.0o.MUZ	de		Nokturne
+nomado	nom.0ado	fr		nommage
+nomado	nom.0ado	fr		dénomination
+nomado	nom.0ado	fr		appellation
+nomado	nom.0ado	en		denomination
+nomado	nom.0ado	en		nomenclature
+nomado	nom.0ado	de		Benennen
+nomado	nom.0ado	de		Benennung
+nomado	nom.0ado	de		Nennung
+nomado	nom.0ado.KOMUNE	fr		nommage
+nomado	nom.0ado.KOMUNE	fr		dénomination
+nomado	nom.0ado.KOMUNE	fr		appellation
+nomado	nom.0ado.KOMUNE	en		denomination
+nomado	nom.0ado.KOMUNE	en		nomenclature
+nomado	nom.0ado.KOMUNE	de		Benennen
+nomado	nom.0ado.KOMUNE	de		Benennung
+nomado	nom.0ado.KOMUNE	de		Nennung
+nomaro	nom.0aro	fr		nomenclature
+nomaro	nom.0aro	fr	liste de noms	nom
+nomaro	nom.0aro	de		Nomenklatura
+nomaro	nom.0aro	de		Namenstabelle
+nomaro	nom.0aro	de		Namensregister
+nomaro	nom.0aro	de		Namensliste
+nomaro	nom.0aro.KOMUNE	fr		nomenclature
+nomaro	nom.0aro.KOMUNE	fr	liste de noms	nom
+nomaro	nom.0aro.KOMUNE	de		Nomenklatura
+nomaro	nom.0aro.KOMUNE	de		Namenstabelle
+nomaro	nom.0aro.KOMUNE	de		Namensregister
+nomaro	nom.0aro.KOMUNE	de		Namensliste
+nome	nom.0e	fr		nommément
+nome	nom.0e	fr	en effet	effet
+nome	nom.0e	fr	à savoir	savoir
+nome	nom.0e.fakte	fr		nommément
+nome	nom.0e.fakte	fr	en effet	effet
+nome	nom.0e.fakte	fr	à savoir	savoir
+nome	nom.0e.fakte	de	und zwar	zwar
+nome	nom.0e.lauxnome	fr		nommément
+nome	nom.0e.lauxnome	fr	en effet	effet
+nome	nom.0e.lauxnome	fr	à savoir	savoir
+nome	nom.0e.lauxnome	de	dem Namen nach	Namen nach
+nome	nom.0e.t_e	fr		nommément
+nome	nom.0e.t_e	fr	en effet	effet
+nome	nom.0e.t_e	fr	à savoir	savoir
+nome	nom.0e.t_e	de		nämlich
+nome de	nom.0ede	fr	de la part de	part
+je la nomo de	nom.0ede	fr	de la part de	part
+je la nomo de	nom.0ede	fr	au nom de	nom
+en la nomo de	nom.0ede	fr	de la part de	part
+en la nomo de	nom.0ede	fr	au nom de	nom
+nome de	nom.0ede	fr	au nom de	nom
+je la nomo de	nom.0ede	de	im Namen von	Namen von
+en la nomo de	nom.0ede	de	im Namen von	Namen von
+nome de	nom.0ede	de	im Namen von	Namen von
+je la nomo de	nom.0ede.KOMUNE	fr	de la part de	part
+je la nomo de	nom.0ede.KOMUNE	fr	au nom de	nom
+en la nomo de	nom.0ede.KOMUNE	fr	de la part de	part
+en la nomo de	nom.0ede.KOMUNE	fr	au nom de	nom
+nome de	nom.0ede.KOMUNE	fr	de la part de	part
+nome de	nom.0ede.KOMUNE	fr	au nom de	nom
+je la nomo de	nom.0ede.KOMUNE	de	im Namen von	Namen von
+en la nomo de	nom.0ede.KOMUNE	de	im Namen von	Namen von
+nome de	nom.0ede.KOMUNE	de	im Namen von	Namen von
+nomi	nom.0i	de		nennen
+nomi	nom.0i	fr		nommer
+nomi	nom.0i.bapti	de		nennen
+nomi	nom.0i.bapti	de		benennen
+nomi	nom.0i.bapti	fr		nommer
+nomi	nom.0i.bapti	de		nennen
+nomi	nom.0i.uzi	fr		nommer
+nomi	nom.0i.uzi	de		nennen
+nomiĝi	nom.0igxi	fr	s'appeler	appeler
+nomiĝi	nom.0igxi	en		be called
+nomiĝi	nom.0igxi	de		heißen
+nomiĝi	nom.0igxi	fr	se nommer	nommer
+nomiĝi	nom.0igxi.KOMUNE	fr	s'appeler	appeler
+nomiĝi	nom.0igxi.KOMUNE	en		be called
+nomiĝi	nom.0igxi.KOMUNE	de		heißen
+nomiĝi	nom.0igxi.KOMUNE	fr	se nommer	nommer
+nomumi	nom.0umi	de		ernennen
+nomumi	nom.0umi	fr	nommer (à une fonction)	nommer
+nomumi	nom.0umi	en		nominate
+nomumi	nom.0umi	de		nominieren
+nomumi	nom.0umi.POL	de		ernennen
+nomumi	nom.0umi.POL	fr	nommer (à une fonction)	nommer
+nomumi	nom.0umi.POL	en		nominate
+nomumi	nom.0umi.POL	de		nominieren
+kromnomo	nom.al0o	fr		surnom
+alnomo	nom.al0o	fr		surnom
+kromnomo	nom.al0o	en		alias
+alnomo	nom.al0o	en		alias
+kromnomo	nom.al0o	en		nickname
+alnomo	nom.al0o	en		nickname
+kromnomo	nom.al0o	de		Nebenbezeichnung
+alnomo	nom.al0o	de		Nebenbezeichnung
+kromnomo	nom.al0o	de		Zuname
+alnomo	nom.al0o	de		Zuname
+kromnomo	nom.al0o	de		Beiname
+alnomo	nom.al0o	de		Beiname
+kromnomo	nom.al0o.GEN	fr		surnom
+alnomo	nom.al0o.GEN	fr		surnom
+kromnomo	nom.al0o.GEN	en		alias
+alnomo	nom.al0o.GEN	en		alias
+kromnomo	nom.al0o.GEN	en		nickname
+alnomo	nom.al0o.GEN	en		nickname
+kromnomo	nom.al0o.GEN	de		Nebenbezeichnung
+alnomo	nom.al0o.GEN	de		Nebenbezeichnung
+kromnomo	nom.al0o.GEN	de		Zuname
+alnomo	nom.al0o.GEN	de		Zuname
+kromnomo	nom.al0o.GEN	de		Beiname
+alnomo	nom.al0o.GEN	de		Beiname
+alinomo	nom.ali0o	fr	alias (subst.)	alias
+alinomo	nom.ali0o.KOMUNE	fr	alias (subst.)	alias
+alinomo	nom.ali0o.KOMUNE	de		Alias
+antaŭnomo	nom.antaux0o	en		first name
+antaŭnomo	nom.antaux0o	de		Vorname
+antaŭnomo	nom.antaux0o	fr		prénom
+antaŭnomo	nom.antaux0o.GEN	en		first name
+antaŭnomo	nom.antaux0o.GEN	de		Vorname
+antaŭnomo	nom.antaux0o.GEN	fr		prénom
+baptonomo	nom.bapto0o	fr		nom de baptême
+baptonomo	nom.bapto0o	fr		prénom
+baptonomo	nom.bapto0o	de		Taufname
+baptonomo	nom.bapto0o.KRI	fr		nom de baptême
+baptonomo	nom.bapto0o.KRI	fr		prénom
+baptonomo	nom.bapto0o.KRI	de		Taufname
+baptonomo	nom.bapto0o.KRI	en	baptismal name	name
+baptonomo	nom.bapto0o.antauxnomo	fr		nom de baptême
+baptonomo	nom.bapto0o.antauxnomo	fr		prénom
+baptonomo	nom.bapto0o.antauxnomo	de		Taufname
+baptonomo	nom.bapto0o.antauxnomo	en	first name	name
+bona nomo	nom.bona0o	en		good name
+bona nomo	nom.bona0o.KOMUNE	en		good name
+bona nomo	nom.bona0o.reputacio	en		good name
+bona nomo	nom.bona0o.reputacio	en		fair name
+familia nomo	nom.famili0o	fr		nom de famille
+familinomo	nom.famili0o	fr		nom de famille
+familia nomo	nom.famili0o	de		Familienname
+familinomo	nom.famili0o	de		Familienname
+familia nomo	nom.famili0o.GEN	fr		nom de famille
+familinomo	nom.famili0o.GEN	fr		nom de famille
+familia nomo	nom.famili0o.GEN	de		Familienname
+familinomo	nom.famili0o.GEN	de		Familienname
+fornomi	nom.for0i	fr		désavouer
+fornomi	nom.for0i	en		disown
+fornomi	nom.for0i	de		verleugnen
+fornomi	nom.for0i.KOMUNE	fr		désavouer
+fornomi	nom.for0i.KOMUNE	en		disown
+fornomi	nom.for0i.KOMUNE	de		verleugnen
+honesta nomo	nom.honesta0o	NULL	NULL	NULL
+karakteriza nomo	nom.karakteriza0o	en		charactonym
+karakteriza nomo	nom.karakteriza0o	de		sprechender Name
+karesnomo	nom.kares0o	fr		petit nom
+karesnomo	nom.kares0o	fr	diminutif (petit nom)	diminutif
+karesnomo	nom.kares0o.GEN	fr		petit nom
+karesnomo	nom.kares0o.GEN	fr	diminutif (petit nom)	diminutif
+karesnomo	nom.kares0o.GEN	de		Kosename
+kaŝnomo	nom.kasx0o	fr		pseudonyme
+kaŝnomo	nom.kasx0o	en		pseudonym
+kaŝnomo	nom.kasx0o	de		Deckname
+kaŝnomo	nom.kasx0o	de		Pseudonym
+kaŝnomo	nom.kasx0o.KOMUNE	fr		pseudonyme
+kaŝnomo	nom.kasx0o.KOMUNE	en		pseudonym
+kaŝnomo	nom.kasx0o.KOMUNE	de		Deckname
+kaŝnomo	nom.kasx0o.KOMUNE	de		Pseudonym
+laŭnoma	nom.laux0a	NULL	NULL	NULL
+laŭnoma	nom.laux0a.nominala	de		nominell
+laŭnoma	nom.laux0a.nominala	en		nominal
+laŭnoma	nom.laux0a.nomuza	en	by name	name
+laŭnoma	nom.laux0a.nomuza	de		namentlich
+laŭnome	nom.laux0e	NULL	NULL	NULL
+laŭnome	nom.laux0e.nominale	de		nominell
+laŭnome	nom.laux0e.nominale	en		nominally
+laŭnome	nom.laux0e.nomuze	en	by name	name
+laŭnome	nom.laux0e.nomuze	de	beim Namen	Name
+laŭnome	nom.laux0e.nomuze	de		namentlich
+loknomo	nom.lok0o	fr		toponyme
+loknomo	nom.lok0o	fr		nom de lieu
+loknomo	nom.lok0o	en		toponym
+loknomo	nom.lok0o	en		place name
+loknomo	nom.lok0o	de		Toponym
+loknomo	nom.lok0o	de		Ortsname
+loknomo	nom.lok0o.GEOG	fr		toponyme
+loknomo	nom.lok0o.GEOG	fr		nom de lieu
+loknomo	nom.lok0o.GEOG	en		toponym
+loknomo	nom.lok0o.GEOG	en		place name
+loknomo	nom.lok0o.GEOG	de		Toponym
+loknomo	nom.lok0o.GEOG	de		Ortsname
+misnomi	nom.mis0i	en		misname
+misnomi	nom.mis0i	de	unzutreffend benennen	benennen
+moknomo	nom.mok0o	fr		sobriquet
+moknomo	nom.mok0o	de		Neckname
+moknomo	nom.mok0o	de		Spottname
+moknomo	nom.mok0o.GEN	fr		sobriquet
+moknomo	nom.mok0o.GEN	de		Neckname
+moknomo	nom.mok0o.GEN	de		Spottname
+persona nomo	nom.persona0o	en		first name
+persona nomo	nom.persona0o	de		Vorname
+persona nomo	nom.persona0o	fr		prénom
+persona nomo	nom.persona0o.GEN	en		first name
+persona nomo	nom.persona0o.GEN	de		Vorname
+persona nomo	nom.persona0o.GEN	fr		prénom
+plumnomo	nom.plum0o	fr		nom de plume
+plumnomo	nom.plum0o.BELE	fr		nom de plume
+plumnomo	nom.plum0o.BELE	de		Künstlername
+samnomulo	nom.sam0ulo	fr	homonyme (porteur du même nom)	homonyme
+samnomulo	nom.sam0ulo.KOMUNE	fr	homonyme (porteur du même nom)	homonyme
+samnomulo	nom.sam0ulo.KOMUNE	de		Geichnamiger
+uzantnomo	nom.uzant0o	NULL	NULL	NULL
+uzantnomo	nom.uzant0o.KOMP	fr	nom d'utilisateur (login)	nom d'utilisateur
+uzantnomo	nom.uzant0o.KOMP	fr	identifiant d'utilisateur (login)	identifiant d'utilisateur
+uzantnomo	nom.uzant0o.KOMP	fr		login
+uzantnomo	nom.uzant0o.KOMP	en		login name
+uzantnomo	nom.uzant0o.KOMP	en		user name
+uzantnomo	nom.uzant0o.KOMP	en		username
+uzantnomo	nom.uzant0o.KOMP	de		Benutzername
+nomada	nomad.0a	fr	nomade (adj.)	nomade
+nomada	nomad.0a	en		nomadic
+nomada	nomad.0a	de		nomadisch
+nomada	nomad.0a.MOR	fr	nomade (adj.)	nomade
+nomada	nomad.0a.MOR	en		nomadic
+nomada	nomad.0a.MOR	de		nomadisch
+nomadejo	nomad.0ejo	NULL	NULL	NULL
+nomadejo	nomad.0ejo.tendaro	de		Nomadenlager
+nomadejo	nomad.0ejo.teritorio	de	Lebensraum von Nomaden	Lebensraum
+nomadejo	nomad.0ejo.teritorio	de	Wanderungsgebiet (von Nomaden)	Wanderungsgebiet
+nomadi	nomad.0i	fr		nomadiser
+nomadi	nomad.0i	de	umherziehen (als Nomade)	umherziehen
+nomadi	nomad.0i	de	wandern (als Nomade)	wandern
+nomadi	nomad.0i.MOR	fr		nomadiser
+nomadi	nomad.0i.MOR	de	umherziehen (als Nomade)	umherziehen
+nomadi	nomad.0i.MOR	de	wandern (als Nomade)	wandern
+nomadismo	nomad.0ismo	fr		nomadisme
+nomadismo	nomad.0ismo	en		nomadism
+nomadismo	nomad.0ismo	de		Nomadismus
+nomadismo	nomad.0ismo.MOR	en		nomadism
+nomadismo	nomad.0ismo.MOR	de		Nomadismus
+nomadismo	nomad.0ismo.MOR	fr		nomadisme
+nomado	nomad.0o	fr	nomade (subst.)	nomade
+nomado	nomad.0o	en		nomad
+nomado	nomad.0o	de		Nomade
+nomado	nomad.0o.MOR	fr	nomade (subst.)	nomade
+nomado	nomad.0o.MOR	en		nomad
+nomado	nomad.0o.MOR	de		Nomade
+nomarko	nomarhx.0o	NULL	NULL	NULL
+nomarĥo	nomarhx.0o	NULL	NULL	NULL
+nomarko	nomarhx.0o.provincestro	fr		nomarque
+nomarĥo	nomarhx.0o.provincestro	fr		nomarque
+nomarko	nomarhx.0o.provincestro	de		Gaufürst
+nomarĥo	nomarhx.0o.provincestro	de		Gaufürst
+nomarko	nomarhx.0o.provincestro	de		Nomarch
+nomarĥo	nomarhx.0o.provincestro	de		Nomarch
+nombra	nombr.0a	en		numerical
+nombra	nombr.0a	en		numeric
+nombra	nombr.0a.EVI	en		numerical
+nombra	nombr.0a.EVI	en		numeric
+nombra	nombr.0a.EVI	de		zahlreich
+nombra	nombr.0a.KOMUNE	en		numerical
+nombra	nombr.0a.KOMUNE	en		numeric
+nombra	nombr.0a.KOMUNE	de		zählend
+nombra	nombr.0a.prie	en		numerical
+nombra	nombr.0a.prie	en		numeric
+nombra	nombr.0a.prie	fr		numérique
+nombra	nombr.0a.prie	fr	de nombre	nombre
+nombra	nombr.0a.prie	de		Zahl(en)-
+nombrebla	nombr.0ebla	NULL	NULL	NULL
+nombrebla	nombr.0ebla.GRA	en		countable
+nombrebla	nombr.0ebla.KOMUNE	fr		dénombrable
+nombrebla	nombr.0ebla.KOMUNE	de		zählbar
+nombrebla	nombr.0ebla.MAT	fr	discret (math.)	discret
+nombrebla	nombr.0ebla.MAT	fr		dénombrable
+nombrebla	nombr.0ebla.MAT	en		discrete
+nombrebla	nombr.0ebla.MAT	en		countable
+nombrebla	nombr.0ebla.MAT	en		denumerable
+nombrebla	nombr.0ebla.MAT	de		diskret
+nombrebla	nombr.0ebla.MAT	de		abzählbar
+nombri	nombr.0i	de		zählen
+nombri	nombr.0i	fr		dénombrer
+nombri	nombr.0i	fr		compter
+nombri	nombr.0i	en		count
+nombri	nombr.0i	en		number
+nombri	nombr.0i.enteni	de		zählen
+nombri	nombr.0i.enteni	fr		dénombrer
+nombri	nombr.0i.enteni	fr		compter
+nombri	nombr.0i.enteni	en		count
+nombri	nombr.0i.enteni	en		number
+nombri	nombr.0i.kalkuli	fr		dénombrer
+nombri	nombr.0i.kalkuli	fr		compter
+nombri	nombr.0i.kalkuli	en		count
+nombri	nombr.0i.kalkuli	en		number
+nombri	nombr.0i.kalkuli	de		zählen
+nombrilo	nombr.0ilo	fr		compteur
+nombrilo	nombr.0ilo	de		Zähler
+nombrilo	nombr.0ilo.KOMP	fr		compteur
+nombrilo	nombr.0ilo.KOMP	de		Zähler
+nombrilo	nombr.0ilo.KOMP	en		counter
+nombrilo	nombr.0ilo.TEK	fr		compteur
+nombrilo	nombr.0ilo.TEK	de		Zähler
+nombrilo	nombr.0ilo.TEK	en		meter
+nombristo	nombr.0isto	NULL	NULL	NULL
+nombristo	nombr.0isto.gxenerale	de		Zähler
+nombristo	nombr.0isto.popol	fr		recenseur
+nombristo	nombr.0isto.popol	en		enumerator
+nombristo	nombr.0isto.popol	en		census-taker
+nombristo	nombr.0isto.popol	de		Statistiker
+nombristo	nombr.0isto.popol	de		Volkszähler
+nombro	nombr.0o	fr		nombre
+nombro	nombr.0o	en		number
+nombro	nombr.0o.GRA	fr		nombre
+nombro	nombr.0o.GRA	en		number
+nombro	nombr.0o.GRA	de		Zahlform
+nombro	nombr.0o.GRA	de		Numerus
+nombro	nombr.0o.MAT	fr		nombre
+nombro	nombr.0o.MAT	en		number
+nombro	nombr.0o.MAT	de		Zahl
+nombro	nombr.0o.grupo	en		number
+nombro	nombr.0o.grupo	fr		nombre
+nombro	nombr.0o.grupo	de	Anzahl (Gruppe)	Anzahl
+nombro	nombr.0o.kvanto	en		number
+nombro	nombr.0o.kvanto	fr		nombre
+nombro	nombr.0o.kvanto	de		Anzahl
+nombrono	nombr.0ono	en		fraction
+nombrono	nombr.0ono	de		gebrochene Zahl
+nombrono	nombr.0ono	de		Bruch
+nombronomo	nombr.0onomo	en		name for a number
+nombronomo	nombr.0onomo.GRA	en		name for a number
+nombronomo	nombr.0onomo.GRA	de		Zahlwort
+nombrosistemo	nombr.0osistemo	en		number system
+nombrosistemo	nombr.0osistemo	de		Zahlensystem
+nombrosistemo	nombr.0osistemo	fr		numération
+nombrosistemo	nombr.0osistemo	en		number system
+nombrosistemo	nombr.0osistemo	de		Zahlensystem
+dunombro	nombr.du0o	en	dual (grammatical)	dual
+dunombro	nombr.du0o.GRA	en	dual (grammatical)	dual
+dunombro	nombr.du0o.GRA	fr	duel (nombre)	duel
+dunombro	nombr.du0o.GRA	de	Zweizahl (Grammatik)	Zweizahl
+dunombro	nombr.du0o.GRA	de	Dual (Grammatik)	Dual
+grandnombra	nombr.grand0a	de		zahlreich
+grandnombra	nombr.grand0a	fr		nombreux
+grandnombra	nombr.grand0a	en		numerous
+grandnombra	nombr.grand0a.KOMUNE	fr		nombreux
+grandnombra	nombr.grand0a.KOMUNE	en		numerous
+grandnombra	nombr.grand0a.KOMUNE	de		zahlreich
+mezonombro	nombr.mez0o	fr		moyenne
+meznombro	nombr.mez0o	fr		moyenne
+mezonombro	nombr.mez0o	en		mean
+meznombro	nombr.mez0o	en		mean
+mezonombro	nombr.mez0o	en		average
+meznombro	nombr.mez0o	en		average
+mezonombro	nombr.mez0o	de		Mittel
+meznombro	nombr.mez0o	de		Mittel
+mezonombro	nombr.mez0o.MAT	fr		moyenne
+meznombro	nombr.mez0o.MAT	fr		moyenne
+mezonombro	nombr.mez0o.MAT	en		mean
+meznombro	nombr.mez0o.MAT	en		mean
+mezonombro	nombr.mez0o.MAT	en		average
+meznombro	nombr.mez0o.MAT	en		average
+mezonombro	nombr.mez0o.MAT	de		Mittel
+meznombro	nombr.mez0o.MAT	de		Mittel
+multenombra	nombr.mult0a	de		zahlreich
+multnombra	nombr.mult0a	de		zahlreich
+multenombra	nombr.mult0a	fr		nombreux
+multnombra	nombr.mult0a	fr		nombreux
+multenombra	nombr.mult0a	en		numerous
+multnombra	nombr.mult0a	en		numerous
+multenombra	nombr.mult0a.KOMUNE	fr		nombreux
+multnombra	nombr.mult0a.KOMUNE	fr		nombreux
+multenombra	nombr.mult0a.KOMUNE	en		numerous
+multnombra	nombr.mult0a.KOMUNE	en		numerous
+multenombra	nombr.mult0a.KOMUNE	de		zahlreich
+multnombra	nombr.mult0a.KOMUNE	de		zahlreich
+multenombri	nombr.mult0i	en		be many
+multnombri	nombr.mult0i	en		be many
+multenombri	nombr.mult0i	en		be numerous
+multnombri	nombr.mult0i	en		be numerous
+plurnombro	nombr.multe0o	fr		pluriel
+multenombro	nombr.multe0o	fr		pluriel
+plurnombro	nombr.multe0o	en	plural (grammar)	plural
+multenombro	nombr.multe0o	en	plural (grammar)	plural
+plurnombro	nombr.multe0o.GRA	fr		pluriel
+multenombro	nombr.multe0o.GRA	fr		pluriel
+plurnombro	nombr.multe0o.GRA	en	plural (grammar)	plural
+multenombro	nombr.multe0o.GRA	en	plural (grammar)	plural
+plurnombro	nombr.multe0o.GRA	de		Plural
+multenombro	nombr.multe0o.GRA	de		Plural
+plurnombro	nombr.multe0o.GRA	de		Mehrzahl
+multenombro	nombr.multe0o.GRA	de		Mehrzahl
+natura nombro	nombr.natura0o	fr		entier naturel
+natura nombro	nombr.natura0o	en	natural number	number
+natura nombro	nombr.natura0o	de	natürliche Zahl	Zahl
+natura nombro	nombr.natura0o.MAT	fr		entier naturel
+natura nombro	nombr.natura0o.MAT	en	natural number	number
+natura nombro	nombr.natura0o.MAT	de	natürliche Zahl	Zahl
+nenombrebla	nombr.ne0ebla	NULL	NULL	NULL
+nenombrebla	nombr.ne0ebla.GRA	en	mass (noun)	mass
+nenombrebla	nombr.ne0ebla.GRA	en	uncountable (noun)	uncountable
+nenombrebla	nombr.ne0ebla.KOMUNE	NULL	NULL	NULL
+popolnombrado	nombr.popol0ado	fr	recensement (de la population)	recensement
+popolnombrado	nombr.popol0ado	en		census
+popolnombrado	nombr.popol0ado	de		Volkszählung
+popolnombrado	nombr.popol0ado.POL	fr	recensement (de la population)	recensement
+popolnombrado	nombr.popol0ado.POL	en		census
+popolnombrado	nombr.popol0ado.POL	de		Volkszählung
+sennombra	nombr.sen0a	fr		innombrable
+sennombra	nombr.sen0a	en		countless
+sennombra	nombr.sen0a	de		unzählig
+sennombra	nombr.sen0a.FIG	fr		innombrable
+sennombra	nombr.sen0a.FIG	en		countless
+sennombra	nombr.sen0a.FIG	de		unzählig
+trinombro	nombr.tri0o	fr	triel (nombre)	triel
+trinombro	nombr.tri0o	en	trial (grammatical)	trial
+trinombro	nombr.tri0o	de		Dreizahl
+trinombro	nombr.tri0o	de		Trial
+trinombro	nombr.tri0o.GRA	fr	triel (nombre)	triel
+trinombro	nombr.tri0o.GRA	en	trial (grammatical)	trial
+trinombro	nombr.tri0o.GRA	de		Dreizahl
+trinombro	nombr.tri0o.GRA	de		Trial
+ununombra	nombr.unu0a	NULL	NULL	NULL
+ununombra	nombr.unu0a.GRA	NULL	NULL	NULL
+ununombro	nombr.unu0o	fr		singulier
+ununombro	nombr.unu0o	en	singular (grammatical)	singular
+ununombro	nombr.unu0o.GRA	fr		singulier
+ununombro	nombr.unu0o.GRA	en	singular (grammatical)	singular
+ununombro	nombr.unu0o.GRA	de		Singular
+ununombro	nombr.unu0o.GRA	de		Einzahl
+nomenklaturo	nomenk.0o	de		Nomenklatur
+nomenklaturo	nomenk.0o	fr		nomenclature
+nomenklaturo	nomenk.0o	en		nomenclature
+nomenklaturo	nomenk.0o	de		Bezeichnungssystem
+nomenklaturo	nomenk.0o	de		Benennungssystem
+nomenklaturo	nomenk.0o.SCI	fr		nomenclature
+nomenklaturo	nomenk.0o.SCI	en		nomenclature
+nomenklaturo	nomenk.0o.SCI	de		Bezeichnungssystem
+nomenklaturo	nomenk.0o.SCI	de		Benennungssystem
+nomenklaturo	nomenk.0o.SCI	de		Nomenklatur
+Nova Biologia Nomenklaturo	nomenk.Nova_Biologia_N0o	fr		Nouvelle Nomenclature Biologique
+Nova Biologia Nomenklaturo	nomenk.Nova_Biologia_N0o.BIO	fr		Nouvelle Nomenclature Biologique
+nomeso	nomes.0o	fr	nome (Égypte ancienne)	nome
+nomeso	nomes.0o	de	Gau (Ägypten)	Gau
+nomeso	nomes.0o.HIS	fr	nome (Égypte ancienne)	nome
+nomeso	nomes.0o.HIS	de	Gau (Ägypten)	Gau
+nominala	nomina.0a	fr		nominal
+nominala	nomina.0a.EKON	fr		nominal
+nominala	nomina.0a.EKON	de		Nenn-
+nominala	nomina.0a.EKON	de		Nominal-
+nominala	nomina.0a.KOMUNE	fr		nominal
+nominala	nomina.0a.KOMUNE	de	dem Namen nach	nach
+nominala	nomina.0a.KOMUNE	de		nominell
+nominalismo	nomina.0ismo	fr		nominalisme
+nominalismo	nomina.0ismo	de		Nominalismus
+nominalismo	nomina.0ismo.FIL	fr		nominalisme
+nominalismo	nomina.0ismo.FIL	de		Nominalismus
+nominala valoro	nomina.0o	fr	valeur nominale	nominale
+nominalo	nomina.0o	fr	valeur nominale	nominale
+nominala valoro	nomina.0o.EKON	fr	valeur nominale	nominale
+nominalo	nomina.0o.EKON	fr	valeur nominale	nominale
+nominala valoro	nomina.0o.EKON	de		Nennwert
+nominalo	nomina.0o.EKON	de		Nennwert
+nominacio	nominac.0o	fr		nomination
+nominacio	nominac.0o.GRA	fr		nomination
+noradrenalino	noradrenalin.0o	en		noradrenaline
+noradrenalino	noradrenalin.0o	de		Noradrenalin
+noradrenalino	noradrenalin.0o	fr		norépinéphrine
+noradrenalino	noradrenalin.0o	fr		noradrénaline
+noradrenalino	noradrenalin.0o.FIZL	de		Noradrenalin
+noradrenalino	noradrenalin.0o.FIZL	fr		norépinéphrine
+noradrenalino	noradrenalin.0o.FIZL	fr		noradrénaline
+noradrenalino	noradrenalin.0o.FIZL	en		noradrenaline
+norda	nord.0a	fr		septentrional
+norda	nord.0a	fr	du nord	nord
+norda	nord.0a	fr		boréal
+norda	nord.0a	de		nördlich
+norde de	nord.0ede	fr		au nord de
+norde de	nord.0ede.ekster	fr		au nord de
+norde de	nord.0ede.ekster	de		nördlich von
+norde de	nord.0ede.en	fr		au nord de
+norde de	nord.0ede.en	de	im Norden von	Norden
+norio	nori.0o	fr		noria
+norio	nori.0o	de		Noria
+norio	nori.0o	de		Schöpfwerk
+norma	norm.0a	en		standard
+norma	norm.0a	en		normal
+norma	norm.0a.0konforma	en		standard
+norma	norm.0a.0konforma	en		normal
+norma	norm.0a.0konforma	de		genormt
+norma	norm.0a.0konforma	de		normiert
+norma	norm.0a.0konforma	de		normgemäß
+norma	norm.0a.0konforma	de		normgerecht
+norma	norm.0a.0rilata	en		standard
+norma	norm.0a.0rilata	en		normal
+norma	norm.0a.0rilata	de		Norm-
+normita	norm.0hava	fr	normé (espace)	normé
+normohava	norm.0hava	fr	normé (espace)	normé
+normhava	norm.0hava	fr	normé (espace)	normé
+normohava	norm.0hava	en		normed
+normhava	norm.0hava	en		normed
+normigita	norm.0hava	en		normed
+normita	norm.0hava	en		normed
+normigita	norm.0hava	de		normiert
+normita	norm.0hava	de		normiert
+normohava	norm.0hava	de		normiert
+normhava	norm.0hava	de		normiert
+normigita	norm.0hava	fr	normé (espace)	normé
+normigita	norm.0hava.MAT	en		normed
+normita	norm.0hava.MAT	en		normed
+normohava	norm.0hava.MAT	en		normed
+normigita	norm.0hava.MAT	de		normiert
+normhava	norm.0hava.MAT	en		normed
+normita	norm.0hava.MAT	de		normiert
+normohava	norm.0hava.MAT	de		normiert
+normhava	norm.0hava.MAT	de		normiert
+normigita	norm.0hava.MAT	fr	normé (espace)	normé
+normita	norm.0hava.MAT	fr	normé (espace)	normé
+normohava	norm.0hava.MAT	fr	normé (espace)	normé
+normhava	norm.0hava.MAT	fr	normé (espace)	normé
+normi	norm.0i	fr	normer (espace)	normer
+normi	norm.0i	en		norm
+normi	norm.0i	de		normieren
+normi	norm.0i.MAT	fr	normer (espace)	normer
+normi	norm.0i.MAT	en		norm
+normi	norm.0i.MAT	de		normieren
+normo	norm.0o	de		Norm
+normo	norm.0o.KOMUNE	de		Norm
+normo	norm.0o.KOMUNE	en		standard
+normo	norm.0o.KOMUNE	en		norm
+normo	norm.0o.MAT	de		Norm
+normo	norm.0o.MAT	fr	norme (d'un vecteur)	norme
+normo	norm.0o.MAT	en		norm
+normo	norm.0o.MAT	de		Norm
+normo	norm.0o.TEK	de		Norm
+normo	norm.0o.TEK	en		standard
+normo	norm.0o.TEK	en		norm
+normo	norm.0o.TEK	de		Regel
+normo	norm.0o.TEK	de		Vorgabe
+normo	norm.0o.TEK	de		Vorschrift
+normo	norm.0o.konvencio	de		Konvention
+normo	norm.0o.konvencio	de		Norm
+normumi	norm.0umi	NULL	NULL	NULL
+normumita	norm.0umita	NULL	NULL	NULL
+duonnormo	norm.duon0o	fr		semi-norme
+duonnormo	norm.duon0o	en		pseudonorm
+duonnormo	norm.duon0o	en		semi-norm
+duonnormo	norm.duon0o	de		Seminorm
+duonnormo	norm.duon0o	de		Quasinorm
+duonnormo	norm.duon0o	de		Halbnorm
+sennormeco	norm.sen0eco	NULL	NULL	NULL
+sennormeco	norm.sen0eco.KOMUNE	fr		pagaille
+ununorma	norm.unu0a	NULL	NULL	NULL
+ununormigi	norm.unu0igi	fr	normer (un vecteur)	normer
+ununormigi	norm.unu0igi	en		normalize
+ununormigi	norm.unu0igi	de		normieren
+normala	normal.0a	fr		normal
+normala	normal.0a	en		normal
+normala	normal.0a	de		normal
+normala	normal.0a.KOMUNE	fr		normal
+normala	normal.0a.KOMUNE	en		normal
+normala	normal.0a.KOMUNE	de		normal
+normala	normal.0a.MAT	fr		normal
+normala	normal.0a.MAT	en		normal
+normala	normal.0a.MAT	de		normal
+normalo	normal.0o	en		normal
+normalo	normal.0o.KOMUNE	en		normal
+normalo	normal.0o.KOMUNE	fr	situation normale	normale
+normalo	normal.0o.KOMUNE	de		Normalität
+normalo	normal.0o.MAT	en		normal
+normalo	normal.0o.MAT	de		Normale
+normalulo	normal.0ulo	de		Normalbürger
+normalulo	normal.0ulo	de		Normaler
+normalulo	normal.0ulo	de		Normalsterblicher
+normalulo	normal.0ulo	de		Durchschnittsmensch
+normana	norman.0a	NULL	NULL	NULL
+normana	norman.0a.normanda	NULL	NULL	NULL
+normana	norman.0a.vikinga	NULL	NULL	NULL
+normano	norman.0o	NULL	NULL	NULL
+normano	norman.0o.normando	NULL	NULL	NULL
+normano	norman.0o.vikinga	en		Norseman
+normanda	normand.0a	de		normannisch
+normanda	normand.0a.rilata	de		normannisch
+normando	normand.0o	de		Normanne
+normando	normand.0o.homo	de		Normanne
+normando	normand.0o.homo	fr		normands
+normando	normand.0o.homo	en		Norman
+normando	normand.0o.raso	de		Normanne
+normando	normand.0o.vikingo	de		Normanne
+Normandujo	normand.0ujo	fr		Normandie
+Normandujo	normand.0ujo	en		Normandy
+Normandujo	normand.0ujo	de		Normandie
+Normandujo	normand.0ujo.GEOG	fr		Normandie
+Normandujo	normand.0ujo.GEOG	en		Normandy
+Normandujo	normand.0ujo.GEOG	de		Normandie
+norvega	norveg.0a	de		norwegisch
+norvega	norveg.0a	fr	norvégien (langue)	norvégien
+norvega	norveg.0a	en	Norwegian (language)	Norwegian
+norvega	norveg.0a	fr	norvégienne (adj.)	norvégienne
+norvega	norveg.0a	fr		norvégien
+norvega	norveg.0a	en	Norwegian (adj.)	Norwegian
+norvego	norveg.0o	fr	Norvégienne (subst.)	Norvégienne
+norvego	norveg.0o	en	Norwegian (subst.)	Norwegian
+norvego	norveg.0o	fr		Norvégien
+norvego	norveg.0o	de		Norweger
+norvego	norveg.0o.naciano	fr	Norvégienne (subst.)	Norvégienne
+norvego	norveg.0o.naciano	en	Norwegian (subst.)	Norwegian
+norvego	norveg.0o.naciano	fr		Norvégien
+norvego	norveg.0o.naciano	de		Norweger
+norvego	norveg.0o.sxtatano	fr	Norvégienne (subst.)	Norvégienne
+norvego	norveg.0o.sxtatano	fr		Norvégien
+norvego	norveg.0o.sxtatano	de		Norweger
+norvego	norveg.0o.sxtatano	en	Norwegian (subst.)	Norwegian
+Norvegujo	norveg.N0ujo	en		Norway
+Norvegujo	norveg.N0ujo	fr		Norvège
+Norvegujo	norveg.N0ujo.GEOG	de		Norwegen
+Norvegujo	norveg.N0ujo.GEOG	fr		Norvège
+Norvegujo	norveg.N0ujo.GEOG	en		Norway
+Norvegio	norvegi.N0o	fr		Royaume de Norvège
+Norvegio	norvegi.N0o	fr		Norvège
+Norvegio	norvegi.N0o	en		Norway
+Norvegio	norvegi.N0o	de		Norwegen
+Norvegio	norvegi.N0o.GEOG	fr		Royaume de Norvège
+Norvegio	norvegi.N0o.GEOG	fr		Norvège
+Norvegio	norvegi.N0o.GEOG	en		Norway
+Norvegio	norvegi.N0o.GEOG	de		Norwegen
+nostalgia	nostal.0a	fr	nostalgique (adj.)	nostalgique
+nostalgia	nostal.0a	en		nostalgic
+nostalgia	nostal.0a	de		nostalgisch
+nostalgia	nostal.0a.PSI	fr	nostalgique (adj.)	nostalgique
+nostalgia	nostal.0a.PSI	en		nostalgic
+nostalgia	nostal.0a.PSI	de		nostalgisch
+nostalgie	nostal.0e	fr	avec nostalgie	nostalgie
+nostalgie	nostal.0e	en		nostalgically
+nostalgie	nostal.0e	de		nostalgisch
+nostalgie	nostal.0e.PSI	fr	avec nostalgie	nostalgie
+nostalgie	nostal.0e.PSI	en		nostalgically
+nostalgie	nostal.0e.PSI	de		nostalgisch
+nostalgio	nostal.0o	fr		nostalgie
+nostalgio	nostal.0o	en		nostalgia
+nostalgio	nostal.0o	de		Nostalgie
+nostalgio	nostal.0o	de		Heimweh
+nostalgio	nostal.0o.PSI	fr		nostalgie
+nostalgio	nostal.0o.PSI	en		nostalgia
+nostalgio	nostal.0o.PSI	de		Nostalgie
+nostalgio	nostal.0o.PSI	de		Heimweh
+nostalgiulo	nostal.0ulo	de		Nostalgiker
+nostalgiulo	nostal.0ulo	fr	nostalgique (subst.)	nostalgique
+nostalgiulo	nostal.0ulo.PSI	fr	nostalgique (subst.)	nostalgique
+nostalgiulo	nostal.0ulo.PSI	de		Nostalgiker
+noti	not.0i	fr		noter
+noti	not.0i	en		note
+noti	not.0i.memori	fr		noter
+noti	not.0i.memori	en		note
+noti	not.0i.memori	de		merken
+noti	not.0i.skribi	fr		noter
+noti	not.0i.skribi	en		note
+noti	not.0i.skribi	de		vermerken
+noti	not.0i.skribi	de		notieren
+noto	not.0o	fr		note
+noto	not.0o.MUZ	fr		note
+noto	not.0o.MUZ	de		Note
+noto	not.0o.MUZ	en		note
+noto	not.0o.PED	fr		note
+noto	not.0o.PED	en	mark (e.g. at school)	mark
+noto	not.0o.PED	en	(school) grade	grade
+noto	not.0o.PED	de		Schulnote
+noto	not.0o.PED	de	Note (z. B. in der Schule)	Note
+noto	not.0o.memoriga	fr		note
+noto	not.0o.memoriga	en		note
+noto	not.0o.memoriga	de		Notiz
+noto	not.0o.memoriga	de		Vermerk
+notoj	not.0oj	fr		partition
+notoj	not.0oj	en		sheet music
+notoj	not.0oj	de		Noten
+notoj	not.0oj.MUZ	fr		partition
+notoj	not.0oj.MUZ	en		sheet music
+notoj	not.0oj.MUZ	de		Noten
+banknoto	not.bank0o	NULL	NULL	NULL
+banknoto	not.bank0o.EKON	NULL	NULL	NULL
+diplomatia noto	not.diplomatia0o	fr	note diplomatique	note
+diplomatia noto	not.diplomatia0o	de		diplomatische Note
+diplomatia noto	not.diplomatia0o.POL	fr	note diplomatique	note
+diplomatia noto	not.diplomatia0o.POL	de		diplomatische Note
+kurznoto	not.kurz0o	de		Kursstellung
+kurznoto	not.kurz0o	de		Kursnotierung
+kurznoto	not.kurz0o	de		Börsenkursnotierung
+kurznoto	not.kurz0o.EKON	de		Kursstellung
+kurznoto	not.kurz0o.EKON	de		Kursnotierung
+kurznoto	not.kurz0o.EKON	de		Börsenkursnotierung
+piednoti	not.pied0i	fr	annoter (par note en pied de page)	annoter
+piednoti	not.pied0i	de	anmerken (per Fußnote)	anmerken
+piednoti	not.pied0i.TIP	fr	annoter (par note en pied de page)	annoter
+piednoti	not.pied0i.TIP	de	anmerken (per Fußnote)	anmerken
+piednoto	not.pied0o	fr		note de bas de page
+piednoto	not.pied0o	en		footnote
+piednoto	not.pied0o	de		Fußnote
+piednoto	not.pied0o.TIP	fr		note de bas de page
+piednoto	not.pied0o.TIP	en		footnote
+piednoto	not.pied0o.TIP	de		Fußnote
+prinoto	not.pri0o	fr		glose
+prinoto	not.pri0o	fr		annotation
+prinoto	not.pri0o	fr		note explicative
+prinoto	not.pri0o.TIP	fr		annotation
+prinoto	not.pri0o.TIP	de		Stellungnahme
+prinoto	not.pri0o.TIP	de		Kommentar
+prinoto	not.pri0o.TIP	de		Anmerkung
+prinoto	not.pri0o.TIP	fr		note explicative
+prinoto	not.pri0o.TIP	fr		glose
+notacio	notaci.0o	fr		notation
+notacio	notaci.0o	en		notation
+notacio	notaci.0o	de		Notation
+notario	notari.0o	fr		notaire
+notario	notari.0o	en		notary
+notario	notari.0o	de		Notar
+notico	notic.0o	de		Kurznachricht
+notico	notic.0o	de		Kurzmitteilung
+notico	notic.0o	fr		notice
+notico	notic.0o	fr	brève (journalistique)	brève
+notico	notic.0o	de	Randnotiz (Zeitung)	Randnotiz
+notico	notic.0o	de	(Zeitungs-)Meldung	Meldung
+notico	notic.0o.KOMUNE	de		Kurzmitteilung
+notico	notic.0o.KOMUNE	fr		notice
+notico	notic.0o.KOMUNE	fr	brève (journalistique)	brève
+notico	notic.0o.KOMUNE	de	Randnotiz (Zeitung)	Randnotiz
+notico	notic.0o.KOMUNE	de	(Zeitungs-)Meldung	Meldung
+notico	notic.0o.KOMUNE	de		Kurznachricht
+Noŭruzo	nouxruz.0o	en		Nowruz
+Noŭruzo	nouxruz.0o	fr		Noruz
+Noŭruzo	nouxruz.0o.KAL	fr		Noruz
+Noŭruzo	nouxruz.0o.KAL	en		Nowruz
+nova	nov.0a	fr		nouveau
+nova	nov.0a	fr	neuf (nouveau)	neuf
+nova	nov.0a	en		new
+nova	nov.0a	de		neu
+nova	nov.0a.antauxa	fr		nouveau
+nova	nov.0a.antauxa	fr	neuf (nouveau)	neuf
+nova	nov.0a.antauxa	en		new
+nova	nov.0a.antauxa	de		neu
+nova	nov.0a.eka	fr		nouveau
+nova	nov.0a.eka	fr	neuf (nouveau)	neuf
+nova	nov.0a.eka	en		new
+nova	nov.0a.eka	de		neu
+nova	nov.0a.fresxa	fr		nouveau
+nova	nov.0a.fresxa	fr	neuf (nouveau)	neuf
+nova	nov.0a.fresxa	en		new
+nova	nov.0a.fresxa	de		neu
+nova	nov.0a.kaduka	fr		nouveau
+nova	nov.0a.kaduka	fr	neuf (nouveau)	neuf
+nova	nov.0a.kaduka	en		new
+nova	nov.0a.kaduka	de		neu
+nova	nov.0a.sxangxita	fr		nouveau
+nova	nov.0a.sxangxita	fr	neuf (nouveau)	neuf
+nova	nov.0a.sxangxita	en		new
+nova	nov.0a.sxangxita	de		neu
+novaĵisto	nov.0ajxisto	fr		journaliste d'information
+novaĵisto	nov.0ajxisto	en	(news) reporter	reporter
+novaĵisto	nov.0ajxisto	en		newsman
+novaĵisto	nov.0ajxisto	de		Nachrichtenreporter
+novaĵisto	nov.0ajxisto.INF	fr		journaliste d'information
+novaĵisto	nov.0ajxisto.INF	en	(news) reporter	reporter
+novaĵisto	nov.0ajxisto.INF	en		newsman
+novaĵisto	nov.0ajxisto.INF	de		Nachrichtenreporter
+novaĵo	nov.0ajxo	fr	nouvelle (annonce)	nouvelle
+novaĵo	nov.0ajxo	fr	nouveauté (innovation)	nouveauté
+novaĵo	nov.0ajxo	fr		innovation
+novaĵo	nov.0ajxo.informo	fr	nouvelle (annonce)	nouvelle
+novaĵo	nov.0ajxo.informo	fr	nouveauté (innovation)	nouveauté
+novaĵo	nov.0ajxo.informo	fr		innovation
+novaĵo	nov.0ajxo.informo	en		news
+novaĵo	nov.0ajxo.informo	de		Neuigkeit
+novaĵo	nov.0ajxo.invento	fr	nouvelle (annonce)	nouvelle
+novaĵo	nov.0ajxo.invento	fr	nouveauté (innovation)	nouveauté
+novaĵo	nov.0ajxo.invento	fr		innovation
+novaĵo	nov.0ajxo.invento	en		novelty
+novaĵo	nov.0ajxo.invento	de		Neuheit
+novaĵo	nov.0ajxo.okazo	fr	nouvelle (annonce)	nouvelle
+novaĵo	nov.0ajxo.okazo	fr	nouveauté (innovation)	nouveauté
+novaĵo	nov.0ajxo.okazo	fr		innovation
+novaĵo	nov.0ajxo.okazo	en		news
+novaĵo	nov.0ajxo.okazo	de		Neuigkeit
+noveca	nov.0eca	de		innovativ
+noveca	nov.0eca.KOMUNE	de		innovativ
+noveca	nov.0eca.KOMUNE	en		innovative
+novismo	nov.0ismo	NULL	NULL	NULL
+novismo	nov.0ismo.BELA	en		modernism
+novismo	nov.0ismo.BELA	de		Modernismus
+novismo	nov.0ismo.BELA	de		Novismus
+novismo	nov.0ismo.LIN	fr		néologisme
+novismo	nov.0ismo.LIN	en		neologism
+novismo	nov.0ismo.LIN	de		Neologismus
+novulo	nov.0ulo	fr	nouveau (subst.)	nouveau
+novulo	nov.0ulo	fr	débutant (subst.)	débutant
+novulo	nov.0ulo	en		neophyte
+novulo	nov.0ulo	en		newcomer
+novulo	nov.0ulo	en		greenhorn
+novulo	nov.0ulo	de		Neuling
+novulo	nov.0ulo	en		newbie
+novulo	nov.0ulo	en		novice
+novulo	nov.0ulo.KOMUNE	de		Neuling
+novulo	nov.0ulo.KOMUNE	fr	nouveau (subst.)	nouveau
+novulo	nov.0ulo.KOMUNE	fr	débutant (subst.)	débutant
+novulo	nov.0ulo.KOMUNE	en		neophyte
+novulo	nov.0ulo.KOMUNE	en		newcomer
+novulo	nov.0ulo.KOMUNE	en		greenhorn
+novulo	nov.0ulo.KOMUNE	en		newbie
+novulo	nov.0ulo.KOMUNE	en		novice
+denove	nov.de0e	fr		de nouveau
+denove	nov.de0e	fr		à nouveau
+denove	nov.de0e	en		afresh
+denove	nov.de0e	en		anew
+denove	nov.de0e	en		again
+denove	nov.de0e	de		noch mal
+denove	nov.de0e	de		noch einmal
+denove	nov.de0e	de		wieder
+denove	nov.de0e	de		erneut
+denove	nov.de0e.KOMUNE	fr		de nouveau
+denove	nov.de0e.KOMUNE	fr		à nouveau
+denove	nov.de0e.KOMUNE	en		afresh
+denove	nov.de0e.KOMUNE	en		anew
+denove	nov.de0e.KOMUNE	en		again
+denove	nov.de0e.KOMUNE	de		noch mal
+denove	nov.de0e.KOMUNE	de		noch einmal
+denove	nov.de0e.KOMUNE	de		wieder
+denove	nov.de0e.KOMUNE	de		erneut
+falsa novaĵo	nov.falsa_0ajxo	fr		fausse nouvelle
+falsa novaĵo	nov.falsa_0ajxo	en		false report
+falsa novaĵo	nov.falsa_0ajxo	en		canard
+falsa novaĵo	nov.falsa_0ajxo	de		Zeitungsente
+falsa novaĵo	nov.falsa_0ajxo	de		Falschmeldung
+falsa novaĵo	nov.falsa_0ajxo.INF	fr		fausse nouvelle
+falsa novaĵo	nov.falsa_0ajxo.INF	en		false report
+falsa novaĵo	nov.falsa_0ajxo.INF	en		canard
+falsa novaĵo	nov.falsa_0ajxo.INF	de		Zeitungsente
+falsa novaĵo	nov.falsa_0ajxo.INF	de		Falschmeldung
+malnova	nov.mal0a	fr	vieux (objet)	vieux
+malnova	nov.mal0a	fr		ancien
+malnova	nov.mal0a	en		old
+malnova	nov.mal0a	de		alt
+malnova	nov.mal0a.praa	fr	vieux (objet)	vieux
+malnova	nov.mal0a.praa	fr		ancien
+malnova	nov.mal0a.praa	en		old
+malnova	nov.mal0a.praa	de		alt
+malnovaĵo	nov.mal0ajxo	fr		chose ancienne
+malnovaĵo	nov.mal0ajxo	fr		ancienneté
+malnovaĵo	nov.mal0ajxo	en		old stuff
+malnovaĵo	nov.mal0ajxo	de		altes Zeug
+malnovaĵo	nov.mal0ajxo	de		Trödel
+malnovaĵo	nov.mal0ajxo	de		Antiquität
+malnovaĵo	nov.mal0ajxo.io	fr		chose ancienne
+malnovaĵo	nov.mal0ajxo.io	fr		ancienneté
+malnovaĵo	nov.mal0ajxo.io	en		old stuff
+malnovaĵo	nov.mal0ajxo.io	de		altes Zeug
+malnovaĵo	nov.mal0ajxo.io	de		Trödel
+malnovaĵo	nov.mal0ajxo.io	de		Antiquität
+renoviĝi	nov.re0gxi	en		become new again
+renoviĝi	nov.re0gxi	en		renew itself
+renoviĝi	nov.re0gxi	fr	se renouveler	renouveler
+renoviĝi	nov.re0gxi.KOMUNE	en		become new again
+renoviĝi	nov.re0gxi.KOMUNE	en		renew itself
+renoviĝi	nov.re0gxi.KOMUNE	de	sich erneuern	erneuern
+renoviĝi	nov.re0gxi.KOMUNE	fr	se renouveler	renouveler
+renovigi	nov.re0igi	en		renew
+renovigi	nov.re0igi	en		refurbish
+renovigi	nov.re0igi	fr		renouveler
+renovigi	nov.re0igi	en		renovate
+renovigi	nov.re0igi	de		erneuern
+renovigi	nov.re0igi	de		renovieren
+renovigi	nov.re0igi.KOMUNE	en		renew
+renovigi	nov.re0igi.KOMUNE	en		refurbish
+renovigi	nov.re0igi.KOMUNE	fr		renouveler
+renovigi	nov.re0igi.KOMUNE	en		renovate
+renovigi	nov.re0igi.KOMUNE	de		erneuern
+renovigi	nov.re0igi.KOMUNE	de		renovieren
+trompnovaĵo	nov.tromp0ajxo	fr		intoxe
+trompnovaĵo	nov.tromp0ajxo	fr		infoxe
+trompnovaĵo	nov.tromp0ajxo	en		fake news
+trompnovaĵo	nov.tromp0ajxo	en		hoax
+trompnovaĵo	nov.tromp0ajxo	de		Fake News
+trompnovaĵo	nov.tromp0ajxo.INF	fr		intoxe
+trompnovaĵo	nov.tromp0ajxo.INF	fr		infoxe
+trompnovaĵo	nov.tromp0ajxo.INF	en		fake news
+trompnovaĵo	nov.tromp0ajxo.INF	en		hoax
+trompnovaĵo	nov.tromp0ajxo.INF	de		Fake News
+novao	nova.0o	fr		nova
+novao	nova.0o	en		nova
+novao	nova.0o	de		Nova
+novao	nova.0o.AST	fr		nova
+novao	nova.0o.AST	en		nova
+novao	nova.0o.AST	de		Nova
+supernovao	nova.super0o	en		supernova
+supernovao	nova.super0o	de		Supernova
+supernovao	nova.super0o	fr		supernova
+supernovao	nova.super0o.AST	en		supernova
+supernovao	nova.super0o.AST	de		Supernova
+supernovao	nova.super0o.AST	fr		supernova
+novaligi	noval.0igi	fr	mettre en jachère	jachère
+novaligi	noval.0igi	fr	laisser en jachère	jachère
+novaligi	noval.0igi	en		to fallow
+novaligi	noval.0igi	de	brachliegen lassen	brachliegen
+novaligi	noval.0igi.AGR	fr	mettre en jachère	jachère
+novaligi	noval.0igi.AGR	fr	laisser en jachère	jachère
+novaligi	noval.0igi.AGR	en		to fallow
+novaligi	noval.0igi.AGR	de	brachliegen lassen	brachliegen
+novalo	noval.0o	fr		jachère
+novalo	noval.0o	en		fallow land
+novalo	noval.0o	en		fallow
+novalo	noval.0o	de		Regenerationsfläche
+novalo	noval.0o	de		Brache
+novalo	noval.0o.AGR	fr		jachère
+novalo	noval.0o.AGR	en		fallow land
+novalo	noval.0o.AGR	en		fallow
+novalo	noval.0o.AGR	de		Regenerationsfläche
+novalo	noval.0o.AGR	de		Brache
+novelaro	novel.0aro	fr	recueil de nouvelles	nouvelles
+noveleto	novel.0eto	en		short short
+noveleto	novel.0eto	de		Kurznovelle
+noveli	novel.0i	NULL	NULL	NULL
+novelisto	novel.0isto	fr		novéliste
+novelisto	novel.0isto	fr		novelliste
+novelisto	novel.0isto	fr		nouvelliste
+novelo	novel.0o	fr	nouvelle (littérature)	nouvelle
+novelo	novel.0o	en		short story
+novelo	novel.0o	en		novelette
+novelo	novel.0o	de		Novelle
+novembra	novemb.0a	fr	de novembre	novembre
+novembra	novemb.0a	de		November-
+novembra	novemb.0a	de		im November
+Novgorodo	novgorod.0o	de		Nowgorod
+Novialo	novial.0o	en		Novial
+Novialo	novial.0o	de		Novial
+novica	novic.0a	fr	novice (adj.)	novice
+novica	novic.0a.FIG	fr	novice (adj.)	novice
+novica	novic.0a.FIG	de		unerfahren
+novicino	novic.0ino	fr	novice (fém.)	novice
+novicino	novic.0ino	en		novice
+novicino	novic.0ino	de		Novizin
+novicino	novic.0ino.REL	fr	novice (fém.)	novice
+novicino	novic.0ino.REL	en		novice
+novicino	novic.0ino.REL	de		Novizin
+novico	novic.0o	fr	novice (masc.)	novice
+novico	novic.0o	en		novice
+novico	novic.0o.REL	de		Novize
+novico	novic.0o.REL	fr	novice (masc.)	novice
+novico	novic.0o.REL	en		novice
+novico	novic.0o.novulo	fr	novice (masc.)	novice
+novico	novic.0o.novulo	en		novice
+novico	novic.0o.novulo	de		Frischling
+novico	novic.0o.novulo	de		Neuling
+Novosibirsko	novosib.0o	fr		Novosibirsk
+Novosibirsko	novosib.0o	en		Novosibirsk
+Novosibirsko	novosib.0o	de		Nowosibirsk
+Novosibirsko	novosib.0o.GEOG	fr		Novosibirsk
+Novosibirsko	novosib.0o.GEOG	en		Novosibirsk
+Novosibirsko	novosib.0o.GEOG	de		Nowosibirsk
+nu	nu.0	en		well
+nu	nu.0	fr		or
+nu	nu.0	de		na ja
+nu	nu.0	de		nu ja
+nu	nu.0	de		hm
+nu	nu.0	de		nun
+nu	nu.0	fr		eh bien
+nu	nu.0	de		na!
+nu	nu.0	de		nu!
+Nuakŝoto	nuaksxot.0o	fr		Nouakchott
+Nuakŝoto	nuaksxot.0o	en		Nouakchott
+Nuakŝoto	nuaksxot.0o	de		Nouakchott
+nuanci	nuanc.0i	fr		nuancer
+nuanci	nuanc.0i	en		gradate
+nuanci	nuanc.0i	en		to nuance
+nuanci	nuanc.0i	de		nuancieren
+nuanco	nuanc.0o	fr		nuance
+nuanco	nuanc.0o	en		nuance
+nuanco	nuanc.0o	de		Nuance
+nuanco	nuanc.0o	en		shade
+nuba	nub.0a	en		cloudy
+nuba	nub.0a.MET	en		cloudy
+nuba	nub.0a.MET	fr		nuageux
+nuba	nub.0a.MET	de		wolkig
+nuba	nub.0a.MET	de		bewölkt
+nuba	nub.0a.malklara	en		cloudy
+nuba	nub.0a.malklara	en		obscure
+nuba	nub.0a.malklara	en		unclear
+nuba	nub.0a.malklara	de		unklar
+nuba	nub.0a.malklara	de		vage
+nuba	nub.0a.malklara	fr	obscur (fig.)	obscur
+nuba	nub.0a.malklara	fr	nébuleux (fig.)	nébuleux
+nuba	nub.0a.maltrankviliga	en		cloudy
+nuba	nub.0a.maltrankviliga	en		gloomy
+nuba	nub.0a.maltrankviliga	de		finster
+sennuba	nub.sen0a	de		heiter
+sennuba	nub.sen0a.FIG	de		heiter
+sennuba	nub.sen0a.FIG	de		ungestört
+sennuba	nub.sen0a.MET	de		heiter
+sennuba	nub.sen0a.MET	de		wolkenlos
+Nubiano	nubi.0ano	de		Nubier
+Nubio	nubi.0o	NULL	NULL	NULL
+Nubio	nubi.0o.regiono	fr		Nubie
+Nubio	nubi.0o.regiono	en		Nubia
+Nubio	nubi.0o.regiono	de		Nubien
+nuda	nud.0a	fr		nu
+nuda	nud.0a	en		naked
+nuda	nud.0a.FIG_nekovrita	de		unbedeckt
+nuda	nud.0a.FIG_nekovrita	de		ungeschützt
+nuda	nud.0a.FIG_nekovrita	fr		nu
+nuda	nud.0a.FIG_nekovrita	en		naked
+nuda	nud.0a.FIG_senornama	fr		nu
+nuda	nud.0a.FIG_senornama	en		naked
+nuda	nud.0a.FIG_senornama	de		lauter
+nuda	nud.0a.FIG_senornama	de		rein
+nuda	nud.0a.FIG_senornama	de		einfach
+nuda	nud.0a.FIG_senornama	de		schlicht
+nudigi	nud.0igi	fr		dénuder
+nudigi	nud.0igi	de		entblößen
+nudigi	nud.0igi.FIG	fr		dénuder
+nudigi	nud.0igi.FIG	de		entblößen
+nudigi	nud.0igi.KOMUNE	fr		dénuder
+nudigi	nud.0igi.KOMUNE	de		entblößen
+nudiĝi	nud.0igxi	fr	se dénuder	dénuder
+nudiĝi	nud.0igxi	de	sich entblößen	entblößen
+nudiĝi	nud.0igxi.KOMUNE	fr	se dénuder	dénuder
+nudiĝi	nud.0igxi.KOMUNE	de	sich entblößen	entblößen
+nudismo	nud.0ismo	fr		nudisme
+nudismo	nud.0ismo	en		nudism
+nudismo	nud.0ismo	de		Nudismus
+nudismo	nud.0ismo.MOR	fr		nudisme
+nudismo	nud.0ismo.MOR	en		nudism
+nudismo	nud.0ismo.MOR	de		Nudismus
+nudisto	nud.0isto	fr		nudiste
+nudisto	nud.0isto	en		nudist
+nudisto	nud.0isto	de		Nudist
+nudisto	nud.0isto.MOR	fr		nudiste
+nudisto	nud.0isto.MOR	en		nudist
+nudisto	nud.0isto.MOR	de		Nudist
+nufaro	nufar.0o	fr		nénuphar
+nufaro	nufar.0o	de		Mummel
+nufaro	nufar.0o	de		Teichrose
+nufaro	nufar.0o.BOT	fr		nénuphar
+nufaro	nufar.0o.BOT	de		Mummel
+nufaro	nufar.0o.BOT	de		Teichrose
+nugato	nugat.0o	fr		nougat
+nugato	nugat.0o	en		nougat
+nugato	nugat.0o	de		Nugat
+nuko	nuk.0o	fr		nuque
+nuko	nuk.0o	en		scruff
+nuko	nuk.0o	de		Nacken
+nuko	nuk.0o	en		nape
+nuko	nuk.0o.kolo	fr		nuque
+nuko	nuk.0o.kolo	en		scruff
+nuko	nuk.0o.kolo	de		Nacken
+nuko	nuk.0o.kolo	en		nape
+nuko	nuk.0o.okcipito	fr		nuque
+nuko	nuk.0o.okcipito	en		scruff
+nuko	nuk.0o.okcipito	de		Nacken
+nuko	nuk.0o.okcipito	en		nape
+rigidnuka	nuk.rigid0a	fr		obstiné
+malmolnuka	nuk.rigid0a	fr		obstiné
+rigidnuka	nuk.rigid0a	fr		intransigeant
+malmolnuka	nuk.rigid0a	fr		intransigeant
+rigidnuka	nuk.rigid0a	en		stiff-necked
+malmolnuka	nuk.rigid0a	en		stiff-necked
+rigidnuka	nuk.rigid0a	en		mulish
+malmolnuka	nuk.rigid0a	en		mulish
+rigidnuka	nuk.rigid0a	en		stubborn
+malmolnuka	nuk.rigid0a	en		stubborn
+rigidnuka	nuk.rigid0a	en		intransigent
+malmolnuka	nuk.rigid0a	en		intransigent
+rigidnuka	nuk.rigid0a	en		obstinate
+malmolnuka	nuk.rigid0a	en		obstinate
+rigidnuka	nuk.rigid0a	de		hartnäckig
+malmolnuka	nuk.rigid0a	de		hartnäckig
+nuklea	nukle.0a	fr		nucléaire
+nuklea	nukle.0a	en		nuclear
+nuklea	nukle.0a.BIO	fr		nucléaire
+nuklea	nukle.0a.BIO	en		nuclear
+nuklea	nukle.0a.BIO	de		atomar
+nuklea	nukle.0a.FIZ	fr		nucléaire
+nuklea	nukle.0a.FIZ	en		nuclear
+nuklea	nukle.0a.FIZ	de		nuklear
+nukleo	nukle.0o	en		nucleus
+nukleo	nukle.0o.BIO	en		nucleus
+nukleo	nukle.0o.BIO	fr	noyau (cellulaire)	noyau
+nukleo	nukle.0o.BIO	de		Zellkern
+nukleo	nukle.0o.BIO	de		Kern
+nukleo	nukle.0o.FIZ	en		nucleus
+nukleo	nukle.0o.FIZ	fr	noyau (atomique)	noyau
+nukleo	nukle.0o.FIZ	de		Atomkern
+nukleo	nukle.0o.FIZ	de		Kern
+nukleono	nukleon.0o	fr		nucléon
+nukleono	nukleon.0o	en		nucleon
+nukleono	nukleon.0o	de		Nukleon
+nukleotido	nukleotid.0o	fr		nucléotide
+nukleotido	nukleotid.0o	de		Nukleotid
+nukleotido	nukleotid.0o.GNT	fr		nucléotide
+nukleotido	nukleotid.0o.GNT	de		Nukleotid
+nukleozido	nukleozid.0o	fr		nucléoside
+nukleozido	nukleozid.0o	en		nucleoside
+nukleozido	nukleozid.0o	de		Nukleosid
+nukso	nuks.0o	en		nut
+nukso	nuks.0o	de		Nuss
+nukso	nuks.0o	fr	noix (toute espèce)	noix
+nukso	nuks.0o.BOT	en		nut
+nukso	nuks.0o.BOT	de		Nuss
+nukso	nuks.0o.BOT	fr	noix (toute espèce)	noix
+nukso	nuks.0o.KOMUNE	de		Nuss
+nukso	nuks.0o.KOMUNE	fr	noix (toute espèce)	noix
+nukso	nuks.0o.KOMUNE	en		nut
+brazila nuksarbo	nuks.brazil0arbo	fr		noyer du brésil
+brazilnuksarbo	nuks.brazil0arbo	fr		noyer du brésil
+brazila nuksarbo	nuks.brazil0arbo	fr		noyer d'Amazonie
+brazilnuksarbo	nuks.brazil0arbo	fr		noyer d'Amazonie
+brazila nuksarbo	nuks.brazil0arbo	de		Paranussbaum
+brazilnuksarbo	nuks.brazil0arbo	de		Paranussbaum
+brazila nuksarbo	nuks.brazil0arbo.BOT	fr		noyer du brésil
+brazilnuksarbo	nuks.brazil0arbo.BOT	fr		noyer du brésil
+brazila nuksarbo	nuks.brazil0arbo.BOT	fr		noyer d'Amazonie
+brazilnuksarbo	nuks.brazil0arbo.BOT	fr		noyer d'Amazonie
+brazila nuksarbo	nuks.brazil0arbo.BOT	de		Paranussbaum
+brazilnuksarbo	nuks.brazil0arbo.BOT	de		Paranussbaum
+brazila nukso	nuks.brazila0o	de		Paranuss
+brazila nukso	nuks.brazila0o	fr		noix du brésil
+brazila nukso	nuks.brazila0o	fr		noix d'Amazonie
+brazila nukso	nuks.brazila0o.KUI	de		Paranuss
+brazila nukso	nuks.brazila0o.KUI	fr		noix du brésil
+brazila nukso	nuks.brazila0o.KUI	fr		noix d'Amazonie
+vomnuksarbo	nuks.vom0arbo	fr		vomiquier
+vomnuksarbo	nuks.vom0arbo	en	strychnine (tree)	strychnine
+vomnuksarbo	nuks.vom0arbo.BOT	fr		vomiquier
+vomnuksarbo	nuks.vom0arbo.BOT	en	strychnine (tree)	strychnine
+vomnukso	nuks.vom0o	fr		noix vomique
+vomnukso	nuks.vom0o	en	strychnine (nut)	strychnine
+vomnukso	nuks.vom0o.BOT	fr		noix vomique
+vomnukso	nuks.vom0o.BOT	en	strychnine (nut)	strychnine
+Nukualofo	nukualof.0o	fr		Nukuʻalofa
+Nukualofo	nukualof.0o	en		Nukuʻalofa
+Nukualofo	nukualof.0o	de		Nukuʻalofa
+nul	nul0.0	en		zero
+nul	nul0.0	de		null
+nul	nul0.0	fr		zéro
+nul	nul0.0.cifero	de		null
+nul	nul0.0.cifero	fr		zéro
+nul	nul0.0.cifero	en		zero
+nul	nul0.0.nombro	de		null
+nul	nul0.0.nombro	fr		zéro
+nul	nul0.0.nombro	en		zero
+nula	nul0.0a	fr		nul
+nula	nul0.0a.MAT	fr		nul
+nula	nul0.0a.MAT	en		zero
+nula	nul0.0a.MAT	en		null
+nula	nul0.0a.MAT	de		Null-
+nula	nul0.0a.MAT	fr		nul
+nula	nul0.0a.numero	fr		nul
+nulejo	nul0.0ejo	NULL	NULL	NULL
+nuli	nul0.0i	NULL	NULL	NULL
+nuli	nul0.0i.KOMUNE	de		Null sein
+nuli	nul0.0i.MAT	de	zu Null aufgehen	Null aufgehen
+nuli	nul0.0i.MAT	de		Null werden
+nuliganto	nul0.0iganto	NULL	NULL	NULL
+nuligi	nul0.0igi	de		begleichen
+nuligi	nul0.0igi	fr		annuler
+nuligi	nul0.0igi	de		annullieren
+nuligi	nul0.0igi	de	für ungültig erklären	ungültig
+nuligi	nul0.0igi	de		streichen
+nuligi	nul0.0igi	de		aufheben
+nuligi	nul0.0igi	de		annullieren
+nuligi	nul0.0igi.KOMUNE	fr		annuler
+nuligi	nul0.0igi.KOMUNE	de		annullieren
+nuligi	nul0.0igi.KOMUNE	de		begleichen
+nuligi	nul0.0igi.KOMUNE	de	für ungültig erklären	ungültig
+nuligi	nul0.0igi.KOMUNE	de		streichen
+nuligi	nul0.0igi.KOMUNE	de		aufheben
+nuligi	nul0.0igi.KOMUNE	de		annullieren
+nuligi	nul0.0igi.MAT	fr		annuler
+nuligi	nul0.0igi.MAT	de		annullieren
+nuligi	nul0.0igi.MAT	de		begleichen
+nuligi	nul0.0igi.MAT	de	für ungültig erklären	ungültig
+nuligi	nul0.0igi.MAT	de		streichen
+nuligi	nul0.0igi.MAT	de		aufheben
+nuligi	nul0.0igi.MAT	de		annullieren
+nuligi	nul0.0igi.MAT	en		nullify
+nuliĝi	nul0.0igxi	fr	s'annuler	annuler
+nuliĝi	nul0.0igxi.KOMUNE	fr	s'annuler	annuler
+nuliĝi	nul0.0igxi.KOMUNE	de		Null werden
+nuliĝi	nul0.0igxi.MAT	fr	s'annuler	annuler
+nuliĝi	nul0.0igxi.MAT	en		vanish
+nuliĝi	nul0.0igxi.MAT	de	zu Null aufgehen	Null aufgehen
+nuliĝi	nul0.0igxi.MAT	de		Null werden
+ekde nulo	nul0.ekde_0o	fr		from scratch
+ekde nulo	nul0.ekde_0o	fr		ex nihilo
+ekde nulo	nul0.ekde_0o	fr		à partir de rien
+ekde nulo	nul0.ekde_0o.KOMUNE	fr		from scratch
+ekde nulo	nul0.ekde_0o.KOMUNE	fr		ex nihilo
+ekde nulo	nul0.ekde_0o.KOMUNE	fr		à partir de rien
+numenio	numeni.0o	fr		courlis
+numenio	numeni.0o	en		curlew
+numenio	numeni.0o.ZOO	fr		courlis
+numenio	numeni.0o.ZOO	en		curlew
+numerebla	numer.0ebla	NULL	NULL	NULL
+numerebla	numer.0ebla.KOMUNE	fr		numérotable
+numero	numer.0o	fr		numéro
+numero	numer.0o	en		number
+numero	numer.0o	de		Nummer
+numero	numer.0o.nombro	fr		numéro
+numero	numer.0o.nombro	en		number
+numero	numer.0o.nombro	de		Nummer
+numero	numer.0o.objekto	fr		numéro
+numero	numer.0o.objekto	en		number
+numero	numer.0o.objekto	de		Nummer
+provnumero	numer.prov0o	NULL	NULL	NULL
+signonumero	numer.signo0o	fr	mot-code	code
+signonumero	numer.signo0o	fr	élément de code	code
+signonumero	numer.signo0o	en		code position
+signonumero	numer.signo0o	en		code point
+signonumero	numer.signo0o	en		code element
+signonumero	numer.signo0o	fr		codet
+numeralo	numera.0o	NULL	NULL	NULL
+numeralo	numera.0o.gra	en		numeral
+numeralo	numera.0o.gra	de		Zahlwort
+numeralo	numera.0o.komp	en		manifest constant
+numeralo	numera.0o.komp	en		number denotation
+numeralo	numera.0o.komp	en		numeral
+numeratoro	numera1.0o	fr	numérateur (d'une fraction)	numérateur
+numeratoro	numera1.0o	en		numerator
+numeratoro	numera1.0o	de		Zähler
+numerologio	numerologi.0o	fr		numérologie
+numerologio	numerologi.0o.DIV	fr		numérologie
+numido	numid.0o	fr		pintade
+numido	numid.0o	de		Perlhuhn
+numido	numid.0o.ZOO	fr		pintade
+numido	numid.0o.ZOO	de		Perlhuhn
+numido	numid1.0o	de		Numide
+numismatiko	numism.0o	fr		numismatique
+numismatiko	numism.0o	de		Numismatik
+numismato	numism1.0o	fr		numismate
+numismato	numism1.0o	de		Numismatiker
+numismato	numism1.0o	en		numismatist
+numismato	numism1.0o.MON	fr		numismate
+numismato	numism1.0o.MON	de		Numismatiker
+numismato	numism1.0o.MON	en		numismatist
+nun	nun.0	fr		maintenant
+nun	nun.0	de		jetzt
+nun	nun.0	en		now
+nun	nun.0	de		nun
+nun	nun.0.KOMUNE	fr		maintenant
+nun	nun.0.KOMUNE	de		jetzt
+nun	nun.0.KOMUNE	en		now
+nun	nun.0.KOMUNE	de		nun
+nunnune	nun.00e	fr		immédiatement
+nunnune	nun.00e	fr		à l'instant
+nunnune	nun.00e.FRAZ	fr		immédiatement
+nunnune	nun.00e.FRAZ	fr		à l'instant
+nuna	nun.0a	en		current
+nuna	nun.0a	de		derzeitig
+nuna	nun.0a	de		jetzig
+nuna	nun.0a	fr	présent (actuel)	présent
+nuna	nun.0a	fr		actuel
+nuna	nun.0a	en	present (adj.)	present
+nuna	nun.0a.KOMUNE	de		derzeitig
+nuna	nun.0a.KOMUNE	de		jetzig
+nuna	nun.0a.KOMUNE	fr	présent (actuel)	présent
+nuna	nun.0a.KOMUNE	fr		actuel
+nuna	nun.0a.KOMUNE	en	present (adj.)	present
+nuna	nun.0a.KOMUNE	en		current
+nunaĵo	nun.0ajxo	de	das Jetzige	Jetzige
+nune	nun.0e	en		at the moment
+nune	nun.0e	en		at present
+nune	nun.0e	en		currently
+nune	nun.0e.emfaza	en		at the moment
+nune	nun.0e.emfaza	en		at present
+nune	nun.0e.emfaza	en		currently
+nune	nun.0e.modifa	en		at the moment
+nune	nun.0e.modifa	en		at present
+nune	nun.0e.modifa	en		currently
+nuntempe	nun.0tempe	fr		à notre époque
+nuntempe	nun.0tempe	fr		actuellement
+nuntempe	nun.0tempe	en		nowadays
+nuntempe	nun.0tempe	de		derzeit
+nuntempe	nun.0tempe	de		heutzutage
+nuntempe	nun.0tempe	de	zur Zeit	Zeit
+nuntempe	nun.0tempe.TEMP	fr		à notre époque
+nuntempe	nun.0tempe.TEMP	fr		actuellement
+nuntempe	nun.0tempe.TEMP	en		nowadays
+nuntempe	nun.0tempe.TEMP	de		heutzutage
+nuntempe	nun.0tempe.TEMP	de	zur Zeit	Zeit
+nuntempe	nun.0tempe.TEMP	de		derzeit
+denun	nun.de0	en		from now
+de nun	nun.de0	en		from now
+denun	nun.de0	de	von jetzt an	jetzt
+de nun	nun.de0	de	von jetzt an	jetzt
+denun	nun.de0	de	von nun an	nun
+de nun	nun.de0	de	von nun an	nun
+denun	nun.de0	fr		dès lors
+de nun	nun.de0	fr		dès lors
+denun	nun.de0	fr		désormais
+de nun	nun.de0	fr		désormais
+de nun	nun.de0.TEMP	en		from now
+denun	nun.de0.TEMP	de	von jetzt an	jetzt
+de nun	nun.de0.TEMP	de	von jetzt an	jetzt
+denun	nun.de0.TEMP	de	von nun an	nun
+de nun	nun.de0.TEMP	de	von nun an	nun
+denun	nun.de0.TEMP	fr		dès lors
+de nun	nun.de0.TEMP	fr		dès lors
+denun	nun.de0.TEMP	fr		désormais
+de nun	nun.de0.TEMP	fr		désormais
+denun	nun.de0.TEMP	en		from now
+ĝisnuna	nun.gxis0a	fr	passé (adj., jusqu'à auj.)	passé
+ĝisnuna	nun.gxis0a	fr	antérieur (jusqu'à auj.)	antérieur
+ĝisnuna	nun.gxis0a	en		hitherto
+ĝisnuna	nun.gxis0a	en	... so far	so far
+ĝisnuna	nun.gxis0a	de		bisheriger
+ĝisnuna	nun.gxis0a.KOMUNE	fr	passé (adj., jusqu'à auj.)	passé
+ĝisnuna	nun.gxis0a.KOMUNE	fr	antérieur (jusqu'à auj.)	antérieur
+ĝisnuna	nun.gxis0a.KOMUNE	en		hitherto
+ĝisnuna	nun.gxis0a.KOMUNE	en	... so far	so far
+ĝisnuna	nun.gxis0a.KOMUNE	de		bisheriger
+Nunavuto	nunavut.0o	fr		Nunavut
+Nunavuto	nunavut.0o	en		Nunavut
+Nunavuto	nunavut.0o	de		Nunavut
+nuncio	nunci.0o	fr		nonce (apostolique)
+nuncio	nunci.0o	en		nuncio
+nuncio	nunci.0o	de		Nuntius
+nuo	nuo.0o	fr		nu
+nuo	nuo.0o	en		nu
+nuo	nuo.0o.LIN	fr		nu
+nuo	nuo.0o.LIN	en		nu
+nupto	nupt.0o	fr		noce
+nupto	nupt.0o	en		nuptials
+nupto	nupt.0o	en		wedding
+nupto	nupt.0o	de		Hochzeitsfest
+nupto	nupt.0o.MOR	fr		noce
+nupto	nupt.0o.MOR	en		nuptials
+nupto	nupt.0o.MOR	en		wedding
+nupto	nupt.0o.MOR	de		Hochzeitsfest
+nur	nur.0	fr		seulement
+nur	nur.0	fr		ne ... que
+nur	nur.0	en		only
+nur	nur.0	en		merely
+nur	nur.0	en	only (adv)	only
+nur	nur.0.nealie	fr		ne ... que
+nur	nur.0.nealie	en		only
+nur	nur.0.nealie	de		lediglich
+nur	nur.0.nealie	de		ausschließlich
+nur	nur.0.nealie	de		bloß
+nur	nur.0.nealie	de		nur
+nur	nur.0.nealie	en		merely
+nur	nur.0.nealie	en	only (adv)	only
+nur	nur.0.nealie	fr		seulement
+nur	nur.0.nepli	fr		ne ... que
+nur	nur.0.nepli	en		only
+nur	nur.0.nepli	de		bloß
+nur	nur.0.nepli	de		nur
+nur	nur.0.nepli	en		merely
+nur	nur.0.nepli	en	only (adv)	only
+nur	nur.0.nepli	fr		seulement
+nur	nur.0.neplifrue	fr		ne ... que
+nur	nur.0.neplifrue	en		only
+nur	nur.0.neplifrue	de		erst
+nur	nur.0.neplifrue	en		merely
+nur	nur.0.neplifrue	en	only (adv)	only
+nur	nur.0.neplifrue	fr		seulement
+nur	nur.0.neplimalfrue	fr		ne ... que
+nur	nur.0.neplimalfrue	en		only
+nur	nur.0.neplimalfrue	de	nicht später als	später
+nur	nur.0.neplimalfrue	de	nur bis	bis
+nur	nur.0.neplimalfrue	en		merely
+nur	nur.0.neplimalfrue	en	only (adv)	only
+nur	nur.0.neplimalfrue	fr		seulement
+nurnura	nur.00a	fr		seul et unique
+nurnura	nur.00a	fr		pur et simple
+nurnura	nur.00a	en	sole (adj, only and without exception)	sole
+nurnura	nur.00a	de		einziger
+nurnura	nur.00a.KOMUNE	fr		seul et unique
+nurnura	nur.00a.KOMUNE	fr		pur et simple
+nurnura	nur.00a.KOMUNE	en	sole (adj, only and without exception)	sole
+nurnura	nur.00a.KOMUNE	de		einziger
+nura	nur.0a	fr	simple (pur et simple)	simple
+nura	nur.0a	en	only (adj)	only
+nura	nur.0a	en		mere
+nura	nur.0a	de		rein
+nura	nur.0a	de		bloß
+nura	nur.0a.KOMUNE	fr	simple (pur et simple)	simple
+nura	nur.0a.KOMUNE	en	only (adj)	only
+nura	nur.0a.KOMUNE	en		mere
+nura	nur.0a.KOMUNE	de		rein
+nura	nur.0a.KOMUNE	de		bloß
+ununura	nur.unu0a	fr		unique
+ununura	nur.unu0a	en		one and only
+ununura	nur.unu0a	de		einzig
+ununura	nur.unu0a.unika	en		one and only
+ununura	nur.unu0a.unika	de		einzig
+ununura	nur.unu0a.unika	fr		unique
+Nurnbergo	nurenb.0o	fr		Nuremberg
+Nurenbergo	nurenb.0o	fr		Nuremberg
+Nurnbergo	nurenb.0o	en		Nuremberg
+Nurenbergo	nurenb.0o	en		Nuremberg
+Nurnbergo	nurenb.0o	de		Nürnberg
+Nurenbergo	nurenb.0o	de		Nürnberg
+Nurnbergo	nurenb.0o.urbo	fr		Nuremberg
+Nurenbergo	nurenb.0o.urbo	fr		Nuremberg
+Nurnbergo	nurenb.0o.urbo	en		Nuremberg
+Nurenbergo	nurenb.0o.urbo	en		Nuremberg
+Nurnbergo	nurenb.0o.urbo	de		Nürnberg
+Nurenbergo	nurenb.0o.urbo	de		Nürnberg
+Astano	nursultan.0o	NULL	NULL	NULL
+Nursultano	nursultan.0o	NULL	NULL	NULL
+Astano	nursultan.0o.cxefurbo	fr		Noursoultan
+Nursultano	nursultan.0o.cxefurbo	fr		Noursoultan
+Astano	nursultan.0o.cxefurbo	en		Nur-Sultan
+Nursultano	nursultan.0o.cxefurbo	en		Nur-Sultan
+Astano	nursultan.0o.cxefurbo	de		Astana
+Nursultano	nursultan.0o.cxefurbo	de		Astana
+Astano	nursultan.0o.cxefurbo	de		Nur-Sultan
+Nursultano	nursultan.0o.cxefurbo	de		Nur-Sultan
+nutra	nutr.0a	fr		nutritif
+nutra	nutr.0a	fr		nourrissant
+nutra	nutr.0a	en		nutritious
+nutra	nutr.0a	de		nahrhaft
+nutra	nutr.0a.BIO	fr		nutritif
+nutra	nutr.0a.BIO	fr		nourrissant
+nutra	nutr.0a.BIO	en		nutritious
+nutra	nutr.0a.BIO	de		nahrhaft
+nutraĵo	nutr.0ajxo	fr		aliment
+nutraĵo	nutr.0ajxo	fr		nourriture
+nutraĵo	nutr.0ajxo	en		food
+nutraĵo	nutr.0ajxo	de		Nahrung
+nutraĵo	nutr.0ajxo.BIO	fr		aliment
+nutraĵo	nutr.0ajxo.BIO	fr		nourriture
+nutraĵo	nutr.0ajxo.BIO	en		food
+nutraĵo	nutr.0ajxo.BIO	de		Nahrung
+nutrejo	nutr.0ejo	NULL	NULL	NULL
+nutrejo	nutr.0ejo.AGR	NULL	NULL	NULL
+nutri	nutr.0i	fr		nourrir
+nutri	nutr.0i	en		feed
+nutri	nutr.0i	en		nourish
+nutri	nutr.0i	fr		alimenter
+nutri	nutr.0i.BIO	fr		nourrir
+nutri	nutr.0i.BIO	en		feed
+nutri	nutr.0i.BIO	en		nourish
+nutri	nutr.0i.BIO	de		ernähren
+nutri	nutr.0i.BIO	fr		alimenter
+nutri	nutr.0i.senton	fr		nourrir
+nutri	nutr.0i.senton	en		feed
+nutri	nutr.0i.senton	en		nourish
+nutri	nutr.0i.senton	de		nähren
+nutri	nutr.0i.senton	fr		alimenter
+nutristino	nutr.0istino	fr	assistante maternelle	assistante
+nutristino	nutr.0istino	fr	nourrice (assistante maternelle)	nourrice
+nutristino	nutr.0istino	en		wet nurse
+nutristino	nutr.0istino	de		Amme
+nutristino	nutr.0istino.PED	fr	assistante maternelle	assistante
+nutristino	nutr.0istino.PED	fr	nourrice (assistante maternelle)	nourrice
+nutristino	nutr.0istino.PED	en		wet nurse
+nutristino	nutr.0istino.PED	de		Amme
+nutro	nutr.0o	fr		alimentation
+nutro	nutr.0o	fr		nutrition
+nutro	nutr.0o	en		nourishment
+nutro	nutr.0o.BIO	fr		nutrition
+nutro	nutr.0o.BIO	en		nourishment
+nutro	nutr.0o.BIO	fr		alimentation
+mamnutri	nutr.mam0i	en		suckle
+mamnutri	nutr.mam0i	en		nurse
+mamnutri	nutr.mam0i	de		stillen
+mamnutri	nutr.mam0i	de		säugen
+mamnutri	nutr.mam0i	fr		allaiter
+mamnutri	nutr.mam0i	en		breastfeed
+mamnutristino	nutr.mam0istino	fr	nourrice (qui allaite)	nourrice
+mamnutristino	nutr.mam0istino	en		wet nurse
+mamnutro	nutr.mam0o	fr		allaitement
+mamnutro	nutr.mam0o	en		breastfeeding
+misnutrado	nutr.mis0ado	fr		malnutrition
+misnutrado	nutr.mis0ado	en		malnutrition
+misnutrado	nutr.mis0ado.DIET	fr		malnutrition
+misnutrado	nutr.mis0ado.DIET	en		malnutrition
+subnutrado	nutr.sub0ado	fr		sous-alimentation
+subnutrado	nutr.sub0ado	fr		sous-nutrition
+subnutrado	nutr.sub0ado	en		undernourishment
+subnutrado	nutr.sub0ado.DIET	fr		sous-alimentation
+subnutrado	nutr.sub0ado.DIET	fr		sous-nutrition
+subnutrado	nutr.sub0ado.DIET	en		undernourishment
