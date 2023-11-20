@@ -304,3 +304,186 @@ assert(celo('internacia publika juro','jur.internacia_0o','万国公法[wàn gu�
 assert(celo(kutimjuro,'jur.kutim0o','习惯法[xí guàn fǎ]')).
 assert(celo('romana juro','jur.roma_0o','罗马法[Luó mǎ fǎ]')).
 assert(celo(jurisdikcio,'jurisdikci.0o.JUR','审判权[shěn pàn quán]')).
+assert(celo(jurisprudenco,'jurisprudenc.0o','法理学[fǎ lǐ xué]')).
+assert(celo(jurto,'jurt.0o','廙[yì]')).
+assert(celo(jurto,'jurt.0o','圆顶帐篷[yuán dǐng zhàng peng]')).
+assert(celo(jurto,'jurt.0o','蒙古包[méng gǔ bāo]')).
+assert(celo(jurto,'jurt.0o','毡房[zhān fáng]')).
+assert(celo(justa,'just.0a','公平[gōng píng]')).
+assert(celo(justa,'just.0a','秉公[bǐng gōng]')).
+assert(celo(justa,'just.0a','正义[zhèng yì]')).
+assert(celo(justa,'just.0a','公允[gōng yǔn]')).
+assert(celo(justa,'just.0a','公道[gōng dao]')).
+assert(celo(justeco,'just.0eco','义[yì]')).
+assert(celo(justeco,'just.0eco','正义[zhèng yì]')).
+assert(celo(justeco,'just.0eco','公道[gōng dào]')).
+assert(celo(justeco,'just.0eco','公正[gōng zhèng]')).
+assert(celo(maljusta,'just.mal0a','冤枉[yuān wang]')).
+assert(celo(maljusta,'just.mal0a','不义[bù yì]')).
+assert(celo(maljusta,'just.mal0a','不公[bù gōng]')).
+assert(celo(maljustaĵo,'just.mal0ajxo','不公正[bù gōng zhèng]')).
+assert(celo(maljustaĵo,'just.mal0ajxo','不公平[bù gōng píng]')).
+assert(celo(maljustaĵo,'just.mal0ajxo','冤屈[yuān qū]')).
+assert(celo(maljustaĵo,'just.mal0ajxo','冤[yuān]')).
+assert(celo(maljusteco,'just.mal0eco','冤[yuān]')).
+assert(celo(maljusteco,'just.mal0eco','不公正行为[bù gōng zhèng xíng wéi]')).
+assert(celo(maljusteco,'just.mal0eco','非正义性[fēi zhèng yì xìng]')).
+assert(celo(maljusteco,'just.mal0eco','委屈[wěi qū]')).
+assert(celo(justico,'justic.0o','司法[sī fǎ]')).
+assert(celo(justico,'justic.0o','公检法司[gōng jiǎn fǎ sī]')).
+assert(celo('Justiniano','justinian.0o','查士丁尼一世[zhā shì dīng ní yī shì]')).
+assert(celo(juto,'jut.0o','黃麻[huáng má]')).
+assert(celo(juvelejo,'juvel.0ejo','珠宝店[zhū bǎo shāng]')).
+assert(celo(juvelejo,'juvel.0ejo','首飾[shǒu shì]')).
+assert(celo(juvelejo,'juvel.0ejo','首飾店[shǒu shì diàn]')).
+assert(celo(juvelisto,'juvel.0isto','珠宝商[zhū bǎo shāng]')).
+assert(celo(juvelo,'juvel.0o','宝[bǎo]')).
+assert(celo(juvelo,'juvel.0o','賝[chēn]')).
+assert(celo(juvelo,'juvel.0o','明珠[míng zhū]')).
+assert(celo(juvelo,'juvel.0o','美石[měi shí]')).
+assert(celo(juvelo,'juvel.0o','藏品[cáng pǐn]')).
+assert(celo(juvelujo,'juvel.0ujo','妆奁[zhuāng lián]')).
+assert(celo(juvelujo,'juvel.0ujo','奁[lián]')).
+assert(celo(ĵabutikabujo,'jxabutikab.0arbo','嘉宝果[jiā bǎo guǒ]')).
+assert(celo(ĵabutikabujo,'jxabutikab.0arbo','树葡萄[shù pú tao]')).
+assert(celo(ĵako,'jxak.0o','袄[ǎo]')).
+assert(celo(ĵako,'jxak.0o','大衣[dà yī]')).
+assert(celo(ĵako,'jxak.0o','夹克[jiā kè]')).
+assert(celo(ĵako,'jxak1.0o.sxtopilingo','網絡出口[wǎng luò chū kǒu]')).
+assert(celo(ĵako,'jxak1.0o.sxtopilingo','軸套[zhóu tào]')).
+assert(celo(ĵako,'jxak1.0o.sxtopilingo','雌性接口[cí xìng jiē kǒu]')).
+assert(celo(ĵaluza,'jxaluz.0a','嫉妒[jí dù]')).
+assert(celo(ĵaluza,'jxaluz.0a','忌[jì]')).
+assert(celo(ĵaluza,'jxaluz.0a','妒[dù]')).
+assert(celo(ĵaluza,'jxaluz.0a','綠眼[lü yǎn]')).
+assert(celo(ĵaluzi,'jxaluz.0i','嫉[jí]')).
+assert(celo(ĵaluzi,'jxaluz.0i','嫉妒[jí dù]')).
+assert(celo(ĵaluzi,'jxaluz.0i','吃醋[chī cù]')).
+assert(celo(ĵaluzi,'jxaluz.0i','吃味[chī wèi]')).
+assert(celo(ĵaluzi,'jxaluz.0i','拈酸[niān suān]')).
+assert(celo(ĵaluzo,'jxaluz.0o','嫉妒[jí dù]')).
+assert(celo(ĵaluzo,'jxaluz.0o','嫉[jí]')).
+assert(celo(ĵaluzo,'jxaluz.0o','疑忌[yí jì]')).
+assert(celo(ĵaluzo,'jxaluz.0o','醋[cù]')).
+assert(celo(ĵaluzo,'jxaluz.0o','醋劲[cù jìn]')).
+assert(celo(ĵaluzo,'jxaluz.0o','醋意[cù yì]')).
+assert(celo(ĵaluzo,'jxaluz.0o','紅眼病[hóng yǎn bìng]')).
+assert(celo(ĵaluzio,'jxaluzi.0o','盲[máng]')).
+assert(celo(ĵaluzio,'jxaluzi.0o','眛[mèi]')).
+assert(celo(ĵaluzio,'jxaluzi.0o','瞍[sǒu]')).
+assert(celo(ĵaluzio,'jxaluzi.0o','百叶帘[bǎi yè lián]')).
+assert(celo(ĵaluzio,'jxaluzi.0o','眯[mǐ]')).
+assert(celo(ĵaluzio,'jxaluzi.0o','帘子[lián zi]')).
+assert(celo(ĵaluzio,'jxaluzi.0o','妬[dù]')).
+assert(celo(ĵami,'jxam.0i','混淆[hùn xiáo]')).
+assert(celo(ĵargono,'jxargo.0o.pigxino','通用語[tōng yòng yǔ]')).
+assert(celo(ĵargono,'jxargo.0o.pigxino','皮欽語[pí qīn yǔ]')).
+assert(celo(ĵargono,'jxargo.0o.pigxino','社交語言[shè jiāo yǔ yán]')).
+assert(celo(ĵargono,'jxargo.0o.pigxino','洋泾浜[yáng jīng bāng]')).
+assert(celo(ĵargono,'jxargo.0o.socia','哤[máng]')).
+assert(celo(ĵargono,'jxargo.0o.socia','隐语[yǐn yǔ]')).
+assert(celo(ĵartelo,'jxartel.0o','袜带[wà dài]')).
+assert(celo(ĝazo,'jxaz.0o','爵士乐[jué shì yuè]')).
+assert(celo(ĝazo,'jxaz.0o','爵士音乐[jué shì yīn yuè]')).
+assert(celo(ĝazo,'jxaz.0o','爵士舞[jué shì wǔ]')).
+assert(celo(ĵeleo,'jxele.0o','冻[dòng]')).
+assert(celo(ĵeleo,'jxele.0o','果子冻[guǒ zi dòng]')).
+assert(celo(ĵerzo,'jxerz.0o','毛織運動衫[máo zhī yùn dòng shān]')).
+assert(celo('Ĵerzejo','jxerzej.0o','泽西[Zé xī]')).
+assert(celo('Ĵerzejo','jxerzej.0o','泽西岛[Zé xī Dǎo]')).
+assert(celo('Novĵerzejo','jxerzej.nov0o','新泽西[Xīn zé xī]')).
+assert(celo('Novĵerzejo','jxerzej.nov0o','新泽西州[Xīn zé xī zhōu]')).
+assert(celo('Novĵerzejo','jxerzej.nov0o','紐澤西[Niǔ zé xī]')).
+assert(celo(ĵeti,'jxet.0i','攧[diān]')).
+assert(celo(ĵeti,'jxet.0i','扔[rēng]')).
+assert(celo(ĵeti,'jxet.0i','撺[cuān]')).
+assert(celo(ĵeti,'jxet.0i','抛[pāo]')).
+assert(celo(ĵeti,'jxet.0i','掷[zhì]')).
+assert(celo(ĵeti,'jxet.0i','投射[tóu shè]')).
+assert(celo(ĵeti,'jxet.0i','投掷[tóu zhì]')).
+assert(celo(ĵeto,'jxet.0o.MAT','映射[yìng shè]')).
+assert(celo(akvoĵetilo,'jxet.akvo0ilo','喷水装置水枪[pēn shuǐ zhuāng zhì shuǐ qiāng]')).
+assert(celo(akvoĵetilo,'jxet.akvo0ilo','防暴水枪[fáng bào shuǐ qiāng]')).
+assert(celo(deĵeti,'jxet.de0i','甩[shuǎi]')).
+assert(celo(deĵeti,'jxet.de0i','摈[bìn]')).
+assert(celo(disĵeti,'jxet.dis0i','撒[sǎ]')).
+assert(celo(dissurĵeto,'jxet.dissur0o','双射[shuāng shè]')).
+assert(celo(forĵetindaĵo,'jxet.el0ajxo','下脚料[xià jiǎo liào]')).
+assert(celo(forĵetindaĵo,'jxet.el0ajxo','剪報[jiǎn bào]')).
+assert(celo(forĵetindaĵo,'jxet.el0ajxo','废旧[fèi jiù]')).
+assert(celo(forĵetindaĵo,'jxet.el0ajxo','废料[fèi liào]')).
+assert(celo(elĵeti,'jxet.el0i','抛出[pāo chū]')).
+assert(celo(elĵeti,'jxet.el0i','被迫交出贓物[bèi pò jiāo chū zāng wù]')).
+assert(celo(elĵeti,'jxet.el0i','踢开[tī kāi]')).
+assert(celo(elĵeti,'jxet.el0i','去除[qù chú]')).
+assert(celo(elĵeti,'jxet.el0i','淘[táo]')).
+assert(celo(elĵetulo,'jxet.el0ulo','乞丐[qǐ gài]')).
+assert(celo(elĵetulo,'jxet.el0ulo','叫化子[jiào huā zi]')).
+assert(celo(forĵeti,'jxet.for0i','弃[qì]')).
+assert(celo(forĵeti,'jxet.for0i','扔[rēng]')).
+assert(celo(forĵeti,'jxet.for0i','丟棄[diū qì]')).
+assert(celo(forĵeti,'jxet.for0i','弃置[qì zhì]')).
+assert(celo(forĵeti,'jxet.for0i','抛弃[pāo qì]')).
+assert(celo(forĵeti,'jxet.for0i','扔掉[rēng diào]')).
+assert(celo(forĵetinda,'jxet.for0inda','沒價值[méi jià zhí]')).
+assert(celo(forĵetinda,'jxet.for0inda','省掉[shěng diào]')).
+assert(celo(forĵetinda,'jxet.for0inda','多余[duō yú]')).
+assert(celo(forĵetinda,'jxet.for0inda','贅[zhuì]')).
+assert(celo(surĵeta,'jxet.sur0a','满射[mǎn shè]')).
+assert(celo(surĵeto,'jxet.sur0o','满射[mǎn shè]')).
+assert(celo(ŝtonĵetilo,'jxet.sxton0ilo','弹弓[dàn gōng]')).
+assert(celo(ĝigo,'jxig.0o.muzikajxo','基格[jī gé]')).
+assert(celo(ĵigo,'jxig1.0o','拼图[pīn tú]')).
+assert(celo(ĵigo,'jxig1.0o','拼图玩具[pīn tú wán jù]')).
+assert(celo(ĵipo,'jxip.0o','吉普車[jí pǔ chē]')).
+assert(celo(ĵipo,'jxip.0o','越野車[yuè yě chē]')).
+assert(celo(ĵipo,'jxip.0o','吉普[Jí pǔ]')).
+assert(celo(ĵokeo,'jxoke.0o.SPO','騎手[qí shǒu]')).
+assert(celo(ĵokero,'jxoker.0o.KOMP','通配符[tōng pèi fú]')).
+assert(celo(ĵokero,'jxoker.0o.KOMP','万用字元[wàn yòng zì yuán]')).
+assert(celo(ĵokero,'jxoker.0o.karto','鬼牌[guǐ pái]')).
+assert(celo(ĵongli,'jxongl.0i','耍[shuǎ]')).
+assert(celo(ĵongli,'jxongl.0i','翩翩飛舞[piān piān fēi wǔ]')).
+assert(celo(ĵongli,'jxongl.0i','变戏法[biàn xì fǎ]')).
+assert(celo(ĵonglisto,'jxongl.0isto','滑稽演员[huá ji yǎn yuán]')).
+assert(celo(ĵonglisto,'jxongl.0isto','变戏法者[biàn xì fǎ zhě]')).
+assert(celo(ĵudisto,'jxud.0isto','柔道[róu dào]')).
+assert(celo(ĵudo,'jxud.0o','柔道[róu dào]')).
+retractall(celo(ĵudisto,_,_),1).
+assert(celo('Ĵulo','jxul.0o','焦耳[jiāo ěr]')).
+assert(celo(ĵulo,'jxul.jx0o','焦耳[jiāo ěr]')).
+assert(celo(ĵuri,'jxur.0i','誓言[shì yán]')).
+assert(celo(ĵuri,'jxur.0i','誓[shì]')).
+assert(celo(ĵuro,'jxur.0o','誓言[shì yán]')).
+assert(celo(ĵuro,'jxur.0o','誓[shì]')).
+assert(celo(ĵurrompo,'jxur.0rompo','伪证[wěi zhèng]')).
+assert(celo(ĵurrompo,'jxur.0rompo','虛誓[xū shì]')).
+assert(celo(ĵurrompo,'jxur.0rompo','伪证罪[wěi zhèng zuì]')).
+assert(celo(ĵurrompo,'jxur.0rompo','发假誓[fā jiǎ shì]')).
+assert(celo(kunĵuri,'jxur.kun0i','共謀[gòng móu]')).
+assert(celo(kunĵuri,'jxur.kun0i','密謀[mì móu]')).
+assert(celo(kunĵuri,'jxur.kun0i','图谋[tú móu]')).
+assert(celo(kunĵuri,'jxur.kun0i','同謀[tóng móu]')).
+assert(celo(ĵuraso,'jxuras.0o','侏罗纪[Zhū luó jì]')).
+assert(celo(ĵuraso,'jxuras.0o','侏罗纪[zhū luó jì]')).
+assert(celo('Ĵuraso','jxuras.Jx0o','侏罗纪[zhū luó jì]')).
+assert(celo(ĵuriano,'jxuri.0ano','評委[píng wěi]')).
+assert(celo(ĵurio,'jxuri.0o','陪审团[péi shěn tuán]')).
+assert(celo(ĵurio,'jxuri.0o','評委[píng wěi]')).
+assert(celo(ĵurio,'jxuri.0o','甄选小组[zhēn xuǎn xiǎo zǔ]')).
+assert(celo(ĵurio,'jxuri.0o','审查委员会[shěn chá wěi yuán huì]')).
+assert(celo(ĵurio,'jxuri.0o','評審委員會[píng shěn wěi yuán huì]')).
+assert(celo(ĵurnalismo,'jxurna.0ismo','新聞學[xīn wén xué]')).
+assert(celo(ĵurnalismo,'jxurna.0ismo','新聞事業[xīn wén shì yè]')).
+assert(celo(ĵurnalismo,'jxurna.0ismo','新聞工作[xīn wén gōng zuò]')).
+assert(celo(ĵurnalismo,'jxurna.0ismo','新聞業[xīn wén yè]')).
+assert(celo(ĵurnalisto,'jxurna.0isto','記者[jì zhě]')).
+assert(celo(ĵurnalisto,'jxurna.0isto','新聞記者[xīn wén jì zhě]')).
+assert(celo(ĵurnalisto,'jxurna.0isto','新聞工作者[xīn wén gōng zuò zhě]')).
+assert(celo(ĵurnalo,'jxurna.0o','報紙[bào zhǐ]')).
+assert(celo(ĵurnalo,'jxurna.0o','日志[rì zhì]')).
+assert(celo(ĵus,'jxus.0','适才[shì cái]')).
+assert(celo(ĵus,'jxus.0','适间[shì jiān]')).
+assert(celo(ĵus,'jxus.0','刚刚[gāng gang]')).
+assert(celo(ĵus,'jxus.0','才然[cái rán]')).
+assert(celo(ĵusa,'jxus.0a','晚近[wǎn jìn]')).

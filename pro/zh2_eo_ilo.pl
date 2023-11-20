@@ -78,9 +78,9 @@ sercho(Request) :-
 */
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-eo_def('vrt/eo_def_j.csv'). % eo-de/en/fr
-db_celo('pdb/eo_zh_j.db').
-csv_celo('vrt/eo_zh_j.csv').
+eo_def('vrt/eo_def_k.csv'). % eo-de/en/fr
+db_celo('pdb/eo_zh_k.db').
+csv_celo('vrt/eo_zh_k.csv').
 
 /**
  * Dialogo por aldono de tradukoj:
@@ -530,7 +530,7 @@ trad_stat(Tradukita,TStat) :- member(Tradukita-TStat,[true-'+',false-'-']).
 /**
  * Trovas la lastan konservitan tradukon eo-zh
  */
-lasta(Eo,N) :-
+lasta(Eo) :-
     order_by([desc(N)],call_nth(celo(Eo,_,_),N)).
 
 
@@ -551,8 +551,9 @@ sekva(Sekva) :-
         catch(nb_getval(lasta,Lasta),_,fail),
         call_nth(eo(Eo,Mrk,_,_,_),Lasta)
         ;
-        lasta(Eo,Lasta),
-        call_nth(eo(Eo,Mrk,_,_,_),Lasta)
+        lasta(Eo),
+        call_nth(eo(EoL,Mrk,_,_,_),Lasta),
+        Eo = EoL
         ;
         propono(_,_,Eo,Mrk,_),
         call_nth(eo(EoN,MrkN,_,_,_),Lasta),
