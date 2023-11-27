@@ -2968,3 +2968,597 @@ assert(celo(senkompara,'kompar.sen0a','无与伦比[wú yǔ lún bǐ]')).
 assert(celo(kompaso,'kompas.0o','指南針[zhǐ nán zhēn]')).
 assert(celo(kompaso,'kompas.0o','罗盘[luó pán]')).
 assert(celo(kompaso,'kompas.0o','指北針[zhǐ běi zhēn]')).
+assert(celo('Kompaso','kompas.K0o','罗盘座[Luó pán zuò]')).
+assert(celo(kompata,'kompat.0a','悲凄[bēi qī]')).
+assert(celo(kompatema,'kompat.0ema','仁慈[rén cí]')).
+assert(celo(kompatema,'kompat.0ema','悲悯[bēi mǐn]')).
+assert(celo(kompatemo,'kompat.0emo','同情[tóng qíng]')).
+assert(celo(kompatemo,'kompat.0emo','慈悲[cí bēi]')).
+assert(celo(kompati,'kompat.0i','怜悯[lián mǐn]')).
+assert(celo(kompati,'kompat.0i','惜[xī]')).
+assert(celo(kompati,'kompat.0i','怜[lián]')).
+assert(celo(kompati,'kompat.0i','怜恤[lián xù]')).
+assert(celo(kompati,'kompat.0i','哀矜[āi jīn]')).
+assert(celo(kompati,'kompat.0i','悯[mǐn]')).
+assert(celo(kompatinda,'kompat.0inda','可怜[kě lián]')).
+assert(celo(kompato,'kompat.0o','怜悯[lián mǐn]')).
+assert(celo(kompato,'kompat.0o','慈悲[cí bēi]')).
+assert(celo(kompato,'kompat.0o','同情[tóng qíng]')).
+assert(celo(kompato,'kompat.0o','恻隐之心[cè yǐn zhī xīn]')).
+assert(celo(malkompata,'kompat.mal0a','严酷[yán kù]')).
+assert(celo(malkompata,'kompat.mal0a','杀人不眨眼[shā rén bù zhǎ yǎn]')).
+assert(celo(malkompata,'kompat.mal0a','无情[wú qíng]')).
+assert(celo(malkompata,'kompat.mal0a','狠絕[hěn jué]')).
+assert(celo(memkompato,'kompat.mem0o','自怜[zì lián]')).
+assert(celo(senkompata,'kompat.sen0a','无情[wú qíng]')).
+assert(celo(senkompata,'kompat.sen0a','严酷[yán kù]')).
+assert(celo(senkompata,'kompat.sen0a','杀人不眨眼[shā rén bù zhǎ yǎn]')).
+assert(celo(senkompata,'kompat.sen0a','狠絕[hěn jué]')).
+assert(celo(kompendio,'kompen.0o','简编[jiǎn biān]')).
+assert(celo(kompensaĵo,'kompen1.0ajxo','賠償金[péi cháng jīn]')).
+assert(celo(kompensaĵo,'kompen1.0ajxo','补偿费[bǔ cháng fèi]')).
+assert(celo(kompensaĵo,'kompen1.0ajxo','賠償[péi cháng]')).
+assert(celo(kompensaĵo,'kompen1.0ajxo','賠款[péi kuǎn]')).
+assert(celo(kompensi,'kompen1.0i.KOMUNE','抵[dǐ]')).
+assert(celo(kompensi,'kompen1.0i.KOMUNE','抵扣[dǐ kòu]')).
+assert(celo(kompensi,'kompen1.0i.KOMUNE','补偿[bǔ cháng]')).
+assert(celo(kompensi,'kompen1.0i.KOMUNE','补回[bǔ huí]')).
+assert(celo(kompensi,'kompen1.0i.KOMUNE','賠償[péi cháng]')).
+assert(celo(kompensilo,'kompen1.0ilo','平衡器[píng héng qì]')).
+assert(celo(kompenso,'kompen1.0o','賠償金[péi cháng jīn]')).
+assert(celo(kompenso,'kompen1.0o','补偿费[bǔ cháng fèi]')).
+assert(celo(kompenso,'kompen1.0o','賠償[péi cháng]')).
+assert(celo(kompenso,'kompen1.0o','賠款[péi kuǎn]')).
+assert(celo(kompensatoro,'kompen2.0o','平衡器[píng héng qì]')).
+assert(celo(kompetenta,'kompet.0a','強幹[qiáng gàn]')).
+assert(celo(kompetenta,'kompet.0a','得力[dé lì]')).
+assert(celo(kompetenta,'kompet.0a','称职[chèn zhí]')).
+assert(celo(kompetenta,'kompet.0a','能干[néng gàn]')).
+assert(celo(kompetenta,'kompet.0a','行[xíng]')).
+assert(celo(kompetenteco,'kompet.0eco','才干[cái gàn]')).
+assert(celo(kompetenteco,'kompet.0eco','两把刷子[liǎng bǎ shuā zi]')).
+assert(celo(kompetenteco,'kompet.0eco','功力[gōng lì]')).
+assert(celo(kompetenteco,'kompet.0eco','才能[cái néng]')).
+assert(celo(kompetenteco,'kompet.0eco','能力[néng lì]')).
+assert(celo(kompetenteco,'kompet.0eco','道行[dào héng]')).
+assert(celo(kompetenteco,'kompet.0eco','专业技能[zhuān yè jì néng]')).
+assert(celo(kompetento,'kompet.0o','才干[cái gàn]')).
+assert(celo(kompetento,'kompet.0o','两把刷子[liǎng bǎ shuā zi]')).
+assert(celo(kompetento,'kompet.0o','功力[gōng lì]')).
+assert(celo(kompetento,'kompet.0o','才能[cái néng]')).
+assert(celo(kompetento,'kompet.0o','能力[néng lì]')).
+assert(celo(kompetento,'kompet.0o','道行[dào héng]')).
+assert(celo(kompetentulo,'kompet.0ulo','能手[néng shǒu]')).
+assert(celo(kompetentulo,'kompet.0ulo','行家[háng jiā]')).
+assert(celo(kompetentulo,'kompet.0ulo','达人[dá rén]')).
+assert(celo(kompetentulo,'kompet.0ulo','內行[nèi háng]')).
+assert(celo(kompetentulo,'kompet.0ulo','高手[gāo shǒu]')).
+assert(celo(kompetentulo,'kompet.0ulo','好手[hǎo shǒu]')).
+assert(celo(kompetentulo,'kompet.0ulo','专家[zhuān jiā]')).
+assert(celo(kompetentulo,'kompet.0ulo','专业人才[zhuān yè rén cái]')).
+assert(celo(nekompetenta,'kompet.ne0a','无能[wú néng]')).
+assert(celo(nekompetenta,'kompet.ne0a','力不勝任[lì bù shèng rèn]')).
+assert(celo(nekompetenta,'kompet.ne0a','不能勝任[bù néng shēng rèn]')).
+assert(celo(nekompetenteco,'kompet.ne0eco','无资格[wú zī ge]')).
+assert(celo(nekompetenteco,'kompet.ne0eco','不明状况[bù míng zhuàng kuàng]')).
+assert(celo(nekompetenteco,'kompet.ne0eco','毫不猜疑[háo bú cāi yí]')).
+assert(celo(nekompetenteco,'kompet.ne0eco','无能[wú néng]')).
+assert(celo(nekompetentulo,'kompet.ne0ulo','不中用[bù zhōng yòng]')).
+assert(celo(nekompetentulo,'kompet.ne0ulo','俗家[sú jiā]')).
+assert(celo(nekompetentulo,'kompet.ne0ulo','非专业人员[fēi zhuān yè rén yuán]')).
+assert(celo(kompilado,'kompil.0ado','合起來[hé qǐ lai]')).
+assert(celo(kompilado,'kompil.0ado','合作地[hé zuò de]')).
+assert(celo(kompilado,'kompil.0ado','編撰[biān zhuàn]')).
+assert(celo(kompilado,'kompil.0ado','淸單[qīng dān]')).
+assert(celo(kompilado,'kompil.0ado','交織[jiāo zhī]')).
+assert(celo(kompilado,'kompil.0ado','联结[lián jié]')).
+assert(celo(kompilaĵo,'kompil.0ajxo','合作地[hé zuò de]')).
+assert(celo(kompilaĵo,'kompil.0ajxo','合起來[hé qǐ lai]')).
+assert(celo(kompilaĵo,'kompil.0ajxo','集子[jí zi]')).
+assert(celo(kompilaĵo,'kompil.0ajxo','合輯[hé jí]')).
+assert(celo(kompilaĵo,'kompil.0ajxo','合集[hé jí]')).
+assert(celo(kompilaĵo,'kompil.0ajxo','淸單[qīng dān]')).
+assert(celo(kompili,'kompil.0i','合作地[hé zuò de]')).
+assert(celo(kompili,'kompil.0i','合起來[hé qǐ lai]')).
+assert(celo(kompili,'kompil.0i','編撰[biān zhuàn]')).
+assert(celo(kompili,'kompil.0i','輯[jí]')).
+assert(celo(kompili,'kompil.0i','編列[biān liè]')).
+assert(celo(kompili,'kompil.0i','編著[biān zhù]')).
+assert(celo(kompili,'kompil.0i','纂[zuǎn]')).
+assert(celo(kompili,'kompil.0i','輯錄[jí lù]')).
+assert(celo(kompilo,'kompil.0o','合起來[hé qǐ lai]')).
+assert(celo(kompilo,'kompil.0o','合作地[hé zuò de]')).
+assert(celo(kompilo,'kompil.0o','編撰[biān zhuàn]')).
+assert(celo(kompilo,'kompil.0o','淸單[qīng dān]')).
+assert(celo(kompleksa,'komple.0a','复杂[fù zá]')).
+assert(celo(kompleksa,'komple.0a','使复杂化[shǐ fù zá huà]')).
+assert(celo(kompleksa,'komple.0a','增加麻烦[zēng jiā má fan]')).
+assert(celo(kompleksa,'komple.0a','錯綜[cuò zòng]')).
+assert(celo(komplekso,'komple.0o.MAT','复数[fù shù]')).
+assert(celo(komplekso,'komple.0o.aritmetiko','多元組[duō yuán zǔ]')).
+assert(celo(komplekso,'komple.0o.tuto','总体[zǒng tǐ]')).
+assert(celo('edipa komplekso','komple.edipa0o','恋母情结[liàn mǔ qíng jié]')).
+assert(celo(komplementa,'komple1.0a.KOMUNE','互补[hù bǔ]')).
+assert(celo(komplementi,'komple1.0i','互补[hù bǔ]')).
+assert(celo(komplementi,'komple1.0i','补充[bǔ chōng]')).
+assert(celo(komplementi,'komple1.0i','相輔相成[xiāng fǔ xiāng chéng]')).
+assert(celo(komplementi,'komple1.0i','找补[zhǎo bu]')).
+assert(celo(komplemento,'komple1.0o.kompletigajxo','餘補[yú bǔ]')).
+assert(celo('komple1.0o','komple1.0o.MAT','余集[yú jí]')).
+assert(celo('komple1.0o','komple1.0o.MAT','余集合[yú jí hé]')).
+assert(celo('komple1.0o','komple1.0o.MAT','餘補[yú bǔ]')).
+assert(celo(komplemento,'komple1.0o.MAT','余集[yú jí]')).
+assert(celo(komplemento,'komple1.0o.MAT','余集合[yú jí hé]')).
+assert(celo(komplemento,'komple1.0o.MAT','餘補[yú bǔ]')).
+assert(celo(komplemento,'komple1.0o.kompletigajxo','复件[fù jiàn]')).
+assert(celo(komplemento,'komple1.0o.kompletigajxo','补[bǔ]')).
+assert(celo(komplemento,'komple1.0o.kompletigajxo','补脉[bǔ mài]')).
+assert(celo('objekta komplemento','komple1.objekta0o','直接宾语[zhí jiē bīn yǔ]')).
+assert(celo(kompleta,'komple2.0a','整[zhěng]')).
+assert(celo(kompleta,'komple2.0a','完整[wán zhěng]')).
+assert(celo(kompleta,'komple2.0a','全部地[quán bù de]')).
+assert(celo(kompleta,'komple2.0a','十分[shí fēn]')).
+assert(celo(kompleta,'komple2.0a','十成[shí chéng]')).
+assert(celo(kompleta,'komple2.0a','整个[zhěng ge]')).
+assert(celo(kompleta,'komple2.0a','齊全[qí quán]')).
+assert(celo(kompleta,'komple2.0a','全副[quán fù]')).
+assert(celo(kompleteco,'komple2.0eco','完整[wán zhěng]')).
+assert(celo(kompleteco,'komple2.0eco','完備性[wán bèi xìng]')).
+assert(celo(kompleteco,'komple2.0eco','完整性[wán zhěng xìng]')).
+assert(celo(kompletigi,'komple2.0igi','蒇[chǎn]')).
+assert(celo(kompletigi,'komple2.0igi','完毕[wán bì]')).
+assert(celo(kompletigi,'komple2.0igi','完成[wán chéng]')).
+assert(celo(kompleto,'komple2.0o.TEKS','套装[tào zhuāng]')).
+assert(celo(kompleto,'komple2.0o.TEKS','西服[xī fú]')).
+assert(celo(kompleto,'komple2.0o.TEKS','西装[xī zhuāng]')).
+assert(celo(kompleto,'komple2.0o.TEKS','套服[tào fú]')).
+assert(celo(kompleto,'komple2.0o.TEKS','一套[yī tào]')).
+assert(celo(kompleto,'komple2.0o.TEKS','一身[yī shēn]')).
+assert(celo(kompleto,'komple2.0o.TEKS','术策[shù cè]')).
+assert(celo(kompleto,'komple2.0o.TEKS','军略[jūn lüè]')).
+assert(celo(nekompleta,'komple2.ne0a','片[piàn]')).
+assert(celo(nekompleta,'komple2.ne0a','烂尾[làn wěi]')).
+assert(celo(nekompleta,'komple2.ne0a','未成[wèi chéng]')).
+assert(celo(nekompleta,'komple2.ne0a','不完全[bù wán quán]')).
+assert(celo(vestokompleto,'komple2.vesto0o','西服[xī fú]')).
+assert(celo(vestokompleto,'komple2.vesto0o','西装[xī zhuāng]')).
+assert(celo(vestokompleto,'komple2.vesto0o','套服[tào fú]')).
+assert(celo(vestokompleto,'komple2.vesto0o','套装[tào zhuāng]')).
+assert(celo(vestokompleto,'komple2.vesto0o','一身[yī shēn]')).
+assert(celo(komplezema,'komple4.0ema','娩[wǎn]')).
+assert(celo(komplezema,'komple4.0ema','詊[pàn]')).
+assert(celo(komplezi,'komple4.0i','殷勤[yīn qín]')).
+assert(celo(komplezi,'komple4.0i','迎合[yíng hé]')).
+assert(celo(komplezi,'komple4.0i','迁就[qiān jiù]')).
+assert(celo(komplezi,'komple4.0i','亲切[qīn qiè]')).
+assert(celo(komplezo,'komple4.0o','人情[rén qíng]')).
+assert(celo(komplika,'kompli.0a','复杂[fù zá]')).
+assert(celo(komplika,'kompli.0a','錯綜[cuò zōng]')).
+assert(celo(komplika,'kompli.0a','疑难[yí nán]')).
+assert(celo(komplika,'kompli.0a','紊[wěn]')).
+assert(celo(komplika,'kompli.0a','轇[jiū]')).
+assert(celo(komplika,'kompli.0a','曲折[qū zhé]')).
+assert(celo(komplika,'kompli.0a','錯綜複雜[cuò zōng fù zá]')).
+assert(celo(komplikaĵo,'kompli.0ajxo','併發症[bìng fā zhèng]')).
+assert(celo(komplikaĵo,'kompli.0ajxo','曲折[qū zhé]')).
+assert(celo(komplikaĵo,'kompli.0ajxo','枝節[zhī jié]')).
+assert(celo(komplikaĵo,'kompli.0ajxo','混化[hùn huà]')).
+assert(celo(komplikaĵo,'kompli.0ajxo','糾纏[jiū chán]')).
+assert(celo(komplikaĵo,'kompli.0ajxo','复杂化[fù zá huà]')).
+assert(celo(komplikaĵo,'kompli.0ajxo','周折[zhōu zhé]')).
+assert(celo(kompliki,'kompli.0i','使复杂化[shǐ fù zá huà]')).
+assert(celo(kompliki,'kompli.0i','增加麻烦[zēng jiā má fan]')).
+assert(celo(kompliki,'kompli.0i','掯[kèn]')).
+assert(celo(komplimenti,'kompli1.0i','恭維[gōng wei]')).
+assert(celo(komplimenti,'kompli1.0i','拜[bài]')).
+assert(celo(komplimenti,'kompli1.0i','称赞[chēng zàn]')).
+assert(celo(komplimenti,'kompli1.0i','夸奖[kuā jiǎng]')).
+assert(celo(komplimenti,'kompli1.0i','拍馬屁[pāi mǎ pì]')).
+assert(celo(komplico,'kompli2.0o','共犯[gòng fàn]')).
+assert(celo(komplico,'kompli2.0o','同案犯[tóng àn fàn]')).
+assert(celo(komplico,'kompli2.0o','爪牙[zhǎo yá]')).
+assert(celo(komplico,'kompli2.0o','同犯[tóng fàn]')).
+assert(celo(komplico,'kompli2.0o','从犯[cóng fàn]')).
+assert(celo(komploti,'komplo.0i','密謀[mì móu]')).
+assert(celo(komploti,'komplo.0i','共謀[gòng móu]')).
+assert(celo(komploti,'komplo.0i','图谋[tú móu]')).
+assert(celo(komploti,'komplo.0i','阴谋[yīn móu]')).
+assert(celo(komploti,'komplo.0i','暗算[àn suàn]')).
+assert(celo(komploto,'komplo.0o','密謀[mì móu]')).
+assert(celo(komploto,'komplo.0o','阴谋[yīn móu]')).
+assert(celo(komploto,'komplo.0o','共謀罪[gòng móu zuì]')).
+assert(celo(komploto,'komplo.0o','共謀[gòng móu]')).
+assert(celo(komponaĵo,'kompon.0ajxo','构图[gòu tú]')).
+assert(celo(komponaĵo,'kompon.0ajxo','佈局[bù jú]')).
+assert(celo(komponanto,'kompon.0anto','組分[zǔ fèn]')).
+assert(celo(komponanto,'kompon.0anto','組成部分[zǔ chéng bù fen]')).
+assert(celo(komponanto,'kompon.0anto','构件[gòu jiàn]')).
+assert(celo(komponanto,'kompon.0anto','零件[líng jiàn]')).
+assert(celo(komponi,'kompon.0i','組合[zǔ hé]')).
+assert(celo(komponi,'kompon.0i','編[biān]')).
+assert(celo(komponisto,'kompon.0isto','作曲家[zuò qǔ jiā]')).
+assert(celo(komponisto,'kompon.0isto','作曲者[zuò qǔ zhě]')).
+assert(celo(komponi,'','拟具[nǐ jù]')).
+assert(celo(malkomponi,'kompon.mal0i','分解[fēn jiě]')).
+assert(celo(malkomponi,'kompon.mal0i','分解作用[fēn jiě zuò yòng]')).
+assert(celo(malkomponi,'kompon.mal0i','堆肥[duī féi]')).
+assert(celo(malkomponiĝi,'kompon.mal0igxi','瓦解[wǎ jiě]')).
+assert(celo(malkomponiĝi,'kompon.mal0igxi','脫節[tuō jié]')).
+assert(celo(malkomponiĝi,'kompon.mal0igxi','解体[jiě tǐ]')).
+assert(celo(malkomponiĝi,'kompon.mal0igxi','分解[fēn jiě]')).
+assert(celo(komponento,'komponent.0o.parto','組件[zǔ jiàn]')).
+assert(celo(komponento,'komponent.0o.parto','部件[bù jiàn]')).
+assert(celo(komponento,'komponent.0o.parto','元件[yuán jiàn]')).
+assert(celo(komponento,'komponent.0o.parto','元器件[yuán qì jiàn]')).
+assert(celo(komponento,'komponent.0o.parto','器件[qì jiàn]')).
+assert(celo(komponento,'komponent.0o.parto','构件[gòu jiàn]')).
+assert(celo(komponento,'komponent.0o.parto','零件[líng jiàn]')).
+assert(celo(komponento,'komponent.0o.parto','組分[zǔ fèn]')).
+assert(celo(komposti,'kompos.0i','排版[pái bǎn]')).
+assert(celo(komposti,'kompos.0i','活版印刷[huó bǎn yìn shuā]')).
+assert(celo(kompostisto,'kompos.0isto','排字工[pái zì gōng]')).
+assert(celo(kompoŝto,'komposxt.0o','堆肥[duī féi]')).
+assert(celo(kompozicio,'kompoz.0o','构图[gòu tú]')).
+assert(celo(kompozitoj,'kompoz1.0oj','紫菀属植物[zǐ wǎn shǔ zhí wù]')).
+assert(celo(kompozito,'kompozit.0o','复合材料[fù hé cái liào]')).
+assert(celo(kompozito,'kompozit.0o','混合物[hùn hé wù]')).
+assert(celo(komprenaĵo,'kompre.0ajxo','概念[gài niàn]')).
+assert(celo(komprenebla,'kompre.0ebla','憭[liǎo]')).
+assert(celo(komprenebla,'kompre.0ebla','明了[míng liǎo]')).
+assert(celo(komprenebla,'kompre.0ebla','可以理解的[kě yǐ lǐ jiě de]')).
+assert(celo(komprenebla,'kompre.0ebla','易懂[yì dǒng]')).
+assert(celo(kompreneble,'kompre.0eble.maniero','明了[míng liǎo]')).
+assert(celo(komprenema,'kompre.0ema','明理[míng lǐ]')).
+assert(celo(komprenema,'kompre.0ema','充分理解[chōng fèn lǐ jiě]')).
+assert(celo(komprenema,'kompre.0ema','明智[míng zhì]')).
+assert(celo(komprenemo,'kompre.0emo','悟性[wù xìng]')).
+assert(celo(kompreneti,'kompre.0eti','猜[cāi]')).
+assert(celo(kompreneti,'kompre.0eti','猜想[cāi xiǎng]')).
+assert(celo(kompreneti,'kompre.0eti','猜测[cāi cè]')).
+assert(celo(komprenkapablo,'kompre.0kapablo','智慧[zhì huì]')).
+assert(celo(kompreno,'kompre.0o','了解[liǎo jiě]')).
+assert(celo(kompreno,'kompre.0o','理解力[lǐ jiě lì]')).
+assert(celo(komprenpovo,'','理解力[lǐ jiě lì]')).
+assert(celo(komprenpovo,'','悟性[wù xìng]')).
+assert(celo(ĉiokomprena,'kompre.cxio0a','全知[quán zhī]')).
+assert(celo(ĉiokomprena,'kompre.cxio0a','无所不知[wú suǒ bù zhī]')).
+assert(celo(duonkompreni,'kompre.duon0i','詮釋[quán shì]')).
+assert(celo(duonkompreni,'kompre.duon0i','猜想[cāi xiǎng]')).
+assert(celo(duonkompreni,'kompre.duon0i','猜测[cāi cè]')).
+assert(celo(ekkompreni,'kompre.ek0i','覺醒[jué xǐng]')).
+assert(celo(ekkompreni,'kompre.ek0i','解出[jiě chū]')).
+assert(celo(ekkompreni,'kompre.ek0i','醒悟[xǐng wù]')).
+assert(celo(ekkompreni,'kompre.ek0i','認出[rèn chū]')).
+assert(celo(ekkompreni,'kompre.ek0i','麻麻亮[mā ma liàng]')).
+assert(celo(erarkompreni,'kompre.erar0ifusx0i','傎[diān]')).
+assert(celo(erarkompreni,'kompre.erar0ifusx0i','訧[yóu]')).
+assert(celo(erarkompreni,'kompre.erar0ifusx0i','誤解[wù jiě]')).
+assert(celo(malkomprenebla,'kompre.mal0ebla','无法理解[wú fǎ lǐ jiě]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','显然[xiǎn rán]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','明显[míng xiǎn]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','彰[zhāng]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','彰明[zhāng míng]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','明摆着[míng bǎi zhe]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','昭[zhāo]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','浅显[qiǎn xiǎn]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','不言而喻[bù yán ér yù]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','理所当然[lǐ suǒ dāng rán]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','当然有[dāng rán yǒu]')).
+assert(celo(memkomprenebla,'kompre.mem0ebla','順理成章[shùn lǐ chéng zhāng]')).
+assert(celo(memkompreneble,'kompre.mem0eble','敢情[gǎn qing]')).
+assert(celo(memkompreneble,'kompre.mem0eble','当然有[dāng rán yǒu]')).
+assert(celo(memkompreneble,'kompre.mem0eble','那是[nà shi]')).
+assert(celo(miskompreni,'kompre.mis0i','誤會[wù huì]')).
+assert(celo(miskompreni,'kompre.mis0i','会错意[huì cuò yì]')).
+assert(celo(miskompreno,'kompre.mis0o.nekapablo','不理解[bù lǐ jiě]')).
+assert(celo(miskompreno,'kompre.mis0o.nekapablo','說差了[shuō chā le]')).
+assert(celo(malkompreno,'','不可理解[bù kě lǐ jiě]')).
+assert(celo(nekomprenebla,'kompre.ne0ebla','不知所謂[bù zhī suǒ wèi]')).
+assert(celo(nekomprenebla,'kompre.ne0ebla','无法理解[wú fǎ lǐ jiě]')).
+assert(celo(subkomprenigi,'kompre.sub0igi','意味着[yì wèi zhe]')).
+assert(celo(subkomprenigi,'kompre.sub0igi','暗示[àn shì]')).
+assert(celo(subkomprenigi,'kompre.sub0igi','意味[yì wèi]')).
+assert(celo(kompreso,'kompre1.0o','热敷[rè fū]')).
+assert(celo(kompreso,'kompre1.0o','冷敷[lěng fū]')).
+assert(celo(kompresoro,'kompresor.0o','空压机[kōng yā jī]')).
+assert(celo(kompresoro,'kompresor.0o','压缩机[yā suō jī]')).
+assert(celo(kompromisi,'kompro.0i','妥协[tuǒ xié]')).
+assert(celo(kompromiso,'kompro.0o.KOMUNE','妥协[tuǒ xié]')).
+assert(celo(kompromiso,'kompro.0o.KOMUNE','折中[zhé zhōng]')).
+assert(celo(kompromiti,'','危害[wēi hài]')).
+assert(celo(kompromiti,'','株连[zhū lián]')).
+assert(celo(kompromito,'kompro1.0o','恥辱[chǐ rǔ]')).
+assert(celo(kompromito,'kompro1.0o','辱[rǔ]')).
+assert(celo(komputado,'komput.0ado','計算機科學[jì suàn jī kē xué]')).
+assert(celo(komputilego,'komput.0ilego.KOMP','大型計算機[dà xíng jì suàn jī]')).
+assert(celo(komputisto,'komput.0isto','程序员[chéng xù yuán]')).
+assert(celo(komputoscienco,'komput.0oscienco','計算機科學[jì suàn jī kē xué]')).
+assert(celo('persona komputilo','komput.persona0ilo.KOMP','个人电脑[gè rén diàn nǎo]')).
+assert(celo(poŝkomputilo,'komput.posx0ilo.KOMP','掌上电脑[zhǎng shàng diàn nǎo]')).
+assert(celo(poŝkomputilo,'komput.posx0ilo.KOMP','掌握电脑[zhǎng wò diàn nǎo]')).
+assert(celo('surtabla komputilo','komput.surtabla0ilo.KOMP','台式电脑[tái shì diàn nǎo]')).
+assert(celo('surtabla komputilo','komput.surtabla0ilo.KOMP','台式机[tái shì jī]')).
+assert(celo('surtabla komputilo','komput.surtabla0ilo.KOMP','桌机[zhuō jī]')).
+assert(celo('surtabla komputilo','komput.surtabla0ilo.KOMP','桌上型电脑[zhuō shàng xíng diàn nǎo]')).
+assert(celo('surtabla komputilo','komput.surtabla0ilo.KOMP','桌面式电脑[zhuō miàn shì diàn nǎo]')).
+assert(celo(tekkomputilo,'komput.tek0ilo.KOMP','笔记本电脑[bǐ jì běn diàn nǎo]')).
+assert(celo(tekkomputilo,'komput.tek0ilo.KOMP','笔电[bǐ diàn]')).
+assert(celo(tekkomputilo,'komput.tek0ilo.KOMP','本本[běn běn]')).
+assert(celo(tekkomputilo,'komput.tek0ilo.KOMP','手提电脑[shǒu tí diàn nǎo]')).
+assert(celo(tekkomputilo,'komput.tek0ilo.KOMP','笔记型电脑[bǐ jì xíng diàn nǎo]')).
+assert(celo(tekkomputilo,'komput.tek0ilo.KOMP','笔记本计算机[bǐ jì běn jì suàn jī]')).
+assert(celo(tekkomputilo,'komput.tek0ilo.KOMP','膝上型[xī shàng xíng]')).
+assert(celo(tekkomputilo,'komput.tek0ilo.KOMP','膝上型电脑[xī shàng xíng diàn nǎo]')).
+assert(celo(komputiko,'komputik.0o','計算機科學[jì suàn jī kē xué]')).
+assert(celo(komputiko,'komputik.0o','信息学[xìn xī xué]')).
+assert(celo(komputiko,'komputik.0o','信息技术[xìn xī jì shù]')).
+assert(celo(komputiko,'komputik.0o','挨踢[āi tī]')).
+assert(celo(komputilisto,'','計算機工作人員[jì suàn jī gōng zuò rén yuán]')).
+assert(celo(komputilisto,'','計算機科學家[jì suàn jī kē xué jiā]')).
+assert(celo(komputoro,'komputor.0o','微机[wēi jī]')).
+assert(celo(komputoro,'komputor.0o','計算機[jì suàn jī]')).
+assert(celo(komputoro,'komputor.0o','电子计算机[diàn zǐ jì suàn jī]')).
+assert(celo(komputoro,'komputor.0o','电脑[diàn nǎo]')).
+assert(celo(komuna,'komun.0a','一般[yī bān]')).
+assert(celo(komuna,'komun.0a','共[gòng]')).
+assert(celo(komuna,'komun.0a','共同[gòng tóng]')).
+assert(celo(komuna,'komun.0a','常見[cháng jiàn]')).
+assert(celo(komuna,'komun.0a','普遍[pǔ biàn]')).
+assert(celo(komunaĵo,'komun.0ajxo.KOMUNE','社区[shè qū]')).
+assert(celo(komunaĵo,'komun.0ajxo.KOMUNE','体团[tǐ tuán]')).
+assert(celo(komunaĵo,'komun.0ajxo.KOMUNE','共同点[gòng tóng diǎn]')).
+assert(celo(komunaĵo,'komun.0ajxo.aro','馬路口[mǎ lù kǒu]')).
+assert(celo(komunaĵo,'komun.0ajxo.aro','交集[jiāo jí]')).
+assert(celo(komuneco,'komun.0eco','共同点[gòng tóng diǎn]')).
+assert(celo(komunisto,'komun.0isto','共产[gòng chǎn]')).
+assert(celo(komunuma,'komun.0uma','公有[gōng yǒu]')).
+assert(celo(komunuma,'komun.0uma','公共[gōng gòng]')).
+assert(celo(komunuma,'komun.0uma','共用[gòng yòng]')).
+assert(celo(komunuma,'komun.0uma','公有物[gōng yǒu wù]')).
+assert(celo(komunuma,'komun.0uma','公用[gōng yòng]')).
+assert(celo(komunumo,'komun.0umo','社区[shè qū]')).
+assert(celo(komunumo,'komun.0umo','体团[tǐ tuán]')).
+assert(celo(komunumo,'komun.0umo','公社[gōng shè]')).
+assert(celo(komunuza,'komun.0uza','不以贏利為目的[bù yǐ yíng lì wèi mù dì]')).
+assert(celo(komunuza,'komun.0uza','非營利[fēi yíng lì]')).
+assert(celo(komunuza,'komun.0uza','非盈利[fēi yíng lì]')).
+assert(celo(komunuza,'komun.0uza','非贏利[fēi yíng lì]')).
+assert(celo(komunuza,'komun.0uza','公有[gōng yǒu]')).
+assert(celo('Eŭropa Ekonomia komunumo','komun.Euxropa_Ekonomia_0umo','欧洲经济共同体[ōu zhōu jīng jì gòng tóng tǐ]')).
+assert(celo(komunio,'komuni.0o','圣餐[shèng cān]')).
+assert(celo(komunio,'komuni.0o','最后晚餐[zuì hòu wǎn cān]')).
+assert(celo(komunikado,'komuni1.0ado','交往[jiāo wǎng]')).
+assert(celo(komunikado,'komuni1.0ado','通訊系統[tōng xùn xì tǒng]')).
+assert(celo(komunikado,'komuni1.0ado','交际[jiāo jì]')).
+assert(celo(komunikaĵo,'komuni1.0ajxo','消息[xiāo xi]')).
+assert(celo(komunikaĵo,'komuni1.0ajxo','公報[gōng bào]')).
+assert(celo(komunikaĵo,'komuni1.0ajxo','信息[xìn xī]')).
+assert(celo(komunikaĵo,'komuni1.0ajxo','公告[gōng gào]')).
+assert(celo(komunikaĵo,'komuni1.0ajxo','启事[qǐ shì]')).
+assert(celo(komunikaĵo,'komuni1.0ajxo','帖[tiě]')).
+assert(celo(komunikejo,'komuni1.0ejo.por_homoj','通道[tōng dào]')).
+assert(celo(komunikejo,'komuni1.0ejo.por_homoj','交流中心[jiāo liú zhōng xīn]')).
+assert(celo(komunikejo,'komuni1.0ejo.por_lokoj','組織到一起[zǔ zhī dào yì qǐ]')).
+assert(celo(komunikejo,'komuni1.0ejo.por_lokoj','相连[xiāng lián]')).
+assert(celo(komunikejo,'komuni1.0ejo.por_lokoj','联通[lián tōng]')).
+assert(celo(komunikejo,'komuni1.0ejo.por_lokoj','鏈結[liàn jié]')).
+assert(celo(komunikejo,'komuni1.0ejo.por_lokoj','鏈路[liàn lù]')).
+assert(celo(komunikema,'komuni1.0ema','外向[wài xiàng]')).
+assert(celo(komunikema,'komuni1.0ema','提供消息[tí gōng xiāo xí]')).
+assert(celo(komuniki,'komuni1.0i','进行通信[jìn xíng tōng xìn]')).
+assert(celo(komuniki,'komuni1.0i','通信[tōng xìn]')).
+assert(celo(komuniki,'komuni1.0i','公社[gōng shè]')).
+assert(celo(komuniki,'komuni1.0i','密談[mì tán]')).
+assert(celo(komuniki,'komuni1.0i','交际[jiāo jì]')).
+assert(celo(komuniki,'komuni1.0i','沟通[gōu tōng]')).
+assert(celo(komuniki,'komuni1.0i','交往[jiāo wǎng]')).
+assert(celo(komuniki,'komuni1.0i','訴[sù]')).
+assert(celo(komuniki,'komuni1.0i','传寄[chuán jì]')).
+assert(celo(komuniki,'komuni1.0i','轉告[zhuǎn gào]')).
+assert(celo(komuniki,'komuni1.0i','通問[tōng wèn]')).
+assert(celo(komunikiĝi,'komuni1.0igxi.igxi_0ata','出炉[chū lú]')).
+assert(celo(komunikiĝi,'komuni1.0igxi.interrilati_kun_io','相处[xiāng chǔ]')).
+assert(celo(komunikiĝi,'komuni1.0igxi.interrilati_kun_io','相通[xiāng tōng]')).
+assert(celo(komunikiĝi,'komuni1.0igxi.interrilati_kun_io','沟通[gōu tōng]')).
+assert(celo(komunikiĝi,'komuni1.0igxi.interrilati_kun_io','互通[hù tōng]')).
+assert(celo(komunikiĝi,'komuni1.0igxi.interrilati_kun_io','相互交往[xiāng hù jiāo wǎng]')).
+assert(celo(komunikiĝi,'komuni1.0igxi.interrilati_kun_io','互通消息[hù tōng xiāo xí]')).
+assert(celo(komunikiĝi,'komuni1.0igxi.interrilati_kun_iu','沟通[gōu tōng]')).
+assert(celo(komunikiĝi,'komuni1.0igxi.interrilati_kun_iu','互通[hù tōng]')).
+assert(celo(komunikiĝo,'komuni1.0igxo','往來[wǎng lái]')).
+assert(celo(komunikiĝo,'komuni1.0igxo','交流[jiāo liú]')).
+assert(celo(komunikilo,'komuni1.0ilo','交往[jiāo wǎng]')).
+assert(celo(komunikilo,'komuni1.0ilo','通訊系統[tōng xùn xì tǒng]')).
+assert(celo(komunikilo,'komuni1.0ilo','交际工具[jiāo jì gōng jù]')).
+assert(celo(komunikilo,'komuni1.0ilo','通信工具[tōng xìn gōng jù]')).
+assert(celo(komuniko,'komuni1.0o','通訊[tōng xùn]')).
+assert(celo(komuniko,'komuni1.0o','公報[gōng bào]')).
+assert(celo(komuniko,'komuni1.0o','信息[xìn xī]')).
+assert(celo(komuniko,'komuni1.0o','传输[chuán shū]')).
+assert(celo(komuniko,'komuni1.0o','公告[gōng gào]')).
+assert(celo(komuniko,'komuni1.0o','启事[qǐ shì]')).
+assert(celo(komuniko,'komuni1.0o','帖[tiě]')).
+assert(celo(komuniko,'komuni1.0o','消息[xiāo xi]')).
+assert(celo(amaskomunikiloj,'komuni1.amas0ilo','传媒[chuán méi]')).
+assert(celo(amaskomunikiloj,'komuni1.amas0ilo','传播媒体[chuán bò méi tǐ]')).
+assert(celo(amaskomunikiloj,'komuni1.amas0ilo','媒体[méi tǐ]')).
+assert(celo(amaskomunikiloj,'komuni1.amas0ilo','大众传播媒介[dà zhòng chuán bò méi jiè]')).
+assert(celo('gazetara komuniko','komuni1.gazetara0o','新聞發佈[xīn wén fā bù]')).
+assert(celo(interkomuniki,'komuni1.inter0i','交流[jiāo liú]')).
+assert(celo(interkomuniki,'komuni1.inter0i','通信[tōng xìn]')).
+assert(celo(interkomuniki,'komuni1.inter0i','互通[hù tōng]')).
+assert(celo(interkomuniki,'komuni1.inter0i','交[jiāo]')).
+assert(celo(senkomunikiĝa,'komuni1.sen0igxa','孤立[gū lì]')).
+assert(celo(senkomunikiĝa,'komuni1.sen0igxa','孤絕[gū jué]')).
+assert(celo(senkomunikiĝa,'komuni1.sen0igxa','离散[lí sǎn]')).
+assert(celo(senkomunikiĝa,'komuni1.sen0igxa','单独[dān dú]')).
+assert(celo(komuti,'komut.0i','交换[jiāo huàn]')).
+assert(celo(komuta,'','交换[jiāo huàn]')).
+assert(celo(komuteca,'','交换[jiāo huàn]')).
+assert(celo(komutilo,'komut.0ilo','电闸[diàn zhá]')).
+assert(celo(komutilo,'komut.0ilo','套索釘[tào suǒ dīng]')).
+assert(celo(komutilo,'komut.0ilo','拴牢[shuān láo]')).
+assert(celo(komutilo,'komut.0ilo','繩針[shéng zhēn]')).
+assert(celo(komuti,'','轉接[zhuǎn jiē]')).
+assert(celo(komuto,'','轉接[zhuǎn jiē]')).
+assert(celo(komutatoro,'komuta.0o','套索釘[tào suǒ dīng]')).
+assert(celo(komutatoro,'komuta.0o','拴牢[shuān láo]')).
+assert(celo(komutatoro,'komuta.0o','繩針[shéng zhēn]')).
+assert(celo(konado,'kon.0ado','知識[zhī shi]')).
+assert(celo(konataro,'kon.0ataro','圈子[quān zi]')).
+assert(celo(konateco,'kon.0ateco','交往[jiāo wǎng]')).
+assert(celo(konateco,'kon.0ateco','相熟[xiāng shú]')).
+assert(celo(konataro,'','熟人[shú rén]')).
+assert(celo(konataro,'','朋友圈子[péng you quān zi]')).
+assert(celo(konatigi,'kon.0atigi','知晓[zhī xiǎo]')).
+assert(celo(konatiĝi,'kon.0atigxi.KOMUNE','出炉[chū lú]')).
+assert(celo(konatiĝi,'kon.0atigxi.KOMUNE','謀面[móu miàn]')).
+assert(celo(konatiĝi,'kon.0atigxi.KOMUNE','了解[liǎo jiě]')).
+assert(celo(konato,'kon.0ato','熟人[shú rén]')).
+assert(celo(konato,'kon.0ato','好友[hǎo yǒu]')).
+assert(celo(konato,'kon.0ato','相識[xiāng shí]')).
+assert(celo(konato,'kon.0ato','友人[yǒu rén]')).
+assert(celo(konato,'kon.0ato','哥们[gē mén]')).
+assert(celo(konato,'kon.0ato','相熟[xiāng shú]')).
+assert(celo(konigi,'kon.0igi','张扬[zhāng yáng]')).
+assert(celo(konigi,'kon.0igi','传达[chuán dá]')).
+assert(celo(konigi,'kon.0igi','扬[yáng]')).
+assert(celo(konigi,'kon.0igi','轉告[zhuǎn gào]')).
+assert(celo(konigi,'kon.0igi','知晓[zhī xiǎo]')).
+assert(celo(konigilo,'kon.0igilo.KOMP','識別信號[shí bié xìn hào]')).
+assert(celo(diskonigi,'kon.dis0igi','伝[yún]')).
+assert(celo(diskonigi,'kon.dis0igi','传播[chuán bō]')).
+assert(celo(diskonigi,'kon.dis0igi','宣传[xuān chuán]')).
+assert(celo(diskonigi,'kon.dis0igi','广播[guǎng bō]')).
+assert(celo(diskonigi,'kon.dis0igi','播[bō]')).
+assert(celo(ekkonteorio,'kon.ek0teorio','認識論[rèn shi lùn]')).
+assert(celo(ekkonteorio,'kon.ek0teorio','知識論[zhī shí lùn]')).
+assert(celo(ekkonteorio,'kon.ek0teorio','知識論[zhī shì lùn]')).
+assert(celo(nekonato,'kon.ne0ato.KOMUNE','陌生人[mò shēng rén]')).
+assert(celo(nekonato,'kon.ne0ato.KOMUNE','生人[shēng rén]')).
+assert(celo(nekonato,'kon.ne0ato.KOMUNE','陌路[mò lù]')).
+assert(celo(nekonato,'kon.ne0ato.KOMUNE','未詳[wèi xiáng]')).
+assert(celo(nekonato,'kon.ne0ato.ekvacio','未知数[wèi zhī shù]')).
+assert(celo(rekoni,'kon.re0i','認出[rèn chū]')).
+assert(celo(rekoni,'kon.re0i','承認[chéng rèn]')).
+assert(celo(rekoni,'kon.re0i','相認[xiāng rèn]')).
+assert(celo(rekoni,'kon.re0i','認[rèn]')).
+assert(celo(rekonilo,'kon.re0ilo.karakterizajxo','特点[tè diǎn]')).
+assert(celo(rekonilo,'kon.re0ilo.karakterizajxo','签章[qiān zhāng]')).
+assert(celo(rekonilo,'kon.re0ilo.karakterizajxo','标识物[biāo zhì wù]')).
+assert(celo(rekonilo,'kon.re0ilo.karakterizajxo','識別碼[shí bié mǎ]')).
+assert(celo(rekono,'kon.re0o.KOMUNE','認出[rèn chū]')).
+assert(celo(rekono,'kon.re0o.KOMUNE','承認[chéng rèn]')).
+assert(celo('Konakrio','konakri.0o','柯那克里[Kē nà kè lǐ]')).
+assert(celo('Konakrio','konakri.0o','科納克里[Kē nà kè lǐ]')).
+assert(celo('Konakrio','konakri.0o','科納克裡[kē nà kè lǐ]')).
+assert(celo(koncedi,'konced.0i','承認[chéng rèn]')).
+assert(celo(koncedi,'konced.0i','坦承[tǎn chéng]')).
+assert(celo(koncedi,'konced.0i','供認[gōng rèn]')).
+assert(celo(koncedinde,'konced.0inde','固然[gù rán]')).
+assert(celo(koncedo,'konced.0o','供述[gòng shù]')).
+assert(celo(koncedo,'konced.0o','供認[gòng rèn]')).
+assert(celo(koncedo,'konced.0o','承認讓步妥協容忍[chéng rèn ràng bù tuǒ xié róng rěn]')).
+assert(celo(koncentra,'koncen.0a','专心[zhuān xīn]')).
+assert(celo(koncentra,'koncen.0a','集中[jí zhōng]')).
+assert(celo(koncentra,'koncen.0a','专[zhuān]')).
+assert(celo(koncentra,'koncen.0a','潛心[qián xīn]')).
+assert(celo(koncentrado,'koncen.0ado','专心[zhuān xīn]')).
+assert(celo(koncentrejo,'koncen.0ejo','集中營[jí zhōng yíng]')).
+assert(celo(koncentri,'koncen.0i','注[zhù]')).
+assert(celo(koncentri,'koncen.0i','集中[jí zhōng]')).
+assert(celo(koncentriĝi,'koncen.0igxi','凝[níng]')).
+assert(celo(koncentriĝi,'koncen.0igxi','运神[yùn shén]')).
+assert(celo(koncentriĝi,'koncen.0igxi','主抓[zhǔ zhuā]')).
+assert(celo(koncentriĝi,'koncen.0igxi','集中[jí zhōng]')).
+assert(celo(koncentriĝi,'koncen.0igxi','凝神[níng shén]')).
+assert(celo(koncentriteco,'koncen.0iteco','专心[zhuān xīn]')).
+assert(celo(koncentriteco,'koncen.0iteco','浓度[nóng dù]')).
+assert(celo(koncentriteco,'koncen.0iteco','专注[zhuān zhù]')).
+assert(celo(malkoncentri,'koncen.mal0i','冲淡[chōng dàn]')).
+assert(celo(malkoncentri,'koncen.mal0i','稀释[xī shì]')).
+assert(celo(malkoncentri,'koncen.mal0i','变尖[biàn jiān]')).
+assert(celo(malkoncentri,'koncen.mal0i','变细[biàn xì]')).
+assert(celo(malkoncentri,'koncen.mal0i','掺水[chān shuǐ]')).
+assert(celo(malkoncentri,'koncen.mal0i','搀杂[chān zá]')).
+assert(celo('koncentri sin','koncen.sin0i','运神[yùn shén]')).
+assert(celo('koncentri sin','koncen.sin0i','集中[jí zhōng]')).
+assert(celo('koncentri sin','koncen.sin0i','凝神[níng shén]')).
+assert(celo(konceptado,'koncep.0ado','立意[lì yì]')).
+assert(celo(koncepti,'koncep.0i.formi_0on','构思[gòu sī]')).
+assert(celo(koncepti,'koncep.0i.formi_0on','設計[shè jì]')).
+assert(celo(koncepti,'koncep.0i.formi_0on','构想[gòu xiǎng]')).
+assert(celo(koncepti,'koncep.0i.formi_0on','拟具[nǐ jù]')).
+assert(celo(koncepto,'koncep.0o','概念[gài niàn]')).
+assert(celo(koncepto,'koncep.0o','构想[gòu xiǎng]')).
+assert(celo(koncepto,'koncep.0o','理念[lǐ niàn]')).
+assert(celo(koncepto,'koncep.0o','觀念[guān niàn]')).
+assert(celo(koncepto,'koncep.0o','意境[yì jìng]')).
+assert(celo(koncepto,'koncep.0o','設計方案[shè jì fāng àn]')).
+assert(celo(koncepto,'koncep.0o','构思[gòu sī]')).
+assert(celo(koncepto,'koncep.0o','基本概念[jī běn gài niàn]')).
+assert(celo(mondkoncepto,'koncep.mond0o','世界觀[shì jiè guān]')).
+assert(celo(koncerna,'koncer.0a','相匹配[xiāng pī pèi]')).
+assert(celo(koncerna,'koncer.0a','相称[xiāng chēng]')).
+assert(celo(koncerna,'koncer.0a','相应[xiāng yīng]')).
+assert(celo(koncerna,'koncer.0a','相应的[xiāng yīng de]')).
+assert(celo(koncerna,'koncer.0a','关于[guān yú]')).
+assert(celo(koncernaĵo,'koncer.0ajxo','事务[shì wù]')).
+assert(celo(koncernaĵo,'koncer.0ajxo','縡[zài]')).
+assert(celo(koncernaĵo,'koncer.0ajxo','务[wù]')).
+assert(celo(koncernaĵo,'koncer.0ajxo','事儿[shì r]')).
+assert(celo(koncernaĵo,'koncer.0ajxo','事物[shì wù]')).
+assert(celo('koncerne al','koncer.0eal','关于[guān yú]')).
+assert(celo('koncerne... -n','koncer.0eal','关于[guān yú]')).
+assert(celo(koncerni,'koncer.0i','涉及[shè jí]')).
+assert(celo(koncerni,'koncer.0i','关系[guān xi]')).
+assert(celo(koncerni,'koncer.0i','眷[juàn]')).
+assert(celo(koncerniĝo,'koncer.0igxo','忧愁[yōu chóu]')).
+assert(celo(koncerniĝo,'koncer.0igxo','挂碍[guà ài]')).
+assert(celo(koncerniĝo,'koncer.0igxo','心事[xīn shì]')).
+assert(celo(koncertejo,'koncer1.0ejo','音乐厅[yīn yuè tīng]')).
+assert(celo(koncerti,'koncer1.0i','演出[yǎn chū]')).
+assert(celo(koncerto,'koncer1.0o','演出[yǎn chū]')).
+assert(celo(koncerto,'koncer1.0o','音乐会[yīn yuè huì]')).
+assert(celo(koncerto,'koncer1.0o','演唱会[yǎn chàng huì]')).
+assert(celo(koncerto,'koncer1.0o','协奏曲[xié zòu qǔ]')).
+assert(celo(koncertino,'koncertin.0o.MUZ','小六角手風琴[xiǎo liù jiǎo shǒu fēng qín]')).
+assert(celo(koncesio,'konces.0o','特許[tè xǔ]')).
+assert(celo(koncesio,'konces.0o','特許權[tè xǔ quán]')).
+assert(celo(koncesio,'konces.0o','銷售許可[xiāo shòu xǔ kě]')).
+assert(celo(koncesio,'konces.0o','許可[xǔ kě]')).
+assert(celo(koncesiulo,'konces.0ulo','特許權獲得者[tè xǔ quán huò dé zhě]')).
+assert(celo(koncesiulo,'konces.0ulo','特許經銷商[tè xǔ jīng xiāo shāng]')).
+assert(celo(koncesiulo,'konces.0ulo','經銷權所有者[jīng xiāo quán suǒ yǒu zhē]')).
+assert(celo(koncesiulo,'konces.0ulo','許可証持有人[xǔ kě zhèng chí yǒu rén]')).
+assert(celo(koncesiulo,'konces.0ulo','持牌人[chí pái rén]')).
+assert(celo(koncilio,'koncil.0o','理事会[lǐ shì huì]')).
+assert(celo(koncilio,'koncil.0o','評議會[píng yì huì]')).
+assert(celo(koncipi,'koncip.0i','受胎[shòu tāi]')).
+assert(celo(koncipi,'koncip.0i','怀[huái]')).
+assert(celo(kontraŭkoncipilo,'','避孕药[bì yùn yào]')).
+assert(celo(konciza,'konciz.0a','简洁[jiǎn jié]')).
+assert(celo(konciza,'konciz.0a','简练[jiǎn liàn]')).
+assert(celo(konciza,'konciz.0a','简约[jiǎn yuē]')).
+assert(celo(konciza,'konciz.0a','要言不烦[yào yán bù fán]')).
+assert(celo(konciza,'konciz.0a','简明扼要[jiǎn míng è yào]')).
+assert(celo(konciza,'konciz.0a','简明[jiǎn míng]')).
+assert(celo(konciza,'konciz.0a','简要[jiǎn yào]')).
+assert(celo(konciza,'konciz.0a','精粹[jīng cuì]')).
+assert(celo(koncize,'konciz.0e','总之[zǒng zhī]')).
+assert(celo(koncize,'konciz.0e','要之[yào zhī]')).
+assert(celo(koncizigi,'konciz.0igi','縮減[suō jiǎn]')).
+assert(celo(koncizigi,'konciz.0igi','弄短[nòng duǎn]')).
+assert(celo(koncizigi,'konciz.0igi','变小[biàn xiǎo]')).
+assert(celo(koncizigi,'konciz.0igi','削减[xuē jiǎn]')).
+assert(celo(kondamni,'kondam.0i','譴責[qiǎn zé]')).
+assert(celo(kondamni,'kondam.0i','責備[zé bèi]')).
+assert(celo(kondamni,'kondam.0i','判处[pàn chǔ]')).
+assert(celo(kondamni,'kondam.0i','問罪[wèn zuì]')).
+assert(celo(kondamni,'kondam.0i','处刑[chǔ xíng]')).
+assert(celo(kondamni,'kondam.0i','斗[dòu]')).
+assert(celo(kondamnito,'kondam.0ito','犯人[fàn rén]')).
+assert(celo(kondamnito,'kondam.0ito','赭衣[zhě yī]')).
+assert(celo(kondamno,'','被罚下地狱[bèi fá xià dì yù]')).
+assert(celo(kondamno,'','非难[fēi nàn]')).
+assert(celo(kondensatoro,'konden.0o.ELE','电容器[diàn róng qì]')).
