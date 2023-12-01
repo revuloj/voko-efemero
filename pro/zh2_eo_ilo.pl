@@ -321,7 +321,7 @@ eo_mrk(Eo,Mrk) :-
     distinct(Mrk,eo(Eo,Mrk,_,_,_)).
 
 mrk_trdj(Mrk,Tradukoj) :-
-    setof(Lng:Trd,trd(eo-Lng,_,Mrk,Trd),Tradukoj).
+    setof(Lng:Trd,Kap^trd(eo-Lng,Kap,Mrk,Trd),Tradukoj).
 
 tradukita(Mrk,TStat) :-
     once((
@@ -586,17 +586,17 @@ zh_prononco(Zh, ZhPr) :-
     atomic_list_concat(SilabS,' ',PrS),
     % remetu transformitan prononcon
     sub_atom(Zh,0,K1,_,Ant),
-    % ni ne atendu tekston post la prononco, cu?
+    % ni ne atendu tekston post la prononco, ĉu?
     % sub_atom(Zh,K2,_,0,Post),
 
-    % forigu tradukojn duoblajn metu komojn
+    % forigu tradukojn duoblajn, metu komojn
     zh_listo(Ant,ZhPr,PrS),!. 
 
 zh_listo(L,L1,Pr) :-
     atomic_list_concat(Tj,' ',L),
     % forigu evtl. duoblajn
     setof(T1,
-        (
+        T^(
             member(T,Tj), 
             normalize_space(atom(T1),T), 
             T1\= ''

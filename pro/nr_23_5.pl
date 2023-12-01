@@ -209,7 +209,7 @@ zh_listo(L,L1,Pr) :-
     atomic_list_concat(Tj,' ',L),
     % forigu evtl. duoblajn
     setof(T1,
-        (
+        T^(
             member(T,Tj), 
             normalize_space(atom(T1),T), 
             T1\= ''
