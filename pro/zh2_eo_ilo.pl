@@ -639,7 +639,7 @@ zh_pr_silab(Paroj,D,SilabS) :-
     % ni havas nur unu vokalon: ni metos supersignon tie
     % aŭ ni havas pli ol unu vokalon, sed la unua estas a,e,o
     (
-        member(2-_,Paroj), member(1-V,Paroj), member(V,[a,e,o])
+        member(2-_,Paroj), member(1-V,Paroj), member(V,[a,e,o,A,E,O])
         ; \+ member(2-_,Paroj)
     ),!,
     select(1-V,Paroj,1-VS,ParojS),
@@ -659,7 +659,11 @@ zh_pr_vokal_super(V,D,VS) :-
             1-a-'ā', 1-e-'ē', 1-i-'ī', 1-o-'ō', 1-u-'ū',1-u-'ǖ',
             2-a-'á', 2-e-'é', 2-i-'í', 2-o-'ó', 2-u-'ú',2-u-'ǘ',
             3-a-'ǎ', 3-e-'ě', 3-i-'ǐ', 3-o-'ǒ', 3-u-'ǔ',3-ü-'ǚ',
-            4-a-'à', 4-e-'è', 4-i-'ì', 4-o-'ò', 4-u-'ù',4,-u-'ǜ'
+            4-a-'à', 4-e-'è', 4-i-'ì', 4-o-'ò', 4-u-'ù',4-ü-'ǜ',
+            1-A-'Ā', 1-E-'Ē', 1-I-'Ī', 1-O-'Ō', 1-U-'Ū',1-U-'Ǖ',
+            2-A-'Á', 2-E-'É', 2-I-'Í', 2-O-'Ó', 2-U-'Ú',2-U-'Ǘ',
+            3-A-'Ǎ', 3-E-'Ě', 3-I-'Ǐ', 3-O-'Ǒ', 3-U-'Ǔ',3-Ü-'Ǚ',
+            4-A-'À', 4-E-'È', 4-I-'Ì', 4-O-'Ò', 4-U-'Ù',4-Ü-'Ǜ'
         ])
         ;
         V = VS % se ne estas vokalo, eble estas eraro, sed ni silente kopias
@@ -679,4 +683,4 @@ zh_pr_vokal([Lit|Rest],N,[N1-Lit|Paroj]) :-
 zh_pr_vokal([Lit|Rest],N,[0-Lit|Paroj]) :-
     zh_pr_vokal(Rest,N,Paroj).    
 
-vokalo(Lit) :- member(Lit,[a,e,i,o,u,ü]).
+vokalo(Lit) :- member(Lit,[a,e,i,o,u,ü,A,E,I,O,U,Ü]).
