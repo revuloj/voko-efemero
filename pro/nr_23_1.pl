@@ -1,22 +1,32 @@
 /**
  Ponta vortaro en kvin paŝoj
 
- 1. Enkonduko en Prologon
- 2. Legi vortaron, rilatigi vortojn
- 3. Tradukparoj kaj -pontoj
- 4. Esperanto-ĉina vortaro
- 5. Servi retpaĝon
+ => 1. Enkonduko en Prologon
+    2. Legi vortaron, rilatigi vortojn
+    3. Tradukparoj kaj -pontoj
+    4. Esperanto-ĉina vortaro
+    5. Servi retpaĝon
 
 */
 
+% En Prologo oni laboras per predikatoj, kiuj povas esti faktaroj aŭ regularoj.
+% Sed por programistoj pli facila estas analogio al datumbazo:
+% faktaro ~ tabelo (en: table), fakto ~ rikordo (en: record; row), regulo ~ rigardo (en: view)
 
-% faktoj pri Prologo k.a.
-% pridemandebla per ?- speco('Prologo',X)
-% SQL-ekvivalento: 
+% Ni komencu per difino de kelkaj faktoj pri Prologo k.a.
+% pridemandeblaj per ?- speco('Prologo',X)
+%
+% SQL-ekvivalento:
+% INSERT INTO speco VALUES ('Prologo','programlingvo'); -- ktp. 
 % SELECT * FROM speco WHERE subjekto = 'Prologo';
 %
-% (variablo-nomoj estas majusklaj, do tekstvaloroj
+% Por tio, kion oni serĉas oni uzas variablojn, por
+% konataj valoroj minusklaj aŭ citilitaj 'atomoj':
+% (Ĉar variablo-nomoj estas majusklaj, do tekstvaloroj
 % estu aŭ minusklaj aŭ intercitilaj)
+%
+% La aparta variablo '_' (substreko), uziĝas por iaj neinteresaj
+% (ignorataj) valoroj
 speco('Prologo',programlingvo).
 speco('Prologo',solvilo).
 speco('Prologo',datumbazo).
@@ -26,16 +36,14 @@ speco('Pitono',programlingvo).
 speco('Perlo',programlingvo).
 speco('Orakolo',datumbazo).
 
-% faktoj pri lingvoj
-% la sintakso en SQL estus
-% INSERT INTO speco VALUES ('angla,'nacilingvo'); -- ktp.
+% Ni aldonu kelkajn faktojn pri lingvoj.
 speco(angla,nacilingvo).
 speco(franca,nacilingvo).
 speco(germana,nacilingvo).
 speco(nederlanda,nacilingvo).
 speco('Esperanto',internacilingvo).
 
-% faktoj pri bestoj
+% kaj faktojn pri bestoj:
 speco(hundo,rabobesto).
 speco(rabobesto,mamulo).
 speco(mamulo,besto).
@@ -49,7 +57,7 @@ speco(urso,rabobesto).
  * Lingvo povas esti nacilingvo aŭ internacilingvo aŭ programlingvo
  *
  * SQL-ekvivalento:
- * SELECT subjekto FROM speco WHERE speco = 'nacilingvo'
+ * CREATE VIEW lingvo AS SELECT subjekto FROM speco WHERE speco = 'nacilingvo'
  *     OR speco = 'internacilingvo' OR speco = 'programlingvo'
  */
 lingvo(L) :-

@@ -1,3 +1,14 @@
+/**
+ Ponta vortaro en kvin paŝoj
+
+    1. Enkonduko en Prologon
+ => 2. Legi vortaron, rilatigi vortojn
+    3. Tradukparoj kaj -pontoj
+    4. Esperanto-ĉina vortaro
+    5. Servi retpaĝon
+
+*/
+
 :- use_module(library(csv)).
 :- dynamic traduko/5.
 
