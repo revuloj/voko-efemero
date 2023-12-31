@@ -1,6 +1,6 @@
 /**
  Ponta vortaro en kvin paŝoj
-
+ ===========================
     1. Enkonduko en Prologon
     2. Legi vortaron, rilatigi vortojn
     3. Tradukparoj kaj -pontoj
@@ -8,6 +8,11 @@
  => 5. Servi retpaĝon
 
 */
+
+/*
+ * Ni aldonas prdikatojn por retservo de la tradukoj (linioj 36..53)
+ * kaj aldonon de supersignoj por ĝusta prezento de Pinjino (post linio 209)
+ */
 
 :- use_module(library(csv)).
 :- use_module(library(isub)).
@@ -64,7 +69,7 @@ legu :-
 legu_eo(EoCsv) :- 
     format('legante ~w...~n',EoCsv),
     csv_read_file(EoCsv, Datenopoj, [
-        separator(0';),   % uzu punktokomon kiel apartigilo de kampoj
+        separator(0';),   %'% uzu punktokomon kiel apartigilo de kampoj
         skip_header('#'), % ignoru kaplinion, enkondukitan per #
         convert(false),   % ne provu interpreti nombrojn ks.
         functor(eo)       % nomo de la predikato (~ tabelnomo)
@@ -83,7 +88,7 @@ legu_eo(EoCsv) :-
 legu_zh(Lng,ZhDict) :- 
     format('legante ~w...~n',ZhDict),
     csv_read_file(ZhDict, Datenopoj, [
-        separator(0'/),      % uzu oblikvon kiel apartigilo de kampoj
+        separator(0'/),      %'% uzu oblikvon kiel apartigilo de kampoj
         ignore_quotes(true), % ignoru citilojn - ili ne servas por kadri kampotekstojn
         convert(false),      % ne provu interpreti nombrojn ks.
         skip_header('#'),    % ignoru kaplinion, enkondukitan per #
@@ -171,8 +176,12 @@ zh_pontoj(Eo,Kiom) :-
     format('~1f ~w ~36|~w~n',[SimSum,Zh,Pontoj])
     ).
 
-zh_trdj(Zh,Tradukoj) :-
-    setof(Lng:Trd,trd(zh-Lng,Zh,Trd),Tradukoj).
+/*
+ * Ni ankoraŭ iom plibonigas la rezulton montrante ne nur la pontajn tradukojn, sed ĉiujn
+ * tradukojn de la trovitaj ĉinaj tradukoj de la esperanta vorto. Tiel ni pli bone povas
+ * prijuĝi la signifokampon de la ĉina vorto kaj ĉu ĝi taŭgas por ni.
+ */
+
 
 zh_tradukoj(Eo,Kiom) :-
     forall(
@@ -191,6 +200,9 @@ zh_tradukoj(Eo,Kiom) :-
             )
         )
     ).
+
+zh_trdj(Zh,Tradukoj) :-
+    setof(Lng:Trd,trd(zh-Lng,Zh,Trd),Tradukoj).
 
 % traduku prononcon, troviĝantan inter angulaj krampoj 
 % de ciferaj sufiksoj al supersignaj
@@ -283,7 +295,7 @@ zh_pr_vokal_super(V,D,VS) :-
             1-a-'ā', 1-e-'ē', 1-i-'ī', 1-o-'ō', 1-u-'ū',1-u-'ǖ',
             2-a-'á', 2-e-'é', 2-i-'í', 2-o-'ó', 2-u-'ú',2-u-'ǘ',
             3-a-'ǎ', 3-e-'ě', 3-i-'ǐ', 3-o-'ǒ', 3-u-'ǔ',3-ü-'ǚ',
-            4-a-'à', 4-e-'è', 4-i-'ì', 4-o-'ò', 4-u-'ù',4,-u-'ǜ'
+            4-a-'à', 4-e-'è', 4-i-'ì', 4-o-'ò', 4-u-'ù',4-u-'ǜ'
         ])
         ;
         V = VS % se ne estas vokalo, eble estas eraro, sed ni silente kopias

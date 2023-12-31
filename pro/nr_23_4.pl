@@ -1,6 +1,6 @@
 /**
  Ponta vortaro en kvin paŝoj
-
+ ===========================
     1. Enkonduko en Prologon
     2. Legi vortaron, rilatigi vortojn
     3. Tradukparoj kaj -pontoj
@@ -8,6 +8,8 @@
     5. Servi retpaĝon
 
 */
+
+/**** unuaj cent linioj same kiel en nr_23_3 ****/
 
 :- use_module(library(csv)).
 :- use_module(library(isub)).
@@ -39,7 +41,7 @@ legu :-
 legu_eo(EoCsv) :- 
     format('legante ~w...~n',EoCsv),
     csv_read_file(EoCsv, Datenopoj, [
-        separator(0';),   % uzu punktokomon kiel apartigilo de kampoj
+        separator(0';),   %'% uzu punktokomon kiel apartigilo de kampoj
         skip_header('#'), % ignoru kaplinion, enkondukitan per #
         convert(false),   % ne provu interpreti nombrojn ks.
         functor(eo)       % nomo de la predikato (~ tabelnomo)
@@ -58,7 +60,7 @@ legu_eo(EoCsv) :-
 legu_zh(Lng,ZhDict) :- 
     format('legante ~w...~n',ZhDict),
     csv_read_file(ZhDict, Datenopoj, [
-        separator(0'/),      % uzu oblikvon kiel apartigilo de kampoj
+        separator(0'/),      %'% uzu oblikvon kiel apartigilo de kampoj
         ignore_quotes(true), % ignoru citilojn - ili ne servas por kadri kampotekstojn
         convert(false),      % ne provu interpreti nombrojn ks.
         skip_header('#'),    % ignoru kaplinion, enkondukitan per #
@@ -102,26 +104,40 @@ triopoj(zh) :-
     ).
 
 /**
- * eo_zh(ekzemplo,Zh,Ponto).
+ * Ni difinas regulojn kiel trovi tradukojn inter Esperanto kaj ĉina
+ * per uzeblaj pontlingvoj (de,en,fr):
+ *
+ * eo_zh(Eo,Zh,Ponto).
+ * Ponto enhavas informojn pri simileco de komparo, pontlingvo Lp kaj la pontvorto.
  */
 eo_zh(Eo,Zh,1.0-Lp:Ponto) :-
-    member(Lp,[en,de,fr]),
-    trd(eo-Lp,Eo,Ponto), % ni povas trovi tradukon per pontlingvo
+    % elektu konvenan pontlingvon
+    member(Lp,[en,de,fr]), 
+    % ni povas trovi tradukon per pontlingvo kaj identa pontvorto
+    % en ambaŭ vortaroj
+    trd(eo-Lp,Eo,Ponto), 
     trd(zh-Lp,Zh,Ponto).
 
 eo_zh(Eo,Zh,Simileco-Lp:P2) :-
     member(Lp,[en,de,fr]),
-    limit(100,(
-        trd(eo-Lp,Eo,P1), % ni povas trovi tradukon per pontlingvo kaj simileco
+    limit(100,( % limigu al 100 similaj
+        % ni povas trovi tradukon per pontlingvo kaj simileco inter pontvortoj
+        % uzante komparon isub
+        trd(eo-Lp,Eo,P1),
         trd(zh-Lp,Zh,P2),
         P1 \= P2, % evitu duoble trovi/kalkuli tradukojn
         isub(P1,P2,Simileco,[zero_to_one(true)]),
         Simileco>0.8
     )).
 
+/*
+ * Ni volas samajn tradukojn kungrupigi kaj adicii la unuopajn
+ * similecojn. Post tio ni povos tiel ordigi, ke la plej
+ * bonaj tradukoj aperos unue
+ */
 eo_zh_grup(Eo,Zh,SimSum-Pontoj) :-
     % serĉu parojn Eo-Zh 
-    % kaj identajn paroj sumiĝu
+    % kaj identajn parojn sumigu
     group_by(Eo-Zh,
         Simil-Lp:Ponto,
         eo_zh(Eo,Zh,Simil-Lp:Ponto),
@@ -135,19 +151,30 @@ kunigo(
     SimSum-[Lp1:P1|PList]) :- 
         SimSum is Sim1+Sim2.
 
+/*
+ * Nun ni povas ordigi kun plej bonaj unue...
+ */        
 eo_zh_ord(Eo,Zh,SimSum-Pontoj) :-
     order_by([desc(SimSum)], 
         eo_zh_grup(Eo,Zh,SimSum-Pontoj)
     ).
 
+/*
+ * Ni bezonas iom legeble elskribi la rezulton
+ * post serĉo, grupigo, ordigo. Per variablo Kiom ni povas
+ * limigi la elskribitajn rezultojn
+ */
 zh_pontoj(Eo,Kiom) :-
     forall(
-    limit(Kiom,eo_zh_ord(Eo,Zh,SimSum-Pontoj)),
-    format('~1f ~w ~36|~w~n',[SimSum,Zh,Pontoj])
+        limit(Kiom,eo_zh_ord(Eo,Zh,SimSum-Pontoj)),
+        format('~1f ~w ~36|~w~n',[SimSum,Zh,Pontoj])
     ).
 
-zh_trdj(Zh,Tradukoj) :-
-    setof(Lng:Trd,trd(zh-Lng,Zh,Trd),Tradukoj).
+/*
+ * Ni ankoraŭ iom plibonigas la rezulton montrante ne nur la pontajn tradukojn, sed ĉiujn
+ * tradukojn de la trovitaj ĉinaj tradukoj de la esperanta vorto. Tiel ni pli bone povas
+ * prijuĝi la signifokampon de la ĉina vorto kaj ĉu ĝi taŭgas por ni.
+ */
 
 zh_tradukoj(Eo,Kiom) :-
     forall(
@@ -157,6 +184,10 @@ zh_tradukoj(Eo,Kiom) :-
             format('~1f ~w ~36|~w~n',[SimSum,Zh,Tradukoj])
         )
     ).
+
+zh_trdj(Zh,Tradukoj) :-
+    setof(Lng:Trd,trd(zh-Lng,Zh,Trd),Tradukoj).
+
 
 % Ni iom simpligas la dialogon 
 % permesante doni komencan demandsignon kaj serĉvorton,

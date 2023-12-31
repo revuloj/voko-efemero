@@ -1,6 +1,6 @@
 /**
  Ponta vortaro en kvin paŝoj
-
+ ===========================
     1. Enkonduko en Prologon
  => 2. Legi vortaron, rilatigi vortojn
     3. Tradukparoj kaj -pontoj
@@ -20,25 +20,35 @@
  */ 
 legu :- 
     csv_read_file('vrt/eo_de_en_fr_nl.csv', Datenopoj, [
-        separator(0';),   % uzu punktokomon kiel apartigilo de kampoj
+        separator(0';),   %'% uzu punktokomon kiel apartigilo de kampoj
         skip_header('#'), % ignoru kaplinion, enkondukitan per #
         convert(false),   % ne provu interpreti nombrojn ks.
         functor(traduko)  % nomo de la predikato (~ tabelnomo)
     ]),
-    % ni ricevis liston, kies unuopajn erojn
-    % ni nun konservas kiel faktoj (per "assert")
+    % Ni ricevis liston, kies unuopajn erojn ni povas
+    % dinamike aserti (konservi) kiel faktoj per "assert".
     maplist(assert, Datenopoj).
 
+/* Provu:
+ * ?- traduko(Eo,Mrk,Lng,Trd,Ind).
+ */
+
+/*
+* Facilige ni koncizigas la faktojn al triopoj difinante regulon.
+*/
 
 trd(Lng,Eo,Nac) :-
     traduko(Eo,_,Lng,Trd,Ind),
     (Trd\='' -> Nac=Trd; Nac=Ind).
+
+
+/* Provu:
+ * ?- trd(Eo,Lng,Trd).
+ */    
     
 /**
- * trovas (verŝajnajn) sinonimojn per samajn tradukoj en iu lingvo de du diversaj
+ * La sekva regulo trovas (verŝajnajn) sinonimojn per samaj tradukoj en iu lingvo de du diversaj
  * esperanto-vortoj: sin1(L1,malsanulejo,E2).
- * Sed tio ne estas perfekta, ĉar en ekz-e droneo kaj virabelo
- * havas en la germana ambaŭ la tradukon "Drohne": sin1(L,virabelo,E2).
  */
 sin1(Lng,Eo1,Eo2) :-
     distinct(Eo1-Eo2,(
@@ -47,7 +57,15 @@ sin1(Lng,Eo1,Eo2) :-
         Eo1 \= Eo2
     )).
 
+/* Provu:
+ * ?- sin1(Lng,E1,E2).
+ */    
+
+
 /**
+ * Sed tio ne estas perfekta, ĉar en ekz-e droneo kaj virabelo
+ * havas en la germana ambaŭ la tradukon "Drohne": sin1(L,virabelo,E2).
+ *
  * Ni provas plibonigi sin1 komparante almenaŭ du diversajn lingvojn.
  * Nun ni ne plu ricevas sinonimojn virabelo-droneo: sin2(L1,L2,virabelo,E2).
  * Sed ankaŭ ne plu malsanulejo-hospitalo: sin2(L1,L2,malsanulejo,E2).

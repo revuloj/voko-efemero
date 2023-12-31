@@ -1,6 +1,6 @@
 /**
  Ponta vortaro en kvin paŝoj
-
+ ===========================
  => 1. Enkonduko en Prologon
     2. Legi vortaron, rilatigi vortojn
     3. Tradukparoj kaj -pontoj
@@ -36,6 +36,11 @@ speco('Pitono',programlingvo).
 speco('Perlo',programlingvo).
 speco('Orakolo',datumbazo).
 
+/*
+ * Provu:
+ * ?- speco('Prologo',S).
+ */
+
 % Ni aldonu kelkajn faktojn pri lingvoj.
 speco(angla,nacilingvo).
 speco(franca,nacilingvo).
@@ -50,6 +55,10 @@ speco(mamulo,besto).
 speco(dogo,hundo).
 speco(urso,rabobesto).
 
+/*
+ * Provu:
+ * ?- speco(L,lingvo)
+ */
 
 /**
  * ?- speco(L,lingvo) ne donas rezulton, manke de faktoj, sed ni
@@ -67,6 +76,12 @@ lingvo(L) :-
     ;
     speco(L,programlingvo).
 
+/*
+ * Provu:
+ * ?- lingvo(L).
+ * ?- lingvo(hundo).
+ */ 
+
 /**
  * Ĉio, de la speco besto estas besto.
  */
@@ -74,7 +89,7 @@ besto(B) :-
     speco(B,besto).
 
 /*
- * provu:
+ * Provu:
  * ?- besto(mamulo).
  * ?- besto(hundo).
  * ?- besto(B).
@@ -82,7 +97,7 @@ besto(B) :-
 
 /**
  * Ankaŭ ĉiuj mamuloj, hundoj ktp. estas bestoj. Ni bezonas pli vastan
- * difino por besto do:
+ * difinon por besto do:
  * Ĉio, kies speco siavice estas besto, estas besto (rikura difino)
  * Kontrola demando: kial la rikuro funkcias? Kial ĝi ne kuras eterne?
  */

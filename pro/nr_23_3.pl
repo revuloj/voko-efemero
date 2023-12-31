@@ -1,6 +1,6 @@
 /**
  Ponta vortaro en kvin paŝoj
-
+ ===========================
     1. Enkonduko en Prologon
     2. Legi vortaron, rilatigi vortojn
  => 3. Tradukparoj kaj -pontoj
@@ -38,12 +38,12 @@ legu :-
 legu_eo(EoCsv) :- 
     format('legante ~w...~n',EoCsv),
     csv_read_file(EoCsv, Datenopoj, [
-        separator(0';),   % uzu punktokomon kiel apartigilo de kampoj
+        separator(0';),   %'% uzu punktokomon kiel apartigilo de kampoj
         skip_header('#'), % ignoru kaplinion, enkondukitan per #
         convert(false),   % ne provu interpreti nombrojn ks.
         functor(eo)       % nomo de la predikato (~ tabelnomo)
     ]),
-    % ni ricevis liston, kies unuopajn erojn
+    % Ni ricevis liston, kies unuopajn erojn
     % ni nun konservas kiel faktoj (per "assert")
     maplist(assert, Datenopoj).
 
@@ -57,7 +57,7 @@ legu_eo(EoCsv) :-
 legu_zh(Lng,ZhDict) :- 
     format('legante ~w...~n',ZhDict),
     csv_read_file(ZhDict, Datenopoj, [
-        separator(0'/),      % uzu oblikvon kiel apartigilo de kampoj
+        separator(0'/),      %'%' uzu oblikvon kiel apartigilo de kampoj
         ignore_quotes(true), % ignoru citilojn - ili ne servas por kadri kampotekstojn
         convert(false),      % ne provu interpreti nombrojn ks.
         skip_header('#'),    % ignoru kaplinion, enkondukitan per #
@@ -74,6 +74,9 @@ assert_zh(Lng,Datenopo) :-
     Fakto =.. [zh,Lng|Kampoj],
     assert(Fakto).
 
+/*
+ * Por pli facila aliro de la tradukoj ni kreas triopojn trd(Lde-Lal,De,Al).
+ */
 triopoj(eo) :-
     forall(
         eo(Eo,_,Lng,Trd,Ind),
@@ -85,7 +88,7 @@ triopoj(eo) :-
 
 /*
  * HanDeDict havas inter 3 kaj 22 kampojn - lasta kutime malplena
- * ni transformas tion al duopoj ĉina - germana
+ * ni transformas tion al tripopj trd(zh-Lng,Ĉina,Traduko).
  */
 triopoj(zh) :-
     forall(
@@ -101,8 +104,7 @@ triopoj(zh) :-
     ).
 
 /*
- * Permesu en la triopoj serĉi tradukojn inter du lingvoj laŭ ambaŭ direktoj kaj
- * aldone tra pontlingvo
+ * Permesu en la triopoj serĉi tradukojn inter du lingvoj laŭ ambaŭ direktoj.
  */
 trd2(Lde-Lal,De,Al) :-
     trd(Lde-Lal,De,Al). % traduko estas en la faktoj trd/3
@@ -112,8 +114,8 @@ trd2(Lde-Lal,De,Al) :-
 
 
 /**
- * Nun ni ebligos trovi tradukojn, por kiuj ne nepre
- * havas paron en niaj faktoj. Tiam ni provos uzi
+ * Plie, ni nun ebligos trovi tradukojn, por kiuj ne nepre
+ * havas paron en niaj faktoj: Ni provos uzi
  * pontlingvon (eo aŭ zh povas funkcii nun), ekz-e:
  * traduko(de-en,dürftig,En,Pont).
  * traduko(eo-zh,ekzemplo,Zh,Pont).
@@ -125,8 +127,3 @@ traduko(Lde-Lal,De,Al,'-':'-') :-
 traduko(Lde-Lal,De,Al,Lp:Ponto) :-
     trd2(Lde-Lp,De,Ponto), % ni povas troci tradukon per pontlingvo
     trd2(Lp-Lal,Ponto,Al).
-
-
-
-
-
