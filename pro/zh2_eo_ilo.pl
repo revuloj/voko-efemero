@@ -78,9 +78,9 @@ sercho(Request) :-
 */
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-eo_def('vrt/eo_def_k.csv'). % eo-de/en/fr
-db_celo('pdb/eo_zh_k.db').
-csv_celo('vrt/eo_zh_k.csv').
+eo_def('vrt/eo_def_l.csv'). % eo-de/en/fr
+db_celo('pdb/eo_zh_l.db').
+csv_celo('vrt/eo_zh_l.csv').
 
 /**
  * Dialogo por aldono de tradukoj:
@@ -639,7 +639,7 @@ zh_pr_silab(Paroj,D,SilabS) :-
     % ni havas nur unu vokalon: ni metos supersignon tie
     % aŭ ni havas pli ol unu vokalon, sed la unua estas a,e,o
     (
-        member(2-_,Paroj), member(1-V,Paroj), member(V,[a,e,o,A,E,O])
+        member(2-_,Paroj), member(1-V,Paroj), member(V,[a,e,o,'A','E','O'])
         ; \+ member(2-_,Paroj)
     ),!,
     select(1-V,Paroj,1-VS,ParojS),
@@ -683,4 +683,4 @@ zh_pr_vokal([Lit|Rest],N,[N1-Lit|Paroj]) :-
 zh_pr_vokal([Lit|Rest],N,[0-Lit|Paroj]) :-
     zh_pr_vokal(Rest,N,Paroj).    
 
-vokalo(Lit) :- member(Lit,[a,e,i,o,u,ü,A,E,I,O,U,Ü]).
+vokalo(Lit) :- member(Lit,[a,e,i,o,u,ü,'A','E','I','O','U','Ü']).

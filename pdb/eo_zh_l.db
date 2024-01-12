@@ -1,0 +1,164 @@
+created(1705053619.5977542).
+assert(celo(labiacoj,'labiac.0oj','唇形科[chún xíng kē]')).
+assert(celo(labialo,'labial.0o','唇音[chún yīn]')).
+assert(celo(labila,'labil.0a.malstabila','婀[ē]')).
+assert(celo(labila,'labil.0a.malstabila','不稳[bù wěn],不穩[bù wěn]')).
+assert(celo(labila,'labil.0a.malstabila','不稳定[bù wěn dìng],不穩定[bù wěn dìng]')).
+assert(celo(labirinto,'labiri.0o','迷宫[mí gōng],迷宮[mí gōng]')).
+assert(celo(labirinto,'labiri.0o','迷津[mí jīn]')).
+assert(celo(labirinto,'labiri.0o','迷路园[mí lù yuán],迷路園[mí lù yuán]')).
+assert(celo(labirinto,'labiri.0o','迷阵[mí zhèn],迷陣[mí zhèn]')).
+assert(celo(labirinto,'labiri.0o','曲径[qū jìng],曲徑[qū jìng]')).
+assert(celo(laboritaĵo,'labor.0ajxo','出品[chū pǐn]')).
+assert(celo(laborantaro,'labor.0antaro','员工[yuán gōng],員工[yuán gōng]')).
+assert(celo(laborantaro,'labor.0antaro','工薪族[gōng xīn zú]')).
+assert(celo(labordonanto,'labor.0donanto','雇主[gù zhǔ]')).
+assert(celo(laboranto,'','劳动者[láo dòng zhě],勞動者[láo dòng zhě]')).
+assert(celo(laboranto,'','员工[yuán gōng],員工[yuán gōng]')).
+assert(celo(laborema,'labor.0ema','勤劳[qín láo],勤勞[qín láo]')).
+assert(celo(laborema,'labor.0ema','辛勤[xīn qín]')).
+assert(celo(laborema,'labor.0ema','勤苦[qín kǔ]')).
+assert(celo(laborema,'labor.0ema','孜孜[zī zī]')).
+assert(celo(laborema,'labor.0ema','刻苦[kè kǔ]')).
+assert(celo(laborema,'labor.0ema','孜[zī]')).
+assert(celo(laborema,'labor.0ema','勤[qín],懃[qín]')).
+assert(celo(laborestro,'labor.0estro','領班[lǐng bān],领班[lǐng bān]')).
+assert(celo(laborestro,'labor.0estro','督工[dū gōng]')).
+assert(celo(laborestro,'labor.0estro','监工[jiān gōng],監工[jiān gōng]')).
+assert(celo(laborestro,'labor.0estro','工头[gōng tóu],工頭[gōng tóu]')).
+assert(celo(laborulo,'labor.0isto','工[gōng]')).
+assert(celo(laborulo,'labor.0isto','员工[yuán gōng],員工[yuán gōng]')).
+assert(celo(laborulo,'labor.0isto','夫役[fū yì]')).
+assert(celo(laborulo,'labor.0isto','工人[gōng rén]')).
+assert(celo(laborulo,'labor.0isto','蓝领[lán lǐng],藍領[lán lǐng]')).
+assert(celo(laborulo,'labor.0isto','劳动者[láo dòng zhě],勞動者[láo dòng zhě]')).
+assert(celo(laborulo,'labor.0isto','工作者[gōng zuò zhě]')).
+assert(celo(laboristo,'labor.0isto','工[gōng]')).
+assert(celo(laboristo,'labor.0isto','员工[yuán gōng],員工[yuán gōng]')).
+assert(celo(laboristo,'labor.0isto','夫役[fū yì]')).
+assert(celo(laboristo,'labor.0isto','工人[gōng rén]')).
+assert(celo(laboristo,'labor.0isto','蓝领[lán lǐng],藍領[lán lǐng]')).
+assert(celo(laboristo,'labor.0isto','劳动者[láo dòng zhě],勞動者[láo dòng zhě]')).
+assert(celo(laborkapabla,'labor.0kapabla','有劳动能力[yǒu láo dòng néng lì],有勞動能力[yǒu láo dòng néng lì]')).
+assert(celo(laborloko,'labor.0loko','职场[zhí chǎng],職場[zhí chǎng]')).
+assert(celo(laboro,'labor.0o','事[shì]')).
+assert(celo(laboro,'labor.0o','功夫[gōng fu]')).
+assert(celo(laboro,'labor.0o','工[gōng]')).
+assert(celo(laboro,'labor.0o','工作[gōng zuò]')).
+assert(celo(laboro,'labor.0o','工夫[gōng fu]')).
+assert(celo(laboro,'labor.0o','做事[zuò shì]')).
+assert(celo(laboro,'labor.0o','劳工[láo gōng],勞工[láo gōng]')).
+assert(celo(ellabori,'labor.el0i','制定[zhì dìng]')).
+assert(celo(forlabori,'labor.for0i','做完[zuò wán]')).
+assert(celo(kamplaboristo,'labor.kamp0isto','农业工人[nóng yè gōng rén],農業工人[nóng yè gōng rén]')).
+assert(celo(kamplaboristo,'labor.kamp0isto','雇农[gù nóng],雇農[gù nóng]')).
+assert(celo(konstrulaboristo,'labor.konstru0isto','建筑工人[jiàn zhù gōng rén],建築工人[jiàn zhù gōng rén]')).
+assert(celo(konstrulaboro,'labor.konstru0o','建筑工作[jiàn zhù gōng zuò],建築工作[jiàn zhù gōng zuò]')).
+assert(celo(konstrulaboro,'labor.konstru0o','土木[tǔ mù]')).
+assert(celo(kromlaboro,'labor.krom0o.alia','兼差[jiān chāi]')).
+assert(celo(kromlaboro,'labor.krom0o.alia','兼职工作[jiān zhí gōng zuò],兼職工作[jiān zhí gōng zuò]')).
+assert(celo(kromlaboro,'labor.krom0o.alia','半职[bàn zhí],半職[bàn zhí]')).
+assert(celo(kunlabori,'labor.kun0i','合作[hé zuò]')).
+assert(celo(kunlabori,'labor.kun0i','会师[huì shī],會師[huì shī]')).
+assert(celo(kunlabori,'labor.kun0i','协同[xié tóng],協同[xié tóng]')).
+assert(celo(kunlabori,'labor.kun0i','共同努力[gòng tóng nǔ lì]')).
+assert(celo(kunlabori,'labor.kun0i','共事[gòng shì]')).
+assert(celo(kunlaboro,'labor.kun0o','合作[hé zuò]')).
+assert(celo(kunlaboro,'labor.kun0o','协作[xié zuò],協作[xié zuò]')).
+assert(celo(kunlaboro,'labor.kun0o','一起工作[yì qǐ gōng zuò]')).
+assert(celo(lignolaboristo,'labor.ligno0isto','木工[mù gōng]')).
+assert(celo(lignolaboristo,'labor.ligno0isto','伐木工人[fá mù gōng rén]')).
+assert(celo(lignolaboristo,'labor.ligno0isto','木材商佣工[mù cái shāng yōng gōng]')).
+assert(celo(mallaborema,'labor.mal0ema','懒[lǎn],懶[lǎn]')).
+assert(celo(mallaborema,'labor.mal0ema','懒惰[lǎn duò],懶惰[lǎn duò]')).
+assert(celo(mallaborema,'labor.mal0ema','惰[duò]')).
+assert(celo(mallaborema,'labor.mal0ema','儽[lěi]')).
+assert(celo(mallaborema,'labor.mal0ema','怠[dài]')).
+assert(celo(manlaboristo,'labor.man0isto','匠[jiàng]')).
+assert(celo(manlaboristo,'labor.man0isto','工匠[gōng jiàng]')).
+assert(celo(manlaboristo,'labor.man0isto','手工业者[shǒu gōng yè zhě],手工業者[shǒu gōng yè zhě]')).
+assert(celo(manlaboro,'labor.man0o','手工[shǒu gōng]')).
+assert(celo(manlaboro,'labor.man0o','工艺品[gōng yì pǐn],工藝品[gōng yì pǐn]')).
+assert(celo(manlaboro,'labor.man0o','手艺[shǒu yì],手藝[shǒu yì]')).
+assert(celo(laborakiri,'labor.per0i','贏得[yíng dé],赢得[yíng dé]')).
+assert(celo(laborakiri,'labor.per0i','賺得[zhuàn dé],赚得[zhuàn dé]')).
+assert(celo(laborakiri,'labor.per0i','謀生[móu shēng],谋生[móu shēng]')).
+assert(celo('peza laboro','labor.peza0o','艰苦[jiān kǔ],艱苦[jiān kǔ]')).
+assert(celo('peza laboro','labor.peza0o','劳苦[láo kǔ],勞苦[láo kǔ]')).
+assert(celo('peza laboro','labor.peza0o','苦劳[kǔ láo],苦勞[kǔ láo]')).
+assert(celo('peza laboro','labor.peza0o','苦練[kǔ liàn],苦练[kǔ liàn]')).
+assert(celo('ekstra laboro','labor.plus0o','加班时数[jiā bān shí shù],加班時數[jiā bān shí shù]')).
+assert(celo('ekstra laboro','labor.plus0o','加班时间[jiā bān shí jiān],加班時間[jiā bān shí jiān]')).
+assert(celo('ekstra laboro','labor.plus0o','超时工作[chāo shí gōng zuò],超時工作[chāo shí gōng zuò]')).
+assert(celo('ekstra laboro','labor.plus0o','加时[jiā shí],加時[jiā shí]')).
+assert(celo(prilabori,'labor.pri0i','修訂者[xiū dìng zhě],修订者[xiū dìng zhě]')).
+assert(celo(prilabori,'labor.pri0i','改正者[gǎi zhèng zhě]')).
+assert(celo(prilabori,'labor.pri0i','校訂者[jiào dìng zhě],校订者[jiào dìng zhě]')).
+assert(celo(prilabori,'labor.pri0i','处理器[chǔ lǐ qì],處理器[chǔ lǐ qì]')).
+assert(celo(prilabori,'labor.pri0i','做完[zuò wán]')).
+assert(celo(prilabori,'labor.pri0i','加工[jiā gōng]')).
+assert(celo(prilabori,'labor.pri0i','办事[bàn shì],辦事[bàn shì]')).
+assert(celo(prilabori,'labor.pri0i','琢磨[zhuó mó]')).
+assert(celo(prilabori,'labor.pri0i','办理[bàn lǐ],辦理[bàn lǐ]')).
+assert(celo(punlaborejo,'labor.pun0ejo','劳动营[láo dòng yíng],勞動營[láo dòng yíng]')).
+assert(celo(punlaborejo,'labor.pun0ejo','劳改单位[láo gǎi dān wèi],勞改單位[láo gǎi dān wèi]')).
+assert(celo(punlaboro,'labor.pun0o','徭[yáo]')).
+assert(celo(punlaboro,'labor.pun0o','強迫[qiǎng pò],强迫[qiǎng pò]')).
+assert(celo(punlaboro,'labor.pun0o','繇[yáo]')).
+assert(celo(punlaboro,'labor.pun0o','苦役[kǔ yì]')).
+assert(celo(punlaboro,'labor.pun0o','烦人的要求[fán rén de yāo qiú],煩人的要求[fán rén de yāo qiú]')).
+assert(celo(punlaboro,'labor.pun0o','迫使[pò shǐ]')).
+assert(celo(punlaboro,'labor.pun0o','劳役[láo yì],勞役[láo yì]')).
+assert(celo(punlaboro,'labor.pun0o','违法有罪[wéi fǎ yǒu zuì],違法有罪[wéi fǎ yǒu zuì]')).
+retractall(celo(punlaboro,_,'违法有罪[wéi fǎ yǒu zuì],違法有罪[wéi fǎ yǒu zuì]'),1).
+assert(celo(retlabori,'labor.ret0i','远端工作[yuǎn duān gōng zuò],遠端工作[yuǎn duān gōng zuò]')).
+assert(celo(senlabora,'labor.sen0a.EKON','无业[wú yè],無業[wú yè]')).
+assert(celo(senlabora,'labor.sen0a.EKON','失业的[shī yè de],失業的[shī yè de]')).
+assert(celo(senlabora,'labor.sen0a.EKON','沒工作[méi gōng zuò],没工作[méi gōng zuò]')).
+assert(celo(senlaboreco,'labor.sen0eco.EKON','失业[shī yè],失業[shī yè]')).
+assert(celo(senlaboreco,'labor.sen0eco.EKON','失业现象[shī yè xiàn xiàng],失業現象[shī yè xiàn xiàng]')).
+assert(celo(senlaborulo,'labor.sen0ulo','失业人员[shī yè rén yuán],失業人員[shī yè rén yuán]')).
+assert(celo(senlaborulo,'labor.sen0ulo','失业者[shī yè zhě],失業者[shī yè zhě]')).
+assert(celo(trudlaboro,'labor.trud0o','徭[yáo]')).
+assert(celo(trudlaboro,'labor.trud0o','繇[yáo]')).
+assert(celo(trudlaboro,'labor.trud0o','苦役[kǔ yì]')).
+assert(celo(trudlaboro,'labor.trud0o','劳役[láo yì],勞役[láo yì]')).
+assert(celo(laboratorio,'labora.0o','实验室[shí yàn shì],實驗室[shí yàn shì]')).
+assert(celo(laboratorio,'labora.0o','制药场[zhì yào chǎng],制藥場[zhì yào chǎng]')).
+assert(celo(laboratorio,'labora.0o','研究室[yán jiù shì],硏究室[yán jiù shì]')).
+assert(celo(laboratorio,'labora.0o','制作所[zhì zuò suǒ],製作所[zhì zuò suǒ]')).
+assert(celo(laboratorio,'labora.0o','火药工厂[huǒ yào gōng chǎng],火藥工廠[huǒ yào gōng chǎng]')).
+assert(celo(laboratorio,'labora.0o','試驗室[shì yàn shì],试验室[shì yàn shì]')).
+assert(celo('Labradoro','labrador.L0o','拉布拉多[Lā bù lā duō]')).
+assert(celo(laca,'lac.0a','累[lèi]')).
+assert(celo(laca,'lac.0a','苶[nié]')).
+assert(celo(laca,'lac.0a','疲劳[pí láo],疲勞[pí láo]')).
+assert(celo(laca,'lac.0a','疲乏[pí fá]')).
+assert(celo(laca,'lac.0a','困乏[kùn fá]')).
+assert(celo(laca,'lac.0a','疲[pí]')).
+assert(celo(laca,'lac.0a','乏[fá]')).
+assert(celo(lacega,'lac.0ega','枯渴[kū kě]')).
+assert(celo(lacega,'lac.0ega','委頓[wěi dùn],委顿[wěi dùn]')).
+assert(celo(lacega,'lac.0ega','疲惫[pí bèi],疲憊[pí bèi]')).
+assert(celo(lacega,'lac.0ega','用完了[yòng wán liǎo]')).
+assert(celo(lacega,'lac.0ega','匮[kuì],匱[kuì]')).
+assert(celo(laciga,'lac.0iga','辛苦[xīn kǔ]')).
+assert(celo(lacigi,'lac.0igi','累[lèi]')).
+assert(celo(nelacigebla,'lac.sen0a','不倦[bù juàn]')).
+assert(celo(nelacigebla,'lac.sen0a','不懈[bù xiè]')).
+assert(celo(nelacigebla,'lac.sen0a','不知疲倦[bù zhī pí juàn]')).
+assert(celo(nelacigebla,'lac.sen0a','不厌倦[bù yàn juàn],不厭倦[bù yàn juàn]')).
+assert(celo(nelacigebla,'lac.sen0a','不懈怠[bù xiè dài]')).
+assert(celo(nelacigebla,'lac.sen0a','不松懈[bù sōng xiè],不鬆懈[bù sōng xiè]')).
+assert(celo(nelacigebla,'lac.sen0a','娓娓[wěi wěi]')).
+assert(celo(lacerto,'lacert.0o','蜥蜴[xī yì]')).
+assert(celo(lacerto,'lacert.0o','石龍子[shí lóng zi],石龙子[shí lóng zi]')).
+assert(celo(lacerto,'lacert.0o','蜥易[xī yì]')).
+assert(celo('Lacerto','lacert.L0o','蝎虎座[Xiē hǔ zuò],蠍虎座[Xiē hǔ zuò]')).
+assert(celo(laĉi,'lacx.0i','扎[zā],紮[zā]')).
+assert(celo(laĉi,'lacx.0i','繯[huán],缳[huán]')).
+assert(celo(laĉo,'lacx.0o','鞋带[xié dài],鞋帶[xié dài]')).
+assert(celo(lado,'lad.0o','薄板[báo bǎn]')).
+assert(celo(lado,'lad.0o','鐵皮[tiě pí],铁皮[tiě pí]')).
+assert(celo(lado,'lad.0o','鈑[bǎn],钣[bǎn]')).
+assert(celo('onda lado','lad.onda0o','瓦楞鐵皮[wǎ léng tiě pí],瓦楞铁皮[wǎ léng tiě pí]')).
