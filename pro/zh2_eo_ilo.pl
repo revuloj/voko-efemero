@@ -172,6 +172,11 @@ ac :- sekurigo(ac1).
 bc :- sekurigo(bc1).
 abc :- sekurigo(abc1).
 
+% por sekurigi specifan ĉinan tradukon sub donita vorto - ĉar foje ili aperas
+% kiam oni serĉas alian (similan) vorton
+s(Eo,Zh) :-
+    zh_prononco(Zh,Pr),
+    assert_celo(Eo,'',Pr).
 
 /**
  * Enlegi la tradukojn de esperantaj vortoj el CSV-dosiero
