@@ -1915,3 +1915,107 @@ assert(celo(vortludo,'lud.vort0o','說雙關語[shuō shuāng guān yǔ],说双�
 assert(celo('Ludoviko','ludovik.0o','路易斯[lù yì sī]')).
 assert(celo('Ludoviko','ludovik.0o','路德維希[lù dé wéi xī],路德维希[lù dé wéi xī]')).
 assert(celo(lufo,'luf.0o','丝瓜[sī guā],絲瓜[sī guā]')).
+assert(celo('Luizo','luiz.0o.nomo','露易丝[lù yì sī],露易絲[lù yì sī]')).
+assert(celo('Luiziano','luizian.0o','路易斯安那[Lù yì sī ān nà]')).
+assert(celo('Luiziano','luizian.0o','路易斯安那州[Lù yì sī ān nà zhōu]')).
+assert(celo(luko,'luk.0o','天窗[tiān chuāng]')).
+assert(celo(luko,'luk.0o','舷窗[xián chuāng]')).
+assert(celo('Luko','luk1.0o','路加[lù jiā]')).
+assert(celo('Luko','luk1.0o','卢卡斯[lú kǎ sī],盧卡斯[lú kǎ sī]')).
+assert(celo(lukano,'lukan.0o','鍬形蟲[qiāo xíng chóng],锹形虫[qiāo xíng chóng]')).
+assert(celo(lukra,'lukr.0a','有利可图[yǒu lì kě tú],有利可圖[yǒu lì kě tú]')).
+assert(celo(lukri,'lukr.0i','挣钱[zhèng qián],掙錢[zhèng qián]')).
+assert(celo(lukri,'lukr.0i','賺錢[zhuàn qián],赚钱[zhuàn qián]')).
+assert(celo(lukri,'lukr.0i','賺[zhuàn],赚[zhuàn]')).
+assert(celo(luksa,'luks.0a','奢华[shē huá],奢華[shē huá]')).
+assert(celo(luksa,'luks.0a','奢侈[shē chǐ]')).
+assert(celo(luksa,'luks.0a','豪华[háo huá],豪華[háo huá]')).
+assert(celo(luksa,'luks.0a','忕[tài]')).
+assert(celo(luksa,'luks.0a','华贵[huá guì],華貴[huá guì]')).
+assert(celo(luksa,'luks.0a','华靡[huá mí],華靡[huá mí]')).
+assert(celo(luksa,'luks.0a','菲菲[fēi fēi]')).
+assert(celo(lukso,'luks.0o','奢丽[shē lì],奢麗[shē lì]')).
+assert(celo(malluksa,'luks.mal0a','清苦[qīng kǔ]')).
+assert(celo(malluksa,'luks.mal0a','拙朴[zhuō pǔ],拙樸[zhuō pǔ]')).
+assert(celo(senluksa,'luks.sen0ane0a','单纯[dān chún],單純[dān chún]')).
+assert(celo(senluksa,'luks.sen0ane0a','简单[jiǎn dān],簡單[jiǎn dān]')).
+assert(celo(senluksa,'luks.sen0ane0a','質樸[zhì pǔ],质朴[zhì pǔ]')).
+assert(celo('Luksemburgo','luksemb.L0o','卢森堡[Lú sēn bǎo],盧森堡[Lú sēn bǎo]')).
+assert(celo('Luksemburgio','luksemb1.0o','卢森堡[Lú sēn bǎo],盧森堡[Lú sēn bǎo]')).
+assert(celo(lukti,'lukt.0i','搏击[bó jī],搏擊[bó jī]')).
+assert(celo(lukti,'lukt.0i','扭打[niǔ dǎ]')).
+assert(celo(lukti,'lukt.0i','摔角[shuāi jiǎo]')).
+assert(celo(lukti,'lukt.0i','角抵[jué dǐ]')).
+assert(celo(lukti,'lukt.0i','摔跤[shuāi jiāo]')).
+assert(celo(lukti,'lukt.0i','拼搏[pīn bó]')).
+assert(celo(lukti,'lukt.0i','奋战[fèn zhàn],奮戰[fèn zhàn]')).
+assert(celo(lukti,'lukt.0i','奋斗[fèn dòu],奮鬥[fèn dòu]')).
+assert(celo(lukti,'lukt.0i','打拼[dǎ pīn]')).
+assert(celo(lukto,'lukt.0o.SPO','摔角[shuāi jiǎo]')).
+assert(celo(interlukti,'lukt.inter0i','豦[qú]')).
+assert(celo(interlukti,'lukt.inter0i','对打[duì dǎ],對打[duì dǎ]')).
+assert(celo(lukumo,'lukum.0o','土耳其軟糖[Tǔ ěr qí ruǎn táng],土耳其软糖[Tǔ ěr qí ruǎn táng]')).
+assert(celo(lulilo,'lul.0ilo','搖籃[yáo lán],摇篮[yáo lán]')).
+assert(celo(luma,'lum.0a','光明[guāng míng]')).
+assert(celo(luma,'lum.0a','通明[tōng míng]')).
+assert(celo(luma,'lum.0a','炳[bǐng]')).
+assert(celo(lumaĵo,'lum.0ajxo.KOMUNE','照亮[zhào liàng]')).
+assert(celo(lumaĵo,'lum.0ajxo.KOMUNE','光源[guāng yuán]')).
+assert(celo(lumaĵo,'lum.0ajxo.KOMUNE','照明器具[zhào míng qì jù]')).
+assert(celo(lumaĵo,'lum.0ajxo.KOMUNE','发光体[fā guāng tǐ],發光體[fā guāng tǐ]')).
+assert(celo(lumaĵo,'lum.0ajxo.KOMUNE','电灯[diàn dēng],電燈[diàn dēng]')).
+assert(celo(lumi,'lum.0i','发亮[fā liàng],發亮[fā liàng]')).
+assert(celo(lumi,'lum.0i','照耀[zhào yào]')).
+assert(celo(lumi,'lum.0i','照亮[zhào liàng]')).
+assert(celo(lumi,'lum.0i','发光[fā guāng],發光[fā guāng]')).
+assert(celo(lumi,'lum.0i','光輝[guāng huī],光辉[guāng huī]')).
+assert(celo(lumi,'lum.0i','夜光[yè guāng]')).
+assert(celo(lumigi,'lum.0igi','照亮[zhào liàng]')).
+assert(celo(lumigi,'lum.0igi','照射[zhào shè]')).
+assert(celo(lumigi,'lum.0igi','点亮[diǎn liàng],點亮[diǎn liàng]')).
+assert(celo(lumigi,'lum.0igi','迪[dí]')).
+assert(celo(lumigilo,'lum.0igilo.KOMUNE','照亮[zhào liàng]')).
+assert(celo(lumilo,'lum.0ilo','光源[guāng yuán]')).
+assert(celo(lumo,'lum.0o','光線[guāng xiàn],光线[guāng xiàn]')).
+assert(celo(lumo,'lum.0o','光[guāng]')).
+assert(celo(lumo,'lum.0o','光照[guāng zhào]')).
+assert(celo(lumo,'lum.0o','灯光[dēng guāng],燈光[dēng guāng]')).
+assert(celo(bremslumo,'lum.bremso0o.AUT','刹车灯[shā chē dēng],剎車燈[shā chē dēng]')).
+assert(celo(bremslumo,'lum.bremso0o.AUT','停車燈[tíng chē dēng],停车灯[tíng chē dēng]')).
+assert(celo(bremslumo,'lum.bremso0o.AUT','刹车后灯[shā chē hòu dēng],剎車後燈[shā chē hòu dēng]')).
+assert(celo(ĉirkaŭlumi,'lum.cxirkaux0i','照亮[zhào liàng]')).
+assert(celo(duonlumo,'lum.duon0o.AUT','近光灯[jìn guāng dēng],近光燈[jìn guāng dēng]')).
+assert(celo(duonlumo,'lum.duon0o.KOMUNE','荫[yìn],蔭[yìn]')).
+assert(celo(duonlumo,'lum.duon0o.KOMUNE','黑影[hēi yǐng]')).
+assert(celo(duonlumo,'lum.duon0o.KOMUNE','黃昏[huáng hūn],黄昏[huáng hūn]')).
+assert(celo(eklumigi,'lum.ek0igi','点着[diǎn zháo],點著[diǎn zháo]')).
+assert(celo(eklumigi,'lum.ek0igi','点燃[diǎn rán],點燃[diǎn rán]')).
+assert(celo(eklumigi,'lum.ek0igi','焌[jùn]')).
+assert(celo(eklumigi,'lum.ek0igi','点火燃烧[diǎn huǒ rán shāo],點火燃燒[diǎn huǒ rán shāo]')).
+assert(celo(eklumigi,'lum.ek0igi','燃点[rán diǎn],燃點[rán diǎn]')).
+assert(celo(malluma,'lum.mal0a','黑暗[hēi àn]')).
+assert(celo(malluma,'lum.mal0a','昏暗[hūn àn]')).
+assert(celo(malluma,'lum.mal0a','悜[chěng]')).
+assert(celo(malluma,'lum.mal0a','曀[yì]')).
+assert(celo(malluma,'lum.mal0a','难以辨认[nán yǐ biàn rèn],難以辨認[nán yǐ biàn rèn]')).
+assert(celo(malluma,'lum.mal0a','暝[míng]')).
+assert(celo(malluma,'lum.mal0a','晦[huì]')).
+assert(celo(mallumo,'lum.mal0o','黑暗[hēi àn]')).
+assert(celo(mallumo,'lum.mal0o','幽暗[yōu àn]')).
+assert(celo(mallumo,'lum.mal0o','晦[huì]')).
+assert(celo(mallumo,'lum.mal0o','黑影[hēi yǐng]')).
+assert(celo(nebullumo,'lum.nebul0o.AUT','雾灯[wù dēng],霧燈[wù dēng]')).
+assert(celo(nordlumo,'lum.nord0o','北极光[běi jí guāng],北極光[běi jí guāng]')).
+assert(celo(parkadlumoj,'lum.park0o.AUT','小灯[xiǎo dēng],小燈[xiǎo dēng]')).
+assert(celo(plenlumo,'lum.plen0o.AUT','远光灯[yuǎn guāng dēng],遠光燈[yuǎn guāng dēng]')).
+assert(celo('polusa lumo','lum.polusa0o','极光[jí guāng],極光[jí guāng]')).
+assert(celo(postlumo,'lum.post0o.AUT','猫眼[māo yǎn],貓眼[māo yǎn]')).
+assert(celo(postlumo,'lum.post0o.AUT','尾灯[wěi dēng],尾燈[wěi dēng]')).
+assert(celo(postlumo,'lum.post0o.AUT','車後燈[chē hòu dēng],车后灯[chē hòu dēng]')).
+assert(celo(prilumi,'lum.pri0i','照亮[zhào liàng]')).
+assert(celo(prilumi,'lum.pri0i','被照亮[bèi zhào liàng]')).
+assert(celo(prilumi,'lum.pri0i','被点亮[bèi diǎn liàng],被點亮[bèi diǎn liàng]')).
+assert(celo(prilumi,'lum.pri0i','点亮[diǎn liàng],點亮[diǎn liàng]')).
+assert(celo(lumbaĵo,'lumb.0ajxo','臀肉[tún ròu]')).
+assert(celo(lumbaĵo,'lumb.0ajxo','腩[nǎn]')).
+assert(celo(lumbaĵo,'lumb.0ajxo','里脊[lǐ jǐ]')).
