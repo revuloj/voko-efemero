@@ -2019,3 +2019,83 @@ assert(celo(prilumi,'lum.pri0i','点亮[diǎn liàng],點亮[diǎn liàng]')).
 assert(celo(lumbaĵo,'lumb.0ajxo','臀肉[tún ròu]')).
 assert(celo(lumbaĵo,'lumb.0ajxo','腩[nǎn]')).
 assert(celo(lumbaĵo,'lumb.0ajxo','里脊[lǐ jǐ]')).
+assert(celo(lumbo,'lumb.0o','腰部[yāo bù]')).
+assert(celo(lumbo,'lumb.0o','恥骨區[chǐ gǔ qū],耻骨区[chǐ gǔ qū]')).
+assert(celo(lumbo,'lumb.0o','臀部关节[tún bù guān jié],臀部關節[tún bù guān jié]')).
+assert(celo(lumbaĵo,'','腰肉[yāo ròu]')).
+assert(celo(lumbalgio,'lumbag.0o','腰痛[yāo tòng]')).
+assert(celo(lumbriko,'lumbri.0o','蚓[yǐn]')).
+assert(celo(lumbriko,'lumbri.0o','蚯[qiū]')).
+assert(celo(lumbriko,'lumbri.0o','螾[yǐn]')).
+assert(celo(lumbriko,'lumbri.0o','蟺[shàn]')).
+assert(celo(lumbrikedoj,'','蚯蚓[qiū yǐn]')).
+assert(celo(luno,'lun.0o','月光[yuè guāng]')).
+assert(celo(luno,'lun.0o','月亮[yuè liang]')).
+assert(celo(luno,'lun.0o','太阴[tài yīn],太陰[tài yīn]')).
+assert(celo(luno,'lun.0o','月亮[yuè liàng]')).
+assert(celo(luno,'lun.0o','蟾[chān]')).
+assert(celo(luno,'lun.0o','蟾[shān]')).
+assert(celo(duonluno,'lun.duon0o','半月[bàn yuè]')).
+assert(celo(duonluno,'lun.duon0o','弦[xuán]')).
+assert(celo(duonluno,'lun.duon0o','弦月[xián yuè]')).
+assert(celo(duonluno,'lun.duon0o','絃[xuán]')).
+assert(celo(duonluno,'lun.duon0o','半月形[bàn yuè xíng]')).
+assert(celo('kreskanta luno','lun.kreska0o','月牙[yuè yá]')).
+assert(celo('kreskanta luno','lun.kreska0o','盈月[yíng yuè]')).
+assert(celo('kreskanta luno','lun.kreska0o','朏[fěi]')).
+assert(celo('malkreskanta luno','lun.malkreska0o','残月[cán yuè],殘月[cán yuè]')).
+assert(celo('malkreskanta luno','lun.malkreska0o','下弦月[xià xián yuè]')).
+assert(celo(mielluno,'lun.miel0o','蜜月[mì yuè]')).
+assert(celo(mielluno,'lun.miel0o','蜜月假期[mì yuè jià qī]')).
+assert(celo('malplena luno','lun.nov0o','朔[shuò]')).
+assert(celo('malplena luno','lun.nov0o','新月[xīn yuè]')).
+assert(celo('malplena luno','lun.nov0o','月缺[yuè quē]')).
+assert(celo('plena luno','lun.plen0o','月圆[yuè yuán],月圓[yuè yuán]')).
+assert(celo('plena luno','lun.plen0o','望月[wàng yuè]')).
+assert(celo('plena luno','lun.plen0o','满月[mǎn yuè],滿月[mǎn yuè]')).
+assert(celo('plena luno','lun.plen0o','望日[wàng rì]')).
+assert(celo('plena luno','lun.plen0o','望[wàng],朢[wàng]')).
+assert(celo('plena luno','lun.plen0o','圆月[yuán yuè],圓月[yuán yuè]')).
+assert(celo('plena luno','lun.plen0o','朢[wàng]')).
+assert(celo('plena luno','lun.plen0o','明月[míng yuè]')).
+assert(celo(lunatiko,'lunati.0o.somnambulo','夢遊患者[mèng yóu huàn zhě],梦游患者[mèng yóu huàn zhě]')).
+assert(celo(lunatiko,'lunati.0o.somnambulo','夢遊症患者[mèng yóu zhèng huàn zhě],梦游症患者[mèng yóu zhèng huàn zhě]')).
+assert(celo(lunĉo,'luncx.0o','零食[líng shí]')).
+assert(celo(lunĉo,'luncx.0o','中飯[zhōng fàn],中饭[zhōng fàn]')).
+assert(celo(lunĉo,'luncx.0o','午飯[wǔ fàn],午饭[wǔ fàn]')).
+assert(celo(lunĉo,'luncx.0o','午餐[wǔ cān]')).
+assert(celo(lupfantomo,'lup.0fantomo','狼人[láng rén]')).
+assert(celo(lupido,'lup.0ido.SPO','幼兽[yòu shòu],幼獸[yòu shòu]')).
+assert(celo(lupo,'lup.0o','狼[láng]')).
+assert(celo('tasmania lupo','lup.tasmania0o','袋狼[dài láng]')).
+assert(celo(lupeo,'lupe.0o','放大鏡[fàng dà jìng],放大镜[fàng dà jìng]')).
+assert(celo(lupeno,'lupin.0o','羽扇豆属[yǔ shān dòu shǔ],羽扇豆屬[yǔ shān dòu shǔ]')).
+assert(celo(lupeno,'lupin.0o','羽扇豆[yǔ shān dòu]')).
+assert(celo(lupolo,'lupol.0o','啤酒花[pí jiǔ huā]')).
+assert(celo(lupolo,'lupol.0o','蛇麻[shé má]')).
+assert(celo(lupuso,'lupus.0o','狼疮[láng chuāng],狼瘡[láng chuāng]')).
+assert(celo('Lupo','','豺狼座[chái láng zuò]')).
+assert(celo('Lusako','lusak.0o','卢萨卡[Lú sà kǎ],盧薩卡[Lú sà kǎ]')).
+assert(celo('Lusako','lusak.0o','路沙卡[lù shā kǎ]')).
+assert(celo(lutaĵo,'lut.0ajxo','焊料[hàn liào]')).
+assert(celo(luti,'lut.0i','釬[hàn]')).
+assert(celo(luti,'lut.0i','鑞[là],镴[là]')).
+assert(celo(luti,'lut.0i','軟焊[ruǎn hàn],软焊[ruǎn hàn]')).
+assert(celo(luti,'lut.0i','釺焊[qiān hàn],钎焊[qiān hàn]')).
+assert(celo(lutilo,'lut.0ilo','电焊枪[diàn hàn qiāng],電焊槍[diàn hàn qiāng]')).
+assert(celo(lutecio,'luteci.0o','鑥[lǔ],镥[lǔ]')).
+assert(celo(lutecio,'luteci.0o','鎦[liú],镏[liú]')).
+assert(celo('Lutero','luter.0o','馬丁·路德[Mǎ dīng · Lù dé],马丁·路德[Mǎ dīng · Lù dé]')).
+assert(celo('Lutero','luter.0o','馬丁・路德[Mǎ dīng · Lù dé],马丁・路德[Mǎ dīng · Lù dé]')).
+assert(celo('Luterano','luter.l0ano','新教徒[xīn jiào tú]')).
+assert(celo('Luterano','luter.l0ano','路德教会的信徒[lù dé jiào huì dì xìn tú],路德教會的信徒[lù dé jiào huì dì xìn tú]')).
+assert(celo('Luterano','luter.l0ano','信义宗[xìn yì zōng],信義宗[xìn yì zōng]')).
+assert(celo(luterismo,'luter.l0ismo','路德宗[Lù dé zōng]')).
+assert(celo(luterismo,'luter.l0ismo','路德会[Lù dé huì],路德會[Lù dé huì]')).
+assert(celo(lutro,'lutr.0o','獭[tǎ],獺[tǎ]')).
+assert(celo(lutro,'lutr.0o','水獭[shuǐ tǎ],水獺[shuǐ tǎ]')).
+assert(celo(lutro,'lutr.0o','猵[biān]')).
+assert(celo(marlutro,'lutr.mar0o','海獭[hǎi tà],海獺[hǎi tà]')).
+assert(celo('Luzacio','luzaci.0o.regiono','卢萨蒂亚[lú sà dì yà],盧薩蒂亞[lú sà dì yà]')).
+assert(celo(luzerno,'luzern.0o','苜蓿[mù xu]')).
+assert(celo(luzerno,'luzern.0o','紫花苜蓿[zǐ huā mù sù]')).

@@ -1,0 +1,219 @@
+created(1705319543.3715649).
+assert(celo(maĉi,'macx.0i','咀[jǔ]')).
+assert(celo(maĉi,'macx.0i','咀嚼[jǔ jué]')).
+assert(celo(maĉi,'macx.0i','嚼[jiáo]')).
+assert(celo(maĉi,'macx.0i','嚼[jué]')).
+assert(celo(maĉi,'macx.0i','噍[jiào]')).
+assert(celo(remaĉi,'macx.re0i','倒嚼[dǎo jiào]')).
+assert(celo(remaĉi,'macx.re0i.FIG','玩味[wán wèi]')).
+assert(celo(remaĉuloj,'macx.re0uloj','反刍亚目[fǎn chú yà mù],反芻亞目[fǎn chú yà mù]')).
+assert(celo(maĉo,'macx1.0o','对抗赛[duì kàng sài],對抗賽[duì kàng sài]')).
+assert(celo(maĉeto,'macxet.0o','开山刀[kāi shān dāo],開山刀[kāi shān dāo]')).
+assert(celo(maĉeto,'macxet.0o','弯刀[wān dāo],彎刀[wān dāo]')).
+assert(celo('Madagaskaro','madagas.0o','馬達加斯加[Mǎ dá jiā sī jiā],马达加斯加[Mǎ dá jiā sī jiā]')).
+assert(celo('Madagaskaro','madagas.0o','馬達加斯加島[Mǎ dá jiā sī jiā Dǎo],马达加斯加岛[Mǎ dá jiā sī jiā Dǎo]')).
+assert(celo('Madagaskaro','madagas.0o','馬達加斯加[mǎ dá jiā sī jiā],马达加斯加[mǎ dá jiā sī jiā]')).
+assert(celo(madejro,'madejr.0o','馬德拉[mǎ dé lā],马德拉[mǎ dé lā]')).
+assert(celo(madejro,'madejr.0o','美德雅[měi dé yǎ]')).
+assert(celo('Madejro','madejr.M0o','馬德拉[mǎ dé lā],马德拉[mǎ dé lā]')).
+assert(celo('Madejro','madejr.M0o','美德雅[měi dé yǎ]')).
+assert(celo('Madejro','madejr.M0o','馬德拉群島[mǎ dé lā qún dǎo],马德拉群岛[mǎ dé lā qún dǎo]')).
+assert(celo('Madjapradeŝo','madjapradesx.0o','中央邦[zhōng yāng bāng]')).
+assert(celo(madono,'madon.0o','圣母像[shèng mǔ xiàng],聖母像[shèng mǔ xiàng]')).
+assert(celo(madono,'madon.0o','圣母像[shěng mǔ xiàng],聖母像[shěng mǔ xiàng]')).
+assert(celo(madono,'madon.0o','圣母玛利亚[shèng mǔ mǎ lì yà],聖母瑪利亞[shèng mǔ mǎ lì yà]')).
+assert(celo('Madraso','madras.0o','馬德拉斯[Mǎ dé lā sī],马德拉斯[Mǎ dé lā sī]')).
+assert(celo('Madrido','madrid.0o','馬德裡[mǎ dé lǐ],马德里[mǎ dé lǐ]')).
+assert(celo(mafio,'mafi.0o','黑社会[hēi shè huì],黑社會[hēi shè huì]')).
+assert(celo(mafio,'mafi.0o','黑手党[hēi shǒu dǎng],黑手黨[hēi shǒu dǎng]')).
+assert(celo(mafio,'mafi.0o','黑社会组织[hēi shè huì zǔ zhī],黑社會組織[hēi shè huì zǔ zhī]')).
+assert(celo(mafino,'mafin.0o','妙芙[miào fú]')).
+assert(celo(mafino,'mafin.0o','小松糕[xiǎo sōng gāo],小鬆糕[xiǎo sōng gāo]')).
+assert(celo(mago,'mag.0o.pastro','魔术师[mó shù shī],魔術師[mó shù shī]')).
+assert(celo(mago,'mag.0o.pastro','魔术家[mó shù jiā],魔術家[mó shù jiā]')).
+assert(celo(magazenego,'magaze.0ego','百貨店[bǎi huò diàn],百货店[bǎi huò diàn]')).
+assert(celo(magazenego,'magaze.0ego','商场[shāng chǎng],商場[shāng chǎng]')).
+assert(celo(magazenego,'magaze.0ego','百貨公司[bǎi huò gōng sī],百货公司[bǎi huò gōng sī]')).
+assert(celo(magazenego,'magaze.0ego','百貨商店[bǎi huò shāng diàn],百货商店[bǎi huò shāng diàn]')).
+assert(celo(magazenego,'magaze.0ego','百貨大樓[bǎi huò dà lóu],百货大楼[bǎi huò dà lóu]')).
+assert(celo(magazeno,'magaze.0o.butiko','店鋪[diàn pù],店铺[diàn pù]')).
+assert(celo(magazeno,'magaze.0o.butiko','鋪子[pù zi],铺子[pù zi]')).
+assert(celo('Magelano','magelan.0o','斐迪南麥哲倫[fěi dí nán mài zhé lún],斐迪南麦哲伦[fěi dí nán mài zhé lún]')).
+assert(celo(magia,'magi.0a','有魔力[yǒu mó lì]')).
+assert(celo(magia,'magi.0a','魔[mó]')).
+assert(celo(magia,'magi.0a','神奇[shén qí]')).
+assert(celo(magia,'magi.0a','艳[yàn],艷[yàn]')).
+retract(celo(magia,'magi.0a','神奇[shén qí]')).
+assert(celo(magiaĵo,'magi.0ajxo','魔幻[mó huàn]')).
+assert(celo(magiaĵo,'magi.0ajxo','魔术[mó shù],魔術[mó shù]')).
+assert(celo(magiisto,'magi.0isto.MAG','魔术师[mó shù shī],魔術師[mó shù shī]')).
+assert(celo(magiisto,'magi.0isto.MAG','魔术家[mó shù jiā],魔術家[mó shù jiā]')).
+assert(celo(magiisto,'magi.0isto.MAG','覡[xí],觋[xí]')).
+assert(celo(magiisto,'magi.0isto.MAG','巫师[wū shī],巫師[wū shī]')).
+assert(celo(magio,'magi.0o','魔术[mó shù],魔術[mó shù]')).
+assert(celo(magio,'magi.0o','巫术[wū shù],巫術[wū shù]')).
+assert(celo(magio,'magi.0o','巫蛊[wū gǔ],巫蠱[wū gǔ]')).
+assert(celo(magio,'magi.0o','邪术[xié shù],邪術[xié shù]')).
+assert(celo(magio,'magi.0o','魔法[mó fǎ]')).
+assert(celo('nigra magio','magi.nigra0o','黑巫术[hēi wū shù],黑巫術[hēi wū shù]')).
+assert(celo(magistro,'magist.0o.PED','硕士[shuò shì],碩士[shuò shì]')).
+assert(celo(magistro,'magist.0o.PED','硕士学位[shuò shì xué wèi],碩士學位[shuò shì xué wèi]')).
+assert(celo(magistrato,'magist1.0o','理事会[lǐ shì huì],理事會[lǐ shì huì]')).
+assert(celo(magistrato,'magist1.0o','市議會[shì yì huì],市议会[shì yì huì]')).
+assert(celo(magmo,'magm.0o.GEOL','岩浆[yán jiāng],岩漿[yán jiāng]')).
+assert(celo(magmo,'magm.0o.GEOL','熔浆[róng jiāng],熔漿[róng jiāng]')).
+assert(celo(magnato,'magnat.0o','富商大賈[fù shāng dà gǔ],富商大贾[fù shāng dà gǔ]')).
+assert(celo(magnato,'magnat.0o','富商巨賈[fù shāng jù gǔ],富商巨贾[fù shāng jù gǔ]')).
+assert(celo(magnato,'magnat.0o','大資本家[dài zī běn jiā],大资本家[dài zī běn jiā]')).
+assert(celo(magnato,'magnat.0o','要人[yào rén]')).
+assert(celo(magneta,'magnet.0a','磁[cí]')).
+assert(celo(magneta,'magnet.0a','磁性[cí xìng]')).
+assert(celo(magneta,'magnet.0a','磁力[cí lì]')).
+assert(celo(magnetigi,'magnet.0igi','起磁[qǐ cí]')).
+assert(celo(magneto,'magnet.0o','磁鐵[cí tiě],磁铁[cí tiě]')).
+assert(celo(magneto,'magnet.0o','吸鐵石[xī tiě shí],吸铁石[xī tiě shí]')).
+assert(celo(magnetismo,'magnet1.0o','磁[cí]')).
+assert(celo(magnetismo,'magnet1.0o','磁性[cí xìng]')).
+assert(celo(magnetismo,'magnet1.0o','磁力[cí lì]')).
+assert(celo(magnetito,'magnet2.0o','磁鐵礦[cí tiě kuàng],磁铁矿[cí tiě kuàng]')).
+assert(celo(magnetofono,'magnetofon.0o','录音机[lù yīn jī],錄音機[lù yīn jī]')).
+assert(celo(magnetoskopo,'magnetoskop.0o','录像机[lù xiàng jī],錄像機[lù xiàng jī]')).
+assert(celo(magnezo,'magnez.0o','氧化鎂[yǎng huà měi],氧化镁[yǎng huà měi]')).
+assert(celo(magnezio,'magnez1.0o','鎂[měi],镁[měi]')).
+assert(celo(magnolio,'magnoli.0o','木兰花[mù lán huā],木蘭花[mù lán huā]')).
+assert(celo(magnolioj,'magnoli.0oj','被子植物[bèi zǐ zhí wù]')).
+assert(celo(magnolioj,'magnoli.0oj','被子植物[bèi zi zhí wù]')).
+assert(celo(magnolioj,'magnoli.0oj','被子植物門[bèi zi zhí wù mén],被子植物门[bèi zi zhí wù mén]')).
+assert(celo(magnoliacoj,'magnoli1.0oj','木兰科[mù lán kē],木蘭科[mù lán kē]')).
+assert(celo(magra,'magr.0a','瘦弱[shòu ruò]')).
+assert(celo(magra,'magr.0a','瘦骨棱棱[shòu gǔ léng léng]')).
+assert(celo(magra,'magr.0a','瘠[jí]')).
+assert(celo(magra,'magr.0a','单薄[dān bó],單薄[dān bó]')).
+assert(celo(magra,'magr.0a','瘦[shòu]')).
+assert(celo(magra,'magr.0a','瘦削[shòu xuē]')).
+assert(celo('Magrebo','magreb.0o','馬格裡布[mǎ gé lǐ bù],马格里布[mǎ gé lǐ bù]')).
+assert(celo(maĝangi,'magxang.0i','打牌[dǎ pái]')).
+assert(celo(maĝangi,'magxang.0i','打麻将[dǎ má jiàng],打麻將[dǎ má jiàng]')).
+assert(celo(maĝangi,'magxang.0i','砌長城[qì Cháng chéng],砌长城[qì Cháng chéng]')).
+assert(celo(maĝango,'magxang.0o','麻将[má jiàng],麻將[má jiàng]')).
+assert(celo(maĝango,'','麻雀[má jiàng]')).
+assert(celo('Mahabarato','mahabarat.0o','摩訶婆羅多[mó hē pó luó duō],摩诃婆罗多[mó hē pó luó duō]')).
+assert(celo(mahagono,'mahago.0o','桃花心木[táo huā xīn mù]')).
+assert(celo('Mahajano','mahajan.0o','大乘佛教[dà shèng fó jiào]')).
+assert(celo('Mahajano','mahajan.0o','大乘[dà shèng]')).
+assert(celo('Mahajano','mahajan.0o','上乘[shàng shèng]')).
+assert(celo('Mahometo','mahome.0o','穆罕默德[Mù hǎn mò dé]')).
+assert(celo('Mahometo','mahome.0o','穆圣[Mù shèng],穆聖[Mù shèng]')).
+assert(celo('Maĥo','mahx.M0o','恩斯特馬赫[ēn sī tè mǎ hè],恩斯特马赫[ēn sī tè mǎ hè]')).
+assert(celo(maĥo,'mahx.m0o','馬赫[mǎ hè],马赫[mǎ hè]')).
+assert(celo(maizo,'maiz.0o','玉米[yù mǐ]')).
+assert(celo(maizo,'maiz.0o','包穀[bāo gǔ],包谷[bāo gǔ]')).
+assert(celo(maizo,'maiz.0o','包粟[bāo sù]')).
+assert(celo(maizo,'maiz.0o','苞粟[bāo sù]')).
+assert(celo(maizo,'maiz.0o','粟米[sù mǐ]')).
+assert(celo(maizo,'maiz.0o','玉蜀黍[yù shǔ shǔ]')).
+assert(celo(maizo,'maiz.0o','包米[bāo mǐ]')).
+assert(celo(krevmaizo,'maiz.krev0o','爆米花[bào mǐ huā]')).
+assert(celo(krevmaizo,'maiz.krev0o','爆玉米花[bào yù mǐ huā]')).
+assert(celo(krevmaizo,'maiz.krev0o','玉米花[yù mǐ huā]')).
+assert(celo(krevmaizo,'maiz.krev0o','爆穀[bào gǔ]')).
+assert(celo(majao,'maja.0o','玛雅文明[mǎ yǎ wén míng],瑪雅文明[mǎ yǎ wén míng]')).
+assert(celo(majao,'maja.0o','玛雅人[Mǎ yǎ rén],瑪雅人[Mǎ yǎ rén]')).
+assert(celo(majao,'maja.0o','馬雅文明[mǎ yǎ wén míng],马雅文明[mǎ yǎ wén míng]')).
+assert(celo('Majenco','majenc.M0o.GEOG','美因茨[měi yīn cí]')).
+assert(celo('Majenco','majenc.M0o.GEOG','美因兹[měi yīn zī],美因茲[měi yīn zī]')).
+assert(celo(majesta,'majest.0a','威風凜凜[wēi fēng lǐn lǐn],威风凛凛[wēi fēng lǐn lǐn]')).
+assert(celo(majesta,'majest.0a','顒[yóng],颙[yóng]')).
+assert(celo(majesta,'majest.0a','雄壮[xióng zhuàng],雄壯[xióng zhuàng]')).
+assert(celo(majesta,'majest.0a','庄严[zhuāng yán],莊嚴[zhuāng yán]')).
+assert(celo(majesta,'majest.0a','堂堂[táng táng]')).
+assert(celo(majesta,'majest.0a','威風[wēi fēng],威风[wēi fēng]')).
+assert(celo(majesta,'majest.0a','俨[yǎn],儼[yǎn]')).
+assert(celo(majesta,'majest.0a','壮阔[zhuàng kuò],壯闊[zhuàng kuò]')).
+assert(celo(majesta,'majest.0a','浩浩荡荡[hào hào dàng dàng],浩浩蕩蕩[hào hào dàng dàng]')).
+assert(celo(majesteco,'majest.0eco','嶔[qīn]')).
+assert(celo(majesteco,'majest.0eco','至尊者[zhì zūn zhě]')).
+assert(celo(majesto,'majest.0o','至尊者[zhì zūn zhě]')).
+assert(celo('Majno','majn.M0o.GEOG_rivero_de','美因河[měi yīn hé]')).
+assert(celo(majonezo,'majone.0o','蛋黃醬[dàn huáng jiàng],蛋黄酱[dàn huáng jiàng]')).
+assert(celo(majonezo,'majone.0o','美乃滋[měi nǎi zī]')).
+assert(celo(majonezo,'majone.0o','美乃滋酱[měi nǎi zī jiàng],美乃滋醬[měi nǎi zī jiàng]')).
+assert(celo(majorano,'majoran.0o','牛至[niú zhì]')).
+assert(celo(majorano,'','墨角兰[mò jiǎo lán],墨角蘭[mò jiǎo lán]')).
+assert(celo(majoritato,'majoritat.0o','大多数[dà duō shù],大多數[dà duō shù]')).
+assert(celo(majoritato,'majoritat.0o','多数[duō shù],多數[duō shù]')).
+assert(celo(majoritato,'majoritat.0o','大部份[dà bù fen],大部分[dà bù fen]')).
+assert(celo('Majorko','majork.0o','馬略卡[mǎ lüè kǎ],马略卡[mǎ lüè kǎ]')).
+assert(celo('Majorko','majork.0o','馬霍卡島[mǎ huò kǎ dǎo],马霍卡岛[mǎ huò kǎ dǎo]')).
+assert(celo(majstraĵo,'majstr.0ajxo','傑作[jié zuò],杰作[jié zuò]')).
+assert(celo(majstraĵo,'majstr.0ajxo','名作[míng zuò]')).
+assert(celo(majstraĵo,'majstr.0ajxo','佳作[jiā zuò]')).
+assert(celo(majstraĵo,'majstr.0ajxo','名著[míng zhù]')).
+assert(celo(majstro,'majstr.0o','熟練掌握的人[shú liàn zhǎng wò de rén],熟练掌握的人[shú liàn zhǎng wò de rén]')).
+assert(celo(majstro,'majstr.0o','領班[lǐng bān],领班[lǐng bān]')).
+assert(celo(majstro,'majstr.0o','师[shī],師[shī]')).
+assert(celo(majstro,'majstr.0o','师傅[shī fu],師傅[shī fu]')).
+assert(celo(majstro,'majstr.0o','巨匠[jù jiàng]')).
+assert(celo(majstro,'majstr.0o','工段長[gōng duàn cháng],工段长[gōng duàn cháng]')).
+assert(celo(majstro,'majstr.0o','工長[gōng cháng],工长[gōng cháng]')).
+assert(celo(majstro,'majstr.0o','手工师傅[shǒu gōng shī fù],手工師傅[shǒu gōng shī fù]')).
+assert(celo(koncertmajstro,'majstr.koncert0o','乐队首席[yuè duì shǒu xí],樂隊首席[yuè duì shǒu xí]')).
+assert(celo(submajstro,'majstr.sub0o','佴[èr]')).
+assert(celo(majuskleto,'majuskl.0eto','小型的大写字母[xiǎo xíng de dà xiě zì mǔ],小型的大寫字母[xiǎo xíng de dà xiě zì mǔ]')).
+assert(celo(majusklo,'majuskl.0o','起首大字母[qǐ shǒu dà zì mǔ]')).
+assert(celo(majusklo,'majuskl.0o','大写字母[dà xiě zì mǔ],大寫字母[dà xiě zì mǔ]')).
+assert(celo(maĵora,'majxor.0a','大調[dà diào],大调[dà diào]')).
+assert(celo(makako,'makak.0o','猕猴[mí hóu],獼猴[mí hóu]')).
+assert(celo(makako,'makak.0o','猕[mí],獼[mí]')).
+assert(celo(makarono,'makaro.0o.frandajxo','通心面[tōng xīn miàn],通心麵[tōng xīn miàn]')).
+assert(celo(makarono,'makaro.0o.frandajxo','通心粉[tōng xīn fěn]')).
+assert(celo(makarono,'makaro.0o.frandajxo','空心面[kōng xīn miàn],空心麵[kōng xīn miàn]')).
+assert(celo(makaronio,'makaro1.0o','通心面[tōng xīn miàn],通心麵[tōng xīn miàn]')).
+assert(celo(makaronio,'makaro1.0o','通心粉[tōng xīn fěn]')).
+assert(celo(makaronio,'makaro1.0o','空心面[kōng xīn miàn],空心麵[kōng xīn miàn]')).
+retractall(celo(makarono,_,_),3).
+assert(celo(makarono,'','馬卡龍[mǎ kǎ lóng],马卡龙[mǎ kǎ lóng]')).
+assert(celo('Makedonujo','makedon.M0ujo','馬其頓[Mǎ qí dùn],马其顿[Mǎ qí dùn]')).
+assert(celo('Nordmakedonujo','makedon.NordM0ujo','北馬其頓[běi mǎ qí dùn],北马其顿[běi mǎ qí dùn]')).
+assert(celo('Makedonio','makedoni.M0o','馬其頓[Mǎ qí dùn],马其顿[Mǎ qí dùn]')).
+assert(celo('Nord-Makedonio','makedoni.NordM0o','北馬其頓[běi mǎ qí dùn],北马其顿[běi mǎ qí dùn]')).
+assert(celo(maketo,'maket.0o','模型[mó xíng]')).
+assert(celo(maketo,'maket.0o','样板[yàng bǎn],樣板[yàng bǎn]')).
+assert(celo('Makintoŝo','makintosx.0o','麥金塔[mài jīn tǎ],麦金塔[mài jīn tǎ]')).
+assert(celo('Makintoŝo','makintosx.0o','苹果电脑[píng guǒ diàn nǎo],蘋果電腦[píng guǒ diàn nǎo]')).
+assert(celo('Makintoŝo','makintosx.0o','苹果机[píng guǒ jī],蘋果機[píng guǒ jī]')).
+assert(celo(makleri,'makler.0i','圆场[yuán chǎng],圓場[yuán chǎng]')).
+assert(celo(makleraĵo,'','經紀[jīng jì],经纪[jīng jì]')).
+assert(celo(makleristo,'makler.0isto','經紀人[jīng jì rén],经纪人[jīng jì rén]')).
+assert(celo(makleristo,'makler.0isto','仲介[zhòng jiè]')).
+assert(celo(makleristo,'makler.0isto','牙人[yá rén]')).
+assert(celo(makleristo,'','調停人[tiáo tíng rén],调停人[tiáo tíng rén]')).
+assert(celo(makleristo,'','掮客[qián kè]')).
+assert(celo(bilmakleristo,'makler.bil0isto','證券經紀人[zhèng quàn jīng jì rén],证券经纪人[zhèng quàn jīng jì rén]')).
+assert(celo('borsa makleristo','makler.borsa0isto','交易所的投机者[jiāo yì suǒ de tóu jī zhě],交易所的投機者[jiāo yì suǒ de tóu jī zhě]')).
+assert(celo(makroo,'makro.0o','宏指令[hóng zhǐ lìng]')).
+assert(celo(makrocefalo,'makroc.0o','抹香鯨[mǒ xiāng jīng],抹香鲸[mǒ xiāng jīng]')).
+assert(celo(makrocefaledoj,'','抹香鯨科[mǒ xiāng jīng kē],抹香鲸科[mǒ xiāng jīng kē]')).
+assert(celo(makrofago,'makrofag.0o','大吞噬細胞[dà tūn shì xì bāo],大吞噬细胞[dà tūn shì xì bāo]')).
+assert(celo(makrofago,'makrofag.0o','巨噬細胞[jù shì xì bāo],巨噬细胞[jù shì xì bāo]')).
+assert(celo(makropo,'makrop.0o','袋鼠[dài shǔ]')).
+assert(celo(maksimo,'maksim.0o','格言[gé yán]')).
+assert(celo(maksimo,'maksim.0o','座右銘[zuò yòu míng],座右铭[zuò yòu míng]')).
+assert(celo(maksimo,'maksim.0o','处世原则[chǔ shì yuán zé],處世原則[chǔ shì yuán zé]')).
+assert(celo(maksimo,'maksim.0o','处事原则[chǔ shì yuán zé],處事原則[chǔ shì yuán zé]')).
+assert(celo(maksimuma,'maksim1.0a.KOMUNE','最大量[zuì dà liàng]')).
+assert(celo(maksimuma,'maksim1.0a.KOMUNE','极大[jí dà],極大[jí dà]')).
+assert(celo(maksimume,'maksim1.0e','最多[zuì duō]')).
+assert(celo(maksimume,'maksim1.0e','頂多[dǐng duō],顶多[dǐng duō]')).
+assert(celo(maksimume,'maksim1.0e','至多[zhì duō]')).
+assert(celo(maksimume,'maksim1.0e','充其量[chōng qí liàng]')).
+assert(celo(maksimume,'maksim1.0e','至高[zhì gāo]')).
+assert(celo(maksimume,'maksim1.0e','撐死[chēng sǐ],撑死[chēng sǐ]')).
+assert(celo(maksimumo,'maksim1.0o','最大[zuì dà]')).
+assert(celo(maksimumo,'maksim1.0o','极大值[jí dà zhí],極大值[jí dà zhí]')).
+assert(celo(maksimumo,'maksim1.0o','最高位[zuì gāo wèi]')).
+assert(celo(maksimumo,'maksim1.0o','最高水准[zuì gāo shuǐ zhǔn],最高水準[zuì gāo shuǐ zhǔn]')).
+assert(celo(maksimumo,'maksim1.0o','絕對最高水平[jué duì zuì gāo shuǐ píng],绝对最高水平[jué duì zuì gāo shuǐ píng]')).
+assert(celo(maksimumo,'maksim1.0o','頂峰[dǐng fēng],顶峰[dǐng fēng]')).
+assert(celo(maksimumo,'maksim1.0o','峰[fēng]')).
+assert(celo(maksimumo,'maksim1.0o','极大[jí dà],極大[jí dà]')).

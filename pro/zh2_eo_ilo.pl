@@ -78,9 +78,9 @@ sercho(Request) :-
 */
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-eo_def('vrt/eo_def_l.csv'). % eo-de/en/fr
-db_celo('pdb/eo_zh_l.db').
-csv_celo('vrt/eo_zh_l.csv').
+eo_def('vrt/eo_def_m.csv'). % eo-de/en/fr
+db_celo('pdb/eo_zh_m.db').
+csv_celo('vrt/eo_zh_m.csv').
 
 /**
  * Dialogo por aldono de tradukoj:
