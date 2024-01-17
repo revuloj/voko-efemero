@@ -497,3 +497,237 @@ assert(celo(vespermanĝo,'mangx.vesper0o','晚餐[wǎn cān]')).
 assert(celo(vespermanĝo,'mangx.vesper0o','晚宴[wǎn yàn]')).
 assert(celo('Manhejmo','manhejm.0o.urbo','曼海姆[màn hǎi mǔ]')).
 assert(celo(manio,'mani.0o','狂热[kuáng rè],狂熱[kuáng rè]')).
+assert(celo(manierismo,'manier.0ismo','風格主義[fēng gé zhǔ yì],风格主义[fēng gé zhǔ yì]')).
+assert(celo(maniero,'manier.0o','招式[zhāo shì]')).
+assert(celo(maniero,'manier.0o','样[yàng],樣[yàng]')).
+assert(celo(maniero,'manier.0o','样子[yàng zi],樣子[yàng zi]')).
+assert(celo(maniero,'manier.0o','气度[qì dù],氣度[qì dù]')).
+assert(celo(maniero,'manier.0o','派势[pài shì],派勢[pài shì]')).
+assert(celo(maniero,'manier.0o','举止[jǔ zhǐ],舉止[jǔ zhǐ]')).
+assert(celo(maniero,'manier.0o','般[bān]')).
+assert(celo(maniero,'manier.0o','風貌[fēng mào],风貌[fēng mào]')).
+assert(celo(maniero,'manier.0o.KOMUNE','方式[fāng shì]')).
+assert(celo(maniero,'manier.0o.KOMUNE','举止[jǔ zhǐ],舉止[jǔ zhǐ]')).
+assert(celo(agmaniero,'manier.ag0o','工作情况[gōng zuò qíng kuàng],工作情況[gōng zuò qíng kuàng]')).
+assert(celo('bonaj manieroj','manier.bonaj0oj','事体[shì tǐ],事體[shì tǐ]')).
+assert(celo('bonaj manieroj','manier.bonaj0oj','礼节[lǐ jié],禮節[lǐ jié]')).
+assert(celo(dirmaniero,'manier.dir0o','口气[kǒu qì],口氣[kǒu qì]')).
+assert(celo(dirmaniero,'manier.dir0o','言談[yán tán],言谈[yán tán]')).
+assert(celo(dirmaniero,'manier.dir0o','俗語[sú yǔ],俗语[sú yǔ]')).
+assert(celo(dirmaniero,'manier.dir0o','客套話[kè tào huà],客套话[kè tào huà]')).
+assert(celo(diversmaniere,'manier.divers0e','諸般[zhū bān],诸般[zhū bān]')).
+assert(celo(iamaniere,'manier.ia0e','不知何故[bù zhī hé gù]')).
+assert(celo(iamaniere,'manier.ia0e','以某种方式[yǐ mǒu zhǒng fāng shì],以某種方式[yǐ mǒu zhǒng fāng shì]')).
+assert(celo(iamaniere,'manier.ia0e','在任何方面[zài rèn hé fāng miàn]')).
+assert(celo(kiamaniere,'manier.kia0e','如同[rú tóng]')).
+assert(celo(kiamaniere,'manier.kia0e','如何[rú hé]')).
+assert(celo(pagmaniero,'manier.pag0o','支付[zhī fù]')).
+assert(celo(pagmaniero,'manier.pag0o','結算方式[jié suàn fāng shì],结算方式[jié suàn fāng shì]')).
+assert(celo(pagmaniero,'manier.pag0o','支付方式[zhī fù fāng shì]')).
+assert(celo(pensmaniero,'manier.pens0o','思維方式[sī wéi fāng shì],思维方式[sī wéi fāng shì]')).
+assert(celo(sammaniere,'manier.sam0e','同等[tóng děng]')).
+assert(celo(sammaniere,'manier.sam0e','一如[yī rú]')).
+assert(celo(vivmaniero,'manier.viv0o','生活作風[shēng huó zuò fēng],生活作风[shēng huó zuò fēng]')).
+assert(celo(vivmaniero,'manier.viv0o','生活型态[shēng huó xíng tài],生活型態[shēng huó xíng tài]')).
+assert(celo(vivmaniero,'manier.viv0o','生活風貌[shēng huó fēng mào],生活风貌[shēng huó fēng mào]')).
+assert(celo(manifestado,'manife.0ado','表示[biǎo shì]')).
+assert(celo(manifestado,'manife.0ado','表现[biǎo xiàn],表現[biǎo xiàn]')).
+assert(celo(manifestado,'manife.0ado','样貌[yàng mào],樣貌[yàng mào]')).
+assert(celo(manifestaĵo,'manife.0ajxo','示威活动[shì wēi huó dòng],示威活動[shì wēi huó dòng]')).
+assert(celo(manifesti,'manife.0i','表现[biǎo xiàn],表現[biǎo xiàn]')).
+assert(celo(manifesti,'manife.0i','表示[biǎo shì]')).
+assert(celo(manifesti,'manife.0i','反映[fǎn yìng]')).
+assert(celo(manifesto,'manife.0o','宣言[xuān yán]')).
+assert(celo(manifestacio,'manife1.0o','示威[shì wēi]')).
+assert(celo(manifestacio,'manife1.0o','示威游行[shì wēi yóu xíng],示威遊行[shì wēi yóu xíng]')).
+assert(celo(maniko,'manik.0o','袖子[xiù zi]')).
+assert(celo(maniko,'manik.0o','袖[xiù]')).
+assert(celo(maniko,'manik.0o','衣袖[yī xiù]')).
+assert(celo(maniko,'manik.0o','袖筒[xiù tǒng]')).
+assert(celo(maniko,'manik.0o','襼[yì]')).
+assert(celo(maniko,'manik.0o','袂[mèi]')).
+assert(celo('Maniko','manik1.0o','英吉利海峡[Yīng jí lì Hǎi xiá],英吉利海峽[Yīng jí lì Hǎi xiá]')).
+assert(celo(manikuro,'manikur.0o','修手[xiū shǒu]')).
+assert(celo(manikuro,'manikur.0o','美甲[měi jiǎ]')).
+assert(celo(manikuro,'manikur.0o','修指甲[xiū zhǐ jia]')).
+assert(celo(manikuro,'manikur.0o','修指甲术[xiū zhī jia shù],修指甲術[xiū zhī jia shù]')).
+assert(celo('Manilo','manil.0o','馬尼拉[Mǎ ní lā],马尼拉[Mǎ ní lā]')).
+assert(celo('Manilo','manil.0o','菲律宾首都[fēi lǜ bīn shǒu dū],菲律賓首都[fēi lǜ bīn shǒu dū]')).
+assert(celo(manipuli,'manipu.0i','操弄[cāo nòng]')).
+assert(celo(manipuli,'manipu.0i','摆弄[bǎi nòng],擺弄[bǎi nòng]')).
+assert(celo(manipuli,'manipu.0i','过来[guò lái],過來[guò lái]')).
+assert(celo(manipuli,'manipu.0i','操作[cāo zuò]')).
+assert(celo(manipuli,'manipu.0i','操控[cāo kòng]')).
+assert(celo(manipuli,'manipu.0i','操縱[cāo zòng],操纵[cāo zòng]')).
+assert(celo(manipuli,'manipu.0i','摆布[bǎi bù],擺布[bǎi bù]')).
+assert(celo(maniso,'manis.0o','穿山甲[chuān shān jiǎ]')).
+assert(celo(maniso,'manis.0o','石鯪魚[shí líng yú],石鲮鱼[shí líng yú]')).
+assert(celo(maniso,'manis.0o','鯪鯉[líng lǐ],鲮鲤[líng lǐ]')).
+assert(celo(maniso,'manis.0o','鯪鯉甲[líng lǐ jiǎ],鲮鲤甲[líng lǐ jiǎ]')).
+assert(celo('Manitobo','manitob.M0o','緬尼託巴[miǎn ní tuō bā],缅尼托巴[miǎn ní tuō bā]')).
+assert(celo('Manitobo','manitob.M0o','馬尼托巴[Mǎ ní tuō bā],马尼托巴[Mǎ ní tuō bā]')).
+assert(celo('Manitobo','manitob.M0o','曼尼托巴[Màn ní tuō bā]')).
+assert(celo(manki,'mank.0i','匮[kuì],匱[kuì]')).
+assert(celo(manki,'mank.0i','缺少[quē shǎo]')).
+assert(celo(manki,'mank.0i','缺乏[quē fá]')).
+assert(celo(manki,'mank.0i','叕[zhuó]')).
+assert(celo(manki,'mank.0i','缺[quē]')).
+assert(celo(manki,'mank.0i','无[wú],無[wú]')).
+assert(celo(manki,'mank.0i','匮乏[kuì fá],匱乏[kuì fá]')).
+assert(celo(manki,'mank.0i','不能利用[bù néng lì yòng]')).
+assert(celo(mankigi,'mank.0igi','遗忘[yí wàng],遺忘[yí wàng]')).
+assert(celo(mankigi,'mank.0igi','忽[hū]')).
+assert(celo(mankigi,'mank.0igi','忽略[hū lu:è]')).
+assert(celo(mankloko,'mank.0loko','缺[quē]')).
+assert(celo(mankloko,'mank.0loko','毛病[máo bìng]')).
+assert(celo(mankloko,'mank.0loko','漏洞[lòu dòng]')).
+assert(celo(mankloko,'mank.0loko','玷[diàn]')).
+assert(celo(mankloko,'mank.0loko','疵[cī]')).
+assert(celo(mankloko,'mank.0loko','病[bìng]')).
+assert(celo(mankloko,'mank.0loko','短[duǎn]')).
+assert(celo(mankloko,'mank.0loko','破綻[pò zhàn],破绽[pò zhàn]')).
+assert(celo(mankloko,'mank.0loko','缺陷[quē xiàn]')).
+assert(celo(mankloko,'mank.0loko','缺点[quē diǎn],缺點[quē diǎn]')).
+assert(celo(mankloko,'mank.0loko','疵点[cī diǎn],疵點[cī diǎn]')).
+assert(celo(manko,'mank.0o','缺失[quē shī]')).
+assert(celo(manko,'mank.0o','缺[quē]')).
+assert(celo(manko,'mank.0o','荒[huāng]')).
+assert(celo(manko,'mank.0o','不充分[bù chōng fèn]')).
+assert(celo(manko,'mank.0o','短处[duǎn chù],短處[duǎn chù]')).
+assert(celo(manko,'mank.0o','紕漏[pī lòu],纰漏[pī lòu]')).
+assert(celo(manko,'mank.0o','亏[kuī],虧[kuī]')).
+assert(celo(malmanka,'mank.mal0a','丰盛[fēng shèng],豐盛[fēng shèng]')).
+assert(celo(malmanka,'mank.mal0a','充裕[chōng yù]')).
+assert(celo(malmanka,'mank.mal0a','充分[chōng fèn]')).
+assert(celo(malmanka,'mank.mal0a','充沛[chōng pèi]')).
+assert(celo(malmanka,'mank.mal0a','充盈[chōng yíng]')).
+assert(celo(malmanka,'mank.mal0a','充足[chōng zú]')).
+assert(celo(malmanka,'mank.mal0a','富足[fù zú]')).
+assert(celo(nemankigebla,'mank.ne0igebla','不可或缺[bù kě huò quē]')).
+assert(celo(nemankigebla,'mank.ne0igebla','必不可少[bì bù kě shǎo]')).
+assert(celo(nemankigebla,'mank.ne0igebla','必不可缺[bì bù kě quē]')).
+assert(celo(nemankigebla,'mank.ne0igebla','必要[bì yào]')).
+assert(celo(nemankigebla,'mank.ne0igebla','必需[bì xū]')).
+assert(celo(nemankigebla,'mank.ne0igebla','重头[zhòng tóu],重頭[zhòng tóu]')).
+assert(celo(nemankigebla,'mank.ne0igebla','少不了[shǎo bu liǎo]')).
+assert(celo(senmanka,'mank.sen0a.plena','完整[wán zhěng]')).
+assert(celo(senmanka,'mank.sen0a.plena','整[zhěng]')).
+assert(celo(senmanka,'mank.sen0a.plena','齊全[qí quán],齐全[qí quán]')).
+assert(celo(senmanka,'mank.sen0a.plena','十足[shí zú]')).
+assert(celo(senmanka,'mank.sen0a.plena','截然[jié rán]')).
+assert(celo(senmanka,'mank.sen0a.plena','全然[quán rán]')).
+assert(celo(senmanka,'mank.sen0a.plena','全部地[quán bù de]')).
+assert(celo(senmanka,'mank.sen0a.sendifekta','完美无缺[wán měi wú quē],完美無缺[wán měi wú quē]')).
+assert(celo(senmanka,'mank.sen0a.sendifekta','天衣无缝[tiān yī wú fèng],天衣無縫[tiān yī wú fèng]')).
+assert(celo(senmanka,'mank.sen0a.sendifekta','完美[wán měi]')).
+assert(celo(senmanka,'mank.sen0a.sendifekta','沒有缺點[méi yǒu quē diǎn],没有缺点[méi yǒu quē diǎn]')).
+assert(celo(senintermanka,'mank.seninter0a','不間斷[bù jiān duàn],不间断[bù jiān duàn]')).
+assert(celo(senintermanka,'mank.seninter0a','綿綿[mián mián],绵绵[mián mián]')).
+assert(celo(senintermanka,'mank.seninter0a','不断[bù duàn],不斷[bù duàn]')).
+assert(celo(senintermanka,'mank.seninter0a','不絕[bù jué],不绝[bù jué]')).
+assert(celo('Manksinsulo','manks.0insulo','馬恩島[Mǎ ēn Dǎo],马恩岛[Mǎ ēn Dǎo]')).
+assert(celo('Manksinsulo','manks.0insulo','曼岛[Màn Dǎo],曼島[Màn Dǎo]')).
+assert(celo('Manksinsulo','manks.0insulo','曼岛[màn dǎo],曼島[màn dǎo]')).
+assert(celo(manometro,'manome.0o','压力表[yā lì biǎo],壓力表[yā lì biǎo]')).
+assert(celo(manometro,'manome.0o','压强计[yā qiáng jì],壓強計[yā qiáng jì]')).
+assert(celo(manovri,'manovr.0i','操作[cāo zuò]')).
+assert(celo(manovri,'manovr.0i','耍手腕[shuǎ shǒu wàn]')).
+assert(celo(manovro,'manovr.0o','演練[yǎn liàn],演练[yǎn liàn]')).
+assert(celo(manovro,'manovr.0o','操作[cāo zuò]')).
+assert(celo(mansardo,'mansar.0o','頂樓[dǐng lóu],顶楼[dǐng lóu]')).
+assert(celo(manto,'mant.0o','蟷[dāng]')).
+assert(celo(manto,'mant.0o','螳螂[táng láng]')).
+assert(celo(manto,'mant.0o','螳[táng]')).
+assert(celo(mantelo,'mantel.0o','大衣[dà yī]')).
+assert(celo(mantelo,'mantel.0o','袄[ǎo],襖[ǎo]')).
+assert(celo(mantelo,'mantel.0o','斗篷[dǒu peng]')).
+assert(celo(mantelo,'mantel.0o','机套[jī tào],機套[jī tào]')).
+assert(celo(mantelo,'mantel.0o','护套[hù tào],護套[hù tào]')).
+assert(celo(peltomantelo,'mantel.pelto0o','裘皮大衣[qiú pí dà yī]')).
+assert(celo(pluvmantelo,'mantel.pluv0o','雨衣[yǔ yī]')).
+assert(celo(pluvmantelo,'mantel.pluv0o','襫[shì]')).
+assert(celo(pluvmantelo,'mantel.pluv0o','襏[bó]')).
+assert(celo(mantoŭo,'mantoux.0o','饅頭[mán tou],馒头[mán tou]')).
+assert(celo(manufakturo,'manufa.0o','厂[chǎng],廠[chǎng]')).
+assert(celo(manufakturo,'manufa.0o','工厂[gōng chǎng],工廠[gōng chǎng]')).
+assert(celo(manufakturo,'manufa.0o','工场[gōng chǎng],工場[gōng chǎng]')).
+assert(celo(manuskripto,'manusk.0o','手稿[shǒu gǎo]')).
+assert(celo(manuskripto,'manusk.0o','文稿[wén gǎo]')).
+assert(celo(manuskripto,'manusk.0o','稿件[gǎo jiàn]')).
+assert(celo(manuskripto,'manusk.0o','原稿[yuán gǎo]')).
+assert(celo(manuskripto,'manusk.0o','稿[gǎo]')).
+assert(celo(manuskripto,'manusk.0o','經文[jīng wén],经文[jīng wén]')).
+assert(celo(manuskripto,'manusk.0o','书稿[shū gǎo],書稿[shū gǎo]')).
+assert(celo(manuskripto,'manusk.0o','手抄本[shǒu chāo běn]')).
+assert(celo(manuskripto,'manusk.0o','講稿[jiǎng gǎo],讲稿[jiǎng gǎo]')).
+assert(celo(maorio,'maori.0o','毛利人[máo lì rén]')).
+assert(celo(maoria,'','毛利語[máo lì yǔ],毛利语[máo lì yǔ]')).
+assert(celo(maparo,'map.0aro','地图集[dì tú jí],地圖集[dì tú jí]')).
+assert(celo(maparo,'map.0aro','地图册[dì tú cè],地圖册[dì tú cè]')).
+assert(celo(maparo,'map.0aro','大地图[dà dì tú],大地圖[dà dì tú]')).
+assert(celo(maparo,'map.0aro','頸部第一椎骨[jǐng bù dì yī zhuī gǔ],颈部第一椎骨[jǐng bù dì yī zhuī gǔ]')).
+assert(celo(mapi,'map.0i','映射[yìng shè]')).
+assert(celo(idemapo,'map.ide0o','思維地圖[sī wéi dì tú],思维地图[sī wéi dì tú]')).
+assert(celo(idemapo,'map.ide0o','思維導圖[sī wéi dǎo tú],思维导图[sī wéi dǎo tú]')).
+assert(celo(idemapo,'map.ide0o','概念地图[gài niàn dì tú],概念地圖[gài niàn dì tú]')).
+assert(celo(idemapo,'map.ide0o','灵感触发图[líng gǎn chù fā tú],靈感觸發圖[líng gǎn chù fā tú]')).
+assert(celo(idemapo,'map.ide0o','心智图[xīn zhì tú],心智圖[xīn zhì tú]')).
+assert(celo(idemapo,'map.ide0o','脑图[nǎo tú],腦圖[nǎo tú]')).
+assert(celo(mondmapo,'map.mond0o','世界地图[shì jiè dì tú],世界地圖[shì jiè dì tú]')).
+assert(celo('Maputo','maput.0o','馬普托[Mǎ pǔ tuō],马普托[Mǎ pǔ tuō]')).
+assert(celo('Maputo','maput.0o','馬布多[Mǎ bù duō],马布多[Mǎ bù duō]')).
+assert(celo(maristo,'mar.0isto','水手[shuǐ shǒu]')).
+assert(celo(maristo,'mar.0isto','海员[hǎi yuán],海員[hǎi yuán]')).
+assert(celo(maro,'mar.0o','海[hǎi]')).
+assert(celo(maro,'mar.0o','大海[dà hǎi]')).
+assert(celo('Araba Maro','mar.ArabaM0o','阿拉伯海[Ā lā bó Hǎi]')).
+assert(celo('Araba Maro','mar.ArabaM0o','阿拉伯海[ā lā bó hǎi]')).
+assert(celo('Azova Maro','mar.AzovaM0o','亚速海[Yà sù Hǎi],亞速海[Yà sù Hǎi]')).
+assert(celo('Balta Maro','mar.BaltaM0o','波罗的海[Bō luó dì Hǎi],波羅的海[Bō luó dì Hǎi]')).
+assert(celo('Beringa Maro','mar.BeringaM0o','白令海[Bái lìng Hǎi]')).
+assert(celo('Egea Maro','mar.Egea_0o','愛琴海[Ài qín Hǎi],爱琴海[Ài qín Hǎi]')).
+assert(celo('Flava Maro','mar.FlavaM0o','黃海[Huáng Hǎi],黄海[Huáng Hǎi]')).
+assert(celo('Flava Maro','mar.FlavaM0o','西海[Xī Hǎi]')).
+assert(celo('Kariba Maro','mar.Kariba0o','加勒比海[jiā lè bǐ hǎi]')).
+assert(celo('Malviva Maro','mar.MalvivaM0o','死海[Sǐ Hǎi]')).
+assert(celo('Mezmaro','mar.MezM0o','地中海[Dì zhōng Hǎi]')).
+assert(celo('Nigra Maro','mar.NigraM0o','黑海[Hēi Hǎi]')).
+assert(celo('Norda Maro','mar.NordaM0o','北海[běi hǎi]')).
+assert(celo('Oĥocka Maro','mar.OhxockaM0o','鄂霍次克海[À huò cì kè Hǎi]')).
+assert(celo('Orienta Ĉina Maro','mar.OrientaCXinaM0o','东海[Dōng Hǎi],東海[Dōng Hǎi]')).
+assert(celo('Ruĝa Maro','mar.RugxaM0o','紅海[Hóng Hǎi],红海[Hóng Hǎi]')).
+assert(celo('Suda Ĉina Maro','mar.SudaCXinaM0o','南海[Nán Hǎi]')).
+assert(celo(altmaro,'mar.alt0o','满潮[mǎn cháo],滿潮[mǎn cháo]')).
+assert(celo(enmarejo,'mar.en0ejo','河叉[hé chà]')).
+assert(celo(malaltmaro,'mar.malalt0o','低潮[dī cháo]')).
+assert(celo('Marakajbo','marakajb.0o','馬拉開波[mǎ lā kāi bō],马拉开波[mǎ lā kāi bō]')).
+assert(celo(marasmo,'marasm.0o.FIG','停机状态[tíng jī zhuàng tài],停機狀態[tíng jī zhuàng tài]')).
+assert(celo(marasmo,'marasm.0o.FIG','停滞不前[tíng zhì bù qián],停滯不前[tíng zhì bù qián]')).
+assert(celo(marasmo,'marasm.0o.FIG','停頓[tíng dùn],停顿[tíng dùn]')).
+assert(celo(maratono,'maraton.0o','馬拉松賽[mǎ lā sōng sài],马拉松赛[mǎ lā sōng sài]')).
+assert(celo(maratono,'maraton.0o','長距離比賽[cháng jù lí bǐ sài],长距离比赛[cháng jù lí bǐ sài]')).
+assert(celo(duonmaratono,'maraton.duon0o','半馬[bàn mǎ],半马[bàn mǎ]')).
+assert(celo(marcipano,'marcip.0o','杏仁糖[xìng rén táng]')).
+assert(celo(marcipano,'marcip.0o','杏仁泥[xìng rén ní]')).
+assert(celo(marĉeto,'marcx.0eto.marcxo','泥潭[ní tán]')).
+assert(celo(marĉo,'marcx.0o','沼泽[zhǎo zé],沼澤[zhǎo zé]')).
+assert(celo(marĉo,'marcx.0o','沼泽地带[zhǎo zé dì dài],沼澤地帶[zhǎo zé dì dài]')).
+assert(celo(marĉo,'marcx.0o','像泥沼的地方[xiàng ní zhǎo de dì fang]')).
+assert(celo(marĉo,'marcx.0o','水仓[shuǐ cāng],水倉[shuǐ cāng]')).
+assert(celo(marĉo,'marcx.0o','窊[wā]')).
+assert(celo(marĉeto,'','泥泞[ní nìng],泥濘[ní nìng]')).
+assert(celo(marĉandi,'marcxa.0i','还价[huán jià],還價[huán jià]')).
+assert(celo(marĉandi,'marcxa.0i','討價還價[tǎo jià huán jià],讨价还价[tǎo jià huán jià]')).
+assert(celo(marĉandi,'marcxa.0i','砍价[kǎn jià],砍價[kǎn jià]')).
+assert(celo(margarino,'margar.0o','人造奶油[rén zào nǎi yóu]')).
+assert(celo(margarino,'margar.0o','人造牛油[rén zào niú yóu]')).
+assert(celo(margarino,'margar.0o','植物牛油[zhí wù niú yóu]')).
+assert(celo(margarino,'margar.0o','人造黃油[rén zào huáng yóu],人造黄油[rén zào huáng yóu]')).
+assert(celo(margarino,'margar.0o','麥淇淋[mài qí lín],麦淇淋[mài qí lín]')).
+assert(celo('Margareto','margaret.0o.virina_nomo','玛格丽特[Mǎ gé lì tè],瑪格麗特[Mǎ gé lì tè]')).
+assert(celo(marĝena,'margxe.0a','外围[wài wéi],外圍[wài wéi]')).
+assert(celo(marĝena,'margxe.0a','微不足道[wéi bù zú dào]')).
+assert(celo(marĝena,'margxe.0a','临界[lín jiè],臨界[lín jiè]')).
+assert(celo(marĝena,'margxe.0a','委琐[wěi suǒ],委瑣[wěi suǒ]')).
+assert(celo(marĝena,'margxe.0a','小嘎嘣豆[xiǎo gā bēng dou]')).
+assert(celo(marĝena,'margxe.0a','无关重要[wú guān zhòng yào],無關重要[wú guān zhòng yào]')).
