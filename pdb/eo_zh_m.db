@@ -1018,3 +1018,351 @@ assert(celo(materialo,'materi1.0o','材料[cái liào]')).
 assert(celo(materialo,'materi1.0o','物資[wù zī],物资[wù zī]')).
 assert(celo(materialo,'materi1.0o','器材[qì cái]')).
 assert(celo(materialo,'materi1.0o','材質[cái zhì],材质[cái zhì]')).
+assert(celo(krudmaterialo,'materi1.krud0o','原料[yuán liào]')).
+assert(celo(krudmaterialo,'materi1.krud0o','原材料[yuán cái liào]')).
+assert(celo('Matildo','matild.0o','玛迪达[Mǎ dí dá],瑪迪達[Mǎ dí dá]')).
+assert(celo(matraco,'matrac.0o','床垫[chuáng diàn],床墊[chuáng diàn]')).
+assert(celo(matraco,'matrac.0o','褥[rù]')).
+assert(celo(matraco,'matrac.0o','茵[yīn]')).
+assert(celo(matriarkeco,'matria.0eco','母权制[mǔ quán zhì],母權制[mǔ quán zhì]')).
+assert(celo(matrico,'matric.0o','模[mú]')).
+assert(celo(matrico,'matric.0o','模具[mú jù]')).
+assert(celo(matrico,'matric.0o','模型[mó xíng]')).
+assert(celo(matrico,'matric.0o','模子[mú zi]')).
+assert(celo(matrico,'matric.0o','矩阵[jǔ zhèn],矩陣[jǔ zhèn]')).
+assert(celo(matrico,'matric.0o','方阵[fāng zhèn],方陣[fāng zhèn]')).
+assert(celo('jakobia matrico','','雅可比矩阵[yǎ kě bǐ jǔ zhèn],雅可比矩陣[yǎ kě bǐ jǔ zhèn]')).
+assert(celo(nulmatrico,'matric.nul0o','零矩阵[líng jǔ zhèn],零矩陣[líng jǔ zhèn]')).
+assert(celo(unuomatrico,'matric.unuo0o','单位矩阵[dān wèi jǔ zhèn],單位矩陣[dān wèi jǔ zhèn]')).
+assert(celo(matrikuli,'matrik.0i','招生[zhāo shēng]')).
+assert(celo(matrimonio,'matrim.0o','婚姻[hūn yīn]')).
+assert(celo(matrono,'matron.0o','女舍监[nǔ: shè jiān],女舍監[nǔ: shè jiān]')).
+assert(celo(matrono,'matron.0o','主妇[zhǔ fù],主婦[zhǔ fù]')).
+assert(celo(matroso,'matros.0o','水手[shuǐ shǒu]')).
+assert(celo(matura,'matur.0a','成熟[chéng shú]')).
+assert(celo(maturiĝi,'matur.0igxi','成熟[chéng shú]')).
+assert(celo(molmatura,'matur.mol0a','热透[rè tòu],熱透[rè tòu]')).
+assert(celo(molmatura,'matur.mol0a','过熟[guò shú],過熟[guò shú]')).
+assert(celo(tromatura,'matur.tro0a','热透[rè tòu],熱透[rè tòu]')).
+assert(celo(tromatura,'matur.tro0a','过熟[guò shú],過熟[guò shú]')).
+assert(celo('Maŭricio','mauxrici.0o.GEOG','毛裡求斯[máo lǐ qiú sī],毛里求斯[máo lǐ qiú sī]')).
+assert(celo('Maŭricio','mauxrici.0o.GEOG','毛裡裘斯[máo lǐ qiú sī],毛里裘斯[máo lǐ qiú sī]')).
+assert(celo('Maŭritanio','mauxrit.M0o.GEOG','毛裡塔尼亞[máo lǐ tǎ ní yà],毛里塔尼亚[máo lǐ tǎ ní yà]')).
+assert(celo(maŭzoleo,'mauxzo.0o','陵墓[líng mù]')).
+assert(celo(maŭzoleo,'mauxzo.0o','墓[mù]')).
+assert(celo(maŭzoleo,'mauxzo.0o','紀念堂[jì niàn táng],纪念堂[jì niàn táng]')).
+assert(celo(maŭzoleo,'mauxzo.0o','阴森森的大厦[yīn sēn sēn de dà shà],陰森森的大廈[yīn sēn sēn de dà shà]')).
+assert(celo(mava,'mav.0a.malbona','不良[bù liáng]')).
+assert(celo(mava,'mav.0a.malbona','糟糕[zāo gāo]')).
+assert(celo(mava,'mav.0a.malbona','不善[bù shàn]')).
+assert(celo(mazdaismo,'mazda.0ismo','拜火教[Bài huǒ jiào]')).
+assert(celo(mazdaismo,'mazda.0ismo','波斯教[Bō sī jiào]')).
+assert(celo(mazdaismo,'mazda.0ismo','琐罗亚斯德教[Suǒ luó yà sī dé jiào],瑣羅亞斯德教[Suǒ luó yà sī dé jiào]')).
+assert(celo(mazdaismo,'mazda.0ismo','祆教[Xiān jiào]')).
+assert(celo(mazdaismo,'mazda.0ismo','祆道[Xiān dào]')).
+assert(celo(mazdaismo,'mazda.0ismo','胡天[Hú tiān]')).
+assert(celo(mazdaismo,'mazda.0ismo','袄教[Ǎo jiào],襖教[Ǎo jiào]')).
+assert(celo(mazdaismo,'mazda.0ismo','琐罗亚斯德教[suǒ luó yà sī dé jiào],瑣羅亞斯德教[suǒ luó yà sī dé jiào]')).
+assert(celo('Mazdao','mazda.0o','祆[Xiān]')).
+assert(celo(mazuto,'mazut.0o','燃料油[rán liào yóu]')).
+assert(celo(mazuto,'mazut.0o','取暖用油[qǔ nuǎn yòng yóu]')).
+assert(celo(mazuto,'mazut.0o','重燃油[zhòng rán yóu]')).
+assert(celo(meblaro,'mebl.0aro','家具[jiā jù]')).
+assert(celo(mebli,'mebl.0i','配備家具[pèi bèi jiā jù],配备家具[pèi bèi jiā jù]')).
+assert(celo(meblisto,'mebl.0isto','木匠[mù jiàng]')).
+assert(celo(meblisto,'mebl.0isto','木工[mù gōng]')).
+assert(celo(meblo,'mebl.0o','家俱[jiā jù]')).
+assert(celo(meblo,'mebl.0o','一件家具[yī jiàn jiā jù]')).
+assert(celo('Meco','mec.0o','梅斯[méi sī]')).
+assert(celo(mecenati,'mecena.0i','支援[zhī yuán]')).
+assert(celo(mecenati,'mecena.0i','贊[zàn],赞[zàn]')).
+assert(celo(mecenato,'mecena.0o','贊助商[zàn zhù shāng],赞助商[zàn zhù shāng]')).
+assert(celo(mecenato,'mecena.0o','檀越[tán yuè]')).
+assert(celo(meĉo,'mecx.0o','灯蕊[dēng ruǐ],燈蕊[dēng ruǐ]')).
+assert(celo(meĉo,'mecx.0o','灯芯[dēng xīn],燈芯[dēng xīn]')).
+assert(celo(meĉo,'','燈心,灯心[dēng xīn]')).
+assert(celo(medalo,'medal.0o','奖章[jiǎng zhāng],獎章[jiǎng zhāng]')).
+assert(celo(medalo,'medal.0o','奖牌[jiǎng pái],獎牌[jiǎng pái]')).
+assert(celo(medalo,'medal.0o','勋章[xūn zhāng],勛章[xūn zhāng]')).
+assert(celo(medalo,'medal.0o','勋[xūn],勛[xūn]')).
+assert(celo(medalo,'medal.0o','章[zhāng]')).
+assert(celo(medaliono,'medali.0o','小盒[xiǎo hé]')).
+assert(celo(medaliono,'medali.0o','紀念品盒[jì niàn pǐn hé],纪念品盒[jì niàn pǐn hé]')).
+assert(celo('Medeo','mede.0o','米蒂亚[mǐ dì yà],米蒂亞[mǐ dì yà]')).
+assert(celo('Medeĝino','medegxin.0o','麥德林[Mài dé lín],麦德林[Mài dé lín]')).
+assert(celo(medio,'medi.0o','环境[huán jìng],環境[huán jìng]')).
+assert(celo(medio,'medi.0o','周围环境[zhōu wéi huán jìng],周圍環境[zhōu wéi huán jìng]')).
+assert(celo(medio,'medi.0o','坰[jiōng]')).
+assert(celo('Medio','medi1.0o','媒体[méi tǐ],媒體[méi tǐ]')).
+assert(celo(mediacii,'mediaci.0i','劝和[quàn hé],勸和[quàn hé]')).
+assert(celo(mediacii,'mediaci.0i','圆场[yuán chǎng],圓場[yuán chǎng]')).
+assert(celo(mediacii,'mediaci.0i','排解[pái jiě]')).
+assert(celo(mediaciisto,'mediaci.0isto','和事佬[hé shì lǎo]')).
+assert(celo(mediacio,'mediaci.0o','冥想[míng xiǎng]')).
+assert(celo(mediacio,'mediaci.0o','調解[tiáo jiě],调解[tiáo jiě]')).
+retract(celo(mediacio,'mediaci.0o','冥想[míng xiǎng]')).
+assert(celo(mediano,'median.0o','中位数[zhōng wèi shù],中位數[zhōng wèi shù]')).
+assert(celo(medicina,'medici.0a','医护[yī hù],醫護[yī hù]')).
+assert(celo(medicinaĵo,'medici.0ajxo','医[yī],醫[yī]')).
+assert(celo(medicinaĵo,'medici.0ajxo','医学[yī xué],醫學[yī xué]')).
+assert(celo(medicinaĵo,'medici.0ajxo','药物[yào wù],藥物[yào wù]')).
+assert(celo(medicinaĵo,'medici.0ajxo','药品[yào pǐn],藥品[yào pǐn]')).
+assert(celo(medicinaĵo,'medici.0ajxo','药[yào],藥[yào]')).
+assert(celo(medicinaĵo,'medici.0ajxo','医药[yī yào],醫藥[yī yào]')).
+assert(celo(medicino,'medici.0o','医[yī],醫[yī]')).
+assert(celo(medicino,'medici.0o','医学[yī xué],醫學[yī xué]')).
+assert(celo(medicino,'medici.0o','医药[yī yào],醫藥[yī yào]')).
+retract(celo(medicino,'medici.0o','医[yī],醫[yī]')).
+retract(celo(medicino,'medici.0o','医药[yī yào],醫藥[yī yào]')).
+assert(celo(medicino,'','医科[yī kē],醫科[yī kē]')).
+assert(celo(jurmedicino,'medici.krim0o','法医学[fǎ yī xué],法醫學[fǎ yī xué]')).
+assert(celo('Mediĉoj','medicx.0oj.familio','梅第奇家族[méi dì qí jiā zú]')).
+assert(celo(medikago,'medika.0o','苜蓿[mù sù]')).
+assert(celo(medikamento,'medika1.0o','药物[yào wù],藥物[yào wù]')).
+assert(celo(medikamento,'medika1.0o','药品[yào pǐn],藥品[yào pǐn]')).
+assert(celo(medikamento,'medika1.0o','药剂[yào jì],藥劑[yào jì]')).
+assert(celo(medikamento,'medika1.0o','药[yào],藥[yào]')).
+assert(celo(medikamento,'medika1.0o','医药[yī yào],醫藥[yī yào]')).
+assert(celo(mediokra,'mediokr.0a','平平[píng píng]')).
+assert(celo(mediokra,'mediokr.0a','平庸[píng yōng]')).
+assert(celo(mediokra,'mediokr.0a','碌碌无为[lù lù wú wéi],碌碌無為[lù lù wú wéi]')).
+assert(celo(mediokra,'mediokr.0a','較差[jiào chà],较差[jiào chà]')).
+assert(celo(mediokra,'mediokr.0a','中路[zhōng lù]')).
+assert(celo(mediokra,'mediokr.0a','庸[yōng]')).
+assert(celo(mediokra,'mediokr.0a','普普通通[pǔ pǔ tōng tōng]')).
+assert(celo(meditado,'medit.0ado','冥想[míng xiǎng]')).
+assert(celo(meditado,'medit.0ado','静修[jìng xiū],靜修[jìng xiū]')).
+assert(celo(meditema,'medit.0ema','冥想[míng xiǎng]')).
+assert(celo(mediti,'medit.0i','沉思[chén sī]')).
+assert(celo(mediti,'medit.0i','思考[sī kǎo]')).
+assert(celo(mediti,'medit.0i','坐禅[zuò chán],坐禪[zuò chán]')).
+assert(celo(mediti,'medit.0i','打坐[dǎ zuò]')).
+assert(celo(medito,'medit.0o','冥想[míng xiǎng]')).
+assert(celo(medito,'medit.0o','静修[jìng xiū],靜修[jìng xiū]')).
+assert(celo('Mediteraneo','mediterane.M0o','地中海[Dì zhōng Hǎi]')).
+assert(celo(medolo,'medol.0o','骨髓[gǔ suǐ]')).
+assert(celo(ĝismedola,'medol.gxis0a.FIG','彻骨[chè gǔ],徹骨[chè gǔ]')).
+assert(celo('spina medolo','medol.spina0o','脊髓[jǐ suǐ]')).
+assert(celo(meduzo,'meduz.0o','水母[shuǐ mǔ]')).
+assert(celo(meduzo,'meduz.0o','水母体[shuǐ mǔ tǐ],水母體[shuǐ mǔ tǐ]')).
+assert(celo(meduzo,'meduz.0o','蜇[zhé]')).
+assert(celo('Meduzo','meduz.M0o','美杜莎[Měi dù shā]')).
+assert(celo(mefito,'mefit.0o','臭鼬[chòu yòu]')).
+assert(celo(megabitoko,'megabitok.0o','兆字節[zhào zì jié],兆字节[zhào zì jié]')).
+assert(celo(megafono,'megafo.0o','喊話器[hǎn huà qì],喊话器[hǎn huà qì]')).
+assert(celo(megafono,'megafo.0o','話筒[huà tǒng],话筒[huà tǒng]')).
+assert(celo(megafono,'megafo.0o','扩音器[kuò yīn qì],擴音器[kuò yīn qì]')).
+assert(celo(megafono,'megafo.0o','传声筒[chuán shēng tǒng],傳聲筒[chuán shēng tǒng]')).
+assert(celo('Megalajo','megalaj.0o.GEOG','梅加拉亚邦[méi jiā lā yà bāng],梅加拉亞邦[méi jiā lā yà bāng]')).
+assert(celo(megalomanio,'','自大狂[zì dà kuáng]')).
+assert(celo(megatuno,'megatun.0o','百万吨[bǎi wàn dūn],百萬噸[bǎi wàn dūn]')).
+assert(celo(megatuno,'megatun.0o','百万吨级[bǎi wàn dūn jí],百萬噸級[bǎi wàn dūn jí]')).
+assert(celo(megavato,'megavat.0o','兆瓦[zhào wǎ]')).
+assert(celo(megero,'meger.0o','悍妇[hàn fù],悍婦[hàn fù]')).
+assert(celo(meĥanika,'mehxan.0a','机械性[jī xiè xìng],機械性[jī xiè xìng]')).
+assert(celo(meĥanikaĵo,'mehxan.0ajxo','机理[jī lǐ],機理[jī lǐ]')).
+assert(celo(meĥanikaĵo,'mehxan.0ajxo','机械[jī xiè],機械[jī xiè]')).
+assert(celo(meĥanikaĵo,'mehxan.0ajxo','力学[lì xué],力學[lì xué]')).
+assert(celo(meĥanikaĵo,'mehxan.0ajxo','机制[jī zhì],機製[jī zhì]')).
+assert(celo(meĥanikisto,'mehxan.0isto','机械工人[jī xiè gōng rén],機械工人[jī xiè gōng rén]')).
+assert(celo(meĥanikisto,'mehxan.0isto','机械师[jī xiè shī],機械師[jī xiè shī]')).
+assert(celo(meĥaniko,'mehxan.0o','刻板[kè bǎn]')).
+assert(celo(meĥaniko,'mehxan.0o','机械[jī xiè],機械[jī xiè]')).
+assert(celo(meĥaniko,'mehxan.0o','力学[lì xué],力學[lì xué]')).
+retract(celo(meĥaniko,'mehxan.0o','刻板[kè bǎn]')).
+assert(celo(meĥanismo,'mehxan1.0o','机构[jī gòu],機構[jī gòu]')).
+assert(celo(meĥanismo,'mehxan1.0o','机理[jī lǐ],機理[jī lǐ]')).
+assert(celo('Meĥleno','','梅赫伦[méi hè lún],梅赫倫[méi hè lún]')).
+assert(celo(mejlo,'mejl.0o','哩[lǐ]')).
+assert(celo(mejtnerio,'mejtneri.0o','䥑[mài]')).
+assert(celo(mejtnerio,'mejtneri.0o','䥑[mài],鿏[mài]')).
+assert(celo(meki,'mek.0i','羋[mǐ],芈[mǐ]')).
+assert(celo(meki,'mek.0i','羊叫[yáng jiào]')).
+assert(celo('Mekko','mekk.0o','麥加[Mài jiā],麦加[Mài jiā]')).
+assert(celo('Meklenburgo','meklenburg.0o','梅克伦堡[méi kè lún bǎo],梅克倫堡[méi kè lún bǎo]')).
+assert(celo('Mekongo','mekong.0o','湄公河[méi gōng hé]')).
+assert(celo('Mekongo','mekong.0o','澜沧江[lán cāng jiāng],瀾滄江[lán cāng jiāng]')).
+assert(celo(meksikano,'meksik.0ano','墨西哥人[Mò xī gē rén]')).
+assert(celo(meksikano,'meksik.0ano','老墨[Lǎo Mò]')).
+assert(celo('Meksiklando','meksik.M0lando','墨西哥[Mò xī gē]')).
+assert(celo('Meksiko','meksik.M0o.lando','墨西哥[Mò xī gē]')).
+assert(celo('Meksikurbo','meksik.M0urbo','墨西哥城[Mò xī gē chéng]')).
+assert(celo('Novmeksiko','meksik.nov0o','新墨西哥[Xīn Mò xī gē]')).
+assert(celo('Novmeksiko','meksik.nov0o','新墨西哥州[Xīn Mò xī gē zhōu]')).
+assert(celo('Meksikio','meksiki.M0o','墨西哥[Mò xī gē]')).
+assert(celo('Novmeksikio','meksiki.NovM0o','新墨西哥[Xīn Mò xī gē]')).
+assert(celo('Novmeksikio','meksiki.NovM0o','新墨西哥州[Xīn Mò xī gē zhōu]')).
+assert(celo(melo,'mel.0o','貆[huán]')).
+assert(celo(melo,'mel.0o','獾[huān]')).
+assert(celo(melanino,'melanin.0o','黑色素[hēi sè sù]')).
+assert(celo(melankolia,'melank.0a','悶[mèn],闷[mèn]')).
+assert(celo(melankolia,'melank.0a','愊[bì]')).
+assert(celo(melankolia,'melank.0a','落落寡欢[luò luò guǎ huān],落落寡歡[luò luò guǎ huān]')).
+assert(celo(melankolia,'melank.0a','惆怅[chóu chàng],惆悵[chóu chàng]')).
+assert(celo(melankolio,'melank.0o','惆怅[chóu chàng],惆悵[chóu chàng]')).
+assert(celo(melankolio,'melank.0o','愊[bì]')).
+assert(celo(melankolio,'melank.0o','悲愁[bēi chóu]')).
+assert(celo(melankolio,'melank.0o','懑[mèn],懣[mèn]')).
+assert(celo(melanomo,'melanom.0o','黑瘤[hēi liú]')).
+assert(celo(melaso,'melas.0o','餳[xíng],饧[xíng]')).
+assert(celo(melaso,'melas.0o','糖蜜[táng mì]')).
+assert(celo(melatonino,'melatonin.0o.hormono','褪黑素[tuì hēi sù]')).
+assert(celo(melatonino,'melatonin.0o.hormono','退黑激素[tuì hēi jī sù]')).
+assert(celo('Melburno','melburn.0o','墨尔本[Mò ěr běn],墨爾本[Mò ěr běn]')).
+assert(celo('Melburno','melburn.0o','墨尔本曳步舞[mò ěr běn yè bù wǔ],墨爾本曳步舞[mò ěr běn yè bù wǔ]')).
+retract(celo('Melburno','melburn.0o','墨尔本曳步舞[mò ěr běn yè bù wǔ],墨爾本曳步舞[mò ěr běn yè bù wǔ]')).
+assert(celo(melduo,'meldu.0o','霉[méi],黴[méi]')).
+assert(celo(melduo,'meldu.0o','霉[méi]')).
+assert(celo(melduo,'meldu.0o','霉病[méi bìng]')).
+assert(celo(melduo,'meldu.0o','黴[méi]')).
+assert(celo(meleagro,'meleag.0o','火雞[huǒ jī],火鸡[huǒ jī]')).
+assert(celo(meleagro,'meleag.0o','吐綬雞[tǔ shòu jī],吐绶鸡[tǔ shòu jī]')).
+assert(celo(meleagro,'meleag.0o','鷊[yì],鹝[yì]')).
+assert(celo(meleagro,'meleag.0o','雄火雞[xióng huǒ jī],雄火鸡[xióng huǒ jī]')).
+assert(celo(meleagro,'meleag.0o','雄吐綬雞[xióng tǔ shòu jī],雄吐绶鸡[xióng tǔ shòu jī]')).
+assert(celo(melio,'meli.0o','接骨草[jiē gǔ cǎo]')).
+retract(celo(melio,'meli.0o','接骨草[jiē gǔ cǎo]')).
+assert(celo(meliacoj,'meliac.0oj','椿[chūn]')).
+assert(celo(melki,'melk.0i','挤奶[jǐ nǎi],擠奶[jǐ nǎi]')).
+assert(celo(melki,'melk.0i','嬭[nǎi]')).
+assert(celo(melodia,'melodi.0a','悠扬[yōu yáng],悠揚[yōu yáng]')).
+assert(celo(melodia,'melodi.0a','悅耳[yuè ěr],悦耳[yuè ěr]')).
+assert(celo(melodio,'melodi.0o','曲調[qǔ diào],曲调[qǔ diào]')).
+assert(celo(melodio,'melodi.0o','調子[diào zi],调子[diào zi]')).
+assert(celo(melodio,'melodi.0o','旋律[xuán lù:]')).
+assert(celo(melodio,'melodi.0o','調門[diào mén],调门[diào mén]')).
+assert(celo(frazmelodio,'melodi.fraz0o','单声圣歌的初句[dān shēng shèng gē de chū jù],單聲聖歌的初句[dān shēng shèng gē de chū jù]')).
+assert(celo(frazmelodio,'melodi.fraz0o','咏唱[yǒng chàng],詠唱[yǒng chàng]')).
+assert(celo(frazmelodio,'melodi.fraz0o','发声法[fā shēng fǎ],發聲法[fā shēng fǎ]')).
+retract(celo(frazmelodio,'melodi.fraz0o','发声法[fā shēng fǎ],發聲法[fā shēng fǎ]')).
+assert(celo(melono,'melon.0o','瓞[dié]')).
+assert(celo(melono,'melon.0o','瓜[guā]')).
+assert(celo(akvomelono,'melon.akvo0o','西瓜[xī guā]')).
+assert(celo(melongeno,'melong.0o','茄子[qié zi]')).
+assert(celo(melongeno,'melong.0o','茄[qié]')).
+assert(celo(melongeno,'melong.0o','圆茄子[yuán qié zi],圓茄子[yuán qié zi]')).
+assert(celo(melopepo,'melope1.0o','夏南瓜[xià nán guā]')).
+assert(celo(melopsitako,'melopsitak.0o','虎皮鸚鵡[hǔ pí yīng wǔ],虎皮鹦鹉[hǔ pí yīng wǔ]')).
+assert(celo(mem,'mem.0','一己[yī jǐ]')).
+assert(celo(mem,'mem.0','自[zì]')).
+assert(celo(mem,'mem.0','自个儿[zì gě r],自個兒[zì gě r]')).
+assert(celo(mem,'mem.0','自身[zì shēn]')).
+assert(celo(mem,'mem.0','亲自[qīn zì],親自[qīn zì]')).
+assert(celo(enmemiĝi,'mem.en0igxi.PSI','坐神[zuò shén]')).
+assert(celo(membriĝi,'membr.0igxi','新进[xīn jìn],新進[xīn jìn]')).
+assert(celo(membro,'membr.0o','肢体[zhī tǐ],肢體[zhī tǐ]')).
+assert(celo(membro,'membr.0o','肢[zhī]')).
+assert(celo(membro,'membr.0o','会员[huì yuán],會員[huì yuán]')).
+assert(celo(membro,'membr.0o','四肢[sì zhī]')).
+assert(celo(membro,'membr.0o','员[yuán],員[yuán]')).
+assert(celo(membro,'membr.0o','团员[tuán yuán],團員[tuán yuán]')).
+assert(celo(membro,'membr.0o','成员[chéng yuán],成員[chéng yuán]')).
+assert(celo(membro,'membr.0o','社员[shè yuán],社員[shè yuán]')).
+assert(celo(dismembrigi,'membr.dis0igi','瓜分[guā fēn]')).
+assert(celo(membrano,'membra.0o','膜[mó]')).
+assert(celo(membrano,'membra.0o','薄膜[bó mó]')).
+assert(celo(membrano,'membra.0o','紙盆[zhǐ pén],纸盆[zhǐ pén]')).
+assert(celo(membrano,'membra.0o','羊皮紙[yáng pí zhǐ],羊皮纸[yáng pí zhǐ]')).
+assert(celo(membrano,'membra.0o','膈[gé]')).
+assert(celo(membrano,'membra.0o','膜片[mó piàn]')).
+assert(celo(membrano,'membra.0o','隔膜[gé mó]')).
+assert(celo(mukmembrano,'membra.muk0o','粘膜[nián mó]')).
+assert(celo(mukmembrano,'membra.muk0o','黏膜[nián mó]')).
+assert(celo(mukmembrano,'membra.muk0o','黏膜[nián mò]')).
+assert(celo(naĝmembrano,'membra.nagx0o','蹼[pǔ]')).
+assert(celo(orelmembrano,'membra.orel0o','鼓膜[gǔ mò]')).
+assert(celo(memeo,'meme.0o.PSI','米姆[mǐ mǔ]')).
+assert(celo(memeo,'meme.0o.PSI','模因[mó yīn]')).
+assert(celo('Memfiso','memfis.0o','孟斐斯[mèng fěi sī]')).
+assert(celo(memorado,'memor.0ado','記憶[jì yì],记忆[jì yì]')).
+assert(celo(memorado,'memor.0ado','回忆[huí yì],回憶[huí yì]')).
+assert(celo(memorado,'memor.0ado','紀念[jì niàn],纪念[jì niàn]')).
+assert(celo(memoraĵo,'memor.0ajxo','信物[xìn wù]')).
+assert(celo(memoraĵo,'memor.0ajxo','紀念品[jì niàn pǐn],纪念品[jì niàn pǐn]')).
+assert(celo(memorfiksi,'memor.0fiksi','熟記[shú jì],熟记[shú jì]')).
+assert(celo(memorfiksi,'memor.0fiksi','默記[mò jì],默记[mò jì]')).
+assert(celo(memorfiksi,'memor.0fiksi','切記[qiè jì],切记[qiè jì]')).
+assert(celo(memori,'memor.0i','記憶[jì yì],记忆[jì yì]')).
+assert(celo(memori,'memor.0i','記得[jì de],记得[jì de]')).
+assert(celo(memori,'memor.0i','緬懷[miǎn huái],缅怀[miǎn huái]')).
+assert(celo(memori,'memor.0i','想起來[xiǎng qi lai],想起来[xiǎng qi lai]')).
+assert(celo(memori,'memor.0i','記[jì],记[jì]')).
+assert(celo(memori,'memor.0i','記住[jì zhu],记住[jì zhu]')).
+assert(celo(memorigaĵo,'memor.0igajxo','紀念館[jì niàn guǎn],纪念馆[jì niàn guǎn]')).
+assert(celo(memorigaĵo,'memor.0igajxo','紀念碑[jì niàn bēi],纪念碑[jì niàn bēi]')).
+assert(celo(memorigilo,'memor.0igilo','便条[biàn tiáo],便條[biàn tiáo]')).
+assert(celo(memorigilo,'memor.0igilo','備忘[bèi wàng],备忘[bèi wàng]')).
+assert(celo(memorigilo,'memor.0igilo','留言[liú yán]')).
+assert(celo(memorigilo,'memor.0igilo','提醒物[tí xǐng wù]')).
+assert(celo(memorigilo,'memor.0igilo','便签[biàn qiān],便簽[biàn qiān]')).
+assert(celo(memorigilo,'','備忘錄[bèi wàng lù],备忘录[bèi wàng lù]')).
+assert(celo(memoro,'memor.0o','脑际[nǎo jì],腦際[nǎo jì]')).
+assert(celo(memoro,'memor.0o','記憶[jì yì],记忆[jì yì]')).
+assert(celo(memoro,'memor.0o','記性[jì xing],记性[jì xing]')).
+assert(celo(memoro,'memor.0o','內存[nèi cún],内存[nèi cún]')).
+assert(celo(memoro,'memor.0o','存储器[cún chǔ qì],存儲器[cún chǔ qì]')).
+assert(celo(memoro,'memor.0o','記憶體[jì yì tǐ],记忆体[jì yì tǐ]')).
+assert(celo(memorpovo,'memor.0povo','記憶[jì yì],记忆[jì yì]')).
+assert(celo(memorpovo,'memor.0povo','記憶力[jì yì lì],记忆力[jì yì lì]')).
+assert(celo(enmemorigi,'memor.en0igi.KOMP','存储[cún chǔ],存儲[cún chǔ]')).
+assert(celo(enmemorigi,'memor.en0igi.KOMP','貯備[zhù bèi],贮备[zhù bèi]')).
+assert(celo(enmemorigi,'memor.en0igi.PSI','熟記[shú jì],熟记[shú jì]')).
+assert(celo(enmemorigi,'memor.en0igi.PSI','默記[mò jì],默记[mò jì]')).
+assert(celo(enmemorigi,'memor.en0igi.PSI','切記[qiè jì],切记[qiè jì]')).
+assert(celo(malmemori,'memor.mal0i','忘[wàng]')).
+assert(celo(malmemori,'memor.mal0i','忘怀[wàng huái],忘懷[wàng huái]')).
+assert(celo(malmemori,'memor.mal0i','忘掉[wàng diào]')).
+assert(celo(malmemori,'memor.mal0i','忘記[wàng jì],忘记[wàng jì]')).
+assert(celo(rememori,'memor.re0i','記得[jì de],记得[jì de]')).
+assert(celo(rememori,'memor.re0i','忆[yì],憶[yì]')).
+assert(celo(rememori,'memor.re0i','記憶[jì yì],记忆[jì yì]')).
+assert(celo(rememoro,'memor.re0o','回忆[huí yì],回憶[huí yì]')).
+assert(celo(rememoro,'memor.re0o','追思[zhuī sī]')).
+assert(celo(rememoro,'memor.re0o','回顧[huí gù],回顾[huí gù]')).
+assert(celo(rememoro,'memor.re0o','記憶[jì yì],记忆[jì yì]')).
+assert(celo(memorando,'memora.0o','備忘錄[bèi wàng lù],备忘录[bèi wàng lù]')).
+assert(celo(memorando,'memora.0o','牋[jiān]')).
+assert(celo(memorando,'memora.0o','回忆录[huí yì lù],回憶錄[huí yì lù]')).
+assert(celo(memorando,'memora.0o','說帖[shuō tiě],说帖[shuō tiě]')).
+assert(celo(memorando,'memora.0o','値得記憶的往事[zhí de jì yì de wǎng shì],值得记忆的往事[zhí de jì yì de wǎng shì]')).
+assert(celo(memorando,'memora.0o','学会志[xué huì zhì],學會志[xué huì zhì]')).
+assert(celo(memorando,'memora.0o','实录[shí lù],實錄[shí lù]')).
+assert(celo(memorando,'memora.0o','記要[jì yào],记要[jì yào]')).
+assert(celo(memorando,'memora.0o','追思录[zhuī sī lù],追思錄[zhuī sī lù]')).
+assert(celo(memuaro,'memuar.0o','回忆录[huí yì lù],回憶錄[huí yì lù]')).
+assert(celo(memuaro,'memuar.0o','論文[lùn wén],论文[lùn wén]')).
+assert(celo(menaĝerio,'menagx.0o','动物展览[dòng wù zhǎn lǎn],動物展覽[dòng wù zhǎn lǎn]')).
+assert(celo(mencii,'menci.0i','标称[biāo chēng],標稱[biāo chēng]')).
+assert(celo(mencii,'menci.0i','提到[tí dào]')).
+assert(celo(mencii,'menci.0i','提及[tí jí]')).
+assert(celo(mencii,'menci.0i','說起[shuō qǐ],说起[shuō qǐ]')).
+assert(celo(mencii,'menci.0i','談起[tán qǐ],谈起[tán qǐ]')).
+assert(celo(mencii,'menci.0i','談及[tán jí],谈及[tán jí]')).
+assert(celo(mencii,'menci.0i','提說[tí shuō],提说[tí shuō]')).
+assert(celo(menciinda,'menci.0inda','値得提[zhí de tí],值得提[zhí de tí]')).
+assert(celo(menciinda,'menci.0inda','可建議[kě jiàn yì],可建议[kě jiàn yì]')).
+assert(celo(mencio,'menci.0o','提到[tí dào]')).
+assert(celo(mencio,'menci.0o','提起[tí qǐ]')).
+assert(celo(mencio,'menci.0o','叙述[xù shù],敘述[xù shù]')).
+assert(celo(mencio,'menci.0o','談到[tán dào],谈到[tán dào]')).
+assert(celo(mencio,'menci.0o','論及[lùn jí],论及[lùn jí]')).
+assert(celo(mencio,'menci.0o','講到[jiǎng dào],讲到[jiǎng dào]')).
+assert(celo(mencio,'menci.0o','述說[shù shuō],述说[shù shuō]')).
+assert(celo(supremenciita,'menci.supre0ita','上述[shàng shù]')).
+assert(celo(mendi,'mend.0i','訂貨[dìng huò],订货[dìng huò]')).
+assert(celo(mendi,'mend.0i','訂購[dìng gòu],订购[dìng gòu]')).
+assert(celo(mendilo,'mend.0ilo','訂單[dìng dān],订单[dìng dān]')).
+assert(celo(mendilo,'mend.0ilo','訂貨單[dìng huò dān],订货单[dìng huò dān]')).
+assert(celo(mendilo,'mend.0ilo','訂貨表格[dìng huò biǎo gé],订货表格[dìng huò biǎo gé]')).
+assert(celo(mendilo,'mend.0ilo','訂閱單[dìng yuè dān],订阅单[dìng yuè dān]')).
+assert(celo(mendo,'mend.0o','訂單[dìng dān],订单[dìng dān]')).
+assert(celo(mendo,'mend.0o','訂貨[dìng huò],订货[dìng huò]')).
+assert(celo(antaŭmendi,'mend.antaux0i','預訂[yù dìng],预订[yù dìng]')).
+assert(celo(informmendo,'mend.inform0o','查詢[chá xún],查询[chá xún]')).
+assert(celo(informmendo,'mend.inform0o','詢價[xún jià],询价[xún jià]')).
+assert(celo(informmendo,'mend.inform0o','詢問[xún wèn],询问[xún wèn]')).
+assert(celo(informmendo,'mend.inform0o','詢盤[xún pán],询盘[xún pán]')).
+assert(celo(informmendo,'mend.inform0o','审问[shěn wèn],審問[shěn wèn]')).
+assert(celo(informmendo,'mend.inform0o','質詢[zhí xún],质询[zhí xún]')).
+assert(celo(malmendi,'mend.mal0i','抵消[dǐ xiāo]')).
+assert(celo('Mendelevo','mendelev.M0o','門捷列夫[Mén jié liè fū],门捷列夫[Mén jié liè fū]')).
