@@ -1366,3 +1366,229 @@ assert(celo(informmendo,'mend.inform0o','审问[shěn wèn],審問[shěn wèn]')
 assert(celo(informmendo,'mend.inform0o','質詢[zhí xún],质询[zhí xún]')).
 assert(celo(malmendi,'mend.mal0i','抵消[dǐ xiāo]')).
 assert(celo('Mendelevo','mendelev.M0o','門捷列夫[Mén jié liè fū],门捷列夫[Mén jié liè fū]')).
+assert(celo(mendelevio,'mendelevi.0o','鍆[mén],钔[mén]')).
+assert(celo(mendelevio,'mendelevi.0o','因素[yīn sù]')).
+retract(celo(mendelevio,'mendelevi.0o','因素[yīn sù]')).
+assert(celo(meningo,'mening.0o','脑膜[nǎo mó],腦膜[nǎo mó]')).
+assert(celo(meningito,'mening1.0o','脑膜炎[nǎo mò yán],腦膜炎[nǎo mò yán]')).
+assert(celo(meningito,'mening1.0o','脑膜炎[nǎo mó yán],腦膜炎[nǎo mó yán]')).
+assert(celo(menopaŭzo,'menopauxz.0o','更年期[gēng nián qī]')).
+assert(celo(menso,'mens.0o','神魂[shén hún]')).
+assert(celo(menso,'mens.0o','心[xīn]')).
+assert(celo(menso,'mens.0o','神智[shén zhì]')).
+assert(celo(menso,'mens.0o','脑筋[nǎo jīn],腦筋[nǎo jīn]')).
+assert(celo(menso,'mens.0o','心灵[xīn líng],心靈[xīn líng]')).
+assert(celo(menso,'mens.0o','脑海[nǎo hǎi],腦海[nǎo hǎi]')).
+assert(celo(menso,'mens.0o','灵[líng],靈[líng]')).
+assert(celo(sanmensa,'mens.san0a','常理[cháng lǐ]')).
+assert(celo(mensoga,'mensog.0a','虚假[xū jiǎ],虛假[xū jiǎ]')).
+assert(celo(mensoga,'mensog.0a','伪[wěi],偽[wěi]')).
+assert(celo(mensoga,'mensog.0a','虚伪[xū wěi],虛偽[xū wěi]')).
+assert(celo(mensogema,'mensog.0ema','常說謊的[cháng shuō huǎng de],常说谎的[cháng shuō huǎng de]')).
+assert(celo(mensogema,'mensog.0ema','好說謊[hǎo shuō huǎng],好说谎[hǎo shuō huǎng]')).
+assert(celo(mensogema,'mensog.0ema','愛說謊[ài shuō huǎng],爱说谎[ài shuō huǎng]')).
+assert(celo(mensogema,'mensog.0ema','騙人[piàn rén],骗人[piàn rén]')).
+assert(celo(mensogi,'mensog.0i','說謊[shuō huǎng],说谎[shuō huǎng]')).
+assert(celo(mensogi,'mensog.0i','譸[zhōu],诪[zhōu]')).
+assert(celo(mensogi,'mensog.0i','謊[huǎng],谎[huǎng]')).
+assert(celo(mensogi,'mensog.0i','撒謊[sā huǎng],撒谎[sā huǎng]')).
+assert(celo(mensogi,'mensog.0i','譸[zhōu]')).
+assert(celo(mensogi,'mensog.0i','謊報[huǎng bào],谎报[huǎng bào]')).
+assert(celo(mensogo,'mensog.0o','謊[huǎng],谎[huǎng]')).
+assert(celo(mensogo,'mensog.0o','謊話[huǎng huà],谎话[huǎng huà]')).
+assert(celo(mensogo,'mensog.0o','謊言[huǎng yán],谎言[huǎng yán]')).
+assert(celo(mensogo,'mensog.0o','鬼話[guǐ huà],鬼话[guǐ huà]')).
+assert(celo(mensogo,'mensog.0o','假話[jiǎ huà],假话[jiǎ huà]')).
+assert(celo(mensogo,'mensog.0o','詐欺[zhà qī],诈欺[zhà qī]')).
+assert(celo(mensogulo,'mensog.0ulo','騙人[piàn rén],骗人[piàn rén]')).
+assert(celo(mensogulo,'mensog.0ulo','說謊的人[shuō huǎng de rén],说谎的人[shuō huǎng de rén]')).
+assert(celo(mensogulo,'mensog.0ulo','脫空漢[tuō kōng hàn],脱空汉[tuō kōng hàn]')).
+assert(celo(mensogulo,'mensog.0ulo','說謊者[shuō huǎng zhě],说谎者[shuō huǎng zhě]')).
+assert(celo(mensogulo,'mensog.0ulo','涮金作[shuàn jīn zuò]')).
+assert(celo(mensogulo,'mensog.0ulo','詐欺[zhà qī],诈欺[zhà qī]')).
+assert(celo(mensogulo,'mensog.0ulo','說謊者[shuō huǎng zhē],说谎者[shuō huǎng zhē]')).
+assert(celo(menstruo,'menstr.0o','月經[yuè jīng],月经[yuè jīng]')).
+assert(celo(menstruo,'menstr.0o','癸水[guǐ shuǐ]')).
+assert(celo(menstruo,'menstr.0o','經血[jīng xuè],经血[jīng xuè]')).
+assert(celo(menstruo,'menstr.0o','天癸[tiān guǐ]')).
+assert(celo(menstruo,'menstr.0o','月事[yuè shì]')).
+assert(celo(pipromento,'ment.pipro0o','薄荷[bò he]')).
+assert(celo(pipromento,'ment.pipro0o','胡椒薄荷[hú jiāo bò he]')).
+assert(celo(mento,'','薄荷[bò he]')).
+assert(celo(mentono,'menton.0o','下巴[xià ba]')).
+assert(celo(mentono,'menton.0o','頦[kē],颏[kē]')).
+assert(celo(mentono,'menton.0o','頷[hàn],颔[hàn]')).
+assert(celo(mentori,'mentor.0i','帮教[bāng jiào],幫教[bāng jiào]')).
+assert(celo(mentori,'mentor.0i','輔導[fǔ dǎo],辅导[fǔ dǎo]')).
+assert(celo(mentori,'mentor.0i','教化[jiào huā]')).
+assert(celo(mentoro,'mentor.0o','技术指导[jì shù zhǐ dǎo],技術指導[jì shù zhǐ dǎo]')).
+assert(celo(mentoro,'mentor.0o','指导员[zhǐ dǎo yuán],指導員[zhǐ dǎo yuán]')).
+assert(celo(mentoro,'mentor.0o','教練[jiào liàn],教练[jiào liàn]')).
+assert(celo(menuero,'menu.0ero','菜单项[cài dān xiàng],菜單項[cài dān xiàng]')).
+assert(celo(menueto,'menuet.0o','小步舞曲[xiǎo bù wǔ qǔ]')).
+assert(celo(menuro,'menur.0o','琴鳥[qín niǎo],琴鸟[qín niǎo]')).
+assert(celo(merdo,'merd.0o','我尻[wǒ kào]')).
+assert(celo(merdo,'merd.0o','卧槽[wò cáo],臥槽[wò cáo]')).
+assert(celo(mergi,'merg.0i','沉浸[chén jìn]')).
+assert(celo(mergi,'merg.0i','浸泡[jìn pào]')).
+assert(celo(mergi,'merg.0i','浸洗[jìn xǐ]')).
+assert(celo(elmergiĝi,'merg.el0igxi','浮出[fú chū]')).
+assert(celo(meridiano,'meridi.0o.GEOG','子午線[zǐ wǔ xiàn],子午线[zǐ wǔ xiàn]')).
+assert(celo(meringo,'mering.0o','以及做成的糕餅[yǐ jí zuò chéng de gāo bǐng],以及做成的糕饼[yǐ jí zuò chéng de gāo bǐng]')).
+assert(celo(merita,'merit.0a','配称[pèi chèn],配稱[pèi chèn]')).
+assert(celo(merita,'merit.0a.KOMUNE','有貢獻[yǒu gòng xiàn],有贡献[yǒu gòng xiàn]')).
+assert(celo(meritaĵo,'merit.0ajxo','報酬[bào chou],报酬[bào chou]')).
+assert(celo(meritaĵo,'merit.0ajxo','酬偿[chóu cháng],酬償[chóu cháng]')).
+assert(celo(meritaĵo,'merit.0ajxo','酬劳[chóu láo],酬勞[chóu láo]')).
+assert(celo(meriti,'merit.0i','应得[yīng dé],應得[yīng dé]')).
+assert(celo(merito,'merit.0o','劳[láo],勞[láo]')).
+assert(celo(merito,'merit.0o','功劳[gōng láo],功勞[gōng láo]')).
+assert(celo(merito,'merit.0o','績[jì],绩[jì]')).
+assert(celo(merito,'merit.0o','优点[yōu diǎn],優點[yōu diǎn]')).
+assert(celo(merito,'merit.0o','功績[gōng jì],功绩[gōng jì]')).
+assert(celo(merito,'merit.0o','大功[dà gōng]')).
+assert(celo(senmerita,'merit.sen0a','不起眼[bù qǐ yǎn]')).
+assert(celo(senmerita,'merit.sen0a','区区[qū qū],區區[qū qū]')).
+assert(celo(senmerita,'merit.sen0a','琐[suǒ],瑣[suǒ]')).
+assert(celo(meritokratio,'meritokrati.0o','实力主义[shí lì zhǔ yì],實力主義[shí lì zhǔ yì]')).
+assert(celo(merkantilismo,'merkan.0o','重商主义[zhòng shāng zhǔ yì],重商主義[zhòng shāng zhǔ yì]')).
+assert(celo(merkantilismo,'merkan.0o','商业本位[shāng yè běn wèi],商業本位[shāng yè běn wèi]')).
+assert(celo(merkantilismo,'merkan.0o','重商主义[zhòng hāng zhǔ yì],重商主義[zhòng hāng zhǔ yì]')).
+assert(celo(merkatisto,'merkat.0isto','市场研究人员[shì chǎng yán jiū rén yuán],市場研究人員[shì chǎng yán jiū rén yuán]')).
+assert(celo(merkatisto,'merkat.0isto','市场调查人员[shì chǎng diào chá rén yuán],市場調查人員[shì chǎng diào chá rén yuán]')).
+assert(celo(merkato,'merkat.0o','市场[shì chǎng],市場[shì chǎng]')).
+assert(celo(merkato,'merkat.0o','銷路[xiāo lù],销路[xiāo lù]')).
+assert(celo(merkato,'merkat.0o','市面[shì miàn]')).
+assert(celo(enmerkatigi,'merkat.en0igi','商业化[shāng yè huà],商業化[shāng yè huà]')).
+assert(celo(labormerkato,'merkat.labor0o','劳动力市场[láo dòng lì shì chǎng],勞動力市場[láo dòng lì shì chǎng]')).
+assert(celo(labormerkato,'merkat.labor0o','劳务市场[láo wù shì chǎng],勞務市場[láo wù shì chǎng]')).
+assert(celo('nigra merkato','merkat.nigra0o','黑市[hēi shì]')).
+assert(celo(surmerkatigi,'merkat.sur0igi','商业化[shāng yè huà],商業化[shāng yè huà]')).
+assert(celo(merkatikisto,'merkatik.0isto','市场研究人员[shì chǎng yán jiū rén yuán],市場研究人員[shì chǎng yán jiū rén yuán]')).
+assert(celo(merkatikisto,'merkatik.0isto','市场调查人员[shì chǎng diào chá rén yuán],市場調查人員[shì chǎng diào chá rén yuán]')).
+assert(celo(merkatiko,'merkatik.0o','市场调查[shì chǎng diào chá],市場調查[shì chǎng diào chá]')).
+assert(celo(merkatiko,'merkatik.0o','市场营销[shì chǎng yíng xiāo],市場營銷[shì chǎng yíng xiāo]')).
+assert(celo(merkatiko,'merkatik.0o','營銷[yíng xiāo],营销[yíng xiāo]')).
+assert(celo('Cindra Merkredo','merkre.cindra0o','圣灰瞻礼日[Shèng huī zhān lǐ rì],聖灰瞻禮日[Shèng huī zhān lǐ rì]')).
+assert(celo('Cindra Merkredo','merkre.cindra0o','塗灰星期三[tú huī xīng qī sān],涂灰星期三[tú huī xīng qī sān]')).
+assert(celo('Cindra Merkredo','merkre.cindra0o','圣灰星期三[shèng huī xīng qī sān],聖灰星期三[shèng huī xīng qī sān]')).
+assert(celo('Cindra Merkredo','merkre.cindra0o','大斋首日圣灰星期三涂灰日[dài zhāi shǒu rì shèng huī xīng qī sān tú huī rì],大齋首日聖灰星期三塗灰日[dài zhāi shǒu rì shèng huī xīng qī sān tú huī rì]')).
+assert(celo('Merkuro','merkur1.0o','水星[Shuǐ xīng]')).
+assert(celo('Merkuro','merkur1.0o','墨丘利[Mò qiū lì]')).
+assert(celo(merluĉo,'merlucx.0o','鱈魚類[xuě yú lèi],鳕鱼类[xuě yú lèi]')).
+assert(celo(merluĉo,'merlucx.0o','海洋法[hǎi yáng fǎ]')).
+retract(celo(merluĉo,'merlucx.0o','海洋法[hǎi yáng fǎ]')).
+assert(celo(meromorfa,'meromo.0a','亚纯[yà chún],亞純[yà chún]')).
+assert(celo(meso,'mes.0o','礼拜[lǐ bài],禮拜[lǐ bài]')).
+assert(celo(mesaĝi,'mesagx.0i','发短信[fā duǎn xìn],發短信[fā duǎn xìn]')).
+assert(celo(mesaĝi,'mesagx.0i','私信[sī xìn]')).
+assert(celo(mesaĝi,'mesagx.0i','寄辞[jì cí],寄辭[jì cí]')).
+assert(celo(mesaĝi,'mesagx.0i','发报[fā bào],發報[fā bào]')).
+assert(celo(mesaĝi,'mesagx.0i','訴[sù],诉[sù]')).
+retract(celo(mesaĝi,'mesagx.0i','訴[sù],诉[sù]')).
+assert(celo(mesaĝisto,'mesagx.0isto','信差[xìn chāi]')).
+assert(celo(mesaĝisto,'mesagx.0isto','传递者[chuán dì zhě],傳遞者[chuán dì zhě]')).
+assert(celo(mesaĝisto,'mesagx.0isto','信使[xìn shǐ]')).
+assert(celo(mesaĝo,'mesagx.0o','訊息[xùn xī],讯息[xùn xī]')).
+assert(celo(mesaĝo,'mesagx.0o','短信[duǎn xìn]')).
+assert(celo(mesaĝo,'mesagx.0o','短信息[duǎn xìn xī]')).
+assert(celo(mesaĝo,'mesagx.0o','短消息[duǎn xiāo xi]')).
+assert(celo(mesaĝo,'mesagx.0o','留言[liú yán]')).
+assert(celo(mesaĝo,'mesagx.0o','音訊[yīn xùn],音讯[yīn xùn]')).
+assert(celo(retmesaĝo,'mesagx.ret0o','电子邮件[diàn zǐ yóu jiàn],電子郵件[diàn zǐ yóu jiàn]')).
+assert(celo(retmesaĝo,'mesagx.ret0o','电邮[diàn yóu],電郵[diàn yóu]')).
+assert(celo(retmesaĝo,'mesagx.ret0o','邮件[yóu jiàn],郵件[yóu jiàn]')).
+assert(celo(retmesaĝo,'mesagx.ret0o','邮件信息[yóu jiàn xìn xí],郵件信息[yóu jiàn xìn xí]')).
+assert(celo(spammesaĝo,'mesagx.spam0o','垃圾邮件[lā jī yóu jiàn],垃圾郵件[lā jī yóu jiàn]')).
+assert(celo(mesio,'mesi.0o','弥赛亚[mí sài yà],彌賽亞[mí sài yà]')).
+assert(celo(meskalino,'meskalin.0o','麥司卡林[mài sī kǎ lín],麦司卡林[mài sī kǎ lín]')).
+assert(celo(mespilo,'mespil.0o','欧查果[ōu chá guǒ],歐查果[ōu chá guǒ]')).
+assert(celo(mestizo,'mestiz.0o','麥士蒂索人[mài shì dì suǒ rén],麦士蒂索人[mài shì dì suǒ rén]')).
+assert(celo(meti,'met.0i.movi','安放[ān fàng]')).
+assert(celo(meti,'met.0i.movi','置放[zhì fàng]')).
+assert(celo(almeti,'met.al0i','添加[tiān jiā]')).
+assert(celo(almeti,'met.al0i','加入[jiā rù]')).
+assert(celo(almeti,'met.al0i','添[tiān]')).
+assert(celo(almeti,'met.al0i','附加[fù jiā]')).
+assert(celo(antaŭmeti,'met.antaux0i','提請[tí qǐng],提请[tí qǐng]')).
+assert(celo(antaŭmeti,'met.antaux0i','放在桌上[fàng zài zhuō shang]')).
+assert(celo(antaŭmeti,'met.antaux0i','进[jìn],進[jìn]')).
+assert(celo(apudmeti,'met.apud0i','对照[duì zhào],對照[duì zhào]')).
+assert(celo(apudmeti,'met.apud0i','並列放置[bìng liè fàng zhì],并列放置[bìng liè fàng zhì]')).
+assert(celo(apudmeti,'met.apud0i','並放[bìng fàng],并放[bìng fàng]')).
+assert(celo(ĉirkaŭmeti,'met.cxirkaux0i','围[wéi],圍[wéi]')).
+assert(celo(ĉirkaŭmeti,'met.cxirkaux0i','围起来[wēi qí lǎi],圍起來[wēi qí lǎi]')).
+assert(celo(ĉirkaŭmeti,'met.cxirkaux0i','环抱[huán bào],環抱[huán bào]')).
+assert(celo(ĉirkaŭmeti,'met.cxirkaux0i','环绕[huán rào],環繞[huán rào]')).
+assert(celo(demeti,'met.de0i.KOMUNE','脫下[tuō xià],脱下[tuō xià]')).
+assert(celo(elmeti,'met.el0i','展覽[zhǎn lǎn],展览[zhǎn lǎn]')).
+assert(celo(elmeti,'met.el0i','展[zhǎn]')).
+assert(celo(elmeti,'met.el0i','展示[zhǎn shì]')).
+assert(celo(elmeti,'met.el0i','擿[tī]')).
+assert(celo(elmeti,'met.el0i.eldiri','提請[tí qǐng],提请[tí qǐng]')).
+assert(celo(formeti,'met.for0i','存[cún]')).
+assert(celo(formeti,'met.for0i','存放[cún fàng]')).
+assert(celo(formeti,'met.for0i','寄存[jì cún]')).
+assert(celo(intermeti,'met.inter0i.KOMUNE','插入[chā rù]')).
+assert(celo(kontraŭmeti,'met.kontraux0i','对立[duì lì],對立[duì lì]')).
+assert(celo(kontraŭmeti,'met.kontraux0i','咈[fú]')).
+assert(celo(kontraŭmeti,'met.kontraux0i','撄[yīng],攖[yīng]')).
+assert(celo(kunmetaĵo,'met.kun0ajxo','合作地[hé zuò de]')).
+assert(celo(kunmetaĵo,'met.kun0ajxo','合起來[hé qǐ lai],合起来[hé qǐ lai]')).
+assert(celo(kunmetaĵo,'met.kun0ajxo','混料[hùn liào]')).
+assert(celo(kunmetaĵo,'met.kun0ajxo','組合[zǔ hé],组合[zǔ hé]')).
+assert(celo(kunmeti,'met.kun0i','攒聚[cuán jù],攢聚[cuán jù]')).
+assert(celo(kunmeti,'met.kun0i','攒集[cuán jí],攢集[cuán jí]')).
+assert(celo(kunmeti,'met.kun0i','合起來[hé qǐ lai],合起来[hé qǐ lai]')).
+assert(celo(kunmeti,'met.kun0i','联[lián],聯[lián]')).
+assert(celo(kunmeti,'met.kun0i','蕞[zuì]')).
+assert(celo(kunmeti,'met.kun0i','装配[zhuāng pèi],裝配[zhuāng pèi]')).
+assert(celo(kunmeti,'met.kun0i','拼装[pīn zhuāng],拼裝[pīn zhuāng]')).
+assert(celo(kunmeto,'met.kun0o','合作地[hé zuò de]')).
+assert(celo(kunmeto,'met.kun0o','合起來[hé qǐ lai],合起来[hé qǐ lai]')).
+assert(celo(kunmeto,'met.kun0o','交織[jiāo zhī],交织[jiāo zhī]')).
+assert(celo(kunmeto,'met.kun0o','联结[lián jié],聯結[lián jié]')).
+assert(celo(postmeti,'met.post0i','后置[hòu zhì],後置[hòu zhì]')).
+assert(celo(submeti,'met.sub0i','就範[jiù fàn],就范[jiù fàn]')).
+assert(celo(submeti,'met.sub0i','提交[tí jiāo]')).
+assert(celo(submeti,'met.sub0i','划归[huà guī],劃歸[huà guī]')).
+assert(celo(submetiĝema,'met.sub0igxema','服服帖帖[fú fu tiē tiē]')).
+assert(celo(submetiĝema,'met.sub0igxema','拱手[gǒng shǒu]')).
+assert(celo(submetiĝema,'met.sub0igxema','温良忍让[wēn liáng rěn ràng],溫良忍讓[wēn liáng rěn ràng]')).
+assert(celo(submetiĝema,'met.sub0igxema','馴服[xùn fú],驯服[xùn fú]')).
+assert(celo(submetiĝema,'met.sub0igxema','順從[shùn cóng],顺从[shùn cóng]')).
+assert(celo(submetiĝi,'met.sub0igxi','折腰[zhé yāo]')).
+assert(celo(submetiĝi,'met.sub0igxi','归附[guī fù],歸附[guī fù]')).
+assert(celo(submetiĝi,'met.sub0igxi','順從[shùn cóng],顺从[shùn cóng]')).
+assert(celo(submetiĝi,'met.sub0igxi','低头[dī tóu],低頭[dī tóu]')).
+assert(celo(submetiĝi,'met.sub0igxi','屈服[qū fú]')).
+assert(celo(surmeti,'met.sur0i','衣[yì]')).
+assert(celo(surmeti,'met.sur0i','穿上[chuān shang]')).
+assert(celo(surmeti,'met.sur0i','配戴[pèi dài]')).
+assert(celo(surmeti,'met.sur0i.KOMUNE','挂断电话[guà duàn diàn huà],掛斷電話[guà duàn diàn huà]')).
+assert(celo(metabolo,'metabol.0o','代謝[dài xiè],代谢[dài xiè]')).
+assert(celo(metabolo,'metabol.0o','新陈代谢[xīn chén dài xiè],新陳代謝[xīn chén dài xiè]')).
+assert(celo(metadono,'metadon.0o','美沙酮[měi shā tóng]')).
+assert(celo(metafizika,'metafi.0a','形上[xíng shàng]')).
+assert(celo(metafiziko,'metafi.0o','形而上学[xíng ér shàng xué],形而上學[xíng ér shàng xué]')).
+assert(celo(metaforo,'metafo.0o','喻[yù]')).
+assert(celo(metaforo,'metafo.0o','暗喻[àn yù]')).
+assert(celo(metaforo,'metafo.0o','比喻[bǐ yù]')).
+assert(celo(metaforo,'metafo.0o','隐喻[yǐn yù],隱喻[yǐn yù]')).
+assert(celo(metakarpeo,'metaka.0o','掌骨[zhǎng gǔ]')).
+assert(celo(metala,'metal.0a','金属[jīn shǔ],金屬[jīn shǔ]')).
+assert(celo(metala,'metal.0a','金属制[jīn shǔ zhì],金屬制[jīn shǔ zhì]')).
+assert(celo(metalo,'metal.0o','金属[jīn shǔ],金屬[jīn shǔ]')).
+assert(celo(metalo,'metal.0o','钃[shǔ]')).
+assert(celo(metaloido,'metalo.0o','类金属[lèi jīn shǔ],類金屬[lèi jīn shǔ]')).
+assert(celo(metalofono,'metalofon.0o','鐵琴[tiě qín],铁琴[tiě qín]')).
+assert(celo(metalurgio,'metalu.0o','冶金[yě jīn]')).
+assert(celo(metalurgio,'metalu.0o','冶金学[yě jīn xué],冶金學[yě jīn xué]')).
+assert(celo(metalurgo,'metalurg.0o','冶金学者[yě jīn xué zhě],冶金學者[yě jīn xué zhě]')).
+assert(celo(metalurgo,'metalurg.0o','冶金家[yě jīn jiā]')).
+assert(celo(metamorfozi,'metamo1.0i','变样[biàn yàng],變樣[biàn yàng]')).
+assert(celo(metamorfozo,'metamo1.0o','幻化[huàn huà]')).
+assert(celo(metamorfozo,'metamo1.0o','变态[biàn tài],變態[biàn tài]')).
+assert(celo(metamorfozo,'metamo1.0o','改变形像[gǎi biàn xíng xiàng],改變形像[gǎi biàn xíng xiàng]')).
+assert(celo(metano,'metan.0o','沼气[zhǎo qì],沼氣[zhǎo qì]')).
+assert(celo(metano,'metan.0o','甲烷[jiǎ wán]')).
