@@ -2544,3 +2544,438 @@ assert(celo(monotona,'monoto.0a.MAT','亘古不变[gèn gǔ bù biàn],亙古不
 assert(celo(monotona,'monoto.0a.MAT','单调乏味[dān diào fá wèi],單調乏味[dān diào fá wèi]')).
 assert(celo(monotremoj,'monotrem.0oj','单孔目[dān kǒng mù],單孔目[dān kǒng mù]')).
 assert(celo('Monrovio','monrovi.0o','蒙罗维亚[Méng luó wéi yà],蒙羅維亞[Méng luó wéi yà]')).
+assert(celo(monstra,'monstr.0a','怪异[guài yì],怪異[guài yì]')).
+assert(celo(monstra,'monstr.0a','可怕[kě pà]')).
+assert(celo(monstro,'monstr.0o','怪兽[guài shòu],怪獸[guài shòu]')).
+assert(celo(monstro,'monstr.0o','妖怪[yāo guài]')).
+assert(celo(monstro,'monstr.0o','怪[guài]')).
+assert(celo(monstro,'monstr.0o','灵异[líng yì],靈異[líng yì]')).
+assert(celo(monstro,'monstr.0o','魔头[mó tóu],魔頭[mó tóu]')).
+assert(celo(monstro,'monstr.0o','怪物似[guài wù sì]')).
+assert(celo(montaro,'mont.0aro','岭[lǐng],嶺[lǐng]')).
+assert(celo(montaro,'mont.0aro','山脈[shān mài],山脉[shān mài]')).
+assert(celo(montaro,'mont.0aro','岳[yuè],嶽[yuè]')).
+assert(celo(montaro,'mont.0aro','嵎[yú]')).
+assert(celo(montaro,'mont.0aro','峦[luán],巒[luán]')).
+assert(celo(montaro,'mont.0aro','山岭[shān lǐng],山嶺[shān lǐng]')).
+assert(celo(montaro,'mont.0aro','山区[shān qū],山區[shān qū]')).
+assert(celo(montaro,'mont.0aro','丛山[cóng shān],叢山[cóng shān]')).
+assert(celo(monteto,'mont.0eto','陵[líng]')).
+assert(celo(monteto,'mont.0eto','岑[cén]')).
+assert(celo(monteto,'mont.0eto','山丘[shān qiū]')).
+assert(celo(monteto,'mont.0eto','小山[xiǎo shān]')).
+assert(celo(monteto,'mont.0eto','小丘[xiǎo qiū]')).
+assert(celo(monteto,'mont.0eto','嵄[měi]')).
+assert(celo(monteto,'mont.0eto','山冈[shān gāng],山岡[shān gāng]')).
+assert(celo(monteto,'mont.0eto','垴[nǎo],堖[nǎo]')).
+assert(celo(monteto,'mont.0eto','塂[jiǎng]')).
+assert(celo(monteto,'mont.0eto','山包[shān bāo]')).
+assert(celo(montiĝi,'mont.0igxi','积压[jī yā],積壓[jī yā]')).
+assert(celo('Tablomonto','mont.Tablo0o','山案座[Shān àn zuò]')).
+assert(celo(antaŭmonto,'mont.antaux0o','山下[shān xià]')).
+assert(celo(antaŭmonto,'mont.antaux0o','山脚[shān jiǎo],山腳[shān jiǎo]')).
+assert(celo(antaŭmonto,'mont.antaux0o','山麓[shān lù]')).
+assert(celo(glacimonto,'mont.glaci0o','冰山[bīng shān]')).
+assert(celo(intermonto,'mont.inter0o','山口[shān kǒu]')).
+assert(celo(intermonto,'mont.inter0o','关[guān],關[guān]')).
+assert(celo(intermonto,'mont.inter0o','关口[guān kǒu],關口[guān kǒu]')).
+assert(celo(intermonto,'mont.inter0o','隘[ài]')).
+assert(celo(intermonto,'mont.inter0o','关隘[guān ài],關隘[guān ài]')).
+assert(celo(intermonto,'mont.inter0o','峠[qiǎ]')).
+assert(celo(tablomonto,'mont.tablo0o','崮[gù]')).
+assert(celo(tablomonto,'mont.tablo0o','台地[tái dì],臺地[tái dì]')).
+assert(celo(tablomonto,'mont.tablo0o','高原[gāo yuán]')).
+assert(celo(tombmonteto,'mont.tomb0eto','坟头[fén tóu],墳頭[fén tóu]')).
+assert(celo(tombmonteto,'mont.tomb0eto','冢[zhǒng]')).
+assert(celo(tombmonteto,'mont.tomb0eto','丘[qiū]')).
+assert(celo(tombmonteto,'mont.tomb0eto','古墓[gǔ mù]')).
+assert(celo(tombmonteto,'mont.tomb0eto','土坟[tǔ fén],土墳[tǔ fén]')).
+assert(celo(tombmonteto,'mont.tomb0eto','冢[zhǒng],塚[zhǒng]')).
+assert(celo('Montano','montan.0o','蒙大拿[Méng dà ná]')).
+assert(celo('Montano','montan.0o','蒙大拿州[Méng dà ná zhōu]')).
+assert(celo('Montekarlo','montekarl.0o','蒙特卡洛[méng tè kǎ luò]')).
+assert(celo('Montenegro','monteneg.M0o.GEOG','蒙特內哥羅[Méng tè nèi gē luó],蒙特内哥罗[Méng tè nèi gē luó]')).
+assert(celo('Montevideo','montevide.0o','蒙得維的亞[Méng dé wéi dì yà],蒙得维的亚[Méng dé wéi dì yà]')).
+assert(celo('Montevideo','montevide.0o','蒙特維多[Méng tè wéi duō],蒙特维多[Méng tè wéi duō]')).
+assert(celo('Montpeliero','montpelier.0o','蒙彼利埃[Méng bǐ lì āi]')).
+assert(celo(montri,'montr.0i','摆明[bǎi míng],擺明[bǎi míng]')).
+assert(celo(montri,'montr.0i','示[shì]')).
+assert(celo(montri,'montr.0i','表现[biǎo xiàn],表現[biǎo xiàn]')).
+assert(celo(montri,'montr.0i','表示[biǎo shì]')).
+assert(celo(montri,'montr.0i','所示[suǒ shì]')).
+assert(celo(montri,'montr.0i','引路[yǐn lù]')).
+assert(celo(montri,'montr.0i','出示[chū shì]')).
+assert(celo(montri,'montr.0i','指出[zhǐ chū]')).
+assert(celo(montriĝi,'montr.0igxi','呈现[chéng xiàn],呈現[chéng xiàn]')).
+assert(celo(montriĝi,'montr.0igxi','見[xiàn],见[xiàn]')).
+assert(celo(almontri,'montr.al0i','指明[zhǐ míng]')).
+assert(celo(montrilo,'','指針[zhǐ zhēn],指针[zhǐ zhēn]')).
+assert(celo(elmontri,'montr.el0i','表现[biǎo xiàn],表現[biǎo xiàn]')).
+assert(celo(elmontri,'montr.el0i','衒[xuàn]')).
+assert(celo(elmontri,'montr.el0i','逞[chěng]')).
+assert(celo(hormontrilo,'montr.hor0ilo','时针[shí zhēn],時針[shí zhēn]')).
+assert(celo(sinmontrema,'montr.sin0ema','逞強[chěng qiáng],逞强[chěng qiáng]')).
+assert(celo(ventmontrilo,'montr.vent0ilo','風信雞[fēng xìn jī],风信鸡[fēng xìn jī]')).
+assert(celo(ventmontrilo,'montr.vent0ilo','風向標[fēng xiàng biāo],风向标[fēng xiàng biāo]')).
+assert(celo(vojmontrilo,'montr.voj0ilo','指路牌[zhǐ lù pái]')).
+assert(celo('Montrealo','montreal.0o','蒙特娄[Méng tè lóu],蒙特婁[Méng tè lóu]')).
+assert(celo(monumento,'monume.0o','紀念碑[jì niàn bēi],纪念碑[jì niàn bēi]')).
+assert(celo(monumento,'monume.0o','碑[bēi]')).
+assert(celo(monumento,'monume.0o','丰碑[fēng bēi],豐碑[fēng bēi]')).
+assert(celo(monumento,'monume.0o','紀念像[jì niàn xiàng],纪念像[jì niàn xiàng]')).
+assert(celo(monumento,'monume.0o','紀念雕像[jì niàn diāo xiàng],纪念雕像[jì niàn diāo xiàng]')).
+assert(celo(monumento,'monume.0o','追思[zhuī sī]')).
+assert(celo(monumento,'monume.0o','追悼[zhuī dào]')).
+assert(celo(tombomonumento,'monume.tombo0o','陵墓[líng mù]')).
+assert(celo(tombomonumento,'monume.tombo0o','陵[líng]')).
+assert(celo(tombomonumento,'monume.tombo0o','墓[mù]')).
+assert(celo(tombomonumento,'monume.tombo0o','紀念堂[jì niàn táng],纪念堂[jì niàn táng]')).
+assert(celo(mopedo,'moped.0o','輕便摩托車[qīng biàn mó tuō chē],轻便摩托车[qīng biàn mó tuō chē]')).
+assert(celo(mopedo,'moped.0o','輕型摩托車[qīng xíng mó tuō chē],轻型摩托车[qīng xíng mó tuō chē]')).
+assert(celo(mopso,'mops.0o','八哥狗[bā gē gǒu]')).
+assert(celo(mopso,'mops.0o','巴哥[bā gē]')).
+assert(celo(mopso,'mops.0o','巴哥犬[bā gē quǎn]')).
+assert(celo(mopso,'mops.0o','哈巴狗[hǎ ba gǒu]')).
+assert(celo(moro,'mor.0o','习俗[xí sú],習俗[xí sú]')).
+assert(celo(severmora,'mor.sever0a','清苦[qīng kǔ]')).
+assert(celo(morala,'moral.0a','道义[dào yì],道義[dào yì]')).
+assert(celo(moralaĵo,'moral.0ajxo.moralinstruo','道理[dào li]')).
+assert(celo(moraleco,'moral.0eco','德性[dé xìng]')).
+assert(celo(moraleco,'moral.0eco','道义[dào yì],道義[dào yì]')).
+assert(celo(moraleco,'moral.0eco','德行[dé xing]')).
+assert(celo(moraleco,'moral.0eco','德[dé],惪[dé]')).
+assert(celo(moralo,'moral.0o','伦理[lún lǐ],倫理[lún lǐ]')).
+assert(celo(moralo,'moral.0o','道德[dào dé]')).
+assert(celo(moralo,'moral.0o','士气[shì qì],士氣[shì qì]')).
+assert(celo('profesia moralo','moral.profesia0o','道德規范[dào dé guī fàn],道德规范[dào dé guī fàn]')).
+assert(celo(moratorio,'moratori.0o','延期偿还[yán qī cháng huán],延期償還[yán qī cháng huán]')).
+assert(celo(morbilo,'morbil.0o','疹[zhěn]')).
+assert(celo(morbilo,'morbil.0o','麻疹[má zhěn]')).
+assert(celo(mordeti,'mord.0eti','啃[kěn]')).
+assert(celo(mordeti,'mord.0eti','零嘴[líng zuǐ]')).
+assert(celo(mordeti,'mord.0eti','輕咬[qīng yǎo],轻咬[qīng yǎo]')).
+assert(celo(mordeti,'mord.0eti','齕[hé]')).
+assert(celo(mordeti,'mord.0eti','齕[hé],龁[hé]')).
+assert(celo(mordi,'mord.0i','齰[zé]')).
+assert(celo(mordi,'mord.0i','啃[kěn]')).
+assert(celo(mordi,'mord.0i','噬[shì]')).
+assert(celo(mordi,'mord.0i','齕[hé],龁[hé]')).
+assert(celo(mordi,'mord.0i','咥[dié]')).
+assert(celo(mordi,'mord.0i','齦[kěn],龈[kěn]')).
+assert(celo(mordumi,'mord.0umi','有腐蚀性[yǒu fǔ shí xìng],有腐蝕性[yǒu fǔ shí xìng]')).
+assert(celo(mordumi,'mord.0umi','侵蚀[qīn shí],侵蝕[qīn shí]')).
+assert(celo(mordumi,'mord.0umi','剝蝕[bō shí],剥蚀[bō shí]')).
+assert(celo(mordumi,'mord.0umi','生銹[shēng xiù],生锈[shēng xiù]')).
+assert(celo(ĉirkaŭmordi,'mord.cxirkaux0i','啃[kěn]')).
+assert(celo(ĉirkaŭmordi,'mord.cxirkaux0i','齕[hé]')).
+assert(celo(demordi,'mord.de0i','咬一口[yǎo yī kǒu]')).
+assert(celo(demordi,'mord.de0i','咬断[yǎo duàn],咬斷[yǎo duàn]')).
+assert(celo(moreno,'moren.0o','碛[qì],磧[qì]')).
+assert(celo(moreno,'moren.0o','冰碛[bīng qì],冰磧[bīng qì]')).
+assert(celo(moreno,'moren.0o','堆石[duī shí]')).
+assert(celo('Moresneto','moresnet.0o','莫裡斯尼特[mò lǐ sī ní tè],莫里斯尼特[mò lǐ sī ní tè]')).
+assert(celo(morfemo,'morfem.0o','語素[yǔ sù],语素[yǔ sù]')).
+assert(celo(morfemo,'morfem.0o','詞素[cí sù],词素[cí sù]')).
+assert(celo(morfino,'morfin.0o','吗啡[mǎ fēi],嗎啡[mǎ fēi]')).
+assert(celo(morfologia,'morfol.0a','詞形上[cí xíng shàng],词形上[cí xíng shàng]')).
+assert(celo(morfologia,'morfol.0a','詞形學[cí xíng xué],词形学[cí xíng xué]')).
+assert(celo(morfologio,'morfol.0o','形态学[xíng tài xué],形態學[xíng tài xué]')).
+assert(celo(morfologio,'morfol.0o','形态[xíng tài],形態[xíng tài]')).
+assert(celo(morgaŭo,'morgau.0o','未來[wèi lái],未来[wèi lái]')).
+assert(celo(morgaŭo,'morgau.0o','翌日[yì rì]')).
+assert(celo(postmorgaŭ,'morgau.post0','后天[hòu tiān],後天[hòu tiān]')).
+assert(celo(mormonismo,'mormon.0ismo','摩門教[mó mén jiào],摩门教[mó mén jiào]')).
+assert(celo(mormono,'mormon.0o','一夫多妻主义者[yī fū duō qī zhǔ yì zhě],一夫多妻主義者[yī fū duō qī zhǔ yì zhě]')).
+assert(celo(mormono,'mormon.0o','摩門教徒[mó mén jiào tú],摩门教徒[mó mén jiào tú]')).
+assert(celo(mormono,'mormon.0o','摩門[mó mén],摩门[mó mén]')).
+assert(celo(morna,'morn.0a','黪[cǎn],黲[cǎn]')).
+assert(celo(morna,'morn.0a','惨淡[cǎn dàn],慘淡[cǎn dàn]')).
+assert(celo(morna,'morn.0a','阴沉[yīn chén],陰沉[yīn chén]')).
+assert(celo(moroza,'moroz.0a','走調[zǒu diào],走调[zǒu diào]')).
+assert(celo(moroza,'moroz.0a','不高兴地[bù gāo xìng de],不高興地[bù gāo xìng de]')).
+assert(celo(moroza,'moroz.0a','哭丧着脸[kū sang zhe liǎn],哭喪著臉[kū sang zhe liǎn]')).
+assert(celo(moroza,'moroz.0a','脾气坏[pí qì huài],脾氣壞[pí qì huài]')).
+assert(celo('Morso','mors.0o','莫氏[mò shì]')).
+assert(celo('Morso','mors.0o','莫尔斯[Mò ěr sī],莫爾斯[Mò ěr sī]')).
+assert(celo(mortaĉi,'mort.0acxi','身亡[shēn wáng]')).
+assert(celo(mortaĉi,'mort.0acxi','丧生[sàng shēng],喪生[sàng shēng]')).
+assert(celo(mortaĉi,'mort.0acxi','歿[mò],殁[mò]')).
+assert(celo(mortaĉi,'mort.0acxi','殒[yǔn],殞[yǔn]')).
+assert(celo(mortema,'mort.0ema','会死[huì sǐ],會死[huì sǐ]')).
+assert(celo(mortema,'mort.0ema','不免一死[bù miǎn yī sǐ]')).
+assert(celo(mortemulo,'mort.0emulo','凡人[fán rén]')).
+assert(celo(mortemulo,'mort.0emulo','凡夫[fán fū]')).
+assert(celo(morti,'mort.0i','乘鶴[chéng hè],乘鹤[chéng hè]')).
+assert(celo(morti,'mort.0i','倒头[dǎo tóu],倒頭[dǎo tóu]')).
+assert(celo(morti,'mort.0i','去世[qù shì]')).
+assert(celo(morti,'mort.0i','捐背[juān bèi]')).
+assert(celo(morti,'mort.0i','撒手人寰[sā shǒu rén huán]')).
+assert(celo(morti,'mort.0i','死亡[sǐ wáng]')).
+assert(celo(morti,'mort.0i','死去[sǐ qù]')).
+assert(celo(morti,'mort.0i','逝世[shì shì]')).
+assert(celo(morti,'mort.0i','进了天堂[jìn le tiān táng],進了天堂[jìn le tiān táng]')).
+assert(celo(morti,'mort.0i','过世[guò shì],過世[guò shì]')).
+assert(celo(mortiga,'mort.0iga','致命[zhì mìng]')).
+assert(celo(mortiga,'mort.0iga','致死性[zhì sǐ xìng]')).
+assert(celo(mortigi,'mort.0igi','打死[dǎ sǐ]')).
+assert(celo(mortigi,'mort.0igi','杀死[shā sǐ],殺死[shā sǐ]')).
+assert(celo(mortigi,'mort.0igi','戮[lù]')).
+assert(celo(mortigi,'mort.0igi','杀掉[shā diào],殺掉[shā diào]')).
+assert(celo(mortigi,'mort.0igi','杀[shā],殺[shā]')).
+assert(celo(mortigi,'mort.0igi','击毙[jī bì],擊斃[jī bì]')).
+assert(celo(mortigi,'mort.0igi','杀人[shā rén],殺人[shā rén]')).
+assert(celo(mortigi,'mort.0igi','杸[shū]')).
+assert(celo(mortigi,'mort.0igi','戕[qiāng]')).
+assert(celo(mortigi,'mort.0igi','戡[kān]')).
+assert(celo(mortigo,'mort.0igo','杀死杀害[shā sǐ shā hài],殺死殺害[shā sǐ shā hài]')).
+assert(celo(mortigo,'mort.0igo','一般杀人罪[yì bān shā rén zuì],一般殺人罪[yì bān shā rén zuì]')).
+assert(celo(mortigo,'mort.0igo','杀人[shā rén],殺人[shā rén]')).
+assert(celo(mortigo,'mort.0igo','沒有預謀的殺人[méi yǒu yù móu de shā rén],没有预谋的杀人[méi yǒu yù móu de shā rén]')).
+assert(celo(mortiĝi,'mort.0igxi','遇难[yù nàn],遇難[yù nàn]')).
+assert(celo(mortiĝi,'mort.0igxi','殒[yǔn],殞[yǔn]')).
+assert(celo(mortiĝi,'mort.0igxi','被浪費掉[bèi làng fèi diào],被浪费掉[bèi làng fèi diào]')).
+assert(celo(mortiĝi,'mort.0igxi','斃命[bì mìng],毙命[bì mìng]')).
+assert(celo(mortiĝi,'mort.0igxi','送命[sòng mìng]')).
+assert(celo(mortintaĵo,'mort.0intajxo','尸体[shī tǐ],屍體[shī tǐ]')).
+assert(celo(mortintaĵo,'mort.0intajxo','尸[shī],屍[shī]')).
+assert(celo(mortintaĵo,'mort.0intajxo','尸首[shī shou],屍首[shī shou]')).
+assert(celo(mortintaĵo,'mort.0intajxo','死尸[sǐ shī],死屍[sǐ shī]')).
+assert(celo(mortinto,'mort.0into','死人[sǐ rén]')).
+assert(celo(mortinto,'mort.0into','亡者[wáng zhě]')).
+assert(celo(morto,'mort.0o','死命[sǐ mìng]')).
+assert(celo(morto,'mort.0o','死亡[sǐ wáng]')).
+assert(celo(morto,'mort.0o','圆寂[yuán jì],圓寂[yuán jì]')).
+assert(celo(morto,'mort.0o','故去[gù qù]')).
+assert(celo(morto,'mort.0o','无禄[wú lù],無祿[wú lù]')).
+assert(celo(formorti,'mort.for0i','死絕[sǐ jué],死绝[sǐ jué]')).
+assert(celo(formorti,'mort.for0i','寂滅[jì miè],寂灭[jì miè]')).
+assert(celo(formorti,'mort.for0i','熄滅[xī miè],熄灭[xī miè]')).
+assert(celo(formorti,'mort.for0i','滅絕[miè jué],灭绝[miè jué]')).
+assert(celo(formorti,'mort.for0i','絕種[jué zhǒng],绝种[jué zhǒng]')).
+assert(celo(formorti,'mort.for0i','夷滅[yí miè],夷灭[yí miè]')).
+assert(celo(formorti,'mort.for0i','泯滅[mǐn miè],泯灭[mǐn miè]')).
+assert(celo(formortigi,'mort.for0igi','殪[yì]')).
+assert(celo(formortigi,'mort.for0igi','滅絕[miè jué],灭绝[miè jué]')).
+assert(celo(formortigi,'mort.for0igi','扑灭[pū miè],撲滅[pū miè]')).
+assert(celo(formortigi,'mort.for0igi','杀灭[shā miè],殺滅[shā miè]')).
+assert(celo(formortigi,'mort.for0igi','杀绝[shā jué],殺絕[shā jué]')).
+assert(celo(formortigi,'mort.for0igi','剪除[jiǎn chú]')).
+assert(celo(formortigi,'mort.for0igi','殄[tiǎn]')).
+assert(celo(formortigi,'mort.for0igi','誅滅[zhū miè],诛灭[zhū miè]')).
+assert(celo(ĝismorta,'mort.gxis0a','至死[zhì sǐ]')).
+assert(celo(ĝismorta,'mort.gxis0a','毕生[bì shēng],畢生[bì shēng]')).
+assert(celo(hommortigo,'mort.hom0igo','杀人犯[shā rén fàn],殺人犯[shā rén fàn]')).
+assert(celo(hommortigo,'mort.hom0igo','謀殺[móu shā],谋杀[móu shā]')).
+assert(celo(hommortigo,'mort.hom0igo','命案[mìng àn]')).
+assert(celo(hommortigo,'mort.hom0igo','杀人[shā rén],殺人[shā rén]')).
+assert(celo(hommortigo,'mort.hom0igo','杀人案[shā rén àn],殺人案[shā rén àn]')).
+assert(celo(hommortigo,'mort.hom0igo','他杀[tā shā],他殺[tā shā]')).
+assert(celo(memmortigi,'mort.mem0igi','輕生[qīng shēng],轻生[qīng shēng]')).
+assert(celo(memmortigi,'mort.mem0igi','自杀[zì shā],自殺[zì shā]')).
+assert(celo(memmortigo,'mort.mem0igo','自杀[zì shā],自殺[zì shā]')).
+assert(celo(memmortigo,'mort.mem0igo','自尽[zì jìn],自盡[zì jìn]')).
+assert(celo(pafmortigi,'mort.paf0igi','枪杀[qiāng shā],槍殺[qiāng shā]')).
+assert(celo(pafmortigi,'mort.paf0igi','击毙[jí bì],擊斃[jí bì]')).
+assert(celo(pafmortigi,'mort.paf0igi','子弹打死[zǐ dàn dǎ sǐ],子彈打死[zǐ dàn dǎ sǐ]')).
+assert(celo(pafmortigi,'mort.paf0igi','枪毙[qiāng bì],槍斃[qiāng bì]')).
+assert(celo(pafmortigi,'mort.paf0igi','枪决[qiāng jué],槍決[qiāng jué]')).
+assert(celo(pafmortigi,'mort.paf0igi','用枪自杀[yòng qiāng zì shā],用槍自殺[yòng qiāng zì shā]')).
+assert(celo(postmorta,'mort.post0a','死后[sǐ hòu],死後[sǐ hòu]')).
+assert(celo(postmorta,'mort.post0a','身后[shēn hòu],身後[shēn hòu]')).
+assert(celo(senmorta,'mort.sen0a','佺[quán]')).
+assert(celo(senmorta,'mort.sen0a','仙[xiān],僊[xiān]')).
+assert(celo(senmorta,'mort.sen0a','不朽[bù xiǔ]')).
+assert(celo(senmorta,'mort.sen0a','不死[bù sǐ]')).
+assert(celo(senmorta,'mort.sen0a','永存[yǒng cún]')).
+assert(celo(senmorta,'mort.sen0a','不朽的[bù xiǔ de]')).
+assert(celo(senmortulo,'mort.sen0ulo','仙[xiān]')).
+assert(celo(senmortulo,'mort.sen0ulo','仙人[xiān rén]')).
+assert(celo('sin mortigi','mort.sin0igi','自尽[zì jìn],自盡[zì jìn]')).
+assert(celo('sin mortigi','mort.sin0igi','自杀[zì shā],自殺[zì shā]')).
+assert(celo('sin mortigi','mort.sin0igi','輕生[qīng shēng],轻生[qīng shēng]')).
+assert(celo('sin mortigi','mort.sin0igi','抹脖子[mǒ bó zi]')).
+assert(celo('sin mortigi','mort.sin0igi','絕命[jué mìng],绝命[jué mìng]')).
+assert(celo(sinmortigo,'mort.sin0igo','自尽[zì jìn],自盡[zì jìn]')).
+assert(celo(sinmortigo,'mort.sin0igo','自杀[zì shā],自殺[zì shā]')).
+assert(celo(ŝtonmortigi,'mort.sxton0igi','乱石砸死[luàn shí zá sǐ],亂石砸死[luàn shí zá sǐ]')).
+assert(celo(transmorta,'mort.trans0a','來世[lái shì],来世[lái shì]')).
+assert(celo(mortero,'morter.0o','灰浆[huī jiāng],灰漿[huī jiāng]')).
+assert(celo(mortero,'morter.0o','砂浆[shā jiāng],砂漿[shā jiāng]')).
+assert(celo(mortezo,'mortez.0o','榫眼[sǔn yǎn]')).
+assert(celo(moruo,'moru.0o','鱈[xuě],鳕[xuě]')).
+assert(celo(moruso,'morus.0o','桑葚[sāng shèn]')).
+assert(celo(moruso,'morus.0o','桑椹[sāng shèn]')).
+assert(celo(moruso,'morus.0o','桑葚[sāng ren]')).
+assert(celo(morusujo,'morus.0ujo','桑[sāng]')).
+assert(celo(morusujo,'morus.0ujo','桑树[sāng shù],桑樹[sāng shù]')).
+assert(celo(morusacoj,'morusa.0oj','桑科[sāng kē]')).
+assert(celo(mosko,'mosk.0o','麝香[shè xiāng]')).
+assert(celo(moskulo,'','麝[shè]')).
+assert(celo(moskeo,'moske.0o','清真寺[qīng zhēn sì]')).
+assert(celo(moskito,'moskit.0o','蚊子[wén zi]')).
+assert(celo(moskito,'moskit.0o','蚊[wén]')).
+assert(celo(moskvano,'moskv.0ano','莫斯科人[mò sī kē rén]')).
+assert(celo('Moskvo-rivero','moskv.0orivero','莫斯科河[mò sī kē hé]')).
+assert(celo('Moseo','','摩西[Mó xī]')).
+assert(celo(moslemo,'moslem.0o','穆斯林[mù sī lín]')).
+assert(celo('Mosulo','mosul.0o.urbo','摩苏尔[Mó sū ěr],摩蘇爾[Mó sū ěr]')).
+assert(celo(mosto,'','总得[zǒng děi],總得[zǒng děi]')).
+assert(celo(moŝta,'mosxt.0a','威風凜凜[wēi fēng lǐn lǐn],威风凛凛[wēi fēng lǐn lǐn]')).
+assert(celo(moŝta,'mosxt.0a','威風[wēi fēng],威风[wēi fēng]')).
+assert(celo(moŝta,'mosxt.0a','雄壮[xióng zhuàng],雄壯[xióng zhuàng]')).
+assert(celo(moŝto,'mosxt.0o','主公[zhǔ gōng]')).
+assert(celo(moŝto,'mosxt.0o','殿下[diàn xià]')).
+assert(celo(moŝto,'mosxt.0o','陛下[bì xià]')).
+assert(celo(moto,'mot.0o','銘言[míng yán],铭言[míng yán]')).
+assert(celo(moto,'mot.0o','座右銘[zuò yòu míng],座右铭[zuò yòu míng]')).
+assert(celo(moto,'mot.0o','格言[gé yán]')).
+assert(celo(motacilo,'motaci.0o','鴒[líng],鸰[líng]')).
+assert(celo(motacilo,'motaci.0o','鶺[jí]')).
+assert(celo(moteo,'mote.0o','蠹[dù]')).
+assert(celo(moteo,'mote.0o','灯蛾[dēng é],燈蛾[dēng é]')).
+assert(celo(moteo,'mote.0o','飛蛾[fēi é],飞蛾[fēi é]')).
+assert(celo(motivigi,'motiv.0igi','不辜負[bù gū fù],不辜负[bù gū fù]')).
+assert(celo(motivigi,'motiv.0igi','表明自己是正确[biǎo míng zì jǐ shì zhèng què],表明自己是正確[biǎo míng zì jǐ shì zhèng què]')).
+assert(celo(motivo,'motiv.0o','心路[xīn lù]')).
+assert(celo(motivo,'motiv.0o','起見[qǐ jiàn],起见[qǐ jiàn]')).
+assert(celo(motivo,'motiv.0o','动机[dòng jī],動機[dòng jī]')).
+assert(celo(motivo,'motiv.0o','动因[dòng yīn],動因[dòng yīn]')).
+assert(celo(ĉefmotivo,'motiv.cxef0o','主导动机[zhǔ dǎo dòng jī],主導動機[zhǔ dǎo dòng jī]')).
+assert(celo(motociklo,'motoci.0o','摩托車[mó tuō chē],摩托车[mó tuō chē]')).
+assert(celo(motoristo,'motor.0isto.auxtisto','开车族[kāi chē zú],開車族[kāi chē zú]')).
+assert(celo(motoristo,'motor.0isto.tehxnikisto','机械师[jī xiè shī],機械師[jī xiè shī]')).
+assert(celo(motoristo,'motor.0isto.tehxnikisto','机械工人[jī xiè gōng rén],機械工人[jī xiè gōng rén]')).
+assert(celo(motoristo,'motor.0isto.tehxnikisto','机务员[jī wù yuán],機務員[jī wù yuán]')).
+assert(celo(motoro,'motor.0o','摩托[mó tuō]')).
+assert(celo(motoro,'motor.0o','馬達[mǎ dá],马达[mǎ dá]')).
+assert(celo(motoro,'motor.0o','引擎[yǐn qíng]')).
+assert(celo(motoro,'motor.0o','发动机[fā dòng jī],發動機[fā dòng jī]')).
+assert(celo(eksplodmotoro,'motor.eksplod0o','內燃機[nèi rán jī],内燃机[nèi rán jī]')).
+assert(celo(eksplodmotoro,'motor.eksplod0o','发动机[fā dòng jī],發動機[fā dòng jī]')).
+assert(celo(eksplodmotoro,'motor.eksplod0o','燃机[rán jī],燃機[rán jī]')).
+assert(celo(vapormotoro,'motor.vapor0o','蒸汽机[zhēng qì jī],蒸汽機[zhēng qì jī]')).
+assert(celo(movado,'mov.0ado','吪[é]')).
+assert(celo(movado,'mov.0ado','动作[dòng zuò],動作[dòng zuò]')).
+assert(celo(movado,'mov.0ado','运动[yùn dòng],運動[yùn dòng]')).
+assert(celo(movado,'mov.0ado','政治运动[zhèng zhì yùn dòng],政治運動[zhèng zhì yùn dòng]')).
+assert(celo(movebla,'mov.0ebla','可动[kě dòng],可動[kě dòng]')).
+assert(celo(movebla,'mov.0ebla','浮[fú]')).
+assert(celo(moveblaĵo,'mov.0eblajxo.JUR','机动性[jī dòng xìng],機動性[jī dòng xìng]')).
+assert(celo(movi,'mov.0i','移动[yí dòng],移動[yí dòng]')).
+assert(celo(movi,'mov.0i','动[dòng],動[dòng]')).
+assert(celo(movi,'mov.0i','挪动[nuó dòng],挪動[nuó dòng]')).
+assert(celo(movi,'mov.0i','移[yí]')).
+assert(celo(movi,'mov.0i','媻[pán]')).
+assert(celo(movi,'mov.0i','挪[nuó]')).
+assert(celo(moviĝema,'mov.0igxema','可动[kě dòng],可動[kě dòng]')).
+assert(celo(moviĝemo,'','可动[kě dòng],可動[kě dòng]')).
+assert(celo(moviĝi,'mov.0igxi','活动[huó dòng],活動[huó dòng]')).
+assert(celo(moviĝi,'mov.0igxi','跞[lì],躒[lì]')).
+assert(celo(movilo,'mov.0ilo','传动齿轮[chuán dòng chǐ lún],傳動齒輪[chuán dòng chǐ lún]')).
+assert(celo(movilo,'mov.0ilo','起因[qǐ yīn]')).
+assert(celo(movo,'mov.0o','动作[dòng zuò],動作[dòng zuò]')).
+assert(celo(movo,'mov.0o','吪[é]')).
+assert(celo(movo,'mov.0o','措举[cuò jǔ],措舉[cuò jǔ]')).
+assert(celo(elmoviĝi,'mov.el0igxi','离去[lí qù],離去[lí qù]')).
+assert(celo(nemoveblaĵo,'mov.ne0eblajxo','物业[wù yè],物業[wù yè]')).
+assert(celo(nemoveblaĵo,'mov.ne0eblajxo','产业[chǎn yè],產業[chǎn yè]')).
+assert(celo(nemoveblaĵo,'mov.ne0eblajxo','不动产[bù dòng chǎn],不動產[bù dòng chǎn]')).
+assert(celo(nemoveblaĵo,'','动产[dòng chǎn],動產[dòng chǎn]')).
+assert(celo(nemoviĝemo,'mov.ne0igxemo','惯性原理[guàn xìng yuán lǐ],慣性原理[guàn xìng yuán lǐ]')).
+assert(celo(propramove,'mov.propra0e','主动[zhǔ dòng],主動[zhǔ dòng]')).
+assert(celo(propramove,'mov.propra0e','自发[zì fā],自發[zì fā]')).
+assert(celo(senmova,'mov.sen0a','静止[jìng zhǐ],靜止[jìng zhǐ]')).
+assert(celo(senmova,'mov.sen0a','一动不动[yī dòng bù dòng],一動不動[yī dòng bù dòng]')).
+assert(celo(senmova,'mov.sen0a','紋絲不動[wén sī bù dòng],纹丝不动[wén sī bù dòng]')).
+assert(celo(senmova,'mov.sen0a','紋絲未動[wén sī wèi dòng],纹丝未动[wén sī wèi dòng]')).
+assert(celo(senmova,'mov.sen0a','不能移动[bù néng yí dòng],不能移動[bù néng yí dòng]')).
+assert(celo(senmova,'mov.sen0a','僵住[jiāng zhù]')).
+assert(celo(senmovigi,'mov.sen0igi','停止[tíng zhǐ]')).
+assert(celo(senmovigi,'mov.sen0igi','堨[è]')).
+assert(celo(senmovigi,'mov.sen0igi','緝拿[jī ná],缉拿[jī ná]')).
+assert(celo(senmovigi,'mov.sen0igi','使麻痹[shǐ má bì],使麻痺[shǐ má bì]')).
+assert(celo(movimento,'moviment.0o','乐章[yuè zhāng],樂章[yuè zhāng]')).
+assert(celo(mozaiko,'mozaik.0o','馬賽克[mǎ sài kè],马赛克[mǎ sài kè]')).
+assert(celo(mozaiko,'mozaik.0o','魔賽克[mó sài kè],魔赛克[mó sài kè]')).
+assert(celo('Mozambiko','mozambik.M0o','莫桑比克[Mò sāng bǐ kè]')).
+assert(celo('Mozambiko','mozambik.M0o','莫三比克[Mò sān bǐ kè]')).
+assert(celo('Mozarto','mozart.0o','莫扎特[mò zhā tè]')).
+assert(celo(mucida,'mucid.0a.FIG','带霉[dài méi],帶霉[dài méi]')).
+assert(celo(mucida,'mucid.0a.FIG','不时髦[bù shí máo],不時髦[bù shí máo]')).
+assert(celo(mucida,'mucid.0a.FIG','老土[lǎo tǔ]')).
+assert(celo(muelejo,'muel.0ejo','碾磨厂[niǎn mò chǎng],碾磨廠[niǎn mò chǎng]')).
+assert(celo(muelejo,'muel.0ejo','磨坊[mò fáng]')).
+assert(celo(muelejo,'muel.0ejo','磨房[mò fáng]')).
+assert(celo(muelejo,'muel.0ejo','磨粉机[mó fěn jī],磨粉機[mó fěn jī]')).
+assert(celo(mueli,'muel.0i','磨[mò]')).
+assert(celo(mueli,'muel.0i','碾磨[niǎn mó]')).
+assert(celo(mueli,'muel.0i','砻[lóng],礱[lóng]')).
+assert(celo(muelilo,'muel.0ilo','碾磨机[niǎn mò jī],碾磨機[niǎn mò jī]')).
+assert(celo(muelilo,'muel.0ilo','磨粉机[mó fěn jī],磨粉機[mó fěn jī]')).
+retract(celo(muelejo,'muel.0ejo','磨粉机[mó fěn jī],磨粉機[mó fěn jī]')).
+assert(celo(muelisto,'muel.0isto','磨坊主[mò fáng zhǔ]')).
+assert(celo(muelisto,'muel.0isto','面粉师[miàn fěn shī],麵粉師[miàn fěn shī]')).
+assert(celo(kafmuelilo,'muel.kaf0ilo','研磨咖啡[yán mó kā fēi],硏磨咖啡[yán mó kā fēi]')).
+assert(celo(vortmueli,'muel.vort0i','唠叨[láo dao],嘮叨[láo dao]')).
+assert(celo(vortmueli,'muel.vort0i','喋[dié]')).
+assert(celo(vortmueli,'muel.vort0i','唠[láo],嘮[láo]')).
+assert(celo(vortmueli,'muel.vort0i','唠唠叨叨[láo lao dāo dāo],嘮嘮叨叨[láo lao dāo dāo]')).
+assert(celo(mufo,'muf.0o.TEKS_tuba','室內汙濁空氣[shì nèi wū zhuó kōng qì],室内污浊空气[shì nèi wū zhuó kōng qì]')).
+retractall(celo(mufo,_,_),1).
+assert(celo(mugilo,'mugil.0o','鯔[zī],鲻[zī]')).
+assert(celo(muĝi,'mugx.0i','吼[hǒu]')).
+assert(celo(muĝi,'mugx.0i','吼叫[hǒu jiào]')).
+assert(celo(muĝi,'mugx.0i','咆[páo]')).
+assert(celo('Muhamado','muhama.0o','穆罕默德[mù hǎn mò dé]')).
+assert(celo('Mohamedo','','穆罕默德][Mò hǎn mò dé],默罕默德[Mò hǎn mò dé]')).
+assert(celo(muka,'muk.0a','泥泞[ní nìng],泥濘[ní nìng]')).
+assert(celo(muka,'muk.0a','粘液性[nián yè xìng]')).
+assert(celo(muka,'muk.0a','粘液的[zhān yè de]')).
+assert(celo(muko,'muk.0o','漦[lí]')).
+assert(celo(muko,'muk.0o','黏液[nián yè]')).
+assert(celo(muko,'muk.0o','鼻涕[bí tì]')).
+assert(celo(muko,'muk.0o','洟[tì]')).
+assert(celo(muko,'muk.0o','粘液[nián yè]')).
+assert(celo(nazmuko,'muk.naz0o','鼻屎[bí shǐ]')).
+assert(celo(nazmuko,'muk.naz0o','鼻涕[bí tì]')).
+assert(celo(nazmuko,'','洟[tì]')).
+assert(celo(nazmukulo,'muk.naz0ulo.infano','小祖宗[xiǎo zǔ zōng]')).
+assert(celo(mukozo,'mukoz.0o','粘膜[nián mó]')).
+assert(celo(mukozo,'mukoz.0o','黏膜[nián mò]')).
+assert(celo(mulo,'mul.0o.cxevalina','驘[luó],骡[luó]')).
+assert(celo(mulo,'mul.0o.cxevalina','騾[luó],骡[luó]')).
+assert(celo(mulo,'mul.0o.hino','驢騾[lǘ luó],驴骡[lǘ luó]')).
+assert(celo(mulao,'mula.0o','伊斯兰教高僧[yī sī lán jiào gāo sēng],伊斯蘭教高僧[yī sī lán jiào gāo sēng]')).
+assert(celo(mulao,'mula.0o','土耳其地方法官[tǔ ěr qí dì fang fǎ guān]')).
+assert(celo(mulao,'mula.0o','毛拉[máo lā]')).
+assert(celo(muldado,'muld.0ado.TEK','鑄造[zhù zào],铸造[zhù zào]')).
+assert(celo(muldaĵo,'muld.0ajxo','鑄造[zhù zào],铸造[zhù zào]')).
+assert(celo(muldaĵo,'muld.0ajxo','投掷[tóu zhí],投擲[tóu zhí]')).
+assert(celo(muldi,'muld.0i','浇铸[jiāo zhù],澆鑄[jiāo zhù]')).
+assert(celo(muldi,'muld.0i','鑄造[zhù zào],铸造[zhù zào]')).
+assert(celo(muldilo,'muld.0ilo','鑄型[zhù xíng],铸型[zhù xíng]')).
+assert(celo(muldilo,'muld.0ilo','鑄模[zhù mú],铸模[zhù mú]')).
+assert(celo(muldisto,'muld.0isto','鑄造工[zhù zào gōng],铸造工[zhù zào gōng]')).
+assert(celo(muldisto,'muld.0isto','鑄工[zhù gōng],铸工[zhù gōng]')).
+assert(celo(muldo,'muld.0o','鑄造[zhù zào],铸造[zhù zào]')).
+assert(celo(multa,'mult.0a','好多[hǎo duō]')).
+assert(celo(multa,'mult.0a','許多[xǔ duō],许多[xǔ duō]')).
+assert(celo(multe,'mult.0e','很多[hěn duō]')).
+assert(celo(multe,'mult.0e','七分[qī fēn]')).
+assert(celo(multigi,'mult.0igi','增加[zēng jiā]')).
+assert(celo(multigi,'mult.0igi','增長[zēng zhǎng],增长[zēng zhǎng]')).
+assert(celo(multiĝi,'mult.0igxi','繁衍[fán yǎn]')).
+assert(celo(multiĝi,'mult.0igxi','增多[zēng duō]')).
+assert(celo(multiĝi,'mult.0igxi','滋生[zī shēng]')).
+assert(celo(multo,'mult.0o','合众[hé zhòng],合眾[hé zhòng]')).
+assert(celo(multo,'mult.0o','堆[duī]')).
+assert(celo(multo,'mult.0o','大批[dà pī]')).
+assert(celo(multo,'mult.0o','堆积如山[duī jī rú shān],堆積如山[duī jī rú shān]')).
+assert(celo(multo,'mult.0o','甡[shēn]')).
+assert(celo(multopa,'mult.0opa','倍数[bèi shù],倍數[bèi shù]')).
+assert(celo(multopa,'mult.0opa','多种[duō zhǒng],多種[duō zhǒng]')).
+assert(celo(malmulta,'mult.mal0a','寡[guǎ]')).
+assert(celo(malmulta,'mult.mal0a','少許[shǎo xǔ],少许[shǎo xǔ]')).
+assert(celo(malmulta,'mult.mal0a','少数[shǎo shù],少數[shǎo shù]')).
+assert(celo(malmulta,'mult.mal0a','啲[dī]')).
+assert(celo(malmulta,'mult.mal0a','有点[yǒu diǎn],有點[yǒu diǎn]')).
