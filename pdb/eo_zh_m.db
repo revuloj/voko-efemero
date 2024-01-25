@@ -2979,3 +2979,207 @@ assert(celo(malmulta,'mult.mal0a','少許[shǎo xǔ],少许[shǎo xǔ]')).
 assert(celo(malmulta,'mult.mal0a','少数[shǎo shù],少數[shǎo shù]')).
 assert(celo(malmulta,'mult.mal0a','啲[dī]')).
 assert(celo(malmulta,'mult.mal0a','有点[yǒu diǎn],有點[yǒu diǎn]')).
+assert(celo(malmulte,'mult.mal0e','寡[guǎ]')).
+assert(celo(malmulte,'mult.mal0e','不多[bù duō]')).
+assert(celo(malmulte,'mult.mal0e','几分[jǐ fēn],幾分[jǐ fēn]')).
+assert(celo(malmultiĝi,'mult.mal0igxi','下降[xià jiàng]')).
+assert(celo(malmultiĝi,'mult.mal0igxi','减[jiǎn],減[jiǎn]')).
+assert(celo(malmultiĝi,'mult.mal0igxi','縮小[suō xiǎo],缩小[suō xiǎo]')).
+assert(celo(malmultiĝi,'mult.mal0igxi','消退[xiāo tuì]')).
+assert(celo(malplimulto,'mult.malpli0o','少数[shǎo shù],少數[shǎo shù]')).
+assert(celo(malplimulto,'mult.malpli0o','少数民族[shǎo shù mín zú],少數民族[shǎo shù mín zú]')).
+assert(celo(nemalmulta,'mult.nemal0a','实质性[shí zhì xìng],實質性[shí zhì xìng]')).
+assert(celo(nemalmulta,'mult.nemal0a','甚巨[shèn jù]')).
+assert(celo(nemalmulta,'mult.nemal0a','甚鉅[shèn jù],甚钜[shèn jù]')).
+assert(celo(nemalmulta,'mult.nemal0a','充实[chōng shí],充實[chōng shí]')).
+assert(celo('plej multe','mult.plej_0e','大多[dà duō]')).
+assert(celo('plej multe','mult.plej_0e','多半[duō bàn]')).
+assert(celo(nemalmulte,'','可觀[kě guān],可观[kě guān]')).
+assert(celo(plimulto,'mult.pli0o','絕大多數[jué dà duō shù],绝大多数[jué dà duō shù]')).
+assert(celo(plimulto,'mult.pli0o','大多数[dà duō shù],大多數[dà duō shù]')).
+assert(celo(plimulto,'mult.pli0o','多数[duō shù],多數[duō shù]')).
+assert(celo(plimulto,'mult.pli0o','大部份[dà bù fen],大部分[dà bù fen]')).
+assert(celo('Multano','multan.0o','木尔坦[mù ěr tǎn],木爾坦[mù ěr tǎn]')).
+assert(celo(multiplikanto,'multip.0anto','倍数[bèi shù],倍數[bèi shù]')).
+assert(celo(multiplikato,'multip.0ato','被乘数[bèi chéng shù],被乘數[bèi chéng shù]')).
+assert(celo(multipliki,'multip.0i','相乘[xiāng chéng]')).
+assert(celo(multipliko,'multip.0o','乘法[chéng fǎ]')).
+assert(celo(multipliko,'multip.0o','倍增[bèi zēng]')).
+assert(celo('Mumbajo','mumbaj.0o','孟买[Mèng mǎi],孟買[Mèng mǎi]')).
+assert(celo(mumio,'mumi.0o','木乃伊[mù nǎi yī]')).
+assert(celo(mumio,'mumi.0o','乾屍[gān shī],干尸[gān shī]')).
+assert(celo(mumpso,'mumps.0o','腮腺炎[sāi xiàn yán]')).
+assert(celo(mumpso,'mumps.0o','痄[zhà]')).
+assert(celo(mumpso,'mumps.0o','流行性腮腺炎[liú xíng xìng sāi xiàn yán]')).
+assert(celo(mungi,'mung.0i','擤[xǐng]')).
+assert(celo(mungi,'mung.0i','擤鼻涕[xǐng bí tì]')).
+assert(celo(mungoto,'mungot.0o','獴[měng]')).
+assert(celo(mungoto,'mungot.0o','猸子[méi zi]')).
+assert(celo(mungoto,'mungot.0o','棕蓑猫[zōng suō māo],棕蓑貓[zōng suō māo]')).
+assert(celo(municiejo,'munici.0ejo','军火库[jūn huǒ kù],軍火庫[jūn huǒ kù]')).
+assert(celo(municio,'munici.0o','弹药[dàn yào],彈藥[dàn yào]')).
+assert(celo(municipo,'municip.0o','市[shì]')).
+assert(celo(municipo,'municip.0o','基层政权[jī céng zhèng quán],基層政權[jī céng zhèng quán]')).
+assert(celo(municipo,'municip.0o','行政村[xíng zhèng cūn]')).
+assert(celo('Munkeno','munken.0o','慕尼黑[Mù ní hēi]')).
+assert(celo(muntaĵo,'munt.0ajxo','蒙太奇[méng tài qí]')).
+assert(celo(munti,'munt.0i','組合[zǔ hé],组合[zǔ hé]')).
+assert(celo(munti,'munt.0i','蕞[zuì]')).
+assert(celo(munti,'munt.0i','装配[zhuāng pèi],裝配[zhuāng pèi]')).
+assert(celo(munti,'munt.0i','会集[huì jí],會集[huì jí]')).
+assert(celo(muntisto,'munt.0isto.TEK','安装工人[ān zhuāng gōng rén],安裝工人[ān zhuāng gōng rén]')).
+assert(celo(muntisto,'munt.0isto.TEK','装配工[zhuāng pèi gōng],裝配工[zhuāng pèi gōng]')).
+assert(celo(muntisto,'munt.0isto.TEK','装配工人[zhuāng pèi gōng rén],裝配工人[zhuāng pèi gōng rén]')).
+assert(celo(muntisto,'munt.0isto.TEK','装配技师[zhuāng pèi jì shī],裝配技師[zhuāng pèi jì shī]')).
+assert(celo(enmunti,'munt.en0i','內建[nèi jiàn],内建[nèi jiàn]')).
+assert(celo(enmunti,'munt.en0i','插上[chā shang]')).
+assert(celo(enmunti,'munt.en0i','插入[chā rù]')).
+assert(celo(malmunti,'munt.mal0i','拆除[chāi chú]')).
+assert(celo(malmunti,'munt.mal0i','拆下[chāi xià]')).
+assert(celo(malmunti,'munt.mal0i','拆开[chāi kāi],拆開[chāi kāi]')).
+assert(celo(malmunti,'munt.mal0i','拆卸[chāi xiè]')).
+assert(celo(malmunti,'munt.mal0i','拆解[chāi jiě]')).
+assert(celo(malmunti,'munt.mal0i','拆[chāi]')).
+assert(celo(muono,'muon.0o','渺子[miǎo zǐ]')).
+assert(celo(murego,'mur.0ego','城[chéng]')).
+assert(celo(murego,'mur.0ego','城墙[chéng qiáng],城牆[chéng qiáng]')).
+assert(celo(mureto,'mur.0eto','埤[pí]')).
+assert(celo(mureto,'mur.0eto','堳[méi]')).
+assert(celo(ĉirkaŭmuro,'mur.cxirkaux0o','边饰[biān shì],邊飾[biān shì]')).
+retract(celo(ĉirkaŭmuro,'mur.cxirkaux0o','边饰[biān shì],邊飾[biān shì]')).
+assert(celo('Granda Muro','mur.granda0o','万里长城[wàn lǐ cháng chéng],萬裡長城[wàn lǐ cháng chéng]')).
+assert(celo('Granda Muro','mur.granda0o','長城[cháng chéng],长城[cháng chéng]')).
+assert(celo(murdi,'murd.0i','杀害[shā hài],殺害[shā hài]')).
+assert(celo(murdi,'murd.0i','謀殺[móu shā],谋杀[móu shā]')).
+assert(celo(murdi,'murd.0i','被杀[bèi shā],被殺[bèi shā]')).
+assert(celo(murdi,'murd.0i','兇殺[xiōng shā],凶杀[xiōng shā]')).
+assert(celo(murdinto,'murd.0into','兇手[xiōng shǒu],凶手[xiōng shǒu]')).
+assert(celo(murdinto,'murd.0into','杀人犯[shā rén fàn],殺人犯[shā rén fàn]')).
+assert(celo(murdinto,'murd.0into','兇犯[xiōng fàn],凶犯[xiōng fàn]')).
+assert(celo(murdisto,'murd.0isto','兇手[xiōng shǒu],凶手[xiōng shǒu]')).
+assert(celo(murdisto,'murd.0isto','杀手[shā shǒu],殺手[shā shǒu]')).
+assert(celo(murdo,'murd.0o','謀殺[móu shā],谋杀[móu shā]')).
+assert(celo(murdo,'murd.0o','兇殺[xiōng shā],凶杀[xiōng shā]')).
+assert(celo(murdo,'murd.0o','杀人[shā rén],殺人[shā rén]')).
+assert(celo(murdo,'murd.0o','謀殺案[móu shā àn],谋杀案[móu shā àn]')).
+assert(celo(murdo,'murd.0o','杀害[shā hài],殺害[shā hài]')).
+assert(celo(amasmurdi,'murd.amas0i','杀戮[shā lù],殺戮[shā lù]')).
+assert(celo(amasmurdi,'murd.amas0i','屠杀[tú shā],屠殺[tú shā]')).
+assert(celo(amasmurdo,'murd.amas0o','屠戮[tú lù]')).
+assert(celo(amasmurdo,'murd.amas0o','大屠杀[dà tú shā],大屠殺[dà tú shā]')).
+assert(celo(bebomurdo,'murd.beb0o','杀婴[shā yīng],殺嬰[shā yīng]')).
+assert(celo(gentomurdo,'murd.gento0o','种族灭绝[zhǒng zú miè jué],種族滅絕[zhǒng zú miè jué]')).
+assert(celo(gentomurdo,'murd.gento0o','滅種罪[miè zhǒng zuì],灭种罪[miè zhǒng zuì]')).
+assert(celo(gentomurdo,'murd.gento0o','种族清洗[zhǒng zú qīng xǐ],種族清洗[zhǒng zú qīng xǐ]')).
+assert(celo(gentomurdo,'murd.gento0o','集体屠杀[jí tǐ tú shā],集體屠殺[jí tǐ tú shā]')).
+assert(celo(gentomurdo,'murd.gento0o','种族大屠杀[zhǒng zú dà tú shā],種族大屠殺[zhǒng zú dà tú shā]')).
+assert(celo(infanmurdo,'murd.infan0o','杀婴[shā yīng],殺嬰[shā yīng]')).
+assert(celo(rabomurdo,'murd.rabo0o','抢劫杀人案[qiǎng jié shā rén àn],搶劫殺人案[qiǎng jié shā rén àn]')).
+assert(celo(serimurdisto,'murd.seri0isto','连环杀手[lián huán shā shǒu],連環殺手[lián huán shā shǒu]')).
+assert(celo(venĝomurdo,'murd.vengxo0o','血仇[xuè chou]')).
+assert(celo(mureno,'muren.0o','海鱔[hǎi shàn],海鳝[hǎi shàn]')).
+assert(celo(mumuregi,'','鬫[kàn]')).
+assert(celo(murmureti,'murmur.0eti','嗡[wēng]')).
+assert(celo(murmureti,'murmur.0eti','潺潺[chán chán]')).
+assert(celo(murmureto,'murmur.0eto','窣[sù]')).
+assert(celo(murmureto,'murmur.0eto','呜噜[wū lū],嗚嚕[wū lū]')).
+assert(celo(murmureti,'','嗡嗡[wēng wēng]')).
+assert(celo(murmuri,'murmur.0i','喃喃[nán nán]')).
+assert(celo(murmuri,'murmur.0i','潺潺[chán chán]')).
+assert(celo(murmuri,'murmur.0i','呫[tiè]')).
+assert(celo(murmuri,'murmur.0i','低吟[dī yín]')).
+assert(celo(murmuri,'murmur.0i','咕哝[gū nong],咕噥[gū nong]')).
+assert(celo(murmuri,'murmur.0i','囔囔[nāng nang]')).
+assert(celo(murmuri,'murmur.0i','讟[dú],𮙋[dú]')).
+assert(celo(murmuri,'murmur.0i','咕[gū]')).
+assert(celo(murmuri,'murmur.0i','讟[dú]')).
+assert(celo(murmuri,'murmur.0i','低語[dī yǔ],低语[dī yǔ]')).
+assert(celo(murmuri,'murmur.0i','私語[sī yǔ],私语[sī yǔ]')).
+assert(celo(murmuri,'murmur.0i','囔[nāng]')).
+assert(celo(murmuro,'murmur.0o','喳喳[chā cha]')).
+assert(celo(murmuro,'murmur.0o','嘁[qī]')).
+assert(celo(muso,'mus.0o','小鼠[xiǎo shǔ]')).
+assert(celo(muso,'mus.0o','鼷[xī]')).
+assert(celo(muso,'mus.0o','老鼠[lǎo shǔ]')).
+assert(celo(muso,'mus.0o','鼠标[shǔ biāo],鼠標[shǔ biāo]')).
+assert(celo(muso,'mus.0o','耗子[hào zi]')).
+assert(celo(muso,'mus.0o','滑鼠[huá shǔ]')).
+assert(celo(muso,'mus.0o','小家鼠[xiǎo jiā shǔ]')).
+assert(celo(muso,'mus.0o','游鼠[yóu shǔ],遊鼠[yóu shǔ]')).
+assert(celo(muso,'mus.0o','鼠[shǔ]')).
+assert(celo(muso,'mus.0o','鼷鼠[xī shǔ]')).
+assert(celo(dormomuso,'mus.dormo0o','睡鼠[shuì shǔ]')).
+assert(celo(kampomuso,'mus.kampo0o.ZOO','田鼠[tián shǔ]')).
+assert(celo('Miĉjo Muso','mus.micxj0o','米老鼠[Mǐ Lǎo shǔ]')).
+assert(celo(musko,'musk.0o.KOMUNE','藓[xiǎn],蘚[xiǎn]')).
+assert(celo(musko,'musk.0o.KOMUNE','苔[tái]')).
+assert(celo(musko,'musk.0o.KOMUNE','苔藓[tái xiǎn],苔蘚[tái xiǎn]')).
+assert(celo(musko,'musk.0o.KOMUNE','青苔[qīng tái]')).
+assert(celo(hepatomuskoj,'musk.hepato0oj.BOT','苔綱[tái gāng],苔纲[tái gāng]')).
+assert(celo(kornomuskoj,'musk.korno0oj.BOT','苲草[zhǎ cǎo]')).
+assert(celo(muskatarbo,'muskat.0arbo','肉豆蔻[ròu dòu kòu]')).
+assert(celo(muskato,'muskat.0o','肉豆蔻[ròu dòu kòu]')).
+assert(celo(muskatvino,'muskat.0vino','麝香葡萄酒[shè xiāng pú táo jiǔ]')).
+assert(celo(muskedisto,'musked.0isto','火枪手[huǒ qiāng shǒu],火槍手[huǒ qiāng shǒu]')).
+assert(celo(muskedisto,'musked.0isto','持步枪的士兵[chí bù qiāng dì shì bīng],持步槍的士兵[chí bù qiāng dì shì bīng]')).
+assert(celo(muskola,'muskol.0a','肌肉发达[jī ròu fā dá],肌肉發達[jī ròu fā dá]')).
+assert(celo(muskola,'muskol.0a','肌肉多[jī ròu duō]')).
+assert(celo(muskolo,'muskol.0o','肌肉[jī ròu]')).
+assert(celo(muskolaro,'','肌肉[jī ròu]')).
+assert(celo(muslio,'musli.0o','燕麥片[yàn mài piàn],燕麦片[yàn mài piàn]')).
+assert(celo(muslio,'musli.0o','粮谷[liáng gǔ],糧穀[liáng gǔ]')).
+assert(celo(muslino,'muslin.0o','紗[shā],纱[shā]')).
+assert(celo(muslino,'muslin.0o','平紋細布[píng wén xì bù],平纹细布[píng wén xì bù]')).
+assert(celo(musono,'muson.0o','霉雨[méi yǔ]')).
+assert(celo(musono,'muson.0o','梅雨[méi yǔ]')).
+assert(celo(musono,'muson.0o','季風[jì fēng],季风[jì fēng]')).
+assert(celo(mustardo,'mustar.0o','芥[jiè]')).
+assert(celo(mustardo,'mustar.0o','芥末[jiè mo]')).
+assert(celo(mustelo,'mustel.0o','鼪[shēng]')).
+assert(celo(mustelo,'mustel.0o','鼬[yòu]')).
+assert(celo(mustelo,'mustel.0o','伶鼬[líng yòu]')).
+assert(celo(musteledoj,'mustel1.0oj','貂科[diāo kē]')).
+assert(celo(muŝo,'musx.0o','蝇[yíng],蠅[yíng]')).
+assert(celo(muŝo,'musx.0o','苍蝇[cāng ying],蒼蠅[cāng ying]')).
+assert(celo('Muŝo','musx.M0o','苍蝇座[Cāng ying zuò],蒼蠅座[Cāng ying zuò]')).
+assert(celo(bananmuŝo,'musx.banan0o','果蝇[guǒ yíng],果蠅[guǒ yíng]')).
+assert(celo(muta,'mut.0a','哑[yǎ],啞[yǎ]')).
+assert(celo(muta,'mut.0a','无声[wú shēng],無聲[wú shēng]')).
+assert(celo(muta,'mut.0a','哑巴[yǎ ba],啞巴[yǎ ba]')).
+assert(celo(muta,'mut.0a','哑[yā],啞[yā]')).
+assert(celo(muta,'mut.0a','不会说话[bù huì shuō huà],不會說話[bù huì shuō huà]')).
+assert(celo(muta,'mut.0a','緘默[jiān mò],缄默[jiān mò]')).
+assert(celo(mutulo,'mut.0ulo','哑子[yǎ zi],啞子[yǎ zi]')).
+assert(celo(surdomutulo,'mut.surdo0ulo','聋哑人[lóng yǎ rén],聾啞人[lóng yǎ rén]')).
+assert(celo(mutacio,'mutaci.0o','突变[tū biàn],突變[tū biàn]')).
+assert(celo(mutacio,'mutaci.0o','基因变异[jī yīn biàn yì],基因變異[jī yīn biàn yì]')).
+assert(celo(mutili,'mutil.0i','使不完整[shǐ bù wán zhěng]')).
+assert(celo(mutili,'mutil.0i','使残废[shǐ cán fèi],使殘廢[shǐ cán fèi]')).
+assert(celo(mutuala,'mutual.0a','自相[zì xiāng]')).
+assert(celo(mutuala,'mutual.0a','互相[hù xiāng]')).
+assert(celo(mutuala,'mutual.0a','互[hù]')).
+assert(celo(mutuala,'mutual.0a','交互[jiāo hù]')).
+assert(celo(muzelingo,'muzel.0ingo','口絡[kǒu luò],口络[kǒu luò]')).
+assert(celo(muzelo,'muzel.0o','吻部[wěn bù]')).
+assert(celo(muzikaĵo,'muzik.0ajxo','乐曲[yuè qǔ],樂曲[yuè qǔ]')).
+assert(celo(muzikilo,'muzik.0ilo','乐器[yuè qì],樂器[yuè qì]')).
+assert(celo(muzikilo,'muzik.0ilo','璈[áo]')).
+assert(celo(muzikilo,'muzik.0ilo','追[duī]')).
+assert(celo(muzikilo,'','鐻[jù]')).
+assert(celo(muzikistaro,'muzik.0istaro','乐队[yuè duì],樂隊[yuè duì]')).
+assert(celo(muzikistaro,'muzik.0istaro','乐团[yuè tuán],樂團[yuè tuán]')).
+assert(celo(muzikistaro,'muzik.0istaro','管弦乐队[guǎn xián yuè duì],管弦樂隊[guǎn xián yuè duì]')).
+assert(celo(muzikistaro,'muzik.0istaro','管弦乐团[guǎn xián yuè tuán],管弦樂團[guǎn xián yuè tuán]')).
+assert(celo(muzikistaro,'muzik.0istaro','交响乐团[jiāo xiǎng yuè tuán],交響樂團[jiāo xiǎng yuè tuán]')).
+assert(celo(muzikisto,'muzik.0isto','音乐家[yīn yuè jiā],音樂家[yīn yuè jiā]')).
+assert(celo(muzikisto,'muzik.0isto','乐师[yuè shī],樂師[yuè shī]')).
+assert(celo(muzikosciencisto,'muzik.0osciencisto','乐学者[yuè xué zhě],樂學者[yuè xué zhě]')).
+assert(celo(muzikosciencisto,'muzik.0osciencisto','音乐学者[yīn yuè xué zhě],音樂學者[yīn yuè xué zhě]')).
+assert(celo(muzikoscienco,'muzik.0oscienco','音乐学[yīn yuè xué],音樂學[yīn yuè xué]')).
+assert(celo(ĉambromuziko,'muzik.cxambro0o','室內樂[shì nèi yuè],室内乐[shì nèi yuè]')).
+assert(celo(orkestromuziko,'muzik.orkestro0o','管弦乐[guǎn xián yuè],管弦樂[guǎn xián yuè]')).
+assert(celo(muzikalo,'muzikal.0o','音乐剧[yīn yuè jù],音樂劇[yīn yuè jù]')).
+assert(celo(muzikologo,'muzikolog.0o','音乐学者[yīn yuè xué zhě],音樂學者[yīn yuè xué zhě]')).
+assert(celo(muzikologiisto,'muzikologi.0isto.MUZ','音乐学者[yīn yuè xué zhě],音樂學者[yīn yuè xué zhě]')).
+assert(celo(muzikologio,'','音乐学[yīn yuè xué],音樂學[yīn yuè xué]')).
+assert(celo(muzulmano,'muzulman.0o','穆斯林[Mù sī lín]')).
