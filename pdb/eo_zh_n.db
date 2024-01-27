@@ -1,0 +1,242 @@
+created(1706374344.5814912).
+assert(celo(nabo,'nab.0o.KOMP','集線器[jí xiàn qì],集线器[jí xiàn qì]')).
+assert(celo(nabo,'nab.0o.TEK','毂[gǔ],轂[gǔ]')).
+assert(celo(nacia,'naci.0a','全国性[quán guó xìng],全國性[quán guó xìng]')).
+assert(celo(nacia,'naci.0a','国立[guó lì],國立[guó lì]')).
+assert(celo(nacia,'naci.0a','对内[duì nèi],對內[duì nèi]')).
+assert(celo(nacianismo,'naci.0ismo','国家主义[guó jiā zhǔ yì],國家主義[guó jiā zhǔ yì]')).
+assert(celo(nacianismo,'naci.0ismo','民族主义[mín zú zhǔ yì],民族主義[mín zú zhǔ yì]')).
+assert(celo(nacieco,'','国籍[guó jí],國籍[guó jí]')).
+assert(celo(nacio,'naci.0o','国族[guó zú],國族[guó zú]')).
+assert(celo(nacio,'naci.0o','国度[guó dù],國度[guó dù]')).
+assert(celo('Unuiĝintaj Nacioj','naci.Unuigxintaj_0oj','联合国[Lián hé guó],聯合國[Lián hé guó]')).
+assert(celo('Unuiĝintaj Nacioj','naci.Unuigxintaj_0oj','联合国组织[lián hé guó zǔ zhī],聯合國組織[lián hé guó zǔ zhī]')).
+assert(celo(alinaciano,'naci.ali0ano','外族[wài zú]')).
+assert(celo(internacia,'naci.inter0a','国际[guó jì],國際[guó jì]')).
+assert(celo(internacia,'naci.inter0a','国际性[guó jì xìng],國際性[guó jì xìng]')).
+assert(celo(internaciismo,'naci.inter0ismo.JUR','国际主义[guó jì zhǔ yì],國際主義[guó jì zhǔ yì]')).
+assert(celo(samnaciano,'naci.sam0ano','同胞[tóng bāo]')).
+assert(celo(samnaciano,'naci.sam0ano','同乡[tóng xiāng],同鄉[tóng xiāng]')).
+assert(celo(samnaciano,'naci.sam0ano','国人[guó rén],國人[guó rén]')).
+assert(celo(nacionalismo,'nacion.0o','民族主义[mín zú zhǔ yì],民族主義[mín zú zhǔ yì]')).
+assert(celo(nadiro,'nadir.0o.AST','最低谷[zuì dī gǔ]')).
+assert(celo(nadiro,'nadir.0o.AST','低谷[dī gǔ]')).
+assert(celo(nadlo,'nadl.0o','針[zhēn],针[zhēn]')).
+assert(celo(nadlo,'nadl.0o','鍼[zhēn],针[zhēn]')).
+assert(celo(nadlo,'nadl.0o','机针[jī zhēn],機針[jī zhēn]')).
+assert(celo(nafto,'naft.0o','原油[yuán yóu]')).
+assert(celo(nafto,'naft.0o','石油[shí yóu]')).
+assert(celo(naftoputo,'naft.0oputo','油井[yóu jǐng]')).
+assert(celo(naftoŝipo,'naft.0osxipo','油船[yóu chuán]')).
+assert(celo(naftoŝipo,'naft.0osxipo','油輪[yóu lún],油轮[yóu lún]')).
+assert(celo(naftalino,'naftal.0o','萘[nài]')).
+assert(celo(naftolo,'naftol.0o','萘酚[nài fēn]')).
+assert(celo('Nagalando','naga.0lando','那加兰邦[nà jiā lán bāng],那加蘭邦[nà jiā lán bāng]')).
+assert(celo('Nagasako','nagasak.0o.havenurbo','長崎[Cháng qí],长崎[Cháng qí]')).
+assert(celo('Nagojo','nagoj.0o','名古屋[Míng gǔ wū]')).
+assert(celo('Nagojo','nagoj.0o','名古屋市[míng gǔ wū shì]')).
+assert(celo(naĝejo,'nagx.0ejo','池游泳[chí yóu yǒng]')).
+assert(celo(naĝejo,'nagx.0ejo','陂[bēi]')).
+assert(celo(naĝejo,'nagx.0ejo','游泳场[yóu yǒng chǎng],游泳場[yóu yǒng chǎng]')).
+assert(celo(naĝi,'nagx.0i','泳[yǒng]')).
+assert(celo(naĝi,'nagx.0i','游[yóu],遊[yóu]')).
+assert(celo(naĝi,'nagx.0i','游泳[yóu yǒng]')).
+assert(celo(naĝi,'nagx.0i','泅水[qiú shuǐ]')).
+assert(celo(naĝi,'nagx.0i','游水[yóu shuǐ]')).
+assert(celo(naĝi,'nagx.0i','凫水[fú shuǐ],鳧水[fú shuǐ]')).
+assert(celo(naĝilo,'nagx.0ilo.ZOO','鰭[qí],鳍[qí]')).
+assert(celo(naĝilo,'nagx.0ilo.ZOO','魚鰭[yú qí],鱼鳍[yú qí]')).
+assert(celo(elnaĝi,'nagx.el0i','萌动[méng dòng],萌動[méng dòng]')).
+assert(celo(elnaĝi,'nagx.el0i','浮出[fú chū]')).
+assert(celo(elnaĝi,'','泛起[fàn qǐ]')).
+assert(celo(subnaĝi,'nagx.sub0i','潛泳[qián yǒng],潜泳[qián yǒng]')).
+assert(celo(subnaĝi,'nagx.sub0i','潛[qián],潜[qián]')).
+assert(celo(subnaĝi,'nagx.sub0i','潛入水中[qián rù shuǐ zhōng],潜入水中[qián rù shuǐ zhōng]')).
+assert(celo(subnaĝi,'nagx.sub0i','跳进[tiào jìn],跳進[tiào jìn]')).
+assert(celo(naiva,'naiv.0a.PSI','素朴[sù pǔ],素樸[sù pǔ]')).
+assert(celo(naiva,'naiv.0a.PSI','天真[tiān zhēn]')).
+assert(celo(naiva,'naiv.0a.PSI','涉世未深[shè shì wèi shēn]')).
+assert(celo(naiveco,'naiv.0eco','无知[wú zhī],無知[wú zhī]')).
+assert(celo(naiveco,'naiv.0eco','孩子气[hái zi qì],孩子氣[hái zi qì]')).
+assert(celo(naiveco,'naiv.0eco','无害[wú hài],無害[wú hài]')).
+assert(celo(naivega,'naiv.0ega','軟耳朵[ruǎn ěr duo],软耳朵[ruǎn ěr duo]')).
+assert(celo(naivega,'naiv.0ega','可欺[kě qī]')).
+assert(celo(najbara,'najbar.0a','邻近[lín jìn],鄰近[lín jìn]')).
+assert(celo(najbara,'najbar.0a','相邻[xiāng lín],相鄰[xiāng lín]')).
+assert(celo(najbara,'najbar.0a','邻[lín],鄰[lín]')).
+assert(celo(najbara,'najbar.0a','附近[fù jìn]')).
+assert(celo(najbaraĵo,'najbar.0ajxo','邻里[lín lǐ],鄰里[lín lǐ]')).
+assert(celo(najbaraĵo,'najbar.0ajxo','邻近[lín jìn],鄰近[lín jìn]')).
+assert(celo(najbaraĵo,'najbar.0ajxo','周围[zhōu wéi],週圍[zhōu wéi]')).
+assert(celo(najbaraĵo,'najbar.0ajxo','邻区[lín qū],鄰區[lín qū]')).
+assert(celo(najbaro,'najbar.0o','邻里[lín lǐ],鄰里[lín lǐ]')).
+assert(celo(najbaro,'najbar.0o','邻居[lín jū],鄰居[lín jū]')).
+assert(celo(najbaro,'najbar.0o','街坊[jiē fāng]')).
+assert(celo(najbaro,'najbar.0o','比邻[bǐ lín],比鄰[bǐ lín]')).
+assert(celo(najbaro,'najbar.0o','邻[lín],鄰[lín]')).
+assert(celo(najbaro,'najbar.0o','邻座[lín zuò],鄰座[lín zuò]')).
+assert(celo(najbaro,'najbar.0o','邻人[lín rén],鄰人[lín rén]')).
+assert(celo(najbaro,'najbar.0o','邻舍[lín shè],鄰舍[lín shè]')).
+assert(celo(najli,'najl.0i','釘[dìng],钉[dìng]')).
+assert(celo(najlo,'najl.0o','釘[dīng],钉[dīng]')).
+assert(celo(najlo,'najl.0o','釘子[dīng zi],钉子[dīng zi]')).
+assert(celo(alnajli,'najl.al0i','釘[dìng],钉[dìng]')).
+assert(celo(lignonajlo,'najl.ligno0o','木釘[mù dīng],木钉[mù dīng]')).
+assert(celo(lignonajlo,'najl.ligno0o','銷子[xiāo zi],销子[xiāo zi]')).
+assert(celo('Najrobo','najrobi.0o','內羅畢[Nèi luó bì],内罗毕[Nèi luó bì]')).
+assert(celo('Najrobo','najrobi.0o','奈洛比[Nài luò bǐ]')).
+assert(celo(najtingalo,'najtin.0o','夜莺[yè yīng],夜鶯[yè yīng]')).
+assert(celo('Namibio','namibi.N0o','納米比亞[Nà mǐ bǐ yà],纳米比亚[Nà mǐ bǐ yà]')).
+assert(celo('Namuro','namur.N0o','那慕尔[nà mù ěr],那慕爾[nà mù ěr]')).
+assert(celo(nana,'nan.0a','侏儒[zhū rú]')).
+assert(celo(nano,'nan.0o','侏儒[zhū rú]')).
+assert(celo(nano,'nan.0o','袖珍人[xiù zhēn rén]')).
+assert(celo(nano,'nan.0o','矮子[ǎi zi]')).
+assert(celo(nano,'nan.0o','侏[zhū]')).
+assert(celo(nandino,'nandin.0o','南天竺[nán tiān zhú]')).
+assert(celo(nandino,'nandin.0o','南天竹[nán tiān zhú]')).
+assert(celo(nandino,'nandin.0o','南天竹属[nán tiān zhú shǔ],南天竹屬[nán tiān zhú shǔ]')).
+assert(celo('nano-','nano.0','納米[nà mǐ],纳米[nà mǐ]')).
+assert(celo('nano-','nano.0','毫微[háo wēi]')).
+assert(celo('Nanto','nant.0o','南特[Nán tè]')).
+assert(celo(napo,'nap.0o','芸苔子[yún tái zǐ]')).
+assert(celo(napokapa,'nap.0okapa','多圈[duō juàn]')).
+assert(celo(napokapa,'nap.0okapa','脑子有泡[nǎo zi yǒu pào],腦子有泡[nǎo zi yǒu pào]')).
+assert(celo(napalmo,'napalm.0o','凝固汽油弹[níng gù qì yóu dàn],凝固汽油彈[níng gù qì yóu dàn]')).
+assert(celo('Napolo','napol.0o','拿坡裡[ná pō lǐ],拿坡里[ná pō lǐ]')).
+assert(celo('Napoleono','napoleon.0o','拿破仑·波拿巴[Ná pò lún · Bō ná bā],拿破崙·波拿巴[Ná pò lún · Bō ná bā]')).
+assert(celo('Napoleono','napoleon.0o','拿破仑[Ná pò lún],拿破侖[Ná pò lún]')).
+assert(celo('Napoleono','napoleon.0o','拿破仑[Ná pò lún],拿破崙[Ná pò lún]')).
+assert(celo(narciso,'narcis.0o','水仙[shuǐ xiān]')).
+assert(celo(narciso,'narcis.0o','水仙花[shuǐ xiān huā]')).
+assert(celo(narciso,'narcis.0o','喇叭水仙[lā bā shuǐ xiān]')).
+assert(celo(narcisismo,'narcis1.0ismo','自恋[zì liàn],自戀[zì liàn]')).
+assert(celo(nargileo,'nargile.0o','水烟袋[shuǐ yān dài],水煙袋[shuǐ yān dài]')).
+assert(celo(nargileo,'nargile.0o','水烟[shuǐ yān],水煙[shuǐ yān]')).
+assert(celo(narkotilo,'narkot.0ajxo','麻醉药品[má zuì yào pǐn],麻醉藥品[má zuì yào pǐn]')).
+assert(celo(narkotilo,'narkot.0ajxo','犯毒[fàn dú]')).
+assert(celo(narkoti,'narkot.0i','麻醉[má zuì]')).
+assert(celo(narkoti,'narkot.0i','使耳聋[shǐ ěr lóng],使耳聾[shǐ ěr lóng]')).
+assert(celo(narkoti,'narkot.0i','麻痹[má bì]')).
+assert(celo(narkotaĵemulo,'narkot.0ulo','瘾君子[yǐn jūn zǐ],癮君子[yǐn jūn zǐ]')).
+assert(celo(narkotaĵemulo,'narkot.0ulo','吸毒者[xī dú zhě]')).
+assert(celo(narkotiko,'narkot1.0o','麻醉药品[má zuì yào pǐn],麻醉藥品[má zuì yào pǐn]')).
+assert(celo(narkotiko,'narkot1.0o','犯毒[fàn dú]')).
+assert(celo(narvalo,'narval.0o','独角鲸[dú jiǎo jīng],獨角鯨[dú jiǎo jīng]')).
+assert(celo(naso,'nas.0o','再次使用[zài cì shǐ yòng]')).
+assert(celo(naso,'nas.0o','水柵[shuǐ zhà],水栅[shuǐ zhà]')).
+assert(celo(naso,'nas.0o','汕[shàn]')).
+assert(celo(naso,'nas.0o','魚籃[yú lán],鱼篮[yú lán]')).
+assert(celo('Nasaŭo','nasaux.0o','拿騷[ná sāo],拿骚[ná sāo]')).
+assert(celo(naskema,'nask.0ema','多产[duō chǎn],多產[duō chǎn]')).
+assert(celo(naskema,'nask.0ema','富饒[fù ráo],富饶[fù ráo]')).
+assert(celo(naskema,'nask.0ema','肥沃[féi wò]')).
+assert(celo(naski,'nask.0i','生育[shēng yù]')).
+assert(celo(naski,'nask.0i','产[chǎn],產[chǎn]')).
+assert(celo(naski,'nask.0i','生孩子[shēng hái zi]')).
+assert(celo(naski,'nask.0i','娩[miǎn]')).
+assert(celo(naskiĝi,'nask.0igxi','誕生[dàn shēng],诞生[dàn shēng]')).
+assert(celo(naskiĝi,'nask.0igxi','降生[jiàng shēng]')).
+assert(celo(naskiĝi,'nask.0igxi','下地[xià dì]')).
+assert(celo(naskiĝi,'nask.0igxi','出世[chū shì]')).
+assert(celo(naskiĝi,'nask.0igxi','降世[jiàng shì]')).
+assert(celo(naskitaro,'nask.0itaro','后[hòu],後[hòu]')).
+assert(celo(naskitaro,'nask.0itaro','后代[hòu dài],後代[hòu dài]')).
+assert(celo(naskitaro,'nask.0itaro','子孙[zǐ sūn],子孫[zǐ sūn]')).
+assert(celo(naskito,'nask.0ito','子孙[zǐ sūn],子孫[zǐ sūn]')).
+assert(celo(naskito,'nask.0ito','子代[zǐ dài]')).
+assert(celo(naskito,'nask.0ito','后嗣[hòu sì],後嗣[hòu sì]')).
+assert(celo(nasko,'nask.0o','誕[dàn],诞[dàn]')).
+assert(celo(kunnaskita,'nask.de0akun0ita','先天[xiān tiān]')).
+assert(celo(kunnaskita,'nask.de0akun0ita','天生[tiān shēng]')).
+assert(celo(kunnaskita,'nask.de0akun0ita','天賦[tiān fù],天赋[tiān fù]')).
+assert(celo(kunnaskita,'nask.de0akun0ita','天性[tiān xìng]')).
+assert(celo(kunnaskita,'nask.de0akun0ita','生來[shēng lái],生来[shēng lái]')).
+assert(celo(kunnaskita,'nask.de0akun0ita','天生的[tiān shēng de]')).
+assert(celo(denaska,'nask.de0akun0ita','先天[xiān tiān]')).
+assert(celo(denaska,'nask.de0akun0ita','天生[tiān shēng]')).
+assert(celo(denaskulo,'nask.de0ulo','操母語的人[cāo mǔ yǔ de rén],操母语的人[cāo mǔ yǔ de rén]')).
+assert(celo(dunaskito,'nask.du0ito.GEN','双生[shuāng shēng],雙生[shuāng shēng]')).
+assert(celo(dunaskito,'nask.du0ito.GEN','双胎[shuāng tāi],雙胎[shuāng tāi]')).
+assert(celo(dunaskito,'nask.du0ito.GEN','双胞[shuāng bāo],雙胞[shuāng bāo]')).
+assert(celo(dunaskito,'nask.du0ito.GEN','双子[shuāng zǐ],雙子[shuāng zǐ]')).
+assert(celo(dunaskito,'nask.du0ito.GEN','双胞胎[shuāng bāo tāi],雙胞胎[shuāng bāo tāi]')).
+assert(celo(dunaskito,'nask.du0ito.GEN','孖[zī]')).
+assert(celo(dunaskito,'nask.du0ito.GEN','孪[luán],孿[luán]')).
+assert(celo(dunaskito,'nask.du0ito.GEN','双生胎[shuāng shēng tāi],雙生胎[shuāng shēng tāi]')).
+assert(celo(dunaskito,'nask.du0ito.GEN','双晶[shuāng jīng],雙晶[shuāng jīng]')).
+assert(celo(dunaskito,'nask.du0ito.GEN','双筒枪[shuāng tǒng qiāng],雙筒槍[shuāng tǒng qiāng]')).
+assert(celo('malvive naskita','nask.malvive0ita','㱩[dú],殰[dú]')).
+assert(celo('malvive naskita','nask.malvive0ita','殰[dú]')).
+assert(celo(novenaskito,'nask.nov0ito_nove0ito','婴儿[yīng ér],嬰兒[yīng ér]')).
+assert(celo(novenaskito,'nask.nov0ito_nove0ito','新生儿[xīn shēng ér],新生兒[xīn shēng ér]')).
+assert(celo(peknaskito,'nask.pek0ito','野种[yě zhǒng],野種[yě zhǒng]')).
+assert(celo(peknaskito,'nask.pek0ito','私孩子[sī hái zǐ]')).
+assert(celo(peknaskito,'nask.pek0ito','庶出[shù chū]')).
+assert(celo('Renaskiĝo','nask.re0igxo.HIS','文艺复兴[Wén yì fù xīng],文藝復興[Wén yì fù xīng]')).
+assert(celo('Renaskiĝo','nask.re0igxo.HIS','文艺复兴时期[wén yì fù xīng shí qī],文藝復興時期[wén yì fù xīng shí qī]')).
+assert(celo('Renaskiĝo','nask.re0igxo.HIS','复兴时代[Fù xīng Shí dài],復興時代[Fù xīng Shí dài]')).
+assert(celo(natro,'natr.0o.alkalo','苛性鈉[kē xìng nà],苛性钠[kē xìng nà]')).
+assert(celo(natro,'natr.0o.alkalo','氢氧化钠[qīng yǎng huà nà],氫氧化鈉[qīng yǎng huà nà]')).
+assert(celo(natro,'natr.0o.alkalo','烧碱[shāo jiǎn],燒鹼[shāo jiǎn]')).
+assert(celo(natrio,'natri.0o','鈉[nà],钠[nà]')).
+assert(celo(natura,'natur.0a','自然[zì rán]')).
+assert(celo(natura,'natur.0a','天然[tiān rán]')).
+assert(celo(naturaĵo,'natur.0ajxo.vivajxo','自然现象[zì rán xiàn xiàng],自然現象[zì rán xiàn xiàng]')).
+assert(celo(nature,'natur.0e','当然[dāng rán],當然[dāng rán]')).
+assert(celo(natureca,'natur.0eca','不造作[bù zào zuò]')).
+assert(celo(natureca,'natur.0eca','質朴[zhì pǔ],质朴[zhì pǔ]')).
+assert(celo(naturo,'natur.0o','自然界[zì rán jiè]')).
+assert(celo(naturo,'natur.0o','自然[zì rán]')).
+assert(celo(naturo,'natur.0o','大自然[dà zì rán]')).
+assert(celo(malnatura,'natur.mal0a','不自然[bù zì rán]')).
+assert(celo(malnatura,'natur.mal0a','不自然地[bù zì rán de]')).
+assert(celo(malnatura,'natur.mal0a','人工[rén gōng]')).
+assert(celo(malnatura,'natur.mal0a','人为[rén wéi],人為[rén wéi]')).
+assert(celo(malnatureco,'natur.mal0eco','不自然[bù zì rán]')).
+assert(celo(samnatura,'natur.sam0a','类似[lèi sì],類似[lèi sì]')).
+assert(celo(supernatura,'natur.super0a','灵异[líng yì],靈異[líng yì]')).
+assert(celo(supernatura,'natur.super0a','超自然现象[chāo zì rán xiàn xiàng],超自然現象[chāo zì rán xiàn xiàng]')).
+assert(celo(naturalismo,'natura.0o','自然主义[zì rán zhǔ yì],自然主義[zì rán zhǔ yì]')).
+assert(celo('Nauro','naur.0o.GEOG','諾魯[nuò lǔ],诺鲁[nuò lǔ]')).
+assert(celo(naŭe,'naux.0e','第九[dì jiǔ]')).
+assert(celo(naŭtilo,'nauxti.0o','鸚鵡螺[yīng wǔ luó],鹦鹉螺[yīng wǔ luó]')).
+assert(celo(naŭza,'nauxz.0a','恶心[è xīn],惡心[è xīn]')).
+assert(celo(naŭza,'nauxz.0a','面目可憎[miàn mù kě zēng]')).
+assert(celo(naŭzi,'nauxz.0i','恶心[ě xīn],惡心[ě xīn]')).
+assert(celo(naŭzi,'nauxz.0i','感到不舒服[gǎn dào bù shū fú]')).
+assert(celo(naŭzi,'nauxz.0i','感到噁心[gǎn dào ě xīn],感到恶心[gǎn dào ě xīn]')).
+assert(celo(naŭzi,'nauxz.0i','恶心[ě xin],惡心[ě xin]')).
+assert(celo(naŭzo,'nauxz.0o','恶心[ě xin],惡心[ě xin]')).
+assert(celo(navo,'nav.0o','中央广场[zhōng yāng guǎng chǎng],中央廣場[zhōng yāng guǎng chǎng]')).
+assert(celo(navo,'nav.0o','教堂中心[jiào táng zhōng xīn]')).
+assert(celo(navo,'nav.0o','車輪的中心部[chē lún de zhōng xīn bù],车轮的中心部[chē lún de zhōng xīn bù]')).
+assert(celo(navajo,'navahx.0o','納瓦霍[Nà wǎ huò],纳瓦霍[Nà wǎ huò]')).
+assert(celo(naveti,'naved.0i','穿梭[chuān suō]')).
+assert(celo(naveti,'naved.0i.FIG','梭[suō]')).
+assert(celo(naveto,'naved.0o','梭[suō]')).
+assert(celo(navigebla,'navig.0ebla','可航行[kě háng xíng]')).
+assert(celo(navigebla,'navig.0ebla','可通船[kě tōng chuán]')).
+assert(celo(navigebla,'navig.0ebla','可通行[kě tōng xíng]')).
+assert(celo(navigebla,'navig.0ebla','可通过[kě tōng guò],可通過[kě tōng guò]')).
+assert(celo(navigi,'navig.0i','領航[lǐng háng],领航[lǐng háng]')).
+assert(celo(navigi,'navig.0i','航[háng]')).
+assert(celo(navigi,'navig.0i','航行[háng xíng]')).
+assert(celo(navigilo,'navig.0ilo.RET','浏览者[liú lǎn zhě],瀏覽者[liú lǎn zhě]')).
+assert(celo(navigilo,'navig.0ilo.RET','浏览器[liú lǎn qì],瀏覽器[liú lǎn qì]')).
+assert(celo(navigisto,'navig.0isto','領航[lǐng háng],领航[lǐng háng]')).
+assert(celo(navigisto,'navig.0isto','航海者[háng hǎi zhě]')).
+assert(celo(navigisto,'navig.0isto','領航員[lǐng háng yuán],领航员[lǐng háng yuán]')).
+assert(celo(navigisto,'navig.0isto','导航者[dǎo háng zhě],導航者[dǎo háng zhě]')).
+assert(celo(navigado,'navig.0o.veturado','領航[lǐng háng],领航[lǐng háng]')).
+assert(celo(navigado,'navig.0o.veturado','导航[dǎo háng],導航[dǎo háng]')).
+assert(celo(navigado,'navig.0o.veturado','航[háng]')).
+assert(celo(navigaciilo,'naviga.0ilo.birilo','导航仪[dǎo háng yí],導航儀[dǎo háng yí]')).
+assert(celo(navigacio,'naviga.0o.biro','領航[lǐng háng],领航[lǐng háng]')).
+assert(celo(navigacio,'naviga.0o.biro','导航[dǎo háng],導航[dǎo háng]')).
+assert(celo(naza,'naz.0a','齉[nàng]')).
+assert(celo('naza vokalo','naz.0avokalo','鼻化元音[bí huà yuán yīn]')).
+assert(celo(nazego,'naz.0ego','吻部[wěn bù]')).
+assert(celo(nazsono,'naz.0sono','鼻音[bí yīn]')).
+assert(celo('Nazareto','nazaret.0o','納匝肋[Nà zā lèi],纳匝肋[Nà zā lèi]')).
+assert(celo('Nazareto','nazaret.0o','拿撒勒[Ná sǎ lè]')).

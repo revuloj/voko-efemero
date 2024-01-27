@@ -9,8 +9,9 @@
 
 */
 
-% En Prologo oni laboras per predikatoj, kiuj povas esti faktaroj aŭ regularoj.
-% Sed por programistoj pli facila estas analogio al datumbazo:
+% En Prologo (bazita sur Horn-formuloj) oni laboras per predikatoj, 
+% kiuj povas esti faktaroj aŭ regularoj.
+% Sed por programistoj pli facila estas analogio al rilateca datumbazo:
 % faktaro ~ tabelo (en: table), fakto ~ rikordo (en: record; row), regulo ~ rigardo (en: view)
 
 % Ni komencu per difino de kelkaj faktoj pri Prologo k.a.
@@ -103,6 +104,7 @@ besto(B) :-
  */
 besto2(B) :- 
     besto(B).
+    
 besto2(B) :-
     speco(B,B1),
     besto2(B1).
