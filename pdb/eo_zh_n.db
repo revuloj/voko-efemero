@@ -660,3 +660,67 @@ assert(celo(nitjunto,'nit.0junto','鉚接[mǎo jiē],铆接[mǎo jiē]')).
 assert(celo(nitnajlo,'nit.0najlo','盲鉚釘[máng mǎo dīng],盲铆钉[máng mǎo dīng]')).
 assert(celo(nitnajlo,'nit.0najlo','鉚釘[mǎo dīng],铆钉[mǎo dīng]')).
 assert(celo(nito,'nit.0o','鉚釘[mǎo dīng],铆钉[mǎo dīng]')).
+assert(celo('nitrata acido','nitrat.0a_acido','硝酸[xiāo suān]')).
+assert(celo(nitrato,'nitrat.0o','硝酸盐[xiāo suān yán],硝酸鹽[xiāo suān yán]')).
+assert(celo('nitrita acido','nitrit.0a_acido','亚硝酸[yà xiāo suān],亞硝酸[yà xiāo suān]')).
+assert(celo(nitrito,'nitrit.0o','亚硝酸盐[yà xiāo suān yán],亞硝酸鹽[yà xiāo suān yán]')).
+assert(celo(nitrito,'nitrit.0o','亚硝酸酯[yà xiāo suān zhǐ],亞硝酸酯[yà xiāo suān zhǐ]')).
+assert(celo(nitrogeno,'nitrog.0o','氮[dàn]')).
+assert(celo(nitroglicerino,'nitrog1.0o','硝化甘油[xiāo huà gān yóu]')).
+assert(celo(niveli,'nivel.0i','平整[píng zhěng]')).
+assert(celo(nivelilo,'nivel.0ilo','水平仪[shuǐ píng yí],水平儀[shuǐ píng yí]')).
+assert(celo(nivelilo,'nivel.0ilo','水准尺[shuǐ zhǔn chí],水準尺[shuǐ zhǔn chí]')).
+assert(celo(nivelo,'nivel.0o','层级[céng jí],層級[céng jí]')).
+assert(celo(nivelo,'nivel.0o','級[jí],级[jí]')).
+assert(celo(nivelo,'nivel.0o','阶位[jiē wèi],階位[jiē wèi]')).
+assert(celo(nivelo,'nivel.0o','水准[shuǐ zhǔn],水準[shuǐ zhǔn]')).
+assert(celo(niveli,'','找平[zhǎo píng]')).
+assert(celo(alniveligi,'nivel.al0igi','平整[píng zhěng]')).
+assert(celo(altnivela,'nivel.alt0a.FIG','极品[jí pǐn],極品[jí pǐn]')).
+assert(celo(altnivela,'nivel.alt0a.FIG','上色[shàng sè]')).
+assert(celo(altnivela,'nivel.alt0a.FIG','特級[tè jí],特级[tè jí]')).
+assert(celo(oceannivelo,'nivel.ocean0o','海拔高度[hǎi bá gāo dù]')).
+assert(celo(oceannivelo,'nivel.ocean0o','海面[hǎi miàn]')).
+assert(celo(samnivela,'nivel.sam0a','同級[tóng jí],同级[tóng jí]')).
+assert(celo(vivnivelo,'nivel.viv0o','生活水平[shēng huó shuǐ píng]')).
+assert(celo(nizo,'niz.0o','鸇[zhān],鹯[zhān]')).
+assert(celo('-nj','nj.0','愛稱[ài chēng],爱称[ài chēng]')).
+assert(celo('-nj','nj.0','昵称[nì chēng],暱稱[nì chēng]')).
+assert(celo(avinjo,'nj.avi0o','阿奶[ā nǎi]')).
+assert(celo(avinjo,'nj.avi0o','阿婆[ā pó]')).
+assert(celo(panjo,'nj.pa0o','馬麻[mǎ má],马麻[mǎ má]')).
+assert(celo(vanjo,'nj.va0o','育儿嫂[yù ér sǎo],育兒嫂[yù ér sǎo]')).
+assert(celo(vanjo,'nj.va0o','育婴师[yù yīng shī],育嬰師[yù yīng shī]')).
+assert(celo(noo,'no.0o','能剧[néng jù],能劇[néng jù]')).
+assert(celo('Noaĥo','noahx.0o','諾亞[Nuò yà],诺亚[Nuò yà]')).
+assert(celo('Noaĥo','noahx.0o','挪亚[Nuó yà],挪亞[Nuó yà]')).
+assert(celo(nobela,'nobel.0a','貴族[guì zú],贵族[guì zú]')).
+assert(celo(nobela,'nobel.0a','矜貴[jīn guì],矜贵[jīn guì]')).
+assert(celo(nobelaro,'nobel.0aro','貴族[guì zú],贵族[guì zú]')).
+assert(celo(nobelaro,'nobel.0aro','爵[jué]')).
+assert(celo(nobeleco,'nobel.0eco','貴人[guì rén],贵人[guì rén]')).
+assert(celo(nobelo,'nobel.0o','貴族[guì zú],贵族[guì zú]')).
+assert(celo(nobelo,'nobel.0o','列侯[liè hóu]')).
+assert(celo(nobelo,'nobel.0o','君子[jūn zǐ]')).
+assert(celo(nobelo,'nobel.0o','矜貴[jīn guì],矜贵[jīn guì]')).
+assert(celo(nobelo,'nobel.0o','侯[hóu]')).
+assert(celo(nobelio,'nobeli.0o','鍩[nuò],锘[nuò]')).
+assert(celo(nobla,'nobl.0a','榮譽[róng yù],荣誉[róng yù]')).
+assert(celo(nobla,'nobl.0a','高尚[gāo shàng]')).
+assert(celo(nobla,'nobl.0a','高貴[gāo guì],高贵[gāo guì]')).
+assert(celo(noblulo,'nobl.0ulo','君子[jūn zǐ]')).
+assert(celo(noblulo,'nobl.0ulo','大侠[dà xiá],大俠[dà xiá]')).
+assert(celo(malnobla,'nobl.mal0a','卑鄙[bēi bǐ]')).
+assert(celo(malnoblulo,'nobl.mal0ulo','坏蛋[huài dàn],壞蛋[huài dàn]')).
+assert(celo(malnoblulo,'nobl.mal0ulo','宵小[xiāo xiǎo]')).
+assert(celo(malnoblulo,'nobl.mal0ulo','混蛋[hún dàn]')).
+assert(celo(malnoblulo,'nobl.mal0ulo','坏人[huài rén],壞人[huài rén]')).
+assert(celo(malnoblulo,'nobl.mal0ulo','坏家伙[huài jiā huǒ],壞家伙[huài jiā huǒ]')).
+assert(celo(malnoblulo,'nobl.mal0ulo','坏东西[huài dōng xi],壞東西[huài dōng xi]')).
+assert(celo(malnoblulo,'nobl.mal0ulo','大坏蛋[dà huài dàn],大壞蛋[dà huài dàn]')).
+assert(celo(malnoblulo,'nobl.mal0ulo','混球[hún qiú]')).
+assert(celo(malnoblulo,'nobl.mal0ulo','奸民[jiān mín]')).
+assert(celo(noci,'noc.0i','损害[sǔn hài],損害[sǔn hài]')).
+assert(celo(noci,'noc.0i','危害[wēi hài]')).
+assert(celo(nocio,'noci.0o','概念[gài niàn]')).
+assert(celo(supernocio,'noci.super0o','术语[shù yǔ],術語[shù yǔ]')).
