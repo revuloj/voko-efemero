@@ -1021,3 +1021,161 @@ assert(celo(malnova,'nov.mal0a','陈旧[chén jiù],陳舊[chén jiù]')).
 assert(celo(malnovaĵo,'nov.mal0ajxo.io','旧货[jiù huò],舊貨[jiù huò]')).
 assert(celo(malnovaĵo,'nov.mal0ajxo.io','旧货市场[jiù huò shì chǎng],舊貨市場[jiù huò shì chǎng]')).
 assert(celo(malnovaĵo,'nov.mal0ajxo.io','古風[gǔ fēng],古风[gǔ fēng]')).
+assert(celo(renovigi,'nov.re0igi','更新[gēng xīn]')).
+assert(celo(renovigi,'nov.re0igi','刷新[shuā xīn]')).
+assert(celo(renovigi,'nov.re0igi','推陈出新[tuī chén chū xīn],推陳出新[tuī chén chū xīn]')).
+assert(celo(renovigi,'nov.re0igi','續訂[xù dìng],续订[xù dìng]')).
+assert(celo(trompnovaĵo,'nov.tromp0ajxo','假新聞[jiǎ xīn wén],假新闻[jiǎ xīn wén]')).
+assert(celo(novao,'nova.0o','新星[xīn xīng]')).
+assert(celo(supernovao,'nova.super0o','超新星[chāo xīn xīng]')).
+assert(celo(novelo,'novel.0o','短篇小說[duǎn piān xiǎo shuō],短篇小说[duǎn piān xiǎo shuō]')).
+assert(celo('Novgorodo','novgorod.0o','諾夫哥羅德[nuò fū gē luō dé],诺夫哥罗德[nuò fū gē luō dé]')).
+assert(celo('Novialo','novial.0o','諾維亞語[nuò wéi yà yǔ],诺维亚语[nuò wéi yà yǔ]')).
+assert(celo(novico,'novic.0o','初出茅庐[chū chū máo lú],初出茅廬[chū chū máo lú]')).
+assert(celo(novico,'novic.0o','外教[wài jiào]')).
+assert(celo(novico,'novic.0o','新手[xīn shǒu]')).
+assert(celo(novico,'novic.0o','沙弥[shā mí],沙彌[shā mí]')).
+assert(celo('Novosibirsko','novosib.0o','新西伯利亚市[Xīn xī bó lì yà shì],新西伯利亞市[Xīn xī bó lì yà shì]')).
+assert(celo('Novosibirsko','novosib.0o','新西伯利亚[Xīn xī bó lì yà],新西伯利亞[Xīn xī bó lì yà]')).
+assert(celo('Nuakŝoto','nuaksxot.0o','諾克少[Nuò kè shǎo],诺克少[Nuò kè shǎo]')).
+assert(celo('Nuakŝoto','nuaksxot.0o','努瓦克肖特[Nǔ wǎ kè xiāo tè]')).
+assert(celo(nuanco,'nuanc.0o','細微差別[xì wēi chā bié],细微差别[xì wēi chā bié]')).
+assert(celo(nuanco,'nuanc.0o','色彩层次[sè cǎi céng cì],色彩層次[sè cǎi céng cì]')).
+assert(celo(nuanco,'nuanc.0o','色調差別[sè diào chā bié],色调差别[sè diào chā bié]')).
+assert(celo(nuba,'nub.0a','霭霭[ǎi ǎi],靄靄[ǎi ǎi]')).
+assert(celo(sennuba,'nub.sen0a','晴朗[qíng lǎng]')).
+assert(celo('Nubio','nubi.0o.regiono','努比亚[Nǔ bǐ yà],努比亞[Nǔ bǐ yà]')).
+assert(celo(nuda,'nud.0a','光光[guāng guāng]')).
+assert(celo(nuda,'nud.0a','裸体[luǒ tǐ],裸體[luǒ tǐ]')).
+assert(celo(nuda,'nud.0a','赤[chì]')).
+assert(celo(nuda,'nud.0a','赤裸[chì luǒ]')).
+assert(celo(nuda,'nud.0a','光[guāng]')).
+assert(celo(nuda,'nud.0a','臝[luǒ]')).
+assert(celo(nuda,'nud.0a','裎[chéng]')).
+assert(celo(nuda,'nud.0a','裸[luǒ]')).
+assert(celo(nuda,'nud.0a','裸袒[luǒ tǎn]')).
+assert(celo(nuda,'nud.0a','赤裸裸[chì luǒ luǒ]')).
+assert(celo(nuda,'nud.0a','赤身[chì shēn]')).
+assert(celo(nuda,'nud.0a','裸[luǒ],躶[luǒ]')).
+assert(celo(nuda,'nud.0a','露袒[lù tǎn]')).
+assert(celo(nuda,'nud.0a','露体[lù tǐ],露體[lù tǐ]')).
+assert(celo(nudigi,'nud.0igi','擿[tī]')).
+assert(celo(nudiĝi,'nud.0igxi','袒[tǎn],襢[tǎn]')).
+assert(celo(nudiĝi,'nud.0igxi','裸露[luǒ lù]')).
+assert(celo(nudismo,'nud.0ismo','裸体主义[luǒ tǐ zhǔ yì],裸體主義[luǒ tǐ zhǔ yì]')).
+assert(celo(nudismo,'nud.0ismo','裸体运动主义[luǒ tǐ yùn dòng zhǔ yì],裸體運動主義[luǒ tǐ yùn dòng zhǔ yì]')).
+assert(celo(nudisto,'nud.0isto','裸体主义者[luǒ tǐ zhǔ yì zhě],裸體主義者[luǒ tǐ zhǔ yì zhě]')).
+assert(celo(nuko,'nuk.0o','頸背[jǐng bèi],颈背[jǐng bèi]')).
+assert(celo(nuko,'nuk.0o','后颈[hòu jǐng],後頸[hòu jǐng]')).
+assert(celo(nuko,'nuk.0o','脖[bó]')).
+assert(celo(rigidnuka,'nuk.rigid0a','固執[gù zhí],固执[gù zhí]')).
+assert(celo(rigidnuka,'nuk.rigid0a','硁[kēng],硜[kēng]')).
+assert(celo(rigidnuka,'nuk.rigid0a','紾[zhěn]')).
+assert(celo(rigidnuka,'nuk.rigid0a','繣[huà]')).
+assert(celo(nukleo,'nukle.0o','核子[hé zǐ]')).
+assert(celo(nukleo,'nukle.0o','細胞核[xì bāo hé],细胞核[xì bāo hé]')).
+assert(celo(nukleo,'nukle.0o','核心[hé xīn]')).
+assert(celo(nukleo,'nukle.0o','原子核[yuán zǐ hé]')).
+assert(celo(nukleono,'nukleon.0o','核子[hé zǐ]')).
+assert(celo(nukleotido,'nukleotid.0o','核苷[hé gān]')).
+assert(celo(nukleotido,'nukleotid.0o','核苷酸[hé gān suān]')).
+assert(celo(nukso,'nuks.0o','硬壳果[yìng ké guǒ],硬殼果[yìng ké guǒ]')).
+assert(celo(nukso,'nuks.0o','坚果[jiān guǒ],堅果[jiān guǒ]')).
+assert(celo(nukso,'nuks.0o','果仁[guǒ rén]')).
+assert(celo('brazila nuksarbo','nuks.brazil0arbo','巴西栗[bā xī lì]')).
+assert(celo('brazila nukso','nuks.brazila0o','巴西果[bā xī guǒ]')).
+assert(celo('Nukualofo','nukualof.0o','努库阿洛法[Nǔ kù ā luò fǎ],努庫阿洛法[Nǔ kù ā luò fǎ]')).
+assert(celo('Nukualofo','nukualof.0o','努瓜娄发[Nǔ guā lóu fā],努瓜婁發[Nǔ guā lóu fā]')).
+assert(celo(nul,'nul0.0','零[líng]')).
+assert(celo(nul,'nul0.0','〇[líng]')).
+assert(celo(nuligi,'nul0.0igi','取消[qǔ xiāo]')).
+assert(celo(numero,'numer.0o','号码[hào mǎ],號碼[hào mǎ]')).
+assert(celo(numero,'numer.0o','码[mǎ],碼[mǎ]')).
+assert(celo(numero,'numer.0o','数目字[shù mù zì],數目字[shù mù zì]')).
+assert(celo(numero,'numer.0o','数[shù],數[shù]')).
+assert(celo(numeralo,'numera.0o.gra','数词[shù cí],數詞[shù cí]')).
+assert(celo(numido,'numid.0o','珠雞[zhū jī],珠鸡[zhū jī]')).
+assert(celo(numismatiko,'numism.0o','貨幣學[huò bì xué],货币学[huò bì xué]')).
+assert(celo(nun,'nun.0','现下[xiàn xià],現下[xiàn xià]')).
+assert(celo(nun,'nun.0','眼下[yǎn xià]')).
+assert(celo(nun,'nun.0','现在[xiàn zài],現在[xiàn zài]')).
+assert(celo(nun,'nun.0','今[jīn]')).
+assert(celo(nun,'nun.0','此刻[cǐ kè]')).
+assert(celo(nun,'nun.0','而今[ér jīn]')).
+assert(celo(nun,'nun.0','这阵儿[zhè zhèn r],這陣兒[zhè zhèn r]')).
+assert(celo(nun,'nun.0','现今[xiàn jīn],現今[xiàn jīn]')).
+assert(celo(nun,'nun.0','在眼前[zài yǎn qián]')).
+assert(celo(nunnune,'nun.00e','即刻[jí kè]')).
+assert(celo(nunnune,'nun.00e','刚[gāng],剛[gāng]')).
+assert(celo(nunnune,'nun.00e','刚才[gāng cái],剛纔[gāng cái]')).
+assert(celo(nuna,'nun.0a','现[xiàn],現[xiàn]')).
+assert(celo(nuna,'nun.0a','目前[mù qián]')).
+assert(celo(nuntempe,'nun.0tempe','现在[xiàn zài],現在[xiàn zài]')).
+assert(celo(nuntempe,'nun.0tempe','如今[rú jīn]')).
+assert(celo(nuntempe,'nun.0tempe','目今[mù jīn]')).
+assert(celo(denun,'nun.de0','后日[hòu rì],後日[hòu rì]')).
+assert(celo(denun,'nun.de0','今后[jīn hòu],今後[jīn hòu]')).
+assert(celo(denun,'nun.de0','自此[zì cǐ]')).
+assert(celo(denun,'nun.de0','从今以后[cóng jīn yǐ hòu],從今以後[cóng jīn yǐ hòu]')).
+assert(celo(denun,'nun.de0','从今[cóng jīn],從今[cóng jīn]')).
+assert(celo(denun,'nun.de0','今后[jīn hòu]')).
+assert(celo(ĝisnuna,'nun.gxis0a','截至[jié zhì]')).
+assert(celo('Nunavuto','nunavut.0o','努納武特[Nǔ nà wǔ tè],努纳武特[Nǔ nà wǔ tè]')).
+assert(celo(nupto,'nupt.0o','婚礼[hūn lǐ],婚禮[hūn lǐ]')).
+assert(celo(nupto,'nupt.0o','喜酒[xǐ jiǔ]')).
+assert(celo(nupto,'nupt.0o','婚宴[hūn yàn]')).
+assert(celo(nupto,'nupt.0o','婚典[hūn diǎn]')).
+assert(celo(nur,'nur.0','仅仅[jǐn jǐn],僅僅[jǐn jǐn]')).
+assert(celo(nur,'nur.0','仅[jǐn],僅[jǐn]')).
+assert(celo(nur,'nur.0','单单[dān dān],單單[dān dān]')).
+assert(celo(nur,'nur.0','只[zhǐ]')).
+assert(celo(nur,'nur.0','唯有[wéi yǒu]')).
+assert(celo(nur,'nur.0','只是[zhǐ shì]')).
+assert(celo(nur,'nur.0','唯一[wéi yī]')).
+assert(celo(nurnura,'nur.00a','惟一[wéi yī]')).
+assert(celo(nurnura,'nur.00a','独[dú],獨[dú]')).
+assert(celo(nurnura,'nur.00a','唯一[wéi yī]')).
+assert(celo(nura,'nur.0a','純粹地[chún cuì de],纯粹地[chún cuì de]')).
+assert(celo(nura,'nur.0a','只[zhǐ]')).
+assert(celo(ununura,'nur.unu0a','独[dú],獨[dú]')).
+assert(celo(ununura,'nur.unu0a','惟独[wéi dú],惟獨[wéi dú]')).
+assert(celo(ununura,'nur.unu0a','惟一[wéi yī]')).
+assert(celo('Nurnbergo','nurenb.0o','紐倫堡[niǔ lún bǎo],纽伦堡[niǔ lún bǎo]')).
+assert(celo('Astano','nursultan.0o.cxefurbo','努尔苏丹[nǔ ěr sū dān],努爾蘇丹[nǔ ěr sū dān]')).
+assert(celo('Astano','nursultan.0o.cxefurbo','阿斯塔納[ā sī tǎ nà],阿斯塔纳[ā sī tǎ nà]')).
+assert(celo('Nursultano','nursultan.0o.cxefurbo','努尔苏丹[nǔ ěr sū dān],努爾蘇丹[nǔ ěr sū dān]')).
+assert(celo(nutra,'nutr.0a','營養[yíng yǎng],营养[yíng yǎng]')).
+assert(celo(nutra,'nutr.0a','滋补[zī bǔ],滋補[zī bǔ]')).
+assert(celo(nutra,'nutr.0a','有營養[yǒu yíng yǎng],有营养[yǒu yíng yǎng]')).
+assert(celo(nutraĵo,'nutr.0ajxo','食[shí]')).
+assert(celo(nutraĵo,'nutr.0ajxo','饌[zhuàn],馔[zhuàn]')).
+assert(celo(nutraĵo,'nutr.0ajxo','伙食[huǒ shí]')).
+assert(celo(nutraĵo,'nutr.0ajxo','粻[zhāng]')).
+assert(celo(nutraĵo,'nutr.0ajxo','粮[liáng],糧[liáng]')).
+assert(celo(nutraĵo,'nutr.0ajxo','食物[shí wù]')).
+assert(celo(nutraĵo,'nutr.0ajxo','养料[yǎng liào],養料[yǎng liào]')).
+assert(celo(nutraĵo,'nutr.0ajxo','膳食[shàn shí]')).
+assert(celo(nutri,'nutr.0i','喂食[wèi shí],餵食[wèi shí]')).
+assert(celo(nutri,'nutr.0i','啖[dàn],噉[dàn]')).
+assert(celo(nutri,'nutr.0i','哺[bǔ]')).
+assert(celo(nutri,'nutr.0i','哺育[bǔ yù]')).
+assert(celo(nutri,'nutr.0i','喂[wèi],餵[wèi]')).
+assert(celo(nutri,'nutr.0i','供养[gòng yǎng],供養[gòng yǎng]')).
+assert(celo(nutristino,'nutr.0istino','乳母[rǔ mǔ]')).
+assert(celo(nutristino,'nutr.0istino','奶妈[nǎi mā],奶媽[nǎi mā]')).
+assert(celo(nutristino,'nutr.0istino','奶母[nǎi mǔ]')).
+assert(celo(nutro,'nutr.0o','營養[yíng yǎng],营养[yíng yǎng]')).
+assert(celo(mamnutri,'nutr.mam0i','哺乳[bǔ rǔ]')).
+assert(celo(mamnutri,'nutr.mam0i','喂奶[wèi nǎi],餵奶[wèi nǎi]')).
+assert(celo(mamnutri,'nutr.mam0i','哺[bǔ]')).
+assert(celo(mamnutristino,'nutr.mam0istino','奶母[nǎi mǔ]')).
+assert(celo(mamnutristino,'nutr.mam0istino','奶娘[nǎi niáng]')).
+assert(celo(mamnutristino,'nutr.mam0istino','乳母[rǔ mǔ]')).
+assert(celo(mamnutristino,'nutr.mam0istino','奶妈[nǎi mā],奶媽[nǎi mā]')).
+assert(celo(mamnutro,'nutr.mam0o','哺乳[bǔ rǔ]')).
+assert(celo(mamnutro,'nutr.mam0o','哺母乳[bǔ mǔ rǔ]')).
+assert(celo(mamnutro,'nutr.mam0o','母乳喂养[mǔ rǔ wèi yǎng],母乳餵養[mǔ rǔ wèi yǎng]')).
+assert(celo(mamnutro,'nutr.mam0o','喂母乳[wèi mǔ rǔ],餵母乳[wèi mǔ rǔ]')).
+assert(celo(mamnutro,'nutr.mam0o','授乳[shòu rǔ]')).
+assert(celo(misnutrado,'nutr.mis0ado','營養不良[yíng yǎng bù liáng],营养不良[yíng yǎng bù liáng]')).
+assert(celo(subnutrado,'nutr.sub0ado','營養不良[yíng yǎng bù liáng],营养不良[yíng yǎng bù liáng]')).
