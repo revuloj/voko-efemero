@@ -724,3 +724,300 @@ assert(celo(noci,'noc.0i','损害[sǔn hài],損害[sǔn hài]')).
 assert(celo(noci,'noc.0i','危害[wēi hài]')).
 assert(celo(nocio,'noci.0o','概念[gài niàn]')).
 assert(celo(supernocio,'noci.super0o','术语[shù yǔ],術語[shù yǔ]')).
+assert(celo(nodi,'nod.0i','結[jié],结[jié]')).
+assert(celo(nodi,'nod.0i','打結[dǎ jié],打结[dǎ jié]')).
+assert(celo(nodi,'nod.0i','打了結[dǎ liǎo jié],打了结[dǎ liǎo jié]')).
+assert(celo(nodi,'nod.0i','有小結[yǒu xiǎo jié],有小结[yǒu xiǎo jié]')).
+assert(celo(nodi,'nod.0i','有結節[yǒu jié jié],有结节[yǒu jié jié]')).
+assert(celo(nodo,'nod.0o','纈[xié],缬[xié]')).
+assert(celo(nodo,'nod.0o','締[dì],缔[dì]')).
+assert(celo(nodo,'nod.0o','繩結[shéng jié],绳结[shéng jié]')).
+assert(celo(nodo,'nod.0o','紇[gē],纥[gē]')).
+assert(celo(nodo,'nod.0o','結[jié],结[jié]')).
+assert(celo(nodo,'nod.0o','節[jié],节[jié]')).
+assert(celo(nodo,'nod.0o','節子[jiē zi],节子[jiē zi]')).
+assert(celo(nodo,'nod.0o','纇[lèi],颣[lèi]')).
+assert(celo(nodo,'nod.0o','扣襻[kòu pàn]')).
+assert(celo(noĉo,'','刻痕[kè hén]')).
+assert(celo(elnodiĝo,'nod.el0igxo','結幕[jié mù],结幕[jié mù]')).
+assert(celo(elnodiĝo,'nod.el0igxo','分辨率[fēn biàn lǜ]')).
+assert(celo(elnodiĝo,'nod.el0igxo','結論[jié lùn],结论[jié lùn]')).
+assert(celo(elnodiĝo,'nod.el0igxo','解像力[jiě xiàng lì]')).
+assert(celo(elnodiĝo,'nod.el0igxo','解法[jiě fǎ]')).
+assert(celo(ennodiĝo,'nod.en0igxo','复杂化[fù zá huà],複雜化[fù zá huà]')).
+assert(celo(limfonodo,'nod.limfo0o','淋巴結[lín bā jié],淋巴结[lín bā jié]')).
+assert(celo(limfonodo,'nod.limfo0o','淋巴腺[lín bā xiàn]')).
+assert(celo(malnodi,'nod.mal0i','解[jiě]')).
+assert(celo(malnodi,'nod.mal0i','解开[jiě kāi],解開[jiě kāi]')).
+assert(celo(nokte,'nokt.0e','夜間[yè jiān],夜间[yè jiān]')).
+assert(celo(nokte,'nokt.0e','夜裡[yè li],夜里[yè li]')).
+assert(celo(nokti,'nokt.0i.tranokti','宿夜[sù yè]')).
+assert(celo(nokti,'nokt.0i.tranokti','过夜[guò yè],過夜[guò yè]')).
+assert(celo(nokti,'nokt.0i.tranokti','过宿[guò sù],過宿[guò sù]')).
+assert(celo(noktmezo,'nokt.0mezo','半夜[bàn yè]')).
+assert(celo(noktmezo,'nokt.0mezo','午夜[wǔ yè]')).
+assert(celo(noktmezo,'nokt.0mezo','夜半[yè bàn]')).
+assert(celo(noktmezo,'nokt.0mezo','子夜[zǐ yè]')).
+assert(celo(noktmezo,'nokt.0mezo','零时[líng shí],零時[líng shí]')).
+assert(celo('blankaj noktoj','nokt.blankaj_0oj','白夜[bái yè]')).
+assert(celo(tranoktejo,'nokt.tra0ejo','临时安身处[lín shí ān shēn chù],臨時安身處[lín shí ān shēn chù]')).
+assert(celo(noktumi,'nokt.tra0i','过夜[guò yè],過夜[guò yè]')).
+assert(celo(noktumi,'nokt.tra0i','宿[sù]')).
+assert(celo(noktumi,'nokt.tra0i','宿夜[sù yè]')).
+assert(celo(noktuo,'noktu.0o.birdo','縱紋腹小鴞[zòng wén fù xiǎo xiāo],纵纹腹小鸮[zòng wén fù xiǎo xiāo]')).
+assert(celo(nokturno,'nokturn.0o','夜曲[yè qǔ]')).
+assert(celo(nomado,'nom.0ado','命名[mìng míng]')).
+assert(celo(nomado,'nom.0ado','名称[míng chēng],名稱[míng chēng]')).
+assert(celo(nomado,'nom.0ado','任命[rèn mìng]')).
+assert(celo(nomado,'nom.0ado','提名[tí míng]')).
+assert(celo(nomado,'nom.0ado','名[míng]')).
+assert(celo(nomado,'nom.0ado','賽馬出場登記[sài mǎ chū chǎng dēng jì],赛马出场登记[sài mǎ chū chǎng dēng jì]')).
+assert(celo(nomado,'nomad.0o','游牧[yóu mù],遊牧[yóu mù]')).
+assert(celo(nomado,'nomad.0o','无定居的人[wú dìng jū de rén],無定居的人[wú dìng jū de rén]')).
+assert(celo(nomado,'nomad.0o','游牧人[yóu mù rén],遊牧人[yóu mù rén]')).
+assert(celo(nomado,'nomad.0o','游牧民[yóu mù mín],遊牧民[yóu mù mín]')).
+assert(celo(nomaro,'nom.0aro','名单[míng dān],名單[míng dān]')).
+assert(celo(nomaro,'nom.0aro','榜[bǎng]')).
+assert(celo(nomaro,'nom.0aro','花名冊[huā míng cè],花名册[huā míng cè]')).
+assert(celo(nomaro,'nom.0aro','名录[míng lù],名錄[míng lù]')).
+assert(celo(nome,'nom.0e','即[jí]')).
+assert(celo(nome,'nom.0e','也就是[yě jiù shì]')).
+assert(celo(nome,'nom.0e','即由[jí yóu]')).
+assert(celo('nome de','nom.0ede','名义[míng yì],名義[míng yì]')).
+assert(celo(nomi,'nom.0i','标称[biāo chēng],標稱[biāo chēng]')).
+assert(celo(nomi,'nom.0i','取名[qǔ míng]')).
+assert(celo(nomi,'nom.0i','叫做[jiào zuò]')).
+assert(celo(nomi,'nom.0i','已經命名[yǐ jīng mìng míng],已经命名[yǐ jīng mìng míng]')).
+assert(celo(nomi,'nom.0i','有名字[yǒu míng zì]')).
+assert(celo(nomi,'nom.0i','起名了[qǐ míng liǎo]')).
+assert(celo(nomi,'nom.0i','定名[dìng míng]')).
+assert(celo(nomiĝi,'nom.0igxi','叫做[jiào zuò]')).
+assert(celo(nomiĝi,'nom.0igxi','叫作[jiào zuò]')).
+assert(celo(nomiĝi,'nom.0igxi','名为[míng wéi],名為[míng wéi]')).
+assert(celo(nomumi,'nom.0umi','任[rèn]')).
+assert(celo(nomumi,'nom.0umi','提名[tí míng]')).
+assert(celo(nomumi,'nom.0umi','任命[rèn mìng]')).
+assert(celo(nomumi,'nom.0umi','命名[mìng míng]')).
+assert(celo(nomumi,'nom.0umi','聘任[pìn rèn]')).
+assert(celo(nomumi,'nom.0umi','委任[wěi rèn]')).
+assert(celo(nomumi,'nom.0umi','荐举[jiàn jǔ],薦舉[jiàn jǔ]')).
+assert(celo(kromnomo,'nom.al0o','別名[bié míng],别名[bié míng]')).
+assert(celo(kromnomo,'nom.al0o','別號[bié hào],别号[bié hào]')).
+assert(celo(alinomo,'nom.ali0o.KOMUNE','代名[dài míng]')).
+assert(celo(alinomo,'nom.ali0o.KOMUNE','代用名[dài yòng míng]')).
+assert(celo(alinomo,'nom.ali0o.KOMUNE','曾用名[céng yòng míng]')).
+assert(celo(antaŭnomo,'nom.antaux0o','名[míng]')).
+assert(celo(antaŭnomo,'nom.antaux0o','佳明[jiā míng]')).
+assert(celo(antaŭnomo,'nom.antaux0o','教名[jiào míng]')).
+assert(celo(antaŭnomo,'nom.antaux0o','涛[tāo],濤[tāo]')).
+assert(celo(antaŭnomo,'nom.antaux0o','璐[lù]')).
+assert(celo('bona nomo','nom.bona0o','令名[lìng míng]')).
+assert(celo('familia nomo','nom.famili0o','姓氏[xìng shì]')).
+assert(celo('familia nomo','nom.famili0o','姓[xìng]')).
+assert(celo(kaŝnomo,'nom.kasx0o','化名[huà míng]')).
+assert(celo(kaŝnomo,'nom.kasx0o','笔名[bǐ míng],筆名[bǐ míng]')).
+assert(celo(laŭnoma,'nom.laux0a.nominala','名义[míng yì],名義[míng yì]')).
+assert(celo(laŭnoma,'nom.laux0a.nominala','有名无实[yǒu míng wú shí],有名無實[yǒu míng wú shí]')).
+assert(celo(laŭnoma,'nom.laux0a.nominala','名义上[míng yì shàng],名義上[míng yì shàng]')).
+assert(celo(laŭnoma,'nom.laux0a.nominala','按票面价值[àn piào miàn jià zhí],按票面價值[àn piào miàn jià zhí]')).
+assert(celo(laŭnoma,'nom.laux0a.nominala','非常小[fēi cháng xiǎo]')).
+assert(celo(laŭnome,'nom.laux0e.nominale','应名[yīng míng],應名[yīng míng]')).
+assert(celo(loknomo,'nom.lok0o','地名[dì míng]')).
+assert(celo('persona nomo','nom.persona0o','名[míng]')).
+assert(celo('persona nomo','nom.persona0o','佳明[jiā míng]')).
+assert(celo('persona nomo','nom.persona0o','教名[jiào míng]')).
+assert(celo(plumnomo,'nom.plum0o','笔名[bǐ míng],筆名[bǐ míng]')).
+assert(celo(uzantnomo,'nom.uzant0o.KOMP','用戶名[yòng hù míng],用户名[yòng hù míng]')).
+assert(celo(nomada,'nomad.0a','流浪[liú làng]')).
+assert(celo(nomada,'nomad.0a','游牧[yóu mù],遊牧[yóu mù]')).
+assert(celo(nomada,'nomad.0a','游牧民族[yóu mù mín zú]')).
+assert(celo(nomada,'nomad.0a','无定居[wú dìng jū],無定居[wú dìng jū]')).
+assert(celo(nomada,'nomad.0a','游牧民族[yóu mù mín zú],遊牧民族[yóu mù mín zú]')).
+assert(celo(nomadejo,'','浩特[hào tè]')).
+assert(celo(nomadejo,'','營盤[yíng pán],营盘[yíng pán]')).
+assert(celo(nomadi,'nomad.0i','游牧[yóu mù],遊牧[yóu mù]')).
+assert(celo(nomadi,'nomad.0i','流浪[liú làng]')).
+assert(celo(nomadismo,'nomad.0ismo','流浪[liú làng]')).
+assert(celo(nombra,'nombr.0a','数值[shù zhí],數值[shù zhí]')).
+assert(celo(nombra,'nombr.0a','数词[shù cí],數詞[shù cí]')).
+assert(celo(nombrebla,'nombr.0ebla.KOMUNE','数得清[shù dé qīng],數得清[shù dé qīng]')).
+assert(celo(nombrebla,'nombr.0ebla.MAT','可数[kě shǔ],可數[kě shǔ]')).
+assert(celo(nombrebla,'nombr.0ebla.MAT','离散[lí sàn],離散[lí sàn]')).
+assert(celo(nombri,'nombr.0i','計算[jì suàn],计算[jì suàn]')).
+assert(celo(nombri,'nombr.0i','数[shǔ],數[shǔ]')).
+assert(celo(nombrilo,'nombr.0ilo','計數器[jì shù qì],计数器[jì shù qì]')).
+assert(celo(nombristo,'nombr.0isto.popol','統計員[tǒng jì yuán],统计员[tǒng jì yuán]')).
+assert(celo(nombristo,'nombr.0isto.popol','統計學家[tǒng jì xué jiā],统计学家[tǒng jì xué jiā]')).
+assert(celo(nombro,'nombr.0o','多少[duō shǎo]')).
+assert(celo(nombro,'nombr.0o','数字[shù zì],數字[shù zì]')).
+assert(celo(nombro,'nombr.0o','数目[shù mù],數目[shù mù]')).
+assert(celo(nombro,'nombr.0o','数目字[shù mù zì],數目字[shù mù zì]')).
+assert(celo(nombro,'nombr.0o','数[shù],數[shù]')).
+assert(celo(nombro,'nombr.0o','人数[rén shù],人數[rén shù]')).
+assert(celo(nombrono,'nombr.0ono','分数[fēn shù],分數[fēn shù]')).
+assert(celo(nombrosistemo,'nombr.0osistemo','数字系统[shù zì xì tǒng],數字系統[shù zì xì tǒng]')).
+assert(celo(dunombro,'nombr.du0o.GRA','双数[shuāng shù],雙數[shuāng shù]')).
+assert(celo(grandnombra,'nombr.grand0a','濔[mǐ]')).
+assert(celo(grandnombra,'nombr.grand0a','众多[zhòng duō],眾多[zhòng duō]')).
+assert(celo(grandnombra,'nombr.grand0a','很多[hěn duō]')).
+assert(celo(mezonombro,'nombr.mez0o','中常[zhōng cháng]')).
+assert(celo(mezonombro,'nombr.mez0o','平均[píng jūn]')).
+assert(celo(mezonombro,'nombr.mez0o','平均数[píng jūn shù],平均數[píng jūn shù]')).
+assert(celo(mezonombro,'nombr.mez0o','平均值[píng jūn zhí]')).
+assert(celo(multenombra,'nombr.mult0a','紛[fēn],纷[fēn]')).
+assert(celo(multenombra,'nombr.mult0a','濔[mǐ]')).
+assert(celo(multenombra,'nombr.mult0a','众多[zhòng duō],眾多[zhòng duō]')).
+assert(celo(multenombra,'nombr.mult0a','很多[hěn duō]')).
+assert(celo(plurnombro,'nombr.multe0o.GRA','众数[zhòng shǔ],眾數[zhòng shǔ]')).
+assert(celo('natura nombro','nombr.natura0o','自然数[zì rán shù],自然數[zì rán shù]')).
+assert(celo('natura nombro','nombr.natura0o','雍容[yōng róng]')).
+assert(celo(nenombrebla,'nombr.ne0ebla.GRA','不可数[bù kě shǔ],不可數[bù kě shǔ]')).
+assert(celo(nenombrebla,'nombr.ne0ebla.GRA','不可数集[bù kě shuò jí],不可數集[bù kě shuò jí]')).
+assert(celo(popolnombrado,'nombr.popol0ado','人口普查[rén kǒu pǔ chá]')).
+assert(celo(popolnombrado,'nombr.popol0ado','人口調查[rén kǒu diào chá],人口调查[rén kǒu diào chá]')).
+assert(celo(sennombra,'nombr.sen0a','无数[wú shù],無數[wú shù]')).
+assert(celo(sennombra,'nombr.sen0a','数不尽[shǔ bu jìn],數不盡[shǔ bu jìn]')).
+assert(celo(sennombra,'nombr.sen0a','数不清[shǔ bù qīng],數不清[shǔ bù qīng]')).
+assert(celo(sennombra,'nombr.sen0a','成千上万[chéng qiān shàng wàn],成千上萬[chéng qiān shàng wàn]')).
+assert(celo(sennombra,'nombr.sen0a','上万[shàng wàn],上萬[shàng wàn]')).
+assert(celo(sennombra,'nombr.sen0a','不可勝數[bù kě shèng shǔ],不可胜数[bù kě shèng shǔ]')).
+assert(celo(sennombra,'nombr.sen0a','数不胜数[shǔ bù shèng shǔ],數不勝數[shǔ bù shèng shǔ]')).
+assert(celo(ununombro,'nombr.unu0o','单数[dān shù],單數[dān shù]')).
+assert(celo(nomenklaturo,'nomenk.0o','命名法[mìng míng fǎ]')).
+assert(celo(nominala,'nomina.0a','名义[míng yì],名義[míng yì]')).
+assert(celo(nominala,'nomina.0a','标称[biāo chēng],標稱[biāo chēng]')).
+assert(celo(nominala,'nomina.0a','額定[é dìng],额定[é dìng]')).
+assert(celo(nominala,'nomina.0a','名义上[míng yì shàng],名義上[míng yì shàng]')).
+assert(celo('nominala valoro','nomina.0o','面值[miàn zhí]')).
+assert(celo('nominala valoro','nomina.0o.EKON','票面值[piào miàn zhí]')).
+assert(celo('nominala valoro','nomina.0o.EKON','票面价值[piào miàn jià zhí],票面價值[piào miàn jià zhí]')).
+assert(celo('nominala valoro','nomina.0o.EKON','票額[piào é],票额[piào é]')).
+assert(celo(noradrenalino,'noradrenalin.0o','降肾上腺素[jiàng shèn shàng xiàn sù],降腎上腺素[jiàng shèn shàng xiàn sù]')).
+assert(celo(noradrenalino,'noradrenalin.0o','正肾上腺素[zhèng shèn shàng xiàn sù],正腎上腺素[zhèng shèn shàng xiàn sù]')).
+assert(celo(noradrenalino,'noradrenalin.0o','去甲肾上腺素[qù jiǎ shèn shàng xiàn sù],去甲腎上腺素[qù jiǎ shèn shàng xiàn sù]')).
+assert(celo(norda,'nord.0a','北面[běi miàn]')).
+assert(celo(norda,'nord.0a','北边[běi biān],北邊[běi biān]')).
+assert(celo(norda,'nord.0a','來自北方[lái zì běi fāng],来自北方[lái zì běi fāng]')).
+assert(celo(norda,'nord.0a','向北方[xiàng běi fāng]')).
+assert(celo(norda,'nord.0a','朝北[cháo běi]')).
+assert(celo('norde de','nord.0ede','北边[běi biān],北邊[běi biān]')).
+assert(celo('norde de','nord.0ede','北面[běi miàn]')).
+assert(celo('norde de','nord.0ede','以北[yǐ běi]')).
+assert(celo(norma,'norm.0a','規範性[guī fàn xìng],规范性[guī fàn xìng]')).
+assert(celo(norma,'','标准规格[biāo zhǔn guī gé],標準規格[biāo zhǔn guī gé]')).
+assert(celo(normi,'norm.0i','規範[guī fàn],规范[guī fàn]')).
+assert(celo(normo,'norm.0o','指标[zhǐ biāo],指標[zhǐ biāo]')).
+assert(celo(normo,'norm.0o.KOMUNE','准的[zhǔn dì],準的[zhǔn dì]')).
+assert(celo(normo,'norm.0o.KOMUNE','矱[yuē]')).
+assert(celo(normo,'norm.0o.KOMUNE','規格[guī gé],规格[guī gé]')).
+assert(celo(normo,'norm.0o.KOMUNE','規範[guī fàn],规范[guī fàn]')).
+assert(celo(normo,'norm.0o.KOMUNE','格[gé]')).
+assert(celo(normo,'norm.0o.KOMUNE','模[mó]')).
+assert(celo(normo,'norm.0o.KOMUNE','臬[niè]')).
+assert(celo(normala,'normal.0a','通常[tōng cháng]')).
+assert(celo(normala,'normal.0a','正常[zhèng cháng]')).
+assert(celo(normala,'normal.0a','师范[shī fàn],師範[shī fàn]')).
+assert(celo(normala,'normal.0a','对头[duì tóu],對頭[duì tóu]')).
+assert(celo(normalulo,'normal.0ulo','一般人[yì bān rén]')).
+assert(celo(normalulo,'normal.0ulo','普通人[pǔ tōng rén]')).
+assert(celo(normalulo,'normal.0ulo','一般人[yī bān rén]')).
+assert(celo(normalulo,'normal.0ulo','庸才[yōng cái]')).
+assert(celo(normando,'normand.0o','諾曼人[nuò màn rén],诺曼人[nuò màn rén]')).
+assert(celo('Normandujo','normand.0ujo','諾曼底[Nuò màn dǐ],诺曼底[Nuò màn dǐ]')).
+assert(celo('Normandujo','normand.0ujo','諾曼第[Nuò màn dì],诺曼第[Nuò màn dì]')).
+assert(celo(norvego,'norveg.0o','挪威人[nuó wēi rén]')).
+assert(celo('Norvegujo','norveg.N0ujo','挪威[Nuó wēi]')).
+assert(celo('Norvegio','norvegi.N0o','挪威[Nuó wēi]')).
+assert(celo(nostalgia,'nostal.0a','怀古[huái gǔ],懷古[huái gǔ]')).
+assert(celo(nostalgio,'nostal.0o','怀旧[huái jiù],懷舊[huái jiù]')).
+assert(celo(nostalgio,'nostal.0o','想家[xiǎng jiā]')).
+assert(celo(nostalgio,'nostal.0o','眷眷之心[juàn juàn zhī xīn]')).
+assert(celo(nostalgio,'nostal.0o','乡愁[xiāng chóu],鄉愁[xiāng chóu]')).
+assert(celo(nostalgio,'nostal.0o','乡情[xiāng qíng],鄉情[xiāng qíng]')).
+assert(celo(nostalgio,'nostal.0o','思家[sī jiā],想家[sī jiā]')).
+assert(celo(nostalgio,'nostal.0o','思乡病[sī xiāng bìng],思鄉病[sī xiāng bìng]')).
+assert(celo(nostalgio,'nostal.0o','乡思[xiāng sī],鄉思[xiāng sī]')).
+assert(celo(nostalgio,'nostal.0o','保安团[bǎo ān tuán],保安團[bǎo ān tuán]')).
+retract(celo(nostalgio,'nostal.0o','保安团[bǎo ān tuán],保安團[bǎo ān tuán]')).
+assert(celo(noti,'not.0i','手記[shǒu jì],手记[shǒu jì]')).
+assert(celo(noti,'not.0i','注解[zhù jiě],註解[zhù jiě]')).
+assert(celo(noti,'not.0i','柬[jiǎn]')).
+assert(celo(noti,'not.0i.memori','注[zhù],註[zhù]')).
+assert(celo(noti,'not.0i.skribi','記下[jì xià],记下[jì xià]')).
+assert(celo(noti,'not.0i.skribi','开价[kāi jià],開價[kāi jià]')).
+assert(celo(noto,'not.0o.MUZ','声调[shēng diào],聲調[shēng diào]')).
+assert(celo(noto,'not.0o.PED','評分[píng fēn],评分[píng fēn]')).
+assert(celo(noto,'not.0o.PED','比分[bǐ fēn]')).
+assert(celo(noto,'not.0o.PED','成績[chéng jì],成绩[chéng jì]')).
+assert(celo(noto,'not.0o.memoriga','手記[shǒu jì],手记[shǒu jì]')).
+assert(celo(noto,'not.0o.memoriga','便条[biàn tiáo],便條[biàn tiáo]')).
+assert(celo(noto,'not.0o.memoriga','方便貼[fāng biàn tiē],方便贴[fāng biàn tiē]')).
+assert(celo(noto,'not.0o.memoriga','備忘錄[bèi wàng lù],备忘录[bèi wàng lù]')).
+assert(celo(noto,'not.0o.memoriga','便笺[biàn jiān],便箋[biàn jiān]')).
+assert(celo(notoj,'not.0oj','乐谱[yuè pǔ],樂譜[yuè pǔ]')).
+assert(celo('diplomatia noto','not.diplomatia0o','通牒[tōng dié]')).
+assert(celo(kurznoto,'not.kurz0o','引用句[yǐn yòng jù]')).
+assert(celo(piednoto,'not.pied0o','注脚[zhù jiǎo],註腳[zhù jiǎo]')).
+assert(celo(piednoto,'not.pied0o','脚注[jiǎo zhù],腳注[jiǎo zhù]')).
+assert(celo(piednoto,'not.pied0o','尾注[wěi zhù],尾註[wěi zhù]')).
+assert(celo(piednoto,'not.pied0o','脚注[jiǎo zhù],腳註[jiǎo zhù]')).
+assert(celo(prinoto,'not.pri0o.TIP','注释者[zhù shì zhě],註釋者[zhù shì zhě]')).
+assert(celo(prinoto,'not.pri0o.TIP','詁[gǔ],诂[gǔ]')).
+assert(celo(prinoto,'not.pri0o.TIP','評論員[píng lùn yuán],评论员[píng lùn yuán]')).
+assert(celo(prinoto,'not.pri0o.TIP','注[zhù],註[zhù]')).
+assert(celo(prinoto,'not.pri0o.TIP','注释[zhù shì],注釋[zhù shì]')).
+assert(celo(prinoto,'not.pri0o.TIP','注释[zhù shì],註釋[zhù shì]')).
+assert(celo(prinoto,'not.pri0o.TIP','題解[tí jiě],题解[tí jiě]')).
+assert(celo(notacio,'notaci.0o','記譜法[jì pǔ fǎ],记谱法[jì pǔ fǎ]')).
+assert(celo(notaro,'','公證人[gōng zhèng rén],公证人[gōng zhèng rén]')).
+assert(celo(notico,'notic.0o','短信息[duǎn xìn xī]')).
+assert(celo(notico,'notic.0o','通知单[tōng zhī dān],通知單[tōng zhī dān]')).
+assert(celo(notico,'notic.0o','知会[zhī huì],知會[zhī huì]')).
+assert(celo(notico,'notic.0o','一句話新聞[yī jù huà xīn wén],一句话新闻[yī jù huà xīn wén]')).
+assert(celo(nova,'nov.0a','新[xīn]')).
+assert(celo(nova,'nov.0a','新事物[xīn shì wù]')).
+assert(celo(nova,'nov.0a','新式[xīn shì]')).
+assert(celo(nova,'nov.0a','新型[xīn xíng]')).
+assert(celo(novaĵisto,'nov.0ajxisto.INF','報人[bào rén],报人[bào rén]')).
+assert(celo(novaĵo,'nov.0ajxo.informo','新聞[xīn wén],新闻[xīn wén]')).
+assert(celo(novaĵo,'nov.0ajxo.informo','消息[xiāo xi]')).
+assert(celo(novaĵo,'nov.0ajxo.informo','風聲[fēng shēng],风声[fēng shēng]')).
+assert(celo(novaĵo,'nov.0ajxo.invento','创新[chuàng xīn],創新[chuàng xīn]')).
+assert(celo(novaĵo,'nov.0ajxo.invento','创举[chuàng jǔ],創舉[chuàng jǔ]')).
+assert(celo(novaĵo,'nov.0ajxo.invento','新事物[xīn shì wù]')).
+assert(celo(novaĵo,'nov.0ajxo.invento','新书[xīn shū],新書[xīn shū]')).
+assert(celo(novaĵo,'nov.0ajxo.invento','新版[xīn bǎn]')).
+assert(celo(novaĵo,'nov.0ajxo.invento','新异[xīn yì],新異[xīn yì]')).
+assert(celo(novaĵo,'nov.0ajxo.okazo','新事物[xīn shì wù]')).
+assert(celo(novaĵo,'nov.0ajxo.okazo','音訊[yīn xùn],音讯[yīn xùn]')).
+assert(celo(noveca,'nov.0eca','创意新颖[chuàng yì xīn yǐng],創意新穎[chuàng yì xīn yǐng]')).
+assert(celo(noveca,'nov.0eca','突破性[tū pò xìng]')).
+assert(celo(novismo,'nov.0ismo.BELA','现代主义[xiàn dài zhǔ yì],現代主義[xiàn dài zhǔ yì]')).
+assert(celo(novismo,'nov.0ismo.LIN','新詞[xīn cí],新词[xīn cí]')).
+assert(celo(novismo,'nov.0ismo.LIN','新來詞[xīn lái cí],新来词[xīn lái cí]')).
+assert(celo(novulo,'nov.0ulo','新手[xīn shǒu]')).
+assert(celo(novulo,'nov.0ulo','新人[xīn rén]')).
+assert(celo(novulo,'nov.0ulo','新丁[xīn dīng]')).
+assert(celo(novulo,'nov.0ulo','初出茅庐[chū chū máo lú],初出茅廬[chū chū máo lú]')).
+assert(celo(novulo,'nov.0ulo','外教[wài jiào]')).
+assert(celo(novulo,'nov.0ulo','菜鳥[cài niǎo],菜鸟[cài niǎo]')).
+assert(celo(denove,'nov.de0e','从新[cóng xīn],從新[cóng xīn]')).
+assert(celo(denove,'nov.de0e','重新[chóng xīn]')).
+assert(celo(denove,'nov.de0e','从头[cóng tóu],從頭[cóng tóu]')).
+assert(celo(denove,'nov.de0e','再一次[zài yī cì]')).
+assert(celo(denove,'nov.de0e','再次[zài cì]')).
+assert(celo(denove,'nov.de0e','重又[chóng yòu]')).
+assert(celo('falsa novaĵo','nov.falsa_0ajxo','報紙虛假消息[bào zhǐ xū jiǎ xiāo xī],报纸虚假消息[bào zhǐ xū jiǎ xiāo xī]')).
+assert(celo('falsa novaĵo','nov.falsa_0ajxo','假報道[jiǎ bào dào],假报道[jiǎ bào dào]')).
+assert(celo('falsa novaĵo','nov.falsa_0ajxo','誤傳[wù chuán],误传[wù chuán]')).
+assert(celo('falsa novaĵo','nov.falsa_0ajxo','謠言[yáo yán],谣言[yáo yán]')).
+assert(celo(malnova,'nov.mal0a','古老[gǔ lǎo]')).
+assert(celo(malnova,'nov.mal0a','宿[sù]')).
+assert(celo(malnova,'nov.mal0a','旧[jiù],舊[jiù]')).
+assert(celo(malnova,'nov.mal0a','年迈[nián mài],年邁[nián mài]')).
+assert(celo(malnova,'nov.mal0a','苍老[cāng lǎo],蒼老[cāng lǎo]')).
+assert(celo(malnova,'nov.mal0a','高年[gāo nián]')).
+assert(celo(malnova,'nov.mal0a','陈旧[chén jiù],陳舊[chén jiù]')).
+assert(celo(malnovaĵo,'nov.mal0ajxo.io','旧货[jiù huò],舊貨[jiù huò]')).
+assert(celo(malnovaĵo,'nov.mal0ajxo.io','旧货市场[jiù huò shì chǎng],舊貨市場[jiù huò shì chǎng]')).
+assert(celo(malnovaĵo,'nov.mal0ajxo.io','古風[gǔ fēng],古风[gǔ fēng]')).
