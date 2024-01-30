@@ -985,3 +985,363 @@ assert(celo(senordo,'ord.sen0o','紊乱[wěn luàn],紊亂[wěn luàn]')).
 assert(celo(subordigi,'ord.sub0igi','属下[shǔ xià],屬下[shǔ xià]')).
 assert(celo(tagordo,'ord.tag0o','議程[yì chéng],议程[yì chéng]')).
 assert(celo(tagordo,'ord.tag0o','議事日程[yì shì rì chéng],议事日程[yì shì rì chéng]')).
+assert(celo(vortordo,'ord.vort0o','詞序[cí xù],词序[cí xù]')).
+assert(celo(vortordo,'ord.vort0o','語序[yǔ xù],语序[yǔ xù]')).
+assert(celo(ordeno,'orden.0o','兄弟会[xiōng dì huì],兄弟會[xiōng dì huì]')).
+assert(celo(ordeno,'orden.0o','章[zhāng]')).
+assert(celo(ordeno,'orden.0o.insigno','勋章[xūn zhāng],勛章[xūn zhāng]')).
+assert(celo(ordeno,'orden.0o.insigno','徽[huī]')).
+assert(celo(ordeno,'orden.0o.insigno','奖章[jiǎng zhāng],獎章[jiǎng zhāng]')).
+assert(celo(ordinara,'ordina.0a','平常[píng cháng]')).
+assert(celo(ordinara,'ordina.0a','平时[píng shí],平時[píng shí]')).
+assert(celo(ordinara,'ordina.0a','一般[yī bān]')).
+assert(celo(ordinara,'ordina.0a','中常[zhōng cháng]')).
+assert(celo(ordinara,'ordina.0a','平凡[píng fán]')).
+assert(celo(ordinara,'ordina.0a','庸[yōng]')).
+assert(celo(ordinara,'ordina.0a','普通[pǔ tōng]')).
+assert(celo(ordinara,'ordina.0a','正常[zhèng cháng]')).
+assert(celo(ordinara,'ordina.0a','平淡[píng dàn]')).
+assert(celo(ordinara,'ordina.0a','简单[jiǎn dān],簡單[jiǎn dān]')).
+assert(celo(ordinara,'ordina.0a','通常[tōng cháng]')).
+assert(celo(ordinara,'ordina.0a','照說[zhào shuō],照说[zhào shuō]')).
+assert(celo(ordinara,'ordina.0a','寻常[xún cháng],尋常[xún cháng]')).
+assert(celo(ordinare,'ordina.0e','平常[píng cháng]')).
+assert(celo(ordinare,'ordina.0e','平时[píng shí],平時[píng shí]')).
+assert(celo(ordinaro,'ordina.0o','平常[píng cháng]')).
+assert(celo(ordinarulo,'ordina.0ulo','普通人[pǔ tōng rén]')).
+assert(celo(ordinarulo,'ordina.0ulo','常人[cháng rén]')).
+assert(celo(ordinarulo,'ordina.0ulo','平人[píng rén]')).
+assert(celo(eksterordinara,'ordina.ekster0a','出奇[chū qí]')).
+assert(celo(eksterordinara,'ordina.ekster0a','非凡[fēi fán]')).
+assert(celo(eksterordinara,'ordina.ekster0a','非常[fēi cháng]')).
+assert(celo(eksterordinara,'ordina.ekster0a','异乎寻常[yì hū xún cháng],異乎尋常[yì hū xún cháng]')).
+assert(celo(eksterordinara,'ordina.ekster0a','异[yì],異[yì]')).
+assert(celo(eksterordinara,'ordina.ekster0a','了不起[liǎo bu qǐ]')).
+assert(celo(eksterordinara,'ordina.ekster0a','特殊[tè shū]')).
+assert(celo(neordinara,'ordina.ne0a','不同寻常[bù tóng xún cháng],不同尋常[bù tóng xún cháng]')).
+assert(celo(neordinara,'ordina.ne0a','不平常[bù píng cháng]')).
+assert(celo(neordinara,'ordina.ne0a','出奇[chū qí]')).
+assert(celo(neordinara,'ordina.ne0a','別樣[bié yàng],别样[bié yàng]')).
+assert(celo(neordinara,'ordina.ne0a','反常[fǎn cháng]')).
+assert(celo(neordinara,'ordina.ne0a','奇特[qí tè]')).
+assert(celo(neordinara,'ordina.ne0a','特[tè]')).
+assert(celo(neordinara,'ordina.ne0a','特殊[tè shū]')).
+assert(celo(ordinato,'ordina1.0o','縱座標[zòng zuò biāo],纵坐标[zòng zuò biāo]')).
+assert(celo(ordinacio,'ordinac.0','按手礼[àn shǒu lǐ],按手禮[àn shǒu lǐ]')).
+assert(celo(ordinacio,'ordinac.0','按立[àn lì]')).
+assert(celo(ordonema,'ordon.0ema','权威[quán wēi],權威[quán wēi]')).
+assert(celo(ordonema,'ordon.0ema','主人派头[zhǔ rén pài tóu],主人派頭[zhǔ rén pài tóu]')).
+assert(celo(ordonema,'ordon.0ema','家長式[jiā zhǎng shì],家长式[jiā zhǎng shì]')).
+assert(celo(ordonema,'ordon.0ema','专横[zhuān héng],專橫[zhuān héng]')).
+assert(celo(ordonema,'ordon.0ema','豪爽[háo shuǎng]')).
+assert(celo(ordoni,'ordon.0i','吩咐[fēn fù]')).
+assert(celo(ordoni,'ordon.0i','飭[chì],饬[chì]')).
+assert(celo(ordoni,'ordon.0i','咐[fù]')).
+assert(celo(ordoni,'ordon.0i','命令[mìng lìng]')).
+assert(celo(ordoni,'ordon.0i','勒令[lè lìng]')).
+assert(celo(ordoni,'ordon.0i','諭[yù],谕[yù]')).
+assert(celo(ordoni,'ordon.0i','令[lìng]')).
+assert(celo(ordoni,'ordon.0i','吩[fēn]')).
+assert(celo(ordoni,'ordon.0i','叫[jiào],呌[jiào]')).
+assert(celo(ordoni,'ordon.0i','指挥[zhǐ huī],指揮[zhǐ huī]')).
+assert(celo(ordono,'ordon.0o','命令[mìng lìng]')).
+assert(celo(ordono,'ordon.0o','指令[zhǐ lìng]')).
+assert(celo(ordono,'ordon.0o','指挥[zhǐ huī],指揮[zhǐ huī]')).
+assert(celo(ordono,'ordon.0o','指挥权[zhǐ huī quán],指揮權[zhǐ huī quán]')).
+assert(celo(ordono,'ordon.0o','号令[hào lìng],號令[hào lìng]')).
+assert(celo(ordono,'ordon.0o','訓令[xùn lìng],训令[xùn lìng]')).
+assert(celo(ordono,'ordon.0o','指示[zhǐ shì]')).
+assert(celo(ordono,'ordon.0o.KOMP','命令[mìng lìng]')).
+assert(celo('Oregono','oregon.0o','俄勒冈[Á lè gāng],俄勒岡[Á lè gāng]')).
+assert(celo('Oregono','oregon.0o','俄勒冈州[Á lè gāng zhōu],俄勒岡州[Á lè gāng zhōu]')).
+assert(celo(orelbruo,'orel.0bruo','耳鳴[ěr míng],耳鸣[ěr míng]')).
+assert(celo(orelbruo,'orel.0bruo','聎[tiāo]')).
+assert(celo(orelo,'orel.0o','耳[ěr]')).
+assert(celo(orelo,'orel.0o','耳朵[ěr duo]')).
+assert(celo(orelo,'orel.0o','耳根子[ěr gēn zi]')).
+assert(celo(orelo,'orel.0o','耳根[ěr gēn]')).
+assert(celo(orfejo,'orf.0ejo','孤儿院[gū ér yuàn],孤兒院[gū ér yuàn]')).
+assert(celo(orfejo,'orf.0ejo','保育院[bǎo yù yuàn]')).
+assert(celo(orfo,'orf.0o','孤儿[gū ér],孤兒[gū ér]')).
+assert(celo(orfo,'orf.0o','无双亲的孩子[wú shuāng qīn de hái zi],無雙親的孩子[wú shuāng qīn de hái zi]')).
+assert(celo(orfo,'orf.0o','遗孤[yí gū],遺孤[yí gū]')).
+assert(celo(orfo,'orf.0o','孤子[gū zǐ]')).
+assert(celo(orfo,'orf.0o','孤哀子[gū āi zǐ]')).
+assert(celo(orfo,'orf.0o','遗男[yí nán],遺男[yí nán]')).
+assert(celo('Orfeo','orfe.0o','俄耳甫斯[é ěr fǔ sī]')).
+assert(celo(organa,'organ.0a','有机[yǒu jī],有機[yǒu jī]')).
+assert(celo(organaro,'organ.0aro','器官系統[qì guān xì tǒng],器官系统[qì guān xì tǒng]')).
+assert(celo(organeto,'organ.0eto','細胞器[xì bāo qì],细胞器[xì bāo qì]')).
+assert(celo(organo,'organ.0o','机构[jī gòu],機構[jī gòu]')).
+assert(celo(organo,'organ.0o','內臟[nèi zàng],内脏[nèi zàng]')).
+assert(celo(sensorgano,'organ.sens0o','感官[gǎn guān]')).
+assert(celo(sensorgano,'organ.sens0o','感覺器[gǎn jué qì],感觉器[gǎn jué qì]')).
+assert(celo(sensorgano,'organ.sens0o','感覺器官[gǎn jué qì guān],感觉器官[gǎn jué qì guān]')).
+assert(celo(sensorgano,'organ.sens0o','五官[wǔ guān]')).
+assert(celo(organika,'organi.0a','有机[yǒu jī],有機[yǒu jī]')).
+assert(celo(neorganika,'organi.ne0a','无机[wú jī],無機[wú jī]')).
+assert(celo(organismo,'organi1.0o','机体[jī tǐ],機體[jī tǐ]')).
+assert(celo(organismo,'organi1.0o','肌体[jī tǐ],肌體[jī tǐ]')).
+assert(celo(organismo,'organi1.0o','生物[shēng wù]')).
+assert(celo(organismo,'organi1.0o','有机体[yǒu jī tǐ],有機體[yǒu jī tǐ]')).
+assert(celo(organo,'','器官[qì guān]')).
+assert(celo(organa,'','器官[qì guān]')).
+assert(celo(organizado,'organi2.0ado','組織[zǔ zhī],组织[zǔ zhī]')).
+assert(celo(organizado,'organi2.0ado','組團[zǔ tuán],组团[zǔ tuán]')).
+assert(celo(organizado,'organi2.0ado','系統化[xì tǒng huà],系统化[xì tǒng huà]')).
+assert(celo(organizaĵo,'organi2.0ajxo','机构[jī gòu],機構[jī gòu]')).
+assert(celo(organizaĵo,'organi2.0ajxo','組織[zǔ zhī],组织[zǔ zhī]')).
+assert(celo(organizaĵo,'organi2.0ajxo','团体[tuán tǐ],團體[tuán tǐ]')).
+assert(celo(organizaĵo,'organi2.0ajxo','社团[shè tuán],社團[shè tuán]')).
+assert(celo(organizaĵo,'organi2.0ajxo','社会团体[shè huì tuán tǐ],社會團體[shè huì tuán tǐ]')).
+assert(celo('Organizaĵo por Sekureco kaj Kunlaboro en Eŭropo','organi2.0ajxo_por_Sekureco_kaj_Kunlaboro_en_Euxropo','欧洲安全与合作组织[Āu zhōu Ān quán yǔ Hé zuò Zǔ zhī],歐洲安全與合作組織[Āu zhōu Ān quán yǔ Hé zuò Zǔ zhī]')).
+assert(celo(organizi,'organi2.0i','組織[zǔ zhī],组织[zǔ zhī]')).
+assert(celo(organizi,'organi2.0i','組[zǔ],组[zǔ]')).
+assert(celo(organizi,'organi2.0i','举办[jǔ bàn],舉辦[jǔ bàn]')).
+assert(celo(organizo,'organi2.0o','机构[jī gòu],機構[jī gòu]')).
+assert(celo(organizo,'organi2.0o','团体[tuán tǐ],團體[tuán tǐ]')).
+assert(celo(organizo,'organi2.0o','社团[shè tuán],社團[shè tuán]')).
+assert(celo(organizo,'organi2.0o','組織[zǔ zhī],组织[zǔ zhī]')).
+assert(celo(organizo,'organi2.0o','組團[zǔ tuán],组团[zǔ tuán]')).
+assert(celo('Internacia Labor-Organizaĵo','organi2.Internacia_Labor0ajxo','国际劳工组织[Guó jì Láo gōng Zǔ zhī],國際勞工組織[Guó jì Láo gōng Zǔ zhī]')).
+assert(celo(malorganiziĝi,'organi2.dis0igxi','解体[jiě tǐ],解體[jiě tǐ]')).
+assert(celo('neregistara organizaĵo','organi2.neregistara0ajxo','民間組織[mín jiān zǔ zhī],民间组织[mín jiān zǔ zhī]')).
+assert(celo('neregistara organizaĵo','organi2.neregistara0ajxo','非政府組織[fēi zhèng fǔ zǔ zhī],非政府组织[fēi zhèng fǔ zǔ zhī]')).
+assert(celo('neregistara organizaĵo','organi2.neregistara0ajxo','非政府机构[fēi zhèng fǔ jī gòu],非政府機構[fēi zhèng fǔ jī gòu]')).
+assert(celo(reorganizi,'organi2.re0i','重新安排[chóng xīn ān pái]')).
+assert(celo(reorganizi,'organi2.re0i','重新組織[chóng xīn zǔ zhī],重新组织[chóng xīn zǔ zhī]')).
+assert(celo(reorganizi,'organi2.re0i','改組[gǎi zǔ],改组[gǎi zǔ]')).
+assert(celo(reorganizi,'organi2.re0i','整頓[zhěng dùn],整顿[zhěng dùn]')).
+assert(celo(reorganizi,'organi2.re0i','重整[chóng zhěng]')).
+assert(celo(orgasmo,'orgasm.0o','性高潮[xìng gāo cháo]')).
+assert(celo(orgasmi,'','高潮[gāo cháo]')).
+assert(celo(orgeno,'orgen.0o','管風琴[guǎn fēng qín],管风琴[guǎn fēng qín]')).
+assert(celo(orgojla,'orgojl.0a','傲[ào]')).
+assert(celo(orgojla,'orgojl.0a','驕[jiāo],骄[jiāo]')).
+assert(celo(orgojla,'orgojl.0a','憍[jiāo]')).
+assert(celo(orgojla,'orgojl.0a','高傲[gāo ào]')).
+assert(celo(orgojla,'orgojl.0a','自大[zì dà]')).
+assert(celo(orgojla,'orgojl.0a','嚣张[xiāo zhāng],囂張[xiāo zhāng]')).
+assert(celo(orgojla,'orgojl.0a','傲慢[ào màn]')).
+assert(celo(orgojli,'orgojl.0i','拿大[ná dà]')).
+assert(celo(orgojlo,'orgojl.0o','驕傲[jiāo ào],骄傲[jiāo ào]')).
+assert(celo(orgojlo,'orgojl.0o','自傲[zì ào]')).
+assert(celo(orgojlo,'orgojl.0o','自大[zì dà]')).
+assert(celo(orgojlo,'orgojl.0o','目中无人[mù zhōng wú rén],目中無人[mù zhōng wú rén]')).
+assert(celo(orielo,'oriel.0o','凸窗[tū chuāng]')).
+assert(celo(orienta,'orient.0a','东部[dōng bù],東部[dōng bù]')).
+assert(celo(orienta,'orient.0a','向东方[xiàng dōng fāng],向東方[xiàng dōng fāng]')).
+assert(celo(orienta,'orient.0a','从东[cóng dōng],從東[cóng dōng]')).
+assert(celo(orienta,'orient.0a','从东方[cóng dōng fāng],從東方[cóng dōng fāng]')).
+assert(celo(orienta,'orient.0a','自东[zì dōng],自東[zì dōng]')).
+assert(celo(orienta,'orient.0a','东方国家[dōng fāng guó jiā],東方國家[dōng fāng guó jiā]')).
+assert(celo(orienten,'orient.0en','向东[xiàng dōng],向東[xiàng dōng]')).
+assert(celo(orienti,'orient.0i','导向[dǎo xiàng],導向[dǎo xiàng]')).
+assert(celo(orientiĝo,'orient.0igxo','方向[fāng xiang]')).
+assert(celo(orientilo,'orient.0ilo','地标[dì biāo],地標[dì biāo]')).
+assert(celo(orientilo,'orient.0ilo','取向点[qǔ xiàng diǎn],取向點[qǔ xiàng diǎn]')).
+assert(celo(orientilo,'orient.0ilo','定位中心[dìng wèi zhōng xīn]')).
+assert(celo(orientilo,'orient.0ilo','定位点[dìng wèi diǎn],定位點[dìng wèi diǎn]')).
+assert(celo(orientilo,'orient.0ilo','方向点[fāng xiàng diǎn],方向點[fāng xiàng diǎn]')).
+assert(celo(orientilo,'orient.0ilo','辨認方向的標誌[biàn rèn fāng xiàng de biāo zhì],辨认方向的标志[biàn rèn fāng xiàng de biāo zhì]')).
+assert(celo(orientiĝo,'','取向[qǔ xiàng]')).
+assert(celo('Ekstremoriento','orient.ekstrem0o','远东[Yuǎn dōng],遠東[Yuǎn dōng]')).
+assert(celo('Oriento','','东方[dōng fāng],東方[dōng fāng]')).
+assert(celo(misorientiĝi,'orient.mis0igxi','迷失[mí shī]')).
+assert(celo(misorientiĝi,'orient.mis0igxi','迷路[mí lù]')).
+assert(celo(nordoriente,'orient.nord0e','东北方[dōng běi fāng],東北方[dōng běi fāng]')).
+assert(celo(sudoriente,'orient.sud0e','在东南[zài dōng nán],在東南[zài dōng nán]')).
+assert(celo(sudoriente,'orient.sud0e','从东南[cóng dōng nán],從東南[cóng dōng nán]')).
+assert(celo(orientalismo,'orient1.0o.SCI','东方式[dōng fāng shì],東方式[dōng fāng shì]')).
+assert(celo(orientalismo,'','亚洲研究[yà zhōu yán jiū],亞洲研究[yà zhōu yán jiū]')).
+assert(celo(orientalismo,'','东方主义[dōng fāng zhǔ yì],東方主義[dōng fāng zhǔ yì]')).
+assert(celo(orientalistiko,'orientalistik.0o','东方式[dōng fāng shì],東方式[dōng fāng shì]')).
+assert(celo(orientalistiko,'orientalistik.0o','亚洲研究[yà zhōu yán jiū],亞洲研究[yà zhōu yán jiū]')).
+assert(celo(orientalistiko,'orientalistik.0o','东方主义[dōng fāng zhǔ yì],東方主義[dōng fāng zhǔ yì]')).
+assert(celo(orifico,'orific.0o','窍[qiào],竅[qiào]')).
+assert(celo(origano,'origan.0o','牛至[niú zhì]')).
+assert(celo(origina,'origin.0a','原先[yuán xiān]')).
+assert(celo(origina,'origin.0a','原來[yuán lái],原来[yuán lái]')).
+assert(celo(origina,'origin.0a','原[yuán]')).
+assert(celo(origina,'origin.0a','原本[yuán běn]')).
+assert(celo(origina,'origin.0a','本來[běn lái],本来[běn lái]')).
+assert(celo(origina,'origin.0a','原定[yuán dìng]')).
+assert(celo(origini,'origin.0i','來源於[lái yuán yú],来源于[lái yuán yú]')).
+assert(celo(origine,'','原來[yuán lái],原来[yuán lái]')).
+assert(celo(origino,'origin.0o.MAT','由來[yóu lái],由来[yóu lái]')).
+assert(celo(origino,'origin.0o.deveno','來歷[lái lì],来历[lái lì]')).
+assert(celo(origino,'origin.0o.deveno','根源[gēn yuán]')).
+assert(celo(origino,'origin.0o.deveno','淵源[yuān yuán],渊源[yuān yuán]')).
+assert(celo(origino,'origin.0o.deveno','出身[chū shēn]')).
+assert(celo(origino,'origin.0o.kauxzo','由來[yóu lái],由来[yóu lái]')).
+assert(celo(origino,'origin.0o.kauxzo','根源[gēn yuán]')).
+assert(celo(origino,'origin.0o.kauxzo','肇[zhào],肈[zhào]')).
+assert(celo(origino,'origin.0o.kauxzo','原产地[yuán chǎn dì],原產地[yuán chǎn dì]')).
+assert(celo(origino,'origin.0o.kauxzo','原件[yuán jiàn]')).
+assert(celo(origino,'origin.0o.kauxzo','來源[lái yuán],来源[lái yuán]')).
+assert(celo(originala,'origin1.0a','原本[yuán běn]')).
+assert(celo(originala,'origin1.0a','原[yuán]')).
+assert(celo(originala,'origin1.0a','原汁原味[yuán zhī yuán wèi]')).
+assert(celo(originala,'origin1.0a','戛戛独造[jiá jiá dú zào],戛戛獨造[jiá jiá dú zào]')).
+assert(celo(originala,'origin1.0a','独到[dú dào],獨到[dú dào]')).
+assert(celo(originalo,'origin1.0o','原件[yuán jiàn]')).
+assert(celo(originalo,'origin1.0o','原作[yuán zuò]')).
+assert(celo(originalo,'origin1.0o','原物[yuán wù]')).
+assert(celo(originalo,'origin1.0o','正本[zhèng běn]')).
+assert(celo(originalo,'origin1.0o','原文[yuán wén]')).
+assert(celo(originalo,'origin1.0o','原著[yuán zhù]')).
+assert(celo(oriolo,'oriol.0o','鶬[cāng],鸧[cāng]')).
+assert(celo(oriolo,'oriol.0o','鶊[gēng],鹒[gēng]')).
+assert(celo(oriolo,'oriol.0o','鸝[lí],鹂[lí]')).
+assert(celo(oriolo,'oriol.0o','鶊[gēng]')).
+assert(celo(oriolo,'oriol.0o','鶬[cāng]')).
+assert(celo(oriolo,'oriol.0o','莺鸟[yīng niǎo],鶯鳥[yīng niǎo]')).
+assert(celo(orkestrejo,'orkest.0ejo','乐池[yuè chí],樂池[yuè chí]')).
+assert(celo(orkestro,'orkest.0o','交响乐团[jiāo xiǎng yuè tuán],交響樂團[jiāo xiǎng yuè tuán]')).
+assert(celo(orkestro,'orkest.0o','乐团[yuè tuán],樂團[yuè tuán]')).
+assert(celo(orkestro,'orkest.0o','管弦乐团[guǎn xián yuè tuán],管弦樂團[guǎn xián yuè tuán]')).
+assert(celo(orkido,'orkid.0o.ANA','睾丸[gāo wán]')).
+assert(celo(orkido,'orkid.0o.BOT','兰花[lán huā],蘭花[lán huā]')).
+assert(celo(orkido,'orkid.0o.BOT','兰[lán],蘭[lán]')).
+assert(celo(orkido,'orkid.0o.BOT','佩兰[pèi lán],佩蘭[pèi lán]')).
+assert(celo(orkido,'orkid.0o.BOT','蘭[lán]')).
+assert(celo(orkido,'orkid.0o.BOT','薽[zhēn]')).
+assert(celo(orkidacoj,'orkidac.0oj','蘭[lán]')).
+assert(celo(orkideo,'orkide.0o','兰花[lán huā],蘭花[lán huā]')).
+assert(celo(orkideo,'orkide.0o','兰[lán],蘭[lán]')).
+assert(celo(orkideo,'orkide.0o','薽[zhēn]')).
+assert(celo(orkideo,'orkide.0o','佩兰[pèi lán],佩蘭[pèi lán]')).
+assert(celo(orkideo,'orkide.0o','蘭[lán]')).
+assert(celo(orli,'orl.0i','卷边[juǎn biān],捲邊[juǎn biān]')).
+assert(celo(orli,'orl.0i','衣服縫邊[yī fú fèng biān],衣服缝边[yī fú fèng biān]')).
+assert(celo(orlo,'orl.0o','卷边[juǎn biān],捲邊[juǎn biān]')).
+assert(celo(orlo,'orl.0o','衣服縫邊[yī fú fèng biān],衣服缝边[yī fú fèng biān]')).
+assert(celo(orlo,'orl.0o','下摆[xià bǎi],下擺[xià bǎi]')).
+assert(celo(orlo,'orl.0o','底边[dǐ biān],底邊[dǐ biān]')).
+assert(celo(orlo,'orl.0o','䙓[bǎi],襬[bǎi]')).
+assert(celo('Orleano','orlean.0o','奥尔良[ào ěr liáng],奧爾良[ào ěr liáng]')).
+assert(celo(ornamado,'ornam.0ado','飾[shì],饰[shì]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','妆[zhuāng],粧[zhuāng]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','瓖[xiāng]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','妆[zhuāng],妝[zhuāng]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','佩飾[pèi shì],佩饰[pèi shì]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','装潢[zhuāng huáng],裝潢[zhuāng huáng]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','装饰品[zhuāng shì pǐn],裝飾品[zhuāng shì pǐn]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','配飾[pèi shì],配饰[pèi shì]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','飾品[shì pǐn],饰品[shì pǐn]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','飾物[shì wù],饰物[shì wù]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','添飾[tiān shì],添饰[tiān shì]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','装饰物[zhuāng shì wù],裝飾物[zhuāng shì wù]')).
+assert(celo(ornamaĵo,'ornam.0ajxo','綴飾[zhuì shì],缀饰[zhuì shì]')).
+assert(celo(ornami,'ornam.0i','修飾[xiū shì],修饰[xiū shì]')).
+assert(celo(ornami,'ornam.0i','飾[shì],饰[shì]')).
+assert(celo(ornami,'ornam.0i','装饰[zhuāng shì],裝飾[zhuāng shì]')).
+assert(celo(ornami,'ornam.0i','点缀[diǎn zhuì],點綴[diǎn zhuì]')).
+assert(celo(ornami,'ornam.0i','装点[zhuāng diǎn],裝點[zhuāng diǎn]')).
+assert(celo(ornamo,'ornam.0o.ado','飾[shì],饰[shì]')).
+assert(celo(ornamo,'ornam.0o.ado','装饰物[zhuāng shì wù],裝飾物[zhuāng shì wù]')).
+assert(celo(ornamo,'ornam.0o.ado','瓖[xiāng]')).
+assert(celo(ornamo,'ornam.0o.ado','藏品[cáng pǐn]')).
+assert(celo(ornitologio,'ornito.0o','鳥類學[niǎo lèi xué],鸟类学[niǎo lèi xué]')).
+assert(celo(ornitorinko,'ornito1.0o','鴨嘴獸[yā zuǐ shòu],鸭嘴兽[yā zuǐ shòu]')).
+assert(celo(orta,'ort.0a.angulo','直角[zhí jiǎo]')).
+assert(celo(ortangulilo,'ort.0ilo','三角尺[sān jiǎo chǐ]')).
+assert(celo(orto,'ort.0o','直角[zhí jiǎo]')).
+assert(celo(orto,'ort.0o','正角[zhèng jué]')).
+assert(celo('ortodoksa kristanismo','ortodo.0akristanismo','正教[zhèng jiào]')).
+assert(celo('ortodoksa kristanismo','ortodo.0akristanismo','正統[zhèng tǒng],正统[zhèng tǒng]')).
+assert(celo(ortodoksismo,'ortodo.0ismo','正統[zhèng tǒng],正统[zhèng tǒng]')).
+assert(celo(ortodoksismo,'ortodo.0ismo','正教[zhèng jiào]')).
+assert(celo(ortodoksismo,'ortodo.0ismo','正統觀念[zhèng tǒng guān niàn],正统观念[zhèng tǒng guān niàn]')).
+assert(celo(ortodoksismo,'ortodo.0ismo','正統說法[zhèng tǒng shuō fa],正统说法[zhèng tǒng shuō fa]')).
+assert(celo(malortodoksa,'','非教条[fēi jiào tiáo],非教條[fēi jiào tiáo]')).
+assert(celo(ortografio,'ortogr.0o','正詞法[zhèng cí fǎ],正词法[zhèng cí fǎ]')).
+assert(celo(misortografii,'ortogr.mis0i','拼錯[pīn cuò],拼错[pīn cuò]')).
+assert(celo(ortopediisto,'ortope.0isto','整形外科医师[zhěng xíng wài kē yī shī],整形外科醫師[zhěng xíng wài kē yī shī]')).
+assert(celo(ortopediisto,'ortope.0isto','矫形医生[jiǎo xíng yī shēng],矯形醫生[jiǎo xíng yī shēng]')).
+assert(celo(ortopedio,'ortope.0o','骨科[gǔ kē]')).
+assert(celo(ortopedio,'ortope.0o','整形外科[zhěng xíng wài kē]')).
+assert(celo(ortopedo,'ortoped.0o','整形外科医师[zhěng xíng wài kē yī shī],整形外科醫師[zhěng xíng wài kē yī shī]')).
+assert(celo(ortopteroj,'ortopter.0oj','直翅目[zhí chì mù]')).
+assert(celo('Osako','osak.0o','大阪[Dà bǎn]')).
+assert(celo(oscedi,'osced.0i','张口[zhāng kǒu],張口[zhāng kǒu]')).
+assert(celo(oscedi,'osced.0i','打哈欠[dǎ hā qian]')).
+assert(celo(oscedi,'osced.0i','呿[qū]')).
+assert(celo(oscedi,'osced.0i','打呵欠[dǎ hē qiàn]')).
+assert(celo(oscili,'oscil.0i','摆动[bǎi dòng],擺動[bǎi dòng]')).
+assert(celo(oscili,'oscil.0i','搖擺[yáo bǎi],摇摆[yáo bǎi]')).
+assert(celo(oscili,'oscil.0i','振荡[zhèn dàng],振蕩[zhèn dàng]')).
+assert(celo(oscilatoro,'oscila.0o','振荡器[zhèn dàng qì],振蕩器[zhèn dàng qì]')).
+assert(celo(oscilatoro,'oscila.0o','振动器[zhèn dòng qì],振動器[zhèn dòng qì]')).
+assert(celo(oscilatoro,'oscila.0o','振动者[zhèn dòng zhě],振動者[zhèn dòng zhě]')).
+assert(celo(oscilatoro,'oscila.0o','发振器[fā zhèn qì],發振器[fā zhèn qì]')).
+assert(celo(oscilatoro,'oscila.0o','振子[zhèn zǐ]')).
+assert(celo(osciloskopo,'osciloskop.0o.ELE','示波器[shì bō qì]')).
+assert(celo(oseto,'oset.0o','奥塞梯人[ào sāi tī rén],奧塞梯人[ào sāi tī rén]')).
+assert(celo('Osetio','oseti.0o','奥塞梯[Ào sè tī],奧塞梯[Ào sè tī]')).
+assert(celo('Oskaro','oskar.0o','奥斯卡[Ào sī kǎ],奧斯卡[Ào sī kǎ]')).
+assert(celo('Oskaro','','奥斯卡[ào sī kǎ],奧斯卡[ào sī kǎ]')).
+assert(celo(osmanida,'osman.0ida','奥斯曼人的[ào sī màn rén de],奧斯曼人的[ào sī màn rén de]')).
+assert(celo('Osmanido','osman.0ido','奥斯曼[Ào sī màn],奧斯曼[Ào sī màn]')).
+assert(celo(osmanto,'osmant.0o','桂[guì]')).
+assert(celo(osmanto,'osmant.0o','樨[xī]')).
+assert(celo(osmio,'osmi.0o','鋨[é],锇[é]')).
+assert(celo(osmozo,'osmoz.0o','渗透[shèn tòu],滲透[shèn tòu]')).
+assert(celo(osmozo,'osmoz.0o','渗透作用[shèn tòu zuò yòng],滲透作用[shèn tòu zuò yòng]')).
+assert(celo(osta,'ost.0a','瘦骨棱棱[shòu gǔ léng léng]')).
+assert(celo(ostaro,'ost.0aro','骸骨[hái gǔ]')).
+assert(celo(ostaro,'ost.0aro','骨骼[gǔ gé]')).
+assert(celo(ostaro,'ost.0aro','骨头架子[gǔ tou jià zi],骨頭架子[gǔ tou jià zi]')).
+assert(celo(ostaro,'ost.0aro','骨架[gǔ jià]')).
+assert(celo(ostaro,'ost.0aro','白骨[bái gǔ]')).
+assert(celo(osto,'ost.0o','骨[gǔ]')).
+assert(celo(osto,'ost.0o','骨头[gǔ tou],骨頭[gǔ tou]')).
+assert(celo(osto,'ost.0o','骨骼[gǔ gé]')).
+assert(celo(osto,'ost.0o','冎[guǎ]')).
+assert(celo(osto,'ost.0o','搖枕弔[yáo zhěn diào],摇枕吊[yáo zhěn diào]')).
+assert(celo(osto,'ost.0o','骨头[gú tou],骨頭[gú tou]')).
+assert(celo(fiŝosto,'ost.fisx0o','魚骨[yú gǔ],鱼骨[yú gǔ]')).
+assert(celo(fiŝosto,'ost.fisx0o','骾[gěng]')).
+assert(celo(fiŝosto,'ost.fisx0o','魚刺[yú cì],鱼刺[yú cì]')).
+assert(celo(fiŝosto,'ost.fisx0o','鯁[gěng],鲠[gěng]')).
+assert(celo(fiŝosto,'ost.fisx0o','挭[gěng]')).
+assert(celo(ĝisosta,'ost.gxis0a.FIG','彻骨[chè gǔ],徹骨[chè gǔ]')).
+assert(celo(ĝisosta,'ost.gxis0a.FIG','激进[jī jìn],激進[jī jìn]')).
+assert(celo(pubosto,'ost.pub0o','恥骨[chǐ gǔ],耻骨[chǐ gǔ]')).
+assert(celo(pubosto,'ost.pub0o','交骨[jiāo gǔ]')).
+assert(celo(pubosto,'ost.pub0o','横骨[héng gǔ],橫骨[héng gǔ]')).
+assert(celo(vangosto,'ost.vang0o','馗[kuí]')).
+assert(celo(vangosto,'ost.vang0o','顴[quán],颧[quán]')).
+assert(celo(ostaĝo,'ostagx.0o','人質[rén zhì],人质[rén zhì]')).
+assert(celo(ostaĝo,'ostagx.0o','質[zhì],质[zhì]')).
+assert(celo(ostaĝo,'ostagx.0o','肉票[ròu piào]')).
+assert(celo(osteoporozo,'osteoporoz.0o','骨質疏鬆症[gǔ zhí shū sōng zhèng],骨质疏松症[gǔ zhí shū sōng zhèng]')).
+assert(celo(osteoporozo,'osteoporoz.0o','骨質疏鬆症[gǔ zhì shū sōng zhèng],骨质疏松症[gǔ zhì shū sōng zhèng]')).
+assert(celo(osteoporozo,'osteoporoz.0o','骨質疏鬆[gǔ zhì shū sōng],骨质疏松[gǔ zhì shū sōng]')).
+assert(celo(ostoporozo,'ostoporoz.0o','骨質疏鬆症[gǔ zhí shū sōng zhèng],骨质疏松症[gǔ zhí shū sōng zhèng]')).
+assert(celo(ostoporozo,'ostoporoz.0o','骨質疏鬆症[gǔ zhì shū sōng zhèng],骨质疏松症[gǔ zhì shū sōng zhèng]')).
+assert(celo(ostoporozo,'ostoporoz.0o','骨質疏鬆[gǔ zhì shū sōng],骨质疏松[gǔ zhì shū sōng]')).
+assert(celo(ostro,'ostr.0o','牡蛎[mǔ lì],牡蠣[mǔ lì]')).
+assert(celo(ostro,'ostr.0o','蚝[háo],蠔[háo]')).
+assert(celo(ostro,'ostr.0o','蛎[lì],蠣[lì]')).
+assert(celo('Osvaldo','osvald.0o.NOM','奥斯瓦尔德[ào sī wǎ ěr dé],奧斯瓦爾德[ào sī wǎ ěr dé]')).
+assert(celo('Otavo','otav.0o.cxefurbo','渥太华[Wò tài huá],渥太華[Wò tài huá]')).
+assert(celo(otido,'otid.0o.ZOO','鴇[bǎo],鸨[bǎo]')).
+assert(celo('malgranda otido','otid.malgranda0o','小鴇[xiǎo bǎo],小鸨[xiǎo bǎo]')).
+assert(celo(otito,'otit.0o','中耳炎[zhōng ěr yán]')).
+assert(celo(otito,'otit.0o','外耳炎[wài ěr yán]')).
+assert(celo(otomana,'otoman.0a','奥斯曼[Ào sī màn],奧斯曼[Ào sī màn]')).
+assert(celo(otorinolaringologo,'otorinolaringolog.0o.MED','喉鼻耳科大夫[hóu bí ěr kē dài fu]')).
+assert(celo(otorinolaringologo,'otorinolaringolog.0o.MED','耳鼻喉医生[ěr bí hóu yī shēng],耳鼻喉醫生[ěr bí hóu yī shēng]')).
+assert(celo(otorinolaringologio,'otorinolaringologi.0o','耳鼻咽喉[ěr bí yān hóu]')).
+assert(celo(ovaĵo,'ov.0ajxo','摊鸡蛋[tān jī dàn],攤雞蛋[tān jī dàn]')).
+assert(celo(ovaĵo,'ov.0ajxo','炒蛋[chǎo dàn]')).
+assert(celo(ovaĵo,'ov.0ajxo','炒雞蛋[chǎo jī dàn],炒鸡蛋[chǎo jī dàn]')).
+assert(celo(ovaĵo,'ov.0ajxo','煎蛋卷[jiān dàn juǎn]')).
+assert(celo(ovingo,'ov.0ingo','蛋杯[dàn bēi]')).
+assert(celo(ovo,'ov.0o','卵[luǎn]')).
+assert(celo(ovo,'ov.0o','蛋[dàn]')).
+assert(celo(ovaĵo,'','荷包蛋[hé bāo dàn]')).
+assert(celo(ovujo,'ov.0ujo','卵巢[luǎn cháo]')).
+assert(celo(ovujo,'ov.0ujo','卵巢窝[luǎn cháo wō],卵巢窩[luǎn cháo wō]')).
+assert(celo(ovujo,'ov.0ujo','子房[zǐ fáng]')).
