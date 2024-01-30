@@ -1345,3 +1345,35 @@ assert(celo(ovaĵo,'','荷包蛋[hé bāo dàn]')).
 assert(celo(ovujo,'ov.0ujo','卵巢[luǎn cháo]')).
 assert(celo(ovujo,'ov.0ujo','卵巢窝[luǎn cháo wō],卵巢窩[luǎn cháo wō]')).
 assert(celo(ovujo,'ov.0ujo','子房[zǐ fáng]')).
+assert(celo(kirlovaĵo,'ov.kirl0ajxo','欧姆蛋[ōu mǔ dàn],歐姆蛋[ōu mǔ dàn]')).
+assert(celo(kirlovaĵo,'ov.kirl0ajxo','奄列[yǎn liè]')).
+assert(celo(kirlovaĵo,'ov.kirl0ajxo','煎蛋卷[jiān dàn juǎn]')).
+assert(celo(kirlovaĵo,'ov.kirl0ajxo','蛋包[dàn bāo]')).
+assert(celo(kirlovaĵo,'ov.kirl0ajxo','煎蛋卷[jiān dàn juǎn],煎蛋捲[jiān dàn juǎn]')).
+assert(celo(kirlovaĵo,'ov.kirl0ajxo','純蛋捲[chún dàn juǎn],纯蛋卷[chún dàn juǎn]')).
+assert(celo(kirlovaĵo,'ov.kirl0ajxo','活力蛋餅[huó lì dàn bǐng]')).
+assert(celo(kirlovaĵo,'','炒蛋[chǎo dàn]')).
+assert(celo(ovacii,'ovaci.0i','喝彩[hē cǎi]')).
+assert(celo(ovacii,'ovaci.0i','喝采[hè cǎi]')).
+assert(celo(ovala,'oval.0a','卵形[luǎn xíng]')).
+assert(celo(ovala,'oval.0a','椭圆[tuǒ yuán],橢圓[tuǒ yuán]')).
+assert(celo(ovala,'oval.0a','椭圆形[tuǒ yuán xíng],橢圓形[tuǒ yuán xíng]')).
+assert(celo(ovala,'oval.0a','椭[tuǒ],橢[tuǒ]')).
+assert(celo(ovala,'oval.0a','卵圆[luǎn yuán],卵圓[luǎn yuán]')).
+assert(celo(ovala,'oval.0a','卵圆形[luǎn yuán xíng],卵圓形[luǎn yuán xíng]')).
+assert(celo(ovala,'oval.0a','蛋形[dàn xíng]')).
+assert(celo(ovalo,'oval.0o','椭圆形[tuǒ yuán xíng],橢圓形[tuǒ yuán xíng]')).
+assert(celo(ovalo,'oval.0o','卵圆[luǎn yuán],卵圓[luǎn yuán]')).
+assert(celo(ovario,'ovari.0o','卵巢[luǎn cháo]')).
+assert(celo(ovario,'ovari.0o','卵巢窝[luǎn cháo wō],卵巢窩[luǎn cháo wō]')).
+assert(celo(ovario,'ovari.0o','子房[zǐ fáng]')).
+assert(celo('Overiselo','overise.O0o','上艾瑟尔[Shàng ài sè ěr],上艾瑟爾[Shàng ài sè ěr]')).
+assert(celo(ovri,'ovr.0i','撬开[qiào kāi],撬開[qiào kāi]')).
+assert(celo(ovri,'ovr.0i','攋[là]')).
+assert(celo(ovri,'ovr.0i','奓[zhà]')).
+assert(celo(ovri,'ovr.0i','捭[bǎi]')).
+assert(celo(ovolo,'ovul.0o','卵子[luǎn zǐ]')).
+assert(celo(ovolo,'ovul.0o','胚珠[pēi zhū]')).
+assert(celo(ovolo,'ovul.0o','卵細胞[luǎn xì bāo],卵细胞[luǎn xì bāo]')).
+assert(celo('Oziriso','oziris.0o','欧西里斯[ōu xī lǐ sī],歐西裡斯[ōu xī lǐ sī]')).
+assert(celo(ozono,'ozon.0o','臭氧[chòu yǎng]')).

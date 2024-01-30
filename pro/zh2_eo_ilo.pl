@@ -18,7 +18,7 @@
   LEFT JOIN r3trd AS zh ON (zh.mrk = r3mrk.mrk or zh.mrk = r3mrk.drv) AND zh.lng = 'zh' 
   LEFT JOIN r3trd AS trd ON (trd.mrk = r3mrk.mrk or trd.mrk = r3mrk.drv) AND trd.lng in ('de','en','fr') 
   LEFT JOIN r3kap ON r3kap.mrk = r3mrk.drv 
-  WHERE r3mrk.mrk like 'h%' AND (ele='snc' OR ele='drv') AND zh.mrk IS NULL 
+  WHERE r3mrk.mrk like 'r%' AND (ele='snc' OR ele='drv') AND zh.mrk IS NULL 
     AND (trd.ekz = '' OR trd.ekz is null)
   ORDER BY r3mrk.mrk LIMIT 200;
 */
@@ -78,9 +78,9 @@ sercho(Request) :-
 */
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-eo_def('vrt/eo_def_o.csv'). % eo-de/en/fr
-db_celo('pdb/eo_zh_o.db').
-csv_celo('vrt/eo_zh_o.csv').
+eo_def('vrt/eo_def_p.csv'). % eo-de/en/fr
+db_celo('pdb/eo_zh_p.db').
+csv_celo('vrt/eo_zh_p.csv').
 
 /**
  * Dialogo por aldono de tradukoj:
