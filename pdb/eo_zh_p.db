@@ -1,0 +1,180 @@
+created(1706644449.3813937).
+assert(celo('Pablo','pabl.0o','帕布罗[pà bù luō],帕布羅[pà bù luō]')).
+assert(celo(paca,'pac.0a','和平[hé píng]')).
+assert(celo(paca,'pac.0a','恬静[tián jìng],恬靜[tián jìng]')).
+assert(celo(paca,'pac.0a','闟[xī]')).
+assert(celo(paca,'pac.0a','敉[mǐ]')).
+assert(celo(paca,'pac.0a','安宁[ān níng],安寧[ān níng]')).
+assert(celo(paca,'pac.0a','宁[níng],寧[níng]')).
+assert(celo(paca,'pac.0a','倓[tán]')).
+assert(celo(paca,'pac.0a','安謐[ān mì],安谧[ān mì]')).
+assert(celo(paca,'pac.0a','恬[tián]')).
+assert(celo(paca,'pac.0a','泰[tài]')).
+assert(celo(paca,'pac.0a','澹[dàn]')).
+assert(celo(paca,'pac.0a','安静[ān jìng],安靜[ān jìng]')).
+assert(celo(paca,'pac.0a','平[píng]')).
+assert(celo(paca,'pac.0a','和睦[hé mù]')).
+assert(celo(pacema,'pac.0ema','和平主义[hé píng zhǔ yì],和平主義[hé píng zhǔ yì]')).
+assert(celo(pacema,'pac.0ema','温和[wēn hé],溫和[wēn hé]')).
+assert(celo(pacema,'pac.0ema','愛和平[ài hé píng],爱和平[ài hé píng]')).
+assert(celo(pacema,'pac.0ema','愛好和平[ài hào hé píng],爱好和平[ài hào hé píng]')).
+assert(celo(pacema,'pac.0ema','避免冲突[bì miǎn chōng tú],避免衝突[bì miǎn chōng tú]')).
+assert(celo(pacigi,'pac.0igi','平定[píng dìng]')).
+assert(celo(pacigi,'pac.0igi','綏[suí],绥[suí]')).
+assert(celo(paciĝi,'pac.0igxi','和解[hé jiě]')).
+assert(celo(paciĝi,'pac.0igxi','言归于好[yán guī yú hǎo],言歸於好[yán guī yú hǎo]')).
+assert(celo(paciĝi,'pac.0igxi','和好[hé hǎo]')).
+assert(celo(paciĝi,'pac.0igxi','講和[jiǎng hé],讲和[jiǎng hé]')).
+assert(celo(pacisto,'pac.0isto','反战论者[fǎn zhàn lùn zhě],反戰論者[fǎn zhàn lùn zhě]')).
+assert(celo(pacisto,'pac.0isto','和平主义者[hé píng zhǔ yì zhě],和平主義者[hé píng zhǔ yì zhě]')).
+assert(celo(pacisto,'pac.0isto','不抵抗主义者[bù dǐ kàng zhǔ yì zhě],不抵抗主義者[bù dǐ kàng zhǔ yì zhě]')).
+assert(celo(malpacema,'pac.mal0ema','好斗[hǎo dòu]')).
+assert(celo(malpacema,'pac.mal0ema','恋战[liàn zhàn],戀戰[liàn zhàn]')).
+assert(celo(malpacema,'pac.mal0ema','好争吵[hǎo zhēng chǎo],好爭吵[hǎo zhēng chǎo]')).
+assert(celo(malpaceto,'pac.mal0eto','争议[zhēng yì],爭議[zhēng yì]')).
+assert(celo(malpaceto,'pac.mal0eto','小冲突[xiǎo chōng tū],小衝突[xiǎo chōng tū]')).
+assert(celo(malpaceto,'pac.mal0eto','争吵[zhēng chǎo],爭吵[zhēng chǎo]')).
+assert(celo(malpaceto,'pac.mal0eto','争端[zhēng duān],爭端[zhēng duān]')).
+assert(celo(malpaceto,'pac.mal0eto','糾紛[jiū fēn],纠纷[jiū fēn]')).
+assert(celo(malpaceto,'pac.mal0eto','舋[xìn]')).
+assert(celo(malpaceto,'pac.mal0eto','轇[jiū]')).
+assert(celo(malpaceto,'pac.mal0eto','互不信任[hù bù xìn rèn]')).
+assert(celo(malpaceto,'pac.mal0eto','絕交[jué jiāo],绝交[jué jiāo]')).
+assert(celo(malpaceto,'pac.mal0eto','針鋒相對[zhēn fēng xiāng duì],针锋相对[zhēn fēng xiāng duì]')).
+assert(celo(malpaci,'pac.mal0i','交战[jiāo zhàn],交戰[jiāo zhàn]')).
+assert(celo(malpaco,'pac.mal0o','战争[zhàn zhēng],戰爭[zhàn zhēng]')).
+assert(celo(repacigi,'pac.re0igi','調和[tiáo hé],调和[tiáo hé]')).
+assert(celo(repacigi,'pac.re0igi','和好[hé hǎo]')).
+retract(celo(repacigi,'pac.re0igi','和好[hé hǎo]')).
+assert(celo(repaciĝi,'pac.re0igxi','和好[hé hǎo]')).
+assert(celo(repaciĝi,'pac.re0igxi','和解[hé jiě]')).
+assert(celo(repacigi,'','調解[tiáo jiě],调解[tiáo jiě]')).
+assert(celo(pacienca,'pacien.0a','耐心[nài xīn]')).
+assert(celo(pacienci,'pacien.0i','等一会[děng yī huì],等一會[děng yī huì]')).
+assert(celo(pacienci,'pacien.0i','忍耐[rěn nài]')).
+assert(celo(pacienco,'pacien.0o','耐心[nài xīn]')).
+assert(celo(pacienco,'pacien.0o','忍耐[rěn nài]')).
+assert(celo(pacienco,'pacien.0o','耐性[nài xìng]')).
+assert(celo(pacienco,'pacien.0o','耐心烦[nài xīn fán],耐心煩[nài xīn fán]')).
+assert(celo(malpacienca,'pacien.mal0a','不耐烦[bù nài fán],不耐煩[bù nài fán]')).
+assert(celo(malpacienca,'pacien.mal0a','心切[xīn qiè]')).
+assert(celo(malpacienca,'pacien.mal0a','躁[zào]')).
+assert(celo(malpacienca,'pacien.mal0a','心急[xīn jí]')).
+assert(celo(malpacienca,'pacien.mal0a','急吼吼[jí hǒu hǒu]')).
+assert(celo(malpacienca,'pacien.mal0a','悁[juàn]')).
+assert(celo(malpacienca,'pacien.mal0a','焦躁[jiāo zào]')).
+assert(celo(malpacienca,'pacien.mal0a','猴急[hóu jí]')).
+assert(celo(malpacienco,'pacien.mal0o','不耐烦[bù nài fán],不耐煩[bù nài fán]')).
+assert(celo(senpacienciĝi,'pacien.sen0igxi','不耐烦了[bù nài fán liǎo],不耐煩了[bù nài fán liǎo]')).
+assert(celo(senpacienciĝi,'pacien.sen0igxi','发脾气[fā pí qì],發脾氣[fā pí qì]')).
+assert(celo(paciento,'pacien1.0o','患者[huàn zhě]')).
+assert(celo(paciento,'pacien1.0o','病人[bìng rén]')).
+assert(celo(paciento,'pacien1.0o','病患[bìng huàn]')).
+assert(celo(pacifismo,'pacifi.0o','和平主义[hé píng zhǔ yì],和平主義[hé píng zhǔ yì]')).
+assert(celo(pacifisto,'pacifi1.0o','反战论者[fǎn zhàn lùn zhě],反戰論者[fǎn zhàn lùn zhě]')).
+assert(celo(pacifisto,'pacifi1.0o','和平主义者[hé píng zhǔ yì zhě],和平主義者[hé píng zhǔ yì zhě]')).
+assert(celo(pacifisto,'pacifi1.0o','不抵抗主义者[bù dǐ kàng zhǔ yì zhě],不抵抗主義者[bù dǐ kàng zhǔ yì zhě]')).
+assert(celo('Pacifiko','pacifik.P0o','太平洋[Tài píng Yáng]')).
+assert(celo(paĉulo,'pacxul.0o','广藿香[guǎng huò xiāng],廣藿香[guǎng huò xiāng]')).
+assert(celo(pado,'pad.0o','小路[xiǎo lù]')).
+assert(celo(pado,'pad.0o','小径[xiǎo jìng],小徑[xiǎo jìng]')).
+assert(celo(pado,'pad.0o','小道[xiǎo dào]')).
+assert(celo(pado,'pad.0o','路径[lù jìng],路徑[lù jìng]')).
+assert(celo(pado,'pad.0o','蹊径[xī jìng],蹊徑[xī jìng]')).
+assert(celo('Pado','pad1.0o.rivero','波河[Bō Hé]')).
+assert(celo(padeli,'padel.0i','划桨[huá jiǎng],划槳[huá jiǎng]')).
+assert(celo(padeli,'padel.0i','划[huá]')).
+assert(celo(padelo,'padel.0o','風帆[fēng fān],风帆[fēng fān]')).
+assert(celo(padelo,'padel.0o','叶片[yè piàn],葉片[yè piàn]')).
+assert(celo(paeljo,'paelj.0o','西班牙大鍋飯[xī bān yá dà guō fàn],西班牙大锅饭[xī bān yá dà guō fàn]')).
+assert(celo(paeljo,'paelj.0o','西班牙飯[xī bān yá fàn],西班牙饭[xī bān yá fàn]')).
+assert(celo(paf,'paf.0','轟[hōng],轰[hōng]')).
+assert(celo(paf,'paf.0','枪声[qiāng shēng],槍聲[qiāng shēng]')).
+assert(celo(paf,'paf.0','砰[pēng]')).
+assert(celo(paf,'paf.0','嘣[bēng]')).
+assert(celo(pafaro,'paf.0ado','排射[pái shè]')).
+assert(celo(pafaro,'paf.0ado','枪战[qiāng zhàn],槍戰[qiāng zhàn]')).
+assert(celo(pafado,'paf.0ado','枪战[qiāng zhàn],槍戰[qiāng zhàn]')).
+assert(celo(pafado,'paf.0ado','枪击[qiāng jī],槍擊[qiāng jī]')).
+assert(celo(pafaro,'','连发[lián fā],連發[lián fā]')).
+assert(celo(pafaro,'','礼炮[lǐ pào],禮炮[lǐ pào]')).
+assert(celo(pafaĵo,'paf.0ajxo','抛体[pāo tǐ],拋體[pāo tǐ]')).
+assert(celo(pafaĵo,'paf.0ajxo','抛射物[pāo shè wù],拋射物[pāo shè wù]')).
+assert(celo(pafejo,'paf.0ejo','靶场[bǎ chǎng],靶場[bǎ chǎng]')).
+assert(celo(pafi,'paf.0i','枪击[qiāng jī],槍擊[qiāng jī]')).
+assert(celo(pafi,'paf.0i','开枪[kāi qiāng],開槍[kāi qiāng]')).
+assert(celo(pafi,'paf.0i','发炮[fā pào],發炮[fā pào]')).
+assert(celo(pafi,'paf.0i','枪崩[qiāng bēng],槍崩[qiāng bēng]')).
+assert(celo(pafilego,'paf.0ilego','炮[pào]')).
+assert(celo(pafilego,'paf.0ilego','火炮[huǒ pào]')).
+assert(celo(pafilego,'paf.0ilego','大炮[dà pào],大砲[dà pào]')).
+assert(celo(pafilego,'paf.0ilego','炮[pào],砲[pào]')).
+assert(celo(pafilkapo,'paf.0ilkapo','一端粗的棍棒[yī duān cū de gùn bàng]')).
+assert(celo(pafilkapo,'paf.0ilkapo','枪托[qiāng tuō],槍託[qiāng tuō]')).
+assert(celo(pafilkapo,'paf.0ilkapo','塞[sè]')).
+assert(celo(pafilkapo,'paf.0ilkapo','烟头[yān tóu],煙頭[yān tóu]')).
+assert(celo(pafilo,'paf.0ilo.ARM','枪[qiāng],槍[qiāng]')).
+assert(celo(pafilo,'paf.0ilo.ARM','銃[chòng],铳[chòng]')).
+assert(celo(pafilo,'paf.0ilo.ARM','枪械[qiāng xiè],槍械[qiāng xiè]')).
+assert(celo(pafilo,'paf.0ilo.ARM','枪炮[qiāng pào],槍砲[qiāng pào]')).
+assert(celo(pafilo,'paf.0ilo.ARM','火器[huǒ qì]')).
+assert(celo(pafilo,'paf.0ilo.ARM','射击武器[shè jī wǔ qì],射擊武器[shè jī wǔ qì]')).
+assert(celo(pafisto,'paf.0isto','射手[shè shǒu]')).
+assert(celo(pafisto,'paf.0isto','射手座[shè shǒu zuò]')).
+assert(celo(pafo,'paf.0o','枪声[qiāng shēng],槍聲[qiāng shēng]')).
+assert(celo(pafo,'paf.0o','弹[dàn],彈[dàn]')).
+assert(celo(pafiĝi,'','中枪[zhòng qiāng],中槍[zhòng qiāng]')).
+assert(celo('Pafisto','paf.P0isto','射手座[Shè shǒu zuò]')).
+assert(celo('Pafisto','paf.P0isto','人馬座[Rén mǎ zuò],人马座[Rén mǎ zuò]')).
+assert(celo(fingropafo,'paf.fingro0o','弹指[tán zhǐ],彈指[tán zhǐ]')).
+assert(celo(forpafi,'paf.for0i','击毁[jī huǐ],擊毀[jī huǐ]')).
+assert(celo(maŝinpafilo,'paf.masxin0ilo','机枪[jī qiāng],機槍[jī qiāng]')).
+assert(celo(maŝinpafilo,'paf.masxin0ilo','机关枪[jī guān qiāng],機關槍[jī guān qiāng]')).
+assert(celo(mortpafi,'paf.mort0i','枪杀[qiāng shā],槍殺[qiāng shā]')).
+assert(celo(mortpafi,'paf.mort0i','斃[bì],毙[bì]')).
+assert(celo(mortpafi,'paf.mort0i','击毙[jí bì],擊斃[jí bì]')).
+assert(celo(mortpafi,'paf.mort0i','枪毙[qiāng bì],槍斃[qiāng bì]')).
+assert(celo(mortpafi,'paf.mort0i','射杀[shè shā],射殺[shè shā]')).
+assert(celo(mortpafi,'paf.mort0i','击毙[jī bì],擊斃[jī bì]')).
+assert(celo(pulvopafilo,'paf.pulvo0ilo','枪械[qiāng xiè],槍械[qiāng xiè]')).
+assert(celo(pulvopafilo,'paf.pulvo0ilo','火器[huǒ qì]')).
+assert(celo(ŝrotpafilo,'paf.sxrot0ilo','猎枪[liè qiāng],獵槍[liè qiāng]')).
+assert(celo('Pafoso','pafos.0o','帕福斯[Pà fú sī]')).
+assert(celo(pagejo,'pag.0ejo','收費站[shōu fèi zhàn],收费站[shōu fèi zhàn]')).
+assert(celo(pagejo,'pag.0ejo','收銀台[shōu yín tái],收银台[shōu yín tái]')).
+assert(celo(pagi,'pag.0i','結賬[jié zhàng],结账[jié zhàng]')).
+assert(celo(pagi,'pag.0i','付[fù]')).
+assert(celo(pagi,'pag.0i','付給[fù gěi],付给[fù gěi]')).
+assert(celo(pagi,'pag.0i','出錢[chū qián],出钱[chū qián]')).
+assert(celo(pagi,'pag.0i','交錢[jiāo qián],交钱[jiāo qián]')).
+assert(celo(pagi,'pag.0i','付錢[fù qián],付钱[fù qián]')).
+assert(celo(pagilo,'pag.0ilo.EKON','支付方式[zhī fù fāng shì]')).
+assert(celo(pagilo,'pag.0ilo.EKON','支付手段[zhī fù shǒu duàn]')).
+assert(celo(pago,'pag.0o','支付[zhī fù]')).
+assert(celo(pago,'pag.0o','付款通知[fù kuǎn tōng zhī]')).
+assert(celo(pago,'pag.0o','在外部[zài wài bù]')).
+assert(celo(pago,'pag.0o','薪酬[xīn chóu]')).
+assert(celo(alpago,'pag.al0o','另付費[lìng fù fèi],另付费[lìng fù fèi]')).
+assert(celo(antaŭpagi,'pag.antaux0i','預付[yù fù],预付[yù fù]')).
+assert(celo(depago,'pag.de0o','預付款[yù fù kuǎn],预付款[yù fù kuǎn]')).
+assert(celo(depago,'pag.de0o','預支款[yù zhī kuǎn],预支款[yù zhī kuǎn]')).
+assert(celo(depago,'pag.de0o','部分支付[bù fen zhī fù]')).
+assert(celo(kontraŭpage,'pag.kontraux0e','付費[fù fèi],付费[fù fèi]')).
+assert(celo(kontraŭpage,'pag.kontraux0e','应负担[yìng fù dān],應負擔[yìng fù dān]')).
+assert(celo(pripagi,'pag.pri0i','已經付款了[yǐ jīng fù kuǎn liǎo],已经付款了[yǐ jīng fù kuǎn liǎo]')).
+assert(celo(pripagi,'pag.pri0i','交款[jiāo kuǎn]')).
+assert(celo(punpagi,'pag.pun0i','贖罪[shú zuì],赎罪[shú zuì]')).
+assert(celo(punpago,'pag.pun0o.ago','贖罪[shú zuì],赎罪[shú zuì]')).
+assert(celo(punpago,'pag.pun0o.monpuno','罚金[fá jīn],罰金[fá jīn]')).
+assert(celo(punpago,'pag.pun0o.monpuno','罚款[fá kuǎn],罰款[fá kuǎn]')).
+assert(celo(repagi,'pag.re0i.FIG','归还[guī huán],歸還[guī huán]')).
+assert(celo(repagi,'pag.re0i.FIG','还[huán],還[huán]')).
+assert(celo(senpaga,'pag.sen0a','免費[miǎn fèi],免费[miǎn fèi]')).
+assert(celo(senpaga,'pag.sen0a','花費[huā fèi],花费[huā fèi]')).
+assert(celo(senpaga,'pag.sen0a','无偿[wú cháng],無償[wú cháng]')).
+assert(celo(senpaga,'pag.sen0a','无代价[wú dài jià],無代價[wú dài jià]')).
+assert(celo(transpago,'pag.trans0o.EKON','銀行轉帳[yín háng zhuǎn zhàng],银行转帐[yín háng zhuǎn zhàng]')).
+assert(celo(transpago,'pag.trans0o.EKON','轉賬[zhuǎn zhàng],转账[zhuǎn zhàng]')).
+assert(celo(transpago,'pag.trans0o.EKON','轉賬[zhuǎn zhàng],转帐[zhuǎn zhàng]')).
+assert(celo(transpago,'pag.trans0o.EKON','匯單[huì dān],汇单[huì dān]')).
+assert(celo(pagajo,'pagaj.0o','桨[jiǎng],槳[jiǎng]')).
