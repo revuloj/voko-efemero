@@ -178,3 +178,186 @@ assert(celo(transpago,'pag.trans0o.EKON','轉賬[zhuǎn zhàng],转账[zhuǎn zh
 assert(celo(transpago,'pag.trans0o.EKON','轉賬[zhuǎn zhàng],转帐[zhuǎn zhàng]')).
 assert(celo(transpago,'pag.trans0o.EKON','匯單[huì dān],汇单[huì dān]')).
 assert(celo(pagajo,'pagaj.0o','桨[jiǎng],槳[jiǎng]')).
+assert(celo(pagano,'pagan.0o','异教徒[yì jiào tú],異教徒[yì jiào tú]')).
+assert(celo(pagodo,'pagod.0o','宝塔[bǎo tǎ],寶塔[bǎo tǎ]')).
+assert(celo(pagro,'pagr.0o','海鯉[hǎi lǐ],海鲤[hǎi lǐ]')).
+assert(celo(pagumo,'pagum.0o','果子狸[guǒ zi lí]')).
+assert(celo(pagumo,'pagum.0o','白鼻心[bái bí xīn]')).
+assert(celo(paguro,'pagur.0o','寄居蟹[jì jū xiè]')).
+assert(celo(paĝo,'pagx.0o','版[bǎn]')).
+assert(celo(paĝo,'pagx.0o','頁面[yè miàn],页面[yè miàn]')).
+assert(celo(paĝo,'pagx.0o','书页[shū yè],書頁[shū yè]')).
+assert(celo(paĝo,'pagx.0o','頁[yè],页[yè]')).
+assert(celo(enpaĝigi,'pagx.en0igi','排版[pái bǎn]')).
+assert(celo(enpaĝigo,'pagx.en0igo','版面[bǎn miàn]')).
+assert(celo(enpaĝigo,'pagx.en0igo','排版[pái bǎn]')).
+assert(celo('flavaj paĝoj','pagx.flavaj0oj','黃頁[huáng yè],黄页[huáng yè]')).
+assert(celo(hejmpaĝo,'pagx.hejm0o','首頁[shǒu yè],首页[shǒu yè]')).
+assert(celo(hejmpaĝo,'pagx.hejm0o','主頁[zhǔ yè],主页[zhǔ yè]')).
+assert(celo(retpaĝaro,'pagx.ret0aro','網址[wǎng zhǐ],网址[wǎng zhǐ]')).
+assert(celo(retpaĝaro,'pagx.ret0aro','網頁[wǎng yè],网页[wǎng yè]')).
+assert(celo(retpaĝo,'pagx.ret0o','網頁[wǎng yè],网页[wǎng yè]')).
+assert(celo(titolpaĝo,'pagx.titol0o','扉頁[fēi yè],扉页[fēi yè]')).
+assert(celo(titolpaĝo,'pagx.titol0o','首頁[shǒu yè],首页[shǒu yè]')).
+assert(celo(pajaco,'pajac.0o','丑角[chǒu jué]')).
+assert(celo(pajaco,'pajac.0o','小丑[xiǎo chǒu]')).
+assert(celo(pajlero,'pajl.0ero','秸秆[jiē gǎng],秸稈[jiē gǎng]')).
+assert(celo(pajlero,'pajl.0ero','麥稈[mài gǎn],麦秆[mài gǎn]')).
+assert(celo(pajlo,'pajl.0o','刍[chú],芻[chú]')).
+assert(celo(pajlo,'pajl.0o','穀草[gǔ cǎo],谷草[gǔ cǎo]')).
+assert(celo(pajlo,'pajl.0o','秸秆[jiē gǎn],秸稈[jiē gǎn]')).
+assert(celo(pajlo,'pajl.0o','麥秸[mài jiē],麦秸[mài jiē]')).
+assert(celo(pajloŝtopi,'pajl.0osxtopi','补白光[bǔ bái guāng],補白光[bǔ bái guāng]')).
+assert(celo(pajloŝtopi,'pajl.0osxtopi','垫衬[diàn chèn],墊襯[diàn chèn]')).
+assert(celo(pakaĵo,'pak.0ajxo.bagagxo','行李[xíng li]')).
+assert(celo(pakaĵo,'pak.0ajxo.bagagxo','箱包[xiāng bāo]')).
+assert(celo(pakaĵo,'pak.0ajxo.bagagxo','旅行带[lǚ xíng dài],旅行帶[lǚ xíng dài]')).
+assert(celo(pakaĵo,'pak.0ajxo.bagagxo','皮箱[pí xiāng]')).
+assert(celo(pakaĵo,'pak.0ajxo.bagagxo','行李[xíng lǐ]')).
+assert(celo(pakaĵo,'pak.0ajxo.unupeco','包裹[bāo guǒ]')).
+assert(celo(pakaĵo,'pak.0ajxo.unupeco','包装[bāo zhuāng],包裝[bāo zhuāng]')).
+assert(celo(pakaĵo,'pak.0ajxo.unupeco','小包[xiǎo bāo]')).
+assert(celo(pakaĵo,'pak.0ajxo.unupeco','一小包[yì xiǎo bāo]')).
+assert(celo(pakaĵo,'pak.0ajxo.unupeco','小包裹[xiǎo bāo guǒ]')).
+assert(celo(pakaĵo,'pak.0ajxo.unupeco','一揽子计划[yī lǎn zǐ jì huà],一攬子計劃[yī lǎn zǐ jì huà]')).
+assert(celo(pakaĵujo,'pak.0ajxujo','后备箱[hòu bèi xiāng],後備箱[hòu bèi xiāng]')).
+assert(celo(pakaĵujo,'pak.0ajxujo','行李箱[xíng li xiāng]')).
+assert(celo(paketo,'pak.0eto','一小包[yì xiǎo bāo]')).
+assert(celo(paketo,'pak.0eto','小包[xiǎo bāo]')).
+assert(celo(paketo,'pak.0eto','小包裹[xiǎo bāo guǒ]')).
+assert(celo(paki,'pak.0i','包扎[bāo zā],包紮[bāo zā]')).
+assert(celo(paki,'pak.0i','封包[fēng bāo]')).
+assert(celo(paki,'pak.0i','拼凑[pīn còu],拼湊[pīn còu]')).
+assert(celo(paki,'pak.0i','攒聚[cuán jù],攢聚[cuán jù]')).
+assert(celo(paki,'pak.0i','打包[dǎ bāo]')).
+assert(celo(paki,'pak.0i','包起[bāo qǐ]')).
+assert(celo(pako,'pak.0o','包裹[bāo guǒ]')).
+assert(celo(pako,'pak.0o','一揽子计划[yī lǎn zǐ jì huà],一攬子計劃[yī lǎn zǐ jì huà]')).
+assert(celo(pako,'pak.0o','法律体系[fǎ lǜ tǐ xì],法律體系[fǎ lǜ tǐ xì]')).
+assert(celo(pakumo,'pak.0umo','包装[bāo zhuāng],包裝[bāo zhuāng]')).
+assert(celo(pakumo,'pak.0umo','填密[tián mì]')).
+assert(celo(pakumo,'pak.0umo','外包装[wài bāo zhuāng],外包裝[wài bāo zhuāng]')).
+assert(celo(enpaki,'pak.en0i','打包[dǎ bāo]')).
+assert(celo(enpaki,'pak.en0i','包起[bāo qǐ]')).
+assert(celo(enpaki,'pak.en0i','套封[tào fēng]')).
+assert(celo(elpaki,'pak.mal0i','开箱[kāi xiāng],開箱[kāi xiāng]')).
+assert(celo(elpaki,'pak.mal0i','打开包裹[dǎ kāi bāo guǒ],打開包裹[dǎ kāi bāo guǒ]')).
+assert(celo(elpaki,'pak.mal0i','拆包[chāi bāo]')).
+assert(celo(elpaki,'pak.mal0i','撕开包装[sī kāi bāo zhuāng],撕開包裝[sī kāi bāo zhuāng]')).
+assert(celo(pakistanano,'pakistan.0ano','巴基斯坦人[bā jī sī tǎn rén]')).
+assert(celo('Pakistano','pakistan.P0o','巴基斯坦[Bā jī sī tǎn]')).
+assert(celo(pakto,'pakt.0o','公約[gōng yuē],公约[gōng yuē]')).
+assert(celo(pala,'pal.0a','苍白[cāng bái],蒼白[cāng bái]')).
+assert(celo(pala,'pal.0a','青白[qīng bái]')).
+assert(celo(pala,'pal.0a','苍白色[cāng bái sè],蒼白色[cāng bái sè]')).
+assert(celo(pala,'pal.0a','淡[dàn]')).
+assert(celo(pala,'pal.0a','灰白[huī bái]')).
+assert(celo(pala,'pal.0a','土色[tǔ sè]')).
+assert(celo(pala,'pal.0a','无生气[wú shēng qì],無生氣[wú shēng qì]')).
+assert(celo(paligi,'pal.0igi.FIG','衰减[shuāi jiǎn],衰減[shuāi jiǎn]')).
+assert(celo(paligi,'pal.0igi.FIG','削弱[xuē ruò]')).
+assert(celo(paligi,'pal.0igi.FIG','减薄[jiǎn bó],減薄[jiǎn bó]')).
+assert(celo(paligi,'pal.0igi.KOMUNE','惊吓[jīng xià],驚嚇[jīng xià]')).
+assert(celo(paliĝi,'pal.0igxi','色变[sè biàn],色變[sè biàn]')).
+assert(celo(paliĝi,'pal.0igxi','失色[shī sè]')).
+assert(celo(paliĝi,'pal.0igxi','发白[fā bái],發白[fā bái]')).
+assert(celo(palaceto,'palac.0eto','府[fǔ]')).
+assert(celo(palaceto,'palac.0eto','公館[gōng guǎn],公馆[gōng guǎn]')).
+assert(celo(palaceto,'palac.0eto','宅第[zhái dì]')).
+assert(celo(palaceto,'palac.0eto','厦[shà],廈[shà]')).
+assert(celo(palaceto,'palac.0eto','豪宅[háo zhái]')).
+assert(celo(palaceto,'palac.0eto','豪华别墅[háo huá bié shù],豪華別墅[háo huá bié shù]')).
+assert(celo(palaceto,'palac.0eto','府第[fǔ dì]')).
+assert(celo(palaceto,'palac.0eto','府邸[fǔ dǐ]')).
+assert(celo(palaco,'palac.0o','宫殿[gōng diàn],宮殿[gōng diàn]')).
+assert(celo(palaco,'palac.0o','宫[gōng],宮[gōng]')).
+assert(celo(palaco,'palac.0o','皇宫[huáng gōng],皇宮[huáng gōng]')).
+assert(celo(palaco,'palac.0o','王宫[wáng gōng],王宮[wáng gōng]')).
+assert(celo(palaco,'palac.0o','宫阙[gōng què],宮闕[gōng què]')).
+assert(celo(palaco,'palac.0o','宫廷[gōng tíng],宮廷[gōng tíng]')).
+assert(celo(paladio,'paladi.0o','鈀[bǎ],钯[bǎ]')).
+assert(celo(palankeno,'palank.0o','轎子[jiào zi],轿子[jiào zi]')).
+assert(celo(palankeno,'palank.0o','轎[jiào],轿[jiào]')).
+assert(celo(palankeno,'palank.0o','步輦[bù niǎn],步辇[bù niǎn]')).
+assert(celo(palankeno,'palank.0o','竹舆[zhú yú],竹輿[zhú yú]')).
+assert(celo(palato,'palat.0o','顎[è],颚[è]')).
+assert(celo(palato,'palat.0o','腭[è],齶[è]')).
+assert(celo(palato,'palat.0o','臄[jué]')).
+assert(celo(palato,'palat.0o','上牙膛[shàng yá táng]')).
+assert(celo(postpalato,'','軟齶[ruǎn è],软齶[ruǎn è]')).
+assert(celo('Palaŭo','palaux.0o.GEOG','帛琉[Bó liú]')).
+assert(celo('Palaŭo','palaux.0o.GEOG','帕劳[pà láo],帕勞[pà láo]')).
+assert(celo(paledo,'paled.0o','托盘[tuō pán],托盤[tuō pán]')).
+assert(celo(paledo,'paled.0o','栈板[zhàn bǎn],棧板[zhàn bǎn]')).
+assert(celo(paledo,'paled.0o','貨盤[huò pán],货盘[huò pán]')).
+assert(celo(paledo,'paled.0o','托板[tuō bǎn],託板[tuō bǎn]')).
+assert(celo(paleoantropologo,'paleoantropolog.0o','古生物学家[gǔ shēng wù xué jiā],古生物學家[gǔ shēng wù xué jiā]')).
+assert(celo(paleoantropologiisto,'','古生物学家[gǔ shēng wù xué jiā],古生物學家[gǔ shēng wù xué jiā]')).
+assert(celo(paleoantropologio,'paleoantropologi.0o','古人类学[gǔ rén lèi xué],古人類學[gǔ rén lèi xué]')).
+assert(celo(paleografio,'paleog.0o','古文字学[gǔ wén zì xué],古文字學[gǔ wén zì xué]')).
+assert(celo(paleoklimatologio,'paleoklimatologi.0o','古气候学[gǔ qì hòu xué],古氣候學[gǔ qì hòu xué]')).
+assert(celo(paleontologiisto,'paleon.0isto','古生物学家[gǔ shēng wù xué jiā],古生物學家[gǔ shēng wù xué jiā]')).
+assert(celo(paleontologio,'paleon.0o','古生物学[gǔ shēng wù xué],古生物學[gǔ shēng wù xué]')).
+assert(celo(paleontologo,'paleontolog.0o','古生物学家[gǔ shēng wù xué jiā],古生物學家[gǔ shēng wù xué jiā]')).
+assert(celo('Palermo','palerm.0o.urbo','巴勒莫[Bā lè mò]')).
+assert(celo('Palestino','palestin.0o','巴勒斯坦[Bā lè sī tǎn]')).
+assert(celo(paletro,'paletr.0o','調色板[tiáo sè bǎn],调色板[tiáo sè bǎn]')).
+assert(celo(paletro,'paletr.0o','托盘[tuō pán],托盤[tuō pán]')).
+assert(celo(paliativo,'paliat.0o.MED','安宁缓和医疗[ān níng huǎn hé yī liáo],安寧緩和醫療[ān níng huǎn hé yī liáo]')).
+assert(celo(palindromo,'palind.0o','回文[huí wén]')).
+assert(celo(palinuro,'palinu.0o','龍蝦[lóng xiā],龙虾[lóng xiā]')).
+assert(celo(palisaro,'palis.0aro','围篱[wéi lí],圍籬[wéi lí]')).
+assert(celo(palisaro,'palis.0aro','砦[zhài]')).
+assert(celo(paliso,'palis.0o','樴[zhí]')).
+assert(celo(palisumi,'palis.0umi','刺穿[cì chuān]')).
+assert(celo(palisandro,'palisa.0o','紅木[hóng mù],红木[hóng mù]')).
+assert(celo(palmo,'palm.0o','棕榈[zōng lú:],棕櫚[zōng lú:]')).
+assert(celo(palmo,'palm.0o','榈[lú:],櫚[lú:]')).
+assert(celo(palmo,'palm.0o','棕树[zōng shù],棕樹[zōng shù]')).
+assert(celo(palmo,'palm.0o','椰树[yé shù],椰樹[yé shù]')).
+assert(celo(palmo,'palm.0o','榈[lǘ],櫚[lǘ]')).
+assert(celo(palmaĵo,'','蕉扇[jiǎo shàn]')).
+assert(celo(palmobranĉo,'palm.0obrancxo','蕉扇[jiǎo shàn]')).
+assert(celo('Palmofesto','palm.0ofesto','棕树主日[zōng shù zhǔ rì],棕樹主日[zōng shù zhǔ rì]')).
+assert(celo('Palmofesto','palm.0ofesto','棕枝主日[zōng zhī zhǔ rì]')).
+assert(celo('Palmofesto','palm.0ofesto','棕枝全日[zōng zhī quán rì]')).
+assert(celo(palpado,'palp.0ado','感知[gǎn zhī]')).
+assert(celo(palpebla,'palp.0ebla','摸得出[mō dé chū]')).
+assert(celo(palpebla,'palp.0ebla','可及[kě jí]')).
+assert(celo(palpi,'palp.0i','摸[mō]')).
+assert(celo(palpi,'palp.0i','指进[zhǐ jìn],指進[zhǐ jìn]')).
+assert(celo(palpi,'palp.0i','触碰[chù pèng],觸碰[chù pèng]')).
+assert(celo(palpi,'palp.0i','摸索[mō suo]')).
+assert(celo(palpi,'palp.0i','摸索着走[mō suo zhuó zǒu],摸索著走[mō suo zhuó zǒu]')).
+assert(celo(palpi,'palp.0i','用手摸索[yòng shǒu mō suo]')).
+assert(celo(palpi,'palp.0i','把弄[bǎ nòng]')).
+assert(celo(palpi,'palp.0i','有指[yǒu zhǐ]')).
+assert(celo(palpilo,'palp.0ilo','試探者[shì tàn zhě],试探者[shì tàn zhě]')).
+assert(celo(palpebro,'palpeb.0o.ANA','眼睑[yǎn jiǎn],眼瞼[yǎn jiǎn]')).
+assert(celo(palpebro,'palpeb.0o.ANA','眼皮[yǎn pí]')).
+assert(celo(palpebro,'palpeb.0o.ANA','睑[jiǎn],瞼[jiǎn]')).
+assert(celo(palpebro,'palpeb.0o.ANA','眼皮子[yǎn pí zi]')).
+assert(celo(palpebrumi,'palpeb.0umi','眨眼[zhǎ yǎn]')).
+assert(celo(palpebrumi,'palpeb.0umi','眯[mī],瞇[mī]')).
+assert(celo(palpebrumi,'palpeb.0umi','扑闪[pū shǎn],撲閃[pū shǎn]')).
+assert(celo(palpebrumi,'palpeb.0umi','眨[zhǎ]')).
+assert(celo(palpebrumi,'palpeb.0umi','眯[mǐ],瞇[mǐ]')).
+assert(celo(palpitacio,'palpitaci.0o','心悸[xīn jì]')).
+assert(celo(palpitacio,'palpitaci.0o','唈[yì]')).
+assert(celo(palpitacio,'palpitaci.0o','怔忡[zhēng chōng]')).
+assert(celo(palto,'palt.0o','大衣[dà yī]')).
+assert(celo(duonpalto,'palt.duon0o','袄[ǎo],襖[ǎo]')).
+assert(celo(palto,'','氅[chǎng]')).
+assert(celo(paludismo,'paludism.0o','摆子[bǎi zi],擺子[bǎi zi]')).
+assert(celo(paludismo,'paludism.0o','疟[nu:è],瘧[nu:è]')).
+assert(celo(paludismo,'paludism.0o','瘴[zhàng]')).
+assert(celo(paludismo,'paludism.0o','疟疾[nüè jí],瘧疾[nüè jí]')).
+assert(celo(paludismo,'paludism.0o','痁[diàn]')).
+assert(celo(paludismo,'paludism.0o','疟[nüè],瘧[nüè]')).
+assert(celo(paludismo,'paludism.0o','疟[yào],瘧[yào]')).
+assert(celo(palumbo,'palumb.0o','斑尾林鴿[bān wěi lín gē],斑尾林鸽[bān wěi lín gē]')).
+assert(celo('Pamiro','pamir.0o.montaro','帕米尔高原[pà mǐ ěr gāo yuán],帕米爾高原[pà mǐ ěr gāo yuán]')).
+assert(celo(pampelmusarbo,'pampelmus.0arbo','柚[yòu]')).
+assert(celo(pampelmuso,'pampelmus.0o','文旦[wén dàn]')).
+assert(celo(pampelmuso,'pampelmus.0o','柚子[yòu zi]')).
+assert(celo(pampelmuso,'pampelmus.0o','椵[jiǎ]')).
