@@ -361,3 +361,245 @@ assert(celo(pampelmusarbo,'pampelmus.0arbo','柚[yòu]')).
 assert(celo(pampelmuso,'pampelmus.0o','文旦[wén dàn]')).
 assert(celo(pampelmuso,'pampelmus.0o','柚子[yòu zi]')).
 assert(celo(pampelmuso,'pampelmus.0o','椵[jiǎ]')).
+assert(celo(panero,'pan.0ero','面包渣[miàn bāo zhā],麵包渣[miàn bāo zhā]')).
+assert(celo(panisto,'pan.0isto','烘焙师[hōng bèi shī],烘焙師[hōng bèi shī]')).
+assert(celo(ŝmirpano,'pan.sxmir0o','黃油麵包[huáng yóu miàn bāo],黄油面包[huáng yóu miàn bāo]')).
+assert(celo(ŝmirpano,'pan.sxmir0o','三明治[sān míng zhì]')).
+assert(celo(vivpano,'pan.viv0o','生計[shēng jì],生计[shēng jì]')).
+assert(celo(panaceo,'panace.0o','万应灵丹[wàn yìng líng dān],萬應靈丹[wàn yìng líng dān]')).
+assert(celo(panaceo,'panace.0o','圣药[shèng yào],聖藥[shèng yào]')).
+assert(celo(panaceo,'panace.0o','包医百病的药方[bāo yī bǎi bìng de yào fāng],包醫百病的藥方[bāo yī bǎi bìng de yào fāng]')).
+assert(celo(panaceo,'panace.0o','万能药[wàn néng yào],萬能藥[wàn néng yào]')).
+assert(celo('Panamo','panam.P0o','巴拿馬[Bā ná mǎ],巴拿马[Bā ná mǎ]')).
+assert(celo(panaricio,'panari.0o','甲床炎[jiǎ chuáng yán]')).
+assert(celo('granda pando','pand.granda0o','大熊猫[dà xióng māo],大熊貓[dà xióng māo]')).
+assert(celo('malgranda pando','pand.malgranda0o','紅熊貓[hóng xióng māo],红熊猫[hóng xióng māo]')).
+assert(celo(pandemio,'pandemi.0o','大流行[dà liú xíng]')).
+assert(celo(pandemio,'pandemi.0o','瘟疫[wēn yì]')).
+assert(celo(pandemio,'pandemi.0o','大流行病[dà liú xíng bìng]')).
+assert(celo(pandiono,'pandio.0o','雎[jū]')).
+assert(celo(pandiono,'pandio.0o','鶚[è],鹗[è]')).
+assert(celo(paneo,'pane.0o','故障[gù zhàng]')).
+assert(celo(panei,'','出毛病[chū máo bìng]')).
+assert(celo(panegiri,'panegi.0i','歌頌[gē sòng],歌颂[gē sòng]')).
+assert(celo(panegiri,'panegi.0i','咏赞[yǒng zàn],詠贊[yǒng zàn]')).
+assert(celo(paneldiskuto,'panel.0diskuto','合議[hé yì],合议[hé yì]')).
+assert(celo(panelo,'panel.0o','壁板[bì bǎn]')).
+assert(celo(panelo,'panel.0o','装上壁板[zhuāng shàng bì bǎn],裝上壁板[zhuāng shàng bì bǎn]')).
+assert(celo(panelo,'panel.0o','面板[miàn bǎn]')).
+assert(celo(panelo,'panel.0o','嵌板[qiàn bǎn]')).
+assert(celo(kontrolpanelo,'panel.kontrol0o','仪表盘[yí biǎo pán],儀表盤[yí biǎo pán]')).
+assert(celo(kontrolpanelo,'','面板[miàn bǎn]')).
+assert(celo(regpanelo,'panel.reg0o','仪表盘[yí biǎo pán],儀表盤[yí biǎo pán]')).
+assert(celo(regpanelo,'','面板[miàn bǎn]')).
+assert(celo('Panĝabo','pangxab.0o','旁遮普[Páng zhē pǔ]')).
+assert(celo(paniko,'panik.0o','恐慌[kǒng huāng]')).
+assert(celo(paniko,'','怵惧[chù jù],怵懼[chù jù]')).
+assert(celo(paniki,'','惊惶失措[jīng huáng shī cuò],驚惶失措[jīng huáng shī cuò]')).
+assert(celo(pankreato,'pankreat.0o','胰腺[yí xiàn]')).
+assert(celo(pankreato,'pankreat.0o','胰[yí]')).
+assert(celo(pankreato,'pankreat.0o','膵[cuì]')).
+assert(celo(pankreato,'pankreat.0o','胰脏[yí zàng],胰臟[yí zàng]')).
+assert(celo(panoptiko,'panoptik.0o','蜡像馆[là xiàng guǎn],蠟像館[là xiàng guǎn]')).
+assert(celo(panoramo,'panora.0o','广角[guǎng jiǎo],廣角[guǎng jiǎo]')).
+assert(celo(panoramo,'panora.0o','全景[quán jǐng]')).
+assert(celo(panoramo,'panora.0o','全豹[quán bào]')).
+assert(celo(panoramo,'panora.0o','全貌[quán mào]')).
+assert(celo(panoramo,'panora.0o','全景图片[quán jǐng tú piàn],全景圖片[quán jǐng tú piàn]')).
+assert(celo(pansaĵo,'','创口贴[chuāng kǒu tiē],創口貼[chuāng kǒu tiē]')).
+assert(celo(pansaĵo,'','止血貼[zhǐ xuè tiē],止血贴[zhǐ xuè tiē]')).
+assert(celo(pantaloneto,'pantal.0eto','衩[chǎ]')).
+assert(celo(pantaloneto,'pantal.0eto','短裤[duǎn kù],短褲[duǎn kù]')).
+assert(celo(pantalono,'pantal.0o','裤[kù],褲[kù]')).
+assert(celo(pantalono,'pantal.0o','裤子[kù zi],褲子[kù zi]')).
+assert(celo(pantalono,'pantal.0o','長褲[cháng kù],长裤[cháng kù]')).
+assert(celo(sakpantalono,'pantal.sak0o','吊裆裤[diào dāng kù],吊襠褲[diào dāng kù]')).
+assert(celo(pantero,'panter.0o.genro','豹属[bào shǔ],豹屬[bào shǔ]')).
+assert(celo(pantero,'panter.0o.leopardo','豹[bào]')).
+assert(celo(pantofli,'pantof.0i','拖着步走[tuō zhuó bù zǒu],拖著步走[tuō zhuó bù zǒu]')).
+assert(celo(pantofli,'pantof.0i','曳步[yì bù]')).
+assert(celo(pantoflo,'pantof.0o','拖鞋[tuō xié]')).
+assert(celo(pantoflo,'pantof.0o','屣[xǐ]')).
+assert(celo(pantoflo,'pantof.0o','蹝[xǐ]')).
+assert(celo(pantoflo,'pantof.0o','靸[sǎ]')).
+assert(celo(pantomimisto,'pantom.0isto','默剧[mò jù],默劇[mò jù]')).
+assert(celo(pantomimo,'pantom.0o','哑剧[yǎ jù],啞劇[yǎ jù]')).
+assert(celo(papo,'pap.0o','教宗[jiào zōng]')).
+assert(celo(kontraŭpapo,'pap.kontraux0o','对立教宗[duì lì jiào zōng],對立教宗[duì lì jiào zōng]')).
+assert(celo(papago,'papag.0o','鸚[yīng],鹦[yīng]')).
+assert(celo(papago,'papag.0o','鵡[wǔ],鹉[wǔ]')).
+assert(celo(papago,'papag.0o','鸚鵡[yīng wǔ],鹦鹉[yīng wǔ]')).
+assert(celo(papago,'papag.0o','学舌[xué shé],學舌[xué shé]')).
+assert(celo(papagoformaj,'papag.0oformaj','鸚形目[yīng xíng mù],鹦形目[yīng xíng mù]')).
+assert(celo(papajarbo,'papaj.0arbo','木瓜[mù guā]')).
+assert(celo(papajo,'papaj.0o','番木瓜[fān mù guā]')).
+assert(celo(paparaco,'paparac.0o','狗仔[gǒu zǎi]')).
+assert(celo(papavo,'papav.0o','罂粟[yīng sù],罌粟[yīng sù]')).
+assert(celo(paperaĵo,'paper.0ajxo','废纸[fèi zhǐ],廢紙[fèi zhǐ]')).
+assert(celo(paperisto,'paper.0isto.TIP_paperfaristo','造紙工[zào zhǐ gōng],造纸工[zào zhǐ gōng]')).
+assert(celo(papero,'paper.0o','紙張[zhǐ zhāng],纸张[zhǐ zhāng]')).
+assert(celo(papero,'paper.0o','紙[zhǐ],纸[zhǐ]')).
+assert(celo(papero,'paper.0o','紙條[zhǐ tiáo],纸条[zhǐ tiáo]')).
+assert(celo(paperujo,'paper.0ujo.biletujo','皮夹[pí jiā],皮夾[pí jiā]')).
+assert(celo(paperujo,'paper.0ujo.biletujo','錢包[qián bāo],钱包[qián bāo]')).
+assert(celo(paperujo,'paper.0ujo.biletujo','錢夾[qián jiā],钱夹[qián jiā]')).
+assert(celo(paperujo,'paper.0ujo.biletujo','私囊[sī náng]')).
+assert(celo(paperujo,'paper.0ujo.dosiera','文件夹[wén jiàn jiā],文件夾[wén jiàn jiā]')).
+assert(celo(paperujo,'paper.0ujo.dosiera','卷宗[juàn zōng]')).
+assert(celo(paperujo,'paper.0ujo.dosiera','公事包[gōng shì bāo]')).
+assert(celo(paperujo,'paper.0ujo.dosiera','公文包[gōng wén bāo]')).
+assert(celo(paperujo,'paper.0ujo.dosiera','手提皮包[shǒu tí pí bāo]')).
+assert(celo(paperujo,'paper.0ujo.dosiera','箧[qiè],篋[qiè]')).
+assert(celo(karbopapero,'paper.karbo0o.KOMUNE','复写纸[fù xiě zhǐ],複寫紙[fù xiě zhǐ]')).
+assert(celo(karbonpapero,'paper.karbon0o.karbopapero','复写纸[fù xiě zhǐ],複寫紙[fù xiě zhǐ]')).
+assert(celo(klozetpapero,'paper.klozet0o.necesejapapero','手紙[shǒu zhǐ],手纸[shǒu zhǐ]')).
+assert(celo(klozetpapero,'paper.klozet0o.necesejapapero','卫生纸[wèi shēng zhǐ],衛生紙[wèi shēng zhǐ]')).
+assert(celo(klozetpapero,'paper.klozet0o.necesejapapero','厕纸[cè zhǐ],廁紙[cè zhǐ]')).
+assert(celo(kreppapero,'paper.krep0o.KOMUNE','縐紋紙[zhòu wén zhǐ],绉纹纸[zhòu wén zhǐ]')).
+assert(celo(monpaperujo,'paper.mon0ujo','錢包[qián bāo],钱包[qián bāo]')).
+assert(celo(monpaperujo,'paper.mon0ujo','投资组合[tóu zī zǔ hé]')).
+assert(celo(monpaperujo,'paper.mon0ujo','皮夹[pí jiā],皮夾[pí jiā]')).
+assert(celo(monpaperujo,'paper.mon0ujo','部長職務[bù zhǎng zhí wù],部长职务[bù zhǎng zhí wù]')).
+assert(celo(monpaperujo,'paper.mon0ujo','錢夾[qián jiā],钱夹[qián jiā]')).
+assert(celo(monpaperujo,'paper.mon0ujo','錢袋[qián dài],钱袋[qián dài]')).
+assert(celo(murpapero,'paper.mur0o','糊墙纸[hú qiáng zhǐ],糊牆紙[hú qiáng zhǐ]')).
+assert(celo(murpapero,'paper.mur0o','墙纸[qiáng zhǐ],牆紙[qiáng zhǐ]')).
+assert(celo(murpapero,'paper.mur0o','壁紙[bì zhǐ],壁纸[bì zhǐ]')).
+assert(celo('neceseja papero','paper.neceseja0o','卫生纸[wèi shēng zhǐ],衛生紙[wèi shēng zhǐ]')).
+assert(celo('neceseja papero','paper.neceseja0o','手紙[shǒu zhǐ],手纸[shǒu zhǐ]')).
+assert(celo('neceseja papero','paper.neceseja0o','厕纸[cè zhǐ],廁紙[cè zhǐ]')).
+assert(celo('neceseja papero','paper.neceseja0o','擦腚紙[cā dìng zhǐ],擦腚纸[cā dìng zhǐ]')).
+assert(celo(pakpapero,'paper.pak0o','包装[bāo zhuāng],包裝[bāo zhuāng]')).
+assert(celo(paŭspapero,'paper.pauxs0o.TEK','蓝图纸[lán tú zhǐ],藍圖紙[lán tú zhǐ]')).
+assert(celo(reuzpapero,'paper.reuz0o','还魂纸[huán hún zhǐ],還魂紙[huán hún zhǐ]')).
+assert(celo(reuzpapero,'paper.reuz0o','再制纸[zài zhì zhǐ],再製紙[zài zhì zhǐ]')).
+assert(celo(reuzpapero,'paper.reuz0o','再生紙[zài shēng zhǐ],再生纸[zài shēng zhǐ]')).
+assert(celo(sablopapero,'paper.sablo0o','砂紙[shā zhǐ],砂纸[shā zhǐ]')).
+assert(celo(silkopapero,'paper.silko0o.KOMUNE','紗紙[shā zhǐ],纱纸[shā zhǐ]')).
+assert(celo(smirgopapero,'paper.smirgo0o','砂紙[shā zhǐ],砂纸[shā zhǐ]')).
+assert(celo(sorbopapero,'paper.sorbo0o.KOMUNE','墨紙[mò zhǐ],墨纸[mò zhǐ]')).
+assert(celo(sorbopapero,'paper.sorbo0o.KOMUNE','吸墨水紙[xī mò shuǐ zhǐ],吸墨水纸[xī mò shuǐ zhǐ]')).
+assert(celo(surpaperigi,'paper.sur0igi.redakti','記載[jì zǎi],记载[jì zǎi]')).
+assert(celo(tapetpapero,'paper.tapet0o','壁紙[bì zhǐ],壁纸[bì zhǐ]')).
+assert(celo(tapetpapero,'paper.tapet0o','糊墙纸[hú qiáng zhǐ],糊牆紙[hú qiáng zhǐ]')).
+assert(celo(tualetpapero,'paper.tualet0o.KOMUNE','紙巾[zhǐ jīn],纸巾[zhǐ jīn]')).
+assert(celo(tualetpapero,'paper.tualet0o.KOMUNE','抽紙[chōu zhǐ],抽纸[chōu zhǐ]')).
+assert(celo(papilio,'papili.0o','蝴蝶[hú dié]')).
+assert(celo(papilio,'papili.0o','蝶[dié]')).
+assert(celo(papilio,'papili.0o','蝴[hú]')).
+assert(celo(papilio,'papili.0o','蛱[jiá],蛺[jiá]')).
+assert(celo(papilio,'papili.0o','服装时髦的人[fú zhuāng shí máo de rén],服裝時髦的人[fú zhuāng shí máo de rén]')).
+assert(celo(noktopapilio,'papili.nokto0o','蛾[é]')).
+assert(celo(noktopapilio,'papili.nokto0o','蛾子[é zi]')).
+assert(celo(noktopapilio,'papili.nokto0o','灯蛾[dēng é],燈蛾[dēng é]')).
+assert(celo(noktopapilio,'papili.nokto0o','飛蛾[fēi é],飞蛾[fēi é]')).
+assert(celo(papiliacoj,'papili1.0oj','蝶形花亚科[dié xíng huā yà kē],蝶形花亞科[dié xíng huā yà kē]')).
+assert(celo(papiruso,'papiru.0o','紙草[zhǐ cǎo],纸草[zhǐ cǎo]')).
+assert(celo(papiruso,'papiru.0o.BOT','莎草紙[suō cǎo zhǐ],莎草纸[suō cǎo zhǐ]')).
+assert(celo(papriko,'paprik.0o','紅辣椒粉[hóng là jiāo fěn],红辣椒粉[hóng là jiāo fěn]')).
+assert(celo(papriko,'paprik.0o','牛角椒[niú jiǎo jiāo]')).
+assert(celo(papriko,'paprik.0o','青椒[qīng jiāo]')).
+assert(celo(papriko,'paprik.0o','辣子[là zi]')).
+assert(celo(papriko,'paprik.0o','紅辣椒[hóng là jiāo],红辣椒[hóng là jiāo]')).
+assert(celo(papriko,'paprik.0o','辣椒粉[là jiāo fěn]')).
+assert(celo('Papuo','papu.P0o.GEOG','巴布亚[bā bù yà],巴布亞[bā bù yà]')).
+assert(celo(para,'par.0a.MAT','偶数[ǒu shù],偶數[ǒu shù]')).
+assert(celo(parigi,'par.0igi','有伴[yǒu bàn]')).
+assert(celo(parigi,'par.0igi','有配偶[yǒu pèi ǒu]')).
+assert(celo(parigi,'par.0igi','結婚了[jié hūn liǎo],结婚了[jié hūn liǎo]')).
+assert(celo(pariĝi,'par.0igxi','配对[pèi duì],配對[pèi duì]')).
+assert(celo(paro,'par.0o','双[shuāng],雙[shuāng]')).
+assert(celo(paro,'par.0o','一对[yī duì],一對[yī duì]')).
+assert(celo(paro,'par.0o','对[duì],對[duì]')).
+assert(celo(paro,'par.0o','双人[shuāng rén],雙人[shuāng rén]')).
+assert(celo(paro,'par.0o','一双[yī shuāng],一雙[yī shuāng]')).
+assert(celo(paro,'par.0o','两口儿[liǎng kǒu r],兩口兒[liǎng kǒu r]')).
+assert(celo(paro,'par.0o','一对儿[yī duì r],一對兒[yī duì r]')).
+assert(celo(parulino,'par.0ulino','女伴[nǚ bàn]')).
+assert(celo(parulino,'par.0ulino','老婆[lǎo pó]')).
+assert(celo(parulo,'par.0ulo','伙伴[huǒ bàn]')).
+assert(celo(parulo,'par.0ulo','伴[bàn]')).
+assert(celo(parulo,'par.0ulo','伴侣[bàn lǔ:],伴侶[bàn lǔ:]')).
+assert(celo(parulo,'par.0ulo','搭档[dā dàng],搭檔[dā dàng]')).
+assert(celo(parulo,'par.0ulo','匹[pī]')).
+assert(celo(parulo,'par.0ulo','合伙人[hé huǒ rén]')).
+assert(celo(parulo,'par.0ulo','拍档[pāi dàng],拍檔[pāi dàng]')).
+assert(celo(parulo,'par.0ulo','枕边人[zhěn biān rén],枕邊人[zhěn biān rén]')).
+assert(celo(parulo,'par.0ulo','侣[lǔ:],侶[lǔ:]')).
+assert(celo(parulo,'par.0ulo','同伴[tóng bàn]')).
+assert(celo(parulo,'par.0ulo','对方[duì fāng],對方[duì fāng]')).
+assert(celo(parulo,'par.0ulo','工作伙伴[gōng zuò huǒ bàn]')).
+assert(celo('blinda parigo','par.blinda0igo','相亲[xiāng qīn],相親[xiāng qīn]')).
+assert(celo(nepara,'par.ne0a','奇[jī]')).
+assert(celo(nepara,'par.ne0a','奇数[jī shù],奇數[jī shù]')).
+assert(celo(parabolo,'parabo.0o','諷喻[fěng yù],讽喻[fěng yù]')).
+assert(celo(parabolo,'parabo.0o','抛物线[pāo wù xiàn],拋物線[pāo wù xiàn]')).
+assert(celo(parabolo,'parabo.0o','風喻[fēng yù],风喻[fēng yù]')).
+assert(celo(paraboloido,'parabo1.0o','抛物面[pāo wù miàn],拋物面[pāo wù miàn]')).
+assert(celo(parado,'parad.0o','列队行进[liè duì xíng jìn],列隊行進[liè duì xíng jìn]')).
+assert(celo(parado,'parad.0o','閱兵式[yuè bīng shì],阅兵式[yuè bīng shì]')).
+assert(celo(parado,'parad.0o.MIL','閱兵式[yuè bīng shì],阅兵式[yuè bīng shì]')).
+assert(celo(parado,'parad.0o.procesio','游行[yóu xíng],遊行[yóu xíng]')).
+assert(celo(parado,'parad.0o.procesio','行军游行阅兵[xíng jūn yóu xíng yuè bīng],行軍遊行閱兵[xíng jūn yóu xíng yuè bīng]')).
+assert(celo(parado,'parad.0o.procesio','閱兵[yuè bīng],阅兵[yuè bīng]')).
+assert(celo(parado,'parad.0o.procesio','成队[chéng duì],成隊[chéng duì]')).
+assert(celo(parado,'parad.0o.procesio','排队前进[pái duì qián jìn],排隊前進[pái duì qián jìn]')).
+assert(celo(parado,'parad.0o.procesio','排队游行[pái duì yóu xíng],排隊遊行[pái duì yóu xíng]')).
+assert(celo(paradigmo,'paradi.0o','範式[fàn shì],范式[fàn shì]')).
+assert(celo(paradigmo,'paradi.0o.KOMP','編程範型[biān chéng fàn xíng],编程范型[biān chéng fàn xíng]')).
+assert(celo(paradigmo,'paradi.0o.SCI','宇宙觀[yǔ zhòu guān],宇宙观[yǔ zhòu guān]')).
+assert(celo(paradigmo,'paradi.0o.SCI','世界觀[shì jiè guān],世界观[shì jiè guān]')).
+assert(celo(impostparadizo,'paradi1.impost0o','逃稅天堂[táo shuì tiān táng],逃税天堂[táo shuì tiān táng]')).
+assert(celo(impostparadizo,'paradi1.impost0o','避稅天堂[bì shuì tiān táng],避税天堂[bì shuì tiān táng]')).
+assert(celo(paradizludo,'paradi1.lud0o','跳房子[tiào fáng zi]')).
+assert(celo(paradokso,'parado.0o','悖論[bèi lùn],悖论[bèi lùn]')).
+assert(celo(paradokso,'parado.0o','自相矛盾的話[zì xiāng máo dùn de huà],自相矛盾的话[zì xiāng máo dùn de huà]')).
+assert(celo(parafi,'paraf.0i','草签[cǎo qiān],草簽[cǎo qiān]')).
+assert(celo(parafo,'paraf.0o.JUR','符記[fú jì],符记[fú jì]')).
+assert(celo(parafo,'paraf.0o.JUR','縮寫式[suō xiě shì],缩写式[suō xiě shì]')).
+assert(celo(parafino,'parafi.0o','石蜡[shí là],石蠟[shí là]')).
+assert(celo(parafrazi,'parafr.0i','意譯[yì yì],意译[yì yì]')).
+assert(celo(parafrazo,'','演繹曲[yǎn yì qǔ],演绎曲[yǎn yì qǔ]')).
+assert(celo(paraglisado,'paraglis.0ado','滑翔伞[huá xiáng sǎn],滑翔傘[huá xiáng sǎn]')).
+assert(celo(paraglisilo,'paraglis.0ilo','滑翔伞[huá xiáng sǎn],滑翔傘[huá xiáng sǎn]')).
+assert(celo(paraglisilo,'paraglis.0ilo','翼伞[yì sǎn],翼傘[yì sǎn]')).
+assert(celo(paragrafo,'paragr.0o.KLA','款[kuǎn]')).
+assert(celo(paragrafo,'paragr.0o.KLA','段[duàn]')).
+assert(celo('Paragvajo','paragvaj.P0o','巴拉圭[Bā lā guī]')).
+assert(celo('Paragvajo','paragvaj.P0o','巴拉圭共和国[bā lā guī gòng hé guó],巴拉圭共和國[bā lā guī gòng hé guó]')).
+assert(celo('Parakleto','parakl.0o','圣神[Shèng shén],聖神[Shèng shén]')).
+assert(celo('Parakleto','parakl.0o','圣灵[Shèng líng],聖靈[Shèng líng]')).
+assert(celo(paralela,'parale.0a','平行[píng xíng]')).
+assert(celo(paralela,'parale.0a.komparata','相伴[xiāng bàn]')).
+assert(celo(paralelaĵo,'parale.0ajxo','平行線[píng xíng xiàn],平行线[píng xíng xiàn]')).
+assert(celo(paralelo,'parale.0o.io_komparebla','平行線[píng xíng xiàn],平行线[píng xíng xiàn]')).
+assert(celo(paralelepipedo,'parale1.0o','平行六面体[píng xíng liù miàn tǐ],平行六面體[píng xíng liù miàn tǐ]')).
+assert(celo(paralelepipedo,'parale1.0o','平行六面体[píng háng liù miàn tǐ],平行六麵體[píng háng liù miàn tǐ]')).
+assert(celo(paralelogramo,'parale2.0o','平行四边形[píng xíng sì biān xíng],平行四邊形[píng xíng sì biān xíng]')).
+assert(celo(paralizi,'parali.0i','瘫痪[tān huàn],癱瘓[tān huàn]')).
+assert(celo(paralizo,'parali.0o','痹[bì],痺[bì]')).
+assert(celo(paralizo,'parali.0o','瘫痪[tān huàn],癱瘓[tān huàn]')).
+assert(celo('Paralimpiko','paralimpik.0o','残奥[Cán Ào],殘奧[Cán Ào]')).
+assert(celo('Paralimpiko','paralimpik.0o','残奥会[Cán Ào huì],殘奧會[Cán Ào huì]')).
+assert(celo('Paralimpiko','paralimpik.0o','残奥[cán ào],殘奧[cán ào]')).
+assert(celo('Paramaribo','paramarib.0o','帕拉馬里博[Pà lā mǎ lǐ bó],帕拉马里博[Pà lā mǎ lǐ bó]')).
+assert(celo('Paramaribo','paramarib.0o','巴拉馬利波[Bā lā mǎ lì bō],巴拉马利波[Bā lā mǎ lì bō]')).
+assert(celo(parametro,'parame.0o','参数[cān shù],參數[cān shù]')).
+assert(celo(parametro,'parame.0o','参量[cān liáng],參量[cān liáng]')).
+assert(celo(paramnezio,'paramnezi.0o','似曾相識[sì céng xiāng shí],似曾相识[sì céng xiāng shí]')).
+assert(celo(paranojo,'paranoj.0o','偏執狂[piān zhí kuáng],偏执狂[piān zhí kuáng]')).
+assert(celo(paranojo,'paranoj.0o','妄想狂[wàng xiǎng kuáng]')).
+assert(celo(paranojo,'paranoj.0o','妄想症[wàng xiǎng zhèng]')).
+assert(celo(parapsiĥologio,'parapsihxologi.0o','超心理学[chāo xīn lǐ xué],超心理學[chāo xīn lǐ xué]')).
+assert(celo(paraŝuti,'parasx.0i','坐降落伞[zuò jiàng luò sǎn],坐降落傘[zuò jiàng luò sǎn]')).
+assert(celo(paraŝuto,'parasx.0o','降落伞[jiàng luò sǎn],降落傘[jiàng luò sǎn]')).
+assert(celo(paraŝutisto,'','伞兵[sǎn bīng],傘兵[sǎn bīng]')).
+assert(celo(paraŝuti,'','跳伞[tiào sǎn],跳傘[tiào sǎn]')).
+assert(celo(glisparaŝuto,'parasx.glis0o','滑翔伞[huá xiáng sǎn],滑翔傘[huá xiáng sǎn]')).
+assert(celo(glisparaŝutado,'','滑翔伞[huá xiáng sǎn],滑翔傘[huá xiáng sǎn]')).
+assert(celo(paraziti,'parazi.0i','蹭[cèng]')).
+assert(celo(parazitismo,'parazi.0ismo','寄生[jì shēng]')).
+assert(celo(parazito,'parazi.0o','寄生虫[jì shēng chóng],寄生蟲[jì shēng chóng]')).
+assert(celo(parazito,'parazi.0o','寄生者[jì shēng zhě]')).
+assert(celo(parazito,'parazi.0o','寄生物[jì shēng wù]')).
+assert(celo(parazito,'parazi.0o','淸客[qīng kè],清客[qīng kè]')).
