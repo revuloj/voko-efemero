@@ -603,3 +603,106 @@ assert(celo(parazito,'parazi.0o','寄生虫[jì shēng chóng],寄生蟲[jì sh�
 assert(celo(parazito,'parazi.0o','寄生者[jì shēng zhě]')).
 assert(celo(parazito,'parazi.0o','寄生物[jì shēng wù]')).
 assert(celo(parazito,'parazi.0o','淸客[qīng kè],清客[qīng kè]')).
+assert(celo(parcelo,'parcel.0o','宗地[zōng dì]')).
+assert(celo(pardonema,'pardon.0ema','宽容[kuān róng],寬容[kuān róng]')).
+assert(celo(pardonema,'pardon.0ema','从宽[cóng kuān],從寬[cóng kuān]')).
+assert(celo(pardoni,'pardon.0i','原諒[yuán liàng],原谅[yuán liàng]')).
+assert(celo(pardoni,'pardon.0i','恕[shù]')).
+assert(celo(pardoni,'pardon.0i','諒[liàng],谅[liàng]')).
+assert(celo(pardoni,'pardon.0i','包涵[bāo hán]')).
+assert(celo(pardoni,'pardon.0i','宽恕[kuān shù],寬恕[kuān shù]')).
+assert(celo(pardoni,'pardon.0i','饒[ráo],饶[ráo]')).
+assert(celo(pardoni,'pardon.0i','除罪[chú zuì]')).
+assert(celo(pardoni,'pardon.0i','饒恕[ráo shù],饶恕[ráo shù]')).
+assert(celo(pardoni,'pardon.0i','包容[bāo róng]')).
+assert(celo(pardono,'pardon.0o','不好意思[bù hǎo yì si]')).
+assert(celo(pardono,'pardon.0o','劳驾[láo jià],勞駕[láo jià]')).
+assert(celo(pardono,'pardon.0o','对不起[duì bu qǐ],對不起[duì bu qǐ]')).
+assert(celo(pardono,'pardon.0o','赦令[shè lìng]')).
+assert(celo(pardono,'pardon.0o','原諒[yuán liàng],原谅[yuán liàng]')).
+assert(celo(pardono,'pardon.0o','宽恕[kuān shù],寬恕[kuān shù]')).
+assert(celo(parenca,'parenc.0a','紧密相联[jǐn mì xiāng lián],緊密相聯[jǐn mì xiāng lián]')).
+assert(celo(parenca,'parenc.0a','戚[qī]')).
+assert(celo(parenca,'parenc.0a','支与流裔[zhī yǔ liú yì],支與流裔[zhī yǔ liú yì]')).
+assert(celo(parenca,'parenc.0a','亲[qīn],親[qīn]')).
+assert(celo(parenca,'parenc.0a','亲属[qīn shǔ],親屬[qīn shǔ]')).
+assert(celo(parenceco,'parenc.0eco','血緣關係[xiě yuán guān xi],血缘关系[xiě yuán guān xi]')).
+assert(celo(parenceco,'parenc.0eco','亲属[qīn shǔ],親屬[qīn shǔ]')).
+assert(celo(parenceco,'parenc.0eco','同宗[tóng zōng]')).
+assert(celo(parenceco,'parenc.0eco','同族[tóng zú]')).
+assert(celo(parenceco,'parenc.0eco','有血緣關係[yǒu xiě yuán guān xi],有血缘关系[yǒu xiě yuán guān xi]')).
+assert(celo(parenceco,'parenc.0eco','有关系[yǒu guān xi],有關係[yǒu guān xi]')).
+assert(celo(parenceco,'parenc.0eco','亲缘[qīn yuán],親緣[qīn yuán]')).
+assert(celo(parencino,'parenc.0ino','家属[jiā shǔ],家屬[jiā shǔ]')).
+assert(celo(parenco,'parenc.0o','近亲[jìn qīn],近親[jìn qīn]')).
+assert(celo(parenco,'parenc.0o','同宗[tóng zōng]')).
+assert(celo(parenco,'parenc.0o','亲戚[qīn qī],親戚[qīn qī]')).
+assert(celo(parenco,'parenc.0o','戚属[qī shǔ],戚屬[qī shǔ]')).
+assert(celo(parenteze,'parent.0e','順帶一提[shùn dài yī tí],顺带一提[shùn dài yī tí]')).
+assert(celo(parentezo,'parent.0o','括弧[kuò hú]')).
+assert(celo(parentezo,'parent.0o','圆括号[yuán kuò hào],圓括號[yuán kuò hào]')).
+assert(celo(parentezo,'parent.0o','括号[kuò hào],括號[kuò hào]')).
+assert(celo(parento,'parent1.0o','父母亲[fù mǔ qīn],父母親[fù mǔ qīn]')).
+assert(celo(parfumaĵo,'parfum.0ajxo','香水[xiāng shuǐ]')).
+assert(celo(parfumo,'parfum.0o','香水[xiāng shuǐ]')).
+assert(celo(parfumo,'parfum.0o','棻[fēn]')).
+assert(celo(parfumo,'parfum.0o','芬[fēn]')).
+assert(celo(parfumo,'parfum.0o','清香[qīng xiāng]')).
+assert(celo(parfumo,'parfum.0o','棻芳[fēn fāng]')).
+assert(celo(parfumo,'parfum.0o','气味[qì wèi],氣味[qì wèi]')).
+assert(celo(parfumo,'parfum.0o','香料[xiāng liào]')).
+assert(celo(parfumo,'parfum.0o','香液[xiāng yè]')).
+assert(celo(parfumo,'parfum.0o','馥[fù]')).
+assert(celo(pargeto,'parget.0o','鑲木地板[xiāng mù dì bǎn],镶木地板[xiāng mù dì bǎn]')).
+assert(celo(pargeto,'parget.0o','木地板[mù dì bǎn]')).
+assert(celo(pario,'pari.0o','賤民[jiàn mín],贱民[jiàn mín]')).
+assert(celo(pario,'pari.0o','局外人[jú wài rén]')).
+assert(celo(pario,'pari.0o','被社会抛弃的人[bèi shè huì pāo qì de rén],被社會拋棄的人[bèi shè huì pāo qì de rén]')).
+assert(celo(parietosto,'pariet.0osto','頂骨[dǐng gǔ],顶骨[dǐng gǔ]')).
+assert(celo(parietalo,'parietal.0o','頂骨[dǐng gǔ],顶骨[dǐng gǔ]')).
+assert(celo('Parizano','pariz.0ano','巴黎人[bā lí rén]')).
+assert(celo('Parizo','pariz.0o','巴黎[Bā lí]')).
+assert(celo(parkumado,'park.0umado','泊車[bó chē],泊车[bó chē]')).
+assert(celo(parko,'','囿[yòu]')).
+assert(celo(parko,'','园囿[yuán yòu],園囿[yuán yòu]')).
+assert(celo(parkumejo,'park.0umejo','停車場[tíng chē chǎng],停车场[tíng chē chǎng]')).
+assert(celo(parkumejo,'park.0umejo','車位[chē wèi],车位[chē wèi]')).
+assert(celo(parkumi,'park.0umi','停放[tíng fàng]')).
+assert(celo(parkumi,'park.0umi','泊車[bó chē],泊车[bó chē]')).
+assert(celo(amuzparko,'park.amuz0o.TUR','娛樂場所[yú lè chǎng suǒ],娱乐场所[yú lè chǎng suǒ]')).
+assert(celo(amuzparko,'park.amuz0o.TUR','娛樂性公園[yú lè xìng gōng yuán],娱乐性公园[yú lè xìng gōng yuán]')).
+assert(celo(amuzparko,'park.amuz0o.TUR','游乐园[yóu lè yuán],游樂園[yóu lè yuán]')).
+assert(celo(amuzparko,'park.amuz0o.TUR','游乐园[yóu lè yuán],遊樂園[yóu lè yuán]')).
+assert(celo(amuzparko,'park.amuz0o.TUR','娛樂園[yú lè yuán],娱乐园[yú lè yuán]')).
+assert(celo(amuzparko,'park.amuz0o.TUR','娛樂場[yú lè chǎng],娱乐场[yú lè chǎng]')).
+assert(celo(parkejo,'park2.0ejo','停車場[tíng chē chǎng],停车场[tíng chē chǎng]')).
+assert(celo(parkejo,'park2.0ejo','車位[chē wèi],车位[chē wèi]')).
+assert(celo(parko,'','公园[gōng yuán],公園[gōng yuán]')).
+assert(celo(parkumo,'park.um0o.ejo','停車場[tíng chē chǎng],停车场[tíng chē chǎng]')).
+assert(celo(parkumo,'park.um0o.ejo','停車站[tíng chē zhàn],停车站[tíng chē zhàn]')).
+assert(celo(parkumo,'park.um0o.ejo','停車處[tíng chē chù],停车处[tíng chē chù]')).
+assert(celo(parkumo,'park.um0o.ejo','地方停車[dì fang tíng chē],地方停车[dì fang tíng chē]')).
+assert(celo(parkumo,'park.um0o.ejo','車位[chē wèi],车位[chē wèi]')).
+assert(celo(parkumo,'park.um0o.ejo','車場[chē chǎng],车场[chē chǎng]')).
+assert(celo(parki,'park2.0i','停放[tíng fàng]')).
+assert(celo(parkere,'parker.0e','熟記[shú jì],熟记[shú jì]')).
+assert(celo(parkerigi,'','默記[mò jì],默记[mò jì]')).
+assert(celo(parkerigi,'','熟記[shú jì],熟记[shú jì]')).
+assert(celo('parkinsona malsano','parkinson.0a_malsano','巴金森氏症[bā jīn sēn shì zhèng]')).
+assert(celo('parkinsona malsano','parkinson.0a_malsano','帕金森氏症[pà jīn sēn shì zhèng]')).
+assert(celo('Parkinsono','parkinson.0o.kuracisto','帕金森[Pà jīn sēn]')).
+assert(celo('parkinsona malsano','','帕金森症[Pà jīn sēn zhèng]')).
+assert(celo(parlamentano,'parlam.0ano','議員[yì yuán],议员[yì yuán]')).
+assert(celo(parlamentejo,'parlam.0ejo','国会[guó huì],國會[guó huì]')).
+assert(celo(parlamento,'parlam.0o','議會[yì huì],议会[yì huì]')).
+assert(celo(parlamento,'parlam.0o','国会[guó huì],國會[guó huì]')).
+assert(celo(parlamento,'parlam.0o','議院[yì yuàn],议院[yì yuàn]')).
+assert(celo(parlamento,'parlam.0o','巴力門[bā lì mén],巴力门[bā lì mén]')).
+assert(celo(parlamentano,'','国会议员[guó huì yì yuán],國會議員[guó huì yì yuán]')).
+assert(celo('Parmenido','parmenid.0o','巴門尼德[bā mén ní dé],巴门尼德[bā mén ní dé]')).
+assert(celo(parodii,'parodi.0i','恶搞[è gǎo],惡搞[è gǎo]')).
+assert(celo(parodii,'parodi.0i','模仿成滑稽作品[mó fǎng chéng huá ji zuò pǐn]')).
+assert(celo(parodii,'parodi.0i','諷刺地模仿[fèng cì de mó fǎng],讽刺地模仿[fèng cì de mó fǎng]')).
+assert(celo(parodio,'parodi.0o','恶搞[è gǎo],惡搞[è gǎo]')).
+assert(celo(parodio,'parodi.0o','戏仿[xì fǎng],戲仿[xì fǎng]')).
+assert(celo(parodio,'parodi.0o','仿諷[fǎng fěng],仿讽[fǎng fěng]')).
