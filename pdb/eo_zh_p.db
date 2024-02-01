@@ -706,3 +706,30 @@ assert(celo(parodii,'parodi.0i','諷刺地模仿[fèng cì de mó fǎng],讽刺�
 assert(celo(parodio,'parodi.0o','恶搞[è gǎo],惡搞[è gǎo]')).
 assert(celo(parodio,'parodi.0o','戏仿[xì fǎng],戲仿[xì fǎng]')).
 assert(celo(parodio,'parodi.0o','仿諷[fǎng fěng],仿讽[fǎng fěng]')).
+assert(celo(paroĥismo,'parohx.0ismo','門戶之見[mén hù zhī jiàn],门户之见[mén hù zhī jiàn]')).
+assert(celo(paroksismo,'paroks.0o','頂極[dǐng jí],顶极[dǐng jí]')).
+assert(celo(paroksismo,'paroks.0o','高潮[gāo cháo]')).
+assert(celo(parola,'parol.0a','口头[kǒu tóu],口頭[kǒu tóu]')).
+assert(celo(parolado,'parol.0ado','演說[yǎn shuō],演说[yǎn shuō]')).
+assert(celo(parolado,'parol.0ado','言語[yán yǔ],言语[yán yǔ]')).
+assert(celo(parolado,'parol.0ado','話[huà],话[huà]')).
+assert(celo(parolema,'parol.0ema','健談[jiàn tán],健谈[jiàn tán]')).
+assert(celo(parolema,'parol.0ema','唊[jiá]')).
+assert(celo(parolema,'parol.0ema','嘴敞[zuǐ chǎng]')).
+assert(celo(parolema,'parol.0ema','譅[sè]')).
+assert(celo(parolema,'parol.0ema','貧嘴[pín zuǐ],贫嘴[pín zuǐ]')).
+assert(celo(parolema,'parol.0ema','饒舌[ráo shé],饶舌[ráo shé]')).
+assert(celo(parolema,'parol.0ema','喦[niè]')).
+assert(celo(paroli,'parol.0i','說上[shuō shàng],说上[shuō shàng]')).
+assert(celo(paroli,'parol.0i.diri','啽[án]')).
+assert(celo(parolisto,'parol.0isto','代言人[dài yán rén]')).
+assert(celo(parolisto,'parol.0isto','发言人[fā yán rén],發言人[fā yán rén]')).
+assert(celo(parolisto,'parol.0isto','演說者[yǎn shuō zhě],演说者[yǎn shuō zhě]')).
+assert(celo(parolisto,'parol.0isto','報告員[bào gào yuán],报告员[bào gào yuán]')).
+assert(celo(parolisto,'parol.0isto','新聞發言人[xīn wén fā yán rén],新闻发言人[xīn wén fā yán rén]')).
+assert(celo(parolisto,'parol.0isto','演講家[yǎn jiǎng jiā],演讲家[yǎn jiǎng jiā]')).
+assert(celo(parolisto,'parol.0isto','雄辩家[xióng biàn jiā],雄辯家[xióng biàn jiā]')).
+assert(celo(parolo,'parol.0o','講話[jiǎng huà],讲话[jiǎng huà]')).
+assert(celo(parolo,'parol.0o','演說[yǎn shuō],演说[yǎn shuō]')).
+assert(celo(parolo,'parol.0o','話[huà],话[huà]')).
+assert(celo(paroli,'','曰[yuē]')).
