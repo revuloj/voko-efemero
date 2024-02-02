@@ -914,3 +914,265 @@ assert(celo(transpasi,'pas.trans0i','横越[héng yuè],橫越[héng yuè]')).
 assert(celo(transpasi,'pas.trans0i','渡[dù]')).
 assert(celo(transpasi,'pas.trans0i','越过[yuè guò],越過[yuè guò]')).
 assert(celo(pasaĝero,'pasagx.0o','乘客[chéng kè]')).
+assert(celo(paseo,'pase.0o','往事[wǎng shì]')).
+assert(celo(paseo,'pase.0o','往昔[wǎng xí]')).
+assert(celo(pasero,'paser.0o','雀[què]')).
+assert(celo(pasero,'paser.0o','麻雀[má què]')).
+assert(celo(paseroformaj,'paser.0oformaj','雀形目[qiǎo xíng mù]')).
+assert(celo(paseredoj,'pasere.0oj','麻雀科[má què kē]')).
+assert(celo(pasia,'pasi.0a','热情[rè qíng],熱情[rè qíng]')).
+assert(celo(pasia,'pasi.0a','酷愛[kù ài],酷爱[kù ài]')).
+assert(celo(pasia,'pasi.0a','兇惡[xiōng è],凶恶[xiōng è]')).
+assert(celo(pasia,'pasi.0a','多情[duō qíng]')).
+assert(celo(pasia,'pasi.0a','炽热[chì rè],熾熱[chì rè]')).
+assert(celo(pasii,'pasi.0i','向往[xiàng wǎng],嚮往[xiàng wǎng]')).
+assert(celo(pasio,'pasi.0o','热情[rè qíng],熱情[rè qíng]')).
+assert(celo(pasio,'pasi.0o','激情[jī qíng]')).
+assert(celo(pasifloro,'pasiflor.0o.genro','西番莲[xī fān lián],西番蓮[xī fān lián]')).
+assert(celo(pasifloro,'pasiflor.0o.genro','西番莲属[xī fān lián shǔ],西番蓮屬[xī fān lián shǔ]')).
+assert(celo(pasiva,'pasiv.0a','被动[bèi dòng],被動[bèi dòng]')).
+assert(celo(pasiva,'pasiv.0a','消极性[xiāo jí xìng],消極性[xiāo jí xìng]')).
+assert(celo(pasiva,'pasiv.0a','消极[xiāo jí],消極[xiāo jí]')).
+assert(celo(pasiva,'pasiv.0a','无源[wú yuán],無源[wú yuán]')).
+assert(celo(pasivo,'','欠項[qiàn xiàng],欠项[qiàn xiàng]')).
+assert(celo('Paska semajno','pask.0a_semajno.KRI','复活节[Fù huó jié],復活節[Fù huó jié]')).
+assert(celo('Pasko','pask.0o.KRI','复活节[Fù huó jié],復活節[Fù huó jié]')).
+retract(celo('Paska semajno','pask.0a_semajno.KRI','复活节[Fù huó jié],復活節[Fù huó jié]')).
+assert(celo('Paska semajno','','神圣周[shén shèng zhōu],神聖週[shén shèng zhōu]')).
+assert(celo('Paskalo','paskal.0o.KOMP','帕斯卡尔[Pà sī kǎ ěr],帕斯卡爾[Pà sī kǎ ěr]')).
+assert(celo('Paskalo','paskal.0o.NOM','帕斯卡尔[Pà sī kǎ ěr],帕斯卡爾[Pà sī kǎ ěr]')).
+assert(celo('Paskalo','paskal.0o.PERS','帕斯卡[Pà sī kǎ]')).
+assert(celo(paskalo,'paskal.p0o','帕斯卡[pà sī kǎ]')).
+assert(celo(paskvilo,'paskvi.0o','詆譭的小冊子[dǐ huǐ de xiǎo cè zi],诋毁的小册子[dǐ huǐ de xiǎo cè zi]')).
+assert(celo(paskvilo,'paskvi.0o','諷刺文[fèng cì wén],讽刺文[fèng cì wén]')).
+assert(celo(pasporto,'paspor.0o','护照[hù zhào],護照[hù zhào]')).
+assert(celo(pastaĵo,'past.0ajxo','白案[bái àn]')).
+assert(celo(pastaĵo,'past.0ajxo','面制品[miàn zhì pǐn],面製品[miàn zhì pǐn]')).
+assert(celo(pastaĵo,'past.0ajxo','面食[miàn shí],麵食[miàn shí]')).
+assert(celo(pastaĵo,'past.0ajxo.cxia','白案[bái àn]')).
+assert(celo(pasto,'past.0o','彩泥[cǎi ní]')).
+assert(celo(pasto,'past.0o','泥[ní]')).
+assert(celo(pasto,'past.0o','生面团[shēng miàn tuán],生麵糰[shēng miàn tuán]')).
+assert(celo(pasto,'past.0o','面团[miàn tuán],麵團[miàn tuán]')).
+assert(celo(dentopasto,'past.dento0o','牙膏[yá gāo]')).
+assert(celo(dentopasto,'past.dento0o','洁齿剂[jié chǐ jì],潔齒劑[jié chǐ jì]')).
+assert(celo(modlopasto,'past.modlo0o','橡皮泥[xiàng pí ní]')).
+assert(celo(modlopasto,'past.modlo0o','彩泥[cǎi ní]')).
+assert(celo(modlopasto,'past.modlo0o','捏挤[niē jǐ],捏擠[niē jǐ]')).
+assert(celo(tomatpasto,'past.tomat0o','番茄果肉[fān qié guǒ ròu]')).
+assert(celo(pasteĉo,'pastec.0o','餡餅[xiàn bǐng],馅饼[xiàn bǐng]')).
+assert(celo(pastelo,'pastel.0o','粉蜡[fěn là],粉蠟[fěn là]')).
+assert(celo(pastelo,'pastel.0o','粉蜡笔[fěn là bǐ],粉蠟筆[fěn là bǐ]')).
+assert(celo(pastelo,'pastel.0o','輪狀煙火[lún zhuàng yān huǒ],轮状烟火[lún zhuàng yān huǒ]')).
+assert(celo(pastelo,'pastel.0o','香錠[xiāng dìng],香锭[xiāng dìng]')).
+assert(celo(pasteŭrizi,'','巴氏杀菌[bā shì shā jūn],巴氏殺菌[bā shì shā jūn]')).
+assert(celo(pasteŭrizo,'pasteuxriz.0o','巴氏杀菌[Bā shì shā jūn],巴氏殺菌[Bā shì shā jūn]')).
+assert(celo(pastiĉo,'pastic.0o','拟作[nǐ zuò],擬作[nǐ zuò]')).
+assert(celo(pastiĉo,'pastic.0o','拟古之作[nǐ gǔ zhī zuò],擬古之作[nǐ gǔ zhī zuò]')).
+assert(celo(pastinako,'pastin.0o','欧防风根[ōu fáng fēng gēn],歐防風根[ōu fáng fēng gēn]')).
+assert(celo(pastoro,'pastor.0o','牧人[mù rén]')).
+assert(celo(pastoro,'pastor.0o','牧师[mù shī],牧師[mù shī]')).
+assert(celo(pastoralo,'pastor1.0o','乡间[xiāng jiān],鄉間[xiāng jiān]')).
+assert(celo(pastoralo,'pastor1.0o','牧歌[mù gē]')).
+assert(celo(pastraro,'pastr.0aro','圣职[shèng zhí],聖職[shèng zhí]')).
+assert(celo(pastro,'pastr.0o','祭司[jì sī]')).
+assert(celo(pastro,'pastr.0o','道長[Dào Zhǎng],道长[Dào Zhǎng]')).
+assert(celo(pastro,'pastr.0o','司祭[sī jì]')).
+assert(celo(pastro,'pastr.0o','牧师[mù shī],牧師[mù shī]')).
+assert(celo(pastro,'pastr.0o','司鐸[sī duó],司铎[sī duó]')).
+assert(celo(pastro,'pastr.0o','神父[shén fù]')).
+assert(celo(pastro,'pastr.0o','神父[shén fu]')).
+assert(celo(ĉefpastro,'pastr.cxef0o.estro','大祭司[dà jì sī]')).
+assert(celo(ĉefpastro,'pastr.cxef0o.estro','罗马教宗[luó mǎ jiào zōng],羅馬教宗[luó mǎ jiào zōng]')).
+assert(celo(paŝi,'pasx.0i','步行[bù xíng]')).
+assert(celo(paŝi,'pasx.0i','走动[zǒu dòng],走動[zǒu dòng]')).
+assert(celo(paŝi,'pasx.0i','走路[zǒu lù]')).
+assert(celo('paŝon post paŝo','pasx.0npost0','慢条斯理[màn tiáo sī lǐ],慢條斯理[màn tiáo sī lǐ]')).
+assert(celo('paŝon post paŝo','pasx.0npost0','一步步[yī bù bù]')).
+assert(celo('paŝon post paŝo','pasx.0npost0','逐步[zhú bù]')).
+assert(celo('paŝon post paŝo','pasx.0npost0','節節[jié jié],节节[jié jié]')).
+assert(celo(paŝo,'pasx.0o','步伐[bù fá]')).
+assert(celo(paŝo,'pasx.0o','齒距[chǐ jù],齿距[chǐ jù]')).
+assert(celo(paŝo,'pasx.0o','步进[bù jìn],步進[bù jìn]')).
+assert(celo(paŝo,'pasx.0o','步調[bù diào],步调[bù diào]')).
+assert(celo(paŝo,'pasx.0o','步驟[bù zhòu],步骤[bù zhòu]')).
+assert(celo(paŝo,'pasx.0o.FIG','截痕[jié hén]')).
+retract(celo(paŝo,'pasx.0o.FIG','截痕[jié hén]')).
+assert(celo(paŝo,'','步[bù]')).
+assert(celo(paŝstango,'pasx.0stango','跷[qiāo],蹺[qiāo]')).
+assert(celo(alpaŝi,'pasx.al0i.FIG','凑近[còu jìn],湊近[còu jìn]')).
+assert(celo(alpaŝi,'pasx.al0i.FIG','逼近[bī jìn]')).
+assert(celo(alpaŝi,'pasx.al0i.KOMUNE','接近[jiē jìn]')).
+assert(celo(alpaŝi,'pasx.al0i.KOMUNE','靠近[kào jìn]')).
+assert(celo(alpaŝi,'pasx.al0i.KOMUNE','凑近[còu jìn],湊近[còu jìn]')).
+assert(celo(alpaŝi,'pasx.al0i.KOMUNE','走近[zǒu jìn]')).
+assert(celo(alpaŝi,'pasx.al0i.KOMUNE','逼近[bī jìn]')).
+assert(celo(alpaŝi,'pasx.al0i.KOMUNE','近前[jìn qián]')).
+assert(celo(elpaŝi,'pasx.el0i.eliri','出走[chū zǒu]')).
+assert(celo(elpaŝi,'pasx.el0i.eliri','出外[chū wài]')).
+assert(celo(elpaŝi,'pasx.el0i.eliri','逸出[yì chū]')).
+assert(celo(elpaŝi,'pasx.el0i.iniciati','出炉[chū lú],出爐[chū lú]')).
+assert(celo(mispaŝo,'pasx.mis0o','走錯[zǒu cuò],走错[zǒu cuò]')).
+assert(celo(mispaŝo,'pasx.mis0o','失足[shī zú]')).
+assert(celo(mispaŝo,'pasx.mis0o','趔[liè]')).
+assert(celo(mispaŝo,'pasx.mis0o','跲[jiá]')).
+assert(celo(mispaŝo,'pasx.mis0o','岔子[chà zǐ]')).
+assert(celo(superpaŝi,'pasx.super0i','超过[chāo guò],超過[chāo guò]')).
+assert(celo(superpaŝi,'pasx.super0i','超[chāo]')).
+assert(celo(superpaŝi,'pasx.super0i','逾[yú]')).
+assert(celo(superpaŝi,'pasx.super0i','超越[chāo yuè]')).
+assert(celo(superpaŝi,'pasx.super0i','逾越[yú yuè]')).
+assert(celo(superpaŝi,'pasx.super0i','越过[yuè guò],越過[yuè guò]')).
+assert(celo(paŝao,'pasxa.0o','帕夏[pà xià]')).
+assert(celo(paŝtataro,'pasxt.0ataro','家畜[jiā chù]')).
+assert(celo(paŝtataro,'pasxt.0ataro','牛羊[niú yáng]')).
+assert(celo(paŝtataro,'pasxt.0ataro','牲畜[shēng chù]')).
+assert(celo(paŝtataro,'pasxt.0ataro','畜[chù]')).
+assert(celo(paŝtataro,'pasxt.0ataro','群[qún]')).
+assert(celo(paŝtataro,'pasxt.0ataro','噳[yǔ]')).
+assert(celo(paŝtejo,'pasxt.0ejo','草场[cǎo chǎng],草場[cǎo chǎng]')).
+assert(celo(paŝtejo,'pasxt.0ejo','牧草[mù cǎo]')).
+assert(celo(paŝtejo,'pasxt.0ejo','牧场[mù chǎng],牧場[mù chǎng]')).
+assert(celo(paŝtejo,'pasxt.0ejo','牧区[mù qū],牧區[mù qū]')).
+assert(celo(paŝtiĝi,'pasxt.0igxi','吃草[chī cǎo]')).
+assert(celo(paŝtiĝi,'pasxt.0igxi','牧放[mù fàng]')).
+assert(celo(paŝti,'','放牧[fàng mù]')).
+assert(celo(paŝtisto,'pasxt.0isto','倌[guān]')).
+assert(celo(paŝtisto,'pasxt.0isto','牧人[mù rén]')).
+assert(celo(paŝtisto,'pasxt.0isto','牧羊人[mù yáng rén]')).
+assert(celo(somerpaŝtejo,'pasxt.somer0ejo','高山牧场[gāo shān mù chǎng],高山牧場[gāo shān mù chǎng]')).
+assert(celo(pato,'pat.0o','平鍋[píng guō],平锅[píng guō]')).
+assert(celo(pato,'pat.0o','平底鍋[píng dǐ guō],平底锅[píng dǐ guō]')).
+assert(celo(pato,'pat.0o','煎鍋[jiān guō],煎锅[jiān guō]')).
+assert(celo(pato,'pat.0o','坩埚[gān guō],坩堝[gān guō]')).
+assert(celo(patelo,'patel.0o','髌骨[bìn gǔ],髕骨[bìn gǔ]')).
+assert(celo(patelo,'patel.0o','髌[bìn],髕[bìn]')).
+assert(celo(patelo,'patel.0o','膝盖骨[xī gài gǔ],膝蓋骨[xī gài gǔ]')).
+assert(celo(patelo,'patel.0o','护膝[hù xī],護膝[hù xī]')).
+assert(celo(patenti,'patent.0i','取得专利权[qǔ dé zhuān lì quán],取得專利權[qǔ dé zhuān lì quán]')).
+assert(celo(patento,'patent.0o','专利[zhuān lì],專利[zhuān lì]')).
+assert(celo(patento,'patent.0o','特許權[tè xǔ quán],特许权[tè xǔ quán]')).
+assert(celo(patento,'patent.0o','任命书专利[rèn mìng shū zhuān lì],任命書專利[rèn mìng shū zhuān lì]')).
+assert(celo(patino,'patin.0o','銅綠[tóng lǜ],铜绿[tóng lǜ]')).
+assert(celo(patino,'patin.0o','銅綠層[tóng lù: céng],铜绿层[tóng lù: céng]')).
+assert(celo(patino,'patin.0o','銅鏽層[tóng xiù céng],铜锈层[tóng xiù céng]')).
+assert(celo(patino,'patin.0o','古色[gǔ sè]')).
+assert(celo(patogena,'patogen.0a','致病性[zhì bìng xìng]')).
+assert(celo(patogena,'patogen.0a','致病[zhì bìng]')).
+assert(celo(patologio,'patolo.0o','病理[bìng lǐ]')).
+assert(celo(patologio,'patolo.0o','病理学[bìng lǐ xué],病理學[bìng lǐ xué]')).
+assert(celo(patologo,'patolo1.0o','病理学家[bìng lǐ xué jiā],病理學家[bìng lǐ xué jiā]')).
+assert(celo(patosa,'patos.0a','切激[qiè jī]')).
+assert(celo(patreco,'patr.0eco','父亲的慈爱[fù qīn de cí ài],父親的慈愛[fù qīn de cí ài]')).
+assert(celo(patreco,'patr.0eco','父亲的风度[fù qīn de fēng dù],父親的風度[fù qīn de fēng dù]')).
+assert(celo(patrineco,'patr.0ineco','母性[mǔ xìng]')).
+assert(celo(patrineco,'patr.0ineco.KOMUNE','母亲身份[mǔ qīn shēn fèn],母親身份[mǔ qīn shēn fèn]')).
+assert(celo(patrineco,'patr.0ineco.KOMUNE','母道[mǔ dào]')).
+assert(celo(patrujo,'patr.0ujo','祖国[zǔ guó],祖國[zǔ guó]')).
+assert(celo('Patronia','patr.P0onia','主祷文[zhǔ dǎo wén],主禱文[zhǔ dǎo wén]')).
+assert(celo('adopta patro','patr.adopta0o','养父[yǎng fù],養父[yǎng fù]')).
+assert(celo(bopatrino,'patr.bo0ino','婆婆[pó po]')).
+assert(celo(bopatrino,'patr.bo0ino','丈母娘[zhàng mǔ niáng]')).
+assert(celo(bopatrino,'patr.bo0ino','泰水[tài shuǐ]')).
+assert(celo(bopatrino,'patr.bo0ino','岳母[yuè mǔ]')).
+assert(celo(bopatrino,'patr.bo0ino','家婆[jiā pó]')).
+assert(celo(bopatro,'patr.bo0o','丈人[zhàng rén]')).
+assert(celo(bopatro,'patr.bo0o','岳丈[yuè zhàng]')).
+assert(celo(bopatro,'patr.bo0o','岳父[yuè fù]')).
+assert(celo(bogepatroj,'patr.boge0oj','公婆[gōng pó]')).
+assert(celo(bogepatroj,'patr.boge0oj','翁姑[wēng gū]')).
+assert(celo(duonpatrino,'patr.duon0ino','后妈[hòu mā],後媽[hòu mā]')).
+assert(celo(duonpatrino,'patr.duon0ino','后母[hòu mǔ],後母[hòu mǔ]')).
+assert(celo(duonpatrino,'patr.duon0ino','繼母[jì mǔ],继母[jì mǔ]')).
+assert(celo(duonpatrino,'patr.duon0ino','养母[yǎng mǔ],養母[yǎng mǔ]')).
+assert(celo(duonpatro,'patr.duon0o','繼父[jì fù],继父[jì fù]')).
+assert(celo(gepatro,'patr.ge0o','父母亲[fù mǔ qīn],父母親[fù mǔ qīn]')).
+assert(celo(prapatro,'patr.pra0o','祖先[zǔ xiān]')).
+assert(celo(prapatro,'patr.pra0o','祖輩[zǔ bèi],祖辈[zǔ bèi]')).
+assert(celo(prapatro,'patr.pra0o','祖[zǔ]')).
+assert(celo(prapatro,'patr.pra0o','先[xiān]')).
+assert(celo(prapatro,'patr.pra0o','祖宗[zǔ zōng]')).
+assert(celo(patriismo,'patri.0ismo','愛國主義[ài guó zhǔ yì],爱国主义[ài guó zhǔ yì]')).
+assert(celo(patrio,'patri.0o','祖国[zǔ guó],祖國[zǔ guó]')).
+assert(celo(patriarko,'patria.0o','族長[zú zhǎng],族长[zú zhǎng]')).
+assert(celo(patriarĥo,'patria.0o','教祖[jiào zǔ]')).
+assert(celo(patriarĥo,'patria.0o','宗主教[zōng zhǔ jiào]')).
+assert(celo(patriotisma,'patrio.0isma','愛國[ài guó],爱国[ài guó]')).
+assert(celo(patriotisma,'patrio.0isma','有愛國心[yǒu ài guó xīn],有爱国心[yǒu ài guó xīn]')).
+assert(celo(patriotismo,'patrio.0ismo','愛國主義[ài guó zhǔ yì],爱国主义[ài guó zhǔ yì]')).
+assert(celo(patrioto,'patrio.0o','愛國者[ài guó zhě],爱国者[ài guó zhě]')).
+assert(celo(patrioto,'patrio.0o','愛國主義者[ài guó zhǔ yì zhě],爱国主义者[ài guó zhǔ yì zhě]')).
+assert(celo(patrioto,'patrio.0o','愛國人士[ài guó rén shì],爱国人士[ài guó rén shì]')).
+assert(celo(patroli,'patrol.0i','巡查[xún chá]')).
+assert(celo(patroli,'patrol.0i','巡逻[xún luó],巡邏[xún luó]')).
+assert(celo(patroli,'patrol.0i','巡[xún]')).
+assert(celo(patroli,'patrol.0i','巡視[xún shì],巡视[xún shì]')).
+assert(celo(patrolo,'patrol.0o.MIL','巡警[xún jǐng]')).
+assert(celo(patrolo,'patrol.0o.MIL','巡查[xún chá]')).
+assert(celo(patrolo,'patrol.0o.MIL','巡逻[xún luó],巡邏[xún luó]')).
+assert(celo(patrolo,'patrol.0o.MIL','巡逻队[xún luó duì],巡邏隊[xún luó duì]')).
+assert(celo(patrono,'patron.0o','贊助人[zàn zhù rén],赞助人[zàn zhù rén]')).
+assert(celo(patrono,'patron.0o','主保圣人[zhǔ bǎo shèng rén],主保聖人[zhǔ bǎo shèng rén]')).
+assert(celo('Paŭlino','pauxl.0ino','保拉[bǎo lā]')).
+assert(celo('Paŭlo','pauxl.0o','保罗[bǎo luó],保羅[bǎo luó]')).
+assert(celo('Paŭlo','pauxl.0o','保尔[Bǎo ěr],保爾[Bǎo ěr]')).
+assert(celo(paŭlovnio,'pauxlovni.0o','桐[tóng]')).
+assert(celo(paŭlovnio,'pauxlovni.0o','泡桐属[pào tóng shǔ],泡桐屬[pào tóng shǔ]')).
+assert(celo(paŭlovnio,'pauxlovni.0o','泡桐[pào tóng]')).
+assert(celo(paŭsaĵo,'','描图[miáo tú],描圖[miáo tú]')).
+assert(celo(paŭsaĵo,'','借譯[jiè yì],借译[jiè yì]')).
+assert(celo(paŭsaĵo,'','借譯詞[jiè yì cí],借译词[jiè yì cí]')).
+assert(celo(paŭsaĵo,'','毛样[máo yàng],毛樣[máo yàng]')).
+assert(celo(paŭso,'','描图[miáo tú],描圖[miáo tú]')).
+assert(celo(paŭso,'','借譯[jiè yì],借译[jiè yì]')).
+assert(celo(paŭsi,'pauxs.0i','描[miáo]')).
+assert(celo(paŭsi,'pauxs.0i','摹[mó]')).
+assert(celo(paŭti,'pauxt.0i','撅嘴[juē zuǐ]')).
+assert(celo(paŭti,'pauxt.0i','噘[juē]')).
+assert(celo(paŭti,'pauxt.0i','呶[nǔ]')).
+assert(celo(paŭzejo,'pauxz.0ejo','小吃店[xiǎo chī diàn]')).
+assert(celo(paŭzi,'pauxz.0i','歇[xiē]')).
+assert(celo(paŭzigi,'pauxz.0igi','住手[zhù shǒu]')).
+assert(celo(paŭzigi,'pauxz.0igi','停車[tíng chē],停车[tíng chē]')).
+assert(celo(paŭzigi,'pauxz.0igi','停止[tíng zhǐ]')).
+assert(celo(paŭzi,'','停頓[tíng dùn],停顿[tíng dùn]')).
+assert(celo(paŭzo,'pauxz.0o','停頓[tíng dùn],停顿[tíng dùn]')).
+assert(celo(paŭzo,'pauxz.0o','中途停机[zhōng tú tíng jī],中途停機[zhōng tú tíng jī]')).
+assert(celo(paŭzo,'pauxz.0o','暂停[zhàn tíng],暫停[zhàn tíng]')).
+assert(celo(paŭzo,'pauxz.0o','暂停屏幕[zhàn tíng píng mù],暫停屏幕[zhàn tíng píng mù]')).
+assert(celo(paŭzo,'pauxz.0o','体息[xiū xi],體息[xiū xi]')).
+assert(celo(senpaŭze,'pauxz.sen0e','不休[bù xiū]')).
+assert(celo(senpaŭze,'pauxz.sen0e','一气[yī qì],一氣[yī qì]')).
+assert(celo(pavi,'pav.0i.FIG','大搖大擺[dà yáo dà bǎi],大摇大摆[dà yáo dà bǎi]')).
+assert(celo(pavi,'pav.0i.FIG','昂首闊步[áng shǒu kuò bù],昂首阔步[áng shǒu kuò bù]')).
+assert(celo(pavo,'pav.0o.ZOO','孔雀[kǒng què]')).
+assert(celo('Pavo','pav.P0o','孔雀座[Kǒng què zuò]')).
+assert(celo(pavano,'pavan.0o','帕凡舞[pà fán wǔ]')).
+assert(celo(pavezo,'pavez.0o','船帮[chuán bāng],船幫[chuán bāng]')).
+assert(celo(paviano,'pavian.0o','狒[fèi]')).
+assert(celo(paviano,'pavian.0o','狒狒[fèi fèi]')).
+assert(celo(paviano,'pavian.0o','狒狒属[fèi fèi shǔ],狒狒屬[fèi fèi shǔ]')).
+assert(celo(pavilono,'pavilo.0o','亭子[tíng zi]')).
+assert(celo(pavilono,'pavilo.0o','楼阁[lóu gé],樓閣[lóu gé]')).
+assert(celo(pavilono,'pavilo.0o','亭[tíng]')).
+assert(celo(pavilono,'pavilo.0o','閣[gé],阁[gé]')).
+assert(celo(pavilono,'pavilo.0o','凉亭[liáng tíng],涼亭[liáng tíng]')).
+assert(celo(pavilono,'pavilo.0o','亭台[tíng tái],亭臺[tíng tái]')).
+assert(celo(pavilono,'pavilo.0o','榭[xiè]')).
+assert(celo(pavilono,'pavilo.0o','展館[zhǎn guǎn],展馆[zhǎn guǎn]')).
+assert(celo(pavimero,'pavim.0ero','地板砖[dì bǎn zhuān],地板磚[dì bǎn zhuān]')).
+assert(celo(pavimero,'pavim.0ero','鋪路石[pū lù shí],铺路石[pū lù shí]')).
+assert(celo(pavimi,'pavim.0i','用石块铺设[yòng shí kuài pū shè],用石塊鋪設[yòng shí kuài pū shè]')).
+assert(celo(pavimi,'pavim.0i','鋪平[pū píng],铺平[pū píng]')).
+assert(celo(pavimi,'pavim.0i','鋪設[pū shè],铺设[pū shè]')).
+assert(celo(pavimi,'pavim.0i','鋪路[pū lù],铺路[pū lù]')).
+assert(celo(pavimi,'pavim.0i','摊铺[tān pū],攤鋪[tān pū]')).
+assert(celo(pavimi,'pavim.0i','鋪築路面[pū zhù lù miàn],铺筑路面[pū zhù lù miàn]')).
+assert(celo(pavimo,'pavim.0o','鋪面[pū miàn],铺面[pū miàn]')).
+assert(celo(pavimo,'pavim.0o','路面[lù miàn]')).
+assert(celo(pavimo,'pavim.0o','砌路[qì lù]')).
+assert(celo(pavimo,'pavim.0o','人行道[rén xíng dào]')).
+assert(celo(pavimo,'pavim.0o','石子路[shí zǐ lù]')).
+assert(celo(pavimo,'pavim.0o','石砌路[shí qì lù]')).
+assert(celo(pavimo,'pavim.0o','舖石路面[pù shí lù miàn],铺石路面[pù shí lù miàn]')).
+assert(celo(pavimo,'pavim.0o','鋪路材料[pù lù cái liào],铺路材料[pù lù cái liào]')).
