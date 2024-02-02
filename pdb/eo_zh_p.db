@@ -733,3 +733,184 @@ assert(celo(parolo,'parol.0o','講話[jiǎng huà],讲话[jiǎng huà]')).
 assert(celo(parolo,'parol.0o','演說[yǎn shuō],演说[yǎn shuō]')).
 assert(celo(parolo,'parol.0o','話[huà],话[huà]')).
 assert(celo(paroli,'','曰[yuē]')).
+assert(celo(antaŭparolo,'parol.antaux0o','序言[xù yán]')).
+assert(celo(antaŭparolo,'parol.antaux0o','引言[yǐn yán]')).
+assert(celo(antaŭparolo,'parol.antaux0o','刊首語[kān shǒu yǔ],刊首语[kān shǒu yǔ]')).
+assert(celo(antaŭparolo,'parol.antaux0o','前言[qián yán]')).
+assert(celo(antaŭparolo,'parol.antaux0o','序章[xù zhāng]')).
+assert(celo(antaŭparolo,'parol.antaux0o','序文[xù wén]')).
+assert(celo(antaŭparolo,'parol.antaux0o','开场白[kāi chǎng bái],開場白[kāi chǎng bái]')).
+assert(celo(antaŭparolo,'parol.antaux0o','导言[dǎo yán],導言[dǎo yán]')).
+assert(celo(antaŭparolo,'parol.antaux0o','序[xù]')).
+assert(celo(ĉirkaŭparoli,'parol.cxirkaux0i','拐弯抹角[guǎi wān mò jiǎo],拐彎抹角[guǎi wān mò jiǎo]')).
+assert(celo(ĉirkaŭparoli,'parol.cxirkaux0i','繞彎子[rào wān zi],绕弯子[rào wān zi]')).
+assert(celo(ĉirkaŭparoli,'parol.cxirkaux0i','繞彎子兒[rào wān zǐ r],绕弯子儿[rào wān zǐ r]')).
+assert(celo(ĉirkaŭparoli,'parol.cxirkaux0i','繞脖子[rào bó zi],绕脖子[rào bó zi]')).
+assert(celo(ĉirkaŭparoli,'parol.cxirkaux0i','繞騰[rào teng],绕腾[rào teng]')).
+assert(celo(ĉirkaŭparoli,'parol.cxirkaux0i','轉圈[zhuàn quān],转圈[zhuàn quān]')).
+assert(celo(ĉirkaŭparoli,'parol.cxirkaux0i','轉腰子[zhuàn yāo zi],转腰子[zhuàn yāo zi]')).
+assert(celo(ĉirkaŭparoli,'parol.cxirkaux0i','繞圈子[rào quān zi],绕圈子[rào quān zi]')).
+assert(celo(elparoli,'parol.el0i','发音[fā yīn],發音[fā yīn]')).
+assert(celo(elparoli,'parol.el0i','出声[chū shēng],出聲[chū shēng]')).
+assert(celo(elparoli,'parol.el0i','吭[kēng]')).
+assert(celo(interparolejo,'parol.inter0ejo','客堂[kè táng]')).
+assert(celo(interparolejo,'parol.inter0ejo','会客室[huì kè shì],會客室[huì kè shì]')).
+assert(celo(interparoli,'parol.inter0i','商談[shāng tán],商谈[shāng tán]')).
+assert(celo(interparoli,'parol.inter0i','議論[yì lùn],议论[yì lùn]')).
+assert(celo(interparoli,'parol.inter0i','交談[jiāo tán],交谈[jiāo tán]')).
+assert(celo(interparoli,'parol.inter0i','洽談[qià tán],洽谈[qià tán]')).
+assert(celo(interparoli,'parol.inter0i','談[tán],谈[tán]')).
+assert(celo(interparoli,'parol.inter0i','談論[tán lùn],谈论[tán lùn]')).
+assert(celo(interparoli,'parol.inter0i','討論[tǎo lùn],讨论[tǎo lùn]')).
+assert(celo(interparoli,'parol.inter0i','商榷[shāng què]')).
+assert(celo(interparoli,'parol.inter0i','商量[shāng liang]')).
+assert(celo(interparolo,'parol.inter0o','会谈[huì tán],會談[huì tán]')).
+assert(celo(interparolo,'parol.inter0o','討論[tǎo lùn],讨论[tǎo lùn]')).
+assert(celo(interparolo,'parol.inter0o','自会[zì huì],自會[zì huì]')).
+assert(celo(kontraŭparoli,'parol.kontraux0i','反駁[fǎn bó],反驳[fǎn bó]')).
+assert(celo(kontraŭparoli,'parol.kontraux0i','唱反調[chàng fǎn diào],唱反调[chàng fǎn diào]')).
+assert(celo(kontraŭparoli,'parol.kontraux0i','辩驳[biàn bó],辯駁[biàn bó]')).
+assert(celo(kontraŭparoli,'parol.kontraux0i','牴触[dǐ chù],牴觸[dǐ chù]')).
+assert(celo(laŭdparolo,'parol.lauxd0o','誄[lěi],诔[lěi]')).
+assert(celo(laŭdparolo,'parol.lauxd0o.BELE','讚詞[zàn cí],赞词[zàn cí]')).
+assert(celo(laŭdparolo,'parol.lauxd0o.BELE','頌德文[sòng dé wén],颂德文[sòng dé wén]')).
+assert(celo(porparolanto,'parol.por0anto','代言人[dài yán rén]')).
+assert(celo(porparolanto,'parol.por0anto','提倡者[tí chàng zhě]')).
+assert(celo(porparolanto,'parol.por0anto','鼓吹者[gǔ chuī zhě]')).
+assert(celo(postparolo,'parol.post0o','后记[hòu jì],後記[hòu jì]')).
+assert(celo(postparolo,'parol.post0o','尾声[wěi shēng],尾聲[wěi shēng]')).
+assert(celo(postparolo,'parol.post0o','結束語[jié shù yǔ],结束语[jié shù yǔ]')).
+assert(celo(priparoli,'parol.pri0i','談到[tán dào],谈到[tán dào]')).
+assert(celo(priparoli,'parol.pri0i','談論[tán lùn],谈论[tán lùn]')).
+assert(celo(priparoli,'parol.pri0i','評論[píng lùn],评论[píng lùn]')).
+assert(celo(priparoli,'parol.pri0i','討論[tǎo lùn],讨论[tǎo lùn]')).
+assert(celo(satparoli,'parol.sat0i','倾诉[qīng sù],傾訴[qīng sù]')).
+assert(celo(finparoli,'parol.sat0i','倾诉[qīng sù],傾訴[qīng sù]')).
+assert(celo(parseko,'parsek.0o','秒差距[miǎo chā jù]')).
+assert(celo(partaĵo,'part.0ajxo.TIP','引出[yǐn chū]')).
+assert(celo(partaĵo,'part.0ajxo.TIP','摘录[zhāi lù],摘錄[zhāi lù]')).
+assert(celo(partaĵo,'part.0ajxo.TIP','節選[jié xuǎn],节选[jié xuǎn]')).
+assert(celo(partaĵo,'part.0ajxo.TIP','片段[piàn duàn]')).
+assert(celo(partaĵo,'part.0ajxo.TIP','摘选[zhāi xuǎn],摘選[zhāi xuǎn]')).
+assert(celo(partaĵo,'part.0ajxo.kvoto','佔有量[zhàn yǒu liàng],占有量[zhàn yǒu liàng]')).
+assert(celo(partaĵo,'part.0ajxo.kvoto','所佔[suǒ zhàn],所占[suǒ zhàn]')).
+assert(celo(partaĵo,'part.0ajxo.kvoto','提成費[tí chéng fèi],提成费[tí chéng fèi]')).
+assert(celo(partigi,'part.0igi','分摊[fēn tān],分攤[fēn tān]')).
+assert(celo(partigi,'part.0igi','分配[fēn pèi]')).
+assert(celo(partigi,'part.0igi','均分[jūn fēn]')).
+assert(celo(parto,'part.0o','部分[bù fen]')).
+assert(celo(parto,'part.0o','股[gǔ]')).
+assert(celo(partopreni,'part.0opreni','加盟[jiā méng]')).
+assert(celo(partopreni,'part.0opreni','参与[cān yù],參與[cān yù]')).
+assert(celo(partopreni,'part.0opreni','与会[yù huì],與會[yù huì]')).
+assert(celo(partumi,'part.0umi','参预[cān yù],參預[cān yù]')).
+assert(celo(partumi,'part.0umi','参与[cān yù],參與[cān yù]')).
+assert(celo(partumi,'part.0umi','参[cān],參[cān]')).
+assert(celo(partumi,'part.0umi','与会[yǔ huì],與會[yǔ huì]')).
+assert(celo(partumo,'part.0umo','参预[cān yù],參預[cān yù]')).
+assert(celo(dispartigi,'part.dis0igi','分摊[fēn tān],分攤[fēn tān]')).
+assert(celo(dispartigi,'part.dis0igi','分配[fēn pèi]')).
+assert(celo(dispartigi,'part.dis0igi','均分[jūn fēn]')).
+assert(celo('frakcia parto','part.frakcia0o','分毫[fēn háo]')).
+assert(celo('frakcia parto','part.frakcia0o','畸零[jī líng]')).
+assert(celo('frakcia parto','part.frakcia0o','分数[fēn shù],分數[fēn shù]')).
+assert(celo(grandparte,'part.grand0e','大部份[dà bù fen],大部分[dà bù fen]')).
+assert(celo(grandparte,'part.grand0e','良多[liáng duō]')).
+assert(celo(grandparte,'part.grand0e','多半[duō bàn]')).
+assert(celo('imaginara parto','part.imaginara0o','虚部[xū bù],虛部[xū bù]')).
+assert(celo(malparto,'part.mal0o','完整系統[wán zhěng xì tǒng],完整系统[wán zhěng xì tǒng]')).
+assert(celo(malparto,'part.mal0o','整体论[zhěng tǐ lùn],整體論[zhěng tǐ lùn]')).
+assert(celo('ora dispartigo','part.oradis0igo','黃金分割[huáng jīn fēn gē],黄金分割[huáng jīn fēn gē]')).
+assert(celo('reela parto','part.reela0o','实部[shí bù],實部[shí bù]')).
+assert(celo(senpartoprena,'part.sen0oprena','漠[mò]')).
+assert(celo(senpartoprena,'part.sen0oprena','不感兴趣[bù gǎn xìng qù],不感興趣[bù gǎn xìng qù]')).
+assert(celo(senpartoprena,'part.sen0oprena','冷淡[lěng dàn]')).
+assert(celo(partia,'parti.0a.malneuxtrala','不公正[bù gōng zhèng]')).
+assert(celo(partia,'parti.0a.malneuxtrala','偏[piān]')).
+assert(celo(partia,'parti.0a.malneuxtrala','偏頗[piān pō],偏颇[piān pō]')).
+assert(celo(partia,'parti.0a.malneuxtrala','偏私[piān sī]')).
+assert(celo(partia,'parti.0a.malneuxtrala','偏袒[piān tǎn]')).
+assert(celo(partia,'parti.0a.malneuxtrala','有偏差[yǒu piān chā]')).
+assert(celo(partia,'parti.0a.malneuxtrala','頗[pō],颇[pō]')).
+assert(celo(partiano,'parti.0ano','党人[dǎng rén],黨人[dǎng rén]')).
+assert(celo(partiano,'parti.0ano','党员[dǎng yuán],黨員[dǎng yuán]')).
+assert(celo(partieca,'parti.0eca','不公正[bù gōng zhèng]')).
+assert(celo(partieca,'parti.0eca','偏[piān]')).
+assert(celo(partio,'parti.0o.grupo','党[dǎng],黨[dǎng]')).
+assert(celo(eksterpartia,'parti.ekster0a','不偏不倚[bù piān bù yǐ]')).
+assert(celo(eksterpartia,'parti.ekster0a','中立[zhōng lì]')).
+assert(celo(sampartiano,'parti.sam0ano','同志[tóng zhì]')).
+assert(celo(senpartia,'parti.sen0a','不偏不倚[bù piān bù yǐ]')).
+assert(celo(senpartia,'parti.sen0a','公平[gōng píng]')).
+assert(celo(senpartia,'parti.sen0a','不偏斜[bù piān xié]')).
+assert(celo(senpartia,'parti.sen0a','中立[zhōng lì]')).
+assert(celo(participo,'partic.0o','分詞[fēn cí],分词[fēn cí]')).
+assert(celo(partikulo,'partik.0o','助詞[zhù cí],助词[zhù cí]')).
+assert(celo(partiklo,'partik2.0o','微粒[wēi lì]')).
+assert(celo(kontraŭpartiklo,'partik2.kontraux0o','反粒子[fǎn lì zǐ]')).
+assert(celo(partneri,'partner.0i','搭档[dā dàng],搭檔[dā dàng]')).
+assert(celo(partnero,'partner.0o','搭档[dā dàng],搭檔[dā dàng]')).
+assert(celo(partnero,'partner.0o','伙伴[huǒ bàn]')).
+assert(celo(partnero,'partner.0o','合伙人[hé huǒ rén]')).
+assert(celo(partnero,'partner.0o','伴[bàn]')).
+assert(celo(partnero,'partner.0o','伴侣[bàn lǔ:],伴侶[bàn lǔ:]')).
+assert(celo(partnero,'partner.0o','拍档[pāi dàng],拍檔[pāi dàng]')).
+assert(celo(partnero,'partner.0o','枕边人[zhěn biān rén],枕邊人[zhěn biān rén]')).
+assert(celo(partnero,'partner.0o','合作伙伴[hé zuò huǒ bàn]')).
+assert(celo(partneri,'','合伙[hé huǒ]')).
+assert(celo(paruo,'','山雀[shān qiǎo]')).
+assert(celo('blua paruo','paru.blua0o','青山雀[qīng shān què]')).
+assert(celo(paruedoj,'parued.0oj','山雀科[shān qiǎo kē]')).
+assert(celo(parvenuo,'parven.0o','新貴[xīn guì],新贵[xīn guì]')).
+assert(celo(parvenuo,'parven.0o','腰纏萬貫[yāo chán wàn guàn],腰缠万贯[yāo chán wàn guàn]')).
+assert(celo(parvenuo,'parven.0o','抢戏[qiǎng xì],搶戲[qiǎng xì]')).
+assert(celo(pasaĵo,'pas.0ajxo.KOMUNE','会儿[huì r],會兒[huì r]')).
+assert(celo(pasanto,'pas.0anto','路人[lù rén]')).
+assert(celo(pasanto,'pas.0anto','行人[xíng rén]')).
+assert(celo(pase,'pas.0e','信手[xìn shǒu]')).
+assert(celo(pase,'pas.0e','易逝[yì shì]')).
+assert(celo(pase,'pas.0e.iam','稍縱即逝[shāo zòng jí shì],稍纵即逝[shāo zòng jí shì]')).
+assert(celo(pasejo,'pas.0ejo','通道[tōng dào]')).
+assert(celo(pasejo,'pas.0ejo','过道[guò dào],過道[guò dào]')).
+assert(celo(pasejo,'pas.0ejo','楼道[lóu dào],樓道[lóu dào]')).
+assert(celo(pasema,'pas.0ema','稍縱即逝[shāo zòng jí shì],稍纵即逝[shāo zòng jí shì]')).
+assert(celo(pasi,'pas.0i','走过[zǒu guò],走過[zǒu guò]')).
+assert(celo(pasi,'pas.0i','流逝[liú shì]')).
+assert(celo(pasi,'pas.0i','經過[jīng guò],经过[jīng guò]')).
+assert(celo(pasi,'pas.0i.aliigxi','改用[gǎi yòng]')).
+assert(celo(pasi,'pas.0i.aliigxi','过身[guò shēn],過身[guò shēn]')).
+assert(celo(pasi,'pas.0i.ie','擐[huàn]')).
+assert(celo(pasigi,'pas.0igi','度过[dù guò],度過[dù guò]')).
+assert(celo(pasigi,'pas.0igi','消磨[xiāo mó]')).
+assert(celo(pasigi,'pas.0igi','传给[chuán gěi],傳給[chuán gěi]')).
+assert(celo(pasinta,'pas.0inta.TEMP','昔[xī]')).
+assert(celo(forpasi,'pas.for0i','亡故[wáng gù]')).
+assert(celo(forpasi,'pas.for0i','作古[zuò gǔ]')).
+assert(celo(forpasi,'pas.for0i','不諱[bù huì],不讳[bù huì]')).
+assert(celo(forpasi,'pas.for0i','凋落[diāo luò]')).
+assert(celo(forpasi,'pas.for0i','去世[qù shì]')).
+assert(celo(forpasi,'pas.for0i','去逝[qù shì]')).
+assert(celo(forpasi,'pas.for0i','故世[gù shì]')).
+assert(celo(forpasi,'pas.for0i','謝世[xiè shì],谢世[xiè shì]')).
+assert(celo(forpasi,'pas.for0i','逝世[shì shì]')).
+assert(celo(forpasi,'pas.for0i','过世[guò shì],過世[guò shì]')).
+assert(celo(preterpasi,'pas.preter0i','走过[zǒu guò],走過[zǒu guò]')).
+assert(celo(preterpasi,'pas.preter0i','向隅[xiàng yú]')).
+assert(celo(preterpasi,'pas.preter0i','流逝[liú shì]')).
+assert(celo(preterpasi,'pas.preter0i','經過[jīng guò],经过[jīng guò]')).
+assert(celo(preterpasi,'pas.preter0i.neglekti','沒注意到[méi zhù yì dào],没注意到[méi zhù yì dào]')).
+assert(celo(preterpasi,'pas.preter0i.neglekti','弃之不顾[qì zhī bù gù],棄之不顧[qì zhī bù gù]')).
+assert(celo(preterpasi,'pas.preter0i.neglekti','冷落[lěng luò]')).
+assert(celo(preterpasi,'pas.preter0i.neglekti','略过[lu:è guò],略過[lu:è guò]')).
+assert(celo(preterpasi,'pas.preter0i.neglekti','不理[bù lǐ]')).
+assert(celo(preterpasi,'pas.preter0i.neglekti','无视[wú shì],無視[wú shì]')).
+assert(celo(tempopasigilo,'pas.tempo0igilo','消遣[xiāo qiǎn]')).
+assert(celo(trapasi,'pas.tra0i','渡过[dù guò],渡過[dù guò]')).
+assert(celo(trapasi,'pas.tra0i','穿越[chuān yuè]')).
+assert(celo(trapasi,'pas.tra0i','穿过[chuān guò],穿過[chuān guò]')).
+assert(celo(trapasi,'pas.tra0i','途經[tú jīng],途经[tú jīng]')).
+assert(celo(transpasi,'pas.trans0i','超[chāo]')).
+assert(celo(transpasi,'pas.trans0i','横越[héng yuè],橫越[héng yuè]')).
+assert(celo(transpasi,'pas.trans0i','渡[dù]')).
+assert(celo(transpasi,'pas.trans0i','越过[yuè guò],越過[yuè guò]')).
+assert(celo(pasaĝero,'pasagx.0o','乘客[chéng kè]')).
