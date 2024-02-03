@@ -1176,3 +1176,461 @@ assert(celo(pavimo,'pavim.0o','石子路[shí zǐ lù]')).
 assert(celo(pavimo,'pavim.0o','石砌路[shí qì lù]')).
 assert(celo(pavimo,'pavim.0o','舖石路面[pù shí lù miàn],铺石路面[pù shí lù miàn]')).
 assert(celo(pavimo,'pavim.0o','鋪路材料[pù lù cái liào],铺路材料[pù lù cái liào]')).
+assert(celo(peceto,'pec.0eto','碎片[suì piàn]')).
+assert(celo(peceto,'pec.0eto','瓣[bàn]')).
+assert(celo(peceto,'pec.0eto','小片[xiǎo piàn]')).
+assert(celo(peceto,'pec.0eto','細薄片[xì bó piàn],细薄片[xì bó piàn]')).
+assert(celo(pecigi,'pec.0igi','击溃[jī kuì],擊潰[jī kuì]')).
+assert(celo(peco,'pec.0o','块[kuài],塊[kuài]')).
+assert(celo(peco,'pec.0o','瓣[bàn]')).
+assert(celo(peco,'pec.0o','部分[bù fen]')).
+assert(celo(peco,'pec.0o','一块[yī kuài],一塊[yī kuài]')).
+assert(celo(peco,'pec.0o','片[piàn]')).
+assert(celo(peco,'pec.0o','一团[yī tuán],一團[yī tuán]')).
+assert(celo(peco,'pec.0o','一把[yī bǎ]')).
+assert(celo(peco,'pec.0o','滑稽场面[huá ji chǎng miàn],滑稽場面[huá ji chǎng miàn]')).
+assert(celo(peco,'pec.0o','段[duàn]')).
+assert(celo(buŝpeco,'','嘴[zuǐ]')).
+assert(celo(dispecigi,'pec.dis0igi','撕烂[sī làn],撕爛[sī làn]')).
+assert(celo(dispecigi,'pec.dis0igi','切成[qiē chéng]')).
+assert(celo(dispecigi,'pec.dis0igi','撕碎[sī suì]')).
+assert(celo(dispeciĝi,'pec.dis0igxi','崩[bēng]')).
+assert(celo(dispeciĝi,'pec.dis0igxi','撐破[chēng pò],撑破[chēng pò]')).
+assert(celo(dispeciĝi,'pec.dis0igxi','爆[bào]')).
+assert(celo(dispeciĝi,'pec.dis0igxi','迸裂[bèng liè]')).
+assert(celo(rompopeco,'pec.rompo0o','碎片[suì piàn]')).
+assert(celo(rompopeco,'pec.rompo0o','砟[zhǎ]')).
+assert(celo(rompopeco,'pec.rompo0o','虀[jī]')).
+assert(celo(rompopeco,'pec.rompo0o','瓣[bàn]')).
+assert(celo(ŝirpeco,'pec.sxir0o','砟[zhǎ]')).
+assert(celo(ŝirpeco,'pec.sxir0o','瓣[bàn]')).
+assert(celo(unupeca,'pec.unu0a','一体式[yì tǐ shì],一體式[yì tǐ shì]')).
+assert(celo(peĉo,'pecx.0o','柏油[bǎi yóu]')).
+assert(celo(terpeĉo,'pecx.ter0o','柏油[bǎi yóu]')).
+assert(celo(terpeĉo,'pecx.ter0o','沥青[lì qīng],瀝青[lì qīng]')).
+assert(celo(pedagoga,'pedago.0a','师范[shī fàn],師範[shī fàn]')).
+assert(celo(pedagogo,'pedago.0o','教书匠[jiāo shū jiàng],教書匠[jiāo shū jiàng]')).
+assert(celo(pedagogo,'pedago.0o','教育者[jiào yù zhě]')).
+assert(celo(pedagogia,'pedago1.0a','教学法[jiào xué fǎ],教學法[jiào xué fǎ]')).
+assert(celo(pedagogia,'pedago1.0a','师范[shī fàn],師範[shī fàn]')).
+assert(celo(pedagogiisto,'pedago1.0isto','教书匠[jiāo shū jiàng],教書匠[jiāo shū jiàng]')).
+assert(celo(pedagogiisto,'pedago1.0isto','教育者[jiào yù zhě]')).
+assert(celo(pedagogio,'pedago1.0o','教学法[jiào xué fǎ],教學法[jiào xué fǎ]')).
+assert(celo(pedagogio,'pedago1.0o','教育学[jiào yù xué],教育學[jiào yù xué]')).
+assert(celo(pedagogio,'pedago1.0o','訓育[xùn yù],训育[xùn yù]')).
+assert(celo(pedagogio,'pedago1.0o','訓迪[xùn dí],训迪[xùn dí]')).
+assert(celo(pedalo,'pedal.0o','脚踏[jiǎo tà],腳踏[jiǎo tà]')).
+assert(celo(pedalo,'pedal.0o','踏板[tà bǎn]')).
+assert(celo(pedalo,'pedal.0o','脚蹬[jiǎo dēng],腳蹬[jiǎo dēng]')).
+assert(celo(pedalo,'pedal.0o','蹬子[dēng zi]')).
+assert(celo(pedalo,'pedal.0o','踏脚[tà jiǎo],踏腳[tà jiǎo]')).
+assert(celo(pedanta,'pedant.0a','烦琐[fán suǒ],煩瑣[fán suǒ]')).
+assert(celo(pedanta,'pedant.0a','迂腐[yū fǔ]')).
+assert(celo(pedanta,'pedant.0a','迂執[yū zhí],迂执[yū zhí]')).
+assert(celo(pedanta,'pedant.0a','迂儒[yū rú]')).
+assert(celo(pedanteco,'','迂气[yū qì],迂氣[yū qì]')).
+assert(celo(pedanteco,'','书呆子[shū dāi zi],書呆子[shū dāi zi]')).
+assert(celo(pedanti,'pedant.0i','酸[suān]')).
+retractall(celo(pedanti,_,_),1).
+assert(celo(pedantulo,'pedant.0ulo','学究[xué jiū],學究[xué jiū]')).
+assert(celo(pedantulo,'pedant.0ulo','书呆子[shū dāi zi],書呆子[shū dāi zi]')).
+assert(celo(pedantulo,'pedant.0ulo','书蠹[shū dù],書蠹[shū dù]')).
+assert(celo(pedantulo,'pedant.0ulo','迂夫子[yū fū zǐ]')).
+assert(celo(pederastio,'pedera.0o','娈童恋[luán tóng liàn],孌童戀[luán tóng liàn]')).
+assert(celo(pederastio,'pedera.0o','亲男色[qīn nán sè],親男色[qīn nán sè]')).
+assert(celo(pediko,'pedik.0o','虱[shī],蝨[shī]')).
+assert(celo(pediko,'pedik.0o','虱[shī]')).
+assert(celo(pediko,'pedik.0o','賤骨頭[jiàn gú tou],贱骨头[jiàn gú tou]')).
+assert(celo(pedika,'','操蛋[cào dàn]')).
+assert(celo(pedika,'','肏蛋[cào dàn]')).
+assert(celo(pedikovo,'pedik.0ovo','虮[jǐ],蟣[jǐ]')).
+assert(celo(pedikovo,'pedik.0ovo','虮子[jǐ zi],蟣子[jǐ zi]')).
+assert(celo(pedikuri,'pedikur.0i','修脚[xiū jiǎo],修腳[xiū jiǎo]')).
+assert(celo(pedikuristo,'pedikur.0isto','修脚师[xiū jiǎo shī],修腳師[xiū jiǎo shī]')).
+assert(celo(pedikuro,'pedikur.0o','修脚[xiū jiǎo],修腳[xiū jiǎo]')).
+assert(celo(pedofilio,'pedofili.0o','恋童癖[liàn tóng pǐ],戀童癖[liàn tóng pǐ]')).
+assert(celo(pedofilio,'pedofili.0o','恋童症[liàn tóng zhèng],戀童症[liàn tóng zhèng]')).
+assert(celo(pedofiliulo,'pedofili.0ulo','恋童犯[liàn tóng fàn],戀童犯[liàn tóng fàn]')).
+assert(celo(pego,'peg.0o.genro','啄木鳥[zhuó mù niǎo],啄木鸟[zhuó mù niǎo]')).
+assert(celo(pego,'peg.0o.pegedano','啄木鳥[zhuó mù niǎo],啄木鸟[zhuó mù niǎo]')).
+assert(celo(pego,'peg.0o.pegedano','䴕[liè],鴷[liè]')).
+assert(celo(pego,'peg.0o.pegedano','鴷[liè]')).
+assert(celo(pegoformaj,'peg.0oformaj','鴷形目[liè xíng mù]')).
+assert(celo(buntpego,'peg.bunt0o','大斑啄木鳥[dà bān zhuó mù niǎo],大斑啄木鸟[dà bān zhuó mù niǎo]')).
+assert(celo('trifingra buntpego','','三趾啄木鳥[sān zhǐ zhuó mù niǎo],三趾啄木鸟[sān zhǐ zhuó mù niǎo]')).
+assert(celo(pegedoj,'peged.0oj','啄木鳥科[zhuó mù niǎo kē],啄木鸟科[zhuó mù niǎo kē]')).
+assert(celo(pejzaĝisto,'pejzag.0isto.gxardeniso','园艺师[yuán yì shī],園藝師[yuán yì shī]')).
+retract(celo(pejzaĝisto,'pejzag.0isto.gxardeniso','园艺师[yuán yì shī],園藝師[yuán yì shī]')).
+assert(celo(pejzaĝisto,'','园艺师[yuán yì shī],園藝師[yuán yì shī]')).
+assert(celo(pejzaĝisto,'','風景畫家[fēng jǐng huà jiā],风景画家[fēng jǐng huà jiā]')).
+assert(celo(pejzaĝo,'pejzag.0o','山川[shān chuān]')).
+assert(celo(pejzaĝo,'pejzag.0o','風光[fēng guāng],风光[fēng guāng]')).
+assert(celo(pejzaĝo,'pejzag.0o','風景[fēng jǐng],风景[fēng jǐng]')).
+assert(celo(pejzaĝo,'pejzag.0o','山水[shān shuǐ]')).
+assert(celo(pejzaĝo,'pejzag.0o','景觀[jǐng guān],景观[jǐng guān]')).
+assert(celo(pejzaĝo,'pejzag.0o','山水画[shān shuǐ huà],山水畫[shān shuǐ huà]')).
+assert(celo(pejzaĝo,'pejzag.0o','地景[dì jǐng]')).
+assert(celo(pejzaĝo,'pejzag.0o','景色[jǐng sè]')).
+assert(celo(pekema,'pek.0ema.REL','罪恶[zuì è],罪惡[zuì è]')).
+assert(celo(peki,'pek.0i.REL','作孽[zuò niè]')).
+assert(celo(pekliberigi,'pek.0liberigi','宽恕[kuān shù],寬恕[kuān shù]')).
+assert(celo(pekliberigi,'pek.0liberigi','赦免[shè miǎn]')).
+assert(celo(peko,'pek.0o','罪恶[zuì è],罪惡[zuì è]')).
+assert(celo(peko,'pek.0o','罪愆[zuì qiān]')).
+assert(celo(peko,'pek.0o','罪孽[zuì niè]')).
+assert(celo(peko,'pek.0o','孽[niè]')).
+assert(celo(peko,'pek.0o','罪[zuì]')).
+assert(celo(peko,'pek.0o','罪过[zuì guo],罪過[zuì guo]')).
+assert(celo(pekulo,'pek.0ulo','罪人[zuì rén]')).
+assert(celo(pekulo,'pek.0ulo','罪恶[zuì è],罪惡[zuì è]')).
+assert(celo(pekulo,'pek.0ulo','坏事[huài shì],壞事[huài shì]')).
+assert(celo(pekulo,'pek.0ulo','违法者[wéi fǎ zhě],違法者[wéi fǎ zhě]')).
+assert(celo(pekulo,'pek.0ulo','做坏事的人[zuò huài shì de rén],做壞事的人[zuò huài shì de rén]')).
+assert(celo(pekulo,'pek.0ulo','罪[zuì]')).
+assert(celo(pekulo,'pek.0ulo','酗酒者[xù jiǔ zhě]')).
+assert(celo(prapeko,'pek.pra0o','原罪[yuán zuì]')).
+assert(celo(senpeka,'pek.sen0a','无瑕[wú xiá],無瑕[wú xiá]')).
+assert(celo(senpeka,'pek.sen0a','无罪[wú zuì],無罪[wú zuì]')).
+assert(celo(senpeka,'pek.sen0a','冰清玉洁[bīng qīng yù jié],冰清玉潔[bīng qīng yù jié]')).
+assert(celo(senpeka,'pek.sen0a','未醒[wèi xǐng]')).
+assert(celo(senpeka,'pek.sen0a','无知[wú zhī],無知[wú zhī]')).
+assert(celo(senpeka,'pek.sen0a','童貞[tóng zhēn],童贞[tóng zhēn]')).
+assert(celo(senpeka,'','純潔[chún jié],纯洁[chún jié]')).
+assert(celo(peklaĵo,'pekl.0ajxo','腌[yān],醃[yān]')).
+assert(celo(peklaĵo,'pekl.0ajxo','咸肉[xián ròu],鹹肉[xián ròu]')).
+assert(celo(peklaĵo,'pekl.0ajxo','腌黄瓜[yān huáng guā],醃黃瓜[yān huáng guā]')).
+assert(celo(pekli,'pekl.0i','鹺[cuó],鹾[cuó]')).
+assert(celo(pekli,'pekl.0i','腌制[yān zhì],醃制[yān zhì]')).
+assert(celo(peklaĵo,'','咸菜[xián cài],鹹菜[xián cài]')).
+assert(celo(peli,'pel.0i.PSI','围猎[wéi liè],圍獵[wéi liè]')).
+assert(celo(peli,'pel.0i.PSI','从事于[cóng shì yú],從事於[cóng shì yú]')).
+assert(celo(pelilo,'pel.0ilo.KOMP','驅動程序[qū dòng chéng xù],驱动程序[qū dòng chéng xù]')).
+assert(celo(pelilo,'pel.0ilo.KOMP','驅動器[qū dòng qì],驱动器[qū dòng qì]')).
+assert(celo(pelisto,'pel.0isto','传动齿轮[chuán dòng chǐ lún],傳動齒輪[chuán dòng chǐ lún]')).
+assert(celo(ĉirkaŭpeli,'pel.cxirkaux0i','縈繞[yíng rào],萦绕[yíng rào]')).
+retract(celo(ĉirkaŭpeli,'pel.cxirkaux0i','縈繞[yíng rào],萦绕[yíng rào]')).
+assert(celo(dispeli,'pel.dis0i','驅散[qū sàn],驱散[qū sàn]')).
+assert(celo(dispeli,'pel.dis0i','肸[xì]')).
+assert(celo(dispeli,'pel.dis0i','离散[lí sàn],離散[lí sàn]')).
+assert(celo(dispeliĝi,'pel.dis0igxi','肸[xì]')).
+assert(celo(dispeliĝi,'pel.dis0igxi','乱窜[luàn cuàn],亂竄[luàn cuàn]')).
+assert(celo(elpeli,'pel.el0i','被驅逐[bèi qū zhú],被驱逐[bèi qū zhú]')).
+assert(celo(elpeli,'pel.el0i','赶出[gǎn chū],趕出[gǎn chū]')).
+assert(celo(elpeli,'pel.el0i','逼离[bī lí],逼離[bī lí]')).
+assert(celo(forpeli,'pel.for0i','赶出[gǎn chū],趕出[gǎn chū]')).
+assert(celo(forpeli,'pel.for0i','驅趕[qū gǎn],驱赶[qū gǎn]')).
+assert(celo(forpeli,'pel.for0i','赶[gǎn],趕[gǎn]')).
+assert(celo('iele-trapele','pel.ieletra0e','企图蒙混过关[qǐ tú méng hùn guò guān],企圖蒙混過關[qǐ tú méng hùn guò guān]')).
+assert(celo(repeli,'pel.re0i','搡[sǎng]')).
+assert(celo(repeli,'pel.re0i','排挤[pái jǐ],排擠[pái jǐ]')).
+assert(celo(repeli,'pel.re0i','击退[jī tuì],擊退[jī tuì]')).
+assert(celo('sin peli','pel.sin0i','抓紧时间[zhuā jǐn shí jiān],抓緊時間[zhuā jǐn shí jiān]')).
+assert(celo('sin peli','pel.sin0i','赶紧[gǎn jǐn],趕緊[gǎn jǐn]')).
+assert(celo('sin peli','pel.sin0i','赶赴[gǎn fù],趕赴[gǎn fù]')).
+assert(celo('sin peli','pel.sin0i','奔赴[bēn fù]')).
+assert(celo(pelagro,'pelagr.0o','糙皮病[cāo pí bìng]')).
+assert(celo(pelerino,'peleri.0o','披肩[pī jiān]')).
+assert(celo(pelikano,'pelika.0o','鵜鶘[tí hú],鹈鹕[tí hú]')).
+assert(celo(pelikano,'pelika.0o','淘河[táo hé]')).
+assert(celo(pelikano,'pelika.0o','鶘[hú],鹕[hú]')).
+assert(celo(pelikano,'pelika.0o','鶦[hú]')).
+assert(celo(pelikanoformaj,'pelika.0oformaj','鵜形目[tí xíng mù],鹈形目[tí xíng mù]')).
+assert(celo(pelikanedoj,'pelika1.0oj','鵜鶘屬[tí hú shǔ],鹈鹕属[tí hú shǔ]')).
+assert(celo(pelmelo,'pelmel.0o.KOMUNE','杂乱[zá luàn],雜亂[zá luàn]')).
+assert(celo(pelmelo,'pelmel.0o.KOMUNE','繽[bīn],缤[bīn]')).
+assert(celo('Peloponezo','peloponez.0o','伯罗奔尼撒[Bó luó bēn ní sā],伯羅奔尼撒[Bó luó bēn ní sā]')).
+assert(celo(peltaĵo,'pelt.0ajxo','皮毛[pí máo]')).
+assert(celo(peltaĵo,'pelt.0ajxo','皮草[pí cǎo]')).
+assert(celo(pelto,'pelt.0o','毛皮[máo pí]')).
+assert(celo(pelto,'pelt.0o','裘[qiú]')).
+assert(celo(pelvo,'pelv.0o.ANA','髋[kuān],髖[kuān]')).
+assert(celo(pelvo,'pelv.0o.ANA','骨盆[gǔ pén]')).
+assert(celo(pelvo,'pelv.0o.ANA','池[chí]')).
+assert(celo(pelvo,'pelv.0o.ANA','蓄水池[xù shuǐ chí]')).
+assert(celo(pelvo,'pelv.0o.ANA','骨盘[gǔ pán],骨盤[gǔ pán]')).
+assert(celo(pelvo,'pelv.0o.ANA','盆[pén]')).
+assert(celo(pelvo,'pelv.0o.ANA','水盆[shuǐ pén]')).
+assert(celo(lavopelvo,'pelv.lavo0o','脸盆[liǎn pén],臉盆[liǎn pén]')).
+assert(celo(lavopelvo,'pelv.lavo0o','洗脸盆[xǐ liǎn pén],洗臉盆[xǐ liǎn pén]')).
+assert(celo(lavopelvo,'pelv.lavo0o','洗涤槽[xǐ dí cáo],洗滌槽[xǐ dí cáo]')).
+assert(celo(penegi,'pen.0egi','竭尽全力[jié jìn quán lì],竭盡全力[jié jìn quán lì]')).
+assert(celo(penegi,'pen.0egi','力求[lì qiú]')).
+assert(celo(penegi,'pen.0egi','使劲儿[shǐ jìn r],使勁兒[shǐ jìn r]')).
+assert(celo(penego,'pen.0ego','心血[xīn xuè]')).
+assert(celo(penema,'pen.0ema','勤劳[qín láo],勤勞[qín láo]')).
+assert(celo(penema,'pen.0ema','勤快[qín kuài]')).
+assert(celo(penema,'pen.0ema','刻苦[kè kǔ]')).
+assert(celo(penema,'pen.0ema','勤力[qín lì]')).
+assert(celo(peni,'pen.0i','勉[miǎn]')).
+assert(celo(peni,'pen.0i','力争[lì zhēng],力爭[lì zhēng]')).
+assert(celo(peni,'pen.0i','强[qiǎng],彊[qiǎng]')).
+assert(celo(peni,'pen.0i','争取[zhēng qǔ],爭取[zhēng qǔ]')).
+assert(celo(peni,'pen.0i','致力[zhì lì]')).
+assert(celo(peni,'pen.0i','使劲儿[shǐ jìn r],使勁兒[shǐ jìn r]')).
+assert(celo(peniga,'pen.0iga','辛苦[xīn kǔ]')).
+assert(celo(peniga,'pen.0iga','繁重[fán zhòng]')).
+assert(celo(peniga,'pen.0iga','艰苦[jiān kǔ],艱苦[jiān kǔ]')).
+assert(celo(peniga,'pen.0iga','吃力[chī lì]')).
+assert(celo(peniga,'pen.0iga','艰巨[jiān jù],艱巨[jiān jù]')).
+assert(celo(peniga,'pen.0iga','恼人[nǎo rén],惱人[nǎo rén]')).
+assert(celo(peniga,'pen.0iga','浩繁[hào fán]')).
+assert(celo(peniga,'pen.0iga','費力地[fèi lì de],费力地[fèi lì de]')).
+assert(celo(peniga,'pen.0iga','使疲劳[shǐ pí láo],使疲勞[shǐ pí láo]')).
+assert(celo(peniga,'pen.0iga','竭力做[jié lì zuò]')).
+assert(celo(peno,'pen.0o','心血[xīn xuè]')).
+assert(celo(peno,'pen.0o','功夫[gōng fu]')).
+assert(celo(peno,'pen.0o','困难[kùn nan],困難[kùn nan]')).
+assert(celo(peno,'pen.0o','艰难[jiān nán],艱難[jiān nán]')).
+assert(celo(peno,'pen.0o','工夫[gōng fū]')).
+assert(celo(malpenema,'pen.ne0ema','懒散[lǎn sǎn],懶散[lǎn sǎn]')).
+assert(celo(malpenema,'pen.ne0ema','蔫[niān]')).
+assert(celo(malpenema,'pen.ne0ema','怠惰[dài duò]')).
+assert(celo(malpenema,'pen.ne0ema','慢轉[màn zhuǎn],慢转[màn zhuǎn]')).
+assert(celo(malpenema,'pen.ne0ema','澶[dàn]')).
+assert(celo(senpene,'pen.sen0e','輕易完成[qīng yì wán chéng],轻易完成[qīng yì wán chéng]')).
+assert(celo(senpene,'pen.sen0e','不費吹灰之力[bù fèi chuī huī zhī lì],不费吹灰之力[bù fèi chuī huī zhī lì]')).
+assert(celo(senpene,'pen.sen0e','毫不費力[háo bù fèi lì],毫不费力[háo bù fèi lì]')).
+assert(celo('valori la penon','pen.valorila0on','值得[zhí de]')).
+assert(celo(penco,'penc.0o','便士[biàn shì]')).
+assert(celo(penco,'penc.0o','本士[běn shì]')).
+assert(celo(pendi,'pend.0i','挂着[guà zhuó],掛著[guà zhuó]')).
+assert(celo(pendi,'pend.0i','亸[duǒ],嚲[duǒ]')).
+assert(celo(pendi,'pend.0i','門樞[mén shū],门枢[mén shū]')).
+assert(celo(pendigi,'pend.0igi','吊[diào],弔[diào]')).
+assert(celo(pendigi,'pend.0igi','挂[guà],掛[guà]')).
+assert(celo(pendigi,'pend.0igi','悬[xuán],懸[xuán]')).
+assert(celo(pendigi,'pend.0igi','悬挂[xuán guà],懸掛[xuán guà]')).
+assert(celo(pendigilo,'pend.0igilo','絞架[jiǎo jià],绞架[jiǎo jià]')).
+assert(celo(pendigilo,'pend.0igilo','吊裤带[diào kù dài],弔褲帶[diào kù dài]')).
+assert(celo(pendigilo,'pend.0igilo','挂架[guà jià],掛架[guà jià]')).
+assert(celo(pendigilo,'pend.0igilo','絞刑架[jiǎo xíng jià],绞刑架[jiǎo xíng jià]')).
+assert(celo(pendumi,'pend.0umi','吊[diào],弔[diào]')).
+assert(celo(pendumi,'pend.0umi','挂[guà],掛[guà]')).
+assert(celo(pendumi,'pend.0umi','絞死[jiǎo sǐ],绞死[jiǎo sǐ]')).
+assert(celo(pendumilo,'pend.0umilo','絞架[jiǎo jià],绞架[jiǎo jià]')).
+assert(celo(pendumilo,'pend.0umilo','吊裤带[diào kù dài],弔褲帶[diào kù dài]')).
+assert(celo(pendumilo,'pend.0umilo','挂架[guà jià],掛架[guà jià]')).
+assert(celo(pendumilo,'pend.0umilo','絞刑架[jiǎo xíng jià],绞刑架[jiǎo xíng jià]')).
+assert(celo(dependa,'pend.de0a.KOMUNE','依賴[yī lài],依赖[yī lài]')).
+assert(celo(dependa,'pend.de0a.KOMUNE','相依[xiāng yī]')).
+assert(celo(dependa,'pend.de0a.KOMUNE','成瘾[chéng yǐn],成癮[chéng yǐn]')).
+assert(celo('depende je','pend.de0eje','來說[lái shuō],来说[lái shuō]')).
+assert(celo('depende je','pend.de0eje','依[yī]')).
+assert(celo(dependi,'pend.de0i','依賴[yī lài],依赖[yī lài]')).
+assert(celo(dependi,'pend.de0i','視乎[shì hū],视乎[shì hū]')).
+assert(celo(dependi,'pend.de0i','賴以[lài yǐ],赖以[lài yǐ]')).
+assert(celo(dependi,'pend.de0i','乇[zhé]')).
+assert(celo(dependi,'pend.de0i','依賴於[yī lài yú],依赖于[yī lài yú]')).
+assert(celo(dependi,'pend.de0i','取决于[qǔ jué yú],取決於[qǔ jué yú]')).
+assert(celo(dependi,'pend.de0i','系于[xì yú],繫於[xì yú]')).
+assert(celo(elpendaĵo,'pend.el0ajxo.sxildo','幌子[huǎng zi]')).
+assert(celo(elpendaĵo,'pend.el0ajxo.sxildo','幌[huǎng]')).
+assert(celo(nedependa,'pend.nede0a','独立自主[dú lì zì zhǔ],獨立自主[dú lì zì zhǔ]')).
+assert(celo(nedependa,'pend.nede0a','自主[zì zhǔ]')).
+assert(celo(nedependa,'pend.nede0a','自立[zì lì]')).
+assert(celo(nedependa,'pend.nede0a','独立[dú lì],獨立[dú lì]')).
+assert(celo(orelpendaĵo,'pend.orel0ajxo','耳环[ěr huán],耳環[ěr huán]')).
+assert(celo(orelpendaĵo,'pend.orel0ajxo','珰[dāng],璫[dāng]')).
+assert(celo(orelpendaĵo,'pend.orel0ajxo','耳坠[ěr zhuì],耳墜[ěr zhuì]')).
+assert(celo(sendependa,'pend.sende0a','独立自主[dú lì zì zhǔ],獨立自主[dú lì zì zhǔ]')).
+assert(celo(sendependa,'pend.sende0a','独立[dú lì],獨立[dú lì]')).
+assert(celo(sendependa,'pend.sende0a','自主[zì zhǔ]')).
+assert(celo(sendependa,'pend.sende0a','自立[zì lì]')).
+assert(celo(sendependa,'pend.sende0a','无党无派[wú dǎng wú pài],無黨無派[wú dǎng wú pài]')).
+assert(celo(sendependeco,'pend.sende0eco','独立[dú lì],獨立[dú lì]')).
+assert(celo(sendependeco,'pend.sende0eco','自主[zì zhǔ]')).
+assert(celo(sendependismo,'pend.sende0ismo','分裂主义[fēn liè zhǔ yì],分裂主義[fēn liè zhǔ yì]')).
+assert(celo(sendependismo,'pend.sende0ismo','分离主义[fēn lí zhǔ yì],分離主義[fēn lí zhǔ yì]')).
+assert(celo(sendependisto,'pend.sende0isto','分离分子[fēn lí fèn zǐ],分離份子[fēn lí fèn zǐ]')).
+assert(celo(superpendi,'pend.super0i.KOMUNE','悬垂[xuán chuí],懸垂[xuán chuí]')).
+assert(celo(superpendi,'pend.super0i.KOMUNE','外悬[wài xuán],外懸[wài xuán]')).
+assert(celo(pendoli,'pendol.0i','摆晃[bǎi huàng],擺晃[bǎi huàng]')).
+assert(celo(pendoli,'pendol.0i','摆荡[bǎi dàng],擺蕩[bǎi dàng]')).
+assert(celo(pendoli,'pendol.0i','摆动[bǎi dòng],擺動[bǎi dòng]')).
+assert(celo(pendolilo,'pendol.0ilo','秋千[qiū qiān],鞦韆[qiū qiān]')).
+assert(celo(pendolo,'pendol.0o.pezajxo','鐘擺[zhōng bǎi],钟摆[zhōng bǎi]')).
+assert(celo(pendolo,'pendol.0o.pezajxo','摆[bǎi],擺[bǎi]')).
+assert(celo(pendolo,'pendol.0o.pezajxo','单摆[dān bǎi],單擺[dān bǎi]')).
+assert(celo(penetra,'penetr.0a','尖銳[jiān ruì],尖锐[jiān ruì]')).
+assert(celo(penetra,'penetr.0a','彻[chè],徹[chè]')).
+assert(celo(penetra,'penetr.0a','精辟[jīng pì],精闢[jīng pì]')).
+assert(celo(penetra,'penetr.0a','透辟[tòu pì],透闢[tòu pì]')).
+assert(celo(penetra,'penetr.0a','通透[tōng tòu]')).
+assert(celo(penetra,'penetr.0a','透[tòu]')).
+assert(celo(penetrema,'penetr.0ema','透辟[tòu pì],透闢[tòu pì]')).
+assert(celo(penetrema,'penetr.0ema','在底部[zài dǐ bù]')).
+assert(celo(penetri,'penetr.0i','穿透[chuān tòu]')).
+assert(celo(penetri,'penetr.0i','彻[chè],徹[chè]')).
+assert(celo(penetri,'penetr.0i','透[tòu]')).
+assert(celo(penetri,'penetr.0i','透进[tòu jìn],透進[tòu jìn]')).
+assert(celo(penetri,'penetr.0i','渗入[shèn rù],滲入[shèn rù]')).
+assert(celo(penetri,'penetr.0i','浸[jìn]')).
+assert(celo(penetri,'penetr.0i','寖[jìn]')).
+assert(celo(penetrigi,'penetr.0igi','貫[guàn],贯[guàn]')).
+assert(celo(penetrigi,'penetr.0igi','闖入[chuǎng rù],闯入[chuǎng rù]')).
+retract(celo(penetrigi,'penetr.0igi','闖入[chuǎng rù],闯入[chuǎng rù]')).
+assert(celo(enpenetri,'penetr.en0i','渗入[shèn rù],滲入[shèn rù]')).
+assert(celo(enpenetri,'penetr.en0i','入侵[rù qīn]')).
+assert(celo(enpenetri,'penetr.en0i','宰割[zǎi gē]')).
+assert(celo(enpenetri,'penetr.en0i','挤入[jǐ rù],擠入[jǐ rù]')).
+assert(celo(enpenetri,'penetr.en0i','混进[hùn jìn],混進[hùn jìn]')).
+assert(celo(enpenetri,'penetr.en0i','被入侵[bèi rù qīn]')).
+assert(celo(enpenetri,'penetr.en0i','被渗透[bèi shèn tòu],被滲透[bèi shèn tòu]')).
+assert(celo(enpenetri,'penetr.en0i','被穿透[bèi chuān tòu]')).
+assert(celo(enpenetri,'penetr.en0i','闖進[chuǎng jìn],闯进[chuǎng jìn]')).
+assert(celo(enpenetri,'penetr.en0i','窜进[cuàn jìn],竄進[cuàn jìn]')).
+assert(celo(enpenetri,'penetr.en0i','填进[tián jìn],填進[tián jìn]')).
+assert(celo(netrapenetrebla,'penetr.ne0ebla','不能透过[bù néng tòu guò],不能透過[bù néng tòu guò]')).
+assert(celo(netrapenetrebla,'penetr.ne0ebla','不通透[bù tōng tòu]')).
+assert(celo(netrapenetrebla,'penetr.ne0ebla','透不过[tòu bù guò],透不過[tòu bù guò]')).
+assert(celo(trapenetri,'penetr.tra0i','透[tòu]')).
+assert(celo(trapenetri,'penetr.tra0i','穿透[chuān tòu]')).
+assert(celo(trapenetri,'penetr.tra0i','彻[chè],徹[chè]')).
+assert(celo(trapenetri,'penetr.tra0i','渗透[shèn tòu],滲透[shèn tòu]')).
+assert(celo(trapenetri,'penetr.tra0i','透进[tòu jìn],透進[tòu jìn]')).
+assert(celo(trapenetri,'penetr.tra0i','下决心[xià jué xīn],下決心[xià jué xīn]')).
+assert(celo(trapenetri,'penetr.tra0i','浸[jìn]')).
+assert(celo(trapenetri,'penetr.tra0i','寖[jìn]')).
+assert(celo(trapenetri,'penetr.tra0i','渍[zì],漬[zì]')).
+assert(celo(trapenetri,'penetr.tra0i','浸透[jìn tòu]')).
+assert(celo(penio,'peni.0o','便士[biàn shì]')).
+assert(celo(penio,'peni.0o','本士[běn shì]')).
+assert(celo(penicilino,'penicilin.0o','青霉素[qīng méi sù],青黴素[qīng méi sù]')).
+assert(celo(penicilino,'penicilin.0o','盘尼西林[pán ní xī lín],盤尼西林[pán ní xī lín]')).
+assert(celo(penicilino,'penicilin.0o','青霉素[qīng méi sù]')).
+assert(celo(penicilino,'penicilin.0o','青黴素[qīng méi sù]')).
+assert(celo(peniki,'penik.0i','作画[zuò huà],作畫[zuò huà]')).
+assert(celo(peniko,'penik.0o.TEK','画笔[huà bǐ],畫筆[huà bǐ]')).
+assert(celo(peniko,'penik.0o.TEK','毛笔[máo bǐ],毛筆[máo bǐ]')).
+assert(celo(peniko,'penik.0o.TEK','聿[yù]')).
+assert(celo(peniko,'penik.0o.beraro','蔟[cù]')).
+assert(celo(peniko,'penik.0o.beraro','总状花序[zǒng zhuàng huā xù],總狀花序[zǒng zhuàng huā xù]')).
+assert(celo(peniko,'penik.0o.kvasto','穗飾[suì shì],穗饰[suì shì]')).
+assert(celo(peniko,'penik.0o.kvasto','纓[yīng],缨[yīng]')).
+assert(celo(peniko,'penik.0o.kvasto','流苏[liú sū],流蘇[liú sū]')).
+assert(celo(peniko,'penik.0o.kvasto','紇[hé],纥[hé]')).
+assert(celo(peniko,'penik.0o.kvasto','旒[liú]')).
+assert(celo(peniko,'penik.0o.kvasto','繐[suì]')).
+assert(celo(peniko,'penik.0o.kvasto','䍁[suì],繸[suì]')).
+assert(celo(peniko,'penik.0o.kvasto','繸[suì]')).
+assert(celo(peniso,'penis.0o','阴茎[yīn jīng],陰莖[yīn jīng]')).
+assert(celo(peniso,'penis.0o','屌[diǎo]')).
+assert(celo(peniso,'penis.0o','屪[liáo]')).
+assert(celo(peniso,'penis.0o','老二[lǎo èr]')).
+assert(celo(peniso,'penis.0o','男根[nán gēn]')).
+assert(celo(peniso,'penis.0o','阳具[yáng jù],陽具[yáng jù]')).
+assert(celo(peniso,'penis.0o','鳥[diǎo],鸟[diǎo]')).
+assert(celo(peniso,'penis.0o','𡳞[lìn]')).
+assert(celo(peniso,'penis.0o','阳物[yáng wù],陽物[yáng wù]')).
+retract(celo(peniso,'penis.0o','老二[lǎo èr]')).
+assert(celo(pensado,'pens.0ado','思維[sī wéi],思维[sī wéi]')).
+assert(celo(pensado,'pens.0ado','思想[sī xiǎng]')).
+assert(celo(pensado,'pens.0ado','思維方式[sī wéi fāng shì],思维方式[sī wéi fāng shì]')).
+assert(celo(pensado,'pens.0ado','心[xīn]')).
+assert(celo(pensado,'pens.0ado','思惟[sī wéi]')).
+assert(celo(pensaĵo,'pens.0ajxo','念[niàn]')).
+assert(celo(pensaĵo,'pens.0ajxo','思潮[sī cháo]')).
+assert(celo(pensaĵo,'pens.0ajxo','思想[sī xiǎng]')).
+assert(celo(pensaĵo,'pens.0ajxo','思路[sī lù]')).
+assert(celo(pensaĵo,'pens.0ajxo','念头[niàn tou],念頭[niàn tou]')).
+assert(celo(pensema,'pens.0ema','悠[yōu]')).
+assert(celo(pensema,'pens.0ema','周到[zhōu dào]')).
+assert(celo(pensi,'pens.0i','思[sī]')).
+assert(celo(pensi,'pens.0i','思維[sī wéi],思维[sī wéi]')).
+assert(celo(pensi,'pens.0i','心机[xīn jī],心機[xīn jī]')).
+assert(celo(pensi,'pens.0i','暗想[àn xiǎng]')).
+assert(celo(pensi,'pens.0i','想[xiǎng]')).
+assert(celo(pensi,'pens.0i','动脑筋[dòng nǎo jīn],動腦筋[dòng nǎo jīn]')).
+assert(celo(pensi,'pens.0i','忖[cǔn]')).
+assert(celo(pensi,'pens.0i','寻味[xún wèi],尋味[xún wèi]')).
+assert(celo(pensi,'pens.0i','以为[yǐ wéi],以為[yǐ wéi]')).
+assert(celo(pensi,'pens.0i','認為[rèn wéi],认为[rèn wéi]')).
+assert(celo(pensiga,'pens.0iga','耐人寻味[nài rén xún wèi],耐人尋味[nài rén xún wèi]')).
+assert(celo(pensiga,'pens.0iga','发人深省[fā rén shēn xǐng],發人深省[fā rén shēn xǐng]')).
+assert(celo(pensiga,'pens.0iga','发人深思[fā rén shēn sī],發人深思[fā rén shēn sī]')).
+assert(celo(pensigi,'pens.0igi','耐人寻味[nài rén xún wèi],耐人尋味[nài rén xún wèi]')).
+assert(celo(pensulo,'pens.0isto','思想家[sī xiǎng jiā]')).
+assert(celo(penso,'pens.0o','思維[sī wéi],思维[sī wéi]')).
+assert(celo(penso,'pens.0o','思想[sī xiǎng]')).
+assert(celo(penso,'pens.0o','念头[niàn tou],念頭[niàn tou]')).
+assert(celo(penso,'pens.0o','念[niàn]')).
+assert(celo(penso,'pens.0o','思潮[sī cháo]')).
+assert(celo(antaŭpensi,'pens.antaux0i','思忖[sī cǔn]')).
+assert(celo(antaŭpensi,'pens.antaux0i','忖[cǔn]')).
+assert(celo(antaŭpensi,'pens.antaux0i','預謀[yù móu],预谋[yù móu]')).
+assert(celo(antaŭpensi,'pens.antaux0i','慮[lù:],虑[lù:]')).
+assert(celo(antaŭpensi,'pens.antaux0i','深思[shēn sī]')).
+assert(celo(antaŭpripensi,'pens.antauxpri0i','寻思[xún sī],尋思[xún sī]')).
+assert(celo(antaŭpripensi,'pens.antauxpri0i','忖[cǔn]')).
+assert(celo(antaŭpripensi,'pens.antauxpri0i','思忖[sī cǔn]')).
+assert(celo(elpensaĵo,'pens.el0ajxo','发明[fā míng],發明[fā míng]')).
+assert(celo(elpensi,'pens.el0i','发明创造[fā míng chuàng zào],發明創造[fā míng chuàng zào]')).
+assert(celo(elpensi,'pens.el0i','虚构[xū gòu],虛構[xū gòu]')).
+assert(celo(elpensi,'pens.el0i','想出[xiǎng chū]')).
+assert(celo(elpensi,'pens.el0i','造[zào]')).
+assert(celo(elpensi,'pens.el0i','动脑筋[dòng nǎo jīn],動腦筋[dòng nǎo jīn]')).
+assert(celo(enpensiĝema,'pens.en0ema','悠[yōu]')).
+assert(celo(enpensiĝi,'pens.en0igxi','思忖[sī cǔn]')).
+assert(celo(enpensiĝi,'pens.en0igxi','沉思[chén sī]')).
+assert(celo(postpenso,'pens.post0o','后感[hòu gǎn],後感[hòu gǎn]')).
+assert(celo(prempenso,'pens.prem0o','热衷[rè zhōng],熱衷[rè zhōng]')).
+assert(celo(pripensema,'pens.pri0ema','周到[zhōu dào]')).
+assert(celo(pripensema,'pens.pri0ema','心眼大[xīn yǎn dà]')).
+assert(celo(pripensi,'pens.pri0i','再考慮[zài kǎo lǜ],再考虑[zài kǎo lǜ]')).
+assert(celo(pripensi,'pens.pri0i','加盖[jiā gài],加蓋[jiā gài]')).
+assert(celo(pripensi,'pens.pri0i','思考[sī kǎo]')).
+assert(celo(pripensi,'pens.pri0i','反思[fǎn sī]')).
+assert(celo(pripensi,'pens.pri0i','沉思[chén sī]')).
+assert(celo(pripensi,'pens.pri0i','审订[shěn dìng],審訂[shěn dìng]')).
+assert(celo(pripensi,'pens.pri0i','有屋頂[yǒu wū dǐng],有屋顶[yǒu wū dǐng]')).
+assert(celo(pripensi,'pens.pri0i','認真考慮[rèn zhēn kǎo lǜ],认真考虑[rèn zhēn kǎo lǜ]')).
+assert(celo(pripensi,'pens.pri0i','暗想[àn xiǎng]')).
+assert(celo(pripensi,'pens.pri0i','忖[cǔn]')).
+assert(celo(pripensi,'pens.pri0i','从长计议[cóng cháng jì yì],從長計議[cóng cháng jì yì]')).
+assert(celo(pripensinda,'pens.pri0inda','耐人寻味[nài rén xún wèi],耐人尋味[nài rén xún wèi]')).
+assert(celo(revpensi,'pens.rev0i','做白日夢[zuò bái rì mèng],做白日梦[zuò bái rì mèng]')).
+assert(celo(revpensi,'pens.rev0i','幻想[huàn xiǎng]')).
+assert(celo(revpensi,'pens.rev0i','一厢情愿[yī xiāng qíng yuàn],一廂情願[yī xiāng qíng yuàn]')).
+assert(celo(senpripensa,'pens.senpri0a','不周[bù zhōu]')).
+assert(celo(senpripensa,'pens.senpri0a','粗心[cū xīn]')).
+assert(celo(senpripensa,'pens.senpri0a','不注意[bù zhù yì]')).
+assert(celo(senpripensa,'pens.senpri0a','冒失[mào shi]')).
+assert(celo(senpripensa,'pens.senpri0a','孟浪[mèng làng]')).
+assert(celo(pensio,'pensi.0o','退休金[tuì xiū jīn]')).
+assert(celo(pensio,'pensi.0o','养老金[yǎng lǎo jīn],養老金[yǎng lǎo jīn]')).
+assert(celo(pensiuliĝi,'pensi.0uligxi.POL','离休[lí xiū],離休[lí xiū]')).
+assert(celo(pensiulo,'pensi.0ulo','退休人员[tuì xiū rén yuán],退休人員[tuì xiū rén yuán]')).
+assert(celo('Pensilvanio','pensilvani.0o','宾夕法尼亚[Bīn xī fǎ ní yà],賓夕法尼亞[Bīn xī fǎ ní yà]')).
+assert(celo('Pensilvanio','pensilvani.0o','宾夕法尼亚州[Bīn xī fǎ ní yà zhōu],賓夕法尼亞州[Bīn xī fǎ ní yà zhōu]')).
+assert(celo('Pensilvanio','pensilvani.0o','宾州[Bīn zhōu],賓州[Bīn zhōu]')).
+assert(celo('Pensilvanio','pensilvani.0o','宾西法尼亚[Bīn xī fǎ ní yà],賓西法尼亞[Bīn xī fǎ ní yà]')).
+assert(celo(pensiono,'pensio.0o','供膳食的宿舍[gōng shàn shí de sù shè]')).
+assert(celo(pensiono,'pensio.0o','便宜的酒店[pián yi de jiǔ diàn]')).
+assert(celo(pensiono,'pensio.0o','小旅館[xiǎo lǚ guǎn],小旅馆[xiǎo lǚ guǎn]')).
+assert(celo(pensiono,'pensio.0o','旅店[lǚ diàn]')).
+assert(celo(penti,'pent.0i','悔改[huǐ gǎi]')).
+assert(celo(penti,'pent.0i','忏悔[chàn huǐ],懺悔[chàn huǐ]')).
+assert(celo(penti,'pent.0i','后悔[hòu huǐ],後悔[hòu huǐ]')).
+assert(celo(penti,'pent.0i','悔恨[huǐ hèn]')).
+assert(celo(penti,'pent.0i','悔悟[huǐ wù]')).
+assert(celo(penti,'pent.0i','悔[huǐ]')).
+assert(celo(penti,'pent.0i','悔过[huǐ guò],悔過[huǐ guò]')).
+assert(celo(penti,'pent.0i','懊悔[ào huǐ]')).
+assert(celo(penti,'pent.0i','追悔[zhuī huǐ]')).
+assert(celo(penti,'pent.0i','忏[chàn],懺[chàn]')).
+assert(celo(penti,'pent.0i','懊恨[ào hèn]')).
+assert(celo(penti,'pent.0i','自悔[zì huǐ]')).
+assert(celo(pento,'pent.0o','悔恨[huǐ hèn]')).
+assert(celo(pento,'pent.0o','后悔[hòu huǐ],後悔[hòu huǐ]')).
+assert(celo(pento,'pent.0o','悔意[huǐ yì]')).
+assert(celo(pento,'pent.0o','沉痛[chén tòng]')).
+assert(celo(pento,'pent.0o','疚[jiù]')).
+assert(celo(pento,'pent.0o','悔[huǐ]')).
+assert(celo(pento,'pent.0o','忏[chàn],懺[chàn]')).
+assert(celo(pentofari,'','悔过[huǐ guò],悔過[huǐ guò]')).
+assert(celo(pripenti,'pent.pri0i','憾[hàn]')).
+assert(celo(pripenti,'pent.pri0i','悔[huǐ]')).
+assert(celo(pentagono,'pentag.0o','五角[wǔ jiǎo]')).
+assert(celo(pentagono,'pentag.0o','五边形[wǔ biān xíng],五邊形[wǔ biān xíng]')).
+assert(celo(pentagono,'pentag.0o','五角形[wǔ jiǎo xíng]')).
+assert(celo(pentagramo,'pentagram.0o','五角星[wǔ jiǎo xīng]')).
