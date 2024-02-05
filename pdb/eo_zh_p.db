@@ -1634,3 +1634,72 @@ assert(celo(pentagono,'pentag.0o','五角[wǔ jiǎo]')).
 assert(celo(pentagono,'pentag.0o','五边形[wǔ biān xíng],五邊形[wǔ biān xíng]')).
 assert(celo(pentagono,'pentag.0o','五角形[wǔ jiǎo xíng]')).
 assert(celo(pentagramo,'pentagram.0o','五角星[wǔ jiǎo xīng]')).
+assert(celo(pentametro,'pentam.0o','五音步詩行[wǔ yīn bù shī xíng],五音步诗行[wǔ yīn bù shī xíng]')).
+assert(celo('Pentateŭko','pentateuxk.0o.torao','摩西五书[mó xī wǔ shū],摩西五書[mó xī wǔ shū]')).
+assert(celo(pentatomo,'pentatom.0o','臭屁虫[chòu pì chóng],臭屁蟲[chòu pì chóng]')).
+assert(celo('Pentekostismo','pentek.0ismo','五旬節運動[wǔ xún jié yùn dòng],五旬节运动[wǔ xún jié yùn dòng]')).
+assert(celo('Pentekosto','pentek.0o','五旬節[wǔ xún jié],五旬节[wǔ xún jié]')).
+assert(celo('Pentekosto','pentek.0o','圣灵降临[Shèng líng jiàng lín],聖靈降臨[Shèng líng jiàng lín]')).
+assert(celo('Pentekosto','pentek.0o','收割節[shōu gē jié],收割节[shōu gē jié]')).
+assert(celo('Pentekosto','pentek.0o','圣灵节[shèng líng jié],聖靈節[shèng líng jié]')).
+assert(celo(pentraĵo,'pentr.0ajxo','画作[huà zuò],畫作[huà zuò]')).
+assert(celo(pentraĵo,'pentr.0ajxo','画儿[huà r],畫兒[huà r]')).
+assert(celo(pentraĵo,'pentr.0ajxo','加色[jiā sè]')).
+assert(celo(pentraĵo,'pentr.0ajxo','塗漆[tú qī],涂漆[tú qī]')).
+assert(celo(pentri,'pentr.0i','画画[huà huà],畫畫[huà huà]')).
+assert(celo(pentri,'pentr.0i','作画[zuò huà],作畫[zuò huà]')).
+assert(celo(pentri,'pentr.0i','画[huà],畫[huà]')).
+assert(celo(pentri,'pentr.0i','繪畫[huì huà],绘画[huì huà]')).
+assert(celo(pentrinda,'pentr.0inda','如画[rú huà],如畫[rú huà]')).
+assert(celo(pentrinda,'pentr.0inda','如詩如畫[rú shī rú huà],如诗如画[rú shī rú huà]')).
+assert(celo(pentristo,'pentr.0isto','画家[huà jiā],畫家[huà jiā]')).
+assert(celo(pentristo,'pentr.0isto','油漆匠[yóu qī jiàng]')).
+assert(celo('Pentristo','pentr.P0isto','繪架座[Huì jià zuò],绘架座[Huì jià zuò]')).
+assert(celo(aĵpentraĵo,'pentr.ajx0ajxo','静物[jìng wù],靜物[jìng wù]')).
+assert(celo(aĵpentraĵo,'pentr.ajx0ajxo','静物写生[jìng wù xiě shēng],靜物寫生[jìng wù xiě shēng]')).
+assert(celo(peono,'peon.0o','小卒[xiǎo zú]')).
+assert(celo(peonio,'peoni.0o','芍药属[sháo yào shǔ],芍藥屬[sháo yào shǔ]')).
+assert(celo(peonio,'peoni.0o','芍[sháo]')).
+assert(celo(peonio,'peoni.0o','牡丹[mǔ dān]')).
+assert(celo(pep,'pep.0','啅[zhào]')).
+assert(celo(pep,'pep.0','啾[jiū]')).
+assert(celo(pep,'pep.0','吱吱叫[zī zī jiào]')).
+assert(celo(pepi,'pep.0i','啾[jiū]')).
+assert(celo(pepi,'pep.0i','虫鸟叫声[chóng niǎo jiào shēng],蟲鳥叫聲[chóng niǎo jiào shēng]')).
+assert(celo(pepi,'pep.0i','啅[zhào]')).
+assert(celo(pepi,'pep.0i','喿[sào]')).
+assert(celo(pepi,'pep.0i','啁啾[zhōu jiū]')).
+assert(celo(pepi,'pep.0i','呢喃[ní nán]')).
+assert(celo(pepi,'pep.0i','啭[zhuàn],囀[zhuàn]')).
+assert(celo(pepo,'pep.0o','吱吱叫[zī zī jiào]')).
+assert(celo(plorpepi,'pep.plor0i','呜咽[wū yè],嗚咽[wū yè]')).
+assert(celo(peplomo,'peplom.0o','被[bèi]')).
+assert(celo(peplomo,'peplom.0o','棉被[mián bèi]')).
+assert(celo(pepsino,'pepsin.0o','胃蛋白酶[wèi dàn bái méi]')).
+assert(celo(pepsino,'pepsin.0o','酸蛋白酶[suān dàn bái méi]')).
+assert(celo(pepsino,'pepsin.0o','胃液素[wèi yè sù]')).
+assert(celo(peptido,'peptid.0o','肽[tài]')).
+assert(celo(peptido,'peptid.0o','縮氨酸[suō ān suān],缩氨酸[suō ān suān]')).
+assert(celo(peptido,'peptid.0o','呔[tāi]')).
+assert(celo(per,'per.0','藉着[jiè zhe],藉著[jiè zhe]')).
+assert(celo(per,'per.0','以心[yǐ xīn]')).
+assert(celo(per,'per.0.atesto','藉由[jiè yóu]')).
+assert(celo(pera,'per.0a','間接[jiàn jiē],间接[jiàn jiē]')).
+assert(celo(pera,'per.0a','斡旋[wò xuán]')).
+assert(celo(pera,'per.0a','非直接[fēi zhí jiē]')).
+assert(celo(perado,'per.0ado','中介[zhōng jiè]')).
+assert(celo(perado,'per.0ado','中介所[zhōng jiè suǒ]')).
+assert(celo(perado,'per.0ado','調停[tiáo tíng],调停[tiáo tíng]')).
+assert(celo(peranto,'per.0anto','媒[méi]')).
+assert(celo(peranto,'per.0anto','中人[zhōng rén]')).
+assert(celo(peranto,'per.0anto','中間人[zhōng jiān rén],中间人[zhōng jiān rén]')).
+assert(celo(peranto,'per.0anto','經紀人[jīng jì rén],经纪人[jīng jì rén]')).
+assert(celo(peranto,'per.0anto','調停者[tiáo tíng zhě],调停者[tiáo tíng zhě]')).
+assert(celo(peranto,'per.0anto','仲介[zhòng jiè]')).
+assert(celo(peranto,'per.0anto','介紹人[jiè shào rén],介绍人[jiè shào rén]')).
+assert(celo(peranto,'per.0anto','調停人[tiáo tíng rén],调停人[tiáo tíng rén]')).
+assert(celo(peranto,'per.0anto','調解人[tiáo jiě rén],调解人[tiáo jiě rén]')).
+assert(celo('pere de','per.0ede','藉由[jiè yóu]')).
+assert(celo('pere de','per.0ede','凭借[píng jiè],憑借[píng jiè]')).
+assert(celo('pere de','per.0ede','凭靠[píng kào],憑靠[píng kào]')).
+assert(celo('pere de','per.0ede','藉着[jiè zhe],藉著[jiè zhe]')).
