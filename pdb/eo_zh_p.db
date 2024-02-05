@@ -1703,3 +1703,243 @@ assert(celo('pere de','per.0ede','藉由[jiè yóu]')).
 assert(celo('pere de','per.0ede','凭借[píng jiè],憑借[píng jiè]')).
 assert(celo('pere de','per.0ede','凭靠[píng kào],憑靠[píng kào]')).
 assert(celo('pere de','per.0ede','藉着[jiè zhe],藉著[jiè zhe]')).
+assert(celo(peri,'per.0i.KOMUNE','劝和[quàn hé],勸和[quàn hé]')).
+assert(celo(peri,'per.0i.KOMUNE','圆场[yuán chǎng],圓場[yuán chǎng]')).
+assert(celo(peri,'per.0i.KOMUNE','拉皮条[lā pí tiáo],拉皮條[lā pí tiáo]')).
+assert(celo(peri,'per.0i.KOMUNE','排解[pái jiě]')).
+assert(celo(peri,'per.0i.KOMUNE','疏解[shū jiě]')).
+assert(celo(peri,'per.0i.KOMUNE','調解[tiáo jiě],调解[tiáo jiě]')).
+assert(celo(perilo,'per.0ilo','中介[zhōng jiè]')).
+assert(celo(perilo,'per.0ilo','介質[jiè zhì],介质[jiè zhì]')).
+assert(celo(perilo,'per.0ilo','媒介[méi jiè]')).
+assert(celo('ĉi-pere','per.cxi0e','兹[zī],茲[zī]')).
+assert(celo('ĉi-pere','per.cxi0e','特此[tè cǐ]')).
+assert(celo(senpera,'per.sen0a','迳直[jìng zhí],逕直[jìng zhí]')).
+assert(celo(senpera,'per.sen0a','直接[zhí jiē]')).
+assert(celo(senpera,'per.sen0a','径直[jìng zhí],徑直[jìng zhí]')).
+assert(celo(senpera,'per.sen0a','成方形[chéng fāng xíng]')).
+assert(celo(senpera,'per.sen0a','照直[zhào zhí]')).
+assert(celo(senpera,'per.sen0a','直按[zhí àn]')).
+assert(celo(edzperanto,'','媒[méi]')).
+assert(celo(senpere,'per.sen0e','一径[yī jìng],一徑[yī jìng]')).
+assert(celo(senpere,'per.sen0e','直[zhí]')).
+assert(celo(senpere,'per.sen0e','迎面而來[yíng miàn ér lái],迎面而来[yíng miàn ér lái]')).
+assert(celo(perceptebla,'percep.0ebla','可以感覺到[kě yǐ gǎn jué dào],可以感觉到[kě yǐ gǎn jué dào]')).
+assert(celo(perceptebla,'percep.0ebla','可看到[kě kàn dào]')).
+assert(celo(perceptebla,'percep.0ebla','可覺察[kě jué chá],可觉察[kě jué chá]')).
+assert(celo(perceptebla,'percep.0ebla','可感覺[kě gǎn jué],可感觉[kě gǎn jué]')).
+assert(celo(perceptebla,'percep.0ebla','可知[kě zhī]')).
+assert(celo(perceptebla,'percep.0ebla','可認識[kě rèn shi],可认识[kě rèn shi]')).
+assert(celo(percepti,'percep.0i','覺察[jué chá],觉察[jué chá]')).
+assert(celo(percepti,'percep.0i','察覺[chá jué],察觉[chá jué]')).
+assert(celo(percepti,'percep.0i','感覺到[gǎn jué dào],感觉到[gǎn jué dào]')).
+assert(celo(percepto,'percep.0o','知覺[zhī jué],知觉[zhī jué]')).
+assert(celo(percepto,'percep.0o','觀察力[guān chá lì],观察力[guān chá lì]')).
+assert(celo(perdi,'perd.0i','丟失[diū shī],丢失[diū shī]')).
+assert(celo(perdi,'perd.0i','丧失[sàng shī],喪失[sàng shī]')).
+assert(celo(perdi,'perd.0i','失去[shī qù]')).
+assert(celo(perdi,'perd.0i','弄丟[nòng diū],弄丢[nòng diū]')).
+assert(celo(perdi,'perd.0i','輸掉[shū diào],输掉[shū diào]')).
+assert(celo(perdiĝi,'perd.0igxi','轉向[zhuàn xiàng],转向[zhuàn xiàng]')).
+assert(celo(perdiĝi,'perd.0igxi','迷路[mí lù]')).
+assert(celo(perdiĝi,'perd.0igxi','失去[shī qù]')).
+assert(celo(disperdi,'perd.dis0i','涣然冰释[huàn rán bīng shì],渙然冰釋[huàn rán bīng shì]')).
+assert(celo(forperdiĝi,'perd.for0igxi','涣然冰释[huàn rán bīng shì],渙然冰釋[huàn rán bīng shì]')).
+assert(celo(forperdiĝi,'perd.for0igxi','消失[xiāo shī]')).
+assert(celo(perdriko,'perdrik.0o','鴣[gū],鸪[gū]')).
+assert(celo(perdriko,'perdrik.0o','鷓[zhè],鹧[zhè]')).
+assert(celo(perei,'pere.0i','殒[yǔn],殞[yǔn]')).
+assert(celo(perei,'pere.0i','消滅[xiāo miè],消灭[xiāo miè]')).
+assert(celo(perei,'pere.0i','消亡[xiāo wáng]')).
+assert(celo(perei,'pere.0i','殒命[yǔn mìng],殞命[yǔn mìng]')).
+assert(celo(perei,'pere.0i','沦没丧亡[lún mò sàng wáng],淪沒喪亡[lún mò sàng wáng]')).
+assert(celo(perei,'pere.0i','遇难[yù nàn],遇難[yù nàn]')).
+assert(celo(perei,'pere.0i','陨命[yǔn mìng],隕命[yǔn mìng]')).
+assert(celo(pereiga,'pere.0iga','災難[zāi nàn],灾难[zāi nàn]')).
+assert(celo(pereigi,'pere.0igi','损毁[sǔn huǐ],損毀[sǔn huǐ]')).
+assert(celo(pereigi,'pere.0igi','摧残[cuī cán],摧殘[cuī cán]')).
+assert(celo(pereigi,'pere.0igi','残[cán],殘[cán]')).
+assert(celo(pereigi,'pere.0igi','毀滅[huǐ miè],毁灭[huǐ miè]')).
+assert(celo(pereigi,'pere.0igi','偾[fèn],僨[fèn]')).
+assert(celo(pereigi,'pere.0igi','摧毀[cuī huǐ],摧毁[cuī huǐ]')).
+assert(celo(pereigi,'pere.0igi','殄[tiǎn]')).
+assert(celo(pereigi,'pere.0igi','残害[cán hài],殘害[cán hài]')).
+assert(celo(pereigi,'pere.0igi','歼[jiān],殲[jiān]')).
+assert(celo(pereigi,'pere.0igi','毀壞[huǐ huài],毁坏[huǐ huài]')).
+assert(celo(forperei,'pere.for0i','寂滅[jì miè],寂灭[jì miè]')).
+assert(celo(forperei,'pere.for0i','死絕[sǐ jué],死绝[sǐ jué]')).
+assert(celo(forperei,'pere.for0i','熄滅[xī miè],熄灭[xī miè]')).
+assert(celo(ŝippereo,'pere.sxip0o','沉船[chén chuán]')).
+assert(celo(ŝippereo,'pere.sxip0o','遇难船[yù nán chuán],遇難船[yù nán chuán]')).
+assert(celo(perfekta,'perfek.0a','十全十美[shí quán shí měi]')).
+assert(celo(perfekta,'perfek.0a','完備[wán bèi],完备[wán bèi]')).
+assert(celo(perfekta,'perfek.0a','完美[wán měi]')).
+assert(celo(perfekta,'perfek.0a','理想[lǐ xiǎng]')).
+assert(celo(perfekta,'perfek.0a','十全[shí quán]')).
+assert(celo(perfekta,'perfek.0a','完善[wán shàn]')).
+assert(celo(perfekta,'perfek.0a','完美无缺[wán měi wú quē],完美無缺[wán měi wú quē]')).
+assert(celo(perfekta,'perfek.0a','大備[dà bèi],大备[dà bèi]')).
+assert(celo(perfida,'perfid.0a','口蜜腹剑[kǒu mì fù jiàn],口蜜腹劍[kǒu mì fù jiàn]')).
+assert(celo(perfida,'perfid.0a','奸猾[jiān huá]')).
+assert(celo(perfidi,'perfid.0i','背叛[bèi pàn]')).
+assert(celo(perfidi,'perfid.0i','叛[pàn]')).
+assert(celo(perfidi,'perfid.0i','叛卖[pàn mài],叛賣[pàn mài]')).
+assert(celo(perfidi,'perfid.0i','泄密[xiè mì]')).
+assert(celo(perfido,'perfid.0o','出卖[chū mài],出賣[chū mài]')).
+assert(celo(perfido,'perfid.0o','变节[biàn jié],變節[biàn jié]')).
+assert(celo(perfido,'perfid.0o','奸詐[jiān zhà],奸诈[jiān zhà]')).
+assert(celo(perfidulo,'perfid.0ulo','叛徒[pàn tú]')).
+assert(celo(perfidulo,'perfid.0ulo','宄[guǐ]')).
+assert(celo(perfidulo,'perfid.0ulo','奸[jiān],姦[jiān]')).
+assert(celo(perfidulo,'perfid.0ulo','逆[nì]')).
+assert(celo(perfidulo,'perfid.0ulo','奸[jiān]')).
+assert(celo(perfidulo,'perfid.0ulo','背叛者[bèi pàn zhě]')).
+assert(celo(perfidulo,'perfid.0ulo','汉奸[hàn jiān],漢奸[hàn jiān]')).
+assert(celo(perfidulo,'perfid.0ulo','二鬼子[èr guǐ zi]')).
+assert(celo(elperfidi,'perfid.el0i','泄密[xiè mì]')).
+assert(celo(ŝtatperfido,'perfid.sxtat0o','叛国罪[pàn guó zuì],叛國罪[pàn guó zuì]')).
+assert(celo(ŝtatperfido,'perfid.sxtat0o','謀叛[móu pàn],谋叛[móu pàn]')).
+assert(celo(ŝtatperfido,'perfid.sxtat0o','內亂罪[nèi luàn zuì],内乱罪[nèi luàn zuì]')).
+assert(celo(ŝtatperfido,'perfid.sxtat0o','叛国[pàn guó],叛國[pàn guó]')).
+assert(celo(pergameno,'pergam.0o','羊皮紙[yáng pí zhǐ],羊皮纸[yáng pí zhǐ]')).
+assert(celo(pergameno,'pergam.0o','羊皮紙文件[yáng pí zhǐ wén jiàn],羊皮纸文件[yáng pí zhǐ wén jiàn]')).
+assert(celo(pergameno,'pergam.0o','羊皮卷[yáng pí juàn],羊皮捲[yáng pí juàn]')).
+assert(celo(peridoto,'peridot.0o','橄榄石[gǎn lǎn shí],橄欖石[gǎn lǎn shí]')).
+assert(celo(periferia,'perife.0a','外围[wài wéi],外圍[wài wéi]')).
+assert(celo(periferio,'perife.0o','周边[zhōu biān],周邊[zhōu biān]')).
+assert(celo(periferio,'perife.0o','外围[wài wéi],外圍[wài wéi]')).
+assert(celo(periferio,'perife.0o','周边[zhōu biān],週邊[zhōu biān]')).
+assert(celo(perigeo,'perige.0o','近地点[jìn dì diǎn],近地點[jìn dì diǎn]')).
+assert(celo(perihelio,'perihe.0o','近日点[jìn rì diǎn],近日點[jìn rì diǎn]')).
+assert(celo(perikardo,'perika.0o','心包[xīn bāo]')).
+assert(celo(perikarpo,'perika1.0o','果皮[guǒ pí]')).
+assert(celo(perimetro,'perime.0o','周長[zhōu cháng],周长[zhōu cháng]')).
+assert(celo(perineo,'perine.0o','会阴[huì yīn],會陰[huì yīn]')).
+assert(celo(periodaĵo,'period.0ajxo','期刊[qī kān]')).
+assert(celo('Perioda tabelo','period.0atabelo','元素周期表[yuán sù zhōu qī biǎo],元素週期表[yuán sù zhōu qī biǎo]')).
+assert(celo('Perioda tabelo','period.0atabelo','周期表[zhōu qī biǎo],週期表[zhōu qī biǎo]')).
+assert(celo(periodo,'period.0o','周期[zhōu qī],週期[zhōu qī]')).
+assert(celo(periodo,'period.0o','期[qī]')).
+assert(celo(periodo,'period.0o','期間[qī jiān],期间[qī jiān]')).
+assert(celo(periodo,'period.0o','时期[shí qī],時期[shí qī]')).
+assert(celo(periodo,'period.0o','时代[shí dài],時代[shí dài]')).
+assert(celo(periodo,'period.0o','历时[lì shí],歷時[lì shí]')).
+assert(celo(periodo,'period.0o','阵子[zhèn zi],陣子[zhèn zi]')).
+assert(celo(mandatperiodo,'period.mandat0o','任期[rèn qī]')).
+assert(celo(peripetio,'peripeti.0o','轉折點[zhuǎn zhé diǎn],转折点[zhuǎn zhé diǎn]')).
+assert(celo(peripetio,'peripeti.0o','契机[qì jī],契機[qì jī]')).
+assert(celo(peripetio,'peripeti.0o','轉捩點[zhuǎn liè diǎn],转捩点[zhuǎn liè diǎn]')).
+assert(celo(periskopo,'perisk.0o','潛望鏡[qián wàng jìng],潜望镜[qián wàng jìng]')).
+assert(celo(peritoneo,'perito.0o','腹膜[fù mó]')).
+assert(celo(peritoneo,'perito.0o','腹膜[fù mò]')).
+assert(celo(perko,'perk.0o.KOMUNE','魣[yú]')).
+assert(celo(perko,'perk.0o.KOMUNE','鮊[bó],鲌[bó]')).
+assert(celo(perko,'perk.0o.KOMUNE','鱸[lú],鲈[lú]')).
+assert(celo(perko,'perk.0o.KOMUNE','鱸魚[lú yú],鲈鱼[lú yú]')).
+assert(celo(perkoformaj,'perk.0oformaj','鱸形目[lú xíng mù],鲈形目[lú xíng mù]')).
+assert(celo(perknoptero,'perknopter.0o','白兀鷲[bái wù jiù],白兀鹫[bái wù jiù]')).
+assert(celo(perlo,'perl.0o','珠[zhū]')).
+assert(celo(perlo,'perl.0o','珠子[zhū zi]')).
+assert(celo(perlo,'perl.0o','珍珠[zhēn zhū]')).
+assert(celo(perlo,'perl.0o','璸[bīn]')).
+assert(celo(perlo,'perl.0o','明珠[míng zhū]')).
+assert(celo(perlo,'perl.0o','玭[pín]')).
+assert(celo(perlamoto,'perlam.0o','珧[yáo]')).
+assert(celo(perlamoto,'perlam.0o','瑤[yáo],瑶[yáo]')).
+assert(celo(perlamoto,'perlam.0o','珠母貝[zhū mǔ bèi],珠母贝[zhū mǔ bèi]')).
+assert(celo(permafrosto,'permafrost.0o','冻土[dòng tǔ],凍土[dòng tǔ]')).
+assert(celo(permafrosto,'permafrost.0o','多年冻土[duō nián dòng tǔ],多年凍土[duō nián dòng tǔ]')).
+assert(celo(permafrosto,'permafrost.0o','永冻土[yǒng dòng tǔ],永凍土[yǒng dòng tǔ]')).
+assert(celo(permafrosto,'permafrost.0o','永冻冰[yǒng dòng bīng],永凍冰[yǒng dòng bīng]')).
+assert(celo(permanenta,'permanent.0a','常任[cháng rèn]')).
+assert(celo(permanenta,'permanent.0a','恆[héng],恒[héng]')).
+assert(celo(permanenta,'permanent.0a','持久[chí jiǔ]')).
+assert(celo(permanenta,'permanent.0a','永久性[yǒng jiǔ xìng]')).
+assert(celo(permanenta,'permanent.0a','永久[yǒng jiǔ]')).
+assert(celo(permanenta,'permanent.0a','常住[cháng zhù]')).
+assert(celo(permeabla,'permeabl.0a','透水[tòu shuǐ]')).
+assert(celo(permesema,'permes.0ema','宽容[kuān róng],寬容[kuān róng]')).
+assert(celo(permesi,'permes.0i','允許[yǔn xǔ],允许[yǔn xǔ]')).
+assert(celo(permesi,'permes.0i','准許[zhǔn xǔ],准许[zhǔn xǔ]')).
+assert(celo(permesi,'permes.0i','許可[xǔ kě],许可[xǔ kě]')).
+assert(celo(permesi,'permes.0i','允[yǔn]')).
+assert(celo(permesi,'permes.0i','准[zhǔn],準[zhǔn]')).
+assert(celo(permesi,'permes.0i','准予[zhǔn yǔ]')).
+assert(celo(permesi,'permes.0i','容許[róng xǔ],容许[róng xǔ]')).
+assert(celo(permesi,'permes.0i','許[xǔ],许[xǔ]')).
+assert(celo(permesi,'permes.0i','开许[kāi xǔ],開許[kāi xǔ]')).
+assert(celo(permesi,'permes.0i','应许[yīng xǔ],應許[yīng xǔ]')).
+assert(celo(permesilo,'permes.0ilo','執照[zhí zhào],执照[zhí zhào]')).
+assert(celo(permesilo,'permes.0ilo','許可證[xǔ kě zhèng],许可证[xǔ kě zhèng]')).
+assert(celo(permesilo,'permes.0ilo','許可[xǔ kě],许可[xǔ kě]')).
+assert(celo(permesilo,'permes.0ilo','牌照[pái zhào]')).
+assert(celo(permeso,'permes.0o','准許[zhǔn xǔ],准许[zhǔn xǔ]')).
+assert(celo(permeso,'permes.0o','許可[xǔ kě],许可[xǔ kě]')).
+assert(celo(permeso,'permes.0o','許可證[xǔ kě zhèng],许可证[xǔ kě zhèng]')).
+assert(celo(permeso,'permes.0o','允准[yǔn zhǔn]')).
+assert(celo(elirmalpermeso,'permes.elirmal0o','禁止外出[jìn zhǐ wài chū]')).
+assert(celo(elirmalpermeso,'permes.elirmal0o','宵禁[xiāo jìn]')).
+assert(celo(elirmalpermeso,'permes.elirmal0o','禁夜[jìn yè]')).
+assert(celo(stirpermesilo,'permes.konduk0ilo','駕照[jià zhào],驾照[jià zhào]')).
+assert(celo(stirpermesilo,'permes.konduk0ilo','駕駛證[jià shǐ zhèng],驾驶证[jià shǐ zhèng]')).
+assert(celo(stirpermesilo,'permes.konduk0ilo','駕駛執照[jià shǐ zhí zhào],驾驶执照[jià shǐ zhí zhào]')).
+assert(celo(stirpermesilo,'permes.konduk0ilo','驾驶执照[jia shi zhí zhào]')).
+assert(celo(malpermesi,'permes.mal0i','禁[jìn]')).
+assert(celo(malpermesi,'permes.mal0i','不准[bù zhǔn]')).
+assert(celo(malpermesi,'permes.mal0i','禁止[jìn zhǐ]')).
+assert(celo(malpermesi,'permes.mal0i','禁制[jìn zhì]')).
+assert(celo(malpermesi,'permes.mal0i','取締[qǔ dì],取缔[qǔ dì]')).
+assert(celo(permio,'permi.0o','二迭紀[èr dié jì],二迭纪[èr dié jì]')).
+assert(celo(permio,'permi.0o','二叠纪[Àr dié jì],二疊紀[Àr dié jì]')).
+assert(celo(permio,'permi.0o','二迭紀[Àr dié jì],二迭纪[Àr dié jì]')).
+assert(celo(permutaĵo,'permut.0ajxo','置换[zhì huàn],置換[zhì huàn]')).
+assert(celo(permuti,'permut.0i','置换[zhì huàn],置換[zhì huàn]')).
+assert(celo(permuto,'permut.0o.bijekcio','置换[zhì huàn],置換[zhì huàn]')).
+assert(celo(perpendiklo,'perpen.0o','竖[shù],豎[shù]')).
+assert(celo(perpendikulara,'perpen1.0a','垂直[chuí zhí]')).
+assert(celo(perpendikulara,'perpen1.0a','相垂直的[xiāng chuí zhí de]')).
+assert(celo(perpendikulara,'perpen1.0a','竖[shù],豎[shù]')).
+assert(celo(perpendikulara,'perpen1.0a','立式[lì shì]')).
+assert(celo(perpendikulara,'perpen1.0a','縱[zōng],纵[zōng]')).
+assert(celo(perpendikulara,'perpen1.0a','鉛垂的[qiān chuí de],铅垂的[qiān chuí de]')).
+assert(celo(perpendikulara,'perpen1.0a','頂點的[dǐng diǎn de],顶点的[dǐng diǎn de]')).
+assert(celo(perpendikularo,'perpen1.0o','垂線[chuí xiàn],垂线[chuí xiàn]')).
+assert(celo(perpendikularo,'perpen1.0o','竖[shù],豎[shù]')).
+assert(celo(perpleksa,'perple.0a','裴回[péi huí]')).
+assert(celo(perpleksa,'perple.0a','手足无措[shǒu zú wú cuò],手足無措[shǒu zú wú cuò]')).
+assert(celo(perpleksiĝi,'perple.0igxi','沉不住气[chén bù zhù qì],沉不住氣[chén bù zhù qì]')).
+assert(celo(perpleksiĝi,'perple.0igxi','迷惘[mí wǎng]')).
+assert(celo(perplekso,'perple.0o','大恐慌[dài kǒng huāng]')).
+assert(celo(persa,'pers.0a','帕西[Pà xī]')).
+assert(celo(persa,'pers.0a','波斯語[Bō sī yǔ],波斯语[Bō sī yǔ]')).
+assert(celo(perso,'pers.0o','波斯人[bō sī rén]')).
+assert(celo('Persio','pers.P0io','波斯[Bō sī]')).
+assert(celo('Persujo','pers.P0ujo','波斯[Bō sī]')).
+assert(celo('Perseo','perse.0o','英仙座[Yīng xiān zuò]')).
+assert(celo('Perseo','perse.0o','英仙座[yīng xiān zuò]')).
+assert(celo(persekuti,'persek.0i','廹[pò],迫[pò]')).
+assert(celo(persekuti,'persek.0i','迫害[pò hài]')).
+assert(celo(persiko,'persik.0o','桃子[táo zi]')).
+assert(celo(persiko,'persik.0o','桃[táo]')).
+assert(celo(persiko,'persik.0o','桃树[táo shù],桃樹[táo shù]')).
+assert(celo(persiko,'persik.0o','油桃[yóu táo]')).
+assert(celo(persimono,'persimon.0o','柿[shì]')).
+assert(celo(persimonujo,'','柿子[shì zi]')).
+assert(celo(persistema,'persis.0ema','坚韧[jiān rèn],堅韌[jiān rèn]')).
+assert(celo(persistema,'persis.0ema','坚持不懈[jiān chí bù xiè],堅持不懈[jiān chí bù xiè]')).
+assert(celo(persistema,'persis.0ema','毅[yì]')).
+assert(celo(persistema,'persis.0ema','恆心[héng xīn],恒心[héng xīn]')).
+assert(celo(persistema,'persis.0ema','坚毅[jiān yì],堅毅[jiān yì]')).
+assert(celo(persisti,'persis.0i','持久[chí jiǔ]')).
+assert(celo(persisti,'persis.0i','坚执[jiān zhí],堅執[jiān zhí]')).
+assert(celo(persisti,'persis.0i','持續[chí xù],持续[chí xù]')).
+assert(celo(persisto,'persis.0o','恒[héng]')).
+assert(celo(persisto,'persis.0o','毅力[yì lì]')).
+assert(celo(persisto,'persis.0o','有恆[yǒu héng],有恒[yǒu héng]')).
+assert(celo(persisto,'persis.0o','恆心[héng xīn],恒心[héng xīn]')).
+assert(celo(persisto,'persis.0o','毅[yì]')).
+assert(celo(persisto,'persis.0o','韌勁[rèn jìn],韧劲[rèn jìn]')).
+assert(celo(persisto,'persis.0o','坚毅[jiān yì],堅毅[jiān yì]')).
+assert(celo(persisto,'persis.0o','忍耐力[rěn nài lì]')).
+assert(celo(persisto,'persis.0o','耐力[nài lì]')).
+assert(celo(persisto,'persis.0o','余辉[yú huī],餘輝[yú huī]')).
