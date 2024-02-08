@@ -1943,3 +1943,164 @@ assert(celo(persisto,'persis.0o','坚毅[jiān yì],堅毅[jiān yì]')).
 assert(celo(persisto,'persis.0o','忍耐力[rěn nài lì]')).
 assert(celo(persisto,'persis.0o','耐力[nài lì]')).
 assert(celo(persisto,'persis.0o','余辉[yú huī],餘輝[yú huī]')).
+assert(celo(persona,'person.0a','自己[zì jǐ]')).
+assert(celo(persona,'person.0a','私[sī]')).
+assert(celo(persona,'person.0a','私人[sī rén]')).
+assert(celo(persona,'person.0a','亲身[qīn shēn],親身[qīn shēn]')).
+assert(celo(persona,'person.0a','人身[rén shēn]')).
+assert(celo(personaĵo,'person.0ajxo.trajto','气质[qì zhì],氣質[qì zhì]')).
+assert(celo(personaĵo,'person.0ajxo.trajto','特質[tè zhì],特质[tè zhì]')).
+assert(celo(personaro,'person.0aro','一群人[yī qún rén]')).
+assert(celo(persone,'person.0e','亲自[qīn zì],親自[qīn zì]')).
+assert(celo(personeco,'person.0eco','人士[rén shì]')).
+assert(celo(personeco,'person.0eco','个性[gè xìng],個性[gè xìng]')).
+assert(celo(personeco,'person.0eco','人格[rén gé]')).
+assert(celo(personigo,'person.0igo','拟人[nǐ rén],擬人[nǐ rén]')).
+assert(celo(persono,'person.0o','庈[qín]')).
+assert(celo(persono,'person.0o','员[yuán],員[yuán]')).
+assert(celo('jura persono','person.jura0o','法人[fǎ rén]')).
+assert(celo('jura persono','person.jura0o','企业法人[qì yè fǎ rén],企業法人[qì yè fǎ rén]')).
+assert(celo('jura persono','person.jura0o','法人实体[fǎ rén shí tǐ],法人實體[fǎ rén shí tǐ]')).
+assert(celo('natura persono','person.natura0o','自然人[zì rán rén]')).
+assert(celo(perspektivo,'perspe.0o','前景[qián jǐng]')).
+assert(celo(perspektivo,'perspe.0o','透視[tòu shì],透视[tòu shì]')).
+assert(celo(perspektivo,'perspe.0o','方面[fāng miàn]')).
+assert(celo(perspektivo,'perspe.0o','視角[shì jiǎo],视角[shì jiǎo]')).
+assert(celo(perspektivo,'perspe.0o','远景[yuǎn jǐng],遠景[yuǎn jǐng]')).
+assert(celo(longperspektiva,'perspe.long0a.FIG','远期[yuǎn qī],遠期[yuǎn qī]')).
+assert(celo(longperspektiva,'perspe.long0a.FIG','長線[cháng xiàn],长线[cháng xiàn]')).
+assert(celo(longperspektiva,'perspe.long0a.FIG','長期[cháng qī],长期[cháng qī]')).
+assert(celo(longperspektiva,'perspe.long0a.FIG','長遠[cháng yuǎn],长远[cháng yuǎn]')).
+assert(celo(longperspektiva,'perspe.long0a.FIG','長期有效[cháng qī yǒu xiào],长期有效[cháng qī yǒu xiào]')).
+assert(celo(mallongperspektiva,'perspe.mallong0a.FIG','短期內[duǎn qī nèi],短期内[duǎn qī nèi]')).
+assert(celo(mallongperspektiva,'perspe.mallong0a.FIG','短时间[duǎn shí jiān],短時間[duǎn shí jiān]')).
+assert(celo(mallongperspektiva,'perspe.mallong0a.FIG','短期[duǎn qī]')).
+assert(celo(persvadi,'persva.0i','說服[shuō fú],说服[shuō fú]')).
+assert(celo(persvadi,'persva.0i','劝[quàn],勸[quàn]')).
+assert(celo(persvadi,'persva.0i','相劝[xiāng quàn],相勸[xiāng quàn]')).
+assert(celo(persvadi,'persva.0i','說[shuì],说[shuì]')).
+assert(celo(persvadi,'persva.0i','說動[shuō dòng],说动[shuō dòng]')).
+assert(celo(persvadi,'persva.0i','折服[zhé fú]')).
+assert(celo(persvadi,'persva.0i','說通[shuō tōng],说通[shuō tōng]')).
+assert(celo('Perto','pert.0o','帕斯[Pà sī]')).
+assert(celo('Perto','pert.0o','珀斯[Pò sī]')).
+assert(celo(perturbi,'pertur.0i','扰乱[rǎo luàn],擾亂[rǎo luàn]')).
+assert(celo(perturbi,'pertur.0i','打扰[dǎ rǎo],打擾[dǎ rǎo]')).
+assert(celo(perturbi,'pertur.0i','干扰[gān rǎo],干擾[gān rǎo]')).
+assert(celo(perturbi,'pertur.0i','碍[ài],礙[ài]')).
+assert(celo(perturbi,'pertur.0i','扰[rǎo],擾[rǎo]')).
+assert(celo(perturbiĝi,'pertur.0igxi','七上八下[qī shàng bā xià]')).
+assert(celo(perturbo,'pertur.0o','扰乱[rǎo luàn],擾亂[rǎo luàn]')).
+assert(celo(perturbo,'pertur.0o','風波[fēng bō],风波[fēng bō]')).
+assert(celo(perturbo,'pertur.0o','干涉[gān shè]')).
+assert(celo(perturbo,'pertur.0o','騷動[sāo dòng],骚动[sāo dòng]')).
+assert(celo(peruano,'peru.0ano','秘魯人[bì lǔ rén],秘鲁人[bì lǔ rén]')).
+assert(celo('Peruo','peru.P0o','秘魯[Bì lǔ],秘鲁[Bì lǔ]')).
+assert(celo(peruko,'peruk.0o','假发[jiǎ fà],假髮[jiǎ fà]')).
+assert(celo(peruko,'peruk.0o','鬄[dí]')).
+assert(celo(peruko,'peruk.0o','髲[pì]')).
+assert(celo(peruko,'peruk.0o','头套[tóu tào],頭套[tóu tào]')).
+assert(celo(perversa,'perver.0a','倒錯[dào cuò],倒错[dào cuò]')).
+assert(celo(perversa,'perver.0a','死变态[sǐ biàn tài],死變態[sǐ biàn tài]')).
+assert(celo(pesi,'pes.0i.pezon','称重[chēng zhòng],稱重[chēng zhòng]')).
+assert(celo(pesi,'pes.0i.pezon','权衡[quán héng],權衡[quán héng]')).
+assert(celo(pesi,'pes.0i.pezon','称定[chèn dìng],稱定[chèn dìng]')).
+assert(celo(pesi,'pes.0i.pezon','敪[duó]')).
+assert(celo(pesi,'pes.0i.pezon','衡[héng]')).
+assert(celo(pesi,'pes.0i.pezon','称出[chèn chū],稱出[chèn chū]')).
+assert(celo(pesi,'pes.0i.pezon','衡量[héng liáng]')).
+assert(celo(pesi,'pes.0i.valoron','权衡[quán héng],權衡[quán héng]')).
+assert(celo(pesi,'pes.0i.valoron','衡量[héng liáng]')).
+assert(celo(pesi,'pes.0i.valoron','估值[gū zhí]')).
+assert(celo(pesi,'pes.0i.valoron','估产[gū chǎn],估產[gū chǎn]')).
+assert(celo(pesi,'pes.0i.valoron','加权[jiā quán],加權[jiā quán]')).
+assert(celo(pesi,'pes.0i.valoron','推敲[tuī qiāo]')).
+assert(celo(pesi,'pes.0i.valoron','斟酌[zhēn zhuó]')).
+assert(celo(pesilo,'pes.0ilo','天平[tiān píng]')).
+assert(celo(pesilo,'pes.0ilo','衡器[héng qì]')).
+assert(celo('Pesilo','pes.P0ilo','天秤座[Tiān chèng zuò]')).
+assert(celo(pesario,'pesari.0o','子宫托[zǐ gōng tuō],子宮托[zǐ gōng tuō]')).
+assert(celo(peseto,'peset.0o','比塞塔[bǐ sāi tǎ]')).
+assert(celo(pesimisto,'pesimi.0o','厌世者[yàn shì zhě],厭世者[yàn shì zhě]')).
+assert(celo(pesimisto,'pesimi.0o','悲觀主義者[bēi guān zhǔ yì zhě],悲观主义者[bēi guān zhǔ yì zhě]')).
+assert(celo(pesimisto,'pesimi.0o','悲觀論者[bēi guān lùn zhě],悲观论者[bēi guān lùn zhě]')).
+assert(celo(pesimisto,'pesimi.0o','忧时之士[yōu shí zhī shì],憂時之士[yōu shí zhī shì]')).
+assert(celo(pesimismo,'pesimi1.0o','悲觀主義[bēi guān zhǔ yì],悲观主义[bēi guān zhǔ yì]')).
+assert(celo(pesto,'pest.0o','疠[lì],癘[lì]')).
+assert(celo(pesto,'pest.0o','腺鼠疫[xiàn shǔ yì]')).
+assert(celo(pesticido,'pesticid.0o','农药[nóng yào],農藥[nóng yào]')).
+assert(celo(pesticido,'pesticid.0o','杀虫剂[shā chóng jì],殺蟲劑[shā chóng jì]')).
+assert(celo(pesticido,'pesticid.0o','化学杀虫剂[huà xué shā chóng jì],化學殺蟲劑[huà xué shā chóng jì]')).
+assert(celo('Peŝavaro','pesxavar.0','白沙瓦[Bái shā wǎ]')).
+assert(celo(petegi,'pet.0egi','祷[dǎo],禱[dǎo]')).
+assert(celo(petegi,'pet.0egi','乞求[qǐ qiú]')).
+assert(celo(petegi,'pet.0egi','恳求[kěn qiú],懇求[kěn qiú]')).
+assert(celo(petegi,'pet.0egi','央告[yāng gào]')).
+assert(celo(peto,'pet.0o','請願[qǐng yuàn],请愿[qǐng yuàn]')).
+assert(celo(forpeti,'pet.for0i','請假[qǐng jià],请假[qǐng jià]')).
+assert(celo(petalo,'petal.0o','花瓣[huā bàn]')).
+assert(celo(petalo,'petal.0o','瓣[bàn]')).
+assert(celo(petardo,'petard.0o','鞭炮[biān pào]')).
+assert(celo(petardo,'petard.0o','炮仗[pào zhang]')).
+assert(celo(petardo,'petard.0o','炮竹[pào zhú]')).
+assert(celo(petardo,'petard.0o','爆竹[bào zhú]')).
+assert(celo(petardo,'petard.0o','爆仗[bào zhang]')).
+assert(celo(petazito,'petazit.0o','苳[dōng]')).
+assert(celo('Sankt-Peterburgo','peterburg.0o','彼得堡[Bǐ dé bǎo]')).
+assert(celo('Sankt-Peterburgo','peterburg.0o','圣彼得堡[Shèng bǐ dé bǎo],聖彼得堡[Shèng bǐ dé bǎo]')).
+assert(celo(peticio,'petici.0o','申請書[shēn qǐng shū],申请书[shēn qǐng shū]')).
+assert(celo(peticio,'petici.0o','請願[qǐng yuàn],请愿[qǐng yuàn]')).
+assert(celo(peticio,'petici.0o','請願書[qǐng yuàn shū],请愿书[qǐng yuàn shū]')).
+assert(celo(peticio,'petici.0o','恳求[kěn qiú],懇求[kěn qiú]')).
+assert(celo(peticio,'petici.0o','书面申请[shū miàn shēn qǐng],書面申請[shū miàn shēn qǐng]')).
+assert(celo(petiolo,'petiol.0o','叶柄[yè bǐng],葉柄[yè bǐng]')).
+assert(celo(petolema,'petol.0ema','輕窕[qīng tiǎo],轻窕[qīng tiǎo]')).
+assert(celo(petoli,'petol.0i','嬉戏[xī xì],嬉戲[xī xì]')).
+assert(celo(petoli,'petol.0i','說著玩[shuō zhe wán],说着玩[shuō zhe wán]')).
+assert(celo('Pedro','petr.0o.NOM','彼得[Bǐ dé]')).
+assert(celo(petro,'petr1.0o.rokajxo','石[shí]')).
+assert(celo(petrolo,'petrol.0o','石油[shí yóu]')).
+assert(celo('Organizaĵo de Petrol-Eksportaj Landoj','petrol.Org0oEkspLandoj','欧佩克[Āu pèi kè],歐佩克[Āu pèi kè]')).
+assert(celo('Organizaĵo de Petrol-Eksportaj Landoj','petrol.Org0oEkspLandoj','石油輸出國組織[Shí yóu Shū chū guó Zǔ zhī],石油输出国组织[Shí yóu Shū chū guó Zǔ zhī]')).
+assert(celo(petromizo,'petrom.0o','八目鰻[bā mù mán],八目鳗[bā mù mán]')).
+assert(celo(petroselo,'petros.0o','荷兰芹[hé lán qín],荷蘭芹[hé lán qín]')).
+assert(celo(petroselo,'petros.0o','欧芹[ōu qín],歐芹[ōu qín]')).
+assert(celo(petroselo,'petros.0o','洋芫荽[yáng yán sui]')).
+assert(celo(petroselo,'petros.0o','香芹[xiāng qín]')).
+assert(celo(peza,'pez.0a','繁重[fán zhòng]')).
+assert(celo(peza,'pez.0a','笨重[bèn zhòng]')).
+assert(celo(peza,'pez.0a','重[zhòng]')).
+assert(celo(pezaĵo,'pez.0ajxo','累贅[léi zhui],累赘[léi zhui]')).
+assert(celo(pezaĵo,'pez.0ajxo','負擔[fù dān],负担[fù dān]')).
+assert(celo(pezaĵo,'pez.0ajxo','負重[fù zhòng],负重[fù zhòng]')).
+assert(celo(pezaĵo,'pez.0ajxo','貨載量[huò zài liàng],货载量[huò zài liàng]')).
+assert(celo(pezaĵo,'pez.0ajxo','重物[chóng wù]')).
+assert(celo(pezi,'pez.0i','称重[chēng zhòng],稱重[chēng zhòng]')).
+assert(celo(pezilo,'pez.0ilo','分量[fèn liang]')).
+assert(celo(pezo,'pez.0o','重量[zhòng liàng]')).
+assert(celo(pezo,'pez.0o','斤两[jīn liǎng],斤兩[jīn liǎng]')).
+assert(celo(egalpezo,'pez.egal0o','平衡[píng héng]')).
+assert(celo(kontraŭpezi,'pez.kontraux0i','抗衡[kàng héng]')).
+assert(celo(kontraŭpezi,'pez.kontraux0i','抵消[dǐ xiāo]')).
+assert(celo(kontraŭpezi,'pez.kontraux0i','补偿[bǔ cháng],補償[bǔ cháng]')).
+assert(celo(kontraŭpezi,'pez.kontraux0i','补回[bǔ huí],補回[bǔ huí]')).
+assert(celo(kontraŭpezo,'pez.kontraux0o.KOMUNE','配重[pèi zhòng]')).
+assert(celo(kontraŭpezo,'pez.kontraux0o.KOMUNE','重鐵[zhòng tiě],重铁[zhòng tiě]')).
+assert(celo(kontraŭpezo,'pez.kontraux0o.KOMUNE','均势[jūn shì],均勢[jūn shì]')).
+assert(celo(kontraŭpezo,'pez.kontraux0o.KOMUNE','对重[duì zhòng],對重[duì zhòng]')).
+assert(celo(kontraŭpezo,'pez.kontraux0o.KOMUNE','平衡力[píng héng lì]')).
+assert(celo(kontraŭpezo,'pez.kontraux0o.KOMUNE','平衡物[píng héng wù]')).
+assert(celo(kontraŭpezo,'pez.kontraux0o.KOMUNE','平衡重[píng héng zhòng]')).
+assert(celo(kontraŭpezo,'pez.kontraux0o.KOMUNE','抗衡[kàng héng]')).
+assert(celo(kontraŭpezo,'pez.kontraux0o.KOMUNE','称锤[chèn chuí],稱錘[chèn chuí]')).
+assert(celo(malpeza,'pez.mal0a','輕[qīng],轻[qīng]')).
+assert(celo(malpeza,'pez.mal0a','輕型[qīng xíng],轻型[qīng xíng]')).
+assert(celo(malpezigi,'pez.mal0igi','心情輕鬆[xīn qíng qīng sōng],心情轻松[xīn qíng qīng sōng]')).
+assert(celo(malpezigi,'pez.mal0igi','减轻[jiǎn qīng],減輕[jiǎn qīng]')).
+assert(celo(multepeza,'pez.multe0a','沉甸甸[chén diàn diàn]')).
+assert(celo(pezigi,'','硾[zhuì]')).
+assert(celo(superpezi,'pez.super0i','劝服[quàn fú],勸服[quàn fú]')).
+assert(celo(plipezo,'pez.super0o','超重[chāo zhòng]')).
+assert(celo(pfenigo,'pfenig.0o','分尼[fēn ní]')).
+assert(celo(pfenigo,'pfenig.0o','芬尼[fēn ní]')).
+assert(celo(pia,'pi.0a','虔誠[qián chéng],虔诚[qián chéng]')).
