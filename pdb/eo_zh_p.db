@@ -2104,3 +2104,71 @@ assert(celo(plipezo,'pez.super0o','超重[chāo zhòng]')).
 assert(celo(pfenigo,'pfenig.0o','分尼[fēn ní]')).
 assert(celo(pfenigo,'pfenig.0o','芬尼[fēn ní]')).
 assert(celo(pia,'pi.0a','虔誠[qián chéng],虔诚[qián chéng]')).
+assert(celo(piano,'pian.0o','鋼琴[gāng qín],钢琴[gāng qín]')).
+assert(celo(pianolo,'pianol.0o','自动钢琴[zì dòng gāng qín],自動鋼琴[zì dòng gāng qín]')).
+assert(celo(picejo,'pic.0ejo','比萨店[bǐ sà diàn],比薩店[bǐ sà diàn]')).
+assert(celo(pico,'pic.0o','比萨饼[bǐ sà bǐng],比薩餅[bǐ sà bǐng]')).
+assert(celo(pico,'pic.0o','皮萨饼[pí sà bǐng],皮薩餅[pí sà bǐng]')).
+assert(celo(pico,'pic.0o','披萨[pī sà],披薩[pī sà]')).
+assert(celo('Pitsburgo','picburg.0o','匹兹堡[Pǐ zī bǎo],匹茲堡[Pǐ zī bǎo]')).
+assert(celo(piceo,'pice.0o','云杉[yún shān],雲杉[yún shān]')).
+assert(celo(piceo,'pice.0o','虎尾枞属的植物[hǔ wěi cōng shǔ de zhí wù],虎尾樅屬的植物[hǔ wěi cōng shǔ de zhí wù]')).
+retract(celo(piceo,'pice.0o','虎尾枞属的植物[hǔ wěi cōng shǔ de zhí wù],虎尾樅屬的植物[hǔ wěi cōng shǔ de zhí wù]')).
+assert(celo(piĉo,'picx.0o.ANA','淫穴[yín xué]')).
+assert(celo(piĉo,'picx.0o.ANA','蜜穴[mì xué]')).
+assert(celo(piedingo,'pied.0ingo','鐙[dèng],镫[dèng]')).
+assert(celo(piedingo,'pied.0ingo','馬鐙[mǎ dèng],马镫[mǎ dèng]')).
+assert(celo(piedo,'pied.0o','脚[jiǎo],腳[jiǎo]')).
+assert(celo(piede,'','步行[bù xíng]')).
+assert(celo('piede de','','麓[lù]')).
+assert(celo(kapopieduloj,'pied.kapo0uloj','头足纲[tóu zú gāng],頭足綱[tóu zú gāng]')).
+assert(celo(multpieduloj,'pied.mult0uloj','多足类[duō zú lèi],多足類[duō zú lèi]')).
+assert(celo(multpieduloj,'pied.mult0uloj','蜈[wú]')).
+assert(celo(nudapiede,'pied.nud0e','赤足[chì zú]')).
+assert(celo(nudapiede,'pied.nud0e','赤脚[chì jiǎo],赤腳[chì jiǎo]')).
+assert(celo(nudapiede,'pied.nud0e','跣[xiǎn]')).
+assert(celo(surpiediĝi,'pied.sur0igxi','立身[lì shēn]')).
+assert(celo(surpiediĝi,'pied.sur0igxi','起立[qǐ lì]')).
+assert(celo(surpiediĝi,'pied.sur0igxi','起來[qǐ lai],起来[qǐ lai]')).
+assert(celo(tripiedo,'pied.tri0o','三脚架[sān jiǎo jià],三腳架[sān jiǎo jià]')).
+assert(celo(tripiedo,'pied.tri0o','鼒[zī]')).
+assert(celo(piedestalo,'piedes.0o','座子[zuò zi]')).
+assert(celo(pietismo,'pietis.0o','虔信主義[qián xìn zhǔ yì]')).
+assert(celo(pietismo,'pietis.0o','虔信派[qián xìn pài]')).
+assert(celo(piga,'pig.0a.KOL','粉紅[fěn hóng],粉红[fěn hóng]')).
+assert(celo(pigo,'pig.0o','鵲[què],鹊[què]')).
+assert(celo(pigo,'pig.0o','喜鵲[xǐ què],喜鹊[xǐ què]')).
+retract(celo(piga,'pig.0a.KOL','粉紅[fěn hóng],粉红[fěn hóng]')).
+assert(celo(pigmeo,'pigme.0o','侏儒[zhū rú]')).
+assert(celo(pigmeo,'pigme.0o','俾格米[bǐ gé mǐ]')).
+assert(celo(pigmento,'pigment.0o','色素[sè sù]')).
+assert(celo(pigra,'pigr.0a','惰[duò]')).
+assert(celo(pigra,'pigr.0a','懒散[lǎn sǎn],懶散[lǎn sǎn]')).
+assert(celo(pigra,'pigr.0a','疏懒[shū lǎn],疏懶[shū lǎn]')).
+assert(celo(pigra,'pigr.0a','怠[dài]')).
+assert(celo(pigra,'pigr.0a','蔫[niān]')).
+assert(celo(pigro,'pigr.0o','懒散[lǎn sǎn],懶散[lǎn sǎn]')).
+assert(celo(piĝino,'pigxin.0o','皮欽語[pí qīn yǔ],皮钦语[pí qīn yǔ]')).
+assert(celo(piĵamo,'pijxam.0o','睡衣[shuì yī]')).
+assert(celo(piĵamo,'pijxam.0o','睡衣裤[shuì yī kù],睡衣褲[shuì yī kù]')).
+assert(celo(pika,'pik.0a.FIG','尖窄[jiān zhǎi]')).
+assert(celo(pika,'pik.0a.FIG','尖刻[jiān kè]')).
+assert(celo(pika,'pik.0a.FIG','尖銳[jiān ruì],尖锐[jiān ruì]')).
+assert(celo(piki,'pik.0i','扎[zhā],紥[zhā]')).
+assert(celo(piki,'pik.0i','挑逗[tiǎo dòu]')).
+assert(celo(piki,'pik.0i','挖苦[wā ku]')).
+assert(celo(piki,'pik.0i','揶揄[yé yú]')).
+assert(celo(piki,'pik.0i','逗惹[dòu rě]')).
+assert(celo(piki,'pik.0i','刺[cì]')).
+assert(celo(piki,'pik.0i','叮[dīng]')).
+assert(celo(piki,'pik.0i','戳[chuō]')).
+assert(celo(piko,'pik.0o.ago','剚[zì]')).
+assert(celo(piko,'pik.0o.ago','朿[cì]')).
+assert(celo(pikilo,'','刺[cì]')).
+assert(celo(pikstango,'pik.0stango','矛[máo]')).
+assert(celo(trapiki,'pik.tra0i','刺穿[cì chuān]')).
+assert(celo(trapiki,'pik.tra0i','砭[biān]')).
+assert(celo(pikniki,'piknik.0i','郊游[jiāo yóu],郊遊[jiāo yóu]')).
+assert(celo(pikniki,'piknik.0i','野餐[yě cān]')).
+assert(celo(pikniko,'piknik.0o','郊游[jiāo yóu],郊遊[jiāo yóu]')).
+assert(celo(pikniko,'piknik.0o','野餐[yě cān]')).
