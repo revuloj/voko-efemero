@@ -2172,3 +2172,236 @@ assert(celo(pikniki,'piknik.0i','郊游[jiāo yóu],郊遊[jiāo yóu]')).
 assert(celo(pikniki,'piknik.0i','野餐[yě cān]')).
 assert(celo(pikniko,'piknik.0o','郊游[jiāo yóu],郊遊[jiāo yóu]')).
 assert(celo(pikniko,'piknik.0o','野餐[yě cān]')).
+assert(celo(piktogramo,'piktogram.0o','象形[xiàng xíng]')).
+assert(celo(piktogramo,'piktogram.0o','象形符号[xiàng xíng fú hào],象形符號[xiàng xíng fú hào]')).
+assert(celo(pilo,'pil.0o','电池[diàn chí],電池[diàn chí]')).
+assert(celo(pilafo,'pilaf.0o','手抓飯[shǒu zhuā fàn],手抓饭[shǒu zhuā fàn]')).
+assert(celo(pilastro,'pilast.0o','壁柱[bì zhù]')).
+assert(celo(apogpilastro,'pilast.apog0o','支撐柱[zhī cheng zhù],支撑柱[zhī cheng zhù]')).
+assert(celo('Pilato','pilat.0o','本丟彼拉多[běn diū bǐ lā duō],本丢彼拉多[běn diū bǐ lā duō]')).
+assert(celo('Pilato','pilat.0o','般雀比拉多[Bān què Bǐ lā duō]')).
+assert(celo(pilgrimisto,'pilgri.0anto','朝圣者[cháo shèng zhě],朝聖者[cháo shèng zhě]')).
+assert(celo(pilgrimisto,'pilgri.0anto','香客[xiāng kè]')).
+assert(celo(pilgrimisto,'pilgri.0anto','朝拜[cháo bài]')).
+assert(celo(pilgrimado,'pilgri.0o','朝圣[cháo shèng],朝聖[cháo shèng]')).
+assert(celo(pilgrimi,'','朝圣[cháo shèng],朝聖[cháo shèng]')).
+assert(celo(piliero,'pilier.0o','支柱[zhī zhù]')).
+assert(celo(piliero,'pilier.0o','柱子[zhù zi]')).
+assert(celo(pilko,'pilk.0o','弹[dàn],彈[dàn]')).
+assert(celo(pilko,'pilk.0o','毬[qiú]')).
+assert(celo(pilko,'pilk.0o','球[qiú]')).
+assert(celo(flugpilkado,'pilk.flug0ado','排球比賽[pái qiú bǐ sài],排球比赛[pái qiú bǐ sài]')).
+assert(celo(flugpilkado,'pilk.flug0ado','排球[pái qiú]')).
+assert(celo(flugpilko,'pilk.flug0o','排球[pái qiú]')).
+assert(celo(korbopilkado,'pilk.korbo0ado','篮球[lán qiú],籃球[lán qiú]')).
+assert(celo(korbopilkado,'pilk.korbo0ado','打篮球[dǎ lán qiú],打籃球[dǎ lán qiú]')).
+assert(celo(korbopilko,'pilk.korbo0o','篮球[lán qiú],籃球[lán qiú]')).
+assert(celo(manpilkado,'pilk.man0ado','手球[shǒu qiú]')).
+assert(celo(manpilko,'pilk.man0o','手球[shǒu qiú]')).
+assert(celo(piedpilkado,'pilk.pied0ado','最显著的位置[zuì xiǎn zhù de wèi zhì],最顯著的位置[zuì xiǎn zhù de wèi zhì]')).
+assert(celo(piedpilkado,'pilk.pied0ado','足球賽[zú qiú sài],足球赛[zú qiú sài]')).
+assert(celo(piedpilkado,'pilk.pied0ado','英式足球[yīng shì zú qiú]')).
+assert(celo(piedpilko,'pilk.pied0o','最显著的位置[zuì xiǎn zhù de wèi zhì],最顯著的位置[zuì xiǎn zhù de wèi zhì]')).
+assert(celo(piedpilko,'pilk.pied0o','英式足球[yīng shì zú qiú]')).
+assert(celo(pilolo,'pilol.0o','丸[wán]')).
+assert(celo(pilolo,'pilol.0o','药丸[yào wán],藥丸[yào wán]')).
+assert(celo(pilorio,'pilori.0o','刑柱[xíng zhù]')).
+assert(celo(pilorio,'pilori.0o','恥辱柱[chǐ rù zhù],耻辱柱[chǐ rù zhù]')).
+assert(celo(pilorio,'pilori.0o','頸手迦[jǐng shǒu jiā],颈手迦[jǐng shǒu jiā]')).
+assert(celo(pilotejo,'pilot.0ejo','駕駛艙[jià shǐ cāng],驾驶舱[jià shǐ cāng]')).
+assert(celo(piloto,'pilot.0o','飛機師[fēi jī shī],飞机师[fēi jī shī]')).
+assert(celo(piloto,'pilot.0o','駕駛員[jià shǐ yuán],驾驶员[jià shǐ yuán]')).
+assert(celo(piloto,'pilot.0o','机长[jī zhǎng],機長[jī zhǎng]')).
+assert(celo(piloto,'pilot.0o','飛行員[fēi xíng yuán],飞行员[fēi xíng yuán]')).
+assert(celo(piloti,'','带路[dài lù],帶路[dài lù]')).
+assert(celo(piloti,'','駕駛[jià shǐ],驾驶[jià shǐ]')).
+assert(celo(pimento,'piment.0o.KUI','多香果[duō xiāng guǒ]')).
+assert(celo(pimpa,'pimp.0a','整洁地[zhěng jié de],整潔地[zhěng jié de]')).
+assert(celo(pimpa,'pimp.0a','小巧玲珑[xiǎo qiǎo líng lóng],小巧玲瓏[xiǎo qiǎo líng lóng]')).
+assert(celo(pimpa,'pimp.0a','有型[yǒu xíng]')).
+assert(celo(pimpa,'pimp.0a','預科生[yù kē shēng],预科生[yù kē shēng]')).
+assert(celo(pimpa,'pimp.0a','矫健活泼地[jiǎo jiàn huó po de],矯健活潑地[jiǎo jiàn huó po de]')).
+assert(celo(pimpa,'pimp.0a','行駛自如[xíng shǐ zì rú],行驶自如[xíng shǐ zì rú]')).
+assert(celo(pimpa,'pimp.0a.KOMUNE','俏皮[qiào pi]')).
+assert(celo(pino,'pin.0o','松树[sōng shù],松樹[sōng shù]')).
+assert(celo(pino,'pin.0o','青松[qīng sōng]')).
+assert(celo(pino,'pin.0o','松[sōng]')).
+assert(celo(pinacoj,'pinac.0oj','松科[sōng kē]')).
+assert(celo(pinakoteko,'pinak.0o','画展[huà zhǎn],畫展[huà zhǎn]')).
+assert(celo(pinaklo,'pinakl.0o','极致[jí zhì],極致[jí zhì]')).
+assert(celo(pinaklo,'pinakl.0o','城垛[chéng duǒ]')).
+assert(celo(pinaklo,'pinakl.0o','女墙[nǚ qiáng],女牆[nǚ qiáng]')).
+assert(celo(pinaklo,'pinakl.0o','防卫墙[fáng wèi qiáng],防衛牆[fáng wèi qiáng]')).
+assert(celo(pinĉpreno,'pincx.0ajxo','捏[niē]')).
+assert(celo(pinĉi,'pincx.0i','鉗[qián],钳[qián]')).
+assert(celo(pinĉi,'pincx.0i','拧[níng],擰[níng]')).
+assert(celo(pinĉi,'pincx.0i','捏[niē]')).
+assert(celo(pinĉi,'pincx.0i','掐[qiā]')).
+assert(celo(pinĉi,'pincx.0i','搣[miè]')).
+assert(celo(pinĉi,'pincx.0i','鑷[niè],镊[niè]')).
+assert(celo(pinĉi,'pincx.0i','夹[jiā],夾[jiā]')).
+assert(celo(pinĉi,'pincx.0i','拑[qián]')).
+assert(celo(pinĉilo,'pincx.0ilo','鉗[qián],钳[qián]')).
+assert(celo(pinĉilo,'pincx.0ilo','鉗子[qián zi],钳子[qián zi]')).
+assert(celo(pinĉilo,'pincx.0ilo','螯[áo]')).
+assert(celo(tukpinĉilo,'pincx.tuk0ilo','夹子[jiā zi],夾子[jiā zi]')).
+assert(celo(pinglo,'pingl.0o','針[zhēn],针[zhēn]')).
+assert(celo(pinglo,'pingl.0o','机针[jī zhēn],機針[jī zhēn]')).
+assert(celo(pinglo,'pingl.0o','鍼[zhēn],针[zhēn]')).
+assert(celo(dentpinglo,'pingl.dent0o','牙签[yá qiān],牙籤[yá qiān]')).
+assert(celo(frizpinglo,'pingl.friz0o','卷发夹子[juǎn fà jiā zi],卷髮夾子[juǎn fà jiā zi]')).
+assert(celo(harpinglo,'pingl.har0o','釵[chāi],钗[chāi]')).
+assert(celo(harpinglo,'pingl.har0o','笄[jī]')).
+assert(celo(harpinglo,'pingl.har0o','簪[zān],簮[zān]')).
+assert(celo(harpinglo,'pingl.har0o','发簪[fà zān],髮簪[fà zān]')).
+assert(celo(harpinglo,'pingl.har0o','簪[zān]')).
+assert(celo(harpinglo,'pingl.har0o','头发夹子[tóu fà jiā zi],頭髮夾子[tóu fà jiā zi]')).
+assert(celo(pingveno,'pingve.0o','企鵝[qǐ é],企鹅[qǐ é]')).
+assert(celo(pingvino,'pingvi.0o','企鵝[qǐ é],企鹅[qǐ é]')).
+assert(celo(pinio,'pini.0o','松树[sōng shù],松樹[sōng shù]')).
+assert(celo(pinjato,'pinjat.0o','皮納塔[pí nà tǎ],皮纳塔[pí nà tǎ]')).
+assert(celo('Pinokjo','pinokj.0o','木偶奇遇記[mù ǒu qí yù jì],木偶奇遇记[mù ǒu qí yù jì]')).
+assert(celo(pinta,'pint.0a.FIG','极[jí],極[jí]')).
+assert(celo(pinta,'pint.0a.FIG','頂上[dǐng shàng],顶上[dǐng shàng]')).
+assert(celo(pinta,'pint.0a.FIG','頂尖級[dǐng jiān jí],顶尖级[dǐng jiān jí]')).
+assert(celo(pinta,'pint.0a.akuta','尖尖[jiān jiān]')).
+assert(celo(pinta,'pint.0a.akuta','尖銳[jiān ruì],尖锐[jiān ruì]')).
+assert(celo(pinta,'pint.0a.akuta','剑尖[jiàn jiān],劍尖[jiàn jiān]')).
+assert(celo(pinta,'pint.0a.akuta','尖窄[jiān zhǎi]')).
+assert(celo(pinta,'pint.0a.akuta','尖[jiān]')).
+assert(celo(pinta,'pint.0a.akuta','鏃[zú],镞[zú]')).
+assert(celo(pinti,'pint.0i','尖[jiān]')).
+assert(celo(pintigi,'pint.0igi','銳化[ruì huà],锐化[ruì huà]')).
+assert(celo(pinto,'pint.0o','尖[jiān]')).
+assert(celo(pinto,'pint.0o','梢[shāo]')).
+assert(celo(pinto,'pint.0o','杪[miǎo]')).
+assert(celo(pinto,'pint.0o','极致[jí zhì],極致[jí zhì]')).
+assert(celo(pinto,'pint.0o','鋒[fēng],锋[fēng]')).
+assert(celo(pinto,'pint.0o','鎞[bì]')).
+assert(celo(borpinto,'pint.bor0o','鑽頭[zuàn tóu],钻头[zuàn tóu]')).
+assert(celo(mampinto,'pint.mam0o','乳头[rǔ tóu],乳頭[rǔ tóu]')).
+assert(celo(mampinto,'pint.mam0o','乳晕[rǔ yūn],乳暈[rǔ yūn]')).
+assert(celo(piedpinto,'pint.pied0o','足尖[zú jiān]')).
+assert(celo(piedpinto,'pint.pied0o','脚趾头[jiǎo zhǐ tóu],腳趾頭[jiǎo zhǐ tóu]')).
+assert(celo(terpinto,'pint.ter0o','岬[jiǎ]')).
+assert(celo(terpinto,'pint.ter0o','岬角[jiǎ jiǎo]')).
+assert(celo(terpinto,'pint.ter0o','地岬[dì jiǎ]')).
+assert(celo(terpinto,'pint.ter0o','埼[qí]')).
+assert(celo(terpinto,'pint.ter0o','海岬[hǎi jiǎ]')).
+assert(celo(terpinto,'pint.ter0o','海角[hǎi jiǎo]')).
+assert(celo(pioĉi,'piocx.0i','鋤地[chú dì],锄地[chú dì]')).
+assert(celo(pioĉi,'piocx.0i','鐝[jué],镢[jué]')).
+assert(celo(pioĉo,'piocx.0o','十字鎬[shí zì gǎo],十字镐[shí zì gǎo]')).
+assert(celo(pioĉo,'piocx.0o','洋鎬[yáng gǎo],洋镐[yáng gǎo]')).
+assert(celo(pioĉo,'piocx.0o','鎬頭[gǎo tou],镐头[gǎo tou]')).
+assert(celo(pioniri,'pionir.0i','创业[chuàng yè],創業[chuàng yè]')).
+assert(celo(pioniri,'pionir.0i','开道[kāi dào],開道[kāi dào]')).
+assert(celo(junpioniro,'pionir.jun0o','少先队员[shào xiān duì yuán],少先隊員[shào xiān duì yuán]')).
+assert(celo(pipi,'pip.0i','吸烟[xī yān],吸煙[xī yān]')).
+assert(celo(pipi,'pip.0i','抽烟[chōu yān],抽煙[chōu yān]')).
+assert(celo(pipo,'pip.0o','烟斗[yān dǒu],煙斗[yān dǒu]')).
+assert(celo(pipo,'pip.0o','烟管[yān guǎn],煙管[yān guǎn]')).
+assert(celo(akvopipo,'pip.akvo0o','水烟[shuǐ yān],水煙[shuǐ yān]')).
+assert(celo(akvopipo,'pip.akvo0o','水烟筒[shuǐ yān tǒng],水煙筒[shuǐ yān tǒng]')).
+assert(celo(akvopipo,'pip.akvo0o','水烟袋[shuǐ yān dài],水煙袋[shuǐ yān dài]')).
+assert(celo(akvopipo,'pip.akvo0o','笕[jiǎn],筧[jiǎn]')).
+assert(celo(piprarbeto,'pipr.0arbeto','胡椒[hú jiāo]')).
+assert(celo(pipro,'pipr.0o','椒[jiāo]')).
+assert(celo(pipro,'pipr.0o','胡椒[hú jiāo]')).
+assert(celo(pipro,'pipr.0o','黑胡椒[hēi hú jiāo]')).
+assert(celo('kajena pipro','pipr.rugxa0o','牛角椒[niú jiǎo jiāo]')).
+assert(celo('kajena pipro','pipr.rugxa0o','紅辣椒粉[hóng là jiāo fěn],红辣椒粉[hóng là jiāo fěn]')).
+assert(celo('kajena pipro','pipr.rugxa0o','辣子[là zi]')).
+assert(celo(piro,'pir.0o','梨[lí]')).
+assert(celo(piro,'pir.0o','梨子[lí zi]')).
+assert(celo(pirarbo,'pir.0ujo','梨树[lí shù],梨樹[lí shù]')).
+assert(celo(pirarbo,'pir.0ujo','白梨[bái lí]')).
+assert(celo(terpiro,'pir.ter0o','洋姜[yáng jiāng],洋薑[yáng jiāng]')).
+assert(celo(terpiro,'pir.ter0o','菊芋[jú yù]')).
+assert(celo(terpiro,'pir.ter0o','洋姜[yáng jiāng]')).
+assert(celo(piramido,'pirami.0o','金字塔[jīn zì tǎ]')).
+assert(celo(piramido,'pirami.0o','角錐[jiǎo zhuī],角锥[jiǎo zhuī]')).
+assert(celo(piramido,'pirami.0o','棱錐[léng zhuī],棱锥[léng zhuī]')).
+assert(celo(piramido,'pirami.0o','棱錐體[léng zhuī tǐ],棱锥体[léng zhuī tǐ]')).
+assert(celo(piramido,'pirami.0o','稜錐[léng zhuī],稜锥[léng zhuī]')).
+assert(celo(piramido,'pirami.0o','稜錐體[léng zhuī tǐ],稜锥体[léng zhuī tǐ]')).
+assert(celo(piramido,'pirami.0o','角錐體[jiǎo zhuī tǐ],角锥体[jiǎo zhuī tǐ]')).
+assert(celo(piramido,'pirami.0o','棱锥[léng zhuī],稜錐[léng zhuī]')).
+assert(celo(pirarukuo,'piraruku.0o','巨骨舌魚[jù gǔ shé yú],巨骨舌鱼[jù gǔ shé yú]')).
+assert(celo(pirati,'pirat.0i','剽窃[piāo qiè],剽竊[piāo qiè]')).
+assert(celo(pirato,'pirat.0o','海盗[hǎi dào],海盜[hǎi dào]')).
+assert(celo(pirato,'pirat.0o','剽窃[piāo qiè],剽竊[piāo qiè]')).
+assert(celo(pirato,'pirat.0o','海賊[hǎi zéi],海贼[hǎi zéi]')).
+assert(celo(piranjo,'','食人魚[shí rén yú],食人鱼[shí rén yú]')).
+assert(celo(retpirato,'pirat.ret0o','黑客[hēi kè]')).
+assert(celo('Pireneoj','pirene.0oj.montaro','比利牛斯[Bǐ lì niú sī]')).
+assert(celo('Pireneoj','pirene.0oj.montaro','比利牛斯山[Bǐ lì niú sī shān]')).
+assert(celo(pirimidino,'pirimidin.0o','嘧啶[mì dìng]')).
+assert(celo(pirimidino,'pirimidin.0o','吡啶[bǐ dìng]')).
+assert(celo(pirito,'pirit.0o.MIN','黃鐵礦[huáng tiě kuàng],黄铁矿[huáng tiě kuàng]')).
+assert(celo(pirito,'pirit.0o.MIN','硫化鐵礦[liú huà tiě kuàng],硫化铁矿[liú huà tiě kuàng]')).
+assert(celo(kupropirito,'pirit.kupro0o','自然銅[zì rán tóng],自然铜[zì rán tóng]')).
+assert(celo(pirogo,'pirog1.0o.KUI','花餃[huā jiǎo],花饺[huā jiǎo]')).
+assert(celo(pirogo,'pirog1.0o.KUI','餃子[jiǎo zi],饺子[jiǎo zi]')).
+assert(celo(pirogo,'pirog1.0o.KUI','餃餌[jiǎo ěr],饺饵[jiǎo ěr]')).
+assert(celo(piroteknikaĵo,'pirote.0ajxo','烟火[yān huǒ],煙火[yān huǒ]')).
+assert(celo(piroteknikaĵo,'pirote.0ajxo','烟花[yān huā],煙花[yān huā]')).
+assert(celo(piroteknikaĵo,'pirote.0ajxo','焰火[yàn huǒ]')).
+assert(celo(piroteknikaĵo,'pirote.0ajxo','礼花[lǐ huā],禮花[lǐ huā]')).
+assert(celo(piroteknikaĵo,'pirote.0ajxo','焰火[yàn huǒ],燄火[yàn huǒ]')).
+assert(celo(piroteknikaĵo,'pirote.0ajxo','花炮[huā pào],花砲[huā pào]')).
+assert(celo(piroteknikaĵo,'pirote.0ajxo','鞭炮竹[biān pào zhú]')).
+assert(celo(piroteknikaĵo,'pirote.0ajxo','点爆竹[diǎn bào zhú],點爆竹[diǎn bào zhú]')).
+assert(celo(pirotekniko,'pirote.0o','烟火使用[yān huǒ shǐ yòng],煙火使用[yān huǒ shǐ yòng]')).
+assert(celo(pirotekniko,'pirote.0o','烟火制造术[yān huǒ zhì zào shù],煙火製造術[yān huǒ zhì zào shù]')).
+assert(celo(pirozo,'piroz.0o','胃灼热[wèi zhuó rè],胃灼熱[wèi zhuó rè]')).
+assert(celo(pisaĵo,'pis.0ajxo','尿样[niào yàng],尿樣[niào yàng]')).
+assert(celo(pisaĵo,'pis.0ajxo','尿[niào]')).
+assert(celo(pisaĵo,'pis.0ajxo','尿液[niào yè]')).
+assert(celo(pisaĵo,'pis.0ajxo','尿[suī]')).
+assert(celo(pisaĵo,'pis.0ajxo','小恭[xiǎo gōng]')).
+assert(celo(pisi,'pis.0i','小便[xiǎo biàn]')).
+assert(celo(pisi,'pis.0i','撒尿[sā niào]')).
+assert(celo(piso,'pis.0o','尿[niào]')).
+assert(celo(piso,'pis.0o','尿液[niào yè]')).
+assert(celo(piso,'pis.0o','尿[suī]')).
+assert(celo(pisti,'pist.0i','捣[dǎo],搗[dǎo]')).
+assert(celo(pisti,'pist.0i','舂[chōng]')).
+assert(celo(pistilo,'pist.0ilo.ilo','杵[chǔ]')).
+assert(celo(pistilo,'pist.0ilo.ilo','碓[duì]')).
+assert(celo(pistilo,'pist.0ilo.ilo','挺杆[tǐng gān]')).
+assert(celo(pistilo,'pist.0ilo.ilo','插齒刀推杆[chā chǐ dāo tuī gān],插齿刀推杆[chā chǐ dāo tuī gān]')).
+assert(celo(pistilo,'pist.0ilo.ilo','研杵[yán chǔ],硏杵[yán chǔ]')).
+assert(celo(pistujo,'pist.0ujo','臼[jiù]')).
+assert(celo(pistujo,'pist.0ujo','研缽[yán bō],研钵[yán bō]')).
+assert(celo(pistako,'pistak.0o','开心果[kāi xīn guǒ],開心果[kāi xīn guǒ]')).
+assert(celo(pistako,'pistak.0o','阿月浑子[ā yuè hún zi],阿月渾子[ā yuè hún zi]')).
+assert(celo(pistako,'pistak.0o','阿月浑子实[ā yuè hún zǐ shí],阿月渾子實[ā yuè hún zǐ shí]')).
+assert(celo(pistakujo,'pistak.0ujo','阿月浑子树[ā yuè hún zǐ shù],阿月渾子樹[ā yuè hún zǐ shù]')).
+assert(celo(pistakujo,'pistak.0ujo','楷[jiē]')).
+assert(celo(pistilo,'pistil.0o','雌蕊[cí ruǐ]')).
+assert(celo(pistolo,'pistol.0o','手枪[shǒu qiāng],手槍[shǒu qiāng]')).
+assert(celo(piŝto,'pisxt.0o','活塞[huó sāi]')).
+assert(celo(piŝto,'pisxt.0o','柱塞[zhù sāi]')).
+assert(celo(piŝtujo,'pisxt.0ujo','气缸[qì gāng],氣缸[qì gāng]')).
+assert(celo(piŝtujo,'pisxt.0ujo','滚筒[gǔn tǒng],滾筒[gǔn tǒng]')).
+assert(celo(pita,'pit.0a','小气[xiǎo qì],小氣[xiǎo qì]')).
+assert(celo(pita,'pit.0a','小家子气[xiǎo jiā zi qì],小家子氣[xiǎo jiā zi qì]')).
+assert(celo(pita,'pit.0a','小心眼[xiǎo xīn yǎn]')).
+assert(celo(pita,'pit.0a','小心眼儿[xiǎo xīn yǎn r],小心眼兒[xiǎo xīn yǎn r]')).
+assert(celo(pita,'pit.0a','小肚雞腸[xiǎo dù jī cháng],小肚鸡肠[xiǎo dù jī cháng]')).
+assert(celo('Pitagoro','pitago.0o','毕达哥拉斯[Bì dá gē lā sī],畢達哥拉斯[Bì dá gē lā sī]')).
+assert(celo(pitono,'piton.0o','蟒[mǎng]')).
+assert(celo(pitono,'piton.0o','巨蟒[jù mǎng]')).
+assert(celo(pitono,'piton.0o','花蟒[huā mǎng]')).
+assert(celo(pitono,'piton.0o','大蟒[dài mǎng]')).
+assert(celo(pitono,'piton.0o','蚺蛇[rán shé]')).
+assert(celo(pitoreska,'pitore.0a','如画[rú huà],如畫[rú huà]')).
+assert(celo(pivoto,'pivot.0o','枢[shū],樞[shū]')).
+assert(celo(pivoto,'pivot.0o','戺[shì]')).
+assert(celo(pivoto,'pivot.0o','枢纽[shū niǔ],樞紐[shū niǔ]')).
+assert(celo(pivoto,'pivot.0o','关键[guān jiàn],關鍵[guān jiàn]')).
+assert(celo(pizo,'piz.0o','青豆[qīng dòu]')).
+assert(celo(pizo,'piz.0o','豌豆[wān dòu]')).
+assert(celo('Pizo','piz1.0o','比萨[Bǐ sà],比薩[Bǐ sà]')).
+assert(celo('Pjongjango','pjonjang.0o','平壤[Píng rǎng]')).
