@@ -3672,3 +3672,359 @@ assert(celo(praktika,'prakti.0a','实用主义地[shí yòng zhǔ yì de],實用
 assert(celo(praktika,'prakti.0a','实用地[shí yòng de],實用地[shí yòng de]')).
 assert(celo(praktika,'prakti.0a','本質上[běn zhì shàng],本质上[běn zhì shàng]')).
 assert(celo(praktika,'prakti.0a','现实[xiàn shí],現實[xiàn shí]')).
+assert(celo(praktikema,'prakti.0ema','务实[wù shí],務實[wù shí]')).
+assert(celo(praktiki,'prakti.0i','实践[shí jiàn],實踐[shí jiàn]')).
+assert(celo(praktiki,'prakti.0i','实行[shí xíng],實行[shí xíng]')).
+assert(celo(praktiki,'prakti.0i','付諸實施[fù zhū shí shī],付诸实施[fù zhū shí shī]')).
+assert(celo(praktiki,'prakti.0i','施行[shī xíng]')).
+assert(celo(praktiki,'prakti.0i','執行[zhí xíng],执行[zhí xíng]')).
+assert(celo(praktiki,'prakti.0i','践行[jiàn xíng],踐行[jiàn xíng]')).
+assert(celo(praktiki,'prakti.0i','行医[xíng yī],行醫[xíng yī]')).
+assert(celo(praktiki,'prakti.0i','謨[mó],谟[mó]')).
+assert(celo(praktiko,'prakti.0o','实际[shí jì],實際[shí jì]')).
+assert(celo(praktiko,'prakti.0o','实践[shí jiàn],實踐[shí jiàn]')).
+assert(celo(praktiko,'prakti.0o','实证[shí zhèng],實証[shí zhèng]')).
+assert(celo(pralino,'pralin.0o.cxokolada','坚果仁巧克力[jiān guǒ rén qiǎo kè lì],堅果仁巧克力[jiān guǒ rén qiǎo kè lì]')).
+assert(celo(pralino,'pralin.0o.cxokolada','果仁糖[guǒ rén táng]')).
+assert(celo(pramo,'pram.0o','輪渡[lún dù],轮渡[lún dù]')).
+assert(celo(pramo,'pram.0o','渡輪[dù lún],渡轮[dù lún]')).
+assert(celo(pramo,'pram.0o','渡船[dù chuán]')).
+assert(celo(pramo,'pram.0o','摆渡船[bǎi dù chuán],擺渡船[bǎi dù chuán]')).
+assert(celo(pramo,'pram.0o','杭[háng]')).
+assert(celo(pramo,'pram.0o','渡輪船[dù lún chuán],渡轮船[dù lún chuán]')).
+assert(celo(kosmopramo,'pram.kosmo0o','航天飛機[háng tiān fēi jī],航天飞机[háng tiān fēi jī]')).
+assert(celo(kosmopramo,'pram.kosmo0o','太空穿梭机[tài kōng chuān suō jī],太空穿梭機[tài kōng chuān suō jī]')).
+assert(celo(kosmopramo,'pram.kosmo0o','太空飛機[tài kōng fēi jī],太空飞机[tài kōng fēi jī]')).
+assert(celo(prava,'prav.0a','属实[shǔ shí],屬實[shǔ shí]')).
+assert(celo(prava,'prav.0a','正确[zhèng què],正確[zhèng què]')).
+assert(celo(prava,'prav.0a','实[shí],實[shí]')).
+assert(celo(prava,'prav.0a','实在[shí zài],實在[shí zài]')).
+assert(celo(prava,'prav.0a','确实[què shí],確實[què shí]')).
+assert(celo(pravi,'prav.0i','有道理[yǒu dào lǐ]')).
+assert(celo(pravigi,'prav.0igi','不辜負[bù gū fù],不辜负[bù gū fù]')).
+assert(celo(pravigi,'prav.0igi','表明自己是正确[biǎo míng zì jǐ shì zhèng què],表明自己是正確[biǎo míng zì jǐ shì zhèng què]')).
+assert(celo(pravigi,'prav.0igi','声辩[shēng biàn],聲辯[shēng biàn]')).
+assert(celo(prazeodimo,'prazeodim.0o','鐠[pǔ],镨[pǔ]')).
+assert(celo(precedenco,'preced.0o','先例[xiān lì]')).
+assert(celo(precedenco,'preced.0o','前例[qián lì]')).
+assert(celo(precedenco,'preced.0o','往例[wǎng lì]')).
+assert(celo(precedenco,'preced.0o','稿子[gǎo zi]')).
+assert(celo(precedenco,'preced.0o','案例[àn lì]')).
+assert(celo(precedenco,'preced.0o','居先[jū xiān]')).
+assert(celo(senprecedenca,'preced.sen0a','破天荒[pò tiān huāng]')).
+assert(celo(senprecedenca,'preced.sen0a','前所未聞[qián suǒ wèi wén],前所未闻[qián suǒ wèi wén]')).
+assert(celo(senprecedenca,'preced.sen0a','空前[kōng qián]')).
+assert(celo(senprecedenca,'preced.sen0a','史无前例[shǐ wú qián lì],史無前例[shǐ wú qián lì]')).
+assert(celo(senprecedenca,'preced.sen0a','前所未有[qián suǒ wèi yǒu]')).
+assert(celo(senprecedenca,'preced.sen0a','未有[wèi yǒu]')).
+assert(celo(senprecedenca,'preced.sen0a','亘古未有[gèn gǔ wèi yǒu],亙古未有[gèn gǔ wèi yǒu]')).
+assert(celo(senprecedenca,'preced.sen0a','前所未見[qián suǒ wèi jiàn],前所未见[qián suǒ wèi jiàn]')).
+assert(celo(senprecedenca,'preced.sen0a','旷古未有[kuàng gǔ wèi yǒu],曠古未有[kuàng gǔ wèi yǒu]')).
+assert(celo(senprecedenca,'preced.sen0a','旷古未闻[kuàng gǔ wèi wén],曠古未聞[kuàng gǔ wèi wén]')).
+assert(celo(precesio,'precesi.0o','岁差[suì chā],歲差[suì chā]')).
+assert(celo(precesio,'precesi.0o','进动[jìn dòng],進動[jìn dòng]')).
+assert(celo(precioza,'precioz.0a','值錢[zhí qián],值钱[zhí qián]')).
+assert(celo(precioza,'precioz.0a','宝贵[bǎo guì],寶貴[bǎo guì]')).
+assert(celo(precioza,'precioz.0a','弥足珍贵[mí zú zhēn guì],彌足珍貴[mí zú zhēn guì]')).
+assert(celo(precioza,'precioz.0a','珍貴[zhēn guì],珍贵[zhēn guì]')).
+assert(celo(precioza,'precioz.0a','珍[zhēn],珎[zhēn]')).
+assert(celo(precioza,'precioz.0a','玮[wěi],瑋[wěi]')).
+assert(celo(precioza,'precioz.0a','祎[yī],禕[yī]')).
+assert(celo(precioza,'precioz.0a','禕[yī]')).
+assert(celo(precioza,'precioz.0a','貴重[guì zhòng],贵重[guì zhòng]')).
+assert(celo(precipa,'precip.0a','主要[zhǔ yào]')).
+assert(celo(precipa,'precip.0a','主干[zhǔ gàn],主幹[zhǔ gàn]')).
+assert(celo(precipa,'precip.0a','主要地[zhǔ yào de]')).
+assert(celo(precipe,'precip.0e','尤[yóu]')).
+assert(celo(precipe,'precip.0e','尤其[yóu qí]')).
+assert(celo(precipe,'precip.0e','格外[gé wài]')).
+assert(celo(precipitaĵo,'precip1.0ajxo','降雨[jiàng yǔ]')).
+assert(celo(precipitaĵo,'precip1.0ajxo','雨量[yǔ liàng]')).
+assert(celo(precipitaĵo,'precip1.0ajxo','降水[jiàng shuǐ]')).
+assert(celo(precipitaĵo,'precip1.0ajxo','沉淀[chén diàn],沉澱[chén diàn]')).
+assert(celo(precipitaĵo,'precip1.0ajxo','雨[yǔ]')).
+assert(celo(precipiti,'precip1.0i.KEM','沉淀[chén diàn],沉澱[chén diàn]')).
+assert(celo(precipiti,'precip1.0i.KEM','淀[diàn],澱[diàn]')).
+assert(celo(precipiti,'precip1.0i.KEM','雨[yù]')).
+assert(celo(preciza,'preciz.0a','准确[zhǔn què],準確[zhǔn què]')).
+assert(celo(preciza,'preciz.0a','精准[jīng zhǔn],精準[jīng zhǔn]')).
+assert(celo(preciza,'preciz.0a','确切[què qiè],確切[què qiè]')).
+assert(celo(preciza,'preciz.0a','精密[jīng mì]')).
+assert(celo(preciza,'preciz.0a','精确[jīng què],精確[jīng què]')).
+assert(celo(preciza,'preciz.0a','准[zhǔn],準[zhǔn]')).
+assert(celo(precize,'preciz.0e','便是[biàn shì]')).
+assert(celo(precizeco,'preciz.0eco','精密度[jīng mì dù]')).
+assert(celo(precizeco,'preciz.0eco','准确[zhǔn què],準確[zhǔn què]')).
+assert(celo(precizeco,'preciz.0eco','精度[jīng dù]')).
+assert(celo(precizeco,'preciz.0eco','精确度[jīng què dù],精確度[jīng què dù]')).
+assert(celo(precizeco,'preciz.0eco','精确性[jīng què xìng],精確性[jīng què xìng]')).
+assert(celo(precizeco,'preciz.0eco','准确度[zhǔn què dù],準確度[zhǔn què dù]')).
+assert(celo(precizigi,'preciz.0igi','明确[míng què],明確[míng què]')).
+assert(celo(malpreciza,'preciz.mal0a','不明确[bù míng què],不明確[bù míng què]')).
+assert(celo(malpreciza,'preciz.mal0a','不准确[bù zhǔn què],不準確[bù zhǔn què]')).
+assert(celo(malpreciza,'preciz.mal0a','不确切[bù què qiē],不確切[bù què qiē]')).
+assert(celo(malpreciza,'preciz.mal0a','含糊[hán hu]')).
+assert(celo(malpreciza,'preciz.mal0a','恍忽[huǎng hū]')).
+assert(celo(malpreciza,'preciz.mal0a','有誤差[yǒu wù chā],有误差[yǒu wù chā]')).
+assert(celo(predi,'pred.0i','抢来[qiǎng lái],搶來[qiǎng lái]')).
+assert(celo(predi,'pred.0i','捕食[bǔ shí]')).
+assert(celo(predi,'pred.0i','掠食[lu:è shí]')).
+assert(celo(predi,'pred.0i','捕[bǔ]')).
+assert(celo(predo,'pred.0o','猎物[liè wù],獵物[liè wù]')).
+assert(celo(predo,'pred.0o','捕獲物[bǔ huò wù],捕获物[bǔ huò wù]')).
+assert(celo(predo,'pred.0o','掠夺品[lüè duó pǐn],掠奪品[lüè duó pǐn]')).
+assert(celo(predo,'pred.0o','木桶[mù tǒng]')).
+assert(celo(predo,'pred.0o','牺牲品[xī shēng pǐn],犧牲品[xī shēng pǐn]')).
+assert(celo(predo,'pred.0o','餌食[ěr shí],饵食[ěr shí]')).
+assert(celo(prediki,'predik.0i','宣講[xuān jiǎng],宣讲[xuān jiǎng]')).
+assert(celo(prediki,'predik.0i','說教[shuō jiào],说教[shuō jiào]')).
+assert(celo(prediki,'predik.0i','传道[chuán dào],傳道[chuán dào]')).
+assert(celo(prediki,'predik.0i','传教[chuán jiào],傳教[chuán jiào]')).
+assert(celo(prediki,'predik.0i','开示[kāi shì],開示[kāi shì]')).
+assert(celo(prediki,'predik.0i','講道[jiǎng dào],讲道[jiǎng dào]')).
+assert(celo(prediki,'predik.0i','宣教[xuān jiào]')).
+assert(celo(prediki,'predik.0i','宣扬[xuān yáng],宣揚[xuān yáng]')).
+assert(celo(prediki,'predik.0i','鼓吹[gǔ chuī]')).
+assert(celo(predikisto,'predik.0isto','传道者[chuán dào zhě],傳道者[chuán dào zhě]')).
+assert(celo(predikisto,'predik.0isto','佈道家[bù dào jiā],布道家[bù dào jiā]')).
+assert(celo(prediko,'predik.0o','佈道[bù dào],布道[bù dào]')).
+assert(celo(prediko,'predik.0o','传道[chuán dào],傳道[chuán dào]')).
+assert(celo(prediko,'predik.0o','說教[shuō jiào],说教[shuō jiào]')).
+assert(celo(montoprediko,'predik.monto0o','山上宝训[shān shàng bǎo xùn],山上寶訓[shān shàng bǎo xùn]')).
+assert(celo(montoprediko,'predik.monto0o','山中圣训[shān zhōng shèng xùn],山中聖訓[shān zhōng shèng xùn]')).
+assert(celo(montoprediko,'predik.monto0o','登山宝训[dēng shān bǎo xùn],登山寶訓[dēng shān bǎo xùn]')).
+assert(celo(predikato,'predik1.0o','述語[shù yǔ],述语[shù yǔ]')).
+assert(celo(predikato,'predik1.0o','謂語[wèi yǔ],谓语[wèi yǔ]')).
+assert(celo(prefaco,'prefac.0o','序言[xù yán]')).
+assert(celo(prefaco,'prefac.0o','刊首語[kān shǒu yǔ],刊首语[kān shǒu yǔ]')).
+assert(celo(prefaco,'prefac.0o','前言[qián yán]')).
+assert(celo(prefaco,'prefac.0o','引言[yǐn yán]')).
+assert(celo(prefaco,'prefac.0o','序章[xù zhāng]')).
+assert(celo(prefaco,'prefac.0o','緒言[xù yán],绪言[xù yán]')).
+assert(celo(prefektejo,'prefek.0ejo','府[fǔ]')).
+assert(celo(prefektujo,'prefek.0ujo','州[zhōu]')).
+assert(celo(prefektujo,'prefek.0ujo','地級市[dì jí shì],地级市[dì jí shì]')).
+assert(celo(prefere,'prefer.0e','宁可[nìng kě],寧可[nìng kě]')).
+assert(celo(prefere,'prefer.0e','情愿[qíng yuàn],情願[qíng yuàn]')).
+assert(celo(preferi,'prefer.0i','偏愛[piān ài],偏爱[piān ài]')).
+assert(celo(preferi,'prefer.0i','喜好[xǐ hào]')).
+assert(celo(preferi,'prefer.0i','宁[nìng],寧[nìng]')).
+assert(celo(preferi,'prefer.0i','优先[yōu xiān],優先[yōu xiān]')).
+assert(celo(preferi,'prefer.0i','偏好[piān hào]')).
+assert(celo(preferi,'prefer.0i','比較喜歡[bǐ jiào xǐ huān],比较喜欢[bǐ jiào xǐ huān]')).
+assert(celo(preferi,'prefer.0i','被喜好[bèi xǐ hǎo]')).
+assert(celo(preferinda,'prefer.0inda','宁[nìng],寧[nìng]')).
+assert(celo(preferanco,'preferanc.0o','偏好[piān hào]')).
+assert(celo(prefero,'','偏好[piān hào]')).
+assert(celo(prefikso,'prefik.0o','前綴[qián zhuì],前缀[qián zhuì]')).
+assert(celo(prefikso,'prefik.0o','字首[zì shǒu]')).
+assert(celo(preĝejo,'pregx.0ejo','教堂[jiào táng]')).
+assert(celo(preĝejo,'pregx.0ejo','庙[miào],廟[miào]')).
+assert(celo(preĝi,'pregx.0i','祷[dǎo],禱[dǎo]')).
+assert(celo(preĝi,'pregx.0i','禂[dǎo]')).
+assert(celo(preĝi,'pregx.0i','祈祷[qí dǎo],祈禱[qí dǎo]')).
+assert(celo(preĝi,'pregx.0i','祈愿[qí yuàn],祈願[qí yuàn]')).
+assert(celo(preĝi,'pregx.0i','祷告[dǎo gào],禱告[dǎo gào]')).
+assert(celo(preĝi,'pregx.0i','属于祈祷者[shǔ yú qí dǎo zhě],屬於祈禱者[shǔ yú qí dǎo zhě]')).
+assert(celo(preĝi,'pregx.0i','做祷告[zuò dǎo gào],做禱告[zuò dǎo gào]')).
+assert(celo(preĝo,'pregx.0o','祈祷[qí dǎo],祈禱[qí dǎo]')).
+assert(celo(preĝo,'pregx.0o','祷告[dǎo gào],禱告[dǎo gào]')).
+assert(celo(preĝo,'pregx.0o','禂[dǎo]')).
+assert(celo(preĝo,'pregx.0o','祷[dǎo],禱[dǎo]')).
+assert(celo(preĝo,'pregx.0o','祈愿[qí yuàn],祈願[qí yuàn]')).
+assert(celo('katedra preĝejo','pregx.katedra_0ejo','座堂[zuò táng]')).
+assert(celo('katedra preĝejo','pregx.katedra_0ejo','大教堂[dà jiào táng]')).
+assert(celo('katedra preĝejo','pregx.katedra_0ejo','主教座堂[zhǔ jiào zuò táng]')).
+assert(celo(preleganto,'preleg.0anto','講師[jiǎng shī],讲师[jiǎng shī]')).
+assert(celo(preleganto,'preleg.0anto','大学讲师[dà xué jiǎng shī],大學講師[dà xué jiǎng shī]')).
+assert(celo(preleganto,'preleg.0anto','演說家[yǎn shuō jiā],演说家[yǎn shuō jiā]')).
+assert(celo(preleganto,'preleg.0anto','私人教师[sī rén jiào shī],私人教師[sī rén jiào shī]')).
+assert(celo(preleganto,'preleg.0anto','編外講師[biān wài jiǎng shī],编外讲师[biān wài jiǎng shī]')).
+assert(celo(prelegejo,'preleg.0ejo','会议室[huì yì shì],會議室[huì yì shì]')).
+assert(celo(prelegejo,'preleg.0ejo','会议厅[huì yì tīng],會議廳[huì yì tīng]')).
+assert(celo(prelegi,'preleg.0i','演講[yǎn jiǎng],演讲[yǎn jiǎng]')).
+assert(celo(prelegi,'preleg.0i','介紹性講演[jiè shào xìng jiǎng yǎn],介绍性讲演[jiè shào xìng jiǎng yǎn]')).
+assert(celo(prelegi,'preleg.0i','主講[zhǔ jiǎng],主讲[zhǔ jiǎng]')).
+assert(celo(prelego,'preleg.0o','講座[jiǎng zuò],讲座[jiǎng zuò]')).
+assert(celo(prelego,'preleg.0o','報告[bào gào],报告[bào gào]')).
+assert(celo(prelego,'preleg.0o','演講[yǎn jiǎng],演讲[yǎn jiǎng]')).
+assert(celo(prelego,'preleg.0o','講辭[jiǎng cí],讲辞[jiǎng cí]')).
+assert(celo(prelego,'preleg.0o','講課[jiǎng kè],讲课[jiǎng kè]')).
+assert(celo(prelego,'preleg.0o','報告會[bào gào huì],报告会[bào gào huì]')).
+assert(celo(preludo,'prelud.0o','前奏[qián zòu]')).
+assert(celo(preludo,'prelud.0o','序幕[xù mù]')).
+assert(celo(preludo,'prelud.0o','前奏曲[qián zòu qǔ]')).
+assert(celo(preludo,'prelud.0o','前戏[qián xì],前戲[qián xì]')).
+assert(celo(preludo,'prelud.0o','預賽[yù sài],预赛[yù sài]')).
+assert(celo(premado,'prem.0ado','压力[yā lì],壓力[yā lì]')).
+assert(celo(premado,'prem.0ado','外力[wài lì]')).
+assert(celo(premateco,'prem.0ateco','洼[wā],窪[wā]')).
+assert(celo(premdevigi,'prem.0devigi0necesigi0trudi','強迫[qiǎng pò],强迫[qiǎng pò]')).
+assert(celo(premdevigi,'prem.0devigi0necesigi0trudi','逼人[bī rén]')).
+assert(celo(premdevigi,'prem.0devigi0necesigi0trudi','迫[pò]')).
+assert(celo(premdevigi,'','压[yā],壓[yā]')).
+assert(celo(premi,'prem.0i','施压[shī yā],施壓[shī yā]')).
+assert(celo(premi,'prem.0i','催[cuī]')).
+assert(celo(premi,'prem.0i','挨挤[ái jǐ],挨擠[ái jǐ]')).
+assert(celo(premi,'prem.0i','捘[zùn]')).
+assert(celo(premilo,'prem.0ilo.AGR','榨酒池[zhà jiǔ chí]')).
+assert(celo(premmaŝino,'prem.0masxino','压制机[yā zhì jī],壓制機[yā zhì jī]')).
+assert(celo(premo,'prem.0o.FIG','压力[yā lì],壓力[yā lì]')).
+assert(celo(aerpremo,'prem.aer0o','气压[qì yā],氣壓[qì yā]')).
+assert(celo(aerpremo,'prem.aer0o','大气压[dà qì yā],大氣壓[dà qì yā]')).
+assert(celo(aerpremo,'prem.aer0o','大气压力[dà qì yā lì],大氣壓力[dà qì yā lì]')).
+assert(celo(alpremi,'prem.al0i','坚持下去[jiān chí xià qù],堅持下去[jiān chí xià qù]')).
+assert(celo(ĉirkaŭpremi,'prem.cxirkaux0i','拥抱[yōng bào],擁抱[yōng bào]')).
+assert(celo(ĉirkaŭpremi,'prem.cxirkaux0i','搂[lǒu],摟[lǒu]')).
+assert(celo(ĉirkaŭpremi,'prem.cxirkaux0i','搂抱[lǒu bào],摟抱[lǒu bào]')).
+assert(celo(ĉirkaŭpremi,'prem.cxirkaux0i','抱紧[bào jǐn],抱緊[bào jǐn]')).
+assert(celo(ĉirkaŭpremi,'prem.cxirkaux0i','紧抱[jǐn bào],緊抱[jǐn bào]')).
+assert(celo(depremi,'prem.de0i','按下[àn xià]')).
+assert(celo(depremi,'prem.de0i','按住[àn zhù]')).
+assert(celo(dispremi,'prem.dis0i','压碎[yā suì],壓碎[yā suì]')).
+assert(celo(dispremi,'prem.dis0i','揉碎[róu suì]')).
+assert(celo(elpremi,'prem.el0i','榨取[zhà qǔ]')).
+assert(celo(elpremi,'prem.el0i','搾出[zhà chū]')).
+assert(celo(elpremi,'prem.el0i','压榨[yā zhà],壓榨[yā zhà]')).
+assert(celo(fingropremaĵo,'prem.fingro0ajxo','指紋[zhǐ wén],指纹[zhǐ wén]')).
+assert(celo(fingropremaĵo,'prem.fingro0ajxo','指模[zhǐ mó]')).
+assert(celo(fingropremaĵo,'prem.fingro0ajxo','脶[luó],腡[luó]')).
+assert(celo(fingropremaĵo,'prem.fingro0ajxo','手印[shǒu yìn]')).
+assert(celo(fingropremaĵo,'prem.fingro0ajxo','指印[zhǐ yìn]')).
+assert(celo(korpremateco,'prem.kor0ateco','洼[wā],窪[wā]')).
+assert(celo(korpremateco,'prem.kor0ateco','机能减退[jī néng jiǎn tuì],機能減退[jī néng jiǎn tuì]')).
+assert(celo(korpremateco,'prem.kor0ateco','沈下[shěn xià]')).
+assert(celo(korpremateco,'prem.kor0ateco','音調低下[yīn diào dī xià],音调低下[yīn diào dī xià]')).
+assert(celo(korpremateco,'prem.kor0ateco','心疼[xīn téng]')).
+assert(celo(korpremi,'prem.kor0i.PSI','嗒然[tà rán]')).
+assert(celo(korpremi,'prem.kor0i.PSI','懊丧[ào sāng],懊喪[ào sāng]')).
+assert(celo(korpremo,'prem.kor0o','心痛[xīn tòng]')).
+assert(celo(korpremo,'prem.kor0o','悲伤[bēi shāng],悲傷[bēi shāng]')).
+assert(celo(kunpremi,'prem.kun0i','压缩[yā suō],壓縮[yā suō]')).
+assert(celo(kunpremiĝi,'','拥挤[yōng jǐ],擁擠[yōng jǐ]')).
+assert(celo(kunpremilo,'prem.kun0ilo','压缩机[yā suō jī],壓縮機[yā suō jī]')).
+assert(celo(kunpremilo,'prem.kun0ilo','空压机[kōng yā jī],空壓機[kōng yā jī]')).
+assert(celo(manpremo,'prem.man0o','握手[wò shǒu]')).
+assert(celo(pomelo,'','把手[bǎ shou]')).
+assert(celo(piedpremi,'prem.pied0i','厹[róu]')).
+assert(celo(piedpremi,'prem.pied0i.treti','禸[róu]')).
+assert(celo(rulpremi,'prem.rul0i','磙[gǔn]')).
+assert(celo(rulpremilo,'prem.rul0ilo','压路机[yā lù jī],壓路機[yā lù jī]')).
+assert(celo(rulpremilo,'prem.rul0ilo','輥[gǔn],辊[gǔn]')).
+assert(celo(rulpremilo,'prem.rul0ilo','磙[gǔn]')).
+assert(celo(sangopremo,'prem.sango0o','血压[xuè yā],血壓[xuè yā]')).
+assert(celo(subpremi,'prem.sub0i','压制[yā zhì],壓制[yā zhì]')).
+assert(celo(subpremi,'prem.sub0i','鎮壓[zhèn yā],镇压[zhèn yā]')).
+assert(celo(subpremi,'prem.sub0i','压[yā],壓[yā]')).
+assert(celo(subpremi,'prem.sub0i','弭[mǐ]')).
+assert(celo(subpremi,'prem.sub0i','压迫[yā pò],壓迫[yā pò]')).
+assert(celo(premii,'premi.0i','表彰[biǎo zhāng]')).
+assert(celo(premii,'premi.0i','奖励[jiǎng lì],獎勵[jiǎng lì]')).
+assert(celo(premiito,'premi.0ito','穫獎者[huò jiǎng zhě],获奖者[huò jiǎng zhě]')).
+assert(celo(premiito,'premi.0ito','得奖者[dé jiǎng zhě],得獎者[dé jiǎng zhě]')).
+assert(celo(premiito,'premi.0ito','獲獎者[huò jiǎng zhě],获奖者[huò jiǎng zhě]')).
+assert(celo(premiito,'premi.0ito','奖得主[jiǎng dé zhǔ],獎得主[jiǎng dé zhǔ]')).
+assert(celo(premio,'premi.0o','奖[jiǎng],獎[jiǎng]')).
+assert(celo(premio,'premi.0o','奖金[jiǎng jīn],獎金[jiǎng jīn]')).
+assert(celo(premio,'premi.0o','奖品[jiǎng pǐn],獎品[jiǎng pǐn]')).
+assert(celo(premiero,'premier.0o.surscenigo','首映[shǒu yìng]')).
+assert(celo(premiero,'premier.0o.surscenigo','首演[shǒu yǎn]')).
+assert(celo(premisi,'premis.0i','发射口[fā shè kǒu],發射口[fā shè kǒu]')).
+assert(celo(premiso,'premis.0o','前提[qián tí]')).
+assert(celo(premiso,'premis.0o','前提条件[qián tí tiáo jiàn],前提條件[qián tí tiáo jiàn]')).
+assert(celo(premiso,'premis.0o','要件[yào jiàn]')).
+assert(celo(preni,'pren.0i','服用[fú yòng]')).
+assert(celo(preni,'pren.0i','以[yǐ]')).
+assert(celo(preni,'pren.0i','拏[ná]')).
+assert(celo(preni,'pren.0i','拿[ná]')).
+assert(celo(preni,'pren.0i','挐[ná]')).
+assert(celo(preni,'pren.0i','捕[bǔ]')).
+assert(celo(preni,'pren.0i','採取[cǎi qǔ],采取[cǎi qǔ]')).
+assert(celo(preni,'pren.0i','接下來[jiē xià lái],接下来[jiē xià lái]')).
+assert(celo(preni,'pren.0i','摘[zhāi]')).
+assert(celo(preni,'pren.0i','撷取[xié qǔ],擷取[xié qǔ]')).
+assert(celo(prenilo,'pren.0ilo','鉗板[qián bǎn],钳板[qián bǎn]')).
+assert(celo(prenilo,'pren.0ilo','叼紙牙[diāo zhǐ yá],叼纸牙[diāo zhǐ yá]')).
+assert(celo(prenilo,'pren.0ilo','夹紧器[jiā jǐn qì],夾緊器[jiā jǐn qì]')).
+assert(celo(alpreni,'pren.al0i','領受[lǐng shòu],领受[lǐng shòu]')).
+assert(celo(alpreni,'pren.al0i','悅納[yuè nà],悦纳[yuè nà]')).
+assert(celo(alpreni,'pren.al0i','接收[jiē shōu]')).
+assert(celo(alpreni,'pren.al0i','收納[shōu nà],收纳[shōu nà]')).
+assert(celo(alpreni,'pren.al0i','料想[liào xiǎng]')).
+assert(celo(alpreni,'pren.al0i','假使[jiǎ shǐ]')).
+assert(celo(alpreni,'pren.al0i','怙[hù]')).
+assert(celo(alpreni,'pren.al0i','盼[pàn]')).
+assert(celo(alpreni,'pren.al0i','笑納[xiào nà],笑纳[xiào nà]')).
+assert(celo(alpreni,'pren.al0i','收[shōu]')).
+assert(celo(alpreni,'pren.al0i','当做[dāng zuò],當做[dāng zuò]')).
+assert(celo(alpreni,'pren.al0i','採納[cǎi nà],采纳[cǎi nà]')).
+assert(celo(alpreni,'pren.al0i','採用[cǎi yòng],采用[cǎi yòng]')).
+assert(celo(ĉirkaŭpreni,'pren.cxirkaux0i','拥抱[yōng bào],擁抱[yōng bào]')).
+assert(celo(ĉirkaŭpreni,'pren.cxirkaux0i','搂[lǒu],摟[lǒu]')).
+assert(celo(depreni,'pren.de0i','掀掉[xiān diào]')).
+assert(celo(depreni,'pren.de0i','脫[tuō],脱[tuō]')).
+assert(celo(depreni,'pren.de0i','拿掉[ná diào]')).
+assert(celo(depreni,'pren.de0i','拿走[ná zǒu]')).
+assert(celo(depreni,'pren.de0i','去除[qù chú]')).
+assert(celo(depreni,'pren.de0i','取出[qǔ chū]')).
+assert(celo(elpreni,'pren.el0i','取出[qǔ chū]')).
+assert(celo(elpreni,'pren.el0i','抽[chōu]')).
+assert(celo(elpreni,'pren.el0i','摘取[zhāi qǔ]')).
+assert(celo(elpreni,'pren.el0i','抽出[chōu chū]')).
+assert(celo(elpreni,'pren.el0i','拿出[ná chū]')).
+assert(celo(elpreni,'pren.el0i','引出[yǐn chū]')).
+assert(celo(elpreni,'pren.el0i','摘抄[zhāi cháo]')).
+assert(celo(elpreni,'pren.el0i','摘录[zhāi lù],摘錄[zhāi lù]')).
+assert(celo(elpreni,'pren.el0i','梊[dì]')).
+assert(celo(forpreni,'pren.for0i','拿走[ná zǒu]')).
+assert(celo(forpreni,'pren.for0i','带走[dài zǒu],帶走[dài zǒu]')).
+assert(celo(forpreni,'pren.for0i','夺去[duó qù],奪去[duó qù]')).
+assert(celo(forpreni,'','抄[chāo]')).
+assert(celo(kunpreni,'pren.kun0i','带走[dài zǒu],帶走[dài zǒu]')).
+assert(celo(kunpreni,'pren.kun0i','携[xié],攜[xié]')).
+assert(celo(kunpreni,'pren.kun0i','带上[dài shàng],帶上[dài shàng]')).
+assert(celo(lupreni,'pren.lu0i','租用[zū yòng]')).
+assert(celo(lupreni,'pren.lu0i','租借[zū jiè]')).
+assert(celo(lupreni,'pren.lu0i','賃[lìn],赁[lìn]')).
+assert(celo(lupreni,'pren.lu0i','租賃交易[zū lìn jiāo yì],租赁交易[zū lìn jiāo yì]')).
+assert(celo(lupreni,'pren.lu0i','僦[jiù]')).
+assert(celo(neforprenebla,'pren.nefor0ebla','不可分割[bù kě fēn gē]')).
+assert(celo(neforprenebla,'pren.nefor0ebla','自然权利[zì rán quán lì],自然權利[zì rán quán lì]')).
+assert(celo(repreni,'pren.re0i','收回[shōu huí]')).
+assert(celo(repreni,'pren.re0i','取回[qǔ huí]')).
+assert(celo(repreni,'pren.re0i','拿回[ná huí]')).
+assert(celo(repreni,'pren.re0i','縮回[suō huí],缩回[suō huí]')).
+assert(celo(surpreni,'pren.sur0i.FIG','担[dān],擔[dān]')).
+assert(celo(surpreni,'pren.sur0i.FIG','荷[hè]')).
+assert(celo(transpreni,'pren.trans0i','接替[jiē tì]')).
+assert(celo(transpreni,'pren.trans0i','接掌[jiē zhǎng]')).
+assert(celo(transpreni,'pren.trans0i','接任[jiē rèn]')).
+assert(celo(transpreni,'pren.trans0i','接去[jiē qù]')).
+assert(celo(transpreni,'pren.trans0i','接办[jiē bàn],接辦[jiē bàn]')).
+assert(celo(transpreni,'pren.trans0i','負擔[fù dān],负担[fù dān]')).
+assert(celo(preparado,'prepar.0ado','制备[zhì bèi],製備[zhì bèi]')).
+assert(celo(preparado,'prepar.0ado','准备[zhǔn bèi],準備[zhǔn bèi]')).
+assert(celo(preparado,'prepar.0ado','准备工作[zhǔn bèi gōng zuò],準備工作[zhǔn bèi gōng zuò]')).
+assert(celo('prepare al','prepar.0eal','以期[yǐ qī]')).
+assert(celo('prepare al','prepar.0eal','为[wèi],爲[wèi]')).
+assert(celo('prepare al','prepar.0eal','有鉴于此[yǒu jiàn yú cǐ],有鑒於此[yǒu jiàn yú cǐ]')).
+assert(celo('prepare al','prepar.0eal','当前[dāng qián],當前[dāng qián]')).
+assert(celo(prepari,'prepar.0i','預備[yù bèi],预备[yù bèi]')).
+assert(celo(prepari,'prepar.0i','准备[zhǔn bèi],準備[zhǔn bèi]')).
+assert(celo(prepari,'prepar.0i','制备[zhì bèi],製備[zhì bèi]')).
+assert(celo(prepari,'prepar.0i','庀[pǐ]')).
+assert(celo(prepari,'prepar.0i','庤[zhì]')).
+assert(celo(prepari,'prepar.0i','備[bèi],备[bèi]')).
+assert(celo(prepari,'prepar.0i','筹[chóu],籌[chóu]')).
+assert(celo(prepari,'prepar.0i','備下[bèi xià],备下[bèi xià]')).
+assert(celo(prepari,'prepar.0i','蒇[chǎn],蕆[chǎn]')).
+assert(celo(prepari,'prepar.0i','筹备[chóu bèi],籌備[chóu bèi]')).
+assert(celo(prepari,'prepar.0i','整備[zhěng bèi],整备[zhěng bèi]')).
+assert(celo(prepari,'prepar.0i','准备好[zhǔn bèi hǎo],準備好[zhǔn bèi hǎo]')).
+assert(celo(preparo,'prepar.0o','預備[yù bèi],预备[yù bèi]')).
+assert(celo(preparo,'prepar.0o','准备[zhǔn bèi],準備[zhǔn bèi]')).
+assert(celo(preparo,'prepar.0o','准备工作[zhǔn bèi gōng zuò],準備工作[zhǔn bèi gōng zuò]')).
+assert(celo(senprepara,'prepar.sen0a','意外[yì wài]')).
+assert(celo(senprepara,'prepar.sen0a','誰知[shéi zhī],谁知[shéi zhī]')).
+assert(celo(senprepara,'prepar.sen0a','沒有預期[méi yǒu yù qī],没有预期[méi yǒu yù qī]')).
+assert(celo(senprepara,'prepar.sen0a','无预谋[wú yù móu],無預謀[wú yù móu]')).
