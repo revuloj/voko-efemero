@@ -4028,3 +4028,407 @@ assert(celo(senprepara,'prepar.sen0a','意外[yì wài]')).
 assert(celo(senprepara,'prepar.sen0a','誰知[shéi zhī],谁知[shéi zhī]')).
 assert(celo(senprepara,'prepar.sen0a','沒有預期[méi yǒu yù qī],没有预期[méi yǒu yù qī]')).
 assert(celo(senprepara,'prepar.sen0a','无预谋[wú yù móu],無預謀[wú yù móu]')).
+assert(celo(prepozicio,'prepoz.0o','前置詞[qián zhì cí],前置词[qián zhì cí]')).
+assert(celo(prepozicio,'prepoz.0o','介系詞[jiè xì cí],介系词[jiè xì cí]')).
+assert(celo(prepucio,'prepuc.0o','包皮[bāo pí]')).
+assert(celo(prerio,'preri.0o','大草原[dà cǎo yuán]')).
+assert(celo(prerogativo,'prerog.0o','特权[tè quán],特權[tè quán]')).
+assert(celo(presa,'pres.0a','印刷[yìn shuā]')).
+assert(celo(presaĵo,'pres.0ajxo','印刷品[yìn shuā pǐn]')).
+assert(celo(presaĵo,'pres.0ajxo','打印稿[dǎ yìn gǎo]')).
+assert(celo(presaĵo,'pres.0ajxo.TIP','神采[shén cǎi]')).
+assert(celo(presaĵo,'pres.0ajxo.TIP','打印輸出[dǎ yìn shū chū],打印输出[dǎ yìn shū chū]')).
+retract(celo(presaĵo,'pres.0ajxo.TIP','神采[shén cǎi]')).
+assert(celo(presarto,'pres.0arto','印刷[yìn shuā]')).
+assert(celo(presarto,'pres.0arto','印刷术[yìn shuā shù],印刷術[yìn shuā shù]')).
+assert(celo(presaĵo,'','印[yìn]')).
+assert(celo(presejo,'pres.0ejo','印刷厂[yìn shuā chǎng],印刷廠[yìn shuā chǎng]')).
+assert(celo(presejo,'pres.0ejo','印刷所[yìn shuà suǒ]')).
+assert(celo(presi,'pres.0i','印刷[yìn shuā]')).
+assert(celo(presi,'pres.0i','列印[liè yìn]')).
+assert(celo(presi,'pres.0i','印[yìn]')).
+assert(celo(presi,'pres.0i','印制[yìn zhì],印製[yìn zhì]')).
+assert(celo(presi,'pres.0i','打印[dǎ yìn]')).
+assert(celo(presi,'pres.0i','盖了印[gài liǎo yìn],蓋了印[gài liǎo yìn]')).
+assert(celo(presi,'pres.0i','盖了章[gài liǎo zhāng],蓋了章[gài liǎo zhāng]')).
+assert(celo(presilo,'pres.0ilo','印表机[yìn biǎo jī],印表機[yìn biǎo jī]')).
+assert(celo(presilo,'pres.0ilo','打印机[dǎ yìn jī],打印機[dǎ yìn jī]')).
+assert(celo(presilo,'','印刷机[yìn shuā jī],印刷機[yìn shuā jī]')).
+assert(celo(preso,'pres.0o','印刷[yìn shuā]')).
+assert(celo('aparta depreso','pres.apartade0o','单行本[dān xíng běn],單行本[dān xíng běn]')).
+assert(celo(fotorepreso,'pres.fotore0o','复制品[fù zhì pǐn],複製品[fù zhì pǐn]')).
+assert(celo(fotorepreso,'pres.fotore0o','影印[yǐng yìn]')).
+assert(celo(fotorepreso,'pres.fotore0o','影印本[yǐng yìn běn]')).
+assert(celo(fotorepreso,'pres.fotore0o','复印件[fù yìn jiàn],複印件[fù yìn jiàn]')).
+assert(celo(represi,'pres.re0i','重印[chóng yìn]')).
+assert(celo(represo,'pres.re0o','重印[chóng yìn]')).
+assert(celo(represo,'pres.re0o','再版[zài bǎn]')).
+assert(celo(presbitero,'presbi.0o','長老會[zhǎng lǎo huì],长老会[zhǎng lǎo huì]')).
+assert(celo(presbiterianismo,'presbi1.0ismo','長老會[Zhǎng lǎo huì],长老会[Zhǎng lǎo huì]')).
+assert(celo(presbiterianismo,'presbi1.0ismo','長老教會[zhǎng lǎo jiào huì],长老教会[zhǎng lǎo jiào huì]')).
+assert(celo(presbiteriano,'presbi1.0o','長老會[zhǎng lǎo huì],长老会[zhǎng lǎo huì]')).
+retract(celo(presbitero,'presbi.0o','長老會[zhǎng lǎo huì],长老会[zhǎng lǎo huì]')).
+assert(celo(preskribi,'preskr.0i','咛[níng],嚀[níng]')).
+assert(celo(preskribi,'preskr.0i','吩咐[fēn fù]')).
+assert(celo(preskribi,'preskr.0i.MED','开药[kāi yào],開藥[kāi yào]')).
+assert(celo(preskribo,'preskr.0o','药方[yào fāng],藥方[yào fāng]')).
+assert(celo(preskribo,'preskr.0o','指示[zhǐ shì]')).
+assert(celo(preskribo,'preskr.0o','方剂[fāng jì],方劑[fāng jì]')).
+assert(celo(preskribo,'preskr.0o','戒律[jiè lǜ]')).
+assert(celo(preskribo,'preskr.0o','誡命[jiè mìng],诫命[jiè mìng]')).
+assert(celo(preskripto,'preskr1.0o','訴訟時效[sù sòng shí xiào],诉讼时效[sù sòng shí xiào]')).
+assert(celo(preskripto,'preskr1.0o','消滅時效[xiāo miè shí xiào],消灭时效[xiāo miè shí xiào]')).
+assert(celo(prestidigitatoro,'presti.0o','魔术师[mó shù shī],魔術師[mó shù shī]')).
+assert(celo(prestiĝa,'presti1.0a','烜赫[xuǎn hè]')).
+assert(celo(prestiĝo,'presti1.0o','威信[wēi xìn]')).
+assert(celo(prestiĝo,'presti1.0o','威望[wēi wàng]')).
+assert(celo(prestiĝo,'presti1.0o','信誉[xìn yù],信譽[xìn yù]')).
+assert(celo(prestiĝa,'','赫赫有名[hè hè yǒu míng]')).
+assert(celo(preta,'pret.0a','愿[yuàn],願[yuàn]')).
+assert(celo(preta,'pret.0a','就緒[jiù xù],就绪[jiù xù]')).
+assert(celo(preta,'pret.0a','停当[tíng dang],停當[tíng dang]')).
+assert(celo(preta,'pret.0a','妥当[tuǒ dang],妥當[tuǒ dang]')).
+assert(celo(preta,'pret.0a','定当[dìng dàng],定當[dìng dàng]')).
+assert(celo(preta,'pret.0a','整備[zhěng bèi],整备[zhěng bèi]')).
+assert(celo(preta,'pret.0a','准备好了[zhǔn bèi hǎo liǎo],準備好了[zhǔn bèi hǎo liǎo]')).
+assert(celo(preteco,'pret.0eco','候命[hòu mìng]')).
+assert(celo(preteco,'pret.0eco','就緒[jiù xù],就绪[jiù xù]')).
+assert(celo(preteco,'pret.0eco','警戒心[jǐng jiè xīn]')).
+assert(celo(pretigi,'pret.0igi','預備[yù bèi],预备[yù bèi]')).
+assert(celo(pretigi,'pret.0igi','備[bèi],备[bèi]')).
+assert(celo(pretigi,'pret.0igi','筹[chóu],籌[chóu]')).
+assert(celo(pretigi,'pret.0igi','庀[pǐ]')).
+assert(celo(pretigi,'pret.0igi','庤[zhì]')).
+assert(celo(pretigi,'pret.0igi','准备好[zhǔn bèi hǎo],準備好[zhǔn bèi hǎo]')).
+assert(celo(finpretigi,'pret.fin0igi','竣[jùn]')).
+assert(celo(finpretigi,'pret.fin0igi','完毕[wán bì],完畢[wán bì]')).
+assert(celo(finpretigi,'pret.fin0igi','完工[wán gōng]')).
+assert(celo(finpretigi,'pret.fin0igi','終止[zhōng zhǐ],终止[zhōng zhǐ]')).
+assert(celo(malpreta,'pret.mal0a','意外[yì wài]')).
+assert(celo(malpreta,'pret.mal0a','沒有預期[méi yǒu yù qī],没有预期[méi yǒu yù qī]')).
+assert(celo(malpreta,'pret.mal0a','无预谋[wú yù móu],無預謀[wú yù móu]')).
+assert(celo(malpreta,'pret.mal0a','未做准备[wèi zuò zhǔn bèi],未做準備[wèi zuò zhǔn bèi]')).
+assert(celo(malpreta,'pret.mal0a','无准备[wú zhǔn bèi],無準備[wú zhǔn bèi]')).
+assert(celo(servopreta,'pret.servo0a','有助[yǒu zhù]')).
+assert(celo('pretekste de','pretek.0ede','藉口[jiè kǒu]')).
+assert(celo('pretekste de','pretek.0ede.KOMUNE','借故[jiè gù]')).
+assert(celo(preteksti,'pretek.0i','借口[jiè kǒu]')).
+assert(celo(preteksti,'pretek.0i','藉口[jiè kǒu]')).
+assert(celo(preteksti,'pretek.0i','托词[tuō cí],託詞[tuō cí]')).
+assert(celo(preteksti,'pretek.0i','推托[tuī tuō]')).
+assert(celo(preteksto,'pretek.0o','藉口[jiè kǒu]')).
+assert(celo(preteksto,'pretek.0o','托词[tuō cí],託詞[tuō cí]')).
+assert(celo(preteksto,'pretek.0o','借口[jiè kǒu]')).
+assert(celo(preteksto,'pretek.0o','說辭[shuō cí],说辞[shuō cí]')).
+assert(celo(preteksto,'pretek.0o','推托[tuī tuō]')).
+assert(celo(preteksto,'pretek.0o','由头[yóu tou],由頭[yóu tou]')).
+assert(celo(preteksto,'pretek.0o','借口[jiè kǒu],藉口[jiè kǒu]')).
+assert(celo(pretendema,'preten.0ema','恣慾[zì yù],恣欲[zì yù]')).
+assert(celo(pretendema,'preten.0ema','要求高[yāo qiú gāo]')).
+assert(celo(pretendema,'preten.0ema','难以取悦[nán yǐ qǔ yuè],難以取悅[nán yǐ qǔ yuè]')).
+assert(celo(pretendema,'preten.0ema','高标准要求的[gāo biāo zhǔn yào qiú de],高標準要求的[gāo biāo zhǔn yào qiú de]')).
+assert(celo(pretendema,'preten.0ema','高档次的[gāo dàng cì de],高檔次的[gāo dàng cì de]')).
+assert(celo(pretendema,'preten.0ema','高要求[gāo yāo qiú]')).
+assert(celo(pretendema,'preten.0ema','高要求的[gāo yāo qiú de]')).
+assert(celo(pretendi,'preten.0i','宣称[xuān chēng],宣稱[xuān chēng]')).
+assert(celo(pretendi,'preten.0i','故作[gù zuò]')).
+assert(celo(pretendi,'preten.0i','声称[shēng chēng],聲稱[shēng chēng]')).
+assert(celo(pretendo,'preten.0o','渴求[kě qiú]')).
+assert(celo(pretendo,'preten.0o','索賠權[suǒ péi quán],索赔权[suǒ péi quán]')).
+assert(celo(pretendo,'preten.0o','請求權[qǐng qiú quán],请求权[qǐng qiú quán]')).
+assert(celo(pretendo,'preten.0o','要求[yāo qiú]')).
+assert(celo(malpretendi,'preten.mal0i','戒除[jiè chú]')).
+assert(celo(malpretendi,'preten.mal0i','捨棄[shě qì],舍弃[shě qì]')).
+assert(celo(malpretendi,'preten.mal0i','放弃[fàng qì],放棄[fàng qì]')).
+assert(celo(senpretenda,'preten.sen0a','切去头端[qiē qù tóu duān],切去頭端[qiē qù tóu duān]')).
+assert(celo(senpretenda,'preten.sen0a','微賤[wéi jiàn],微贱[wéi jiàn]')).
+assert(celo(senpretenda,'preten.sen0a','自謙[zì qiān],自谦[zì qiān]')).
+assert(celo(senpretenda,'preten.sen0a','婧[jìng]')).
+assert(celo(senpretenda,'preten.sen0a','虚心[xū xīn],虛心[xū xīn]')).
+assert(celo(senpretenda,'preten.sen0a','謙[qiān],谦[qiān]')).
+assert(celo(preteri,'preter.0i','过去[guò qù],過去[guò qù]')).
+assert(celo(preteri,'preter.0i','飛逝[fēi shì],飞逝[fēi shì]')).
+assert(celo(pretere,'','过去[guò qù],過去[guò qù]')).
+assert(celo(preterumi,'preter.0i','过去[guò qù],過去[guò qù]')).
+assert(celo(preterito,'preter1.0o','过去时[guò qu shí],過去時[guò qu shí]')).
+assert(celo(preterito,'preter1.0o','过去式[guò qu shì],過去式[guò qu shì]')).
+assert(celo(preterito,'preter1.0o','过去时[guò qù shí],過去時[guò qù shí]')).
+assert(celo(preterito,'preter1.0o','未完成时[wèi wán chéng shí],未完成時[wèi wán chéng shí]')).
+assert(celo('Pretorio','pretori.0o','比勒陀利亚[Bǐ lè tuó lì yà],比勒陀利亞[Bǐ lè tuó lì yà]')).
+assert(celo('Pretorio','pretori.0o','普利托里亚[Pǔ lì tuō lǐ yà],普利托里亞[Pǔ lì tuō lǐ yà]')).
+assert(celo(preventi,'preven.0i','免除[miǎn chú]')).
+assert(celo(preventi,'preven.0i','防止[fáng zhǐ]')).
+assert(celo(preventi,'preven.0i','預防性[yù fáng xìng],预防性[yù fáng xìng]')).
+assert(celo(preventi,'preven.0i','防備[fáng bèi],防备[fáng bèi]')).
+assert(celo(prezo,'prez.0o','价格[jià gé],價格[jià gé]')).
+assert(celo(prezo,'prez.0o','代价[dài jià],代價[dài jià]')).
+assert(celo(prezo,'prez.0o','价钱[jià qian],價錢[jià qian]')).
+assert(celo(prezenco,'prezen.0o','现在式[xiàn zài shì],現在式[xiàn zài shì]')).
+assert(celo(prezentado,'prezen1.0ado','样品说明书[yàng pǐn shuō míng shū],樣品說明書[yàng pǐn shuō míng shū]')).
+assert(celo(prezentado,'prezen1.0ado','演示[yǎn shì]')).
+assert(celo(prezentado,'prezen1.0ado','演講[yǎn jiǎng],演讲[yǎn jiǎng]')).
+assert(celo(prezentaĵo,'prezen1.0ajxo','打印賬單[dǎ yìn zhàng dān],打印账单[dǎ yìn zhàng dān]')).
+assert(celo(prezentaĵo,'prezen1.0ajxo','表述[biǎo shù]')).
+assert(celo(prezentaĵo,'prezen1.0ajxo','人物描写[rén wù miáo xiě],人物描寫[rén wù miáo xiě]')).
+assert(celo(prezentaĵo,'prezen1.0ajxo','显示[xiǎn shì],顯示[xiǎn shì]')).
+assert(celo(prezentejo,'prezen1.0ejo','陈列台[chén liè tái],陳列臺[chén liè tái]')).
+assert(celo(prezentejo,'prezen1.0ejo','台[tái],臺[tái]')).
+assert(celo(prezenti,'prezen1.0i.SCI','描述性[miáo shù xìng]')).
+assert(celo(prezenti,'prezen1.0i.bildigi','具象[jù xiàng]')).
+assert(celo(prezenti,'prezen1.0i.esti','描述性[miáo shù xìng]')).
+assert(celo(prezenti,'prezen1.0i.iun','当成[dàng chéng],當成[dàng chéng]')).
+assert(celo(prezenti,'prezen1.0i.proponi','提出[tí chū]')).
+assert(celo(prezenti,'prezen1.0i.proponi','介紹[jiè shào],介绍[jiè shào]')).
+assert(celo(prezenti,'prezen1.0i.proponi','出示[chū shì]')).
+assert(celo(prezento,'prezen1.0o','演示[yǎn shì]')).
+assert(celo(prezento,'prezen1.0o','样品说明书[yàng pǐn shuō míng shū],樣品說明書[yàng pǐn shuō míng shū]')).
+assert(celo(prezento,'prezen1.0o','演講[yǎn jiǎng],演讲[yǎn jiǎng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','影像[yǐng xiàng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','画面[huà miàn],畫面[huà miàn]')).
+assert(celo('grafika prezento','prezen1.grafika0o','想像[xiǎng xiàng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','图形[tú xíng],圖形[tú xíng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','图解[tú jiě],圖解[tú jiě]')).
+assert(celo('grafika prezento','prezen1.grafika0o','形像[xíng xiàng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','印像[yìn xiàng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','图像[tú xiàng],圖像[tú xiàng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','心像[xīn xiàng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','心想[xīn xiǎng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','映像[yìng xiàng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','相似的事物[xiāng sì de shì wù]')).
+assert(celo('grafika prezento','prezen1.grafika0o','肖像[xiào xiàng]')).
+assert(celo('grafika prezento','prezen1.grafika0o','成像[chéng xiàng]')).
+assert(celo(misprezenti,'prezen1.mis0i','曲解[qū jiě]')).
+assert(celo(misprezenti,'prezen1.mis0i','使失真[shǐ shī zhēn]')).
+assert(celo(misprezenti,'prezen1.mis0i','使难看[shǐ nán kàn],使難看[shǐ nán kàn]')).
+assert(celo(misprezenti,'prezen1.mis0i','歪曲[wāi qū]')).
+assert(celo(misprezenti,'prezen1.mis0i','讒[chán],谗[chán]')).
+assert(celo(praprezento,'prezen1.pra0o','首映[shǒu yìng]')).
+assert(celo(praprezento,'prezen1.pra0o','首演[shǒu yǎn]')).
+assert(celo(prezidanto,'prezid.0anto','主席[zhǔ xí]')).
+assert(celo(prezidanto,'prezid.0anto','总裁[zǒng cái],總裁[zǒng cái]')).
+assert(celo(prezidanto,'prezid.0anto','董事長[dǒng shì zhǎng],董事长[dǒng shì zhǎng]')).
+assert(celo(prezidanto,'prezid.0anto','社長[shè zhǎng],社长[shè zhǎng]')).
+assert(celo(prezidanto,'prezid.0anto','会长[huì zhǎng],會長[huì zhǎng]')).
+assert(celo(prezidento,'prezident.0o','大总统[dà zǒng tǒng],大總統[dà zǒng tǒng]')).
+assert(celo(prezidento,'prezident.0o','总统[zǒng tǒng],總統[zǒng tǒng]')).
+assert(celo(pri,'pri.0','关于[guān yú],關於[guān yú]')).
+assert(celo(pri,'pri.0','对于[duì yú],對於[duì yú]')).
+assert(celo(primo,'prim.0o.entjero','素数[sù shù],素數[sù shù]')).
+assert(celo(primo,'prim.0o.entjero','質數[zhì shù],质数[zhì shù]')).
+assert(celo(primo,'prim.0o.entjero','素数[sù shǔ],素數[sù shǔ]')).
+assert(celo(primo,'prim.0o.entjero','質數[zhí shù],质数[zhí shù]')).
+assert(celo(primara,'primar.0a','原生[yuán shēng]')).
+assert(celo(primara,'primar.0a','初生[chū shēng]')).
+assert(celo(primara,'primar.0a','初級[chū jí],初级[chū jí]')).
+assert(celo(primara,'primar.0a','原[yuán]')).
+assert(celo(primara,'primar.0a','最初[zuì chū]')).
+assert(celo(primato,'primat.0o','灵长目[líng zhǎng mù],靈長目[líng zhǎng mù]')).
+assert(celo(primavero,'primaver.0o','春天[chūn tiān]')).
+assert(celo(primavero,'','春[chūn]')).
+assert(celo(primitiva,'primit.0a','原始[yuán shǐ]')).
+assert(celo(primitiva,'primit.0a','原[yuán]')).
+assert(celo(primitiva,'primit.0a','未开化[wèi kāi huà],未開化[wèi kāi huà]')).
+assert(celo(primitiva,'primit.0a','蒙昧[méng mèi]')).
+assert(celo(primolo,'primol.0o','樱花草[yīng huā cǎo],櫻花草[yīng huā cǎo]')).
+assert(celo(primolo,'primol.0o','報春花[bào chūn huā],报春花[bào chūn huā]')).
+assert(celo(princidino,'princ.0idino','公主[gōng zhǔ]')).
+assert(celo(princido,'princ.0ido','龢碩[hé shuò]')).
+assert(celo(princido,'princ.0ido','皇子[huáng zǐ]')).
+assert(celo(princido,'princ.0ido','太子[tài zǐ]')).
+assert(celo(princido,'princ.0ido','亲王[qīn wáng],親王[qīn wáng]')).
+assert(celo(princino,'princ.0ino','公主[gōng zhǔ]')).
+assert(celo(princlando,'princ.0lando','侯国[hóu guó],侯國[hóu guó]')).
+assert(celo(princlando,'princ.0lando','侯爵領地[hóu jué lǐng dì],侯爵领地[hóu jué lǐng dì]')).
+assert(celo(princlando,'princ.0lando','公国[gōng guó],公國[gōng guó]')).
+assert(celo(princo,'princ.0o','王子[wáng zǐ]')).
+assert(celo(princo,'princ.0o','皇子[huáng zǐ]')).
+assert(celo(princo,'princ.0o','亲王[qīn wáng],親王[qīn wáng]')).
+assert(celo(princo,'princ.0o','太子[tài zǐ]')).
+assert(celo(princo,'princ.0o','皇太子[huáng tài zǐ]')).
+assert(celo(princujo,'princ.0ujo','公国[gōng guó],公國[gōng guó]')).
+assert(celo(kronprinco,'princ.kron0o','皇太子[huáng tài zǐ]')).
+assert(celo(kronprinco,'princ.kron0o','储君[chú jūn],儲君[chú jūn]')).
+assert(celo(kronprinco,'princ.kron0o','太子[tài zǐ]')).
+assert(celo(kronprinco,'princ.kron0o','王储[wáng chú],王儲[wáng chú]')).
+assert(celo(kronprinco,'princ.kron0o','皇储[huáng chǔ],皇儲[huáng chǔ]')).
+assert(celo(principe,'princi.0e','原则性[yuán zé xìng],原則性[yuán zé xìng]')).
+assert(celo(principe,'princi.0e','原则上[yuán zé shàng],原則上[yuán zé shàng]')).
+assert(celo(principe,'princi.0e','原则上[yuán zé shang],原則上[yuán zé shang]')).
+assert(celo(principe,'princi.0e','据理[jù lǐ],據理[jù lǐ]')).
+assert(celo(principe,'princi.0e','按原则[àn yuán zé],按原則[àn yuán zé]')).
+assert(celo(principo,'princi.0o','原理[yuán lǐ]')).
+assert(celo(principo,'princi.0o','原则[yuán zé],原則[yuán zé]')).
+assert(celo(principo,'princi.0o','道理[dào li]')).
+assert(celo(principo,'princi.0o','基本原理[jī běn yuán lǐ]')).
+assert(celo(principo,'princi.0o','理则[lǐ zé],理則[lǐ zé]')).
+assert(celo(laŭprincipe,'princi.laux0e','原则上[yuán zé shàng],原則上[yuán zé shàng]')).
+assert(celo(laŭprincipe,'princi.laux0e','按原则[àn yuán zé],按原則[àn yuán zé]')).
+assert(celo(samprincipano,'princi.sam0ano','同調[tóng diào],同调[tóng diào]')).
+assert(celo(samprincipano,'princi.sam0ano','真情[zhēn qíng]')).
+assert(celo(samprincipano,'princi.sam0ano','同道[tóng dào]')).
+assert(celo(printaĵo,'print.0ajxo','打印稿[dǎ yìn gǎo]')).
+assert(celo(printaĵo,'print.0ajxo','打印輸出[dǎ yìn shū chū],打印输出[dǎ yìn shū chū]')).
+assert(celo(printi,'print.0i.FOT','列印[liè yìn]')).
+assert(celo(printilo,'print.0ilo','打印机[dǎ yìn jī],打印機[dǎ yìn jī]')).
+assert(celo(printilo,'print.0ilo','印表机[yìn biǎo jī],印表機[yìn biǎo jī]')).
+assert(celo('Praga Printempo','printe.praga0o.HIS','布拉格之春[bù lā gé zhī chūn]')).
+assert(celo(priono,'prion.0o','朊毒体[ruǎn dú tǐ],朊毒體[ruǎn dú tǐ]')).
+assert(celo(prioro,'prior.0o','大修道院副院長[dài xiū dào yuàn fù yuàn zhǎng],大修道院副院长[dài xiū dào yuàn fù yuàn zhǎng]')).
+assert(celo(prioro,'prior.0o','小修道院院長[xiǎo xiū dào yuàn yuàn zhǎng],小修道院院长[xiǎo xiū dào yuàn yuàn zhǎng]')).
+assert(celo(prioritata,'prioritat.0a','优先[yōu xiān],優先[yōu xiān]')).
+assert(celo(prioritata,'prioritat.0a.KOMUNE','着紧[zháo jǐn],著緊[zháo jǐn]')).
+assert(celo(prioritata,'prioritat.0a.KOMUNE','佔首要地位[zhàn shǒu yào dì wèi],占首要地位[zhàn shǒu yào dì wèi]')).
+assert(celo(prioritata,'prioritat.0a.KOMUNE','前沿阵地[qián yán zhèn dì],前沿陣地[qián yán zhèn dì]')).
+assert(celo(prioritata,'prioritat.0a.KOMUNE','特別重要[tè bié zhòng yào],特别重要[tè bié zhòng yào]')).
+assert(celo(prioritate,'prioritat.0e.KOMUNE','着紧[zháo jǐn],著緊[zháo jǐn]')).
+assert(celo(prioritate,'prioritat.0e.KOMUNE','率先[shuài xiān]')).
+assert(celo(prioritato,'prioritat.0o','优先[yōu xiān],優先[yōu xiān]')).
+assert(celo(prioritato,'prioritat.0o','先河[xiān hé]')).
+assert(celo(prioritato,'prioritat.0o','优先权[yōu xiān quán],優先權[yōu xiān quán]')).
+assert(celo(prioritato,'prioritat.0o','偏好[piān hào]')).
+assert(celo(prioritato,'prioritat.0o','优先级[yōu xiān jí],優先級[yōu xiān jí]')).
+assert(celo(prioritato,'prioritat.0o','首要任务[shǒu yào rèn wù],首要任務[shǒu yào rèn wù]')).
+assert(celo(privata,'privat.0a','私家[sī jiā]')).
+assert(celo(privata,'privat.0a','私立[sī lì]')).
+assert(celo(privata,'privat.0a','私人[sī rén]')).
+assert(celo(privata,'privat.0a','黮[tán]')).
+assert(celo(privata,'privat.0a','私有[sī yǒu]')).
+assert(celo(privata,'privat.0a','私營[sī yíng],私营[sī yíng]')).
+assert(celo(privata,'privat.0a','个体经营户[gè tǐ jīng yíng hù],個體經營戶[gè tǐ jīng yíng hù]')).
+assert(celo(privata,'privat.0a','私密[sī mì]')).
+assert(celo(privata,'privat.0a','私自[sī zì]')).
+assert(celo(privata,'privat.0a','民办[mín bàn],民辦[mín bàn]')).
+assert(celo(privataĵo,'privat.0ajxo','私事[sī shì]')).
+assert(celo(privataĵo,'privat.0ajxo','私人业务[sī rén yè wù],私人業務[sī rén yè wù]')).
+assert(celo(privateco,'privat.0eco','个人隐私[gè rén yǐn sī],個人隱私[gè rén yǐn sī]')).
+assert(celo(privateco,'privat.0eco','私生活[sī shēng huó]')).
+assert(celo(privateco,'privat.0eco','隐私权[yǐn sī quán],隱私權[yǐn sī quán]')).
+assert(celo(privatigi,'privat.0igi','私有化[sī yǒu huà]')).
+assert(celo(privatigo,'privat.0igo','私有化[sī yǒu huà]')).
+assert(celo(privatigo,'privat.0igo','民營化[mín yíng huà],民营化[mín yíng huà]')).
+assert(celo(privilegio,'privil.0o','特权[tè quán],特權[tè quán]')).
+assert(celo(privilegio,'privil.0o','殊榮[shū róng],殊荣[shū róng]')).
+assert(celo(prizono,'prizon.0o','囚禁[qiú jìn]')).
+assert(celo(prizono,'prizon.0o','监狱[jiān yù],監獄[jiān yù]')).
+assert(celo(prizono,'prizon.0o','狱[yù],獄[yù]')).
+assert(celo(prizono,'prizon.0o','牢房[láo fáng]')).
+assert(celo(prizono,'prizon.0o','大牢[dà láo]')).
+assert(celo(prizono,'prizon.0o','大狱[dà yù],大獄[dà yù]')).
+assert(celo(prizono,'prizon.0o','犴[àn]')).
+assert(celo(prizono,'prizon.0o','牢狱[láo yù],牢獄[láo yù]')).
+assert(celo(prizono,'prizon.0o','豻[àn]')).
+assert(celo(prizonulo,'prizon.0ulo','囚[qiú]')).
+assert(celo(prizonulo,'prizon.0ulo','囚犯[qiú fàn]')).
+assert(celo(prizonulo,'prizon.0ulo','犯人[fàn rén]')).
+assert(celo(prizonulo,'prizon.0ulo','拘囚[jū qiú]')).
+assert(celo(elprizonigi,'prizon.el0igi','放出去[fàng chū qù]')).
+assert(celo(enprizonigi,'prizon.en0igi','监禁[jiān jìn],監禁[jiān jìn]')).
+assert(celo(enprizonigi,'prizon.en0igi','圄[yǔ]')).
+assert(celo(pro,'pro.0','以飨[yǐ xiǎng],以饗[yǐ xiǎng]')).
+assert(celo(pro,'pro.0.kial','由于[yóu yú],由於[yóu yú]')).
+assert(celo(pro,'pro.0.kial','因[yīn]')).
+assert(celo(pro,'pro.0.kial','因为[yīn wèi],因為[yīn wèi]')).
+assert(celo(pro,'pro.0.kial','为着[wèi zhe],為著[wèi zhe]')).
+assert(celo(pro,'pro.0.kial','为[wèi],爲[wèi]')).
+assert(celo('pro tio ke','pro.0_tio_ke','因[yīn]')).
+assert(celo('pro tio ke','pro.0_tio_ke','基于[jī yú],基於[jī yú]')).
+assert(celo('pro tio ke','pro.0_tio_ke','为[wèi],為[wèi]')).
+assert(celo('pro tio ke','pro.0_tio_ke','为着[wèi zhe],為著[wèi zhe]')).
+assert(celo('pro tio ke','pro.0_tio_ke','緣於[yuán yú],缘于[yuán yú]')).
+assert(celo('pro tio ke','pro.0_tio_ke','由于[yóu yú],由於[yóu yú]')).
+assert(celo('pro tio ke','pro.0_tio_ke','因如此[yīn rú cǐ]')).
+assert(celo(probabla,'probab.0a','很可能[hěn kě néng]')).
+assert(celo(probabla,'probab.0a','大約[dà yuē],大约[dà yuē]')).
+assert(celo(probabla,'probab.0a','預料[yù liào],预料[yù liào]')).
+assert(celo(probabla,'probab.0a','莫不[mò bù]')).
+assert(celo(probabla,'probab.0a','或然[huò rán]')).
+assert(celo(probabla,'probab.0a','莫不是[mò bù shì]')).
+assert(celo(probabla,'probab.0a','可能地[kě néng de]')).
+assert(celo(probabla,'probab.0a','几乎能肯定[jī hū néng kěn dìng],幾乎能肯定[jī hū néng kěn dìng]')).
+assert(celo(probabla,'probab.0a','极为可能[jí wéi kě néng],極為可能[jí wéi kě néng]')).
+assert(celo(probabla,'probab.0a','想必[xiǎng bì]')).
+assert(celo(probable,'probab.0e','很可能[hěn kě néng]')).
+assert(celo(probable,'probab.0e','当然[dāng rán],當然[dāng rán]')).
+assert(celo(probable,'probab.0e','八成[bā chéng]')).
+assert(celo(probableco,'probab.0eco','可能性[kě néng xìng]')).
+assert(celo(probableco,'probab.0eco','或然率[huò rán lù:]')).
+assert(celo(probableco,'probab.0eco','机率[jī lù:],機率[jī lù:]')).
+assert(celo(probableco,'probab.0eco','概率[gài lù:]')).
+assert(celo('kondiĉa probablo','probab.kondicxa0o','条件概率[tiáo jiàn gài lù:],條件概率[tiáo jiàn gài lù:]')).
+assert(celo('kondiĉa probablo','probab.kondicxa0o','条件概率[tiáo jiàn gài lǜ],條件概率[tiáo jiàn gài lǜ]')).
+assert(celo('kondiĉa probablo','probab.kondicxa0o','条件机率[tiáo jiàn jī lǜ],條件機率[tiáo jiàn jī lǜ]')).
+assert(celo(problema,'proble.0a','成問題[chéng wèn tí],成问题[chéng wèn tí]')).
+assert(celo(problema,'proble.0a','挠头[náo tóu],撓頭[náo tóu]')).
+assert(celo(problema,'proble.0a','有問題[yǒu wèn tí],有问题[yǒu wèn tí]')).
+assert(celo(problema,'proble.0a','疑难[yí nàn],疑難[yí nàn]')).
+assert(celo(procedi,'proced.0i','加工[jiā gōng]')).
+assert(celo(procedi,'proced.0i','进行[jìn xíng],進行[jìn xíng]')).
+assert(celo(procedi,'proced.0i','作法[zuò fǎ]')).
+assert(celo(procedo,'proced.0o','制程[zhì chéng],製程[zhì chéng]')).
+assert(celo(procedo,'proced.0o','过程[guò chéng],過程[guò chéng]')).
+assert(celo(procedo,'proced.0o','工序[gōng xù]')).
+assert(celo(procedo,'proced.0o','手段[shǒu duàn]')).
+assert(celo(procedo,'proced.0o','办法[bàn fǎ],辦法[bàn fǎ]')).
+assert(celo(procedo,'proced.0o','方法[fāng fǎ]')).
+assert(celo(procedo,'proced.0o','历程[lì chéng],歷程[lì chéng]')).
+assert(celo(procedo,'proced.0o','官司[guān si]')).
+assert(celo(procedo,'proced.0o','做法[zuò fǎ]')).
+assert(celo(proceduro,'proced1.0o','程序[chéng xù]')).
+assert(celo(procelarioformaj,'procel.0oformaj','鸌形目[hù xíng mù],鹱形目[hù xíng mù]')).
+assert(celo(procentego,'procen.0ego','高利[gāo lì]')).
+assert(celo(procento,'procen.0o','百分[bǎi fēn]')).
+assert(celo(procento,'procen.0o','百分率[bǎi fēn lù:]')).
+assert(celo(procento,'procen.0o','百分之[bǎi fēn zhī]')).
+assert(celo(procento,'procen.0o','百分数[bǎi fēn shù],百分數[bǎi fēn shù]')).
+assert(celo(procento,'procen.0o','百分比[bǎi fēn bǐ]')).
+assert(celo(procento,'procen.0o','%[pā]')).
+assert(celo(procento,'procen.0o','巴仙[bā xiān]')).
+assert(celo(procento,'procen.0o','巴先[bā xiān]')).
+assert(celo(centprocente,'procen.cent0e','百分[bǎi fēn]')).
+assert(celo(procesi,'proces.0i','打官司[dǎ guān si]')).
+assert(celo(procesi,'proces.0i','告[gào]')).
+assert(celo(procesi,'proces.0i','状告[zhuàng gào],狀告[zhuàng gào]')).
+assert(celo(procesi,'proces.0i','起訴[qǐ sù],起诉[qǐ sù]')).
+assert(celo(proceso,'proces.0o','制程[zhì chéng]')).
+assert(celo(proceso,'proces.0o','流程[liú chéng]')).
+assert(celo(proceso,'proces.0o.JUR','官司[guān si]')).
+assert(celo(proceso,'proces.0o.JUR','訴訟[sù sòng],诉讼[sù sòng]')).
+assert(celo(proceso,'proces.0o.JUR','訟[sòng],讼[sòng]')).
+assert(celo(procesio,'proces1.0o','成队[chéng duì],成隊[chéng duì]')).
+assert(celo(procesio,'proces1.0o','排队前进[pái duì qián jìn],排隊前進[pái duì qián jìn]')).
+assert(celo(procesio,'proces1.0o','排队游行[pái duì yóu xíng],排隊遊行[pái duì yóu xíng]')).
+assert(celo(procesio,'proces1.0o','行列[háng liè]')).
+assert(celo(procesoro,'proceso.0o','处理器[chǔ lǐ qì],處理器[chǔ lǐ qì]')).
+assert(celo(procesoro,'proceso.0o','微处理器[wēi chǔ lǐ qì],微處理器[wēi chǔ lǐ qì]')).
+assert(celo(ĉefprocesoro,'','主机[zhǔ jī],主機[zhǔ jī]')).
+assert(celo(kromprocesoro,'proceso.krom0o','协处理器[xié chǔ lǐ qì],協處理器[xié chǔ lǐ qì]')).
+assert(celo(procezo,'procez.0o','制程[zhì chéng],製程[zhì chéng]')).
+assert(celo(procezo,'procez.0o','工序[gōng xù]')).
+assert(celo(procezo,'procez.0o','过程[guò chéng],過程[guò chéng]')).
+assert(celo(procezo,'procez.0o','方法[fāng fǎ]')).
+assert(celo(procezo,'procez.0o','进程[jìn chéng],進程[jìn chéng]')).
+assert(celo(prociono,'procion.0o','浣熊[huǎn xióng]')).
+assert(celo(prociono,'procion.0o','浣熊[huàn xióng]')).
+assert(celo(prodiga,'prodig.0a','挥霍[huī huò],揮霍[huī huò]')).
+assert(celo(prodiga,'prodig.0a','靡[mí]')).
+assert(celo(prodiga,'prodig.0a','侈[chǐ]')).
+assert(celo(prodiga,'prodig.0a','闊氣[kuò qi],阔气[kuò qi]')).
+assert(celo(prodigi,'prodig.0i','靡[mí]')).
+assert(celo(prodigi,'prodig.0i','挥霍[huī huò],揮霍[huī huò]')).
+assert(celo(prodigi,'prodig.0i','浪費[làng fèi],浪费[làng fèi]')).
+assert(celo(prodigi,'prodig.0i','滥施[làn shī],濫施[làn shī]')).
+assert(celo(prodigi,'prodig.0i','糟踏[zāo tà]')).
+assert(celo(prodigo,'prodig.0o','奢靡[shē mí]')).
+assert(celo(prodigo,'prodig.0o','虚耗[xū hào],虛耗[xū hào]')).
+assert(celo(produktaĵo,'produk.0ajxo','成品[chéng pǐn]')).
+assert(celo(produktaĵo,'produk.0ajxo','产品[chǎn pǐn],產品[chǎn pǐn]')).
+assert(celo(produktaĵo,'produk.0ajxo','产物[chǎn wù],產物[chǎn wù]')).
+assert(celo(produktaĵo,'produk.0ajxo','产出[chǎn chū],產出[chǎn chū]')).
+assert(celo(produktejo,'produk.0ejo','生产中心[shēng chǎn zhōng xīn],生產中心[shēng chǎn zhōng xīn]')).
+assert(celo(produktejo,'produk.0ejo','生产厂[shēng chǎn chǎng],生產廠[shēng chǎn chǎng]')).
+assert(celo(produktejo,'produk.0ejo','生产场地[shēng chǎn chǎng dì],生产場地[shēng chǎn chǎng dì]')).
+assert(celo(produkti,'produk.0i','出品[chū pǐn]')).
+assert(celo(produkti,'produk.0i','制品[zhì pǐn],製品[zhì pǐn]')).
+assert(celo(produkti,'produk.0i','生产[shēng chǎn],生產[shēng chǎn]')).
+assert(celo(produkti,'produk.0i','创造[chuàng zào],創造[chuàng zào]')).
+assert(celo(produkti,'produk.0i','产出[chǎn chū],產出[chǎn chū]')).
