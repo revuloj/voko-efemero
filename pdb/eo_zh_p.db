@@ -4432,3 +4432,345 @@ assert(celo(produkti,'produk.0i','制品[zhì pǐn],製品[zhì pǐn]')).
 assert(celo(produkti,'produk.0i','生产[shēng chǎn],生產[shēng chǎn]')).
 assert(celo(produkti,'produk.0i','创造[chuàng zào],創造[chuàng zào]')).
 assert(celo(produkti,'produk.0i','产出[chǎn chū],產出[chǎn chū]')).
+assert(celo(produkto,'produk.0o.produktajxo','成品[chéng pǐn]')).
+assert(celo(produkto,'produk.0o.produktajxo','产品[chǎn pǐn],產品[chǎn pǐn]')).
+assert(celo(produkto,'produk.0o.produktajxo','产物[chǎn wù],產物[chǎn wù]')).
+assert(celo(produkto,'produk.0o.produktajxo','产出[chǎn chū],產出[chǎn chū]')).
+assert(celo(reprodukti,'produk.re0i','殖[zhí]')).
+assert(celo(reprodukti,'produk.re0i','复制[fù zhì],複製[fù zhì]')).
+assert(celo(reprodukti,'produk.re0i','翻版[fān bǎn]')).
+assert(celo(reprodukti,'produk.re0i','翻拍[fān pāi]')).
+assert(celo(reprodukti,'produk.re0i.BIO','产[chǎn],產[chǎn]')).
+assert(celo(reprodukti,'produk.re0i.BIO','繁殖[fán zhí]')).
+assert(celo(subprodukto,'produk.sub0o.TEK','副产品[fù chǎn pǐn],副產品[fù chǎn pǐn]')).
+assert(celo(produktiva,'produk1.0a','能生产[néng shēng chǎn],能生產[néng shēng chǎn]')).
+assert(celo(produktiva,'produk1.0a','多子[duō zǐ]')).
+assert(celo(produktiva,'produk1.0a','多产[duō chǎn],多產[duō chǎn]')).
+assert(celo(produktiveco,'produk1.0eco','生产力[shēng chǎn lì],生產力[shēng chǎn lì]')).
+assert(celo(produto,'produt.0o','积数[jī shù],積數[jī shù]')).
+assert(celo('ekstera produto','produt.ekstera0o','叉积[chā jī],叉積[chā jī]')).
+assert(celo('interna produto','produt.interna0o','标积[biāo jī],標積[biāo jī]')).
+assert(celo('interna produto','produt.interna0o','数量积[shù liàng jī],數量積[shù liàng jī]')).
+assert(celo('interna produto','produt.interna0o','点乘[diǎn chéng],點乘[diǎn chéng]')).
+assert(celo('interna produto','produt.interna0o','点积[diǎn jī],點積[diǎn jī]')).
+assert(celo('kartezia produto','produt.kartezia0o','笛卡儿积[dí kǎ ér jī],笛卡兒積[dí kǎ ér jī]')).
+assert(celo('skalara produto','produt.skalara0o','数量积[shù liàng jī],數量積[shù liàng jī]')).
+assert(celo('skalara produto','produt.skalara0o','标积[biāo jī],標積[biāo jī]')).
+assert(celo('skalara produto','produt.skalara0o','点积[diǎn jī],點積[diǎn jī]')).
+assert(celo('vektora produto','produt.vektora0o','向量积[xiàng liàng jī],向量積[xiàng liàng jī]')).
+assert(celo(profana,'profan.0a','世俗[shì sú]')).
+assert(celo(profani,'profan.0i','亵渎[xiè dú],褻瀆[xiè dú]')).
+assert(celo(profani,'profan.0i','亵黩[xiè dú],褻黷[xiè dú]')).
+assert(celo(profesia,'profes.0a','懂局[dǒng jú]')).
+assert(celo(profesia,'profes.0a','专职[zhuān zhí],專職[zhuān zhí]')).
+assert(celo(profesiisto,'profes.0isto','執業[zhí yè],执业[zhí yè]')).
+assert(celo(profesiisto,'profes.0isto','好手[hǎo shǒu]')).
+assert(celo(profesiisto,'profes.0isto','懂門兒[dǒng mén r],懂门儿[dǒng mén r]')).
+assert(celo(profesio,'profes.0o','职业[zhí yè],職業[zhí yè]')).
+assert(celo(profesio,'profes.0o','业务[yè wù],業務[yè wù]')).
+assert(celo(profesio,'profes.0o','行当[háng dang],行當[háng dang]')).
+assert(celo(profesio,'profes.0o','业[yè],業[yè]')).
+assert(celo(profesio,'profes.0o','产业[chǎn yè],產業[chǎn yè]')).
+assert(celo(profesio,'profes.0o','行业[háng yè],行業[háng yè]')).
+assert(celo('libera profesio','profes.libera0o.HIS','自由职业[zì yóu zhí yè],自由職業[zì yóu zhí yè]')).
+assert(celo(samprofesiulo,'profes.sam0ulo','同事[tóng shì]')).
+assert(celo(samprofesiulo,'profes.sam0ulo','同人[tóng rén]')).
+assert(celo(samprofesiulo,'profes.sam0ulo','同僚[tóng liáo]')).
+assert(celo(samprofesiulo,'profes.sam0ulo','同业[tóng yè],同業[tóng yè]')).
+assert(celo(profesoro,'profes1.0o','教授[jiào shòu]')).
+assert(celo(profetaĵo,'profet.0ajxo','讖[chèn],谶[chèn]')).
+assert(celo(profetaĵo,'profet.0ajxo','預言[yù yán],预言[yù yán]')).
+assert(celo(profetaĵo,'profet.0ajxo','預兆[yù zhào],预兆[yù zhào]')).
+assert(celo(profetaĵo,'profet.0ajxo','讖語[chèn yǔ],谶语[chèn yǔ]')).
+assert(celo(profeti,'profet.0i','預言[yù yán],预言[yù yán]')).
+assert(celo(profeto,'profet.0o','先知[xiān zhī]')).
+assert(celo(profeto,'profet.0o','預言家[yù yán jiā],预言家[yù yán jiā]')).
+assert(celo(profeto,'profet.0o','先見者[xiān jiàn zhě],先见者[xiān jiàn zhě]')).
+assert(celo(profeto,'profet.0o','預告者[yù gào zhě],预告者[yù gào zhě]')).
+assert(celo(profilo,'profil.0o','型材[xíng cái]')).
+assert(celo(profilo,'profil.0o','侧写[cè xiě],側寫[cè xiě]')).
+assert(celo(profilo,'profil.0o','侧影[cè yǐng],側影[cè yǐng]')).
+assert(celo(profilo,'profil.0o','侧貌[cè mào],側貌[cè mào]')).
+assert(celo(profilo,'profil.0o','档案资料[dàng àn zī liào],檔案資料[dàng àn zī liào]')).
+assert(celo(profilaktika,'profilak.0a','預防性[yù fáng xìng],预防性[yù fáng xìng]')).
+assert(celo(profilaktika,'profilak.0a','預防[yù fáng],预防[yù fáng]')).
+assert(celo(profilaktiko,'profilak.0o','疾病的預防措施[jí bìng de yù fáng cuò shī],疾病的预防措施[jí bìng de yù fáng cuò shī]')).
+assert(celo(profilaktiko,'profilak.0o','預防措施[yù fáng cuò shī],预防措施[yù fáng cuò shī]')).
+assert(celo(profita,'profit.0a','益[yì]')).
+assert(celo(profita,'profit.0a','有利可图[yǒu lì kě tú],有利可圖[yǒu lì kě tú]')).
+assert(celo(profita,'profit.0a','划算[huá suàn]')).
+assert(celo(profita,'profit.0a','有利益[yǒu lì yì]')).
+assert(celo(profita,'profit.0a','优越[yōu yuè],優越[yōu yuè]')).
+assert(celo(profita,'profit.0a','裨[bì]')).
+assert(celo(profita,'profit.0a','有利[yǒu lì]')).
+assert(celo(profita,'profit.0a','可賺錢[kě zhuàn qián],可赚钱[kě zhuàn qián]')).
+assert(celo(profita,'profit.0a','得益[dé yì]')).
+assert(celo('profite de','profit.0ede','互相利用[hù xiāng lì yòng]')).
+assert(celo(profitema,'profit.0ema','一味追逐利润[yī wèi zhuī zhú lì rùn],一味追逐利潤[yī wèi zhuī zhú lì rùn]')).
+assert(celo(profitema,'profit.0ema','營利[yíng lì],营利[yíng lì]')).
+assert(celo(profitema,'profit.0ema','貪心[tān xīn],贪心[tān xīn]')).
+assert(celo(profiti,'profit.0i','受益[shòu yì]')).
+assert(celo(profiti,'profit.0i','盈利[yíng lì]')).
+assert(celo(profiti,'profit.0i','牟取暴利[móu qǔ bào lì]')).
+assert(celo(profitigi,'profit.0igi','有助于[yǒu zhù yú],有助於[yǒu zhù yú]')).
+assert(celo(profito,'profit.0o','利润[lì rùn],利潤[lì rùn]')).
+assert(celo(profito,'profit.0o','好处[hǎo chu],好處[hǎo chu]')).
+assert(celo(profito,'profit.0o','盈利[yíng lì]')).
+assert(celo(profito,'profit.0o','益[yì]')).
+assert(celo(profito,'profit.0o','利[lì]')).
+assert(celo(profito,'profit.0o','收益[shōu yì]')).
+assert(celo(profitigi,'','贏利[yíng lì],赢利[yíng lì]')).
+assert(celo(malprofito,'profit.mal0o','损失[sǔn shī],損失[sǔn shī]')).
+assert(celo(malprofito,'profit.mal0o','亏损[kuī sǔn],虧損[kuī sǔn]')).
+assert(celo(malprofito,'profit.mal0o','损耗[sǔn hào],損耗[sǔn hào]')).
+assert(celo(malprofito,'profit.mal0o','丧命[sàng mìng],喪命[sàng mìng]')).
+assert(celo(neprofitema,'profit.ne0ema','无私[wú sī],無私[wú sī]')).
+assert(celo(neprofitema,'profit.ne0ema','忘我[wàng wǒ]')).
+assert(celo(neprofitema,'profit.ne0ema','不以贏利為目的[bù yǐ yíng lì wèi mù dì],不以赢利为目的[bù yǐ yíng lì wèi mù dì]')).
+assert(celo(neprofitema,'profit.ne0ema','不顧自己[bù gù zì jǐ],不顾自己[bù gù zì jǐ]')).
+assert(celo(neprofitema,'profit.ne0ema','非營利[fēi yíng lì],非营利[fēi yíng lì]')).
+assert(celo(neprofitema,'profit.ne0ema','非盈利[fēi yíng lì]')).
+assert(celo(neprofitema,'profit.ne0ema','非贏利[fēi yíng lì],非赢利[fēi yíng lì]')).
+assert(celo(neprofitema,'profit.ne0ema','不謀取私利[bù móu qǔ sī lì],不谋取私利[bù móu qǔ sī lì]')).
+assert(celo(neprofitema,'profit.ne0ema','利他[lì tā]')).
+assert(celo(neprofitema,'profit.ne0ema','捨己[shě jǐ],舍己[shě jǐ]')).
+assert(celo(troprofiti,'profit.tro0i','剝削[bō xuē],剥削[bō xuē]')).
+assert(celo(troprofiti,'profit.tro0i','多育[duō yù]')).
+assert(celo(troprofiti,'profit.tro0i','生長茂盛[shēng zhǎng mào shèng],生长茂盛[shēng zhǎng mào shèng]')).
+retractall(celo(troprofiti,_,_),3).
+assert(celo(troprofiti,'','剝削[bō xuē],剥削[bō xuē]')).
+assert(celo(troprofito,'profit.tro0o','高利[gāo lì]')).
+assert(celo(profunda,'profun.0a','窎[diào],窵[diào]')).
+assert(celo(profunda,'profun.0a','邃[suì]')).
+assert(celo(profunda,'profun.0a','深刻[shēn kè]')).
+assert(celo(profunda,'profun.0a','深沉[shēn chén]')).
+assert(celo(profunda,'profun.0a','深[shēn]')).
+assert(celo(profunda,'profun.0a','冥[míng]')).
+assert(celo(profunda,'profun.0a','淵[yuān],渊[yuān]')).
+assert(celo(profunda,'profun.0a','浓厚[nóng hòu],濃厚[nóng hòu]')).
+assert(celo(profunda,'profun.0a','高深[gāo shēn]')).
+assert(celo(profunda,'profun.0a','窈[yǎo]')).
+assert(celo(profunda,'profun.0a','深厚[shēn hòu]')).
+assert(celo(profunda,'profun.0a','覃[tán]')).
+assert(celo(profundeco,'profun.0eco','深度[shēn dù]')).
+assert(celo(profundeco,'profun.0eco','深浅[shēn qiǎn],深淺[shēn qiǎn]')).
+assert(celo(profundeco,'profun.0eco','藴[yùn]')).
+assert(celo(profundeco,'profun.0eco','深澳[shēn ào]')).
+assert(celo(profundeco,'profun.0eco','深处[shēn chù],深處[shēn chù]')).
+assert(celo(profundeco,'profun.0eco','低层[dī céng],低層[dī céng]')).
+assert(celo(profundeco,'profun.0eco','低阶[dī jiē],低階[dī jiē]')).
+assert(celo(profundegaĵo,'profun.0egajxo','深淵[shēn yuān],深渊[shēn yuān]')).
+assert(celo(profundegaĵo,'profun.0egajxo','奫[yūn]')).
+assert(celo(profundegaĵo,'profun.0egajxo','淵[yuān],渊[yuān]')).
+assert(celo(profundegaĵo,'profun.0egajxo','悬崖[xuán yá],懸崖[xuán yá]')).
+assert(celo(profundegaĵo,'profun.0egajxo','深坑[shēn kēng]')).
+assert(celo(profundegaĵo,'profun.0egajxo','无底洞[wú dǐ dòng],無底洞[wú dǐ dòng]')).
+assert(celo(profundegaĵo,'profun.0egajxo','絕壁[jué bì],绝壁[jué bì]')).
+assert(celo(profundegaĵo,'profun.0egajxo','阧坎[dǒu kǎn]')).
+assert(celo(profundegaĵo,'profun.0egajxo','陡坎[dǒu kǎn]')).
+assert(celo(profundegaĵo,'profun.0egajxo','裂痕[liè hén]')).
+assert(celo(profundigi,'profun.0igi','加深[jiā shēn]')).
+assert(celo(profundigi,'profun.0igi','深入[shēn rù]')).
+assert(celo(profundigi,'profun.0igi','深化[shēn huà]')).
+assert(celo(profundigi,'profun.0igi','全神貫注[quán shén guàn zhù],全神贯注[quán shén guàn zhù]')).
+assert(celo(profundigi,'profun.0igi','挖深[wā shēn]')).
+assert(celo(profundigi,'profun.0igi','被迷住[bèi mí zhù]')).
+assert(celo(profundo,'profun.0o','深度[shēn dù]')).
+assert(celo(profundo,'profun.0o','低层[dī céng],低層[dī céng]')).
+assert(celo(profundo,'profun.0o','低阶[dī jiē],低階[dī jiē]')).
+assert(celo(profundo,'profun.0o','藴[yùn]')).
+assert(celo(profundo,'profun.0o','深浅[shēn qiǎn],深淺[shēn qiǎn]')).
+assert(celo(profundo,'profun.0o','深澳[shēn ào]')).
+assert(celo(profundo,'profun.0o','深处[shēn chù],深處[shēn chù]')).
+assert(celo(profundo,'profun.0o','縱深[zōng shēn],纵深[zōng shēn]')).
+assert(celo(profundo,'profun.0o','进深[jìn shēn],進深[jìn shēn]')).
+assert(celo(profundiĝi,'','陷入[xiàn rù]')).
+assert(celo(profundiĝi,'','陷[xiàn]')).
+assert(celo(malprofunda,'profun.mal0a','浅[qiǎn],淺[qiǎn]')).
+assert(celo(malprofunda,'profun.mal0a','使平整[shǐ píng zhěng]')).
+assert(celo(malprofunda,'profun.mal0a','浅薄[qiǎn bó],淺薄[qiǎn bó]')).
+assert(celo(malprofundaĵo,'profun.mal0ajxo.loko','深水[shēn shuǐ]')).
+assert(celo(malprofundaĵo,'profun.mal0ajxo.loko','浅水区[qiǎn shuǐ qū],淺水區[qiǎn shuǐ qū]')).
+assert(celo(malprofundaĵo,'profun.mal0ajxo.loko','无底洞[wú dǐ dòng],無底洞[wú dǐ dòng]')).
+assert(celo(prognozi,'progno.0i','預測[yù cè],预测[yù cè]')).
+assert(celo(prognozi,'progno.0i','預見[yù jiàn],预见[yù jiàn]')).
+assert(celo(prognozi,'progno.0i','預卜[yù bǔ],预卜[yù bǔ]')).
+assert(celo(prognozi,'progno.0i','預估[yù gū],预估[yù gū]')).
+assert(celo(prognozi,'progno.0i','預計[yù jì],预计[yù jì]')).
+assert(celo(prognozi,'progno.0i','預告[yù gào],预告[yù gào]')).
+assert(celo(prognozi,'progno.0i','預言[yù yán],预言[yù yán]')).
+assert(celo(prognozo,'progno.0o','預估[yù gū],预估[yù gū]')).
+assert(celo(prognozo,'progno.0o','預測[yù cè],预测[yù cè]')).
+assert(celo(prognozo,'progno.0o','預報[yù bào],预报[yù bào]')).
+assert(celo(prognozo,'progno.0o','預測[zhēng zhào],预测[zhēng zhào]')).
+assert(celo(veterprognozo,'progno.veter0o','天气预报[tiān qì yù bào],天氣預報[tiān qì yù bào]')).
+assert(celo(veterprognozo,'progno.veter0o','气象预报[qì xiàng yù bào],氣象預報[qì xiàng yù bào]')).
+assert(celo(programado,'progra.0ado.KOMP','編程[biān chéng],编程[biān chéng]')).
+assert(celo(programado,'progra.0ado.KOMP','程序設計[chéng xù shè jì],程序设计[chéng xù shè jì]')).
+assert(celo(programaro,'progra.0aro','軟體[ruǎn tǐ],软体[ruǎn tǐ]')).
+assert(celo(programaro,'progra.0aro','軟件[ruǎn jiàn],软件[ruǎn jiàn]')).
+assert(celo(programaro,'progra.0aro','电脑软件[diàn nǎo ruǎn jiàn],電腦軟件[diàn nǎo ruǎn jiàn]')).
+assert(celo(programaro,'progra.0aro','軟件包[ruǎn jiàn bāo],软件包[ruǎn jiàn bāo]')).
+assert(celo(programaro,'progra.0aro','計算機軟件[jì suàn jī ruǎn jiàn],计算机软件[jì suàn jī ruǎn jiàn]')).
+assert(celo(programero,'progra.0ero','戏码[xì mǎ],戲碼[xì mǎ]')).
+assert(celo(programero,'progra.0ero.KOMUNE','節目段[jié mù duàn],节目段[jié mù duàn]')).
+assert(celo(programi,'progra.0i','編程[biān chéng],编程[biān chéng]')).
+assert(celo(programi,'progra.0i','綱領[gāng lǐng],纲领[gāng lǐng]')).
+assert(celo(programi,'progra.0i','程序性[chéng xù xìng]')).
+assert(celo(programisto,'progra.0isto','程序员[chéng xù yuán],程序員[chéng xù yuán]')).
+assert(celo(programo,'progra.0o','大綱[dà gāng],大纲[dà gāng]')).
+assert(celo(programo,'progra.0o','節目[jié mù],节目[jié mù]')).
+assert(celo(programo,'progra.0o','方案[fāng àn]')).
+assert(celo(programo,'progra.0o','程序性[chéng xù xìng]')).
+assert(celo(programo,'progra.0o','綱領[gāng lǐng],纲领[gāng lǐng]')).
+assert(celo(programo,'progra.0o','日程[rì chéng]')).
+assert(celo(programo,'progra.0o','程序[chéng xù]')).
+assert(celo(programo,'progra.0o','党纲[dǎng gāng],黨綱[dǎng gāng]')).
+assert(celo('aplika programaro','progra.aplika_0aro','应用软体[yìng yòng ruǎn tǐ],應用軟體[yìng yòng ruǎn tǐ]')).
+assert(celo('aplika programaro','progra.aplika_0aro','应用程序[yìng yòng chéng xù],應用程序[yìng yòng chéng xù]')).
+assert(celo('aplika programaro','progra.aplika_0aro','应用程式[yìng yòng chéng shì],應用程式[yìng yòng chéng shì]')).
+assert(celo('aplika programaro','progra.aplika_0aro','应用软件[yìng yòng ruǎn jiàn],應用軟件[yìng yòng ruǎn jiàn]')).
+assert(celo('aplika programaro','progra.aplika_0aro','应用程序包[yìng yòng chéng xù bāo],應用程序包[yìng yòng chéng xù bāo]')).
+assert(celo('aplika programaro','progra.aplika_0aro','操作軟件[cāo zuò ruǎn jiàn],操作软件[cāo zuò ruǎn jiàn]')).
+assert(celo('aplika programaro','progra.aplika_0aro','用戶軟件[yòng hù ruǎn jiàn],用户软件[yòng hù ruǎn jiàn]')).
+assert(celo(fontprogramo,'progra.font0o.KOMP','源代码[yuán dài mǎ],源代碼[yuán dài mǎ]')).
+assert(celo(fontprogramo,'progra.font0o.KOMP','源程序[yuán chéng xù]')).
+assert(celo(kromprogramo,'progra.krom0o','插件[chā jiàn]')).
+assert(celo(kromprogramo,'progra.krom0o.KOMP','附加元件[fù jiā yuán jiàn]')).
+assert(celo(kromprogramo,'progra.krom0o.KOMP','外加附件[wài jiā fù jiàn]')).
+assert(celo(kromprogramo,'progra.krom0o.KOMUNE','附加程序[fù jiā chéng xù]')).
+assert(celo('sistema programaro','progra.sistema_0aro','系統軟件[xì tǒng ruǎn jiàn],系统软件[xì tǒng ruǎn jiàn]')).
+assert(celo(progresadi,'progre.0adi','渐进[jiàn jìn],漸進[jiàn jìn]')).
+assert(celo(progresadi,'progre.0adi','上进[shàng jìn],上進[shàng jìn]')).
+assert(celo(progresadi,'progre.0adi','前进[qián jìn],前進[qián jìn]')).
+assert(celo(progresadi,'progre.0adi','进步[jìn bù],進步[jìn bù]')).
+assert(celo(progresema,'progre.0ema','渐进地[jiàn jìn de],漸進地[jiàn jìn de]')).
+assert(celo(progresi,'progre.0i','長進[zhǎng jìn],长进[zhǎng jìn]')).
+assert(celo(progresi,'progre.0i','进步[jìn bù],進步[jìn bù]')).
+assert(celo(progresi,'progre.0i','上进[shàng jìn],上進[shàng jìn]')).
+assert(celo(progresi,'progre.0i','有进展[yǒu jìn zhǎn],有進展[yǒu jìn zhǎn]')).
+assert(celo(progresi,'progre.0i','取得进展[qǔ dé jìn zhǎn],取得進展[qǔ dé jìn zhǎn]')).
+assert(celo(progresi,'progre.0i','向前进[xiàng qián jìn],向前進[xiàng qián jìn]')).
+assert(celo(progresi,'progre.0i','捗[bù]')).
+assert(celo(progresi,'progre.0i','日就月将[rì jiù yuè jiāng],日就月將[rì jiù yuè jiāng]')).
+assert(celo(progresigi,'progre.0igi','貤[yí]')).
+assert(celo(progresigi,'progre.0igi','升迁[shēng qiān],升遷[shēng qiān]')).
+assert(celo(progresigi,'progre.0igi','推动[tuī dòng],推動[tuī dòng]')).
+assert(celo(progresigi,'progre.0igi','起用[qǐ yòng]')).
+assert(celo(progresigi,'progre.0igi','推进[tuī jìn],推進[tuī jìn]')).
+assert(celo(progresigi,'progre.0igi','促进[cù jìn],促進[cù jìn]')).
+assert(celo(progreso,'progre.0o','長進[zhǎng jìn],长进[zhǎng jìn]')).
+assert(celo(progreso,'progre.0o','进度[jìn dù],進度[jìn dù]')).
+assert(celo(progreso,'progre.0o','眉目[méi mu]')).
+assert(celo(malprogresi,'progre.mal0i','退行[tuì xíng]')).
+assert(celo(malprogresi,'','回归[huí guī],回歸[huí guī]')).
+assert(celo(progresio,'progre1.0o','累进[lěi jìn],累進[lěi jìn]')).
+assert(celo('aritmetika progresio','progre1.aritmetika0o','等差数列[děng chā shù liè],等差數列[děng chā shù liè]')).
+assert(celo('geometria progresio','progre1.geometria0o','等比数列[děng bǐ shù liè],等比數列[děng bǐ shù liè]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','累进[lěi jìn],累進[lěi jìn]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','冉冉[rǎn rǎn]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','日渐[rì jiàn],日漸[rì jiàn]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','日益增多地[rì yì zēng duō de]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','日趋[rì qū],日趨[rì qū]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','渐[jiàn],漸[jiàn]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','渐次[jiàn cì],漸次[jiàn cì]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','逐次[zhú cì]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','逐步[zhú bù]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','逐渐[zhú jiàn],逐漸[zhú jiàn]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','点点滴滴[diǎn diǎn dī dī],點點滴滴[diǎn diǎn dī dī]')).
+assert(celo(progresiva,'progresiv.0a.KOMUNE','陆续[lù xù],陸續[lù xù]')).
+assert(celo(prohibicio,'prohib.0o','禁令[jìn lìng]')).
+assert(celo(prohibicio,'prohib.0o','禁酒[jìn jiǔ]')).
+assert(celo(prohibicio,'prohib.0o','禁酒令[jìn jiǔ lìng]')).
+assert(celo(prohibicio,'prohib.0o','禁止[jìn zhǐ]')).
+assert(celo(projekciaĵo,'projek.0ajxo.MAT','投影[tóu yǐng]')).
+assert(celo(projekciilo,'projek.0ilo','投影仪[tóu yǐng yí],投影儀[tóu yǐng yí]')).
+assert(celo(projekciilo,'projek.0ilo','投影机[tóu yǐng jī],投影機[tóu yǐng jī]')).
+assert(celo(projekciilo,'projek.0ilo','幻灯机[huàn dēng jī],幻燈機[huàn dēng jī]')).
+assert(celo(projekciilo,'projek.0ilo','电影放映员[diàn yǐng fàng yìng yuán],電影放映員[diàn yǐng fàng yìng yuán]')).
+assert(celo(projekcio,'projek.0o','投影[tóu yǐng]')).
+assert(celo('kanona projekcio','projek.kanona0o','分析拓展[fēn xī tuò zhǎn]')).
+assert(celo('orta projekcio','projek.orta0o','正投影[zhèng tóu yǐng]')).
+assert(celo('orta projekcio','projek.orta0o','正交射影[zhèng jiāo shè yǐng]')).
+assert(celo('orta projekcio','projek.orta0o','正射影[zhèng shè yǐng]')).
+assert(celo(projekti,'projek1.0i','謀[móu],谋[móu]')).
+assert(celo(projekti,'projek1.0i','計劃[jì huà],计划[jì huà]')).
+assert(celo(projekti,'projek1.0i','筹划[chóu huà],籌劃[chóu huà]')).
+assert(celo(projekto,'projek1.0o','項目[xiàng mù],项目[xiàng mù]')).
+assert(celo(projekto,'projek1.0o','工程[gōng chéng]')).
+assert(celo(prokarioto,'prokariot.0o.BIO','原核生物[yuán hé shēng wù]')).
+assert(celo(proklami,'prokla.0i','宣告[xuān gào]')).
+assert(celo(proklami,'prokla.0i','宣布[xuān bù]')).
+assert(celo(proklami,'prokla.0i','宣讀[xuān dú],宣读[xuān dú]')).
+assert(celo(proklami,'prokla.0i','声称[shēng chēng],聲稱[shēng chēng]')).
+assert(celo(proklamo,'prokla.0o','公告[gōng gào]')).
+assert(celo(proklamo,'prokla.0o','文告[wén gào]')).
+assert(celo(prokrastebla,'prokra.0ebla','可延期[kě yán qī]')).
+assert(celo(prokrastebla,'prokra.0ebla','可延迟[kě yán chí],可延遲[kě yán chí]')).
+assert(celo(prokrastebla,'prokra.0ebla','可暂缓[kě zhàn huǎn],可暫緩[kě zhàn huǎn]')).
+assert(celo(prokrastebla,'prokra.0ebla','能推迟[néng tuī chí],能推遲[néng tuī chí]')).
+assert(celo(prokrasti,'prokra.0i','順延[shùn yán],顺延[shùn yán]')).
+assert(celo(prokrasti,'prokra.0i','延期[yán qī]')).
+assert(celo(prokrasti,'prokra.0i','延迟[yán chí],延遲[yán chí]')).
+assert(celo(prokrasti,'prokra.0i','拖延[tuō yán]')).
+assert(celo(prokrasti,'prokra.0i','延緩[yán huǎn],延缓[yán huǎn]')).
+assert(celo(prokrasto,'prokra.0o','延期[yán qī]')).
+assert(celo(prokrasto,'prokra.0o','延时[yán shí],延時[yán shí]')).
+assert(celo(senprokraste,'prokra.sen0e','痛痛快快[tòng tong kuài kuài]')).
+assert(celo(senprokraste,'prokra.sen0e','不可迟延的[bù kě chí yán de],不可遲延的[bù kě chí yán de]')).
+assert(celo(senprokraste,'prokra.sen0e','刻不容緩[kè bù róng huǎn],刻不容缓[kè bù róng huǎn]')).
+assert(celo(senprokraste,'prokra.sen0e','及时[jí shí],及時[jí shí]')).
+assert(celo(senprokraste,'prokra.sen0e','立即[lì jí]')).
+assert(celo(proksima,'proksi.0a','邻近[lín jìn],鄰近[lín jìn]')).
+assert(celo(proksima,'proksi.0a','即将发生[jí jiāng fā shēng],即將發生[jí jiāng fā shēng]')).
+assert(celo(proksima,'proksi.0a','促[cù]')).
+assert(celo(proksima,'proksi.0a','挨着[āi zhe],挨著[āi zhe]')).
+assert(celo(proksima,'proksi.0a','迩[ěr],邇[ěr]')).
+assert(celo(proksima,'proksi.0a','走近[zǒu jìn]')).
+assert(celo(proksima,'proksi.0a','在左侧[zài zuǒ cè],在左側[zài zuǒ cè]')).
+assert(celo(proksima,'proksi.0a','亲[qīn],親[qīn]')).
+assert(celo(proksima,'proksi.0a','亲密[qīn mì],親密[qīn mì]')).
+assert(celo(proksima,'proksi.0a','傍[páng]')).
+assert(celo('proksime de','proksi.0ede','迩[ěr],邇[ěr]')).
+assert(celo('proksime de','proksi.0ede','快要[kuài yào]')).
+assert(celo('proksime de','proksi.0ede','傍边[bàng biān],傍邊[bàng biān]')).
+assert(celo('proksime de','proksi.0ede','邻近[lín jìn],鄰近[lín jìn]')).
+assert(celo(proksimigi,'proksi.0igi','近似[jìn sì]')).
+assert(celo(proksimiĝi,'proksi.0igxi','來臨[lái lín],来临[lái lín]')).
+assert(celo(proksimiĝi,'proksi.0igxi','靠近[kào jìn]')).
+assert(celo(proksimiĝi,'proksi.0igxi','接近[jiē jìn]')).
+assert(celo(proksimiĝi,'proksi.0igxi','近前[jìn qián]')).
+assert(celo(proksimiĝi,'proksi.0igxi','靠拢[kào lǒng],靠攏[kào lǒng]')).
+assert(celo(proksimiĝi,'proksi.0igxi','逼近[bī jìn]')).
+assert(celo(proksimulo,'proksi.0ulo','街坊[jiē fāng]')).
+assert(celo(proksimuma,'proksi.0uma','近似[jìn sì]')).
+assert(celo(proksimuma,'proksi.0uma','約莫[yuē mo],约莫[yuē mo]')).
+assert(celo(proksimuma,'proksi.0uma','大約[dà yuē],大约[dà yuē]')).
+assert(celo(proksimuma,'proksi.0uma','概[gài]')).
+assert(celo(proksimuma,'proksi.0uma','近[jìn]')).
+assert(celo(proksimuma,'proksi.0uma','約等於[yuē děng yú],约等于[yuē děng yú]')).
+assert(celo(proksimume,'proksi.0ume','大約[dà yuē],大约[dà yuē]')).
+assert(celo(proksimume,'proksi.0ume','左右[zuǒ yòu]')).
+assert(celo(proksimume,'proksi.0ume','約合[yuē hé],约合[yuē hé]')).
+assert(celo(proksimume,'proksi.0ume','几乎[jī hū],幾乎[jī hū]')).
+assert(celo(proksimume,'proksi.0ume','近[jìn]')).
+assert(celo(alproksimiĝo,'proksi.al0igxo','近似[jìn sì]')).
+assert(celo(alproksimiĝo,'proksi.al0igxo','近似解[jìn sì jiě]')).
+assert(celo(alproksimiĝo,'proksi.al0igxo.problema','概算[gài suàn]')).
+assert(celo(alproksimiĝo,'proksi.al0igxo.problema','近似額[jìn sì é],近似额[jìn sì é]')).
+assert(celo(malproksima,'proksi.mal0a','遙[yáo],遥[yáo]')).
+assert(celo(malproksima,'proksi.mal0a','远远[yuǎn yuǎn],遠遠[yuǎn yuǎn]')).
+assert(celo(malproksima,'proksi.mal0a','遙遙[yáo yáo],遥遥[yáo yáo]')).
+assert(celo(malproksima,'proksi.mal0a','遙遠[yáo yuǎn],遥远[yáo yuǎn]')).
+assert(celo(malproksima,'proksi.mal0a','緬[miǎn],缅[miǎn]')).
+assert(celo(malproksima,'proksi.mal0a','辽远[liáo yuǎn],遼遠[liáo yuǎn]')).
+assert(celo(malproksima,'proksi.mal0a','逴[chuò]')).
+assert(celo(malproksima,'proksi.mal0a','邃[suì]')).
+assert(celo(malproksima,'proksi.mal0a','远距离[yuǎn jù lí],遠距離[yuǎn jù lí]')).
+assert(celo(malproksima,'proksi.mal0a','悠远[yōu yuǎn],悠遠[yōu yuǎn]')).
+assert(celo(malproksima,'proksi.mal0a','攸[yōu]')).
+assert(celo(malproksima,'proksi.mal0a','逌[yóu]')).
+assert(celo(malproksima,'proksi.mal0a','遐[xiá]')).
+assert(celo(malproksima,'proksi.mal0a','逖[tì]')).
+assert(celo(malproksimigi,'proksi.mal0igi','疏远[shū yuǎn],疏遠[shū yuǎn]')).
+assert(celo(malproksimigi,'proksi.mal0igi','支走[zhī zǒu]')).
