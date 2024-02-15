@@ -4774,3 +4774,185 @@ assert(celo(malproksima,'proksi.mal0a','遐[xiá]')).
 assert(celo(malproksima,'proksi.mal0a','逖[tì]')).
 assert(celo(malproksimigi,'proksi.mal0igi','疏远[shū yuǎn],疏遠[shū yuǎn]')).
 assert(celo(malproksimigi,'proksi.mal0igi','支走[zhī zǒu]')).
+assert(celo(tuŝproksima,'proksi.tusx0a','触手可及[chù shǒu kě jí],觸手可及[chù shǒu kě jí]')).
+assert(celo(tuŝproksima,'proksi.tusx0a','触手可得[chù shǒu kě dé],觸手可得[chù shǒu kě dé]')).
+assert(celo(tuŝproksima,'proksi.tusx0a','凑手[còu shǒu],湊手[còu shǒu]')).
+assert(celo(prokuristo,'prokur.0isto','全权代表[quán quán dài biǎo],全權代表[quán quán dài biǎo]')).
+assert(celo(prokuro,'prokur.0o','委托书[wěi tuō shū],委託書[wěi tuō shū]')).
+assert(celo(prokurorejo,'prokur1.0ejo','检察院[jiǎn chá yuàn],檢察院[jiǎn chá yuàn]')).
+assert(celo(prokuroro,'prokur1.0o','公訴人[gōng sù rén],公诉人[gōng sù rén]')).
+assert(celo(prokuroro,'prokur1.0o','检察官[jiǎn chá guān],檢察官[jiǎn chá guān]')).
+assert(celo(prokuroro,'prokur1.0o','检控官[jiǎn kòng guān],檢控官[jiǎn kòng guān]')).
+assert(celo(prokuroro,'prokur1.0o','起訴員[qǐ sù yuán],起诉员[qǐ sù yuán]')).
+assert(celo(prokuroro,'prokur1.0o','城市律师[chéng shì lǜ shī],城市律師[chéng shì lǜ shī]')).
+assert(celo(proletaro,'prolet.0aro','无产阶级[wú chǎn jiē jí],無產階級[wú chǎn jiē jí]')).
+assert(celo(proletaro,'prolet.0aro','工农兵[gōng nóng bīng],工農兵[gōng nóng bīng]')).
+assert(celo(proletaro,'prolet.0aro','普罗[pǔ luó],普羅[pǔ luó]')).
+assert(celo(proletaro,'prolet.0aro','普罗大众[pǔ luó dà zhòng],普羅大眾[pǔ luó dà zhòng]')).
+assert(celo(proletaro,'prolet.0aro','普罗列塔利亚[pǔ luó liè tǎ lì yà],普羅列塔利亞[pǔ luó liè tǎ lì yà]')).
+assert(celo(proleto,'prolet.0o','无产者[wú chǎn zhě],無產者[wú chǎn zhě]')).
+assert(celo(proliferi,'prolifer.0i','扩散[kuò sàn],擴散[kuò sàn]')).
+assert(celo(proliferi,'prolifer.0i','再育[zài yù]')).
+assert(celo(proliferi,'prolifer.0i','蕃[fán]')).
+assert(celo(prologo,'prolog.0o','序幕[xù mù]')).
+assert(celo(prologo,'prolog.0o','开场白[kāi chǎng bái],開場白[kāi chǎng bái]')).
+assert(celo(prologo,'prolog.0o','楔子[xiē zi]')).
+assert(celo(prologo,'prolog.0o','序言[xù yán]')).
+assert(celo(promeno,'promen.0ado','行走[xíng zǒu]')).
+assert(celo(promenanto,'promen.0anto','散步的人[sàn bù de rén]')).
+assert(celo(promenanto,'promen.0anto','漫步者[mán bù zhě]')).
+assert(celo(promenanto,'promen.0anto','助行器[zhù xíng qì]')).
+assert(celo(promenejo,'promen.0ejo','木板路[mù bǎn lù]')).
+assert(celo(promenejo,'promen.0ejo','走道[zǒu dào]')).
+assert(celo(promeni,'promen.0i','散步[sàn bù]')).
+assert(celo(promeni,'promen.0i','游逛[yóu guàng],遊逛[yóu guàng]')).
+assert(celo(promeni,'promen.0i','溜溜达达[liū liu dā dā],溜溜達達[liū liu dā dā]')).
+assert(celo(promeni,'promen.0i','逛逛[guàng guang]')).
+assert(celo(promeni,'promen.0i','游玩[yóu wán],遊玩[yóu wán]')).
+assert(celo(promeni,'promen.0i','漫步[màn bù]')).
+assert(celo(promeni,'promen.0i','迶[yòu]')).
+assert(celo(promesa,'promes.0a','充满希望[chōng mǎn xī wàng],充滿希望[chōng mǎn xī wàng]')).
+assert(celo(promesa,'promes.0a','可以預見[kě yǐ yù jiàn],可以预见[kě yǐ yù jiàn]')).
+assert(celo(promesa,'promes.0a','有望[yǒu wàng]')).
+assert(celo(promesa,'promes.0a','有潛力[yǒu qián lì],有潜力[yǒu qián lì]')).
+assert(celo(promesa,'promes.0a','有为[yǒu wéi],有為[yǒu wéi]')).
+assert(celo(promesa,'promes.0a','远大[yuǎn dà],遠大[yuǎn dà]')).
+assert(celo(promesa,'promes.0a','可預見[kě yù jiàn],可预见[kě yù jiàn]')).
+assert(celo(promesa,'promes.0a','有成[yǒu chéng]')).
+assert(celo(promesa,'promes.0a','有成功希望[yǒu chéng gōng xī wàng]')).
+assert(celo(promesi,'promes.0i','应许[yīng xǔ],應許[yīng xǔ]')).
+assert(celo(promesi,'promes.0i','許諾[xǔ nuò],许诺[xǔ nuò]')).
+assert(celo(promesi,'promes.0i','允諾[yǔn nuò],允诺[yǔn nuò]')).
+assert(celo(promesi,'promes.0i','应承[yìng chéng],應承[yìng chéng]')).
+assert(celo(promesi,'promes.0i','諾[nuò],诺[nuò]')).
+assert(celo(promesi,'promes.0i','承諾[chéng nuò],承诺[chéng nuò]')).
+assert(celo(promesi,'promes.0i','有希望[yǒu xī wàng]')).
+assert(celo(promesi,'promes.0i','应诺[yìng nuò],應諾[yìng nuò]')).
+assert(celo(promeso,'promes.0o','諾[nuò],诺[nuò]')).
+assert(celo(promeso,'promes.0o','諾言[nuò yán],诺言[nuò yán]')).
+assert(celo(promeso,'promes.0o','允諾[yǔn nuò],允诺[yǔn nuò]')).
+assert(celo(promesplena,'promes.0plena','充满希望[chōng mǎn xī wàng],充滿希望[chōng mǎn xī wàng]')).
+assert(celo(promesplena,'promes.0plena','可以預見[kě yǐ yù jiàn],可以预见[kě yǐ yù jiàn]')).
+assert(celo(promesplena,'promes.0plena','大有希望[dà yǒu xī wàng]')).
+assert(celo(promesplena,'promes.0plena','祥瑞[xiáng ruì]')).
+assert(celo(promesplena,'promes.0plena','有为[yǒu wéi],有為[yǒu wéi]')).
+assert(celo(promesplena,'promes.0plena','有希望[yǒu xī wàng]')).
+assert(celo(multpromesa,'promes.mult0a','充满希望[chōng mǎn xī wàng],充滿希望[chōng mǎn xī wàng]')).
+assert(celo(multpromesa,'promes.mult0a','可以預見[kě yǐ yù jiàn],可以预见[kě yǐ yù jiàn]')).
+assert(celo(multpromesa,'promes.mult0a','有为[yǒu wéi],有為[yǒu wéi]')).
+assert(celo(multpromesa,'promes.mult0a','有希望[yǒu xī wàng]')).
+assert(celo('Prometeo','promete.0o','普罗米修斯[pǔ luó mǐ xiū sī],普羅米修斯[pǔ luó mǐ xiū sī]')).
+assert(celo(prometio,'prometi.0o','鉕[pǒ],钷[pǒ]')).
+assert(celo(promocii,'promoc.0i','升迁[shēng qiān],升遷[shēng qiān]')).
+assert(celo(promocii,'promoc.0i','推銷[tuī xiāo],推销[tuī xiāo]')).
+assert(celo(promocii,'promoc.0i','促进[cù jìn],促進[cù jìn]')).
+assert(celo(promocii,'promoc.0i','推动[tuī dòng],推動[tuī dòng]')).
+assert(celo(promocii,'promoc.0i','提拔[tí bá]')).
+assert(celo(promocii,'promoc.0i','貤[yí]')).
+assert(celo(promocii,'promoc.0i','造势[zào shì],造勢[zào shì]')).
+assert(celo(promociiĝi,'promoc.0igxi','升官[shēng guān]')).
+assert(celo(promociiĝi,'promoc.0igxi','升职[shēng zhí],升職[shēng zhí]')).
+assert(celo(promociiĝi,'promoc.0igxi','晉升[jìn shēng],晋升[jìn shēng]')).
+assert(celo(promociiĝi,'promoc.0igxi','进身[jìn shēn],進身[jìn shēn]')).
+assert(celo(promocio,'promoc.0o','升迁[shēng qiān],升遷[shēng qiān]')).
+assert(celo(promocio,'promoc.0o','推銷[tuī xiāo],推销[tuī xiāo]')).
+assert(celo(promocio,'promoc.0o','促銷活動[cù xiāo huó dòng],促销活动[cù xiāo huó dòng]')).
+assert(celo(promocio,'promoc.0o','促銷[cù xiāo],促销[cù xiāo]')).
+assert(celo(malpromocio,'promoc.mal0o','降級[jiàng jí],降级[jiàng jí]')).
+assert(celo(malpromocio,'promoc.mal0o.POL','降格[jiàng gé]')).
+assert(celo(malpromocio,'promoc.mal0o.POL','降职[jiàng zhí],降職[jiàng zhí]')).
+assert(celo(promontoro,'promon.0o','岬角[jiǎ jiǎo]')).
+assert(celo(promontoro,'promon.0o','海角[hǎi jiǎo]')).
+assert(celo(prompta,'prompt.0a','寁[zǎn]')).
+assert(celo(prompta,'prompt.0a','捷[jié]')).
+assert(celo(prompta,'prompt.0a','敏[mǐn]')).
+assert(celo(prompta,'prompt.0a','敏捷[mǐn jié]')).
+assert(celo(prompta,'prompt.0a','痛痛快快[tòng tong kuài kuài]')).
+assert(celo(promulgi,'promulg.0i','頒發[bān fā],颁发[bān fā]')).
+assert(celo(promulgi,'promulg.0i','譒[bò]')).
+assert(celo(pronomo,'pronom.0o.substantiva','代名詞[dài míng cí],代名词[dài míng cí]')).
+assert(celo(pronomo,'pronom.0o.substantiva','代詞[dài cí],代词[dài cí]')).
+assert(celo(prononci,'pronon.0i','发音[fā yīn],發音[fā yīn]')).
+assert(celo(prononco,'pronon.0o','发音[fā yīn],發音[fā yīn]')).
+assert(celo(misprononci,'pronon.mis0i','誤讀[wù dú],误读[wù dú]')).
+assert(celo(misprononci,'pronon.mis0i','錯讀[cuò dú],错读[cuò dú]')).
+assert(celo(propagandi,'propag.0i','宣传[xuān chuán],宣傳[xuān chuán]')).
+assert(celo(propagandi,'propag.0i','做广告[zuò guǎng gào],做廣告[zuò guǎng gào]')).
+assert(celo(propagandilo,'propag.0ilo','文宣[wén xuān]')).
+assert(celo(propagandisto,'propag.0isto','宣传员[xuān chuán yuán],宣傳員[xuān chuán yuán]')).
+assert(celo(propagandisto,'propag.0isto','宣传者[xuān chuán zhě],宣傳者[xuān chuán zhě]')).
+assert(celo(propagando,'propag.0o','宣传[xuān chuán],宣傳[xuān chuán]')).
+assert(celo(propagando,'propag.0o','政治宣传[zhèng zhì xuān chuán],政治宣傳[zhèng zhì xuān chuán]')).
+assert(celo(propagando,'propag.0o','宣传机构[xuān chuán jī gòu],宣傳機構[xuān chuán jī gòu]')).
+assert(celo(propagando,'propag.0o','宣传活动[xuān chuán huó dòng],宣傳活動[xuān chuán huó dòng]')).
+assert(celo(propileo,'propile.0o','朝門[cháo mén],朝门[cháo mén]')).
+assert(celo(proponi,'propon.0i','提議[tí yì],提议[tí yì]')).
+assert(celo(proponi,'propon.0i','提案[tí àn]')).
+assert(celo(proponi,'propon.0i','倡議[chàng yì],倡议[chàng yì]')).
+assert(celo(proponi,'propon.0i','提請[tí qǐng],提请[tí qǐng]')).
+assert(celo(proponi,'propon.0i','创议[chuàng yì],創議[chuàng yì]')).
+assert(celo(proponi,'propon.0i','建議[jiàn yì],建议[jiàn yì]')).
+assert(celo(proponi,'propon.0i','提出[tí chū]')).
+assert(celo(propono,'propon.0o','議案[yì àn],议案[yì àn]')).
+assert(celo(propono,'propon.0o','提議[tí yì],提议[tí yì]')).
+assert(celo(propono,'propon.0o','建議[jiàn yì],建议[jiàn yì]')).
+assert(celo(propono,'propon.0o','提案[tí àn]')).
+assert(celo(propono,'propon.0o','提名[tí míng]')).
+assert(celo(proporcia,'propor.0a.KOMUNE','成比例[chéng bǐ lì]')).
+assert(celo('proporcie al','propor.0eal','成比例[chéng bǐ lì]')).
+assert(celo(proporcio,'propor.0o','比例[bǐ lì]')).
+assert(celo(proporcio,'propor.0o','比重[bǐ zhòng]')).
+assert(celo(proporcio,'propor.0o','成比例[chéng bǐ lì]')).
+assert(celo('demanda propozicio','propoz.demanda0o','疑問句[yí wèn jù],疑问句[yí wèn jù]')).
+assert(celo('indika propozicio','propoz.indika0o','陈述句[chén shù jù],陳述句[chén shù jù]')).
+assert(celo(propra,'propr.0a','自己[zì jǐ]')).
+assert(celo(propra,'propr.0a','自身[zì shēn]')).
+assert(celo(propra,'propr.0a','內在[nèi zài],内在[nèi zài]')).
+assert(celo(propra,'propr.0a','固有[gù yǒu]')).
+assert(celo(propra,'propr.0a','妥当[tuǒ dang],妥當[tuǒ dang]')).
+assert(celo(propraĵo,'propr.0ajxo','属性[shǔ xìng],屬性[shǔ xìng]')).
+assert(celo(propraĵo,'propr.0ajxo','物业[wù yè],物業[wù yè]')).
+assert(celo(propraĵo,'propr.0ajxo','产业[chǎn yè],產業[chǎn yè]')).
+assert(celo(propraĵo,'propr.0ajxo','財[cái],财[cái]')).
+assert(celo(propraĵo,'propr.0ajxo','財物[cái wù],财物[cái wù]')).
+assert(celo(propraĵo,'propr.0ajxo','財產[cái chǎn],财产[cái chǎn]')).
+assert(celo(propraĵo,'propr.0ajxo','动产[dòng chǎn],動產[dòng chǎn]')).
+assert(celo(propraĵo,'propr.0ajxo.KOMUNE','属性[shǔ xìng],屬性[shǔ xìng]')).
+assert(celo(propraĵo,'propr.0ajxo.KOMUNE','特質[tè zhì],特质[tè zhì]')).
+assert(celo(propraĵo,'propr.0ajxo.KOMUNE','特性[tè xìng]')).
+assert(celo(propre,'propr.0e.ARG','严格来说[yán gé lái shuō],嚴格來說[yán gé lái shuō]')).
+assert(celo(propre,'propr.0e.ARG','其实[qí shí],其實[qí shí]')).
+assert(celo(propre,'propr.0e.ARG','原[yuán]')).
+assert(celo(propre,'propr.0e.ARG','按理[àn lǐ]')).
+assert(celo(propre,'propr.0e.ARG','按理說[àn lǐ shuō],按理说[àn lǐ shuō]')).
+assert(celo(propre,'propr.0e.ARG','本該[běn gāi],本该[běn gāi]')).
+assert(celo(propre,'propr.0e.ARG','本證[běn zhèng],本证[běn zhèng]')).
+assert(celo(propreco,'propr.0eco.JUR','所有权[suǒ yǒu quán],所有權[suǒ yǒu quán]')).
+assert(celo(propreco,'propr.0eco.JUR','財產[cái chǎn],财产[cái chǎn]')).
+assert(celo(propreco,'propr.0eco.JUR','产权[chǎn quán],產權[chǎn quán]')).
+assert(celo(propreco,'propr.0eco.KOMUNE','属性[shǔ xìng],屬性[shǔ xìng]')).
+assert(celo(propreco,'propr.0eco.KOMUNE','特徵[tè zhēng]')).
+assert(celo(proprulo,'propr.0ulo','主[zhǔ]')).
+assert(celo(proprulo,'propr.0ulo','业主[yè zhǔ],業主[yè zhǔ]')).
+assert(celo(proprulo,'propr.0ulo','所有者[suǒ yǒu zhě]')).
+assert(celo(proprumaĵo,'propr.0umajxo','属地[shǔ dì],屬地[shǔ dì]')).
+assert(celo(proprumaĵo,'propr.0umajxo','动产[dòng chǎn],動產[dòng chǎn]')).
+assert(celo(proprumaĵo,'propr.0umajxo','物业[wù yè],物業[wù yè]')).
+assert(celo(proprumaĵo,'propr.0umajxo','財物[cái wù],财物[cái wù]')).
+assert(celo(proprumaĵo,'propr.0umajxo','財產[cái chǎn],财产[cái chǎn]')).
+assert(celo(proprumo,'propr.0umajxo','属地[shǔ dì],屬地[shǔ dì]')).
+assert(celo(proprumo,'propr.0umajxo','动产[dòng chǎn],動產[dòng chǎn]')).
+assert(celo(proprumeco,'propr.0umeco','所有权[suǒ yǒu quán],所有權[suǒ yǒu quán]')).
+assert(celo(proprumi,'propr.0umi','佔有[zhàn yǒu],占有[zhàn yǒu]')).
+assert(celo(proprumi,'propr.0umi','持有[chí yǒu]')).
+assert(celo(proprumi,'propr.0umi','有着[yǒu zhe],有著[yǒu zhe]')).
+assert(celo(proprumi,'propr.0umi','具有[jù yǒu]')).
+assert(celo(proprumi,'propr.0umi','具[jù]')).
+assert(celo(alproprigi,'propr.al0igi','僭[jiàn]')).
+assert(celo(alproprigi,'propr.al0igi','擅[shàn]')).
+assert(celo(alproprigi,'propr.al0igi','窃夺[qiè duó],竊奪[qiè duó]')).
+assert(celo(alproprigi,'propr.al0igi','窃据[qiè jù],竊據[qiè jù]')).
+assert(celo(malpropra,'propr.mal0a','异己[yì jǐ],異己[yì jǐ]')).
+assert(celo(malpropra,'propr.mal0a','外源性[wài yuán xìng]')).
+assert(celo(malpropra,'propr.mal0a','异种[yì zhǒng],異種[yì zhǒng]')).
+assert(celo(malpropra,'propr.mal0a','傀[guī]')).
