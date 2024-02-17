@@ -5396,3 +5396,343 @@ assert(celo(malpublika,'publik.mal0a','私下[sī xià]')).
 assert(celo(malpublika,'publik.mal0a','私底下[sī dǐ xia]')).
 assert(celo(puĉo,'pucx.0o','政变[zhèng biàn],政變[zhèng biàn]')).
 assert(celo(puĉo,'pucx.0o','叛乱[pàn luàn],叛亂[pàn luàn]')).
+assert(celo(pudelo,'pudel.0o','貴婦犬[guì fù quǎn],贵妇犬[guì fù quǎn]')).
+assert(celo(pudendo,'pudend.0o','性器官[xìng qì guān]')).
+assert(celo(pudingo,'puding.0o','布丁[bù dīng]')).
+assert(celo(pudri,'pudr.0i','扑粉[pū fěn],撲粉[pū fěn]')).
+assert(celo(pudrilo,'pudr.0ilo','粉扑[fěn pū],粉撲[fěn pū]')).
+assert(celo(pudro,'pudr.0o','粉[fěn]')).
+assert(celo(pufa,'puf.0a','膀[pāng]')).
+assert(celo(pufiĝi,'puf.0igxi','肿[zhǒng],腫[zhǒng]')).
+assert(celo(pufiĝi,'puf.0igxi','臖[xìng]')).
+assert(celo(pufo,'puf.0o','填塞料[tián sè liào]')).
+assert(celo(pufo,'puf.0o','凸出部份[tū chū bù fen]')).
+assert(celo(pufo,'puf.0o','小珠[xiǎo zhū]')).
+assert(celo(pugo,'pug.0o','屁股[pì gu]')).
+assert(celo(pugo,'pug.0o','臀部[tún bù]')).
+assert(celo(pugo,'pug.0o','腚[dìng]')).
+assert(celo(pugo,'pug.0o','臀[tún]')).
+assert(celo(pugno,'pugn.0o','拳[quán]')).
+assert(celo(pugno,'pugn.0o','拳头[quán tou],拳頭[quán tou]')).
+assert(celo(pulo,'pul.0o','蚤[zǎo]')).
+assert(celo(pulo,'pul.0o','虼[gè]')).
+assert(celo(pulo,'pul.0o','跳蚤[tiào zao]')).
+assert(celo(pulmo,'pulm.0o','肺[fèi]')).
+assert(celo(pulmo,'pulm.0o','肺部[fèi bù]')).
+assert(celo(pulovero,'pulover.0o','毛衣[máo yī]')).
+assert(celo(pulovero,'pulover.0o','套衫[tào shān]')).
+assert(celo(pulovero,'pulover.0o','套头毛衣[tào tóu máo yī],套頭毛衣[tào tóu máo yī]')).
+assert(celo(pulovero,'pulover.0o','羊毛衫[yáng máo shān]')).
+assert(celo(kapuĉpulovero,'pulover.kapucx0o','连帽卫衣[lián mào wèi yī],連帽衛衣[lián mào wèi yī]')).
+assert(celo(kapuĉpulovero,'pulover.kapucx0o','卫衣[wèi yī],衛衣[wèi yī]')).
+assert(celo(pulpo,'pulp.0o.BOT','瓤[ráng]')).
+assert(celo(pulpo,'pulp.0o.BOT','果肉[guǒ ròu]')).
+assert(celo(pulpo,'pulp.0o.BOT','肌[jī]')).
+assert(celo(pulsi,'puls.0i','心跳[xīn tiào]')).
+assert(celo(pulsi,'puls.0i','搉[què]')).
+assert(celo(pulso,'puls.0o.BIO','律动[lǜ dòng],律動[lǜ dòng]')).
+assert(celo(pulso,'puls.0o.BIO','脈[mài],脉[mài]')).
+assert(celo(pulso,'puls.0o.BIO','脈動[mài dòng],脉动[mài dòng]')).
+assert(celo(pulso,'puls.0o.BIO','節拍[jié pāi],节拍[jié pāi]')).
+assert(celo(lumpulsi,'puls.lum0i','閃光[shǎn guāng],闪光[shǎn guāng]')).
+assert(celo(pulsaro,'pulsar.0o','脈衝星[mài chōng xīng],脉冲星[mài chōng xīng]')).
+assert(celo(pulvo,'pulv.0o','火药[huǒ yào],火藥[huǒ yào]')).
+assert(celo(pulvorigi,'pulvor.0igi','砸碎[zá suì]')).
+assert(celo(pulvoro,'pulvor.0o','粉[fěn]')).
+assert(celo(pulvoro,'pulvor.0o','香粉[xiāng fěn]')).
+assert(celo(pulvoro,'pulvor.0o','細粉[xì fěn],细粉[xì fěn]')).
+assert(celo(pulvoro,'pulvor.0o','散[sǎn]')).
+assert(celo(pulvoro,'pulvor.0o','丹[dān]')).
+assert(celo(pulvoro,'pulvor.0o','粉末[fěn mò]')).
+assert(celo(bakpulvoro,'pulvor.bak0o','泡打粉[pào dǎ fěn]')).
+assert(celo(bakpulvoro,'pulvor.bak0o','焙粉[bèi fěn]')).
+assert(celo(bakpulvoro,'pulvor.bak0o','发粉[fā fěn],發粉[fā fěn]')).
+assert(celo(bakpulvoro,'pulvor.bak0o','发酵粉[fā jiào fěn],發酵粉[fā jiào fěn]')).
+assert(celo(bakpulvoro,'pulvor.bak0o','面包粉[miàn bāo fěn],麵包粉[miàn bāo fěn]')).
+assert(celo(kakapulvoro,'pulvor.kaka0o','可可粉[kě kě fěn]')).
+assert(celo(lavpulvoro,'pulvor.lav0o','洗衣粉[xǐ yī fěn]')).
+assert(celo(lavpulvoro,'pulvor.lav0o','洗涤剂[xǐ dí jì],洗滌劑[xǐ dí jì]')).
+assert(celo(pum,'pum.0','咚[dōng]')).
+assert(celo(pum,'pum.0','鼟[tēng]')).
+assert(celo(pumiko,'pumik.0o','浮岩[fú yán]')).
+assert(celo(pumiko,'pumik.0o','浮石[fú shí]')).
+assert(celo(pumiko,'pumik.0o','摩脚石[mó jiǎo shí],摩腳石[mó jiǎo shí]')).
+assert(celo(pumiko,'pumik.0o','磨脚石[mó jiǎo shí],磨腳石[mó jiǎo shí]')).
+assert(celo(pumiko,'pumik.0o','洗石[xǐ shí]')).
+assert(celo(pumiko,'pumik.0o','用浮石磨光[yòng fú shí mò guāng]')).
+assert(celo(pumiko,'pumik.0o','輕石[qīng shí],轻石[qīng shí]')).
+assert(celo(pumpi,'pump.0i','临时借贷[lín shí jiè dài],臨時借貸[lín shí jiè dài]')).
+assert(celo(pumpilo,'pump.0ilo','泵[bèng]')).
+assert(celo(pumpilo,'pump.0ilo','唧筒[jī tǒng]')).
+assert(celo(pumpilo,'pump.0ilo','帮浦[bāng pǔ],幫浦[bāng pǔ]')).
+assert(celo(pumpilo,'pump.0ilo','泵浦[bèng pǔ]')).
+assert(celo('Aerpumpilo','pump.Aer0ilo','唧筒座[Jī tǒng zuò]')).
+assert(celo(aerpumpilo,'pump.aer0ilo','唧筒[jī tǒng]')).
+assert(celo(aerpumpilo,'pump.aer0ilo','气泵[qì bèng],氣泵[qì bèng]')).
+assert(celo(aerpumpilo,'pump.aer0ilo','压缩机[yā suō jī],壓縮機[yā suō jī]')).
+assert(celo(puni,'pun.0i','惩[chéng],懲[chéng]')).
+assert(celo(puni,'pun.0i','惩罚[chéng fá],懲罰[chéng fá]')).
+assert(celo(puni,'pun.0i','处[chǔ],處[chǔ]')).
+assert(celo(puni,'pun.0i','誅[zhū],诛[zhū]')).
+assert(celo(puni,'pun.0i','惩治[chéng zhì],懲治[chéng zhì]')).
+assert(celo(puni,'pun.0i','罚[fá],罰[fá]')).
+assert(celo(puni,'pun.0i','制裁[zhì cái]')).
+assert(celo(puni,'pun.0i','惩处[chéng chǔ],懲處[chéng chǔ]')).
+assert(celo(puni,'pun.0i','处分[chǔ fèn],處分[chǔ fèn]')).
+assert(celo(puni,'pun.0i','处罚[chǔ fá],處罰[chǔ fá]')).
+assert(celo(puni,'pun.0i','处分[chǔ fēn],處分[chǔ fēn]')).
+assert(celo(puni,'pun.0i','整[zhěng]')).
+assert(celo(puninda,'pun.0inda','可罚[kě fá],可罰[kě fá]')).
+assert(celo(puninda,'pun.0inda','可起訴[kě qǐ sù],可起诉[kě qǐ sù]')).
+assert(celo(puninda,'pun.0inda','应惩罚[yìng chéng fá],應懲罰[yìng chéng fá]')).
+assert(celo(puninda,'pun.0inda','有罪[yǒu zuì]')).
+assert(celo(puno,'pun.0o','惩罚[chéng fá],懲罰[chéng fá]')).
+assert(celo(puno,'pun.0o','刑[xíng]')).
+assert(celo(puno,'pun.0o','罚[fá],罰[fá]')).
+assert(celo(puno,'pun.0o','刑罚[xíng fá],刑罰[xíng fá]')).
+assert(celo(monpuni,'pun.mon0i','罚款[fá kuǎn],罰款[fá kuǎn]')).
+assert(celo(monpuni,'pun.mon0i','罚钱[fá qián],罰錢[fá qián]')).
+assert(celo(monpuno,'pun.mon0o','罚款[fá kuǎn],罰款[fá kuǎn]')).
+assert(celo(monpuno,'pun.mon0o','罚金[fá jīn],罰金[fá jīn]')).
+assert(celo(punca,'punc.0a','赯[táng]')).
+assert(celo(punca,'punc.0a','艳红色[yàn hóng sè],艷紅色[yàn hóng sè]')).
+assert(celo(punca,'punc.0a','血紅色[xiě hóng sè],血红色[xiě hóng sè]')).
+assert(celo(punca,'punc.0a','血紅[xuè hóng],血红[xuè hóng]')).
+assert(celo(punca,'punc.0a','深紅[shēn hóng],深红[shēn hóng]')).
+assert(celo(punca,'punc.0a','纁[xūn]')).
+assert(celo(punĉo,'puncx.0o','潘趣酒[pān qù jiǔ]')).
+assert(celo(pundo,'pund.0o','鎊[bàng],镑[bàng]')).
+assert(celo(punko,'punk.0o','朋克[péng kè]')).
+assert(celo(punko,'punk.0o','庞克[páng kè],龐克[páng kè]')).
+assert(celo(punko,'punk.0o','朋克文化[péng kè wén huà]')).
+assert(celo(punko,'punk.0o','庞克文化[páng kè wén huà],龐克文化[páng kè wén huà]')).
+assert(celo(punkto,'punkt.0o','句号[jù hào],句號[jù hào]')).
+assert(celo(punkto,'punkt.0o','点[diǎn],點[diǎn]')).
+assert(celo(punkto,'punkt.0o','点子[diǎn zi],點子[diǎn zi]')).
+assert(celo(punkto,'punkt.0o','附点[fù diǎn],附點[fù diǎn]')).
+assert(celo(punkto,'punkt.0o','圆点[yuán diǎn],圓點[yuán diǎn]')).
+assert(celo(punkto,'punkt.0o','目[mù]')).
+assert(celo(punkto,'punkt.0o','点点[diǎn diǎn],點點[diǎn diǎn]')).
+assert(celo(punkto,'punkt.0o','剑尖[jiàn jiān],劍尖[jiàn jiān]')).
+assert(celo(celpunkto,'punkt.cel0o','目标[mù biāo],目標[mù biāo]')).
+assert(celo(celpunkto,'punkt.cel0o','目标点[mù biāo diǎn],目標點[mù biāo diǎn]')).
+assert(celo(celpunkto,'punkt.cel0o','目的地[mù dì dì]')).
+assert(celo(ĉefpunkto,'punkt.cxef0o','要点[yào diǎn],要點[yào diǎn]')).
+assert(celo(dupunkto,'punkt.du0o.TIP','冒号[mào hào],冒號[mào hào]')).
+assert(celo(elirpunkto,'punkt.elir0o','出发点[chū fā diǎn],出發點[chū fā diǎn]')).
+assert(celo(elirpunkto,'punkt.elir0o','起点[qǐ diǎn],起點[qǐ diǎn]')).
+assert(celo('fiksa punkto','punkt.fiksa0o','定点[dìng diǎn],定點[dìng diǎn]')).
+assert(celo(komencpunkto,'punkt.komenc0o','出发点[chū fā diǎn],出發點[chū fā diǎn]')).
+assert(celo(komencpunkto,'punkt.komenc0o','起点[qǐ diǎn],起點[qǐ diǎn]')).
+assert(celo(komencpunkto,'punkt.komenc0o','始点[shǐ diǎn],始點[shǐ diǎn]')).
+assert(celo(komencpunkto,'punkt.komenc0o','初始[chū shǐ]')).
+assert(celo(kontraŭpunkto,'punkt.kontraux0o','旋律配合[xuán lǜ pèi he]')).
+assert(celo(kontraŭpunkto,'punkt.kontraux0o','重复旋律[chóng fù xuán lǜ],重複旋律[chóng fù xuán lǜ]')).
+assert(celo(mezpunkto,'punkt.mez0o','中[zhōng]')).
+assert(celo(mezpunkto,'punkt.mez0o.MAT','中点[zhōng diǎn],中點[zhōng diǎn]')).
+assert(celo(mezurpunkto,'punkt.mezur0o','测量点[cè liáng diǎn],測量點[cè liáng diǎn]')).
+assert(celo(starpunkto,'punkt.star0o.FIG','觀點[guān diǎn],观点[guān diǎn]')).
+assert(celo(starpunkto,'punkt.star0o.FIG','表态[biǎo tài],表態[biǎo tài]')).
+assert(celo(starpunkto,'punkt.star0o.FIG','立足点[lì zú diǎn],立足點[lì zú diǎn]')).
+assert(celo(tempopunkto,'punkt.tempo0o','时间点[shí jiān diǎn],時間點[shí jiān diǎn]')).
+assert(celo(tempopunkto,'punkt.tempo0o','时刻[shí kè],時刻[shí kè]')).
+assert(celo(tempopunkto,'punkt.tempo0o','时候[shí hou],時候[shí hou]')).
+assert(celo(tempopunkto,'punkt.tempo0o','时机[shí jī],時機[shí jī]')).
+assert(celo(tempopunkto,'punkt.tempo0o','时期[shí qī],時期[shí qī]')).
+assert(celo(tripunkto,'punkt.tri0o','省略号[shěng lu:è hào],省略號[shěng lu:è hào]')).
+assert(celo(turnopunkto,'punkt.turno0o','关头[guān tóu],關頭[guān tóu]')).
+assert(celo(turnopunkto,'punkt.turno0o','坎儿[kǎn r],坎兒[kǎn r]')).
+assert(celo(turnopunkto,'punkt.turno0o','先机[xiān jī],先機[xiān jī]')).
+assert(celo(turnopunkto,'punkt.turno0o','关键时刻[guān jiàn shí kè],關鍵時刻[guān jiàn shí kè]')).
+assert(celo(vidpunkto,'punkt.vid0o','角度[jiǎo dù]')).
+assert(celo(vidpunkto,'punkt.vid0o','主张[zhǔ zhāng],主張[zhǔ zhāng]')).
+assert(celo(vidpunkto,'punkt.vid0o','看法[kàn fǎ]')).
+assert(celo(vidpunkto,'punkt.vid0o','見解[jiàn jiě],见解[jiàn jiě]')).
+assert(celo(vidpunkto,'punkt.vid0o','見地[jiàn dì],见地[jiàn dì]')).
+assert(celo(punto,'punt.0o','花边[huā biān],花邊[huā biān]')).
+assert(celo(punto,'punt.0o','蕾丝[lěi sī],蕾絲[lěi sī]')).
+assert(celo(pupo,'pup.0o','蛹[yǒng]')).
+assert(celo(pupo,'pup.0o','人偶[rén ǒu]')).
+assert(celo(pupo,'pup.0o','傀[kuǐ]')).
+assert(celo(pupo,'pup.0o','木偶[mù ǒu]')).
+assert(celo(pupo,'pup.0o.ludilo','玩偶[wán ǒu]')).
+assert(celo(pupo,'pup.0o.ludilo','娃娃[wá wa]')).
+assert(celo(pupo,'pup.0o.ludilo','洋娃娃[yáng wá wa]')).
+assert(celo(fadenpupo,'pup.faden0o','傀儡[kuǐ lěi]')).
+assert(celo(fadenpupo,'pup.faden0o','木偶[mù ǒu]')).
+assert(celo(fadenpupo,'pup.faden0o','提線木偶[tí xiàn mù ǒu],提线木偶[tí xiàn mù ǒu]')).
+assert(celo(fadenpupo,'pup.faden0o','傀[kuǐ]')).
+assert(celo(gantpupo,'pup.gant0o','傀[kuǐ]')).
+assert(celo(pupilo,'pupil.0o','瞳[tóng]')).
+assert(celo(pupilo,'pupil.0o','瞳孔[tóng kǒng]')).
+assert(celo(pupilo,'pupil.0o','眸[móu]')).
+assert(celo(pupilo,'pupil.0o','眸子[móu zi]')).
+assert(celo(pupilo,'pupil.0o','瞳仁[tóng rén]')).
+assert(celo(pupilo,'pupil.0o','黑眼珠[hēi yǎn zhū]')).
+assert(celo(pupilo,'pupil.0o','瞳人[tóng rén]')).
+assert(celo(pupitro,'pupitr.0o','书桌[shū zhuō],書桌[shū zhuō]')).
+assert(celo(pupitro,'pupitr.0o','桌[zhuō]')).
+assert(celo(pura,'pur.0a','純淨[chún jìng],纯净[chún jìng]')).
+assert(celo(pura,'pur.0a','单纯[dān chún],單純[dān chún]')).
+assert(celo(pura,'pur.0a','清白[qīng bái]')).
+assert(celo(pura,'pur.0a','湜[shí]')).
+assert(celo(pura,'pur.0a','洁[jié],潔[jié]')).
+assert(celo(pura,'pur.0a','皭[jiào]')).
+assert(celo(pura,'pur.0a','粹[cuì]')).
+assert(celo(pura,'pur.0a','純[chún],纯[chún]')).
+assert(celo(pura,'pur.0a','純正[chún zhèng],纯正[chún zhèng]')).
+assert(celo(pura,'pur.0a','純潔[chún jié],纯洁[chún jié]')).
+assert(celo(pura,'pur.0a','純粹[chún cuì],纯粹[chún cuì]')).
+assert(celo(pura,'pur.0a','絜[xié]')).
+assert(celo('pure kaj nure','pur.0e_kaj_nure','朴[pǔ],樸[pǔ]')).
+assert(celo('pure kaj simple','pur.0e_kaj_nure','单纯[dān chún],單純[dān chún]')).
+assert(celo(purema,'pur.0ema','整洁[zhěng jié],整潔[zhěng jié]')).
+assert(celo(purema,'pur.0ema','崭齐[zhǎn qí],嶄齊[zhǎn qí]')).
+assert(celo(purigi,'pur.0igi','湔[jiān]')).
+assert(celo(purigi,'pur.0igi','洁净[jié jìng],潔淨[jié jìng]')).
+assert(celo(purigi,'pur.0igi','清扫[qīng sǎo],清掃[qīng sǎo]')).
+assert(celo(purigi,'pur.0igi','清洁[qīng jié],清潔[qīng jié]')).
+assert(celo(purigi,'pur.0igi','沷[fā]')).
+assert(celo(purigi,'pur.0igi','洮[táo]')).
+assert(celo(purigi,'pur.0igi','祓[fú]')).
+assert(celo(purigi,'pur.0igi','打扫[dǎ sǎo],打掃[dǎ sǎo]')).
+assert(celo(purigi,'pur.0igi','澼[pì]')).
+assert(celo(purigi,'pur.0igi','擦[cā]')).
+assert(celo(purigi,'pur.0igi','洗净[xǐ jìng],洗淨[xǐ jìng]')).
+assert(celo(purigi,'pur.0igi','涤[dí],滌[dí]')).
+assert(celo(purigi,'pur.0igi','擦拭[cā shì]')).
+assert(celo(purigilo,'pur.0igilo','淸洗劑[qīng xǐ jì],清洗剂[qīng xǐ jì]')).
+assert(celo(purigilo,'pur.0igilo','洁面乳[jié miàn rǔ],潔面乳[jié miàn rǔ]')).
+assert(celo(purigilo,'pur.0igilo','使淸潔的東西[shǐ qīng jié de dōng xi],使清洁的东西[shǐ qīng jié de dōng xi]')).
+assert(celo(purigilo,'pur.0igilo','擦亮粉[cā liàng fěn]')).
+assert(celo(purigilo,'pur.0igilo','淸潔劑[qīng jié jì],清洁剂[qīng jié jì]')).
+assert(celo(purigilo,'pur.0igilo','淸潔用品[qīng jié yòng pǐn],清洁用品[qīng jié yòng pǐn]')).
+assert(celo(purigilo,'pur.0igilo','清除剂[qīng chú jì],清除劑[qīng chú jì]')).
+assert(celo(puriĝejo,'pur.0igxejo','水房[shuǐ fáng]')).
+assert(celo(puriĝejo,'pur.0igxejo','厕[cè],廁[cè]')).
+assert(celo(puriĝejo,'pur.0igxejo','洗手間[xǐ shǒu jiān],洗手间[xǐ shǒu jiān]')).
+assert(celo(puriĝejo,'pur.0igxejo','盥洗室[guàn xǐ shì]')).
+assert(celo(puristo,'pur.0isto','純化論者[chún huà lùn zhě],纯化论者[chún huà lùn zhě]')).
+assert(celo(akvopurigejo,'pur.akvo0igejo','污水处理厂[wū shuǐ chǔ lǐ chǎng],污水處理廠[wū shuǐ chǔ lǐ chǎng]')).
+assert(celo(akvopurigejo,'pur.akvo0igejo','污水净化设备[wū shuǐ jìng huà shè bèi],污水淨化設備[wū shuǐ jìng huà shè bèi]')).
+assert(celo(brilpura,'pur.bril0a','光洁[guāng jié],光潔[guāng jié]')).
+assert(celo('etna purigo','pur.etna0igo','种族清洗[zhǒng zú qīng xǐ],種族清洗[zhǒng zú qīng xǐ]')).
+assert(celo('etna purigo','pur.etna0igo','种族清除[zhǒng zú qīng chú],種族清除[zhǒng zú qīng chú]')).
+assert(celo(malpura,'pur.mal0a','污[wū]')).
+assert(celo(malpura,'pur.mal0a','肮脏[āng zāng],骯髒[āng zāng]')).
+assert(celo(malpura,'pur.mal0a','脏[zāng],髒[zāng]')).
+assert(celo(malpura,'pur.mal0a','弄脏[nòng zāng],弄髒[nòng zāng]')).
+assert(celo(malpura,'pur.mal0a','汙[wū]')).
+assert(celo(malpura,'pur.mal0a','肮[āng],骯[āng]')).
+assert(celo(malpura,'pur.mal0a','齷[wò],龌[wò]')).
+assert(celo(malpura,'pur.mal0a','混浊[hùn zhuó],混濁[hùn zhuó]')).
+assert(celo(malpura,'pur.mal0a','下流[xià liú]')).
+assert(celo(malpura,'pur.mal0a','脏兮兮[zāng xī xī],髒兮兮[zāng xī xī]')).
+assert(celo(malpura,'pur.mal0a','污秽[wū huì],污穢[wū huì]')).
+assert(celo(malpura,'pur.mal0a','污跡斑斑[wū jī bān bān],污迹斑斑[wū jī bān bān]')).
+assert(celo(malpuraĵo,'pur.mal0ajxo','污[wū]')).
+assert(celo(malpuraĵo,'pur.mal0ajxo','垢[gòu]')).
+assert(celo(malpuraĵo,'pur.mal0ajxo','污垢[wū gòu]')).
+assert(celo(malpuraĵo,'pur.mal0ajxo','污秽[wū huì],污穢[wū huì]')).
+assert(celo(malpuraĵo,'pur.mal0ajxo','泥垢[ní gòu]')).
+assert(celo(malpuraĵo,'pur.mal0ajxo','秽[huì],穢[huì]')).
+assert(celo(malpurigi,'pur.mal0igi','涴[wò]')).
+assert(celo(malpurigi,'pur.mal0igi','弄脏[nòng zāng],弄髒[nòng zāng]')).
+assert(celo(malpurigi,'pur.mal0igi','薶[wō]')).
+assert(celo(malpurigi,'pur.mal0igi','壤[rǎng]')).
+assert(celo(malpurigi,'pur.mal0igi','受污染[shòu wū rǎn]')).
+assert(celo(malpurigi,'pur.mal0igi','污跡斑斑[wū jī bān bān],污迹斑斑[wū jī bān bān]')).
+assert(celo(malpurigi,'pur.mal0igi','衣裳褴褛[yī shang lán lǚ],衣裳襤褸[yī shang lán lǚ]')).
+assert(celo(malpurigi,'pur.mal0igi','受到污染[shòu dào wū rǎn]')).
+assert(celo(malpurigi,'pur.mal0igi','脏污[zāng wū],髒污[zāng wū]')).
+assert(celo(blovpurigi,'pur.naz0igi','叉子[chā zi]')).
+assert(celo(blovpurigi,'pur.naz0igi','擤鼻涕[xǐng bí tì]')).
+assert(celo(blovpurigi,'pur.naz0igi','擤[xǐng]')).
+retract(celo(blovpurigi,'pur.naz0igi','叉子[chā zi]')).
+assert(celo(ripozpurigi,'pur.ripoz0igi','澄[dèng]')).
+assert(celo(ripozpurigi,'pur.ripoz0igi','滗析[bì xī],潷析[bì xī]')).
+assert(celo(sekpurigejo,'pur.sek0igejo','乾洗[gān xǐ],干洗[gān xǐ]')).
+assert(celo(sekpurigi,'pur.sek0igi','乾洗[gān xǐ],干洗[gān xǐ]')).
+assert(celo(viŝpurigi,'pur.visx0igi','抹[mā]')).
+assert(celo(viŝpurigi,'pur.visx0igi','拭抹[shì mǒ]')).
+assert(celo(viŝpurigi,'pur.visx0igi','拭除[shì chú]')).
+assert(celo(viŝpurigi,'pur.visx0igi','揩拭[kāi shì]')).
+assert(celo(viŝpurigi,'pur.visx0igi','揩擦[kāi cā]')).
+assert(celo(purgatorio,'purgat.0o','炼狱[liàn yù],煉獄[liàn yù]')).
+assert(celo(puritanismo,'purita.0ismo','淸教徒[qīng jiào tú],清教徒[qīng jiào tú]')).
+assert(celo(puritanismo,'purita.0ismo','禁欲者[jìn yù zhě]')).
+assert(celo(puritano,'purita.0o','清教徒[qīng jiào tú]')).
+assert(celo(puritano,'purita.0o','严肃的人[yán sù de rén],嚴肅的人[yán sù de rén]')).
+assert(celo(pusi,'pus.0i','流脓[liú nóng],流膿[liú nóng]')).
+assert(celo(pusi,'pus.0i','溃烂[kuì làn],潰爛[kuì làn]')).
+assert(celo(pusi,'pus.0i','生脓包[shēng nóng bāo],生膿包[shēng nóng bāo]')).
+assert(celo(puso,'pus.0o','脓[nóng],膿[nóng]')).
+assert(celo(puso,'pus.0o','脓水[nóng shuǐ],膿水[nóng shuǐ]')).
+assert(celo(pustulo,'pustul.0o','痘[dòu]')).
+assert(celo(pustulo,'pustul.0o','挫疮[cuò chuāng],挫瘡[cuò chuāng]')).
+assert(celo(pustulo,'pustul.0o','疱[pào],皰[pào]')).
+assert(celo(pustulo,'pustul.0o','脓泡[nóng pào],膿泡[nóng pào]')).
+assert(celo(puŝi,'pusx.0i','敦促[dūn cù]')).
+assert(celo(puŝi,'pusx.0i','捘[zùn]')).
+assert(celo(puŝi,'pusx.0i','推搡[tuī sǎng]')).
+assert(celo(puŝi,'pusx.0i','揕[zhèn]')).
+assert(celo(puŝi,'pusx.0i','挤[jǐ],擠[jǐ]')).
+assert(celo(antaŭenpuŝi,'pusx.antauxen0i','推动[tuī dòng],推動[tuī dòng]')).
+assert(celo(antaŭenpuŝi,'pusx.antauxen0i','推[tuī]')).
+assert(celo(depuŝi,'pusx.de0i','推倒[tuī dǎo]')).
+assert(celo(elpuŝi,'pusx.el0i','敺[qū]')).
+assert(celo(elpuŝi,'pusx.el0i','排斥[pái chì]')).
+assert(celo(interpuŝiĝo,'pusx.inter0igxo','拥挤[yōng jǐ],擁擠[yōng jǐ]')).
+assert(celo(interpuŝiĝo,'pusx.inter0igxo','碰撞[pèng zhuàng]')).
+assert(celo(interpuŝiĝo,'pusx.inter0igxo','触碰事故[chù pèng shì gù],觸碰事故[chù pèng shì gù]')).
+assert(celo(interpuŝiĝo,'pusx.inter0igxo','人头揽动[rén tóu lǎn dòng],人頭攬動[rén tóu lǎn dòng]')).
+assert(celo(interpuŝiĝo,'pusx.inter0igxo','拥[yōng],擁[yōng]')).
+assert(celo(kunpuŝiĝi,'pusx.kun0igxi','碰撞[pèng zhuàng]')).
+assert(celo(kunpuŝiĝi,'pusx.kun0igxi','相撞[xiāng zhuàng]')).
+assert(celo(kunpuŝiĝi,'pusx.kun0igxi','撞[zhuàng]')).
+assert(celo(kunpuŝiĝi,'pusx.kun0igxi','兌[duì]')).
+assert(celo(piedpuŝi,'pusx.pied0i','踶[dì]')).
+assert(celo(piedpuŝi,'pusx.pied0i','踹[chuài]')).
+assert(celo(piedpuŝi,'pusx.pied0i','飛腿[fēi tuǐ],飞腿[fēi tuǐ]')).
+assert(celo(repuŝi,'pusx.re0i','搡[sǎng]')).
+assert(celo(trapuŝi,'pusx.tra0i','冲破[chōng pò],衝破[chōng pò]')).
+assert(celo(trapuŝi,'pusx.tra0i.MOV','挤过[jǐ guò],擠過[jǐ guò]')).
+assert(celo(ventopuŝo,'pusx.vento0o.MET','小阵雨[xiǎo zhèn yǔ],小陣雨[xiǎo zhèn yǔ]')).
+assert(celo(ventopuŝo,'pusx.vento0o.MET','阵风[zhèn fēng],陣風[zhèn fēng]')).
+assert(celo(puto,'put.0o','水井[shuǐ jǐng]')).
+assert(celo(puto,'put.0o','井[jǐng]')).
+assert(celo(putino,'putin.0o','婊子[biǎo zi]')).
+assert(celo(putino,'putin.0o','婊[biǎo]')).
+assert(celo(putino,'putin.0o','妓女[jì nǚ]')).
+assert(celo(putino,'putin.0o','妓女[jì nǔ:]')).
+assert(celo(putino,'putin.0o','耡[chú]')).
+assert(celo(putino,'putin.0o','耨[nòu]')).
+assert(celo(putino,'putin.0o','鎡[zī]')).
+assert(celo(putino,'putin.0o','娼女[chāng nǚ]')).
+assert(celo('Putino','putin1.0o','普京[pǔ jīng]')).
+assert(celo(putoro,'putor.0o','艾虎[ài hǔ]')).
+assert(celo(ĉasputoro,'putor.cxas0o','雪貂[xuě diāo]')).
+assert(celo(putra,'putr.0a','容易腐敗[róng yì fǔ bài],容易腐败[róng yì fǔ bài]')).
+assert(celo(putra,'putr.0a','朽[xiǔ]')).
+assert(celo(putra,'putr.0a','腐臭[fǔ chòu]')).
+assert(celo(putra,'putr.0a','餿臭[sōu chòu],馊臭[sōu chòu]')).
+assert(celo(putraĵo,'putr.0ajxo','腐肉[fǔ ròu]')).
+assert(celo(putrema,'putr.0ema','易腐[yì fǔ]')).
+assert(celo(putri,'putr.0i','腐朽[fǔ xiǔ]')).
+assert(celo(putri,'putr.0i','腐[fǔ]')).
+assert(celo(putri,'putr.0i','霉烂[méi làn],霉爛[méi làn]')).
+assert(celo(putri,'putr.0i','腐烂[fǔ làn],腐爛[fǔ làn]')).
+assert(celo(neputrema,'putr.ne0ema','可保持[kě bǎo chí]')).
+assert(celo(neputrema,'putr.ne0ema','可储蓄[kě chú xù],可儲蓄[kě chú xù]')).
+assert(celo(neputrema,'putr.ne0ema','可守[kě shǒu]')).
+assert(celo(neputrema,'putr.ne0ema','可維修[kě wéi xiū],可维修[kě wéi xiū]')).
+assert(celo(neputrema,'putr.ne0ema','可維持[kě wéi chí],可维持[kě wéi chí]')).
+assert(celo(neputrema,'putr.ne0ema','可維護[kě wéi hù],可维护[kě wéi hù]')).
+assert(celo(neputrema,'putr.ne0ema','站得住脚[zhàn dé zhù jiǎo],站得住腳[zhàn dé zhù jiǎo]')).
+assert(celo(neputrema,'putr.ne0ema','能承担[néng chéng dān],能承擔[néng chéng dān]')).
+assert(celo(neputrema,'putr.ne0ema','守得住[shǒu de zhù]')).
+assert(celo(neputrema,'putr.ne0ema','經久[jīng jiǔ],经久[jīng jiǔ]')).
+assert(celo(neputrema,'putr.ne0ema','可储存[kě chú cún],可儲存[kě chú cún]')).
+assert(celo(puzlo,'puzl.0o','拼图[pīn tú],拼圖[pīn tú]')).
+assert(celo(puzlo,'puzl.0o','拼板玩具[pīn bǎn wán jù]')).
+assert(celo(puzlo,'puzl.0o','拼图玩具[pīn tú wán jù],拼圖玩具[pīn tú wán jù]')).
