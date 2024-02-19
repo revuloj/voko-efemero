@@ -1,0 +1,265 @@
+created(1708344615.5921896).
+assert(celo(sablaĵo,'sabl.0ajxo','沙洲[shā zhōu]')).
+assert(celo(sablaĵo,'sabl.0ajxo','汀[tīng]')).
+assert(celo(sablaĵo,'sabl.0ajxo','浅滩[qiǎn tān],淺灘[qiǎn tān]')).
+assert(celo(sablaĵo,'sabl.0ajxo','沙坝[shā bà],沙壩[shā bà]')).
+assert(celo(sablaĵo,'sabl.0ajxo','沙滩[shā tān],沙灘[shā tān]')).
+assert(celo(sablaĵo,'sabl.0ajxo','沙地[shā dì]')).
+assert(celo(sablero,'sabl.0ero','沙子[shā zi]')).
+assert(celo(sabloludejo,'sabl.0ludejo','沙坑[shā kēng]')).
+assert(celo(sabloludejo,'sabl.0ludejo','沙场[shā chǎng],沙場[shā chǎng]')).
+assert(celo(sablo,'sabl.0o','沙子[shā zi]')).
+assert(celo(sablo,'sabl.0o','沙[shā]')).
+assert(celo(sablo,'sabl.0o','砂[shā]')).
+assert(celo(sablo,'sabl.0o','砂土[shā tǔ]')).
+assert(celo(sabloŝtono,'sabl.0osxtono','砺[lì],礪[lì]')).
+assert(celo(sabloŝtono,'sabl.0osxtono','沙岩[shā yán]')).
+assert(celo(sabloŝtono,'sabl.0osxtono','砂岩[shā yán]')).
+assert(celo(sablujo,'sabl.0ujo.cxia','沙坑[shā kēng]')).
+assert(celo(sablujo,'sabl.0ujo.cxia','沙场[shā chǎng],沙場[shā chǎng]')).
+assert(celo(saboti,'sabot.0i','捣毁[dǎo huǐ],搗毀[dǎo huǐ]')).
+assert(celo(saboto,'sabot.0o','破坏活动[pò huài huó dòng],破壞活動[pò huài huó dòng]')).
+assert(celo(sabro,'sabr.0o','军刀[jūn dāo],軍刀[jūn dāo]')).
+assert(celo(sabro,'sabr.0o','佩剑[pèi jiàn],佩劍[pèi jiàn]')).
+assert(celo(sabro,'sabr.0o','馬刀[mǎ dāo],马刀[mǎ dāo]')).
+assert(celo(sacerdoto,'sacerd.0o','祭司[jì sī]')).
+assert(celo(sacerdoto,'sacerd.0o','司祭[sī jì]')).
+assert(celo(sacerdoto,'sacerd.0o','司鐸[sī duó],司铎[sī duó]')).
+assert(celo(sadismo,'sad.0ismo','虐待狂[nu:è dài kuáng]')).
+assert(celo(sadismo,'sad.0ismo','施虐癖[shī nu:è pǐ]')).
+assert(celo(sadismo,'sad.0ismo','施虐狂[shī nu:è kuáng]')).
+assert(celo('Sadamo','sadam.0o','萨达姆[Sà dá mǔ],薩達姆[Sà dá mǔ]')).
+assert(celo(safiro,'safir.0o','蓝宝石[lán bǎo shí],藍寶石[lán bǎo shí]')).
+assert(celo(safrano,'safran.0o','蕃紅花[fán hóng huā],蕃红花[fán hóng huā]')).
+assert(celo(sagi,'sag.0i.FIG','弹动[dàn dòng],彈動[dàn dòng]')).
+assert(celo(sago,'sag.0o','箭头[jiàn tóu],箭頭[jiàn tóu]')).
+assert(celo(sago,'sag.0o','矢[shǐ]')).
+assert(celo(sago,'sag.0o','箭[jiàn]')).
+assert(celo(sago,'sag.0o','菆[zōu]')).
+assert(celo(sagujo,'sag.0ujo','箭囊[jiàn nāng]')).
+assert(celo(sagujo,'sag.0ujo','箭筒[jiàn tǒng]')).
+assert(celo(sagujo,'sag.0ujo','箭袋[jiàn dài]')).
+assert(celo('Sago','sag.S0o','天箭座[Tiān jiàn zuò]')).
+assert(celo(sagao,'saga.0o','传奇[chuán qí],傳奇[chuán qí]')).
+assert(celo(sagao,'saga.0o','传说中的怪物[chuán shuō zhōng de guài wù],傳說中的怪物[chuán shuō zhōng de guài wù]')).
+assert(celo(sagaca,'sagac.0a','慧[huì]')).
+assert(celo(sagaca,'sagac.0a','明智[míng zhì]')).
+assert(celo(saguo,'sagu.0o','西米[xī mǐ]')).
+assert(celo(saĝa,'sagx.0a','明智[míng zhì]')).
+assert(celo(saĝa,'sagx.0a','英明[yīng míng]')).
+assert(celo(saĝa,'sagx.0a','賢明[xián míng],贤明[xián míng]')).
+assert(celo(saĝa,'sagx.0a','睿智[ruì zhì]')).
+assert(celo(saĝa,'sagx.0a','哲[zhé]')).
+assert(celo(saĝeco,'sagx.0eco','智[zhì]')).
+assert(celo(saĝeco,'sagx.0eco','智慧[zhì huì]')).
+assert(celo(saĝeco,'sagx.0eco','神智[shén zhì]')).
+assert(celo(saĝeco,'sagx.0eco','喆[zhé]')).
+assert(celo(saĝeco,'sagx.0eco','聪明才智[cōng míng cái zhì],聰明才智[cōng míng cái zhì]')).
+assert(celo(saĝeco,'sagx.0eco','人情世故[rén qíng shì gù]')).
+assert(celo(saĝeco,'sagx.0eco','詝[zhǔ],𬣞[zhǔ]')).
+assert(celo(saĝo,'sagx.0o','智[zhì]')).
+assert(celo(saĝo,'sagx.0o','智慧[zhì huì]')).
+assert(celo(saĝo,'sagx.0o','神智[shén zhì]')).
+assert(celo(saĝo,'sagx.0o','喆[zhé]')).
+assert(celo(saĝo,'sagx.0o','人情世故[rén qíng shì gù]')).
+assert(celo(saĝo,'sagx.0o','詝[zhǔ],𬣞[zhǔ]')).
+assert(celo(saĝulo,'sagx.0ulo','哲[zhé],喆[zhé]')).
+assert(celo(saĝulo,'sagx.0ulo','思想家[sī xiǎng jiā]')).
+assert(celo(saĝulo,'sagx.0ulo.KOMUNE','智者[zhì zhě]')).
+assert(celo(saĝulo,'sagx.0ulo.KOMUNE','賢人[xián rén],贤人[xián rén]')).
+assert(celo('komuna saĝo','sagx.komuna0o','情理[qíng lǐ]')).
+assert(celo('komuna saĝo','sagx.komuna0o','常理[cháng lǐ]')).
+assert(celo('komuna saĝo','sagx.komuna0o','常識[cháng shí],常识[cháng shí]')).
+assert(celo(malsaĝa,'sagx.mal0a','呆傻[dāi shǎ]')).
+assert(celo(malsaĝa,'sagx.mal0a','傻[shǎ]')).
+assert(celo(malsaĝa,'sagx.mal0a','傻裡傻氣[shǎ li shǎ qì],傻里傻气[shǎ li shǎ qì]')).
+assert(celo(malsaĝa,'sagx.mal0a','呆[dāi]')).
+assert(celo(malsaĝa,'sagx.mal0a','嚚[yín]')).
+assert(celo(malsaĝa,'sagx.mal0a','少根筋[shǎo gēn jīn]')).
+assert(celo(malsaĝa,'sagx.mal0a','惷[chǔn]')).
+assert(celo(malsaĝa,'sagx.mal0a','愚蠢[yú chǔn]')).
+assert(celo(malsaĝa,'sagx.mal0a','憃[chōng]')).
+assert(celo(malsaĝa,'sagx.mal0a','憨[hān]')).
+assert(celo(malsaĝa,'sagx.mal0a','懵[měng]')).
+assert(celo(malsaĝeco,'sagx.mal0eco.KOMUNE','愚蠢[yú chǔn]')).
+assert(celo(malsaĝeco,'sagx.mal0eco.KOMUNE','愚蠢的行为[yú chǔn de xíng wéi],愚蠢的行為[yú chǔn de xíng wéi]')).
+assert(celo(malsaĝulo,'sagx.mal0ulo','傻子[shǎ zi]')).
+assert(celo(malsaĝulo,'sagx.mal0ulo','呆子[dāi zi]')).
+assert(celo(malsaĝulo,'sagx.mal0ulo','呆瓜[dāi guā]')).
+assert(celo(malsaĝulo,'sagx.mal0ulo','痴[chī],癡[chī]')).
+assert(celo(supersaĝi,'sagx.super0i.KOMUNE','晁三暮四[zhāo sān mù sì]')).
+assert(celo(supersaĝi,'sagx.super0i.KOMUNE','智勝[zhì shèng],智胜[zhì shèng]')).
+assert(celo('Saharo','sahar.0o','撒哈拉[Sā hā lā]')).
+assert(celo('Saharo','sahar.0o','撒哈拉沙漠[Sā hā lā Shā mò]')).
+assert(celo('Sahelo','sahel.0o','萨赫勒地区[sà hè lēi dì qū],薩赫勒地區[sà hè lēi dì qū]')).
+assert(celo('Saĥaleno','sahxalen.0o','库页岛[Kù yè Dǎo],庫頁島[Kù yè Dǎo]')).
+assert(celo(saĥarozo,'sahxaroz.0o','蔗糖[zhè táng]')).
+assert(celo(sairo,'sair.0o','秋刀魚[qiū dāo yú],秋刀鱼[qiū dāo yú]')).
+assert(celo('Sajano','sajan.S0o','萨彦岭[sà yàn lǐng],薩彥嶺[sà yàn lǐng]')).
+assert(celo(sajmirio,'sajmiri.0o','松鼠猴[sōng shǔ hóu],鬆鼠猴[sōng shǔ hóu]')).
+assert(celo(sako,'sak.0o','兜[dōu]')).
+assert(celo(sako,'sak.0o','包囊[bāo náng]')).
+assert(celo(sako,'sak.0o','包袋[bāo dài]')).
+assert(celo(sako,'sak.0o','口袋[kǒu dài]')).
+assert(celo(sako,'sak.0o','布袋[bù dài]')).
+assert(celo(sako,'sak.0o','袋[dài]')).
+assert(celo(sako,'sak.0o','袋子[dài zi]')).
+assert(celo(aĉetsako,'sak.acxet0o','購物袋[gòu wù dài],购物袋[gòu wù dài]')).
+assert(celo(blovsako,'sak.blov0o','摺式風箱[zhé shì fēng xiāng],摺式风箱[zhé shì fēng xiāng]')).
+assert(celo(blovsako,'sak.blov0o','韛[bài]')).
+assert(celo(dormosako,'sak.dormo0o','睡袋[shuì dài]')).
+assert(celo(dorsosako,'sak.dorso0o','背包[bēi bāo]')).
+assert(celo(dorsosako,'sak.dorso0o','双肩包[shuāng jiān bāo],雙肩包[shuāng jiān bāo]')).
+assert(celo(dorsosako,'sak.dorso0o','帆布背包[fán bù bēi bāo]')).
+assert(celo(dorsosako,'sak.dorso0o','旅行背包[lǚ xíng bēi bāo]')).
+assert(celo(felsako,'sak.fel0o','飲料軟管[yǐn liào ruǎn guǎn],饮料软管[yǐn liào ruǎn guǎn]')).
+assert(celo(mansako,'sak.man0o','手提包[shǒu tí bāo]')).
+assert(celo(mansako,'sak.man0o','手袋[shǒu dài]')).
+assert(celo(mansako,'sak.man0o','女用錢包[nǚ yòng qián bāo],女用钱包[nǚ yòng qián bāo]')).
+assert(celo(mansako,'sak.man0o','手包[shǒu bāo]')).
+assert(celo(sakeo,'sake.0o','淸酒[qīng jiǔ],清酒[qīng jiǔ]')).
+assert(celo(sakeo,'sake.0o','清酒[qīng jiǔ]')).
+assert(celo(sakeo,'sake.0o','日本米酒[Rì běn mǐ jiǔ]')).
+assert(celo(sakro,'sakr.0o','骶[dǐ]')).
+assert(celo(sakri,'sakr1.0i','咒罵[zhòu mà],咒骂[zhòu mà]')).
+assert(celo(sakri,'sakr1.0i','罵[mà],骂[mà]')).
+assert(celo(sakro,'sakr1.0o','詛咒[zǔ zhòu],诅咒[zǔ zhòu]')).
+assert(celo(sakro,'sakr1.0o','粗口[cū kǒu]')).
+assert(celo(sakro,'sakr1.0o','脏话[zāng huà],髒話[zāng huà]')).
+assert(celo(sakrala,'sakral.0a','圣[shèng],聖[shèng]')).
+assert(celo(sakrala,'sakral.0a','神圣不可侵犯[shén shèng bù kě qīn fàn],神聖不可侵犯[shén shèng bù kě qīn fàn]')).
+assert(celo(sakrala,'sakral.0a','神圣[shén shèng],神聖[shén shèng]')).
+assert(celo(sakramenta,'sakram.0a','神圣[shén shèng],神聖[shén shèng]')).
+assert(celo(sakramento,'sakram.0o.kri','圣礼[shèng lǐ],聖禮[shèng lǐ]')).
+assert(celo(sakrilegii,'sakril.0i','亵渎神明[xiè dú shén míng],褻瀆神明[xiè dú shén míng]')).
+assert(celo(sakrilegio,'sakril.0o','亵渎神明[xiè dú shén míng],褻瀆神明[xiè dú shén míng]')).
+assert(celo(sakrilegio,'sakril.0o','恶用[wù yòng],惡用[wù yòng]')).
+assert(celo(sakrilegio,'sakril.0o','渎神[dú shén],瀆神[dú shén]')).
+assert(celo(sakristiano,'','教堂司事[jiào táng sī shì]')).
+assert(celo(saksa,'saks.0a','薩克森人的[sà kè sēn rén de]')).
+assert(celo(saksa,'saks.0a','萨克森州的[sà kè sēn zhōu de],薩克森州的[sà kè sēn zhōu de]')).
+assert(celo(saksa,'saks.0a','薩克森的[sà kè sēn de]')).
+assert(celo(sakso,'saks.0o','撒克森人[sǎ kè sēn rén]')).
+assert(celo('Malsupra Saksujo','saks.MalsupraS0ujo','下萨克森[xià sà kè sēn],下薩克森[xià sà kè sēn]')).
+assert(celo('Malsupra Saksujo','saks.MalsupraS0ujo','下萨克森州[xià sà kè sēn zhōu],下薩克森州[xià sà kè sēn zhōu]')).
+assert(celo('Saksujo','saks.S0ujo','萨克森州[sà kè sēn zhōu],薩克森州[sà kè sēn zhōu]')).
+assert(celo('Saksujo-Anhalto','saks.S0ujoanhalto','萨克森安哈特州[sà kè sēn ān hā tè zhōu],薩克森安哈特州[sà kè sēn ān hā tè zhōu]')).
+assert(celo(anglosaksa,'saks.anglo0a','样格鲁萨克逊[yàng gé lǔ sà kè xùn],樣格魯薩克遜[yàng gé lǔ sà kè xùn]')).
+assert(celo(saksofono,'saksof.0o','萨克管[sà kè guǎn],薩克管[sà kè guǎn]')).
+assert(celo(saksofono,'saksof.0o','萨克斯[sà kè sī],薩克斯[sà kè sī]')).
+assert(celo(saksofono,'saksof.0o','萨克斯管[sà kè sī guǎn],薩克斯管[sà kè sī guǎn]')).
+assert(celo(saksofono,'saksof.0o','萨克斯风[sà kè sī fēng],薩克斯風[sà kè sī fēng]')).
+assert(celo(sakuro,'sakur.0o','山樱[shān yīng],山櫻[shān yīng]')).
+assert(celo(sala,'sal.0a','咸[xián],鹹[xián]')).
+assert(celo(sali,'sal.0i','加盐[jiā yán],加鹽[jiā yán]')).
+assert(celo(sali,'sal.0i','加盐了[jiā yán liǎo],加鹽了[jiā yán liǎo]')).
+assert(celo(sali,'sal.0i','放盐[fàng yán],放鹽[fàng yán]')).
+assert(celo(sali,'sal.0i','盐渍[yán zì],鹽漬[yán zì]')).
+assert(celo(sali,'sal.0i','盐腌[yán yān],鹽醃[yán yān]')).
+assert(celo(sala,'','有盐[yǒu yán],有鹽[yǒu yán]')).
+assert(celo(salo,'sal.0o','盐[yán],鹽[yán]')).
+assert(celo(salo,'sal.0o','咸盐[xián yán],鹹鹽[xián yán]')).
+assert(celo(salo,'sal.0o','盐巴[yán bā],鹽巴[yán bā]')).
+assert(celo(salo,'sal.0o','食盐[shí yán],食鹽[shí yán]')).
+assert(celo(ŝtonsalo,'sal.sxton0o','石盐[shí yán],石鹽[shí yán]')).
+assert(celo(ŝtonsalo,'sal.sxton0o','岩盐[yán yán],岩鹽[yán yán]')).
+assert(celo(ŝtonsalo,'sal.sxton0o','矿盐[kuàng yán],礦鹽[kuàng yán]')).
+assert(celo(salajro,'salajr.0o','工錢[gōng qián],工钱[gōng qián]')).
+assert(celo(salajro,'salajr.0o','薪水[xīn shuǐ]')).
+assert(celo(salajro,'salajr.0o','薪資[xīn zī],薪资[xīn zī]')).
+assert(celo(salajro,'salajr.0o','薪金[xīn jīn]')).
+assert(celo(salajro,'salajr.0o','工資[gōng zī],工资[gōng zī]')).
+assert(celo(salajro,'salajr.0o','資俸[zī fèng],资俸[zī fèng]')).
+assert(celo(salajro,'salajr.0o','薪酬[xīn chóu]')).
+assert(celo(salajro,'salajr.0o','俸[fèng]')).
+assert(celo(salajri,'','关饷[guān xiǎng],關餉[guān xiǎng]')).
+assert(celo(salajrulo,'salajr.0ulo','员工[yuán gōng],員工[yuán gōng]')).
+assert(celo(salajrulo,'salajr.0ulo','员[yuán],員[yuán]')).
+assert(celo(salajrulo,'salajr.0ulo','僱員[gù yuán],雇员[gù yuán]')).
+assert(celo(salamo,'salam.0o','萨拉米[sà lā mǐ],薩拉米[sà lā mǐ]')).
+assert(celo(salamandro,'salama.0o','蝾[róng],蠑[róng]')).
+assert(celo(salamandro,'salama.0o','鯢[ní],鲵[ní]')).
+assert(celo(salato,'salat.0o','沙拉[shā lā]')).
+assert(celo(salato,'salat.0o','莴[wō],萵[wō]')).
+assert(celo('Salcburgo','salcburg.0o','萨尔茨堡[Sà ěr cí bǎo],薩爾茨堡[Sà ěr cí bǎo]')).
+assert(celo('Salcburgo','salcburg.0o','萨尔斯堡[sà ěr sī bǎo],薩爾斯堡[sà ěr sī bǎo]')).
+assert(celo(saldo,'sald.0o','余额[yú é],餘額[yú é]')).
+assert(celo(saldo,'sald.0o','尾数[wěi shù],尾數[wěi shù]')).
+assert(celo(saliko,'salik.0o','柳条[liǔ tiáo],柳條[liǔ tiáo]')).
+assert(celo(saliko,'salik.0o','柳树[liǔ shù],柳樹[liǔ shù]')).
+assert(celo(saliko,'salik.0o','杨柳[yáng liǔ],楊柳[yáng liǔ]')).
+assert(celo(salikoko,'salikok.0o','虾[xiā],蝦[xiā]')).
+assert(celo(salikoko,'salikok.0o','虾子[xiā zǐ],蝦子[xiā zǐ]')).
+assert(celo(salikoko,'salikok.0o','小虾[xiǎo xiā],小蝦[xiǎo xiā]')).
+assert(celo(salikoko,'salikok.0o','明虾[míng xiā],明蝦[míng xiā]')).
+assert(celo(salikoko,'salikok.0o','魵[fén]')).
+assert(celo(salivi,'saliv.0i','流口水[liú kǒu shuǐ]')).
+assert(celo(salivo,'saliv.0o','口水[kǒu shuǐ]')).
+assert(celo(salivo,'saliv.0o','唾[tuò]')).
+assert(celo(salivo,'saliv.0o','唾沫[tuò mo]')).
+assert(celo(salivo,'saliv.0o','津[jīn]')).
+assert(celo(salivo,'saliv.0o','涎[xián]')).
+assert(celo(salivo,'saliv.0o','唾液[tuò yè]')).
+assert(celo(salivo,'saliv.0o','吐沫[tù mo]')).
+assert(celo(salivo,'saliv.0o','涎水[xián shuǐ]')).
+assert(celo(salivo,'saliv.0o','口沫[kǒu mò]')).
+assert(celo(salivo,'saliv.0o','痰液[tán yè]')).
+assert(celo(salivumi,'saliv.0umi','流口水[liú kǒu shuǐ]')).
+assert(celo(salmo,'salm.0o','鮭魚[guī yú],鲑鱼[guī yú]')).
+assert(celo(salmo,'salm.0o','三文魚[sān wén yú],三文鱼[sān wén yú]')).
+assert(celo(salmedoj,'salmed.0oj','鮭魚[guī yú],鮭鱼[guī yú]')).
+assert(celo(salmonelo,'salmonel.0o','沙門氏菌[shā mén shì jūn],沙门氏菌[shā mén shì jūn]')).
+assert(celo(salmonelo,'salmonel.0o','沙門菌[Shā mén jūn],沙门菌[Shā mén jūn]')).
+assert(celo(salmonelo,'salmonel.0o','沙門氏菌屬[shā mén shì jūn shǔ],沙门氏菌属[shā mén shì jūn shǔ]')).
+assert(celo('Salomono','salomon.0o','所罗门[Suǒ luó mén],所羅門[Suǒ luó mén]')).
+assert(celo('Salomono','salomon.0o','撒罗满[Sā luó mǎn],撒羅滿[Sā luó mǎn]')).
+assert(celo('Salomonoj','salomon1.S0oj.GEOG','索国[Suǒ Guó],索國[Suǒ Guó]')).
+assert(celo('Salomonoj','salomon1.S0oj.GEOG','索罗门[Suǒ luó mén],索羅門[Suǒ luó mén]')).
+assert(celo(salonego,'salon.0ego','堂[táng]')).
+assert(celo(salonego,'salon.0ego','大厅[dà tīng],大廳[dà tīng]')).
+assert(celo(salonego,'salon.0ego','殿堂[diàn táng]')).
+assert(celo(saloneto,'salon.0eto','閨[guī],闺[guī]')).
+assert(celo(salono,'salon.0o','起居室[qǐ jū shì]')).
+assert(celo(salono,'salon.0o','起居間[qǐ jū jiān],起居间[qǐ jū jiān]')).
+assert(celo(salono,'salon.0o','美术展览会场[měi shù zhǎn lǎn huì chǎng],美術展覽會場[měi shù zhǎn lǎn huì chǎng]')).
+assert(celo(legosalono,'salon.lego0o','閱覽室[yuè lǎn shì],阅览室[yuè lǎn shì]')).
+assert(celo(manĝosalono,'salon.mangxo0o','餐厅[cān tīng],餐廳[cān tīng]')).
+assert(celo(salpetro,'salpet.0o','硝石[xiāo shí]')).
+assert(celo(salpetro,'salpet.0o','硝[xiāo]')).
+assert(celo(salpetro,'salpet.0o','硝氮[xiāo dàn]')).
+assert(celo(salti,'salt.0i','跃[yuè],躍[yuè]')).
+assert(celo(salti,'salt.0i','弹跳[tán tiào],彈跳[tán tiào]')).
+assert(celo(salti,'salt.0i','跳[tiào]')).
+assert(celo(salti,'salt.0i','跳跃[tiào yuè],跳躍[tiào yuè]')).
+assert(celo(salti,'salt.0i','蹦[bèng]')).
+assert(celo(salti,'salt.0i','趵[bào]')).
+assert(celo(salti,'salt.0i','踉[liáng]')).
+assert(celo(salti,'salt.0i','飛躍[fēi yuè],飞跃[fēi yuè]')).
+assert(celo(salti,'salt.0i','趯[yuè]')).
+assert(celo(salti,'salt.0i','蹿[cuān],躥[cuān]')).
+assert(celo(salti,'salt.0i','蹦跳[bèng tiào]')).
+assert(celo(salti,'salt.0i','赸[shàn]')).
+assert(celo(salto,'salt.0o','躩[jué]')).
+assert(celo(salto,'salt.0o','狘[yuè]')).
+assert(celo(desalti,'salt.de0i','踉[liáng]')).
+assert(celo(desalti,'salt.de0i','趯[yuè]')).
+assert(celo(desalti,'salt.de0i','趯[tì]')).
+assert(celo(eksalti,'salt.ek0i','皲[jūn],皸[jūn]')).
+assert(celo(dissalti,'','皲[jūn],皸[jūn]')).
+retract(celo(eksalti,'salt.ek0i','皲[jūn],皸[jūn]')).
+assert(celo(ensalti,'salt.en0i','跳进[tiào jìn],跳進[tiào jìn]')).
+assert(celo(resalti,'salt.re0i','反弹[fǎn tán],反彈[fǎn tán]')).
+assert(celo(resalti,'salt.re0i','弹跳[tán tiào],彈跳[tán tiào]')).
+assert(celo(transsalti,'salt.trans0i','隃[yú]')).
+assert(celo(transsalti,'salt.trans0i','趵[bào]')).
+assert(celo(transsalti,'salt.trans0i','跳过[tiào guò],跳過[tiào guò]')).
+assert(celo(transsalti,'salt.trans0i','跨越[kuà yuè]')).
+assert(celo(transsalti,'salt.trans0i','逾[yú]')).
+assert(celo(transsalti,'salt.trans0i','迣[zhì]')).
+assert(celo(saluti,'salut.0i.FIG','致敬[zhì jìng]')).
+assert(celo(saluti,'salut.0i.FIG','施礼[shī lǐ],施禮[shī lǐ]')).
+assert(celo(saluti,'salut.0i.FIG','行礼[xíng lǐ],行禮[xíng lǐ]')).
+assert(celo(saluti,'salut.0i.FIG','揖[yī]')).
+assert(celo(saluti,'salut.0i.FIG','欢迎[huān yíng],歡迎[huān yíng]')).
+assert(celo(saluti,'salut.0i.FIG','打招呼[dǎ zhāo hu]')).
+assert(celo(saluti,'salut.0i.FIG','招呼[zhāo hu]')).
