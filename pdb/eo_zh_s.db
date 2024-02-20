@@ -263,3 +263,358 @@ assert(celo(saluti,'salut.0i.FIG','揖[yī]')).
 assert(celo(saluti,'salut.0i.FIG','欢迎[huān yíng],歡迎[huān yíng]')).
 assert(celo(saluti,'salut.0i.FIG','打招呼[dǎ zhāo hu]')).
 assert(celo(saluti,'salut.0i.FIG','招呼[zhāo hu]')).
+assert(celo(salutnomo,'salut.0nomo.KOMP','用戶名[yòng hù míng],用户名[yòng hù míng]')).
+assert(celo(saluto,'salut.0o','餧[wèi]')).
+assert(celo(saluto,'salut.0o','問好[wèn hǎo],问好[wèn hǎo]')).
+assert(celo(elsaluti,'salut.el0i','結束進程[jié shù jìn chéng],结束进程[jié shù jìn chéng]')).
+assert(celo(elsaluti,'salut.el0i','給出離開的信息[gěi chū lí kāi de xìn xī],给出离开的信息[gěi chū lí kāi de xìn xī]')).
+assert(celo(elsaluti,'salut.el0i','退出登录[tuì chū dēng lù],退出登錄[tuì chū dēng lù]')).
+assert(celo(ensaluti,'salut.en0i','登录[dēng lù],登錄[dēng lù]')).
+assert(celo(ensaluti,'salut.en0i','签入[qiān rù],簽入[qiān rù]')).
+assert(celo(salvo,'salv.0o','排枪[pái qiāng],排槍[pái qiāng]')).
+assert(celo(salvo,'salv.0o','排射[pái shè]')).
+assert(celo(salvo,'salv.0o','礼炮[lǐ pào],禮炮[lǐ pào]')).
+assert(celo('Salvadoro','salvador.S0o.GEOG','萨尔瓦多[Sà ěr wǎ duō],薩爾瓦多[Sà ěr wǎ duō]')).
+assert(celo(salvio,'salvi.0o','鼠尾草[shǔ wěi cǎo]')).
+assert(celo(same,'sam.0e','一样[yī yàng],一樣[yī yàng]')).
+assert(celo(samo,'sam.0o','一回事[yī huí shì]')).
+assert(celo(malsameco,'sam.mal0eco','差异[chā yì],差異[chā yì]')).
+assert(celo(malsameco,'sam.mal0eco','差[chā]')).
+assert(celo(malsameco,'sam.mal0eco','差別[chā bié],差别[chā bié]')).
+assert(celo(malsameco,'sam.mal0eco','相异[xiāng yì],相異[xiāng yì]')).
+assert(celo(samario,'samari.0o','釤[shān],钐[shān]')).
+assert(celo('Samario','','撒馬利亞[Sā mǎ lì yà],撒马利亚[Sā mǎ lì yà]')).
+assert(celo('Samarkando','samarkand.0o.urbo','撒馬爾罕[Sā mǎ ěr hǎn],撒马尔罕[Sā mǎ ěr hǎn]')).
+assert(celo(sambo,'samb.0o','森巴舞[sēn bā wǔ]')).
+assert(celo(sambo,'samb.0o','桑巴舞[sāng bā wǔ]')).
+assert(celo(sambuko,'sambuk.0o','接骨木[jiē gǔ mù]')).
+assert(celo('Samgo','samg.0o','僧伽[sēng gā]')).
+assert(celo(samizdato,'samizdat.0o','地下文学[dì xià wén xué],地下文學[dì xià wén xué]')).
+assert(celo(samnito,'samnit.0o','萨姆奈特人[sà mǔ nài tè rén],薩姆奈特人[sà mǔ nài tè rén]')).
+assert(celo('Samoo','samo.S0o','萨摩亚[Sà mó yà],薩摩亞[Sà mó yà]')).
+assert(celo(samplo,'sampl.0o.SCI','样品[yàng pǐn],樣品[yàng pǐn]')).
+assert(celo(samplo,'sampl.0o.SCI','抽样[chōu yàng],抽樣[chōu yàng]')).
+assert(celo(samplo,'sampl.0o.SCI','抽检[chōu jiǎn],抽檢[chōu jiǎn]')).
+assert(celo(samurajo,'samuraj.0o','武士[wǔ shì]')).
+assert(celo(samurajo,'samuraj.0o','日本武士[rì běn wǔ shì]')).
+assert(celo(sana,'san.0a','健康[jiàn kāng]')).
+assert(celo(sana,'san.0a','硬朗[yìng lǎng]')).
+assert(celo(sana,'san.0a','康健[kāng jiàn]')).
+assert(celo(sana,'san.0a','健[jiàn]')).
+assert(celo(sana,'san.0a','健壮[jiàn zhuàng],健壯[jiàn zhuàng]')).
+assert(celo(sana,'san.0a','痊愈[quán yù]')).
+assert(celo(sana,'san.0a','不危险[bù wēi xiǎn],不危險[bù wēi xiǎn]')).
+assert(celo(saniga,'san.0iga','有益于健康[yǒu yì yú jiàn kāng],有益於健康[yǒu yì yú jiàn kāng]')).
+assert(celo(saniga,'san.0iga','有治疗作用[yǒu zhì liáo zuò yòng],有治療作用[yǒu zhì liáo zuò yòng]')).
+assert(celo(saniga,'san.0iga','有药效[yǒu yào xiào],有藥效[yǒu yào xiào]')).
+assert(celo(sanigi,'san.0igi','治愈[zhì yù],治癒[zhì yù]')).
+assert(celo(sanigi,'san.0igi','疗伤[liáo shāng],療傷[liáo shāng]')).
+assert(celo(sanigi,'san.0igi','疗愈[liáo yù],療癒[liáo yù]')).
+assert(celo(sanilo,'san.0ilo','药[yào],藥[yào]')).
+assert(celo(sanilo,'san.0ilo','药剂[yào jì],藥劑[yào jì]')).
+assert(celo(sanilo,'san.0ilo','药品[yào pǐn],藥品[yào pǐn]')).
+assert(celo('Monda Organizaĵo pri Sano','san.MOS0o','世界卫生组织[Shì jiè Wèi shēng Zǔ zhī],世界衛生組織[Shì jiè Wèi shēng Zǔ zhī]')).
+assert(celo('Monda Organizaĵo pri Sano','san.MOS0o','世卫[Shì wèi],世衛[Shì wèi]')).
+assert(celo(flavmalsano,'san.flavmal0o','疸[dǎn]')).
+assert(celo(flavmalsano,'san.flavmal0o','肝炎[gān yán]')).
+assert(celo(flavmalsano,'san.flavmal0o','黃疸[huáng dǎn],黄疸[huáng dǎn]')).
+assert(celo(flavmalsano,'san.flavmal0o','癀[huáng]')).
+assert(celo(flavmalsano,'san.flavmal0o','黃疸病[huáng dǎn bìng],黄疸病[huáng dǎn bìng]')).
+assert(celo(flavmalsano,'san.flavmal0o','甲型肝炎[jiǎ xíng gān yán]')).
+assert(celo(flavmalsano,'san.flavmal0o','甲肝[jiǎ gān]')).
+assert(celo(malsanema,'san.mal0ema','体弱多病[tǐ ruò duō bìng],體弱多病[tǐ ruò duō bìng]')).
+assert(celo(malsanema,'san.mal0ema','病弱[bìng ruò]')).
+assert(celo(malsanema,'san.mal0ema','病病殃殃[bìng bing yāng yāng]')).
+assert(celo(malsaniga,'san.mal0iga','致病性[zhì bìng xìng]')).
+assert(celo(malsaniga,'san.mal0iga','致病[zhì bìng]')).
+assert(celo(malsaniĝi,'san.mal0igxi','生病[shēng bìng]')).
+assert(celo(malsaniĝi,'san.mal0igxi','罹患[lí huàn]')).
+assert(celo(malsaniĝi,'san.mal0igxi','受病[shòu bìng]')).
+assert(celo(malsaniĝi,'san.mal0igxi','得病[dé bìng]')).
+assert(celo(malsano,'san.mal0o','病症[bìng zhèng]')).
+assert(celo(malsano,'san.mal0o','症[zhèng]')).
+assert(celo(malsano,'san.mal0o','病[bìng]')).
+assert(celo(malsano,'san.mal0o','痪[huàn],瘓[huàn]')).
+assert(celo(malsano,'san.mal0o','恙[yàng]')).
+assert(celo(malsano,'san.mal0o','疢[chèn]')).
+assert(celo(malsano,'san.mal0o','瘥[cuó]')).
+assert(celo(malsano,'san.mal0o','疾病[jí bìng]')).
+assert(celo(malsanulejo,'san.mal0ulejo','医院[yī yuàn],醫院[yī yuàn]')).
+assert(celo(marmalsano,'san.marmal0o','晕船[yūn chuán],暈船[yūn chuán]')).
+assert(celo(marmalsano,'san.marmal0o','晕动病[yūn dòng bìng],暈動病[yūn dòng bìng]')).
+assert(celo(mensmalsano,'san.mensmal0o','精神病[jīng shén bìng]')).
+assert(celo(mensmalsano,'san.mensmal0o','精神狂乱[jīng shén kuáng luàn],精神狂亂[jīng shén kuáng luàn]')).
+assert(celo(mensmalsano,'san.mensmal0o','精神疾病[jīng shén jí bìng]')).
+assert(celo(mensmalsano,'san.mensmal0o','神經病[shén jīng bìng],神经病[shén jīng bìng]')).
+assert(celo(mensmalsano,'san.mensmal0o','心理疾病[xīn lǐ jí bìng]')).
+assert(celo(resanigi,'san.re0igi','治愈[zhì yù],治癒[zhì yù]')).
+assert(celo(resanigi,'san.re0igi','疗伤[liáo shāng],療傷[liáo shāng]')).
+assert(celo(resanigi,'san.re0igi.organizon','重修[chóng xiū]')).
+assert(celo(resanigilo,'san.re0igilo','药[yào],藥[yào]')).
+assert(celo(resanigilo,'san.re0igilo','药品[yào pǐn],藥品[yào pǐn]')).
+assert(celo(resanigilo,'san.re0igilo','药物[yào wù],藥物[yào wù]')).
+assert(celo(resaniĝi,'san.re0igxi','愈合[yù hé]')).
+assert(celo(resaniĝi,'san.re0igxi','好起來[hǎo qǐ lai],好起来[hǎo qǐ lai]')).
+assert(celo(resaniĝi,'san.re0igxi','痊愈[quán yù],痊癒[quán yù]')).
+assert(celo(resaniĝi,'san.re0igxi','疗养[liáo yǎng],療養[liáo yǎng]')).
+assert(celo('Sanao','sana.0o','沙那[Shā nà]')).
+assert(celo(sanatorio,'sanato.0o','疗养院[liáo yǎng yuàn],療養院[liáo yǎng yuàn]')).
+assert(celo(sandalo,'sandal.0o','凉鞋[liáng xié],涼鞋[liáng xié]')).
+assert(celo(sandalo,'sandal.0o','屦[jù],屨[jù]')).
+assert(celo(sandalo,'sandal.0o','屝[fèi]')).
+assert(celo(sandro,'sandr.0o','梭鱸[suō lú],梭鲈[suō lú]')).
+assert(celo(sandviĉo,'sandvicx.0o','三明治[sān míng zhì]')).
+assert(celo(sandviĉo,'sandvicx.0o','三文治[sān wén zhì]')).
+assert(celo(sangadi,'sang.0adi','流血[liú xuè]')).
+assert(celo(sangadi,'sang.0adi.FIZL','流血[liú xiě]')).
+assert(celo(sangadi,'sang.0adi.FIZL','出血[chū xiě]')).
+assert(celo(sangadi,'sang.0adi.FIZL','油墨化水[yóu mò huà shuǐ]')).
+assert(celo(sangadi,'sang.0adi.FIZL','破血流[pò xiě liú]')).
+assert(celo(sangellaso,'sang.0ellaso','放血法[fàng xiě fǎ]')).
+assert(celo(sango,'sang.0o','衁[huāng]')).
+assert(celo(sango,'sang.0o','血[xuè]')).
+assert(celo(sango,'sang.0o','血液[xuè yè]')).
+assert(celo(sango,'sang.0o','鮮血[xiān xuè],鲜血[xiān xuè]')).
+assert(celo(sangoĉelo,'sang.0ocxelo','血細胞[xuè xì bāo],血细胞[xuè xì bāo]')).
+assert(celo(sangumo,'sang.0umo','血肿[xuè zhǒng],血腫[xuè zhǒng]')).
+assert(celo(sangumo,'sang.0umo','痍[yí]')).
+assert(celo(sangumo,'sang.0umo','瘀斑[yū bān]')).
+assert(celo(sangumo,'sang.0umo','摔伤[shuāi shāng],摔傷[shuāi shāng]')).
+assert(celo(malvarmsanga,'sang.malvarm0a','冷血[lěng xuè]')).
+assert(celo(malvarmsanga,'sang.malvarm0a','杀人不眨眼[shā rén bù zhǎ yǎn],殺人不眨眼[shā rén bù zhǎ yǎn]')).
+assert(celo(malvarmsanga,'sang.malvarm0a','冷淡[lěng dàn]')).
+assert(celo(samsangeco,'sang.sam0eco','血緣關係[xuè yuán guān xì],血缘关系[xuè yuán guān xì]')).
+assert(celo(samsangeco,'sang.sam0eco','亲缘[qīn yuán],親緣[qīn yuán]')).
+assert(celo(samsangeco,'sang.sam0eco','血緣[xuè yuán],血缘[xuè yuán]')).
+assert(celo(varmsanga,'sang.varm0a.ZOO','温血[wēn xuè],溫血[wēn xuè]')).
+assert(celo(varmegsanga,'sang.varmeg0a','火热[huǒ rè],火熱[huǒ rè]')).
+assert(celo(sangvina,'sangvi.0a','爽朗的[shuǎng lǎng de]')).
+assert(celo(sangvina,'sangvi.0a','善感[shàn gǎn]')).
+assert(celo(sangvinulo,'sangvi.0ulo','爽朗的人[shuǎng lǎng de rén]')).
+assert(celo(sanitaristo,'sanita.0isto.sukuristo','救急救命士[jiù jí jiù mìng shì]')).
+assert(celo(sanitaristo,'sanita.0isto.sukuristo','救援人员[jiù yuán rén yuán],救援人員[jiù yuán rén yuán]')).
+assert(celo(sanitaristo,'sanita.0isto.sukuristo','救护员[jiù hù yuán],救護員[jiù hù yuán]')).
+assert(celo(sanitaristo,'sanita.0isto.sukuristo','白衣战士[bái yī zhàn shì],白衣戰士[bái yī zhàn shì]')).
+assert(celo(sankcio,'sankci.0o.puno','制裁[zhì cái]')).
+assert(celo(sankta,'sankt.0a','神圣[shén shèng],神聖[shén shèng]')).
+assert(celo(sankta,'sankt.0a','圣洁[shèng jié],聖潔[shèng jié]')).
+assert(celo(sankta,'sankt.0a','圣[shèng],聖[shèng]')).
+assert(celo(sankta,'sankt.0a','使神圣化[shǐ shén shèng huà],使神聖化[shǐ shén shèng huà]')).
+assert(celo(sankta,'sankt.0a','供神[gōng shén]')).
+assert(celo(sankta,'sankt.0a','神圣化[shén shèng huà],神聖化[shén shèng huà]')).
+assert(celo(sankta,'sankt.0a','圣徒[shèng tú],聖徒[shèng tú]')).
+assert(celo(sankta,'sankt.0a','庄严[zhuāng yán],莊嚴[zhuāng yán]')).
+assert(celo(sankta,'sankt.0a','視為神聖[shì wéi shén shèng],视为神圣[shì wéi shén shèng]')).
+assert(celo(sankta,'sankt.0a','圣者[shèng zhě],聖者[shèng zhě]')).
+assert(celo(sankta,'sankt.0a','神圣不可侵犯[shén shèng bù kě qīn fàn],神聖不可侵犯[shén shèng bù kě qīn fàn]')).
+assert(celo('Sankta Semajno','sankt.0a_semajno','神圣周[shén shèng zhōu],神聖週[shén shèng zhōu]')).
+assert(celo(sanktejo,'sankt.0ejo','兜婆[dōu pó]')).
+assert(celo(sanktejo,'sankt.0ejo','薮偷婆[sǒu tōu pó],藪偷婆[sǒu tōu pó]')).
+assert(celo(sanktejo,'sankt.0ejo','薮斗婆[sǒu dǒu pó],藪斗婆[sǒu dǒu pó]')).
+assert(celo(sanktejo,'sankt.0ejo','神祠[shén cí]')).
+assert(celo(sanktigi,'sankt.0igi','使神圣化[shǐ shén shèng huà],使神聖化[shǐ shén shèng huà]')).
+assert(celo(sanktigi,'sankt.0igi','供神[gōng shén]')).
+assert(celo(sanktigi,'sankt.0igi','神圣[shén shèng],神聖[shén shèng]')).
+assert(celo(sanktigi,'sankt.0igi','神圣化[shén shèng huà],神聖化[shén shèng huà]')).
+assert(celo(sanktigi,'sankt.0igi','圣徒[shèng tú],聖徒[shèng tú]')).
+assert(celo(sanktigi,'sankt.0igi','圣洁[shèng jié],聖潔[shèng jié]')).
+assert(celo(sanktigi,'sankt.0igi','庄严[zhuāng yán],莊嚴[zhuāng yán]')).
+assert(celo(sanktigi,'sankt.0igi','視為神聖[shì wéi shén shèng],视为神圣[shì wéi shén shèng]')).
+assert(celo(sanktigi,'sankt.0igi','圣化[shèng huà],聖化[shèng huà]')).
+assert(celo(sanktigi,'sankt.0igi','自洁[zì jié],自潔[zì jié]')).
+assert(celo(sanktuligi,'sankt.0uligi','上天堂[shàng tiān táng]')).
+assert(celo(sanktuligi,'sankt.0uligi','德高[dé gāo]')).
+assert(celo(sanktulo,'sankt.0ulo','圣人[shèng rén],聖人[shèng rén]')).
+assert(celo(sanktulo,'sankt.0ulo','圣贤[shèng xián],聖賢[shèng xián]')).
+assert(celo(malsankta,'sankt.mal0a','外邦人[wài bāng rén]')).
+assert(celo(malsankta,'sankt.mal0a','異教的[yì jiào de]')).
+assert(celo(malsankta,'sankt.mal0a','离经叛道[lí jīng pàn dào],離經叛道[lí jīng pàn dào]')).
+assert(celo(malsankta,'sankt.mal0a','不信教[bù xìn jiào]')).
+assert(celo(malsankta,'sankt.mal0a','异教[yì jiào],異教[yì jiào]')).
+assert(celo(malsankta,'sankt.mal0a','非基督教[fēi jī dū jiào]')).
+assert(celo(malsankta,'sankt.mal0a','不洁净[bù jié jìng],不潔淨[bù jié jìng]')).
+assert(celo(malsankta,'sankt.mal0a','不神圣[bù shén shèng],不神聖[bù shén shèng]')).
+assert(celo(malsankta,'sankt.mal0a','不圣洁[bù shèng jié],不聖潔[bù shèng jié]')).
+assert(celo(malsankta,'sankt.mal0a','不虔誠[bù qián chéng],不虔诚[bù qián chéng]')).
+assert(celo('Sanmarino','sanmarin.0o.GEOG','圣马力诺[Shèng mǎ lì nuò],聖馬力諾[Shèng mǎ lì nuò]')).
+assert(celo('Sanmarino','sanmarin.0o.GEOG','圣马利诺[Shèng mǎ lì nuò],聖馬利諾[Shèng mǎ lì nuò]')).
+assert(celo('San-Paŭlo','sanpauxl.0o','圣保罗[Shèng bǎo luó],聖保羅[Shèng bǎo luó]')).
+assert(celo('Sansalvadoro','sansalvador.0o.urbo','圣萨尔瓦多[Shèng sà ěr wǎ duō],聖薩爾瓦多[Shèng sà ěr wǎ duō]')).
+assert(celo(sansaro,'sansar.0o','輪迴[lún huí],轮回[lún huí]')).
+assert(celo(sansaro,'sansar.0o','輪回[lún huí],轮回[lún huí]')).
+assert(celo(sansaro,'sansar.0o','輪迴[lún huí],轮迴[lún huí]')).
+assert(celo('Sanskrito','sanskr.0o','梵文[Fàn wén]')).
+assert(celo('Sanskrito','sanskr.0o','梵語[Fàn yǔ],梵语[Fàn yǔ]')).
+assert(celo('Santiago de Ĉilio','santiag.0o_de_Cxilio','圣地亚哥[shèng dì yà gē],聖地亞哥[shèng dì yà gē]')).
+assert(celo('Santiago de Kalio','santiag.0o_de_Kalio','卡利[kǎ lì]')).
+assert(celo('Santomeo kaj Principeo','santome.S0oPrincipeo','圣多美和普林西比[Shèng duō měi hé Pǔ lín xī bǐ],聖多美和普林西比[Shèng duō měi hé Pǔ lín xī bǐ]')).
+assert(celo('Santomeo','','圣多美[Shèng duō měi],聖多美[Shèng duō měi]')).
+assert(celo(sapo,'sap.0o','皂[zào]')).
+assert(celo(sapo,'sap.0o','肥皂[féi zào]')).
+assert(celo(sapo,'sap.0o','洋碱[yáng jiǎn],洋鹼[yáng jiǎn]')).
+assert(celo(sapo,'sap.0o','胰子[yí zi]')).
+assert(celo(sapo,'sap.0o','砂金[shā jīn]')).
+assert(celo(harsapo,'sap.har0o','洗发水[xǐ fà shuǐ],洗髮水[xǐ fà shuǐ]')).
+assert(celo(harsapo,'sap.har0o','洗发乳[xǐ fà rǔ],洗髮乳[xǐ fà rǔ]')).
+assert(celo(harsapo,'sap.har0o','洗发剂[xǐ fà jì],洗髮劑[xǐ fà jì]')).
+assert(celo(harsapo,'sap.har0o','洗发水儿[xǐ fà shuǐ r],洗髮水兒[xǐ fà shuǐ r]')).
+assert(celo(harsapo,'sap.har0o','洗发皂[xǐ fà zào],洗髮皂[xǐ fà zào]')).
+assert(celo(harsapo,'sap.har0o','洗发精[xǐ fà jīng],洗髮精[xǐ fà jīng]')).
+assert(celo(harsapo,'sap.har0o','洗发露[xǐ fà lù],洗髮露[xǐ fà lù]')).
+assert(celo(harsapo,'sap.har0o','洗发水[xǐ fā shuǐ],洗發水[xǐ fā shuǐ]')).
+assert(celo(harsapo,'sap.har0o','洗发剂[xǐ fā jì],洗髮劑[xǐ fā jì]')).
+assert(celo(harsapo,'sap.har0o','洗发液[xǐ fā yè],洗髮液[xǐ fā yè]')).
+assert(celo(harsapo,'sap.har0o','洗发乳[xǐ fā rǔ],洗髮乳[xǐ fā rǔ]')).
+assert(celo(tualetsapo,'sap.tualet0o','香皂[xiāng zào]')).
+assert(celo(sapeko,'sapek.0o','銅錢[tóng qián],铜钱[tóng qián]')).
+assert(celo(sapindo,'sapind.0o','槵[huàn]')).
+assert(celo(sapindacoj,'sapindac.0oj','无患子科[wú huàn zǐ kē],無患子科[wú huàn zǐ kē]')).
+assert(celo(sapoto,'sapot.0o','人心果[rén xīn guǒ]')).
+assert(celo('Sarlando','sar.0lando','萨尔[sà ěr],薩爾[sà ěr]')).
+assert(celo('Sarlando','sar.0lando','萨尔州[sà ěr zhōu],薩爾州[sà ěr zhōu]')).
+assert(celo('Saro','','萨尔河[sà ěr hé],薩爾河[sà ěr hé]')).
+assert(celo(saraceno,'saracen.0o','撒拉森人[sǎ lā sēn rén]')).
+assert(celo('Sarajevo','sarajev.0o','萨拉热窝[Sà lā rè wō],薩拉熱窩[Sà lā rè wō]')).
+assert(celo('Sarajevo','sarajev.0o','塞拉耶佛[Sè lā yē fó]')).
+assert(celo('Sarajevo','sarajev.0o','塞拉耶佛[sài lā yē fú],塞拉耶彿[sài lā yē fú]')).
+assert(celo('Sardujo','sard.S0ujo','撒丁岛[sā dīng dǎo],撒丁島[sā dīng dǎo]')).
+assert(celo('Sardujo','sard.S0ujo','萨丁岛[sà dīng dǎo],薩丁島[sà dīng dǎo]')).
+assert(celo(sardelo,'sardel.0o','鯷[tí],鳀[tí]')).
+assert(celo(sardino,'sardin.0o','鰮[wēn],鳁[wēn]')).
+assert(celo(sardino,'sardin.0o','沙丁魚[shā dīng yú],沙丁鱼[shā dīng yú]')).
+assert(celo(sardelo,'','鯷魚[tí yú],鳀鱼[tí yú]')).
+assert(celo(sardelo,'','凤尾鱼[fèng wěi yú],鳳尾魚[fèng wěi yú]')).
+assert(celo('Sardinio','sardini.0o','撒丁岛[Sā dīng Dǎo],撒丁島[Sā dīng Dǎo]')).
+assert(celo('Sardinio','sardini.0o','萨丁尼亚岛[Sà dīng ní yà Dǎo],薩丁尼亞島[Sà dīng ní yà Dǎo]')).
+assert(celo(sargaso,'sargas.0o','馬尾藻[mǎ wěi zǎo],马尾藻[mǎ wěi zǎo]')).
+assert(celo(sario,'sari.0o','沙丽[shā lì],沙麗[shā lì]')).
+assert(celo(sario,'sari.0o','紗麗[shā lì],纱丽[shā lì]')).
+assert(celo(sario,'sari.0o','莎丽[shā lì],莎麗[shā lì]')).
+assert(celo(sarino,'','沙林[shā lín]')).
+assert(celo(sariro,'sarir.0o','舍利[shè lì]')).
+assert(celo(sarki,'sark.0i','穮[biāo]')).
+assert(celo(sarki,'sark.0i','耘[yún]')).
+assert(celo(sarki,'sark.0i','薅[hāo]')).
+assert(celo(sarki,'sark.0i','麃[biāo]')).
+assert(celo(sarki,'sark.0i','鋤[chú],锄[chú]')).
+assert(celo(sarkindaĵo,'sark.0indajxo','野草[yě cǎo]')).
+assert(celo(sarkindaĵo,'sark.0indajxo','杂草[zá cǎo],雜草[zá cǎo]')).
+assert(celo(sarkindaĵo,'','茻[mǎng]')).
+assert(celo(brulsarki,'sark.brul0i','刀耕火种[dāo gēng huǒ zhòng],刀耕火種[dāo gēng huǒ zhòng]')).
+assert(celo(elsarki,'sark.el0i','剪除[jiǎn chú]')).
+assert(celo(elsarki,'sark.el0i','根絕[gēn jué],根绝[gēn jué]')).
+assert(celo(elsarki,'sark.el0i','根除[gēn chú]')).
+assert(celo(elsarki,'sark.el0i','栉[zhì],櫛[zhì]')).
+assert(celo(sarkasma,'sarkas.0a','带刺[dài cì],帶刺[dài cì]')).
+assert(celo(sarkasma,'sarkas.0a','尖刻[jiān kè]')).
+assert(celo(sarkasma,'sarkas.0a','挖苦[wā ku]')).
+assert(celo(sarkasmi,'sarkas.0i','諷刺[fěng cì],讽刺[fěng cì]')).
+assert(celo(sarkasmi,'sarkas.0i','挖苦[wā kǔ]')).
+assert(celo(sarkasmi,'','冷言冷語[lěng yán lěng yǔ],冷言冷语[lěng yán lěng yǔ]')).
+assert(celo(sarkasmi,'','挖苦[wā ku]')).
+assert(celo(sarkasmi,'','說風涼話[shuō fēng liáng huà],说风凉话[shuō fēng liáng huà]')).
+assert(celo(sarkasmo,'sarkas.0o','尖酸刻薄[jiān suān kè bó]')).
+assert(celo(sarkasmo,'sarkas.0o','冷話[lěng huà],冷话[lěng huà]')).
+assert(celo(sarkasmo,'sarkas.0o','冷語[lěng yǔ],冷语[lěng yǔ]')).
+assert(celo(sarkasmo,'sarkas.0o','戳心灌髓[chuō xīn guàn suǐ]')).
+assert(celo(sarkasmo,'sarkas.0o','尖刻[jiān kè]')).
+assert(celo(sarkasmo,'sarkas.0o','冷嘲热讽[lěng cháo rè fěng],冷嘲熱諷[lěng cháo rè fěng]')).
+assert(celo(sarkofago,'sarkof.0o','石棺[shí guān]')).
+assert(celo(sarongo,'sarong.0o','紗籠[shā lóng],纱笼[shā lóng]')).
+assert(celo(sarso,'sars.0o','萨斯[sà sī],薩斯[sà sī]')).
+assert(celo(sarso,'sars.0o','非典[fēi diǎn]')).
+assert(celo(sarso,'sars.0o','非典型肺炎[fēi diǎn xíng fèi yán]')).
+assert(celo('Saskaĉevano','saskacxevan.S0o','沙士吉万[shā shì jí wàn],沙士吉萬[shā shì jí wàn]')).
+assert(celo('Saskaĉevano','saskacxevan.S0o','萨斯喀彻温[Sà sī kā chè wēn],薩斯喀徹溫[Sà sī kā chè wēn]')).
+assert(celo(saskvaĉo,'saskvacx.0o','大脚[dà jiǎo],大腳[dà jiǎo]')).
+assert(celo(saskvaĉo,'saskvacx.0o','大脚怪物[dà jiǎo guài wù],大腳怪物[dà jiǎo guài wù]')).
+assert(celo(saskvaĉo,'saskvacx.0o','大脚怪[dà jiǎo guài],大腳怪[dà jiǎo guài]')).
+assert(celo(saŝimo,'sasxim.0o','刺身[cì shēn]')).
+assert(celo(saŝimo,'sasxim.0o','撒西米[sā xī mǐ]')).
+assert(celo(saŝimo,'sasxim.0o','生魚片[shēng yú piàn],生鱼片[shēng yú piàn]')).
+assert(celo(sata,'sat.0a','飽[bǎo],饱[bǎo]')).
+assert(celo(sata,'sat.0a','满足[mǎn zú],滿足[mǎn zú]')).
+assert(celo(satigi,'sat.0igi','满意[mǎn yì],滿意[mǎn yì]')).
+assert(celo(satigi,'sat.0igi','满足[mǎn zú],滿足[mǎn zú]')).
+assert(celo(satiĝi,'sat.0igxi','吃飽[chī bǎo],吃饱[chī bǎo]')).
+assert(celo(ĝissate,'sat.gxis0e','尽情[jìn qíng],盡情[jìn qíng]')).
+assert(celo(malsata,'sat.mal0a','飢餓[jī è],饥饿[jī è]')).
+assert(celo(malsata,'sat.mal0a','飢[jī],饥[jī]')).
+assert(celo(malsata,'sat.mal0a','餒[něi],馁[něi]')).
+assert(celo(malsata,'sat.mal0a','渴望[kě wàng]')).
+assert(celo(malsata,'sat.mal0a','饑[jī],饥[jī]')).
+assert(celo(nesatigebla,'sat.ne0igebla','貪饞[tān chán],贪馋[tān chán]')).
+assert(celo(nesatigebla,'sat.ne0igebla','不知足[bù zhī zú]')).
+assert(celo(nesatigebla,'sat.ne0igebla','入迷[rù mí]')).
+assert(celo(nesatigebla,'sat.ne0igebla','貪吃[tān chī],贪吃[tān chī]')).
+assert(celo(nesatigebla,'sat.ne0igebla','貪心[tān xīn],贪心[tān xīn]')).
+assert(celo(supersateco,'sat.super0eco','过饱和[guò bǎo hé],過飽和[guò bǎo hé]')).
+assert(celo(satano,'satan.0o','魔鬼[mó guǐ]')).
+assert(celo(satano,'satan.0o','魔[mó]')).
+assert(celo(satano,'satan.0o','娑殚[suō dān],娑殫[suō dān]')).
+assert(celo(satano,'satan.0o','撒但[sā dàn]')).
+assert(celo(satano,'satan.0o','撒旦[sā dàn]')).
+assert(celo(satano,'satan.0o','撒殚[sā dān],撒殫[sā dān]')).
+assert(celo(satano,'','路西弗[lù xī fú]')).
+assert(celo(satano,'','路西法[lù xī fǎ]')).
+assert(celo('mediĉaj satelitoj','sateli.medicxaj_0oj','伽利略卫星[gā lì lüè wèi xīng],伽利略衛星[gā lì lüè wèi xīng]')).
+assert(celo(spionsatelito,'sateli.spion0o','間諜衛星[jiàn dié wèi xīng],间谍卫星[jiàn dié wèi xīng]')).
+assert(celo(sateno,'saten.0o.TIP','緞[duàn],缎[duàn]')).
+assert(celo(sateno,'saten.0o.TIP','緞布[duàn bù],缎布[duàn bù]')).
+assert(celo(satiro,'satir.0o','諷刺[fěng cì],讽刺[fěng cì]')).
+assert(celo(satiro,'satir.0o','小喜剧[xiǎo xǐ jù],小喜劇[xiǎo xǐ jù]')).
+assert(celo(satiro,'satir.0o.BELE','戏文[xì wén],戲文[xì wén]')).
+assert(celo(satiruso,'satiru.0o','具有馬耳與馬尾[jù yǒu mǎ ěr yǔ mǎ wěi],具有马耳与马尾[jù yǒu mǎ ěr yǔ mǎ wěi]')).
+assert(celo(satiruso,'satiru.0o','好色之徒[hào sè zhī tú]')).
+assert(celo(satiruso,'satiru.0o','性好酒色[xìng hǎo jiǔ sè]')).
+assert(celo(satiruso,'satiru.0o','色狼[sè láng]')).
+assert(celo(satiruso,'satiru.0o','萨堤尔[sà dī ěr],薩堤爾[sà dī ěr]')).
+assert(celo(saturi,'satur.0i','浃[jiā],浹[jiā]')).
+assert(celo(satureo,'sature.0o','可口飯菜[kě kǒu fàn cài],可口饭菜[kě kǒu fàn cài]')).
+assert(celo(satureo,'sature.0o','味香好吃[wèi xiāng hǎo chī]')).
+assert(celo(satureo,'sature.0o','开胃的菜肴[kāi wèi de cài yáo],開胃的菜肴[kāi wèi de cài yáo]')).
+assert(celo(satureo,'sature.0o','風味極佳的菜肴[fēng wèi jí jiā de cài yáo],风味极佳的菜肴[fēng wèi jí jiā de cài yáo]')).
+assert(celo('Saturno','saturn.0o','土星[Tǔ xīng]')).
+assert(celo(saŭco,'sauxc.0o','酱料[jiàng liào],醬料[jiàng liào]')).
+assert(celo(saŭco,'sauxc.0o','酱[jiàng],醬[jiàng]')).
+assert(celo(saŭco,'sauxc.0o','沙司[shā sī]')).
+assert(celo('Saŭlo','sauxl.0o','扫罗王[sǎo luó wáng],掃羅王[sǎo luó wáng]')).
+assert(celo('Saŭlo','sauxl.0o','扫罗[Sǎo luó],掃羅[Sǎo luó]')).
+assert(celo(saŭnejo,'sauxn.0ejo','桑拿[sāng ná]')).
+assert(celo(saŭno,'sauxn.0o','桑拿[sāng ná]')).
+assert(celo(saŭno,'sauxn.0o','三温暖[sān wēn nuǎn],三溫暖[sān wēn nuǎn]')).
+assert(celo(saŭro,'sauxr.0o','蜥[xī]')).
+assert(celo(flugsaŭroj,'sauxr.flug0oj','翼龍[yì lóng],翼龙[yì lóng]')).
+assert(celo(saŭrkraŭto,'sauxrk.0o','德国酸菜[Dé guó suān cài],德國酸菜[Dé guó suān cài]')).
+assert(celo(saŭrkraŭto,'sauxrk.0o','德国酸菜[dé guó suān cài],德國酸菜[dé guó suān cài]')).
+assert(celo(saŭrkraŭto,'sauxrk.0o','酸泡菜[suān pào cài]')).
+assert(celo(savado,'sav.0ado','營救[yíng jiù],营救[yíng jiù]')).
+assert(celo(savi,'sav.0i','挽救[wǎn jiù]')).
+assert(celo(savi,'sav.0i','捄[jiù]')).
+assert(celo(savi,'sav.0i','營救[yíng jiù],营救[yíng jiù]')).
+assert(celo(savi,'sav.0i','抢救[qiǎng jiù],搶救[qiǎng jiù]')).
+assert(celo(savi,'sav.0i','解救[jiě jiù]')).
+assert(celo(savi,'sav.0i','救命[jiù mìng]')).
+assert(celo(savisto,'sav.0isto','救援力量[jiù yuán lì liang]')).
+assert(celo(savisto,'sav.0isto','救援队[jiù yuán duì],救援隊[jiù yuán duì]')).
+assert(celo(savisto,'sav.0isto','救星[jiù xīng]')).
+assert(celo(savisto,'sav.0isto','救生员[jiù shēng yuán],救生員[jiù shēng yuán]')).
+assert(celo(savisto,'sav.0isto','救援人员[jiù yuán rén yuán],救援人員[jiù yuán rén yuán]')).
+assert(celo(savisto,'sav.0isto','救护员[jiù hù yuán],救護員[jiù hù yuán]')).
+assert(celo(savisto,'sav.0isto','救災[jiù zāi],救灾[jiù zāi]')).
+assert(celo(savisto,'sav.0isto','援助者[yuán zhù zhě]')).
+assert(celo(savisto,'sav.0isto','救主[jiù zhǔ]')).
+assert(celo(savisto,'sav.0isto','救援者[jiù yuán zhě]')).
+assert(celo(savisto,'sav.0isto','救贖者[jiù shú zhě],救赎者[jiù shú zhě]')).
+assert(celo(savo,'sav.0o','救援队[jiù yuán duì],救援隊[jiù yuán duì]')).
+assert(celo(savo,'sav.0o','救援力量[jiù yuán lì liang]')).
+assert(celo(savo,'sav.0o','援救[yuán jiù]')).
+assert(celo(savo,'sav.0o','營救[yíng jiù],营救[yíng jiù]')).
+assert(celo(antaŭsavi,'sav.antaux0i','保[bǎo]')).
+assert(celo(antaŭsavi,'sav.antaux0i','保住[bǎo zhù]')).
+assert(celo(antaŭsavi,'sav.antaux0i','維護[wéi hù],维护[wéi hù]')).
+assert(celo(antaŭsavi,'sav.antaux0i','維護阿[wéi hù ā],维护阿[wéi hù ā]')).
+assert(celo(homsava,'sav.hom0a','人道主义[rén dào zhǔ yì],人道主義[rén dào zhǔ yì]')).
+assert(celo(savano,'savan.0o','热带大草原[rè dài dà cǎo yuán],熱帶大草原[rè dài dà cǎo yuán]')).
+assert(celo(savano,'savan.0o','热带稀树草原[rè dài xī shù cǎo yuán],熱帶稀樹草原[rè dài xī shù cǎo yuán]')).
+assert(celo('Savojo','savoj.0o.regiono','萨伏依[sà fú yī],薩伏依[sà fú yī]')).
