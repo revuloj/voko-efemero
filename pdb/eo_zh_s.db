@@ -618,3 +618,92 @@ assert(celo(homsava,'sav.hom0a','人道主义[rén dào zhǔ yì],人道主義[r
 assert(celo(savano,'savan.0o','热带大草原[rè dài dà cǎo yuán],熱帶大草原[rè dài dà cǎo yuán]')).
 assert(celo(savano,'savan.0o','热带稀树草原[rè dài xī shù cǎo yuán],熱帶稀樹草原[rè dài xī shù cǎo yuán]')).
 assert(celo('Savojo','savoj.0o.regiono','萨伏依[sà fú yī],薩伏依[sà fú yī]')).
+assert(celo(sbiro,'sbir.0o','打手[dǎ shou]')).
+assert(celo(scenaristo,'scen.0aristo','編劇[biān jù],编剧[biān jù]')).
+assert(celo(scenaristo,'scen.0aristo','編劇家[biān jù jiā],编剧家[biān jù jiā]')).
+assert(celo(scenaristo,'scen.0aristo','电影剧本作家[diàn yǐng jù běn zuò jiā],電影劇本作家[diàn yǐng jù běn zuò jiā]')).
+assert(celo(scenaro,'scen.0aro','剧本[jù běn],劇本[jù běn]')).
+assert(celo(scenaro,'scen.0aro','剧情[jù qíng],劇情[jù qíng]')).
+assert(celo(scenaro,'scen.0aro','电影剧本[diàn yǐng jù běn],電影劇本[diàn yǐng jù běn]')).
+assert(celo(scenaro,'scen.0aro','情節[qíng jié],情节[qíng jié]')).
+assert(celo(scenejo,'scen.0ejo','景致[jǐng zhì]')).
+assert(celo(scenejo,'scen.0ejo','情景[qíng jǐng]')).
+assert(celo(sceno,'scen.0o','光景[guāng jǐng]')).
+assert(celo(sceno,'scen.0o','场面[chǎng miàn],場面[chǎng miàn]')).
+assert(celo(sceno,'scen.0o','情景[qíng jǐng]')).
+assert(celo(sceno,'scen.0o','画面[huà miàn],畫面[huà miàn]')).
+assert(celo(sceno,'scen.0o','场景[chǎng jǐng],場景[chǎng jǐng]')).
+assert(celo(enscenigi,'scen.en0igi','上演[shàng yǎn]')).
+assert(celo(enscenigisto,'scen.en0igisto','导演[dǎo yǎn],導演[dǎo yǎn]')).
+assert(celo(enscenigo,'scen.en0igo','上台[shàng tái]')).
+assert(celo(enscenigo,'scen.en0igo','上台表演[shàng tái biǎo yǎn]')).
+assert(celo(enscenigo,'scen.en0igo','上馬[shàng mǎ],上马[shàng mǎ]')).
+assert(celo(enscenigo,'scen.en0igo','公共馬車業[gōng gòng mǎ chē yè],公共马车业[gōng gòng mǎ chē yè]')).
+assert(celo(sceptro,'sceptr.0o','权杖[quán zhàng],權杖[quán zhàng]')).
+assert(celo(sceptro,'sceptr.0o','珽[tǐng]')).
+assert(celo(sceptro,'sceptr.0o','瓛[huán]')).
+assert(celo(sciado,'sci.0ado','知識[zhī shi],知识[zhī shi]')).
+assert(celo(sciado,'sci.0ado','認識[rèn shi],认识[rèn shi]')).
+assert(celo(sciado,'sci.0ado','学问[xué wèn],學問[xué wèn]')).
+assert(celo(sciaĵo,'sci.0ajxo','知識[zhī shi],知识[zhī shi]')).
+assert(celo(sciaĵo,'sci.0ajxo','認識[rèn shi],认识[rèn shi]')).
+assert(celo(sciaĵo,'sci.0ajxo','智[zhì]')).
+assert(celo(sciaĵo,'sci.0ajxo','識[shí],识[shí]')).
+assert(celo(scii,'sci.0i','悉[xī]')).
+assert(celo(scii,'sci.0i','知[zhī]')).
+assert(celo(scii,'sci.0i','晓得[xiǎo de],曉得[xiǎo de]')).
+assert(celo(scii,'sci.0i','知晓[zhī xiǎo],知曉[zhī xiǎo]')).
+assert(celo(scii,'sci.0i','識得[shí de],识得[shí de]')).
+assert(celo(scii,'sci.0i','認得[rèn de],认得[rèn de]')).
+assert(celo(scii,'sci.0i','知道[zhī dào]')).
+assert(celo(sciigi,'sci.0igi','晓[xiǎo],曉[xiǎo]')).
+assert(celo(sciigi,'sci.0igi','通知[tōng zhī]')).
+assert(celo(sciigi,'sci.0igi','告訴[gào su],告诉[gào su]')).
+assert(celo(sciigi,'sci.0igi','訴[sù],诉[sù]')).
+assert(celo(sciigi,'sci.0igi','詵[shēn],诜[shēn]')).
+assert(celo(sciigi,'sci.0igi','上覆[shàng fù]')).
+assert(celo(sciigi,'sci.0igi','告知[gào zhī]')).
+assert(celo(sciigo,'sci.0igo','通告[tōng gào]')).
+assert(celo(sciigo,'sci.0igo','启事[qǐ shì],啟事[qǐ shì]')).
+assert(celo(sciigo,'sci.0igo','公告[gōng gào]')).
+assert(celo(sciigo,'sci.0igo','通知[tōng zhī]')).
+assert(celo(sciigo,'sci.0igo','宣布[xuān bù]')).
+assert(celo(sciigo,'sci.0igo','通知单[tōng zhī dān],通知單[tōng zhī dān]')).
+assert(celo(sciigo,'sci.0igo','消息[xiāo xí]')).
+assert(celo(sciiĝi,'sci.0igxi','獲知[huò zhī],获知[huò zhī]')).
+assert(celo(sciiĝi,'sci.0igxi','了解知識[liǎo jiě zhī shi],了解知识[liǎo jiě zhī shi]')).
+assert(celo(sciiĝi,'sci.0igxi','得知[dé zhī]')).
+assert(celo(sciiĝi,'sci.0igxi','獲悉[huò xī],获悉[huò xī]')).
+assert(celo(scio,'sci.0o','知識[zhī shi],知识[zhī shi]')).
+assert(celo(scio,'sci.0o','学问[xué wèn],學問[xué wèn]')).
+assert(celo(scio,'sci.0o','認識[rèn shi],认识[rèn shi]')).
+assert(celo(scio,'sci.0o','見聞[jiàn wén],见闻[jiàn wén]')).
+assert(celo(scio,'sci.0o','見識[jiàn shi],见识[jiàn shi]')).
+assert(celo(scio,'sci.0o','学识[xué shí],學識[xué shí]')).
+assert(celo(scio,'sci.0o','智[zhì]')).
+assert(celo(scio,'sci.0o','識[shí],识[shí]')).
+assert(celo(scio,'sci.0o','墨水[mò shuǐ]')).
+assert(celo(scipovi,'sci.0povi','可[kě]')).
+assert(celo(scipovi,'sci.0povi','能够[néng gòu],能夠[néng gòu]')).
+assert(celo(scivolo,'sci.0voleco','好奇心[hào qí xīn]')).
+assert(celo(scivola,'','好奇[hào qí]')).
+assert(celo(scivola,'','好奇心[hào qí xīn]')).
+assert(celo(scivolema,'sci.0volema','好奇[hào qí]')).
+assert(celo(scivolema,'sci.0volema','好奇心[hào qí xīn]')).
+assert(celo(scivolema,'sci.0volema','有好奇心[yǒu hào qí xīn]')).
+assert(celo(scivolemo,'sci.0volemo','好奇心[hào qí xīn]')).
+assert(celo(scivoli,'','有好奇心[yǒu hào qí xīn]')).
+assert(celo(antaŭscii,'sci.antaux0i','早知[zǎo zhī]')).
+assert(celo(ĉioscia,'sci.cxio0a','全知[quán zhī]')).
+assert(celo(ĉioscia,'sci.cxio0a','无所不知[wú suǒ bù zhī],無所不知[wú suǒ bù zhī]')).
+assert(celo(ekscii,'sci.ek0i','得知[dé zhī]')).
+assert(celo(ekscii,'sci.ek0i','了解知識[liǎo jiě zhī shi],了解知识[liǎo jiě zhī shi]')).
+assert(celo(malscio,'sci.mal0o','无知[wú zhī],無知[wú zhī]')).
+assert(celo(multescia,'sci.multe0a','博学[bó xué],博學[bó xué]')).
+assert(celo(multescia,'sci.multe0a','博聞強識[bó wén qiáng zhì],博闻强识[bó wén qiáng zhì]')).
+assert(celo(multescia,'sci.multe0a','深知[shēn zhī]')).
+assert(celo(multescia,'sci.multe0a','見識廣[jiàn shì guǎng],见识广[jiàn shì guǎng]')).
+assert(celo(multescia,'sci.multe0a','飽學[bǎo xué],饱学[bǎo xué]')).
+assert(celo(scienca,'scienc.0a','科学[kē xué],科學[kē xué]')).
+assert(celo(sciencisto,'scienc.0isto','科学家[kē xué jiā],科學家[kē xué jiā]')).
+assert(celo(sciencisto,'scienc.0isto','科学工作者[kē xué gōng zuò zhě],科學工作者[kē xué gōng zuò zhě]')).
