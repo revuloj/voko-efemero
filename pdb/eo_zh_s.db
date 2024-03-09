@@ -2893,3 +2893,89 @@ assert(celo(desorĉi,'','驅魔[qū mó],驱魔[qū mó]')).
 assert(celo(ensorĉi,'sorcx.en0i.MAG','施魔法[shī mó fǎ]')).
 assert(celo(ensorĉi,'sorcx.en0i.MAG','迷醉[mí zuì]')).
 assert(celo(transsorĉi,'sorcx.trans0i','施魔法[shī mó fǎ]')).
+assert(celo(sordida,'sordid.0a','污秽[wū huì],污穢[wū huì]')).
+assert(celo(sordida,'sordid.0a','污糟[wū zāo]')).
+assert(celo(sordida,'sordid.0a','齷濁[wò zhuó],龌浊[wò zhuó]')).
+assert(celo(sorgo,'sorg.0o','高粱[gāo liáng]')).
+assert(celo(sorgo,'sorg.0o','粱[liáng]')).
+assert(celo(soriko,'sorik.0o','悍妇[hàn fù],悍婦[hàn fù]')).
+assert(celo(soriko,'','鼩鼱[qú jīng]')).
+assert(celo(sorobano,'soroban.0o','算盘[suàn pán],算盤[suàn pán]')).
+assert(celo(bonsorto,'sort.bon0o','幸运[xìng yùn],幸運[xìng yùn]')).
+assert(celo(bonsorto,'sort.bon0o','福[fú]')).
+assert(celo(bonsorto,'sort.bon0o','彩头[cǎi tóu],彩頭[cǎi tóu]')).
+assert(celo(malbonsorto,'sort.malbon0o','厄运[è yùn],厄運[è yùn]')).
+assert(celo(malbonsorto,'sort.malbon0o','不幸[bù xìng]')).
+assert(celo(malbonsorto,'sort.malbon0o','蹇运[jiǎn yùn],蹇運[jiǎn yùn]')).
+assert(celo(malbonsorto,'sort.malbon0o','霉运[méi yùn],霉運[méi yùn]')).
+assert(celo(sortimenti,'sortim.0i','分类整理[fēn lèi zhěng lǐ],分類整理[fēn lèi zhěng lǐ]')).
+assert(celo(sortimenti,'sortim.0i','拣选[jiǎn xuǎn],揀選[jiǎn xuǎn]')).
+assert(celo(sortimento,'sortim.0o','花色[huā sè]')).
+assert(celo(sortimento,'sortim.0o.KOMUNE','營業面積[yíng yè miàn jī],营业面积[yíng yè miàn jī]')).
+assert(celo(sovaĝa,'sovagx.0a','狂放[kuáng fàng]')).
+assert(celo(sovaĝa,'sovagx.0a','狂野[kuáng yě]')).
+assert(celo(sovaĝa,'sovagx.0a','野[yě]')).
+assert(celo(sovaĝa,'sovagx.0a','野生[yě shēng]')).
+assert(celo(sovaĝa,'sovagx.0a','野蛮[yě mán],野蠻[yě mán]')).
+assert(celo(sovaĝa,'sovagx.0a','驁[ào],骜[ào]')).
+assert(celo(sovaĝejo,'sovagx.0ejo','旷野[kuàng yě],曠野[kuàng yě]')).
+assert(celo(sovaĝejo,'sovagx.0ejo','蛮荒[mán huāng],蠻荒[mán huāng]')).
+assert(celo(sovaĝi,'sovagx.0i.KOMUNE','狂吼[kuáng hǒu]')).
+assert(celo(sovaĝi,'sovagx.0i.KOMUNE','狂号[kuáng hào],狂號[kuáng hào]')).
+assert(celo(sovaĝulo,'sovagx.0ulo','蛮荒[mán huāng],蠻荒[mán huāng]')).
+assert(celo(sovaĝulo,'sovagx.0ulo','野蛮人[yě mán rén],野蠻人[yě mán rén]')).
+assert(celo(malsovaĝa,'sovagx.mal0a','温驯[wēn xùn],溫馴[wēn xùn]')).
+assert(celo(malsovaĝa,'sovagx.mal0a','馴順[xùn shùn],驯顺[xùn shùn]')).
+assert(celo(malsovaĝigi,'sovagx.mal0igi','使听从[shǐ tīng cóng],使聽從[shǐ tīng cóng]')).
+assert(celo(malsovaĝigi,'sovagx.mal0igi','使順從[shǐ shùn cóng],使顺从[shǐ shùn cóng]')).
+assert(celo(malsovaĝigi,'sovagx.mal0igi','克制[kè zhì]')).
+assert(celo(malsovaĝigi,'sovagx.mal0igi','馴服[xún fú],驯服[xún fú]')).
+assert(celo(malsovaĝigi,'sovagx.mal0igi','馴養[xún yǎng],驯养[xún yǎng]')).
+assert(celo(soveta,'sovet.0a','苏联[sū lián],蘇聯[sū lián]')).
+assert(celo(soveto,'sovet.0o','苏维埃[sū wéi āi],蘇維埃[sū wéi āi]')).
+assert(celo('Sovetunio','sovet.S0unio','苏联[Sū lián],蘇聯[Sū lián]')).
+assert(celo('Sovetunio','sovet.S0unio','苏联[sū lián],蘇聯[sū lián]')).
+assert(celo('Sovetio','soveti.0o','苏联[sū lián],蘇聯[sū lián]')).
+assert(celo(sovetia,'soveti.s0a','苏联[sū lián],蘇聯[sū lián]')).
+assert(celo(sozio,'sozi.0o','撞脸[zhuàng liǎn],撞臉[zhuàng liǎn]')).
+assert(celo(sozio,'sozi.0o','面貌极相似的人[miàn mào jí xiāng sì de rén],面貌極相似的人[miàn mào jí xiāng sì de rén]')).
+assert(celo(sozio,'sozi.0o','分身[fēn shēn]')).
+assert(celo(sozio,'sozi.0o','近照[jìn zhào]')).
+assert(celo(spaceto,'spac.0eto.TIP','空格[kòng gé]')).
+assert(celo(spaco,'spac.0o','間隙[jiàn xì],间隙[jiàn xì]')).
+assert(celo(spaco,'spac.0o','旷地[kuàng dì],曠地[kuàng dì]')).
+assert(celo(spaco,'spac.0o','地儿[dì r],地兒[dì r]')).
+assert(celo(spaco,'spac.0o','地方[dì fang]')).
+assert(celo(spaco,'spac.0o','太空[tài kōng]')).
+assert(celo(spaco,'spac.0o','宇[yǔ]')).
+assert(celo(spaco,'spac.0o','空間[kōng jiān],空间[kōng jiān]')).
+assert(celo('afina spaco','spac.afina0o','仿射空間[fǎng shè kōng jiān],仿射空间[fǎng shè kōng jiān]')).
+assert(celo('banaĥa spaco','spac.banahxa0o','巴拿赫空間[bā ná hè kōng jiān],巴拿赫空间[bā ná hè kōng jiān]')).
+assert(celo('eŭklida spaco','spac.euxklida0o','欧几里德空间[ōu jī lǐ dé kōng jiān],歐幾里德空間[ōu jī lǐ dé kōng jiān]')).
+assert(celo('hilberta spaco','','希尔伯特空间[xī ěr bó tè kōng jiān],希爾伯特空間[xī ěr bó tè kōng jiān]')).
+assert(celo(interspaco,'spac.inter0o','差距[chā jù]')).
+assert(celo(interspaco,'spac.inter0o','距[jù]')).
+assert(celo(interspaco,'spac.inter0o','間距[jiān jù],间距[jiān jù]')).
+assert(celo(interspaco,'spac.inter0o','間隔[jiàn gé],间隔[jiàn gé]')).
+assert(celo(laborspaco,'spac.labor0o.KOMP','桌面[zhuō miàn]')).
+assert(celo('metrika spaco','spac.metrika0o','可度量空間[kě dù liàng kōng jiān],可度量空间[kě dù liàng kōng jiān]')).
+assert(celo('topologia spaco','spac.topologia0o','拓扑空间[tuò pū kōng jiān],拓撲空間[tuò pū kōng jiān]')).
+assert(celo('vektora spaco','spac.vektora0o','線性空間[xiàn xìng kōng jiān],线性空间[xiàn xìng kōng jiān]')).
+assert(celo('vektora spaco','spac.vektora0o','向量空間[xiàng liáng kōng jiān],向量空间[xiàng liáng kōng jiān]')).
+assert(celo('vektora subspaco','spac.vektorasub0o','線性子空間[xiàn xìng zǐ kōng jiān],线性子空间[xiàn xìng zǐ kōng jiān]')).
+assert(celo(spado,'spad.0o','鋏[jiá],铗[jiá]')).
+assert(celo(spado,'spad.0o','剑[jiàn],劒[jiàn]')).
+assert(celo(spado,'spad.0o','軒轅劍[xuān yuán jiàn],轩辕剑[xuān yuán jiàn]')).
+assert(celo(spado,'spad.0o','重剑[zhòng jiàn],重劍[zhòng jiàn]')).
+assert(celo(spado,'spad.0o','弯刀[wān dāo],彎刀[wān dāo]')).
+assert(celo(spado,'spad.0o','長柄武器[cháng bǐng wǔ qì],长柄武器[cháng bǐng wǔ qì]')).
+assert(celo(spageto,'spaget.0o','意大利直面[Yì dà lì zhí miàn],意大利直麵[Yì dà lì zhí miàn]')).
+assert(celo(spageto,'spaget.0o','意面[Yì miàn],意麵[Yì miàn]')).
+assert(celo(spageto,'spaget.0o','意大利面[Yì dà lì miàn],意大利麵[Yì dà lì miàn]')).
+assert(celo(spageto,'spaget.0o','实心意粉[shí xīn yì fěn],實心意粉[shí xīn yì fěn]')).
+assert(celo(spageto,'spaget.0o','意大利实心面[yì dà lì shí xīn miàn],意大利實心麵[yì dà lì shí xīn miàn]')).
+assert(celo(spageto,'spaget.0o','意大利粉[yì dà lì fěn]')).
+assert(celo(spageto,'spaget.0o','意大利面[yì dà lì miàn],意大利麵[yì dà lì miàn]')).
+assert(celo(spageto,'spaget.0o','意式面粉[yì shì miàn fěn],意式麵粉[yì shì miàn fěn]')).
+assert(celo(spageto,'spaget.0o','意粉[yì fěn]')).
+assert(celo(spageto,'spaget.0o','義大利粉[yì dà lì fěn]')).
