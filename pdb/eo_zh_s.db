@@ -2979,3 +2979,182 @@ assert(celo(spageto,'spaget.0o','意大利面[yì dà lì miàn],意大利麵[y�
 assert(celo(spageto,'spaget.0o','意式面粉[yì shì miàn fěn],意式麵粉[yì shì miàn fěn]')).
 assert(celo(spageto,'spaget.0o','意粉[yì fěn]')).
 assert(celo(spageto,'spaget.0o','義大利粉[yì dà lì fěn]')).
+assert(celo(spajro,'spajr.0o','塔尖[tǎ jiān]')).
+assert(celo(spajro,'spajr.0o','尖塔[jiān tǎ]')).
+assert(celo(spaliro,'spalir.0o','夹道[jiā dào],夾道[jiā dào]')).
+assert(celo(spaliro,'spalir.0o','夹道欢迎的人[jiā dào huān yíng de rén],夾道歡迎的人[jiā dào huān yíng de rén]')).
+assert(celo(spaliro,'spalir.0o','夹道欢迎的行列[jiā dào huān yíng de háng liè],夾道歡迎的行列[jiā dào huān yíng de háng liè]')).
+assert(celo(spaliro,'spalir.0o','墙式树木[qiáng shì shù mù],牆式樹木[qiáng shì shù mù]')).
+assert(celo(spaliro,'spalir.0o','藤架[téng jià]')).
+assert(celo(spaliro,'spalir.0o','树墙[shù qiáng],樹牆[shù qiáng]')).
+assert(celo(spamaĵo,'spam.0ajxo','垃圾邮件[lā jī yóu jiàn],垃圾郵件[lā jī yóu jiàn]')).
+assert(celo(spamo,'spam.0o','垃圾邮件[lā jī yóu jiàn],垃圾郵件[lā jī yóu jiàn]')).
+assert(celo(spano,'span.0o','跨度[kuà dù]')).
+assert(celo(spano,'span.0o.ARKI','极差[jí chāi],極差[jí chāi]')).
+assert(celo(spano,'span.0o.ARKI','振幅[zhèn fú]')).
+assert(celo(spano,'span.0o.ARKI','拉幅宽度[lā fú kuān dù],拉幅寬度[lā fú kuān dù]')).
+assert(celo(spanielo,'spaniel.0o','獚[huáng]')).
+assert(celo(sparo,'spar.0o','鯛[diāo],鲷[diāo]')).
+assert(celo('ora sparo','spar.ora0o','金头鲷[jīn tóu diāo],金頭鯛[jīn tóu diāo]')).
+assert(celo(sparkilo,'spark.0ilo','火咀[huǒ jǔ]')).
+assert(celo(sparkilo,'spark.0ilo','火嘴[huǒ zuǐ]')).
+assert(celo(sparkilo,'spark.0ilo','火星塞[huǒ xīng sāi]')).
+assert(celo(sparko,'spark.0o','火光[huǒ guāng]')).
+assert(celo(sparko,'spark.0o','火花[huǒ huā]')).
+assert(celo('Sparto','spart.0o','斯巴达[Sī bā dá],斯巴達[Sī bā dá]')).
+assert(celo('Spartako-Ligo','spartak.0o_Ligo','斯巴达克同盟[sī bā dá kè tóng méng],斯巴達克同盟[sī bā dá kè tóng méng]')).
+assert(celo('Spartako','','斯巴达克斯[sī bā dá kè sī],斯巴達剋斯[sī bā dá kè sī]')).
+assert(celo(spasmo,'spasm.0o','痉[jìng],痙[jìng]')).
+assert(celo(spasmo,'spasm.0o','痉挛[jìng luán],痙攣[jìng luán]')).
+assert(celo(spasmo,'spasm.0o','抽搐[chōu chù]')).
+assert(celo(spasmo,'spasm.0o','抽風[chōu fēng],抽风[chōu fēng]')).
+assert(celo(spasmo,'spasm.0o','瘛[chì]')).
+assert(celo(spatelo,'spatel.0o','抹刀[mǒ dāo]')).
+assert(celo(spatelo,'spatel.0o','墨剷[mò chǎn],墨铲[mò chǎn]')).
+assert(celo(spatelo,'spatel.0o','調藥刀[tiáo yào dāo],调药刀[tiáo yào dāo]')).
+assert(celo(spavo,'spav.0o','无人飞行器[wú rén fēi xíng qì],無人飛行器[wú rén fēi xíng qì]')).
+assert(celo(specigi,'spec.0igi','拣选[jiǎn xuǎn],揀選[jiǎn xuǎn]')).
+assert(celo(specigi,'spec.0igi','分类整理[fēn lèi zhěng lǐ],分類整理[fēn lèi zhěng lǐ]')).
+assert(celo(specigi,'spec.0igi','分級[fēn jí],分级[fēn jí]')).
+assert(celo(specigi,'spec.0igi','配齊[pèi qí],配齐[pèi qí]')).
+assert(celo(speco,'spec.0o','样[yàng],樣[yàng]')).
+assert(celo(speco,'spec.0o','种[zhǒng],種[zhǒng]')).
+assert(celo(speco,'spec.0o','品种[pǐn zhǒng],品種[pǐn zhǒng]')).
+assert(celo(speco,'spec.0o','物种[wù zhǒng],物種[wù zhǒng]')).
+assert(celo(speco,'spec.0o','种类[zhǒng lèi],種類[zhǒng lèi]')).
+assert(celo(speco,'spec.0o','般[bān]')).
+assert(celo(speco,'spec.0o','类[lèi],類[lèi]')).
+assert(celo(alispeca,'spec.ali0a','相差[xiāng chà]')).
+assert(celo(alispeca,'spec.ali0a','不同[bù tóng]')).
+assert(celo(alispeca,'spec.ali0a','异样[yì yàng],異樣[yì yàng]')).
+assert(celo(bonspeca,'spec.bon0a','优质[yōu zhì],優質[yōu zhì]')).
+assert(celo(bonspeca,'spec.bon0a','高級[gāo jí],高级[gāo jí]')).
+assert(celo(bonspeca,'spec.bon0a','高品質[gāo pǐn zhì],高品质[gāo pǐn zhì]')).
+assert(celo(bonspeca,'spec.bon0a','高質量[gāo zhì liàng],高质量[gāo zhì liàng]')).
+assert(celo(bonspeca,'spec.bon0a','余[yú],餘[yú]')).
+assert(celo(bonspeca,'spec.bon0a','高品位[gāo pǐn wèi]')).
+assert(celo(bonspeca,'spec.bon0a','高質[gāo zhì],高质[gāo zhì]')).
+assert(celo(bonspeca,'spec.bon0a','高精[gāo jīng]')).
+assert(celo(bonspeca,'spec.bon0a','高层[gāo céng],高層[gāo céng]')).
+retract(celo(bonspeca,'spec.bon0a','余[yú],餘[yú]')).
+assert(celo(ĉiaspeca,'spec.cxia0a','五花八門[wǔ huā bā mén],五花八门[wǔ huā bā mén]')).
+assert(celo(ĉiaspeca,'spec.cxia0a','形形色色[xíng xíng sè sè]')).
+assert(celo(ĉiaspeca,'spec.cxia0a','种种[zhǒng zhǒng],種種[zhǒng zhǒng]')).
+assert(celo(ĉiaspeca,'spec.cxia0a','各式各样[gè shì gè yàng],各式各樣[gè shì gè yàng]')).
+assert(celo(ĉiaspeca,'spec.cxia0a','各色[gè sè]')).
+assert(celo(ĉiaspeca,'spec.cxia0a','各种[gè zhǒng],各種[gè zhǒng]')).
+assert(celo(ĉiaspeca,'spec.cxia0a','万般[wàn bān],萬般[wàn bān]')).
+assert(celo(miksospeca,'spec.mikso0a','杂[zá],雜[zá]')).
+assert(celo(multespeca,'spec.multe0a','多样[duō yàng],多樣[duō yàng]')).
+assert(celo(multespeca,'spec.multe0a','多种多样[duō zhǒng duō yàng],多種多樣[duō zhǒng duō yàng]')).
+assert(celo(multespeca,'spec.multe0a','各式各样[gè shì gè yàng],各式各樣[gè shì gè yàng]')).
+assert(celo(multespeca,'','万般[wàn bān],萬般[wàn bān]')).
+assert(celo(siaspeca,'spec.sia0a','特殊[tè shū]')).
+assert(celo(siaspeca,'spec.sia0a','独特[dú tè],獨特[dú tè]')).
+assert(celo(siaspeca,'spec.sia0a','个别[gè bié],個別[gè bié]')).
+assert(celo(subspeco,'spec.sub0o','亚型[yà xíng],亞型[yà xíng]')).
+assert(celo(subspeco,'spec.sub0o','亚类[yà lèi],亞類[yà lèi]')).
+assert(celo(subspeco,'spec.sub0o','亚属[yà shǔ],亞屬[yà shǔ]')).
+assert(celo(subspeco,'spec.sub0o','亚种[yà zhǒng],亞種[yà zhǒng]')).
+assert(celo(tiaspeca,'spec.tia0a','此类[cǐ lèi],此類[cǐ lèi]')).
+assert(celo(tiaspeca,'spec.tia0a','这种[zhè zhǒng],這種[zhè zhǒng]')).
+assert(celo(tiaspeca,'spec.tia0a','那种[nà zhǒng],那種[nà zhǒng]')).
+assert(celo(vortospeco,'spec.vorto0o','詞性[cí xìng],词性[cí xìng]')).
+assert(celo(specio,'speci.0o','物种[wù zhǒng],物種[wù zhǒng]')).
+assert(celo(specio,'speci.0o','种[zhǒng],種[zhǒng]')).
+assert(celo('invada specio','speci.invada0o','入侵物种[rù qīn wù zhǒng],入侵物種[rù qīn wù zhǒng]')).
+assert(celo(speciala,'specia.0a','专门[zhuān mén],專門[zhuān mén]')).
+assert(celo(speciala,'specia.0a','特定[tè dìng]')).
+assert(celo(speciala,'specia.0a','专长[zhuān cháng],專長[zhuān cháng]')).
+assert(celo(speciale,'specia.0e','特別[tè bié],特别[tè bié]')).
+assert(celo(speciale,'specia.0e','特地[tè dì]')).
+assert(celo(speciale,'specia.0e','格外[gé wài]')).
+assert(celo(specialiĝo,'specia.0igxo','专业化[zhuān yè huà],專業化[zhuān yè huà]')).
+assert(celo(specialiĝo,'specia.0igxo','专长[zhuān cháng],專長[zhuān cháng]')).
+assert(celo(specialiĝo,'specia.0igxo','专门化[zhuān mén huà],專門化[zhuān mén huà]')).
+assert(celo(specialiĝo,'specia.0igxo','特化[tè huà]')).
+assert(celo(specialiĝo,'specia.0igxo','业务培训[yè wù péi xùn],業務培訓[yè wù péi xùn]')).
+assert(celo(specialisto,'specia.0isto','专人[zhuān rén],專人[zhuān rén]')).
+assert(celo(specialisto,'specia.0isto','专家[zhuān jiā],專家[zhuān jiā]')).
+assert(celo(specialisto,'specia.0isto','专门家[zhuān mén jiā],專門家[zhuān mén jiā]')).
+assert(celo(specialisto,'specia.0isto','专才[zhuān cái],專才[zhuān cái]')).
+assert(celo(specifa,'specif.0a','特定[tè dìng]')).
+assert(celo(specifa,'specif.0a','特有[tè yǒu]')).
+assert(celo(specifi,'specif.0i','分条列述[fèn tiáo liè shù],分條列述[fèn tiáo liè shù]')).
+assert(celo(specifi,'specif.0i','詳細說明[xiáng xì shuō míng],详细说明[xiáng xì shuō míng]')).
+assert(celo(specifi,'specif.0i','規範[guī fàn],规范[guī fàn]')).
+assert(celo(specifi,'specif.0i','具体说明[jù tǐ shuō míng],具體說明[jù tǐ shuō míng]')).
+assert(celo(specifo,'specif.0o.TEK','規格[guī gé],规格[guī gé]')).
+assert(celo(specifo,'specif.0o.TEK','格式[gé shì]')).
+assert(celo(specifo,'specif.0o.TEK','主要技术规格[zhǔ yào jì shù guī gé],主要技術規格[zhǔ yào jì shù guī gé]')).
+assert(celo(specifaĵo,'specif.0o.ajxo','特产[tè chǎn],特產[tè chǎn]')).
+assert(celo(specifaĵo,'specif.0o.ajxo','分离性[fēn lí xìng],分離性[fēn lí xìng]')).
+assert(celo(specifaĵo,'specif.0o.ajxo','可分性[kě fèn xìng]')).
+assert(celo(specifaĵo,'specif.0o.ajxo','特殊性[tè shū xìng]')).
+assert(celo(specifaĵo,'specif.0o.ajxo','特色[tè sè]')).
+assert(celo(specifika,'specifik.0a.specifa','特定[tè dìng]')).
+assert(celo(specifika,'specifik.0a.specifa','特有[tè yǒu]')).
+assert(celo(specifika,'specifik.0a.specifa','特种[tè zhǒng],特種[tè zhǒng]')).
+assert(celo(specimenaro,'specim.0aro','样品[yàng pǐn],樣品[yàng pǐn]')).
+assert(celo(specimenaro,'specim.0aro','抽检[chōu jiǎn],抽檢[chōu jiǎn]')).
+assert(celo(specimenaro,'specim.0aro','抽样[chōu yàng],抽樣[chōu yàng]')).
+assert(celo(specimenaro,'specim.0aro','样本[yàng běn],樣本[yàng běn]')).
+assert(celo(specimeno,'specim.0o','标本[biāo běn],標本[biāo běn]')).
+assert(celo(specimeno,'specim.0o','样本[yàng běn],樣本[yàng běn]')).
+assert(celo(specimeno,'specim.0o','样品[yàng pǐn],樣品[yàng pǐn]')).
+assert(celo(speguli,'spegul.0i','反映[fǎn yìng]')).
+assert(celo(speguli,'spegul.0i','鉴[jiàn],鑒[jiàn]')).
+assert(celo(speguli,'spegul.0i','反射[fǎn shè]')).
+assert(celo(speguli,'spegul.0i','映照[yìng zhào]')).
+assert(celo(speguli,'spegul.0i','映[yìng],暎[yìng]')).
+assert(celo(speguliĝi,'','照[zhào]')).
+assert(celo(speguli,'','反射出[fǎn shè chū]')).
+assert(celo(speguli,'','会反射[huì fǎn shè],會反射[huì fǎn shè]')).
+assert(celo(speguli,'','照鏡子[zhào jìng zi],照镜子[zhào jìng zi]')).
+assert(celo(spegulo,'spegul.0o','鏡[jìng],镜[jìng]')).
+assert(celo(spegulo,'spegul.0o','鏡子[jìng zi],镜子[jìng zi]')).
+assert(celo(spegulo,'spegul.0o','照鏡子[zhào jìng zi],照镜子[zhào jìng zi]')).
+assert(celo(spektaĵo,'spekt.0ajxo','奇觀[qí guān],奇观[qí guān]')).
+assert(celo(spektaĵo,'spekt.0ajxo','戏[xì],戲[xì]')).
+assert(celo(spektaĵo,'spekt.0ajxo','演出[yǎn chū]')).
+assert(celo(spektaĵo,'spekt.0ajxo','表演[biǎo yǎn]')).
+assert(celo(spektaĵo,'spekt.0ajxo','公开展示[gōng kāi zhǎn shì],公開展示[gōng kāi zhǎn shì]')).
+assert(celo(spektantaro,'spekt.0antaro','觀眾[guān zhòng],观众[guān zhòng]')).
+assert(celo(spektantaro,'spekt.0antaro','听众[tīng zhòng],聽眾[tīng zhòng]')).
+assert(celo(spektantaro,'spekt.0antaro','閱聽人[yuè tīng rén],阅听人[yuè tīng rén]')).
+assert(celo(spektanto,'spekt.0anto','觀眾[guān zhòng],观众[guān zhòng]')).
+assert(celo(spektanto,'spekt.0anto','旁觀[páng guān],旁观[páng guān]')).
+assert(celo(spektanto,'spekt.0anto','旁觀者[páng guān zhě],旁观者[páng guān zhě]')).
+assert(celo(spekti,'spekt.0i','旁觀[páng guān],旁观[páng guān]')).
+assert(celo(spekti,'spekt.0i','注視[zhù shì],注视[zhù shì]')).
+assert(celo(spektinda,'spekt.0inda','看头[kàn tou],看頭[kàn tou]')).
+assert(celo(spektinda,'spekt.0inda','値得一看[zhí de yī kàn],值得一看[zhí de yī kàn]')).
+assert(celo(spektakla,'spekta.0a.eventa','最引人注目[zuì yǐn rén zhù mù]')).
+assert(celo(spektakla,'spekta.0a.eventa','最引起轟動[zuì yǐn qǐ hōng dòng],最引起轰动[zuì yǐn qǐ hōng dòng]')).
+assert(celo(spektakla,'spekta.0a.eventa','最耸人听闻[zuì sǒng rén tīng wén],最聳人聽聞[zuì sǒng rén tīng wén]')).
+assert(celo(spektakla,'spekta.0a.eventa','惊险[jīng xiǎn],驚險[jīng xiǎn]')).
+assert(celo(spektakla,'spekta.0a.eventa','令人激动[lìng rén jī dòng],令人激動[lìng rén jī dòng]')).
+assert(celo(spektakla,'spekta.0a.eventa','令人着迷[lìng rén zháo mí],令人著迷[lìng rén zháo mí]')).
+assert(celo(spektakla,'spekta.0a.eventa','引人注目[yǐn rén zhù mù]')).
+assert(celo(spektakla,'spekta.0a.eventa','引起轟動[yǐn qǐ hōng dòng],引起轰动[yǐn qǐ hōng dòng]')).
+assert(celo(spektakla,'spekta.0a.eventa','耸人听闻[sǒng rén tīng wén],聳人聽聞[sǒng rén tīng wén]')).
+assert(celo(spektakla,'spekta.0a.eventa','惊人[jīng rén],驚人[jīng rén]')).
+assert(celo(spektaklo,'spekta.0o','戏[xì],戲[xì]')).
+assert(celo(spektaklo,'spekta.0o','演出[yǎn chū]')).
+assert(celo(spektaklo,'spekta.0o','表演[biǎo yǎn]')).
+assert(celo(spektro,'spektr.0o','亡灵[wáng líng],亡靈[wáng líng]')).
+assert(celo(spektro,'spektr.0o','光譜[guāng pǔ],光谱[guāng pǔ]')).
+assert(celo(spektro,'spektr.0o','幽灵[yōu líng],幽靈[yōu líng]')).
+assert(celo(spektro,'spektr.0o','譜[pǔ],谱[pǔ]')).
+assert(celo(spektrofotometrio,'spektrofotometri.0o','分光光度法[fēn guāng guāng dù fǎ]')).
+assert(celo(spektrogramo,'spektrogram.0o','光譜圖[guāng pǔ tú],光谱图[guāng pǔ tú]')).
+assert(celo(spektro,'','頻譜[pín pǔ],频谱[pín pǔ]')).
+assert(celo(spektrometro,'','分光計[fēn guāng jì],分光计[fēn guāng jì]')).
+assert(celo(spektroskopio,'spektroskopi.0o','光譜學[guāng pǔ xué],光谱学[guāng pǔ xué]')).
+assert(celo(spektroskopio,'spektroskopi.0o','譜學[pǔ xué],谱学[pǔ xué]')).
+assert(celo(spektroskopio,'spektroskopi.0o','頻譜分析[pín pǔ fēn xī],频谱分析[pín pǔ fēn xī]')).
+assert(celo(spektrometrio,'','頻譜分析[pín pǔ fēn xī],频谱分析[pín pǔ fēn xī]')).
+assert(celo(spektroskopo,'','光譜儀[guāng pǔ yí],光谱仪[guāng pǔ yí]')).
+assert(celo(spekulado,'spekul.0ado','投机[tóu jī],投機[tóu jī]')).
+assert(celo(spekulanto,'spekul.0anto','倒爷[dao yé],倒爺[dao yé]')).
+assert(celo(spekulanto,'spekul.0anto','投机商[tóu jī shāng],投機商[tóu jī shāng]')).
