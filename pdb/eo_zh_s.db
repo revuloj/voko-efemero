@@ -3158,3 +3158,315 @@ assert(celo(spektroskopo,'','光譜儀[guāng pǔ yí],光谱仪[guāng pǔ yí]
 assert(celo(spekulado,'spekul.0ado','投机[tóu jī],投機[tóu jī]')).
 assert(celo(spekulanto,'spekul.0anto','倒爷[dao yé],倒爺[dao yé]')).
 assert(celo(spekulanto,'spekul.0anto','投机商[tóu jī shāng],投機商[tóu jī shāng]')).
+assert(celo(spekuli,'spekul.0i','投机[tóu jī],投機[tóu jī]')).
+assert(celo(spekuli,'spekul.0i','倒买倒卖[dǎo mǎi dǎo mài],倒買倒賣[dǎo mǎi dǎo mài]')).
+assert(celo(spekuli,'spekul.0i','倒卖[dǎo mài],倒賣[dǎo mài]')).
+assert(celo(spekuli,'spekul.0i','期待得到[qī dài dé dào]')).
+assert(celo(spekulacii,'spekul1.0i','投机[tóu jī],投機[tóu jī]')).
+assert(celo(spekulacii,'spekul1.0i','倒买倒卖[dǎo mǎi dǎo mài],倒買倒賣[dǎo mǎi dǎo mài]')).
+assert(celo(spekulacii,'spekul1.0i','倒卖[dǎo mài],倒賣[dǎo mài]')).
+assert(celo(spekulacii,'spekul1.0i','期待得到[qī dài dé dào]')).
+assert(celo(spekulacio,'spekul1.0o','投机[tóu jī],投機[tóu jī]')).
+assert(celo(spekulacio,'spekul1.0o','炒股[chǎo gǔ]')).
+assert(celo(spelto,'spelt.0o','斯佩耳特小麥[sī pèi ěr tè xiǎo mài],斯佩耳特小麦[sī pèi ěr tè xiǎo mài]')).
+assert(celo(spelto,'spelt.0o','斯卑尔脱小麦[sī bēi ěr tuō xiǎo mài],斯卑爾脫小麥[sī bēi ěr tuō xiǎo mài]')).
+assert(celo(spermo,'sperm.0o','精液[jīng yè]')).
+assert(celo(spermatozoo,'spermatozo.0o','精虫[jīng chóng],精蟲[jīng chóng]')).
+assert(celo(spermatozoo,'spermatozo.0o','精子[jīng zǐ]')).
+assert(celo(sperta,'spert.0a','历练[lì liàn],歷練[lì liàn]')).
+assert(celo(sperta,'spert.0a','經驗豐富[jīng yàn fēng fù],经验丰富[jīng yàn fēng fù]')).
+assert(celo(sperta,'spert.0a','老練[lǎo liàn],老练[lǎo liàn]')).
+assert(celo(sperta,'spert.0a','資深[zī shēn],资深[zī shēn]')).
+assert(celo(sperta,'spert.0a','老手[lǎo shǒu]')).
+assert(celo(spertaĵo,'spert.0ajxo','經歷[jīng lì],经历[jīng lì]')).
+assert(celo(spertaĵo,'spert.0ajxo','見識[jiàn shi],见识[jiàn shi]')).
+assert(celo(spertaĵo,'spert.0ajxo','見聞[jiàn wén],见闻[jiàn wén]')).
+assert(celo(sperti,'spert.0i.kompetenti','老謀深算[lǎo móu shēn suàn],老谋深算[lǎo móu shēn suàn]')).
+assert(celo(sperti,'spert.0i.travivi','受[shòu]')).
+assert(celo(sperti,'spert.0i.travivi','历[lì],歷[lì]')).
+assert(celo(sperti,'spert.0i.travivi','經歷[jīng lì],经历[jīng lì]')).
+assert(celo(sperti,'spert.0i.travivi','遭[zāo]')).
+assert(celo(sperti,'spert.0i.travivi','遭到[zāo dào]')).
+assert(celo(sperti,'spert.0i.travivi','体会[tǐ huì],體會[tǐ huì]')).
+assert(celo(sperti,'spert.0i.travivi','了解知識[liǎo jiě zhī shi],了解知识[liǎo jiě zhī shi]')).
+assert(celo(sperto,'spert.0o.lerteco','历练[lì liàn],歷練[lì liàn]')).
+assert(celo(sperto,'spert.0o.lerteco','实践经验[shí jiàn jīng yàn],實踐經驗[shí jiàn jīng yàn]')).
+assert(celo(sperto,'spert.0o.lerteco','世故[shì gu]')).
+assert(celo(sperto,'spert.0o.travivajxo','經歷[jīng lì],经历[jīng lì]')).
+assert(celo(sperto,'spert.0o.travivajxo','經驗[jīng yàn],经验[jīng yàn]')).
+assert(celo(sperto,'spert.0o.travivajxo','經驗值[jīng yàn zhí],经验值[jīng yàn zhí]')).
+assert(celo(sperto,'spert.0o.travivajxo','历练[lì liàn],歷練[lì liàn]')).
+assert(celo(sperto,'spert.0o.travivajxo','閱歷[yuè lì],阅历[yuè lì]')).
+assert(celo(sperto,'spert.0o.travivajxo','經驗數值[jīng yàn shù zhí],经验数值[jīng yàn shù zhí]')).
+assert(celo(sperto,'spert.0o.travivajxo','見聞[jiàn wén],见闻[jiàn wén]')).
+assert(celo(faksperta,'spert.fak0a','如数家珍[rú shǔ jiā zhēn],如數家珍[rú shǔ jiā zhēn]')).
+assert(celo(faksperta,'spert.fak0a','通晓业务[tōng xiǎo yè wù],通曉業務[tōng xiǎo yè wù]')).
+assert(celo(faksperta,'spert.fak0a','內行[nèi háng],内行[nèi háng]')).
+assert(celo(malsperteco,'spert.mal0eco','不熟練[bù shú liàn],不熟练[bù shú liàn]')).
+assert(celo(malsperteco,'spert.mal0eco','不习惯使用[bù xí guàn shǐ yòng],不習慣使用[bù xí guàn shǐ yòng]')).
+assert(celo(malsperteco,'spert.mal0eco','沒經驗[méi jīng yàn],没经验[méi jīng yàn]')).
+assert(celo(spezo,'spez.0o','營業額[yíng yè é],营业额[yíng yè é]')).
+assert(celo(elspezema,'spez.el0ema','挥霍[huī huò],揮霍[huī huò]')).
+assert(celo(elspezema,'spez.el0ema','闊氣[kuò qi],阔气[kuò qi]')).
+assert(celo(elspezema,'spez.el0ema','奢华[shē huá],奢華[shē huá]')).
+assert(celo(elspezi,'spez.el0i','花錢[huā qián],花钱[huā qián]')).
+assert(celo(elspezi,'spez.el0i','斥資[chì zī],斥资[chì zī]')).
+assert(celo(elspezi,'spez.el0i','花用[huā yòng]')).
+assert(celo(elspezi,'spez.el0i','花費[huā fèi],花费[huā fèi]')).
+assert(celo(elspezo,'spez.el0o','开支[kāi zhī],開支[kāi zhī]')).
+assert(celo(elspezo,'spez.el0o','費用[fèi yòng],费用[fèi yòng]')).
+assert(celo(elspezo,'spez.el0o','支出[zhī chū]')).
+assert(celo(elspezo,'spez.el0o','耗資[hào zī],耗资[hào zī]')).
+assert(celo(elspezo,'spez.el0o','經費[jīng fèi],经费[jīng fèi]')).
+assert(celo(elspezo,'spez.el0o','开销[kāi xiāo],開銷[kāi xiāo]')).
+assert(celo(elspezo,'spez.el0o','費[fèi],费[fèi]')).
+assert(celo(enspezi,'spez.en0i','挣钱[zhèng qián],掙錢[zhèng qián]')).
+assert(celo(enspezi,'spez.en0i','创收[chuàng shōu],創收[chuàng shōu]')).
+assert(celo(enspezo,'spez.en0o','收入[shōu rù]')).
+assert(celo(enspezo,'spez.en0o','进账[jìn zhàng],進賬[jìn zhàng]')).
+assert(celo(enspezo,'spez.en0o','來項[lái xiang],来项[lái xiang]')).
+assert(celo(vojelspezo,'spez.vojel0o','旅行花費[lǚ xíng huā fèi],旅行花费[lǚ xíng huā fèi]')).
+assert(celo(vojelspezo,'spez.vojel0o','旅費[lǚ fèi],旅费[lǚ fèi]')).
+assert(celo(vojelspezo,'spez.vojel0o','旅游开销[lǚ yóu kāi xiāo],旅遊開銷[lǚ yóu kāi xiāo]')).
+assert(celo(vojelspezo,'spez.vojel0o','路費[lù fèi],路费[lù fèi]')).
+assert(celo(spica,'spic.0a','刺激性[cì jī xìng]')).
+assert(celo(spica,'spic.0a','辛[xīn]')).
+assert(celo(spica,'spic.0a','香辣[xiāng là]')).
+assert(celo(spicaĵo,'spic.0ajxo','調味料[tiáo wèi liào],调味料[tiáo wèi liào]')).
+assert(celo(spicaĵo,'spic.0ajxo','調味品[tiáo wèi pǐn],调味品[tiáo wèi pǐn]')).
+assert(celo(spicaĵo,'spic.0ajxo','調料[tiáo liào],调料[tiáo liào]')).
+assert(celo(spicaĵo,'spic.0ajxo','香料[xiāng liào]')).
+assert(celo(spicaĵo,'spic.0ajxo','佐料[zuǒ liào]')).
+assert(celo(spicaĵo,'spic.0ajxo','作料[zuó liao]')).
+assert(celo(spicaĵo,'spic.0ajxo','作料[zuò liao]')).
+assert(celo(spici,'spic.0i','調味[tiáo wèi],调味[tiáo wèi]')).
+assert(celo(spici,'spic.0i','香味[xiāng wèi]')).
+assert(celo(spico,'spic.0o','虀[jī]')).
+assert(celo(spico,'spic.0o','香料[xiāng liào]')).
+assert(celo(spico,'spic.0o','作料[zuó liao]')).
+assert(celo(spico,'spic.0o','齏[jī],齑[jī]')).
+assert(celo(spiko,'spik.0o','穗[suì]')).
+assert(celo(spili,'spil.0i','輕打[qīng dǎ],轻打[qīng dǎ]')).
+assert(celo(spililo,'spil.0ilo','水龍頭[shuǐ lóng tóu],水龙头[shuǐ lóng tóu]')).
+assert(celo(spino,'spin.0o','中坚[zhōng jiān],中堅[zhōng jiān]')).
+assert(celo(spino,'spin.0o','脊梁[jǐ liáng]')).
+assert(celo(spino,'spin.0o','脊梁骨[jǐ liang gǔ]')).
+assert(celo(spino,'spin.0o','脊椎[jǐ zhuī]')).
+assert(celo(spino,'spin.0o','脊骨[jǐ gǔ]')).
+assert(celo(spino,'spin.0o','膂[lǔ:]')).
+assert(celo(spino,'spin.0o','主干线[zhǔ gàn xiàn],主幹線[zhǔ gàn xiàn]')).
+assert(celo(spinaco,'spinac.0o','菠菜[bō cài]')).
+assert(celo(spinaco,'spinac.0o','菠[bō]')).
+assert(celo(spinaco,'spinac.0o','薐[léng]')).
+assert(celo(spindelo,'spinde.0o','筳[tíng]')).
+assert(celo(spindelo,'spinde.0o','錠[dìng],锭[dìng]')).
+assert(celo(spindelo,'spinde.0o','心軸[xīn zhóu],心轴[xīn zhóu]')).
+assert(celo(spindelo,'spinde.0o','紗綻[shā zhàn],纱绽[shā zhàn]')).
+assert(celo(spindelo,'spinde.0o','紡錘[fǎng chuí],纺锤[fǎng chuí]')).
+assert(celo(spindelo,'spinde.0o','中心柱[zhōng xīn zhù]')).
+assert(celo(spindelo,'spinde.0o','机轴[jī zhóu],機軸[jī zhóu]')).
+assert(celo(spindelo,'spinde.0o','筳子[tíng zǐ]')).
+assert(celo(spindelo,'spinde.0o','紗錠[shā dìng],纱锭[shā dìng]')).
+assert(celo(spindelo,'spinde.0o','軸[zhóu],轴[zhóu]')).
+assert(celo(spineto,'spinet.0o','古时的小型竖琴[gǔ shí de xiǎo xíng shù qín],古時的小型豎琴[gǔ shí de xiǎo xíng shù qín]')).
+assert(celo(spineto,'spinet.0o','小型立式鋼琴[xiǎo xíng lì shì gāng qín],小型立式钢琴[xiǎo xíng lì shì gāng qín]')).
+assert(celo('Spinozo','spinoz.0o','巴魯赫斯賓諾莎[bā lǔ hè sī bīn nuò shā],巴鲁赫斯宾诺莎[bā lǔ hè sī bīn nuò shā]')).
+assert(celo('Spinozo','spinoz.0o','斯宾诺莎[sī bīn nuò shā],斯賓諾莎[sī bīn nuò shā]')).
+assert(celo(spioni,'spion.0i','諜[dié],谍[dié]')).
+assert(celo(spioni,'spion.0i','詗[xiòng],诇[xiòng]')).
+assert(celo(spioni,'spion.0i','覘[chān],觇[chān]')).
+assert(celo(spioni,'spion.0i','窥视[kuī shì],窺視[kuī shì]')).
+assert(celo(spioni,'spion.0i','瞷[jiàn]')).
+assert(celo(spioni,'spion.0i','詗[xiòng]')).
+assert(celo(spioni,'spion.0i','伺[sì]')).
+assert(celo(spioni,'spion.0i','侦察[zhēn chá],偵察[zhēn chá]')).
+assert(celo(spiono,'spion.0o','間諜[jiàn dié],间谍[jiàn dié]')).
+assert(celo(spiono,'spion.0o','細作[xì zuò],细作[xì zuò]')).
+assert(celo(spiono,'spion.0o','探子[tàn zi]')).
+assert(celo(spirblovo,'spir.0blovo.FON','一吹[yī chuī]')).
+assert(celo(spiregi,'spir.0egi','气吁吁[qì xū xū],氣吁吁[qì xū xū]')).
+assert(celo(spiregi,'spir.0egi','气咻咻[qì xiū xiū],氣咻咻[qì xiū xiū]')).
+assert(celo(spiregi,'spir.0egi','气喘吁吁[qì chuǎn xū xū],氣喘吁吁[qì chuǎn xū xū]')).
+assert(celo(spiri,'spir.0i','呼吸[hū xī]')).
+assert(celo(spirkapta,'spir.0kapta.FRAZ','劲爆[jìng bào],勁爆[jìng bào]')).
+assert(celo(spirkapta,'spir.0kapta.FRAZ','惊艳[jīng yàn],驚艷[jīng yàn]')).
+assert(celo(spirkapta,'spir.0kapta.FRAZ','令人窒息[lìng rén zhì xī]')).
+assert(celo(spirkapta,'spir.0kapta.FRAZ','极其惊险[jí qí jīng xiǎn],極其驚險[jí qí jīng xiǎn]')).
+assert(celo(spirkapta,'spir.0kapta.FRAZ','动人心魄[dòng rén xīn pò],動人心魄[dòng rén xīn pò]')).
+assert(celo(spiro,'spir.0o','息[xī]')).
+assert(celo(spiro,'spir.0o','气息[qì xī],氣息[qì xī]')).
+assert(celo(spiro,'spir.0o','鼻息[bí xī]')).
+assert(celo(spiro,'spir.0o','气[qì],氣[qì]')).
+assert(celo(spiro,'spir.0o','吸氧[xī yǎng]')).
+assert(celo(elspiri,'spir.el0i','吐气[tǔ qì],吐氣[tǔ qì]')).
+assert(celo(elspiri,'spir.el0i','呼出[hū chū]')).
+assert(celo(enspiri,'spir.en0i','吸进[xī jìn],吸進[xī jìn]')).
+assert(celo(enspiri,'spir.en0i','吸入[xī rù]')).
+assert(celo(enspiri,'spir.en0i','吸[xī]')).
+assert(celo(ĝemspiri,'spir.gxem0i','呻[shēn]')).
+assert(celo(vespiri,'spir.ve0i','叹气[tàn qì],嘆氣[tàn qì]')).
+assert(celo(vespiri,'spir.ve0i','唏嘘[xī xū],唏噓[xī xū]')).
+assert(celo(vespiri,'spir.ve0i','嚝[hōng]')).
+assert(celo(vespiri,'spir.ve0i','喟[kuì]')).
+assert(celo(spirala,'spiral.0a','螺旋形[luó xuán xíng]')).
+assert(celo(spirala,'spiral.0a','涡状线[wō zhuàng xiàn],渦狀線[wō zhuàng xiàn]')).
+assert(celo(spiralo,'spiral.0o','螺旋形[luó xuán xíng]')).
+assert(celo(spiralo,'spiral.0o','螺[luó]')).
+assert(celo(spiralo,'spiral.0o','螺線[luó xiàn],螺线[luó xiàn]')).
+retract(celo(spiralo,'spiral.0o','螺[luó]')).
+assert(celo('arĥimeda spiralo','spiral.arhximeda0o','阿基米德螺線[ā jī mǐ dé luó xiàn],阿基米德螺线[ā jī mǐ dé luó xiàn]')).
+assert(celo('hiperbola spiralo','spiral.hiperbola0o','双曲螺线[shuāng qǔ luó xiàn],雙曲螺線[shuāng qǔ luó xiàn]')).
+assert(celo('logaritma spiralo','spiral.logaritma0o','等角螺線[děng jiǎo luó xiàn],等角螺线[děng jiǎo luó xiàn]')).
+assert(celo(spirita,'spirit.0a','属灵[shǔ líng],屬靈[shǔ líng]')).
+assert(celo(spirita,'spirit.0a','心灵上[xīn líng shàng],心靈上[xīn líng shàng]')).
+assert(celo(spiritismo,'spirit.0ismo','玄秘术[xuán mì shù],玄秘術[xuán mì shù]')).
+assert(celo(spiritismo,'spirit.0ismo','通灵术[tōng líng shù],通靈術[tōng líng shù]')).
+assert(celo(spirito,'spirit.0o','心灵[xīn líng],心靈[xīn líng]')).
+assert(celo(spirito,'spirit.0o','醝[cuó]')).
+assert(celo(spirito,'spirit.0o','灵[líng],靈[líng]')).
+assert(celo(spirito,'spirit.0o','精灵[jīng líng],精靈[jīng líng]')).
+assert(celo(spirito,'spirit.0o','幽魂[yōu hún]')).
+assert(celo('Sankta Spirito','spirit.sankta0o','圣灵[Shèng líng],聖靈[Shèng líng]')).
+assert(celo('Sankta Spirito','spirit.sankta0o','圣神[Shèng shén],聖神[Shèng shén]')).
+assert(celo(spiritisto,'spirit2.0o','招魂黨[zhāo hún dǎng]')).
+assert(celo(spirituala,'spiritual.0a','心灵上[xīn líng shàng],心靈上[xīn líng shàng]')).
+assert(celo('spite al','spit.0eal','儘管[jǐn guǎn],尽管[jǐn guǎn]')).
+assert(celo('spite al','spit.0eal','不顧反對[bù gù fǎn duì],不顾反对[bù gù fǎn duì]')).
+assert(celo('spite al','spit.0eal','不顧[bù gù],不顾[bù gù]')).
+assert(celo('spite ke','spit.0eke','就使[jiù shǐ]')).
+assert(celo(spiti,'spit.0i','傲[ào]')).
+assert(celo(spiti,'spit.0i','不顧反對[bù gù fǎn duì],不顾反对[bù gù fǎn duì]')).
+assert(celo(spito,'spit.0o','冒犯[mào fàn]')).
+assert(celo(spito,'spit.0o','拒絕[jù jué],拒绝[jù jué]')).
+assert(celo(spleno,'splen.0o','惆怅[chóu chàng],惆悵[chóu chàng]')).
+assert(celo(spleno,'splen.0o','悲愁[bēi chóu]')).
+assert(celo(spleno,'splen.0o','愊[bì]')).
+assert(celo(spleno,'splen.0o','懑[mèn],懣[mèn]')).
+assert(celo(splenda,'splend.0a','华[huá],華[huá]')).
+assert(celo(splenda,'splend.0a','光大[guāng dà]')).
+assert(celo(splenda,'splend.0a','絢爛[xuàn làn],绚烂[xuàn làn]')).
+assert(celo(splenda,'splend.0a','壮丽[zhuàng lì],壯麗[zhuàng lì]')).
+assert(celo(splenda,'splend.0a','华美[huá měi],華美[huá měi]')).
+assert(celo(splenda,'splend.0a','凞[xī]')).
+assert(celo(splisi,'splis.0i','粘接[zhān jiē]')).
+assert(celo(splisi,'','緁[jié]')).
+assert(celo(splitigi,'','碎[suì]')).
+assert(celo(splitigi,'','撞毀[zhuàng huǐ],撞毁[zhuàng huǐ]')).
+assert(celo(splito,'split.0o.ajna','碎片[suì piàn]')).
+assert(celo(splito,'split.0o.ajna','微少[wēi shǎo]')).
+assert(celo(splito,'split.0o.ajna','砟[zhǎ]')).
+assert(celo(splito,'split.0o.ajna','細薄片[xì bó piàn],细薄片[xì bó piàn]')).
+assert(celo(splito,'split.0o.ajna','稀巴烂[xī bā làn],稀巴爛[xī bā làn]')).
+assert(celo(splito,'split.0o.ajna','碎块[suì kuài],碎塊[suì kuài]')).
+assert(celo(splito,'split.0o.ajna','虀[jī]')).
+assert(celo(splito,'split.0o.ajna','齏[jī],齑[jī]')).
+assert(celo(splito,'split.0o.ajna','碴儿[chá r],碴兒[chá r]')).
+assert(celo(splito,'split.0o.ligna','木屑[mù xiè]')).
+assert(celo(spoko,'spok.0o','輻[fú],辐[fú]')).
+assert(celo(spoko,'spok.0o','車條[chē tiáo],车条[chē tiáo]')).
+assert(celo(spoko,'spok.0o','轑[lǎo]')).
+assert(celo(spoko,'spok.0o','挠骨[náo gǔ],撓骨[náo gǔ]')).
+assert(celo(spongeca,'spong.0eca','松软[sōng ruǎn],鬆軟[sōng ruǎn]')).
+assert(celo(spongeca,'spong.0eca','海綿狀[hǎi mián zhuàng],海绵状[hǎi mián zhuàng]')).
+assert(celo(spongeca,'spong.0eca','能渗透[néng shèn tòu],能滲透[néng shèn tòu]')).
+assert(celo(spongo,'','海綿[hǎi mián],海绵[hǎi mián]')).
+assert(celo(spongo,'','浴花[yù huā]')).
+assert(celo(sponsoro,'sponsor.0o','贊助商[zàn zhù shāng],赞助商[zàn zhù shāng]')).
+assert(celo(sponsoro,'sponsor.0o','主办者[zhǔ bàn zhě],主辦者[zhǔ bàn zhě]')).
+assert(celo(spontanea,'sponta1.0a','主动[zhǔ dòng],主動[zhǔ dòng]')).
+assert(celo(spontanea,'sponta1.0a','自发[zì fā],自發[zì fā]')).
+assert(celo(spontanea,'sponta1.0a','倏[shū]')).
+assert(celo(spontanea,'sponta1.0a','儵[shù]')).
+assert(celo(spontanea,'sponta1.0a','突兀[tū wù]')).
+assert(celo(spontanea,'sponta1.0a','毫无防备[háo wú fáng bèi],毫無防備[háo wú fáng bèi]')).
+assert(celo(spontanea,'sponta1.0a','一时冲动[yì shí chōng dòng],一時衝動[yì shí chōng dòng]')).
+assert(celo(spontanea,'sponta1.0a','不由自主的[bù yóu zì zhǔ de]')).
+assert(celo(spontanea,'sponta1.0a','自生[zì shēng]')).
+assert(celo(sponsori,'','認養[rèn yǎng],认养[rèn yǎng]')).
+retract(celo(spontanea,'sponta1.0a','倏[shū]')).
+retract(celo(spontanea,'sponta1.0a','儵[shù]')).
+retract(celo(spontanea,'sponta1.0a','突兀[tū wù]')).
+retract(celo(spontanea,'sponta1.0a','毫无防备[háo wú fáng bèi],毫無防備[háo wú fáng bèi]')).
+assert(celo(sporo,'spor.0o','孢[bāo]')).
+assert(celo(sporo,'spor.0o','孢子[bāo zǐ]')).
+assert(celo(sporoplanto,'spor.0oplanto','隐花植物[yǐn huā zhí wù],隱花植物[yǐn huā zhí wù]')).
+assert(celo(sporada,'sporad.0a','零星[líng xīng]')).
+assert(celo(sporada,'sporad.0a','哩哩啦啦[lī lī lā lā]')).
+assert(celo(sporada,'sporad.0a','零落[líng luò]')).
+assert(celo(sporada,'sporad.0a','时断时续[shí duàn shí xù],時斷時續[shí duàn shí xù]')).
+assert(celo(sporada,'sporad.0a','偶尔[ǒu ěr],偶爾[ǒu ěr]')).
+assert(celo(sporada,'sporad.0a','散于各处[sǎn yú gè chù],散於各處[sǎn yú gè chù]')).
+assert(celo(sporada,'sporad.0a','零星发生[líng xīng fā shēng],零星發生[líng xīng fā shēng]')).
+assert(celo(sportejo,'sport.0ejo','球场[qiú chǎng],球場[qiú chǎng]')).
+assert(celo(sportejo,'sport.0ejo','操场[cāo chǎng],操場[cāo chǎng]')).
+assert(celo(sportejo,'sport.0ejo','运动场[yùn dòng chǎng],運動場[yùn dòng chǎng]')).
+assert(celo(sporti,'sport.0i','参加体育活动[cān jiā tǐ yù huó dòng],參加體育活動[cān jiā tǐ yù huó dòng]')).
+assert(celo(sportisto,'sport.0isto','运动员[yùn dòng yuán],運動員[yùn dòng yuán]')).
+assert(celo(sportisto,'sport.0isto','运动家[yùn dòng jiā],運動家[yùn dòng jiā]')).
+assert(celo(sporto,'sport.0o','体育活动[tǐ yù huó dòng],體育活動[tǐ yù huó dòng]')).
+assert(celo(sporto,'','体育运动[tǐ yù yùn dòng],體育運動[tǐ yù yùn dòng]')).
+assert(celo(spozo,'spoz.0o','仇[qiú]')).
+assert(celo(spozo,'spoz.0o','伉[kàng]')).
+assert(celo(sprita,'sprit.0a','妙趣[miào qù]')).
+assert(celo(sprita,'sprit.0a','机灵[jī ling],機靈[jī ling]')).
+assert(celo(sprita,'sprit.0a','聪慧[cōng huì],聰慧[cōng huì]')).
+assert(celo(sprita,'sprit.0a','風趣[fēng qù],风趣[fēng qù]')).
+assert(celo(spritaĵo,'sprit.0ajxo','妙語[miào yǔ],妙语[miào yǔ]')).
+assert(celo(spritaĵo,'sprit.0ajxo','玩笑[wán xiào]')).
+assert(celo(spritaĵo,'sprit.0ajxo','俏皮話[qiào pi huà],俏皮话[qiào pi huà]')).
+assert(celo(sprito,'sprit.0o','風趣[fēng qù],风趣[fēng qù]')).
+assert(celo(sprito,'sprit.0o','妙語[miào yǔ],妙语[miào yǔ]')).
+assert(celo(sprito,'sprit.0o','同在[tóng zài]')).
+assert(celo(malsprita,'sprit.mal0a','笨[bèn]')).
+assert(celo(malsprita,'sprit.mal0a','愚鈍[yú dùn],愚钝[yú dùn]')).
+assert(celo(malsprita,'sprit.mal0a','拙[zhuō]')).
+assert(celo(malsprita,'sprit.mal0a','鈍[dùn],钝[dùn]')).
+assert(celo(malspritulo,'sprit.mal0ulo','傻叉[shǎ chā]')).
+assert(celo(malspritulo,'sprit.mal0ulo','笨瓜[bèn guā]')).
+assert(celo(malspritulo,'sprit.mal0ulo','蠢汉[chǔn hàn],蠢漢[chǔn hàn]')).
+assert(celo(sensprita,'sprit.sen0a','乾巴巴[gān bā bā],干巴巴[gān bā bā]')).
+assert(celo(sensprita,'sprit.sen0a','淡淡[dàn dàn]')).
+assert(celo(sensprita,'sprit.sen0a','索然无味[suǒ rán wú wèi],索然無味[suǒ rán wú wèi]')).
+assert(celo(senspritulo,'sprit.sen0ulo','蠢汉[chǔn hàn],蠢漢[chǔn hàn]')).
+assert(celo(senspritulo,'sprit.sen0ulo','阿木林[ā mù lín]')).
+assert(celo(sproni,'spron.0i','鞭策[biān cè]')).
+assert(celo(sprono,'spron.0o','骨刺[gǔ cì]')).
+assert(celo(sprono,'spron.0o.RAJ','馬刺[mǎ cì],马刺[mǎ cì]')).
+assert(celo(kavalirsprono,'spron.kavalir0o','燕草属植物[yān cǎo shǔ zhí wù],燕草屬植物[yān cǎo shǔ zhí wù]')).
+assert(celo(sproso,'spros.0o','梁状结构[liáng zhuàng jié gòu],梁狀結構[liáng zhuàng jié gòu]')).
+assert(celo(sproso,'spros.0o','秧苗[yāng miáo]')).
+assert(celo(sproso,'spros.0o','嫩枝[nèn zhī]')).
+assert(celo(sproso,'spros.0o','嫩芽[nèn yá]')).
+assert(celo(spaliero,'','肋木[lèi mù]')).
+assert(celo(spuri,'spur.0i.sekvi','找到[zhǎo dào]')).
+assert(celo(spuri,'spur.0i.sekvi','追查[zhuī chá]')).
+assert(celo(spuro,'spur.0o.matrico','痕跡[hén jì],痕迹[hén jì]')).
+assert(celo(spuro,'spur.0o.matrico','足跡[zú jì],足迹[zú jì]')).
+assert(celo(spuro,'spur.0o.matrico','印記[yìn jì],印记[yìn jì]')).
+assert(celo(spuro,'spur.0o.matrico','踪影[zōng yǐng],蹤影[zōng yǐng]')).
+assert(celo(spuro,'spur.0o.matrico','踪迹[zōng jì],蹤跡[zōng jì]')).
+assert(celo(spuro,'spur.0o.matrico','靷[yǐn]')).
+assert(celo(spuro,'spur.0o.postsigno','痕跡[hén jì],痕迹[hén jì]')).
+assert(celo(spuro,'spur.0o.postsigno','足跡[zú jì],足迹[zú jì]')).
+assert(celo(spuro,'spur.0o.postsigno','印記[yìn jì],印记[yìn jì]')).
+assert(celo(spuro,'spur.0o.postsigno','踪影[zōng yǐng],蹤影[zōng yǐng]')).
+assert(celo(spuro,'spur.0o.postsigno','踪迹[zōng jì],蹤跡[zōng jì]')).
+assert(celo(spuro,'spur.0o.postsigno','靷[yǐn]')).
+retract(celo(spuro,'spur.0o.matrico','痕跡[hén jì],痕迹[hén jì]')).
+retract(celo(spuro,'spur.0o.matrico','足跡[zú jì],足迹[zú jì]')).
+retract(celo(spuro,'spur.0o.matrico','印記[yìn jì],印记[yìn jì]')).
+retract(celo(spuro,'spur.0o.matrico','踪影[zōng yǐng],蹤影[zōng yǐng]')).
+retract(celo(spuro,'spur.0o.matrico','踪迹[zōng jì],蹤跡[zōng jì]')).
+retract(celo(spuro,'spur.0o.matrico','靷[yǐn]')).
+assert(celo(fingrospuro,'spur.fingro0o','指紋[zhǐ wén],指纹[zhǐ wén]')).
+assert(celo(fingrospuro,'spur.fingro0o','指模[zhǐ mó]')).
+assert(celo(fingrospuro,'spur.fingro0o','脶[luó],腡[luó]')).
+assert(celo(fingrospuro,'spur.fingro0o','手印[shǒu yìn]')).
+assert(celo(senspure,'spur.sen0e','不留痕跡[bù liú hén jī],不留痕迹[bù liú hén jī]')).
+assert(celo(senspure,'spur.sen0e','无踪迹[wú zōng jī],無蹤蹟[wú zōng jī]')).
+assert(celo(sputi,'sput.0i','吐出[tù chū]')).
+assert(celo(sputniko,'sputnik.0o','上星[shàng xīng]')).
+assert(celo(sputniko,'sputnik.0o','卫星一号[wèi xīng yī hào],衛星一號[wèi xīng yī hào]')).
+assert(celo('Srilanko','srilank.0o','斯里兰卡[Sī lǐ lán kǎ],斯里蘭卡[Sī lǐ lán kǎ]')).
+assert(celo('Srilanko','srilank.0o','狮子国[shī zi guó],獅子國[shī zi guó]')).
+assert(celo('Srilanko','srilank.0o','斯里兰卡[sī lǐ lán kǎ],斯里蘭卡[sī lǐ lán kǎ]')).
