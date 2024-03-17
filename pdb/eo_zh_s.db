@@ -3470,3 +3470,360 @@ assert(celo(sputniko,'sputnik.0o','卫星一号[wèi xīng yī hào],衛星一�
 assert(celo('Srilanko','srilank.0o','斯里兰卡[Sī lǐ lán kǎ],斯里蘭卡[Sī lǐ lán kǎ]')).
 assert(celo('Srilanko','srilank.0o','狮子国[shī zi guó],獅子國[shī zi guó]')).
 assert(celo('Srilanko','srilank.0o','斯里兰卡[sī lǐ lán kǎ],斯里蘭卡[sī lǐ lán kǎ]')).
+assert(celo(stabejo,'stab.0ejo','指挥部[zhǐ huī bù],指揮部[zhǐ huī bù]')).
+assert(celo(stabejo,'stab.0ejo','司令部[sī lìng bù]')).
+assert(celo(stabejo,'stab.0ejo','总部[zǒng bù],總部[zǒng bù]')).
+assert(celo(stabila,'stabil.0a','磐[pán]')).
+assert(celo(stabila,'stabil.0a','稳[wěn],穩[wěn]')).
+assert(celo(stabila,'stabil.0a','稳固[wěn gù],穩固[wěn gù]')).
+assert(celo(stabila,'stabil.0a','稳定[wěn dìng],穩定[wěn dìng]')).
+assert(celo(stabileco,'stabil.0eco','稳定[wěn dìng],穩定[wěn dìng]')).
+assert(celo(stabileco,'stabil.0eco','稳定性[wěn dìng xìng],穩定性[wěn dìng xìng]')).
+assert(celo(stabiligi,'stabil.0igi','稳定[wěn dìng],穩定[wěn dìng]')).
+assert(celo(stabiligi,'stabil.0igi','稳住[wěn zhu],穩住[wěn zhu]')).
+assert(celo(stabiligi,'stabil.0igi','平抑[píng yì]')).
+assert(celo(stabiligi,'stabil.0igi','稳定下来[wěn dìng xia lai],穩定下來[wěn dìng xia lai]')).
+assert(celo(stabiligilo,'stabil.0igilo','稳定剂[wěn dìng jì],穩定劑[wěn dìng jì]')).
+assert(celo(stabiligilo,'stabil.0igilo','安定面[ān dìng miàn]')).
+assert(celo(malstabila,'stabil.mal0a','不稳定[bù wěn dìng],不穩定[bù wěn dìng]')).
+assert(celo(malstabila,'stabil.mal0a','婀[ē]')).
+assert(celo(malstabila,'stabil.mal0a','不稳[bù wěn],不穩[bù wěn]')).
+assert(celo(malstabila,'stabil.mal0a','反复无常[fǎn fù wú cháng],反覆無常[fǎn fù wú cháng]')).
+assert(celo(malstabila,'stabil.mal0a','杌陧[wù niè],杌隉[wù niè]')).
+assert(celo(malstabila,'stabil.mal0a','卼[wù]')).
+assert(celo(malstabiligi,'stabil.mal0igi','动摇[dòng yáo],動搖[dòng yáo]')).
+assert(celo(stablo,'stabl.0o.metitablo','工作台[gōng zuò tái],工作檯[gōng zuò tái]')).
+assert(celo(stablo,'stabl.0o.metitablo','手工台[shǒu gōng tái],手工檯[shǒu gōng tái]')).
+assert(celo(ĉenstablo,'stabl.cxen0o','生产线[shēng chǎn xiàn],生產線[shēng chǎn xiàn]')).
+assert(celo(stacio,'staci.0o','站[zhàn]')).
+assert(celo(stacio,'staci.0o','台[tái],臺[tái]')).
+assert(celo(stacio,'staci.0o','駐地[zhù dì],驻地[zhù dì]')).
+assert(celo(stacio,'staci.0o.TEK','太空站[tài kōng zhàn]')).
+assert(celo(busstacio,'staci.bus0o','車站[chē zhàn],车站[chē zhàn]')).
+assert(celo(busstacio,'staci.bus0o','停站[tíng zhàn]')).
+assert(celo(busstacio,'staci.bus0o','公共汽車站[gōng gòng qì chē zhàn],公共汽车站[gōng gòng qì chē zhàn]')).
+assert(celo(busstacio,'staci.bus0o','汽車站[qì chē zhàn],汽车站[qì chē zhàn]')).
+assert(celo(elektrostacio,'staci.elektro0o','发电厂[fā diàn chǎng],發電廠[fā diàn chǎng]')).
+assert(celo(elektrostacio,'staci.elektro0o','发电站[fā diàn zhàn],發電站[fā diàn zhàn]')).
+assert(celo(elektrostacio,'staci.elektro0o','电厂[diàn chǎng],電廠[diàn chǎng]')).
+assert(celo(elektrostacio,'staci.elektro0o','电站[diàn zhàn],電站[diàn zhàn]')).
+assert(celo(kosmostacio,'staci.kosmo0o','空間站[kōng jiān zhàn],空间站[kōng jiān zhàn]')).
+assert(celo(kosmostacio,'staci.kosmo0o','太空站[tài kōng zhàn]')).
+assert(celo(metrostacio,'staci.metro0o','地鐵站[dì tiě zhàn],地铁站[dì tiě zhàn]')).
+assert(celo(metrostacio,'staci.metro0o','地鐵車站[dì tiě chē zhàn],地铁车站[dì tiě chē zhàn]')).
+assert(celo(poŝtostacio,'staci.posxto0o','驛[yì],驿[yì]')).
+assert(celo(poŝtostacio,'staci.posxto0o','驛站[yì zhàn],驿站[yì zhàn]')).
+assert(celo(radistacio,'staci.radi0o','广播电台[guǎng bō diàn tái],廣播電臺[guǎng bō diàn tái]')).
+assert(celo(radistacio,'staci.radi0o','无线广播公司[wú xiàn guǎng bō gōng sī],無線廣播公司[wú xiàn guǎng bō gōng sī]')).
+assert(celo(televidstacio,'staci.televid0o','电视台[diàn shì tái],電視臺[diàn shì tái]')).
+assert(celo(televidstacio,'staci.televid0o','电视信号发射器[diàn shì xìn hào fā shè qì],電視信號發射器[diàn shì xìn hào fā shè qì]')).
+assert(celo(televidstacio,'staci.televid0o','电视发射台[diàn shì fā shè tái],電視發射臺[diàn shì fā shè tái]')).
+assert(celo(veterstacio,'staci.veter0o','气象站[qì xiàng zhàn],氣象站[qì xiàng zhàn]')).
+assert(celo(veterstacio,'staci.veter0o','气象台[qì xiàng tái],氣象台[qì xiàng tái]')).
+assert(celo(veterstacio,'staci.veter0o','气象厅[qì xiàng tīng],氣象廳[qì xiàng tīng]')).
+assert(celo(stadio,'stadi.0o.fazo','阶段[jiē duàn],階段[jiē duàn]')).
+assert(celo(stadio,'stadi.0o.fazo','戏台[xì tái],戲臺[xì tái]')).
+assert(celo(stadio,'stadi.0o.haltejo','单足跳[dān zú tiào],單足跳[dān zú tiào]')).
+assert(celo(stadio,'stadi.0o.haltejo','时间段[shí jiān duàn],時間段[shí jiān duàn]')).
+assert(celo(stadio,'stadi.0o.haltejo','空間段[kōng jiān duàn],空间段[kōng jiān duàn]')).
+assert(celo(stadio,'stadi.0o.haltejo','給養站[gěi yǎng zhàn],给养站[gěi yǎng zhàn]')).
+assert(celo(stadio,'stadi.0o.haltejo','阶段[jiē duàn],階段[jiē duàn]')).
+assert(celo(stadiono,'stadio.0o','体育场[tǐ yù chǎng],體育場[tǐ yù chǎng]')).
+assert(celo(stadiono,'stadio.0o','巨蛋[jù dàn]')).
+assert(celo(stadiono,'stadio.0o','球館[qiú guǎn],球馆[qiú guǎn]')).
+assert(celo(stadiono,'stadio.0o','竞技场[jìng jì chǎng],競技場[jìng jì chǎng]')).
+assert(celo(stadiono,'stadio.0o','体育场馆[tǐ yù chǎng guǎn],體育場館[tǐ yù chǎng guǎn]')).
+assert(celo(stafetbastono,'stafet.0bastono','接力棒[jiē lì bàng]')).
+assert(celo(stafeto,'stafet.0o.konkuro','接力[jiē lì]')).
+assert(celo(stafeto,'stafet.0o.konkuro','接力賽跑[jiē lì sài pǎo],接力赛跑[jiē lì sài pǎo]')).
+assert(celo(stafeto,'stafet.0o.konkuro','接力跑[jiē lì pǎo]')).
+assert(celo(stafilokoko,'stafilokok.0o','葡萄球菌[pú tao qiú jūn]')).
+assert(celo(stafilokoko,'stafilokok.0o','葡萄球菌[pú táo qiú jùn]')).
+assert(celo(stagna,'stagn.0a','停滞不前[tíng zhì bù qián],停滯不前[tíng zhì bù qián]')).
+assert(celo(stagna,'stagn.0a','呆钝[dāi dùn],獃鈍[dāi dùn]')).
+assert(celo(stagni,'stagn.0i','停滞[tíng zhì],停滯[tíng zhì]')).
+assert(celo(stagni,'stagn.0i','凝滞[níng zhì],凝滯[níng zhì]')).
+assert(celo(staĝi,'stagx.0i','見習[jiàn xí],见习[jiàn xí]')).
+assert(celo(staĝi,'stagx.0i','进行实习[jìn xíng shí xí],進行實習[jìn xíng shí xí]')).
+assert(celo(staĝo,'stagx.0o','实习[shí xí],實習[shí xí]')).
+assert(celo(staĝo,'stagx.0o','速成班[sù chéng bān]')).
+assert(celo(stajo,'staj.0o','安全索[ān quán suǒ]')).
+assert(celo(stako,'stak.0o','堆[duī]')).
+assert(celo(stako,'stak.0o','紙堆[zhǐ duī],纸堆[zhǐ duī]')).
+assert(celo(stako,'stak.0o','栈存储器[zhàn cún chǔ qì],棧存儲器[zhàn cún chǔ qì]')).
+assert(celo(stako,'stak.0o.vico','桩[zhuāng],樁[zhuāng]')).
+assert(celo(stako,'stak.0o.vico','从纸堆到纸堆的加印机[cóng zhǐ duī dào zhǐ duī de jiā yìn jī],從紙堆到紙堆的加印機[cóng zhǐ duī dào zhǐ duī de jiā yìn jī]')).
+assert(celo(stako,'stak.0o.vico','桩基础[zhuāng jī chǔ],樁基礎[zhuāng jī chǔ]')).
+assert(celo(stako,'stak.0o.vico','紙垛[zhǐ duǒ],纸垛[zhǐ duǒ]')).
+assert(celo(stako,'stak.0o.vico','一批[yī pī]')).
+assert(celo(stako,'stak.0o.vico','仓储超市[cāng chǔ chāo shì],倉儲超市[cāng chǔ chāo shì]')).
+assert(celo(stako,'stak.0o.vico','大百貨商店[dài bǎi huò shāng diàn],大百货商店[dài bǎi huò shāng diàn]')).
+assert(celo(stako,'stak.0o.vico','存储处[cún chǔ chù],存儲處[cún chǔ chù]')).
+assert(celo(stako,'stak.0o.vico','批量[pī liàng]')).
+assert(celo(stako,'stak.0o.vico','烟气脱硫[yān qì tuō liú],煙氣脫硫[yān qì tuō liú]')).
+assert(celo(stako,'stak.0o.vico','毛被[máo bèi]')).
+assert(celo(stalejo,'stal.0ejo','农家庭院[nóng jiā tíng yuàn],農家庭院[nóng jiā tíng yuàn]')).
+assert(celo(stalejo,'stal.0ejo','馬舍設備[mǎ shè shè bèi],马舍设备[mǎ shè shè bèi]')).
+assert(celo(stalisto,'stal.0isto','牛棚[niú péng]')).
+assert(celo(stalisto,'stal.0isto','僱農[gù nóng],雇农[gù nóng]')).
+assert(celo(stalisto,'stal.0isto','牧童[mù tóng]')).
+assert(celo(stalisto,'stal.0isto','馬伕[mǎ fū],马夫[mǎ fū]')).
+assert(celo(stalo,'stal.0o','馬房[mǎ fáng],马房[mǎ fáng]')).
+assert(celo(stalo,'stal.0o','牛棚[niú péng]')).
+assert(celo(stalo,'stal.0o','馬棚[mǎ péng],马棚[mǎ péng]')).
+assert(celo(stalo,'stal.0o','圈[juàn]')).
+assert(celo(stalagmito,'stalag.0o','石笋[shí sǔn],石筍[shí sǔn]')).
+assert(celo(stalaktito,'stalak.0o','冰溜[bīng liū]')).
+assert(celo(stalaktito,'stalak.0o','鐘乳[zhōng rǔ],钟乳[zhōng rǔ]')).
+assert(celo('Stalino','stalin.0o.josefo','斯大林[Sī dà lín]')).
+assert(celo(stameno,'stamen.0o','花蕊[huā ruǐ]')).
+assert(celo(stameno,'stamen.0o','蕊[ruǐ]')).
+assert(celo(stameno,'stamen.0o','雄蕊[xióng ruǐ]')).
+assert(celo(stamfi,'stamf.0i','跺[duò]')).
+assert(celo(stamino,'stamin.0o','煨煮[wēi zhǔ]')).
+assert(celo(stampi,'stamp.0i','烙印[lào yìn]')).
+assert(celo(stampilo,'stamp.0ilo','印[yìn]')).
+assert(celo(stampilo,'stamp.0ilo','图章[tú zhāng],圖章[tú zhāng]')).
+assert(celo(stampilo,'stamp.0ilo','冲具[chōng jù],沖具[chōng jù]')).
+assert(celo(stampilo,'stamp.0ilo','烙印[lào yìn]')).
+assert(celo(stampo,'stamp.0o','印[yìn]')).
+assert(celo(stampo,'stamp.0o','版画[bǎn huà],版畫[bǎn huà]')).
+assert(celo(brulstampi,'stamp.brul0i','烙印[lào yìn]')).
+assert(celo(brulstampi,'stamp.brul0i','厂牌[chǎng pái],廠牌[chǎng pái]')).
+assert(celo(brulstampilo,'','烙鐵[lào tie],烙铁[lào tie]')).
+assert(celo(stano,'stan.0o','錫[xī],锡[xī]')).
+assert(celo(stanco,'stanc.0o','一節詩[yī jié shī],一节诗[yī jié shī]')).
+assert(celo(stando,'stand.0o','展台[zhǎn tái],展臺[zhǎn tái]')).
+assert(celo(stando,'stand.0o','档口[dàng kǒu],檔口[dàng kǒu]')).
+assert(celo(standardo,'standa.0o','旗子[qí zi]')).
+assert(celo(standardo,'standa.0o','旗[qí]')).
+assert(celo(standardo,'standa.0o','旗帜[qí zhì],旗幟[qí zhì]')).
+assert(celo(standardo,'standa.0o','标帜[biāo zhì],標幟[biāo zhì]')).
+assert(celo(standardo,'standa.0o','斾[pèi]')).
+assert(celo(standardo,'standa.0o','旌旗[jīng qí]')).
+assert(celo(standardo,'standa.0o','旌[jīng]')).
+assert(celo(standardo,'standa.0o','旐[zhào]')).
+assert(celo(stangeto,'stang.0eto','杆[gǎn],桿[gǎn]')).
+assert(celo(stangeto,'stang.0eto','茎[jīng],莖[jīng]')).
+assert(celo(stangeto,'stang.0eto','莛[tíng]')).
+retract(celo(stangeto,'stang.0eto','莛[tíng]')).
+retract(celo(stangeto,'stang.0eto','茎[jīng],莖[jīng]')).
+assert(celo(stango,'stang.0o','篙[gāo]')).
+assert(celo(stango,'stang.0o','杆[gān]')).
+assert(celo(stango,'stang.0o','棍子[gùn zi]')).
+assert(celo(stango,'stang.0o','竿[gān]')).
+assert(celo(flagstango,'stang.flag0o','旗杆[qí gān]')).
+assert(celo(flagstango,'stang.flag0o','杠[gāng]')).
+assert(celo(flagstango,'stang.flag0o','旗杆[qí gǎn],旗桿[qí gǎn]')).
+assert(celo(levstango,'stang.lev0o','杠杆[gàng gǎn],槓桿[gàng gǎn]')).
+assert(celo(levstango,'stang.lev0o','撬棍[qiào gùn]')).
+assert(celo(levstango,'stang.lev0o','撬棒[qiào bàng]')).
+assert(celo(levstango,'stang.lev0o','撬杠[qiào gàng],撬槓[qiào gàng]')).
+assert(celo(ŝargostango,'stang.sxargo0o','严格执行纪律者[yán gé zhí xíng jì lǜ zhě],嚴格執行紀律者[yán gé zhí xíng jì lǜ zhě]')).
+assert(celo(ŝargostango,'stang.sxargo0o','推弹杆[tuī dàn gān],推彈杆[tuī dàn gān]')).
+assert(celo(ŝargostango,'stang.sxargo0o','生硬[shēng yìng]')).
+assert(celo(staniolo,'stanio.0o','錫箔[xí bó],锡箔[xí bó]')).
+assert(celo(staniolo,'stanio.0o','洋鐵箔[yáng tiě bó],洋铁箔[yáng tiě bó]')).
+assert(celo(staniolo,'stanio.0o','錫箔[xī bó],锡箔[xī bó]')).
+assert(celo(staniolo,'stanio.0o','錫紙[xí zhǐ],锡纸[xí zhǐ]')).
+assert(celo(staniolo,'stanio.0o','錫箔紙[xí bó zhǐ],锡箔纸[xí bó zhǐ]')).
+assert(celo(stapli,'stapl.0i','摞[luò]')).
+assert(celo(staplo,'stapl.0o','堆[duī]')).
+assert(celo(staplo,'stapl.0o','桩[zhuāng],樁[zhuāng]')).
+assert(celo(staplo,'stapl.0o','从纸堆到纸堆的加印机[cóng zhǐ duī dào zhǐ duī de jiā yìn jī],從紙堆到紙堆的加印機[cóng zhǐ duī dào zhǐ duī de jiā yìn jī]')).
+assert(celo(staplo,'stapl.0o','桩基础[zhuāng jī chǔ],樁基礎[zhuāng jī chǔ]')).
+assert(celo(staplo,'stapl.0o','紙垛[zhǐ duǒ],纸垛[zhǐ duǒ]')).
+assert(celo(staplo,'stapl.0o','一批[yī pī]')).
+assert(celo(staplo,'stapl.0o','仓储超市[cāng chǔ chāo shì],倉儲超市[cāng chǔ chāo shì]')).
+assert(celo(staplo,'stapl.0o','大百貨商店[dài bǎi huò shāng diàn],大百货商店[dài bǎi huò shāng diàn]')).
+assert(celo(staplo,'stapl.0o','存储处[cún chǔ chù],存儲處[cún chǔ chù]')).
+assert(celo(staplo,'stapl.0o','批量[pī liàng]')).
+assert(celo(starema,'star.0ema.firma','強健[qiáng jiàn],强健[qiáng jiàn]')).
+assert(celo(starema,'star.0ema.firma','強壯[qiáng zhuàng],强壮[qiáng zhuàng]')).
+assert(celo(starema,'star.0ema.firma','健壮[jiàn zhuàng],健壯[jiàn zhuàng]')).
+assert(celo(starigi,'star.0igi','安放[ān fàng]')).
+assert(celo(starigi,'star.0igi','置于[zhì yú]')).
+assert(celo(starigi,'star.0igi.vertikala','体位保持[tǐ wèi bǎo chí],體位保持[tǐ wèi bǎo chí]')).
+assert(celo(stariĝi,'star.0igxi','挺身[tǐng shēn]')).
+assert(celo(stariĝi,'star.0igxi.rektigxi','伸直[shēn zhí]')).
+assert(celo(stariĝi,'star.0igxi.rektigxi','站起來[zhàn qǐ lai],站起来[zhàn qǐ lai]')).
+assert(celo(stariĝi,'star.0igxi.rektigxi','变高[biàn gāo],變高[biàn gāo]')).
+assert(celo(stariĝi,'star.0igxi.rektigxi','起立[qǐ lì]')).
+assert(celo(stari,'','屹立[yì lì]')).
+assert(celo(stari,'','挺立[tǐng lì]')).
+assert(celo(stari,'','站[zhàn]')).
+assert(celo(stari,'','站立[zhànlì]')).
+assert(celo(stari,'','立[lì]')).
+assert(celo(ĉestari,'','靠边站[kào biān zhàn],靠邊站[kào biān zhàn]')).
+assert(celo(ekstari,'star.ek0i','起身[qǐ shēn]')).
+assert(celo(ekstari,'star.ek0i','伸直[shēn zhí]')).
+assert(celo(ekstari,'star.ek0i','站起來[zhàn qǐ lai],站起来[zhàn qǐ lai]')).
+assert(celo(ekstari,'star.ek0i','变高[biàn gāo],變高[biàn gāo]')).
+assert(celo(ekstari,'star.ek0i','起立[qǐ lì]')).
+assert(celo(elstara,'star.el0a','卓著[zhuó zhù]')).
+assert(celo(elstara,'star.el0a','出众[chū zhòng],出眾[chū zhòng]')).
+assert(celo(elstara,'star.el0a','优异[yōu yì],優異[yōu yì]')).
+assert(celo(elstara,'star.el0a','不同凡响[bù tóng fán xiǎng],不同凡響[bù tóng fán xiǎng]')).
+assert(celo(elstara,'star.el0a','斐然[fěi rán]')).
+assert(celo(elstari,'star.el0i','頯[kuí]')).
+assert(celo(elstarigi,'star.el0igi','讚揚[zàn yáng],赞扬[zàn yáng]')).
+assert(celo(elstarigi,'star.el0igi','強調[qiáng diào],强调[qiáng diào]')).
+assert(celo(elstarigi,'star.el0igi','最显著部分[zuì xiǎn zhù bù fen],最顯著部分[zuì xiǎn zhù bù fen]')).
+assert(celo(elstarigi,'star.el0igi','烘托[hōng tuō]')).
+assert(celo(elstarigi,'star.el0igi','突出显示[tú chū xiǎn shì],突出顯示[tú chū xiǎn shì]')).
+assert(celo(kontraŭstari,'star.kontraux0i','抵御[dǐ yù],抵禦[dǐ yù]')).
+assert(celo(kontraŭstari,'star.kontraux0i','对抗[duì kàng],對抗[duì kàng]')).
+assert(celo(kontraŭstari,'star.kontraux0i','抗[kàng]')).
+assert(celo(memstara,'star.mem0a','自主[zì zhǔ]')).
+assert(celo(memstara,'star.mem0a','自立[zì lì]')).
+assert(celo(memstara,'star.mem0a','自給[zì jǐ],自给[zì jǐ]')).
+assert(celo(memstara,'star.mem0a','自主的[zì zhǔ de]')).
+assert(celo(memstara,'star.mem0a','自治的[zì zhì de]')).
+assert(celo(restarigi,'star.re0igi','恢复[huī fù],恢復[huī fù]')).
+assert(celo(restarigi,'star.re0igi','修复[xiū fù],修復[xiū fù]')).
+assert(celo(restarigi,'star.re0igi','整修[zhěng xiū]')).
+assert(celo(restarigi,'star.re0igi','复原[fù yuán],複原[fù yuán]')).
+assert(celo(restarigi,'star.re0igi','修繕[xiū shàn],修缮[xiū shàn]')).
+assert(celo(starti,'start.0i','启动[qǐ dòng],啟動[qǐ dòng]')).
+assert(celo(startigi,'start.0igi','起动[qǐ dòng],起動[qǐ dòng]')).
+assert(celo(startigi,'start.0igi','开车[kāi chē],開車[kāi chē]')).
+assert(celo(starto,'start.0o','起点[qǐ diǎn],起點[qǐ diǎn]')).
+assert(celo(starto,'start.0o','端[duān],耑[duān]')).
+assert(celo(starto,'start.0o','开端[kāi duān],開端[kāi duān]')).
+assert(celo(stati,'stat.0i','处于[chǔ yú],處於[chǔ yú]')).
+assert(celo(stato,'stat.0o','状[zhuàng],狀[zhuàng]')).
+assert(celo(stato,'stat.0o','境[jìng]')).
+assert(celo(stato,'stat.0o','状况[zhuàng kuàng],狀況[zhuàng kuàng]')).
+assert(celo(stato,'stat.0o','处境[chǔ jìng],處境[chǔ jìng]')).
+assert(celo(aferstato,'','境[jìng]')).
+assert(celo('stato de aferoj','','境[jìng]')).
+assert(celo(animstato,'stat.anim0o','心神[xīn shén]')).
+assert(celo(animstato,'stat.anim0o','心境[xīn jìng]')).
+assert(celo(animstato,'stat.anim0o','状态[zhuàng tài],狀態[zhuàng tài]')).
+assert(celo(animstato,'stat.anim0o','心情[xīn qíng]')).
+assert(celo(mensostato,'stat.anim0o','心緒[xīn xù],心绪[xīn xù]')).
+assert(celo(mensostato,'stat.anim0o','神思[shén sī]')).
+assert(celo(mensostato,'stat.anim0o','神魂[shén hún]')).
+assert(celo(mensostato,'stat.anim0o','精神状态[jīng shén zhuàng tài],精神狀態[jīng shén zhuàng tài]')).
+assert(celo(bonstato,'stat.bon0o','安康[ān kāng]')).
+assert(celo(bonstato,'stat.bon0o','愃[xuān]')).
+assert(celo(bonstato,'stat.bon0o','景气[jǐng qì],景氣[jǐng qì]')).
+assert(celo(bonstato,'stat.bon0o','福利[fú lì]')).
+assert(celo(malbonstata,'stat.malbon0a','不对劲[bù duì jìn],不對勁[bù duì jìn]')).
+assert(celo(sanstato,'stat.san0o','健康状况[jiàn kāng zhuàng kuàng],健康狀況[jiàn kāng zhuàng kuàng]')).
+assert(celo(statiko,'statik.0o','静力学[jìng lì xué],靜力學[jìng lì xué]')).
+assert(celo(elektrostatika,'statik.elektro0a','静电[jìng diàn],靜電[jìng diàn]')).
+assert(celo(elektrostatiko,'statik.elektro0o','静电学[jìng diàn xué],靜電學[jìng diàn xué]')).
+assert(celo(elektrostatiko,'statik.elektro0o','静电[jìng diàn],靜電[jìng diàn]')).
+assert(celo(statistikaĵo,'statis.0ajxo','統計[tǒng jì],统计[tǒng jì]')).
+assert(celo(statistiko,'statis.0o','統計學[tǒng jì xué],统计学[tǒng jì xué]')).
+assert(celo(statistiko,'statis.0o','統計[tǒng jì],统计[tǒng jì]')).
+assert(celo(statistiko,'statis.0o','統計數據[tǒng jì shù jù],统计数据[tǒng jì shù jù]')).
+assert(celo(statisto,'statist.0o','配角[pèi jué]')).
+assert(celo(stativo,'stativ.0o','三角架[sān jiǎo jià]')).
+assert(celo(stativo,'stativ.0o','三脚架[sān jiǎo jià],三腳架[sān jiǎo jià]')).
+assert(celo(stativo,'stativ.0o','鼒[zī]')).
+assert(celo(statuo,'statu.0o','塑像[sù xiàng]')).
+assert(celo(statuo,'statu.0o','雕像[diāo xiàng]')).
+assert(celo(staturo,'statur.0o','个子[gè zi],個子[gè zi]')).
+assert(celo(staturo,'statur.0o','身材[shēn cái]')).
+assert(celo(staturo,'statur.0o','侀[xíng]')).
+assert(celo(belstatura,'statur.bel0a','風采[fēng cǎi],风采[fēng cǎi]')).
+assert(celo(belstatura,'statur.bel0a','貌美[mào měi]')).
+assert(celo(belstatura,'statur.bel0a.KOMUNE','勻稱[yún chèn],匀称[yún chèn]')).
+assert(celo(statuso,'status.0o','身份[shēn fèn]')).
+assert(celo(statuso,'status.0o','身分[shēn fèn]')).
+assert(celo(statuto,'statut.0o','章程[zhāng chéng]')).
+assert(celo(statuto,'statut.0o','宪[xiàn],憲[xiàn]')).
+assert(celo(statuto,'statut.0o','条例[tiáo lì],條例[tiáo lì]')).
+assert(celo(stebi,'steb.0i.TEKS','紩[zhì]')).
+assert(celo(stebi,'steb.0i.TEKS','絀[chù],绌[chù]')).
+assert(celo('Stefano','stefan.0o','斯蒂芬[Sī dì fēn]')).
+assert(celo('Stefano','stefan.0o','史蒂文[Shǐ dì wén]')).
+assert(celo(stegi,'steg.0i','撐[chēng],撑[chēng]')).
+assert(celo(stelamaso,'stel.0amaso.AST','星团[xīng tuán],星團[xīng tuán]')).
+assert(celo(stelaro,'stel.0aro','曑[shēn]')).
+assert(celo(stelaro,'stel.0aro','座[zuò]')).
+assert(celo(stelaro,'stel.0aro','星宿[xīng xiù]')).
+assert(celo(stelaro,'stel.0aro','星座[xīng zuò]')).
+assert(celo(steleto,'stel.0eto','小星[xiǎo xīng]')).
+assert(celo(steleto,'stel.0eto','小的星状符号[xiǎo dì xīng zhuàng fú hào],小的星狀符號[xiǎo dì xīng zhuàng fú hào]')).
+assert(celo(steleto,'stel.0eto','星标[xīng biāo],星標[xīng biāo]')).
+assert(celo(steleto,'stel.0eto','星号[xīng hào],星號[xīng hào]')).
+assert(celo(stelfiguro,'stel.0figuro','宿[xiù]')).
+assert(celo(stelfiguro,'stel.0figuro','曑[shēn]')).
+assert(celo(stelfiguro,'stel.0figuro','星座[xīng zuò]')).
+assert(celo(stelo,'stel.0o','呇[qǐ]')).
+assert(celo(stelo,'stel.0o','星[xīng]')).
+assert(celo(stelulo,'stel.0ulo','呇[qǐ]')).
+assert(celo(stelulo,'','明星[míng xīng]')).
+assert(celo(falstelo,'stel.fal0o','大气现象[dà qì xiàn xiàng],大氣現象[dà qì xiàn xiàng]')).
+assert(celo(falstelo,'stel.fal0o','流星[liú xīng]')).
+assert(celo(falstelo,'stel.fal0o','陨星[yǔn xīng],隕星[yǔn xīng]')).
+assert(celo(marstelo,'stel.mar0o','海星[hǎi xīng]')).
+assert(celo(marstelo,'stel.mar0o','海盘车[hǎi pán chē],海盤車[hǎi pán chē]')).
+assert(celo(marstelo,'','星星魚[xīng xing yú],星星鱼[xīng xing yú]')).
+assert(celo(matenstelo,'stel.maten0o','晨星[chén xīng]')).
+assert(celo('Polusa Stelo','stel.polusa0o','北极星[Běi jí xīng],北極星[Běi jí xīng]')).
+assert(celo('Polusa Stelo','stel.polusa0o','北辰[Běi chén]')).
+assert(celo('Polusa Stelo','stel.polusa0o','櫆师[kuí shī],櫆師[kuí shī]')).
+assert(celo(pulsostelo,'stel.pulso0o','脈衝星[mài chōng xīng],脉冲星[mài chōng xīng]')).
+assert(celo('meza stelario','stelari.meza0o','繁縷[fán lǔ:],繁缕[fán lǔ:]')).
+assert(celo(steleo,'stele.0o','石碑[shí bēi]')).
+assert(celo(steleo,'stele.0o','碑[bēi]')).
+assert(celo(steleo,'stele.0o','碑石[bēi shí]')).
+assert(celo(steleo,'stele.0o','碣[jié]')).
+assert(celo(stenografado,'stenog.0ado','速記[sù jì],速记[sù jì]')).
+assert(celo(stenografado,'stenog.0ado','隐写术[yǐn xiě shù],隱寫術[yǐn xiě shù]')).
+assert(celo(stenografo,'stenog.0o','速記員[sù jì yuán],速记员[sù jì yuán]')).
+assert(celo(stenografiisto,'stenog1.0isto','速录师[sù lù shī],速錄師[sù lù shī]')).
+assert(celo(stenografiisto,'stenog1.0isto','速記員[sù jì yuán],速记员[sù jì yuán]')).
+assert(celo(stenografio,'stenog1.0o','速記[sù jì],速记[sù jì]')).
+assert(celo(stepo,'step.0o','草原[cǎo yuán]')).
+assert(celo(stepo,'step.0o','沙地[shā de]')).
+assert(celo(steradiano,'sterad.0o','球面度[qiú miàn dù]')).
+assert(celo(stereografio,'stereo.0o','实体镜学[shí tǐ jìng xué],實體鏡學[shí tǐ jìng xué]')).
+assert(celo(stereografio,'stereo.0o','立体观视[lì tǐ guān shì],立體觀視[lì tǐ guān shì]')).
+assert(celo(stereometrio,'stereo1.0o','立体几何[lì tǐ jǐ hé],立體幾何[lì tǐ jǐ hé]')).
+assert(celo(stereoskopo,'stereo2.0o','立体镜[lì tǐ jìng],立體鏡[lì tǐ jìng]')).
+assert(celo(stereotipa,'stereo3.0a','了无新意[liǎo wú xīn yì],了無新意[liǎo wú xīn yì]')).
+assert(celo(stereotipo,'stereo3.0o','框框[kuàng kuàng]')).
+assert(celo(stereotipo,'stereo3.0o.TIP','刻板印象[kè bǎn yìn xiàng]')).
+assert(celo('stereo-','stereo4.0','立体[lì tǐ],立體[lì tǐ]')).
+assert(celo(stereofonio,'stereofoni.0o','立体声[lì tǐ shēng],立體聲[lì tǐ shēng]')).
+assert(celo(stereofonio,'stereofoni.0o','典[diǎn]')).
+retract(celo(stereofonio,'stereofoni.0o','典[diǎn]')).
+assert(celo(sterila,'steril.0a','无菌[wú jūn],無菌[wú jūn]')).
+assert(celo(sterila,'steril.0a','消毒[xiāo dú]')).
+assert(celo(steriligi,'steril.0igi','消毒[xiāo dú]')).
+assert(celo(steriligi,'steril.0igi','杀菌[shā jūn],殺菌[shā jūn]')).
+assert(celo(steriligi,'steril.0igi','滅菌[miè jūn],灭菌[miè jūn]')).
+assert(celo(steriligi,'steril.0igi','滅菌[miè jùn],灭菌[miè jùn]')).
+assert(celo(sterkejo,'sterk.0ejo','貝塚[bèi zhǒng],贝冢[bèi zhǒng]')).
+assert(celo(sterkejo,'sterk.0ejo','貝塚[bèi zhǒng],贝塚[bèi zhǒng]')).
+assert(celo(sterki,'sterk.0i','施肥[shī féi]')).
+assert(celo(sterki,'sterk.0i','肥[féi]')).
+assert(celo(sterki,'sterk.0i','肥田[féi tián]')).
+assert(celo(sterko,'sterk.0o','肥料[féi liào]')).
+assert(celo(sterko,'sterk.0o','粪[fèn],糞[fèn]')).
+assert(celo(sterkulio,'sterku1.0o','梧桐[wú tóng]')).
+assert(celo(sterledo,'sterle.0o','鱘[xún],鲟[xún]')).
+assert(celo(sterlingo,'sterli.0o','純品[chún pǐn],纯品[chún pǐn]')).
+assert(celo(sterni,'stern.0i','鋪[pū],铺[pū]')).
+assert(celo(sterni,'stern.0i','摊[tān],攤[tān]')).
+assert(celo(sterni,'stern.0i','摅[shū],攄[shū]')).
+assert(celo(sterni,'stern.0i','摊开[tān kāi],攤開[tān kāi]')).
+assert(celo(sternumo,'sternu.0o','胸骨[xiōng gǔ]')).
+assert(celo(steroido,'steroid.0o','类固醇[lèi gù chún],類固醇[lèi gù chún]')).
+assert(celo(steroido,'steroid.0o','甾酮[zāi tóng]')).
+assert(celo(steroido,'steroid.0o','甾体激素[zāi tǐ jī sù],甾體激素[zāi tǐ jī sù]')).
+assert(celo(stetoskopi,'stetoskop.0i','診[zhěn],诊[zhěn]')).
+assert(celo(stetoskopo,'stetoskop.0o','听筒[tīng tǒng],聽筒[tīng tǒng]')).
+assert(celo(stetoskopo,'stetoskop.0o','听诊器[tīng zhěn qì],聽診器[tīng zhěn qì]')).
+assert(celo(stetoskopo,'stetoskop.0o','听胸噐[tīng xiōng qì],聽胸噐[tīng xiōng qì]')).
+assert(celo(stevardino,'stevard.0ino','空姐[kōng jiě]')).
+assert(celo(stevardino,'stevard.0ino','空中小姐[kōng zhōng xiǎo jiě]')).
+assert(celo(stevardino,'stevard.0ino','女乘务员[nǔ: chéng wù yuán],女乘務員[nǔ: chéng wù yuán]')).
+assert(celo(stevardino,'stevard.0ino','女乘务员[nǚ chéng wù yuán],女乘務員[nǚ chéng wù yuán]')).
+assert(celo(stevardino,'stevard.0ino','女服务员[nǚ fú wù yuán],女服務員[nǚ fú wù yuán]')).
+assert(celo(stevardo,'stevard.0o','航空少爷[háng kōng shǎo yé],航空少爺[háng kōng shǎo yé]')).
