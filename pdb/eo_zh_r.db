@@ -1,0 +1,315 @@
+created(1711555810.6038907).
+assert(celo(rabaĵo,'rab.0ajxo','贓[zāng],赃[zāng]')).
+assert(celo(rabejo,'rab.0ejo','匪巢[fěi cháo]')).
+assert(celo(rabi,'rab.0i','剽[piāo]')).
+assert(celo(rabi,'rab.0i','打劫[dǎ jié]')).
+assert(celo(rabi,'rab.0i','盗[dào],盜[dào]')).
+assert(celo(rabisto,'rab.0isto','土匪[tǔ fěi]')).
+assert(celo(rabisto,'rab.0isto','匪[fěi]')).
+assert(celo(rabisto,'rab.0isto','盗贼[dào zéi],盜賊[dào zéi]')).
+assert(celo(rabisto,'rab.0isto','山賊[shān zéi],山贼[shān zéi]')).
+assert(celo(disrabi,'rab.dis0i','打劫[dǎ jié]')).
+assert(celo(disrabi,'rab.dis0i','掠取[lu:è qǔ]')).
+assert(celo(disrabi,'rab.dis0i','劫掠[jié lu:è]')).
+assert(celo(disrabi,'rab.dis0i','攫夺[jué duó],攫奪[jué duó]')).
+assert(celo(disrabi,'rab.dis0i','盗[dào],盜[dào]')).
+assert(celo(forrabi,'rab.for0i','綁架[bǎng jià],绑架[bǎng jià]')).
+assert(celo(forrabi,'rab.for0i','劫持[jié chí]')).
+assert(celo(forrabi,'rab.for0i','綁走[bǎng zǒu],绑走[bǎng zǒu]')).
+assert(celo(prirabi,'rab.pri0i','剽[piāo]')).
+assert(celo(temporaba,'rab.tempo0a','耗时[hào shí],耗時[hào shí]')).
+assert(celo(temporaba,'rab.tempo0a','費時[fèi shí],费时[fèi shí]')).
+assert(celo(temporaba,'rab.tempo0a','耗費時間[hào fèi shí jiān],耗费时间[hào fèi shí jiān]')).
+assert(celo(rabarbo,'rabarb.0o','大黃[dà huáng],大黄[dà huáng]')).
+assert(celo(rabati,'rabat.0i','降价[jiàng jià],降價[jiàng jià]')).
+assert(celo(rabati,'rabat.0i','减价[jiǎn jià],減價[jiǎn jià]')).
+assert(celo(rabati,'rabat.0i','打折[dǎ zhé]')).
+assert(celo(rabato,'rabat.0o','折扣[zhé kòu]')).
+assert(celo(rabato,'rabat.0o','打折[dǎ zhé]')).
+assert(celo(rabato,'rabat.0o','折[zhé]')).
+assert(celo(rabato,'rabat.0o','降价[jiàng jià],降價[jiàng jià]')).
+assert(celo('Rabato','rabat1.0o','拉巴特[Lā bā tè]')).
+assert(celo(rabeno,'raben.0o','拉比[lā bǐ]')).
+assert(celo(rabeno,'raben.0o','辣彼[là bǐ]')).
+assert(celo(rabia,'rabi.0a','气冲冲[qì chōng chōng],氣沖沖[qì chōng chōng]')).
+assert(celo(rabia,'rabi.0a.furioza','气愤[qì fèn],氣憤[qì fèn]')).
+assert(celo(rabia,'rabi.0a.furioza','瘈[jì]')).
+assert(celo(rabia,'rabi.0a.furioza','猖狂[chāng kuáng]')).
+assert(celo(rabio,'rabi.0o.furiozo','恚[huì]')).
+assert(celo(rabio,'rabi.0o.furiozo','大发脾气[dà fā pí qi],大發脾氣[dà fā pí qi]')).
+assert(celo(rabio,'rabi.0o.malsano','狂犬病[kuáng quǎn bìng]')).
+assert(celo(raboti,'rabot.0i','刨[bào]')).
+assert(celo(rabotilo,'rabot.0ilo','刨[bào]')).
+assert(celo(racia,'raci.0a','理性[lǐ xìng]')).
+assert(celo(racia,'raci.0a','理智[lǐ zhì]')).
+assert(celo(racia,'raci.0a','合理[hé lǐ]')).
+assert(celo(racieco,'raci.0eco','合理性[hé lǐ xìng]')).
+assert(celo(racieco,'raci.0eco','理性[lǐ xìng]')).
+assert(celo(raciismo,'raci.0ismo','理性主义[lǐ xìng zhǔ yì],理性主義[lǐ xìng zhǔ yì]')).
+assert(celo(raciismo,'raci.0ismo','欧洲理性主义[ōu zhōu lǐ xìng zhǔ yì],歐洲理性主義[ōu zhōu lǐ xìng zhǔ yì]')).
+assert(celo(racio,'raci.0o','情理[qíng lǐ]')).
+assert(celo(racio,'raci.0o','理性[lǐ xìng]')).
+assert(celo(racio,'raci.0o','事理[shì lǐ]')).
+assert(celo(raciono,'racio5.0o','有理数[yǒu lǐ shù],有理數[yǒu lǐ shù]')).
+assert(celo(racionalo,'racion.0o','有理数[yǒu lǐ shù],有理數[yǒu lǐ shù]')).
+assert(celo(neracionalo,'racion.ne0o','无理数[wú lǐ shù],無理數[wú lǐ shù]')).
+assert(celo(racionalismo,'racion2.0o','理性主义[lǐ xìng zhǔ yì],理性主義[lǐ xìng zhǔ yì]')).
+assert(celo(racionalismo,'racion2.0o','欧洲理性主义[ōu zhōu lǐ xìng zhǔ yì],歐洲理性主義[ōu zhōu lǐ xìng zhǔ yì]')).
+assert(celo(radaro,'radar.0o','雷达[léi dá],雷達[léi dá]')).
+assert(celo(radaro,'radar.0o','雷达设备[léi dá shè bèi],雷達設備[léi dá shè bèi]')).
+assert(celo(rado,'rad.0o','輪子[lún zi],轮子[lún zi]')).
+assert(celo(rado,'rad.0o','毂[gū],轂[gū]')).
+assert(celo(rado,'rad.0o','車輪[chē lún],车轮[chē lún]')).
+assert(celo(radradio,'rad.0radio','輻[fú],辐[fú]')).
+assert(celo(radradio,'rad.0radio','挠骨[náo gǔ],撓骨[náo gǔ]')).
+assert(celo(radradio,'rad.0radio','車條[chē tiáo],车条[chē tiáo]')).
+assert(celo(radrondo,'rad.0rondo','輪胎鋼圈[lún tāi gāng quān],轮胎钢圈[lún tāi gāng quān]')).
+assert(celo(radrondo,'rad.0rondo','輪胎鋼板[lún tāi gāng bǎn],轮胎钢板[lún tāi gāng bǎn]')).
+assert(celo(radrondo,'rad.0rondo','鋼圈[gāng quān],钢圈[gāng quān]')).
+assert(celo(radrondo,'rad.0rondo','輪輞[lún wǎng],轮辋[lún wǎng]')).
+assert(celo(radrondo,'rad.0rondo','輪緣[lún yuán],轮缘[lún yuán]')).
+assert(celo(dentrado,'rad.dent0o','齒輪[chǐ lún],齿轮[chǐ lún]')).
+assert(celo(inercirado,'rad.inerto0o','飛輪[fēi lún],飞轮[fēi lún]')).
+assert(celo(spektoradego,'rad.spekto0ego','摩天輪[mó tiān lún],摩天轮[mó tiān lún]')).
+assert(celo(spektoradego,'rad.spekto0ego','鐵輪[tiě lún],铁轮[tiě lún]')).
+assert(celo(ŝpinrado,'','紡車[fǎng chē],纺车[fǎng chē]')).
+assert(celo(radiado,'radi.0ado','日射[rì shè]')).
+assert(celo(radiado,'radi.0ado','輻射[fú shè],辐射[fú shè]')).
+assert(celo(radii,'radi.0i','放射[fàng shè]')).
+assert(celo(radii,'radi.0i.FIG','粲[càn]')).
+assert(celo(radii,'radi.0i.FIG','喜洋洋[xǐ yáng yáng]')).
+assert(celo(radii,'radi.0i.disiri','放射[fàng shè]')).
+assert(celo(radii,'radi.0i.disiri','发亮[fā liàng],發亮[fā liàng]')).
+assert(celo(radii,'radi.0i.disiri','发光[fā guāng],發光[fā guāng]')).
+assert(celo(radii,'radi.0i.elsendi','粲[càn]')).
+assert(celo(radii,'radi.0i.elsendi','放射[fàng shè]')).
+assert(celo(radio,'radi.0o.brila','光芒[guāng máng]')).
+assert(celo(radio,'radi.0o.discelanta','光亮度[guāng liàng dù]')).
+assert(celo(radio,'radi.0o.discelanta','桴[fú]')).
+assert(celo(radio,'radi.0o.duonrekto','射線[shè xiàn],射线[shè xiàn]')).
+assert(celo(radio,'radi.0o.radioaparato','广播[guǎng bō],廣播[guǎng bō]')).
+assert(celo(radio,'radi.0o.radioaparato','收音机[shōu yīn jī],收音機[shōu yīn jī]')).
+assert(celo(radio,'radi.0o.radioaparato','无线电收发设备[wú xiàn diàn shōu fā shè bèi],無線電收發設備[wú xiàn diàn shōu fā shè bèi]')).
+assert(celo(radio,'radi.0o.radioaparato','无线电广播[wú xiàn diàn guǎng bō],無線電廣播[wú xiàn diàn guǎng bō]')).
+assert(celo(radio,'radi.0o.radioaparato','电台[diàn tái],電臺[diàn tái]')).
+assert(celo(radio,'radi.0o.radioaparato','无线电接收机[wú xiàn diàn jiē shōu jī],無線電接收機[wú xiàn diàn jiē shōu jī]')).
+assert(celo(radio,'radi.0o.radioaparato','电台[diàn tái],電台[diàn tái]')).
+assert(celo(radiano,'radian.0o','弪[jìng],弳[jìng]')).
+assert(celo(radiano,'radian.0o','弧度[hú dù]')).
+assert(celo(radiano,'radian.0o','弪度[jìng dù],弳度[jìng dù]')).
+assert(celo(radiatoro,'radiat.0o','散热器[sàn rè qì],散熱器[sàn rè qì]')).
+assert(celo(radika,'radik.0a.FIG','根本[gēn běn]')).
+assert(celo(radikaro,'radik.0aro.BOT','根系[gēn xì]')).
+assert(celo(radiki,'radik.0i.en','扎根[zhā gēn]')).
+assert(celo(radiki,'radik.0i.en','渐增[jiān zēng],漸增[jiān zēng]')).
+assert(celo(radiki,'radik.0i.en','有根[yǒu gēn]')).
+assert(celo(radikilo,'radik.0ilo','根号[gēn hào],根號[gēn hào]')).
+assert(celo(radikilo,'radik.0ilo','开方符号[kāi fāng fú hào],開方符號[kāi fāng fú hào]')).
+assert(celo(radiko,'radik.0o.BOT','根部[gēn bù]')).
+assert(celo(radiko,'radik.0o.FIG','起源[qǐ yuán]')).
+assert(celo(radiko,'radik.0o.FIG','祸胎[huò tāi],禍胎[huò tāi]')).
+assert(celo(radiko,'radik.0o.FIG','症结[zhēng jié],癥結[zhēng jié]')).
+assert(celo(radiko,'radik.0o.MAT','根[gēn]')).
+assert(celo(radiko,'radik.0o.MAT','根数[gēn shù],根數[gēn shù]')).
+assert(celo(radiksigno,'radik.0signo','根号[gēn hào],根號[gēn hào]')).
+assert(celo(radiksigno,'radik.0signo','开方符号[kāi fāng fú hào],開方符號[kāi fāng fú hào]')).
+assert(celo(elradiki,'radik.el0i','拔根[bá gēn]')).
+assert(celo(elradiki,'radik.el0i','连根拔起[lián gēn bá qǐ],連根拔起[lián gēn bá qǐ]')).
+assert(celo(elradiki,'radik.el0i','连根拔除[lián gēn bá chú],連根拔除[lián gēn bá chú]')).
+assert(celo(elradikigi,'radik.el0igi.FIG','扑灭[pū miè],撲滅[pū miè]')).
+assert(celo(elradikigi,'radik.el0igi.FIG','剪除[jiǎn chú]')).
+assert(celo(elradikigi,'radik.el0igi.FIG','根絕[gēn jué],根绝[gēn jué]')).
+assert(celo(elradikigi,'radik.el0igi.FIG','根除[gēn chú]')).
+assert(celo(elradikigi,'radik.el0igi.FIG','殄[tiǎn]')).
+assert(celo(elradikigi,'radik.el0igi.FIG','殪[yì]')).
+assert(celo(elradikigi,'radik.el0igi.FIG','閷[shā]')).
+assert(celo(elradikigi,'radik.el0igi.FIG','剿滅[jiǎo miè],剿灭[jiǎo miè]')).
+assert(celo(elradikigi,'radik.el0igi.FIG','滅絕阿[miè jué ā],灭绝阿[miè jué ā]')).
+assert(celo(enradiki,'radik.en0i','扎根[zhā gēn]')).
+assert(celo(enradiki,'radik.en0i','有根[yǒu gēn]')).
+assert(celo(enradikigi,'radik.en0igi','扎根[zhā gēn]')).
+assert(celo(enradikiĝi,'radik.en0igxi','滚雪球般增长[gǔn xuě qiú bān zēng zhǎng],滾雪球般增長[gǔn xuě qiú bān zēng zhǎng]')).
+assert(celo(enradikiĝi,'radik.en0igxi','渐增[jiān zēng],漸增[jiān zēng]')).
+assert(celo('n-a radiko','radik.noa0o','n次方根[n cì fāng gēn]')).
+assert(celo(radikala,'radika.0a','激进[jī jìn],激進[jī jìn]')).
+assert(celo(radikala,'radika.0a','根本上[gēn běn shàng]')).
+assert(celo(radikala,'radika.0a','彻底[chè dǐ],徹底[chè dǐ]')).
+assert(celo(radikala,'radika.0a','基团[jī tuán],基團[jī tuán]')).
+assert(celo(radikaliĝi,'','激进化[jī jìn huà],激進化[jī jìn huà]')).
+assert(celo(radikalo,'','基团[jī tuán],基團[jī tuán]')).
+assert(celo(radiografiaĵo,'radio.0ajxo','X光照片[X guāng zhào piàn]')).
+assert(celo(radiografiaĵo,'radio.0ajxo','光摄影[guāng shè yǐng],光攝影[guāng shè yǐng]')).
+assert(celo(radiografiaĵo,'radio.0ajxo','照X光[zhào X guāng]')).
+assert(celo(radioaktiva,'radioaktiv.0a','放射性[fàng shè xìng]')).
+assert(celo(radioaktiva,'radioaktiv.0a','放射[fàng shè]')).
+assert(celo(radioaktiveco,'radioaktiv.0eco','放射性[fàng shè xìng]')).
+assert(celo(radioaktiveco,'radioaktiv.0eco','放射性活度[fàng shè xìng huó dù]')).
+assert(celo(radioaktiveco,'radioaktiv.0eco','輻射性[fú shè xìng],辐射性[fú shè xìng]')).
+assert(celo(radiofonio,'radiof.0o.RAD','广播[guǎng bō],廣播[guǎng bō]')).
+assert(celo(radiofonio,'radiof.0o.RAD','无线电广播[wú xiàn diàn guǎng bō],無線電廣播[wú xiàn diàn guǎng bō]')).
+assert(celo(radiofonio,'radiof.0o.RAD','无线电播放[wú xiàn diàn bō fàng],無線電播放[wú xiàn diàn bō fàng]')).
+assert(celo(radiofonio,'radiof.0o.RAD','无线电台[wú xiàn diàn tái],無線電臺[wú xiàn diàn tái]')).
+assert(celo(radiologio,'radiol1.0o','放射学[fàng shè xué],放射學[fàng shè xué]')).
+assert(celo(radiologio,'radiol1.0o','影像診斷學[yǐng xiàng zhěn duàn xué],影像诊断学[yǐng xiàng zhěn duàn xué]')).
+assert(celo(radiometro,'radiometr.0o','輻射計[fú shè jì],辐射计[fú shè jì]')).
+assert(celo(radioskopio,'radios.0o','X光检查[X guāng jiǎn chá],X光檢查[X guāng jiǎn chá]')).
+assert(celo(radiotelefonio,'radiot.0o','分格式无线电[fèn gé shì wú xiàn diàn],分格式無線電[fèn gé shì wú xiàn diàn]')).
+assert(celo(radiotelefonio,'radiot.0o','单元无线电[dān yuán wú xiàn diàn],單元無線電[dān yuán wú xiàn diàn]')).
+assert(celo(radiotelefonio,'radiot.0o','移动无线电[yí dòng wú xiàn diàn],移動無線電[yí dòng wú xiàn diàn]')).
+assert(celo(radiotelefonio,'radiot.0o','移动通信系统[yí dòng tōng xìn xì tǒng],移動通信系統[yí dòng tōng xìn xì tǒng]')).
+assert(celo(radiotelefonio,'radiot.0o','移动电话系统[yí dòng diàn huà xì tǒng],移動電話系統[yí dòng diàn huà xì tǒng]')).
+assert(celo(radioterapio,'radiot3.0o','放射線療法[fàng shè xiàn liáo fǎ],放射线疗法[fàng shè xiàn liáo fǎ]')).
+assert(celo(radioterapio,'radiot3.0o','放射治疗[fàng shè zhì liáo],放射治療[fàng shè zhì liáo]')).
+assert(celo(radioterapio,'radiot3.0o','放射疗法[fàng shè liáo fǎ],放射療法[fàng shè liáo fǎ]')).
+assert(celo(radiumo,'radium.0o','鐳[léi],镭[léi]')).
+assert(celo(radiuso,'radius.0o.ANA','桡[ráo],橈[ráo]')).
+assert(celo(radiuso,'radius.0o.cirklo','半径[bàn jìng],半徑[bàn jìng]')).
+assert(celo(konverĝoradiuso,'radius.konvergxo0o','收敛半径[shōu liàn bàn jìng],收斂半徑[shōu liàn bàn jìng]')).
+assert(celo(radono,'radon.0o','氡[dōng]')).
+assert(celo('Rafaelo','rafael.0o','拉斐尔[lā fěi ěr],拉斐爾[lā fěi ěr]')).
+assert(celo(rafaneto,'rafan.0eto','萝[luó],蘿[luó]')).
+assert(celo(rafano,'rafan.0o','莱菔[lái fú],萊菔[lái fú]')).
+assert(celo(rafano,'','萝卜[luó bo],蘿蔔[luó bo]')).
+assert(celo(rafinejo,'rafin.0ejo','炼油厂[liàn yóu chǎng],煉油廠[liàn yóu chǎng]')).
+assert(celo(rafini,'rafin.0i','炼[liàn],鍊[liàn]')).
+assert(celo(rafini,'rafin.0i','炼制[liàn zhì],煉制[liàn zhì]')).
+assert(celo(rafini,'rafin.0i','炼化[liàn huà],煉化[liàn huà]')).
+assert(celo(rafinita,'rafin.0ita','精制[jīng zhì],精製[jīng zhì]')).
+assert(celo(rafinita,'rafin.0ita','精炼[jīng liàn],精煉[jīng liàn]')).
+assert(celo(rafinita,'rafin.0ita','儒雅[rú yǎ]')).
+assert(celo(rafinita,'rafin.0ita','娴[xián],嫻[xián]')).
+assert(celo(rafinita,'rafin.0ita','典雅[diǎn yǎ]')).
+assert(celo(rafinita,'rafin.0ita','彬彬[bīn bīn]')).
+assert(celo('Raĥelo','rahxel.0o','蕾切尔[lěi qiē ěr]')).
+assert(celo(rajo,'raj.0o','鰩[yáo],鳐[yáo]')).
+assert(celo(rajdanto,'rajd.0anto','騎馬者[qí mǎ zhě],骑马者[qí mǎ zhě]')).
+assert(celo(rajdanto,'rajd.0anto','女騎士[nǚ qí shì],女骑士[nǚ qí shì]')).
+assert(celo(rajdanto,'rajd.0anto','騎師[qí shī],骑师[qí shī]')).
+assert(celo(rajdanto,'rajd.0anto','騎手[qí shǒu],骑手[qí shǒu]')).
+assert(celo(rajde,'rajd.0e','馬背[mǎ bèi],马背[mǎ bèi]')).
+assert(celo(rajde,'rajd.0e','跨着[kuà zhuó],跨著[kuà zhuó]')).
+assert(celo(rajdi,'rajd.0i','騎[qí],骑[qí]')).
+assert(celo(rajdi,'rajd.0i','騎坐[qí zuò],骑坐[qí zuò]')).
+assert(celo(rajdi,'rajd.0i','騎馬[qí mǎ],骑马[qí mǎ]')).
+assert(celo(rajdi,'rajd.0i','騎在馬背上[qí zài mǎ bèi shàng],骑在马背上[qí zài mǎ bèi shàng]')).
+assert(celo(rajedoj,'rajed.0oj','魟科[gōng kē]')).
+assert(celo('Rajmundo','rajmund.0o','雷蒙德[Léi méng dé]')).
+assert(celo(rajono,'rajon.0o','人造丝[rén zào sī],人造絲[rén zào sī]')).
+assert(celo(rajono,'rajon.0o','嫘縈[léi yíng],嫘萦[léi yíng]')).
+assert(celo(rajpi,'rajp.0i.TEK','摩擦[mó cā]')).
+assert(celo(rajpi,'rajp.0i.TEK','挼[ruó]')).
+assert(celo(rajte,'rajt.0e','法律上[fǎ lǜ shàng]')).
+assert(celo(rajti,'rajt.0i','有权[yǒu quán],有權[yǒu quán]')).
+assert(celo(rajtigi,'rajt.0igi','准許[zhǔn xǔ],准许[zhǔn xǔ]')).
+assert(celo(rajtigi,'rajt.0igi','許可[xǔ kě],许可[xǔ kě]')).
+assert(celo(rajtigi,'rajt.0igi','授权[shòu quán],授權[shòu quán]')).
+assert(celo(rajtigilo,'rajt.0igilo','執照[zhí zhào],执照[zhí zhào]')).
+assert(celo(rajtigilo,'rajt.0igilo','許可[xǔ kě],许可[xǔ kě]')).
+assert(celo(rajtigilo,'rajt.0igilo','許可證[xǔ kě zhèng],许可证[xǔ kě zhèng]')).
+assert(celo(rajtigilo,'rajt.0igilo','国书[guó shū],國書[guó shū]')).
+assert(celo(rajto,'rajt.0o','权[quán],權[quán]')).
+assert(celo(rajto,'rajt.0o','法学[fǎ xué],法學[fǎ xué]')).
+assert(celo(rajto,'rajt.0o','权利[quán lì],權利[quán lì]')).
+assert(celo(kopirajto,'rajt.auxtor0o','版权[bǎn quán],版權[bǎn quán]')).
+assert(celo(kopirajto,'rajt.auxtor0o','著作权[zhù zuò quán],著作權[zhù zuò quán]')).
+assert(celo(kopirajto,'rajt.auxtor0o','作者权[zuò zhě quán],作者權[zuò zhě quán]')).
+assert(celo(kopirajto,'rajt.auxtor0o','名称权[míng chēng quán],名稱權[míng chēng quán]')).
+assert(celo(kopirajto,'rajt.auxtor0o','版权[bǎn quán]')).
+assert(celo(aŭtorrajto,'rajt.auxtor0o','著作权[zhù zuò quán],著作權[zhù zuò quán]')).
+assert(celo(aŭtorrajto,'rajt.auxtor0o','版权[bǎn quán]')).
+assert(celo(rifuĝrajto,'rajt.azil0o','庇护法[bì hù fǎ]')).
+assert(celo(rifuĝrajto,'rajt.azil0o','庇护权[bì hù quán],庇護權[bì hù quán]')).
+assert(celo(rifuĝrajto,'rajt.azil0o','避难权[bì nán quán],避難權[bì nán quán]')).
+assert(celo(egalrajta,'rajt.egal0a','平等[píng děng]')).
+assert(celo(egalrajta,'rajt.egal0a','平权[píng quán],平權[píng quán]')).
+assert(celo(egalrajta,'rajt.egal0a','平等的[píng děng de]')).
+assert(celo(balotrajto,'rajt.vocxdon0o','投票权[tóu piào quán],投票權[tóu piào quán]')).
+assert(celo(balotrajto,'rajt.vocxdon0o','参政权[cān zhèng quán],參政權[cān zhèng quán]')).
+assert(celo(balotrajto,'rajt.vocxdon0o','表决权[biǎo jué quán],表決權[biǎo jué quán]')).
+assert(celo(balotrajto,'rajt.vocxdon0o','选举权[xuǎn jǔ quán],選舉權[xuǎn jǔ quán]')).
+assert(celo(balotrajto,'rajt.vocxdon0o','选择的权利[xuǎn zé de quán lì],選擇的權利[xuǎn zé de quán lì]')).
+assert(celo(rako,'rak.0o','架[jià]')).
+assert(celo(rakedo,'raked.0o','球拍[qiú pāi]')).
+assert(celo(rakedo,'raked.0o','拍子[pāi zi]')).
+assert(celo(raketo,'raket.0o.AVI','火箭[huǒ jiàn]')).
+assert(celo(raketo,'raket.0o.AVI','飛彈[fēi dàn],飞弹[fēi dàn]')).
+assert(celo(raketo,'raket.0o.SPO','球拍[qiú pāi]')).
+assert(celo(raketo,'raket.0o.SPO','拍子[pāi zi]')).
+assert(celo(rakito,'rakit.0o','疳[gān]')).
+assert(celo(rakito,'rakit.0o','佝[gōu]')).
+assert(celo(rakito,'rakit.0o','佝偻病症[gōu lou bìng zhèng]')).
+assert(celo(rakledo,'rakled.0o','烤乳酪[kǎo rǔ lào]')).
+assert(celo(rakontero,'rakont.0ero','插曲[chā qǔ]')).
+assert(celo(rakonti,'rakont.0i','叙述[xù shù],敘述[xù shù]')).
+assert(celo(rakonti,'rakont.0i','訴說[sù shuō],诉说[sù shuō]')).
+assert(celo(rakonti,'rakont.0i','叙[xù],敘[xù]')).
+assert(celo(rakonti,'rakont.0i','叙说[xù shuō],敘說[xù shuō]')).
+assert(celo(rakonti,'rakont.0i','講述[jiǎng shù],讲述[jiǎng shù]')).
+assert(celo(rakonti,'rakont.0i','叙述性[xù shù xìng],敘述性[xù shù xìng]')).
+assert(celo(rakonti,'rakont.0i','記敘[jì xù],记叙[jì xù]')).
+assert(celo(rakontisto,'rakont.0isto','口白[kǒu bái]')).
+assert(celo(rakonto,'rakont.0o','記敘[jì xù],记叙[jì xù]')).
+assert(celo(rakonto,'rakont.0o','故事[gù shi]')).
+assert(celo(rakonto,'rakont.0o','叙事[xù shì],敘事[xù shì]')).
+assert(celo(rakonto,'rakont.0o','短篇小說[duǎn piān xiǎo shuō],短篇小说[duǎn piān xiǎo shuō]')).
+assert(celo(bildrakonto,'rakont.bild0o','连环图[lián huán tú],連環圖[lián huán tú]')).
+assert(celo(popolrakonto,'rakont.popol0o','民間故事[mín jiān gù shi],民间故事[mín jiān gù shi]')).
+assert(celo(popolrakonto,'rakont.popol0o','传说[chuán shuō],傳說[chuán shuō]')).
+assert(celo('tio estas alia rakonto','rakont.tioestasalia0o','別論[bié lùn],别论[bié lùn]')).
+assert(celo(raledoj,'raled.0oj','秧雞科[yāng jī kē],秧鸡科[yāng jī kē]')).
+assert(celo(ralo,'','秧雞[yāng jī],秧鸡[yāng jī]')).
+assert(celo(ramadano,'ramadan.0o','斋戒节[Zhāi jiè jié],齋戒節[Zhāi jiè jié]')).
+assert(celo(ramadano,'ramadan.0o','拉馬丹[Lā mǎ dān],拉马丹[Lā mǎ dān]')).
+assert(celo(ramadano,'ramadan.0o','莱麦丹[Lái mài dān],萊麥丹[Lái mài dān]')).
+assert(celo('Ramajano','ramajan.0o','罗摩衍那[Luó mó yǎn nà],羅摩衍那[Luó mó yǎn nà]')).
+assert(celo(rambutano,'','紅毛丹[hóng máo dān],红毛丹[hóng máo dān]')).
+assert(celo(rampaĵo,'ramp.0ajxo.BIB','爬虫[pá chóng],爬蟲[pá chóng]')).
+assert(celo(rampaĵo,'ramp.0ajxo.BIB','爬虫动物[pá chóng dòng wù],爬蟲動物[pá chóng dòng wù]')).
+assert(celo(rampaĵo,'ramp.0ajxo.BIB','爬虫类[pá chóng lèi],爬蟲類[pá chóng lèi]')).
+assert(celo(rampi,'ramp.0i','爬行[pá xíng]')).
+assert(celo(rampi,'ramp.0i','匍匐[pú fú]')).
+assert(celo(rampi,'ramp.0i','搲[wǎ]')).
+assert(celo(rampi,'ramp.0i','匍[pú]')).
+assert(celo(rampi,'ramp.0i','匍匐前进[pú fú qián jìn],匍匐前進[pú fú qián jìn]')).
+assert(celo(rampi,'ramp.0i','卑躬屈膝[bēi gōng qū xī]')).
+assert(celo(rampi,'ramp.0i','慢行[màn xíng]')).
+assert(celo(rampuloj,'ramp.0uloj','爬虫[pá chóng],爬蟲[pá chóng]')).
+assert(celo(rampuloj,'ramp.0uloj','爬虫类[pá chóng lèi],爬蟲類[pá chóng lèi]')).
+assert(celo(rampuloj,'ramp.0uloj','爬行动物[pá xíng dòng wù],爬行動物[pá xíng dòng wù]')).
+assert(celo(ramplo,'rampl.0o','火箭发射台[huǒ jiàn fā shè tái],火箭發射臺[huǒ jiàn fā shè tái]')).
+assert(celo(ramplo,'rampl.0o','舞台前沿[wǔ tái qián yán]')).
+assert(celo(ramplo,'rampl.0o','装卸台[zhuāng xiè tái],裝卸台[zhuāng xiè tái]')).
+assert(celo(rano,'ran.0o','田雞[tián jī],田鸡[tián jī]')).
+assert(celo(rano,'ran.0o','蛤[há]')).
+assert(celo(rano,'ran.0o','青蛙[qīng wā]')).
+assert(celo(rano,'ran.0o','蚔[qí]')).
+assert(celo(rano,'ran.0o','蛙[wā]')).
+assert(celo(rano,'ran.0o','蛤蟆[há ma]')).
+assert(celo(ranca,'ranc.0a','哈喇[hā la]')).
+assert(celo(ranca,'ranc.0a','餿[sōu],馊[sōu]')).
+assert(celo(ranca,'ranc.0a','饐[yì]')).
+assert(celo(randa,'rand.0a.punkto','边际[biān jì],邊際[biān jì]')).
+assert(celo('rande de','rand.0e_de','濒于[bīn yú],瀕於[bīn yú]')).
+assert(celo(randi,'rand.0i.MAT','埸[yì]')).
+assert(celo(rando,'rand.0o.KOMUNE','湄[méi]')).
+assert(celo(rando,'rand.0o.KOMUNE','緣[yuán],缘[yuán]')).
+assert(celo(rando,'rand.0o.KOMUNE','边[biān],邊[biān]')).
+assert(celo(rando,'rand.0o.KOMUNE','塝[bàng]')).
+assert(celo(rando,'rand.0o.KOMUNE','涯[yá]')).
+assert(celo(rando,'rand.0o.KOMUNE','沿儿[yán r],沿兒[yán r]')).
+assert(celo(rangi,'rang.0i','排行[pái háng]')).
+assert(celo(rango,'rang.0o','品位[pǐn wèi]')).
+assert(celo(rango,'rang.0o','排名[pái míng]')).
+assert(celo(rango,'rang.0o','头衔[tóu xián],頭銜[tóu xián]')).
+assert(celo(rango,'rang.0o','級別[jí bié],级别[jí bié]')).
+assert(celo(rango,'rang.0o','军衔[jūn xián],軍銜[jūn xián]')).
+assert(celo(rango,'rang.0o','名次[míng cì]')).
+assert(celo(rango,'rang.0o','名衔[míng xián],名銜[míng xián]')).
+assert(celo(rango,'rang.0o','品第[pǐn dì]')).
+assert(celo(rango,'rang.0o','学衔[xué xián],學銜[xué xián]')).
+assert(celo(rango,'rang.0o','段数[duàn shù],段數[duàn shù]')).
+assert(celo(rango,'rang.0o','等第[děng dì]')).
+assert(celo(rango,'rang.0o','等級[děng jí],等级[děng jí]')).
+assert(celo(rango,'rang.0o','职级[zhí jí],職級[zhí jí]')).
+assert(celo(altranga,'rang.alt0a','高位[gāo wèi]')).
+assert(celo(altranga,'rang.alt0a','傑出[jié chū],杰出[jié chū]')).
