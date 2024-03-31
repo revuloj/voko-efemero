@@ -313,3 +313,26 @@ assert(celo(rango,'rang.0o','等級[děng jí],等级[děng jí]')).
 assert(celo(rango,'rang.0o','职级[zhí jí],職級[zhí jí]')).
 assert(celo(altranga,'rang.alt0a','高位[gāo wèi]')).
 assert(celo(altranga,'rang.alt0a','傑出[jié chū],杰出[jié chū]')).
+assert(celo(duaranga,'rang.dua0a','次要[cì yào]')).
+assert(celo(duaranga,'rang.dua0a','次級[cì jí],次级[cì jí]')).
+assert(celo(duaranga,'rang.dua0a','第二位[dì èr wèi]')).
+assert(celo(laŭrange,'rang.laux0e','依次[yī cì]')).
+assert(celo(plirangigi,'rang.pli0igi','升迁[shēng qiān],升遷[shēng qiān]')).
+assert(celo(plirangigi,'rang.pli0igi','提拔[tí bá]')).
+assert(celo(plirangigi,'rang.pli0igi','龍飛[lóng fēi],龙飞[lóng fēi]')).
+assert(celo(rangaltigo,'rang.pli0igo','升迁[shēng qiān],升遷[shēng qiān]')).
+assert(celo(rangaltiĝi,'rang.pli0igxi','升官[shēng guān]')).
+assert(celo(rangaltiĝi,'rang.pli0igxi','升职[shēng zhí],升職[shēng zhí]')).
+assert(celo(rangaltiĝi,'rang.pli0igxi','晉升[jìn shēng],晋升[jìn shēng]')).
+assert(celo(rangaltiĝi,'rang.pli0igxi','晉級[jìn jí],晋级[jìn jí]')).
+assert(celo(egalranga,'rang.sam0a','不相上下[bù xiāng shàng xià]')).
+assert(celo(egalranga,'rang.sam0a','同等[tóng děng]')).
+assert(celo('Ranguno','rangun.0o','仰光[Yǎng guāng]')).
+assert(celo(rankori,'rankor.0i','怨恨[yuàn hèn]')).
+assert(celo(rankori,'rankor.0i','埋怨[mán yuàn]')).
+assert(celo(rankoro,'rankor.0o','怨气[yuàn qì],怨氣[yuàn qì]')).
+assert(celo(rankoro,'rankor.0o','怨恨[yuàn hèn]')).
+assert(celo(rankoro,'rankor.0o','恨意[hèn yì]')).
+assert(celo(rankoro,'rankor.0o','怨[yuàn]')).
+assert(celo(ranunkolo,'ranunk.0o','茛[gèn]')).
+assert(celo(ranunkolacoj,'ranunk1.0oj','毛茛科[máo gèn kē]')).
