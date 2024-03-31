@@ -336,3 +336,128 @@ assert(celo(rankoro,'rankor.0o','恨意[hèn yì]')).
 assert(celo(rankoro,'rankor.0o','怨[yuàn]')).
 assert(celo(ranunkolo,'ranunk.0o','茛[gèn]')).
 assert(celo(ranunkolacoj,'ranunk1.0oj','毛茛科[máo gèn kē]')).
+assert(celo(rapo,'rap.0o','菔[fú]')).
+assert(celo(rapo,'rap.0o','菜头[cài tóu],菜頭[cài tóu]')).
+assert(celo(rapida,'rapid.0a','速[sù]')).
+assert(celo(rapida,'rapid.0a','迅[xùn]')).
+assert(celo(rapida,'rapid.0a','迅速[xùn sù]')).
+assert(celo(rapida,'rapid.0a','急驟[jí zhòu],急骤[jí zhòu]')).
+assert(celo(rapida,'rapid.0a','捷[jié]')).
+assert(celo(rapida,'rapid.0a','遫[sù]')).
+assert(celo(rapida,'rapid.0a','遽[jù]')).
+assert(celo(rapida,'rapid.0a','急速[jí sù]')).
+assert(celo(rapide,'','飛速[fēi sù],飞速[fēi sù]')).
+assert(celo(rapideco,'rapid.0eco','快[kuài]')).
+assert(celo(rapideco,'rapid.0eco','速[sù]')).
+assert(celo(rapideco,'rapid.0eco','快速[kuài sù]')).
+assert(celo(rapideco,'rapid.0eco','快慢[kuài màn]')).
+assert(celo(rapideco,'rapid.0eco','速度[sù dù]')).
+assert(celo(sagrapida,'rapid.0ega','凌厉[ling2lì],淩厲[ling2lì]')).
+assert(celo(sagrapida,'rapid.0ega.KOMUNE','倏然[shù rán]')).
+assert(celo(sagrapida,'rapid.0ega.KOMUNE','倏忽[shù hū]')).
+assert(celo(sagrapida,'rapid.0ega.KOMUNE','忽忽[hū hū]')).
+assert(celo(sagrapida,'rapid.0ega.KOMUNE','風馳電掣般地[fēng chí diàn chè bān dì],风驰电掣般地[fēng chí diàn chè bān dì]')).
+assert(celo(sagrapida,'rapid.0ega.KOMUNE','立即[lì jí]')).
+assert(celo(sagrapida,'rapid.0ega.KOMUNE','閃電般[shǎn diàn bān],闪电般[shǎn diàn bān]')).
+assert(celo(sagrapida,'rapid.0ega.KOMUNE','神速[shén sù]')).
+assert(celo(rapidi,'rapid.0i','赶[gǎn],趕[gǎn]')).
+assert(celo(rapidi,'rapid.0i','赶紧[gǎn jǐn],趕緊[gǎn jǐn]')).
+assert(celo(rapidi,'rapid.0i','赶赴[gǎn fù],趕赴[gǎn fù]')).
+assert(celo(rapidi,'rapid.0i','赶路[gǎn lù],趕路[gǎn lù]')).
+assert(celo(rapidi,'rapid.0i','趋[qū],趨[qū]')).
+assert(celo(plirapidigi,'rapid.0igi','加快[jiā kuài]')).
+assert(celo(plirapidigi,'rapid.0igi','加紧[jiā jǐn],加緊[jiā jǐn]')).
+assert(celo(plirapidigi,'rapid.0igi','提速[tí sù]')).
+assert(celo(plirapidigi,'rapid.0igi','驅使[qū shǐ],驱使[qū shǐ]')).
+assert(celo(plirapidigi,'','驅策[qū cè],驱策[qū cè]')).
+assert(celo(rapido,'rapid.0o','速度[sù dù]')).
+assert(celo(rapidumo,'rapid.0umo','排档[pái dǎng],排檔[pái dǎng]')).
+assert(celo(lumrapideco,'rapid.lum0o','光速[guāng sù]')).
+assert(celo(malrapida,'rapid.mal0a','緩[huǎn],缓[huǎn]')).
+assert(celo(malrapida,'rapid.mal0a','緩慢[huǎn màn],缓慢[huǎn màn]')).
+assert(celo(malrapida,'rapid.mal0a','徐[xú]')).
+assert(celo(malrapida,'rapid.mal0a','訥[nè],讷[nè]')).
+assert(celo(malrapida,'rapid.mal0a','縵[màn],缦[màn]')).
+assert(celo(malrapida,'rapid.mal0a','慢慢[màn màn]')).
+assert(celo(raporti,'raport.0i','匯報[huì bào],汇报[huì bào]')).
+assert(celo(raporti,'raport.0i','彙報[huì bào],汇报[huì bào]')).
+assert(celo(raportisto,'raport.0isto','記者[jì zhě],记者[jì zhě]')).
+assert(celo(raportisto,'raport.0isto','通訊員[tōng xùn yuán],通讯员[tōng xùn yuán]')).
+assert(celo(raportisto,'raport.0isto','採訪記者[cǎi fǎng jì zhě],采访记者[cǎi fǎng jì zhě]')).
+assert(celo(raportisto,'raport.0isto','報告者[bào gào zhě],报告者[bào gào zhě]')).
+assert(celo(raporto,'raport.0o','彙報[huì bào],汇报[huì bào]')).
+assert(celo(raporto,'raport.0o','報告[bào gào],报告[bào gào]')).
+assert(celo(raporto,'raport.0o','報[bào],报[bào]')).
+assert(celo(raporto,'raport.0o','報道[bào dào],报道[bào dào]')).
+assert(celo(misraporto,'raport.mis0o','假報告[jiǎ bào gào],假报告[jiǎ bào gào]')).
+assert(celo(misraporto,'raport.mis0o','虚假新闻[xū jiǎ xīn wén],虛假新聞[xū jiǎ xīn wén]')).
+assert(celo(misraporto,'raport.mis0o','虚报[xū bào],虛報[xū bào]')).
+assert(celo(misraporto,'raport.mis0o','誤傳[wù chuán],误传[wù chuán]')).
+assert(celo(misraporto,'raport.mis0o','謠言[yáo yán],谣言[yáo yán]')).
+assert(celo(rapsodo,'rapsod.0o','叙事诗朗诵者[xù shì shī lǎng sòng zhě],敘事詩朗誦者[xù shì shī lǎng sòng zhě]')).
+assert(celo(rapsodio,'rapsodi.0o','狂想曲[kuáng xiǎng qǔ]')).
+assert(celo(rapsodio,'rapsodi.0o','叙事诗[xù shì shī],敘事詩[xù shì shī]')).
+assert(celo(rapsodio,'rapsodi.0o','狂文[kuáng wén]')).
+assert(celo(rapsodio,'rapsodi.0o','叙事诗朗诵者[xù shì shī lǎng sòng zhě],敘事詩朗誦者[xù shì shī lǎng sòng zhě]')).
+retract(celo(rapsodio,'rapsodi.0o','叙事诗朗诵者[xù shì shī lǎng sòng zhě],敘事詩朗誦者[xù shì shī lǎng sòng zhě]')).
+assert(celo(rara,'rar.0a','罕見[hǎn jiàn],罕见[hǎn jiàn]')).
+assert(celo(rara,'rar.0a','稀少[xī shǎo]')).
+assert(celo(rara,'rar.0a','稀罕[xī han]')).
+assert(celo(rara,'rar.0a','罕[hǎn]')).
+assert(celo(rara,'rar.0a','难得一见[nán dé yī jiàn],難得一見[nán dé yī jiàn]')).
+assert(celo(rara,'rar.0a','难得[nán dé],難得[nán dé]')).
+assert(celo(rara,'rar.0a','玮[wěi],瑋[wěi]')).
+assert(celo(rara,'rar.0a','稀有[xī yǒu]')).
+assert(celo(rara,'rar.0a','名貴[míng guì],名贵[míng guì]')).
+assert(celo(raraĵo,'rar.0ajxo','稀罕[xī han]')).
+assert(celo(raraĵo,'rar.0ajxo','尤物[yóu wù]')).
+assert(celo(raraĵo,'rar.0ajxo','瑰宝[guī bǎo],瑰寶[guī bǎo]')).
+assert(celo(rare,'rar.0e','难得一见[nán dé yī jiàn],難得一見[nán dé yī jiàn]')).
+assert(celo(rare,'rar.0e','鮮少[xiǎn shǎo],鲜少[xiǎn shǎo]')).
+assert(celo(rasismo,'ras.0ismo','种族主义[zhǒng zú zhǔ yì],種族主義[zhǒng zú zhǔ yì]')).
+assert(celo(raso,'ras.0o','种族[zhǒng zú],種族[zhǒng zú]')).
+assert(celo(raso,'ras.0o','品种[pǐn zhǒng],品種[pǐn zhǒng]')).
+assert(celo(raso,'ras.0o','种[zhǒng],種[zhǒng]')).
+assert(celo(bonrasa,'ras.bon0a','良种[liáng zhǒng],良種[liáng zhǒng]')).
+assert(celo(miksrasulo,'ras.miks0ulo','杂种[zá zhǒng],雜種[zá zhǒng]')).
+assert(celo(miksrasulo,'ras.miks0ulo','混血儿[hùn xiě ér],混血兒[hùn xiě ér]')).
+assert(celo(miksrasulo,'ras.miks0ulo','混雪儿[hùn xuě ér],混雪兒[hùn xuě ér]')).
+assert(celo(purrasa,'ras.pur0a','純種[chún zhǒng],纯种[chún zhǒng]')).
+assert(celo(purrasa,'ras.pur0a','有來歷[yǒu lái lì],有来历[yǒu lái lì]')).
+assert(celo(purrasa,'ras.pur0a','良种[liáng zhǒng],良種[liáng zhǒng]')).
+assert(celo(purrasa,'ras.pur0a','純種犬[chún zhǒng quǎn],纯种犬[chún zhǒng quǎn]')).
+assert(celo(raspi,'rasp.0i','銼[cuò],锉[cuò]')).
+assert(celo(raspilo,'rasp.0ilo','銼[cuò],锉[cuò]')).
+assert(celo(raspilo,'rasp.0ilo','擦子[cā zi]')).
+assert(celo(rasti,'rast.0i','筢[pá]')).
+assert(celo(rastilo,'rast.0ilo','筢[pá]')).
+assert(celo(rastilo,'rast.0ilo','耙[pá]')).
+assert(celo(rastilo,'rast.0ilo','草耙[cǎo pá]')).
+assert(celo(rastri,'rastr.0i','鋤地[chú dì],锄地[chú dì]')).
+assert(celo(rastro,'rastr.0o','鋙[wú],铻[wú]')).
+assert(celo(rastrumero,'rastr.0umero','像素[xiàng sù]')).
+assert(celo(rastrumero,'rastr.0umero','像元[xiàng yuán]')).
+assert(celo(rastrumero,'rastr.0umero','象素点[xiàng sù diǎn],象素點[xiàng sù diǎn]')).
+assert(celo(rastrumo,'rastr.0umo','位图[wèi tú],位圖[wèi tú]')).
+assert(celo(rastrumo,'rastr.0umo','柵格[shān gé],栅格[shān gé]')).
+assert(celo(rastrumo,'rastr.0umo','網屏[wǎng píng],网屏[wǎng píng]')).
+assert(celo(rastrumo,'rastr.0umo','光柵[guāng zhà],光栅[guāng zhà]')).
+assert(celo(rato,'rat.0o','老鼠[lǎo shǔ]')).
+assert(celo(rato,'rat.0o','大鼠[dà shǔ]')).
+assert(celo(rato,'rat.0o','大家鼠[dà jiā shǔ]')).
+assert(celo(ratifiki,'ratif.0i','批准[pī zhǔn]')).
+assert(celo(raŭka,'rauxk.0a','嗄[shà]')).
+assert(celo(raŭka,'rauxk.0a','嘶哑[sī yǎ],嘶啞[sī yǎ]')).
+assert(celo(raŭka,'rauxk.0a','沙哑[shā yǎ],沙啞[shā yǎ]')).
+assert(celo(raŭka,'rauxk.0a','粗哑[cū yǎ],粗啞[cū yǎ]')).
+assert(celo(raŭka,'rauxk.0a','嘶哑声[sī yǎ shēng],嘶啞聲[sī yǎ shēng]')).
+assert(celo(raŭka,'rauxk.0a','乾澀[gān sè],干涩[gān sè]')).
+assert(celo(raŭka,'rauxk.0a','岔調[chà diào],岔调[chà diào]')).
+assert(celo(raŭndo,'rauxnd.0o','回合[huí hé]')).
+assert(celo(raŭpo,'rauxp.0o','毛毛虫[máo mao chóng],毛毛蟲[máo mao chóng]')).
+assert(celo(raŭpo,'rauxp.0o','蠋[zhú]')).
+assert(celo(raŭpo,'rauxp.0o','蛓[cì]')).
+assert(celo(raŭpaĵo,'rauxp.0veturilo','履带车辆[lǚ dài chē liàng],履帶車輛[lǚ dài chē liàng]')).
+assert(celo(silkraŭpo,'rauxp.silk0o','蟓[xiàng]')).
+assert(celo(silkraŭpo,'rauxp.silk0o','蠺[cán]')).
+assert(celo(silkraŭpo,'rauxp.silk0o','桑蚕[sāng cán],桑蠶[sāng cán]')).
