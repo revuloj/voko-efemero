@@ -732,3 +732,769 @@ assert(celo(registro,'regist.0o','名冊[míng cè],名册[míng cè]')).
 assert(celo(registro,'regist.0o','簿[bù]')).
 assert(celo(registro,'regist.0o','音域[yīn yù]')).
 assert(celo(registro,'regist.0o','簿冊[bù cè],簿册[bù cè]')).
+assert(celo(registrolibro,'regist.0olibro','簿[bù]')).
+assert(celo(registrolibro,'regist.0olibro','索引[suǒ yǐn]')).
+assert(celo(registrolibro,'regist.0olibro','目录[mù lù],目錄[mù lù]')).
+assert(celo(sonregistrilo,'regist.son0ilo','記錄器[jì lù qì],记录器[jì lù qì]')).
+assert(celo(sonregistrilo,'regist.son0ilo','录音机[lù yīn jī],錄音機[lù yīn jī]')).
+assert(celo(terenregistro,'regist.teren0o','簿冊[bù cè],簿册[bù cè]')).
+assert(celo(terenregistro,'regist.teren0o','地籍[dì jí]')).
+assert(celo(videoregistrilo,'regist.vide0ilo','摄影机[shè yǐng jī],攝影機[shè yǐng jī]')).
+assert(celo(videoregistrilo,'regist.vide0ilo','录像机[lù xiàng jī],錄像機[lù xiàng jī]')).
+assert(celo(videoregistrilo,'regist.vide0ilo','录影机[lù yǐng jī],錄影機[lù yǐng jī]')).
+assert(celo(reglamento,'reglament.0o','規則[guī zé],规则[guī zé]')).
+assert(celo(reglamento,'reglament.0o','規程[guī chéng],规程[guī chéng]')).
+assert(celo(reglamento,'reglament.0o','細則[xì zé],细则[xì zé]')).
+assert(celo(reglamento,'reglament.0o','守则[shǒu zé],守則[shǒu zé]')).
+assert(celo(reglamento,'reglament.0o','程[chéng]')).
+assert(celo(reglamento,'reglament.0o','指导路线[zhǐ dǎo lù xiàn],指導路線[zhǐ dǎo lù xiàn]')).
+assert(celo(regnestro,'regn.0estro','君[jūn]')).
+assert(celo(regnestro,'regn.0estro','君王[jūn wáng]')).
+assert(celo(regnestro,'regn.0estro','帝王[dì wáng]')).
+assert(celo(regno,'regn.0o','王国[wáng guó],王國[wáng guó]')).
+assert(celo(regresi,'regres.0i.malprogresi','走軟[zǒu ruǎn],走软[zǒu ruǎn]')).
+assert(celo(regresi,'regres.0i.malprogresi','退步[tuì bù]')).
+assert(celo(regresi,'regres.0i.malprogresi','重犯[zhòng fàn]')).
+assert(celo(regreso,'regres.0o','衰退[shuāi tuì]')).
+assert(celo(regreso,'regres.0o','倒退[dǎo tuì]')).
+assert(celo(regreso,'regres.0o','后退[hòu tuì],後退[hòu tuì]')).
+assert(celo(regula,'regul.0a','定期[dìng qī]')).
+assert(celo(regula,'regul.0a','有序[yǒu xù]')).
+assert(celo(regula,'regul.0a','正規[zhèng guī],正规[zhèng guī]')).
+assert(celo(regula,'regul.0a','規律性[guī lù: xìng],规律性[guī lù: xìng]')).
+assert(celo(regularo,'regul.0aro','章程[zhāng chéng]')).
+assert(celo(regularo,'regul.0aro','規程[guī chéng],规程[guī chéng]')).
+assert(celo(regularo,'regul.0aro','守则[shǒu zé],守則[shǒu zé]')).
+assert(celo(reguleco,'regul.0eco','周期性[zhōu qī xìng],週期性[zhōu qī xìng]')).
+assert(celo(reguleco,'regul.0eco','規則化[guī zé huà],规则化[guī zé huà]')).
+assert(celo(reguleco,'regul.0eco','規則性[guī zé xìng],规则性[guī zé xìng]')).
+assert(celo(regulesprimo,'regul.0esprimo','正则表达式[zhèng zé biǎo dá shì],正則表達式[zhèng zé biǎo dá shì]')).
+assert(celo(reguli,'regul.0igi','調節[tiáo jié],调节[tiáo jié]')).
+assert(celo(reguli,'regul.0igi','規管[guī guǎn],规管[guī guǎn]')).
+assert(celo(reguli,'regul.0igi','乂[ài]')).
+assert(celo(reguli,'regul.0igi','撙[zǔn]')).
+assert(celo(regulo,'regul.0o','規則[guī zé],规则[guī zé]')).
+assert(celo(regulo,'regul.0o','程[chéng]')).
+assert(celo(regulo,'regul.0o','規章[guī zhāng],规章[guī zhāng]')).
+assert(celo(regulo,'regul.0o','法则[fǎ zé],法則[fǎ zé]')).
+assert(celo(regulo,'regul.0o','法式[fǎ shì]')).
+assert(celo(regulo,'regul.0o','则[zé],則[zé]')).
+assert(celo(laŭregula,'regul.laux0a','正規[zhèng guī],正规[zhèng guī]')).
+assert(celo(laŭregula,'regul.laux0a','整洁干净[zhěng jié gān jìng],整潔乾淨[zhěng jié gān jìng]')).
+assert(celo(senregula,'regul.mal0a','不規範[bù guī fàn],不规范[bù guī fàn]')).
+assert(celo(senregula,'regul.mal0a','儳[chàn]')).
+assert(celo(senregula,'regul.mal0a','媮[tōu]')).
+assert(celo(senregula,'regul.mal0a','非正常[fēi zhèng cháng]')).
+assert(celo(trafikregularo,'regul.trafik0aro','安全法規[ān quán fǎ guī],安全法规[ān quán fǎ guī]')).
+assert(celo(trafikregularo,'regul.trafik0aro','道路交通規則[dào lù jiāo tōng guī zé],道路交通规则[dào lù jiāo tōng guī zé]')).
+assert(celo(trafikregularo,'regul.trafik0aro','交通法規[jiāo tōng fǎ guī],交通法规[jiāo tōng fǎ guī]')).
+assert(celo(regulatoro,'regula.0o','校准器[jiào zhǔn qì],校準器[jiào zhǔn qì]')).
+assert(celo(regulatoro,'regula.0o','稳定器[wěn dìng qì],穩定器[wěn dìng qì]')).
+assert(celo(reĝa,'regx.0a','皇家[huáng jiā]')).
+assert(celo(reĝa,'regx.0a','象王[xiàng wáng]')).
+assert(celo(reĝa,'regx.0a','君王[jūn wáng]')).
+assert(celo(reĝa,'regx.0a','威严[wēi yán],威嚴[wēi yán]')).
+assert(celo(reĝeco,'','主权[zhǔ quán],主權[zhǔ quán]')).
+assert(celo(reĝi,'regx.0i','王[wàng]')).
+assert(celo(reĝidino,'regx.0idino','公主[gōng zhǔ]')).
+assert(celo(reĝido,'regx.0ido','王子[wáng zǐ]')).
+assert(celo(reĝino,'regx.0ino','王后[wáng hòu]')).
+assert(celo(reĝino,'regx.0ino','女王[nǔ: wáng]')).
+assert(celo(reĝujo,'regx.0lando','王国[wáng guó],王國[wáng guó]')).
+assert(celo(reĝujo,'regx.0lando','界別[jiè bié],界别[jiè bié]')).
+assert(celo(reĝimo,'regxim.0o','政体[zhèng tǐ],政體[zhèng tǐ]')).
+assert(celo(reĝimo,'regxim.0o','政柄[zhèng bǐng]')).
+assert(celo(reĝimo,'regxim.0o','政权[zhèng quán],政權[zhèng quán]')).
+assert(celo(reĝisoro,'regxis.0o','导演[dǎo yǎn],導演[dǎo yǎn]')).
+assert(celo(reĝisoro,'regxis.0o','电影导演[diàn yǐng dǎo yǎn],電影導演[diàn yǐng dǎo yǎn]')).
+assert(celo(reĝistro,'regxistr.0o','寄存器[jì cún qì]')).
+assert(celo(reĝistro,'regxistr.0o','計數器[jì shù qì],计数器[jì shù qì]')).
+assert(celo(rehabiliti,'rehabilit.0i','起用[qǐ yòng]')).
+assert(celo(rehabiliti,'rehabilit.0i','放回原位[fàng huí yuán wèi]')).
+assert(celo(rehabiliti,'rehabilit.0i','重新設置[chóng xīn shè zhì],重新设置[chóng xīn shè zhì]')).
+assert(celo(rehabiliti,'rehabilit.0i','平反[píng fǎn]')).
+assert(celo(rehabiliti,'rehabilit.0i','使恢复名誉[shǐ huī fù míng yù],使恢復名譽[shǐ huī fù míng yù]')).
+assert(celo(rehabiliti,'rehabilit.0i','恢复[huī fù],恢復[huī fù]')).
+assert(celo('Rejkjaviko','rejkjavik.0o','雷克雅未克[Léi kè yǎ wèi kè]')).
+assert(celo('Rejkjaviko','rejkjavik.0o','雷克雅維克[Léi kè yǎ wéi kè],雷克雅维克[Léi kè yǎ wéi kè]')).
+assert(celo('Remso','rejms.0o','兰斯[Lán sī],蘭斯[Lán sī]')).
+assert(celo('Rejno','rejn.R0o','莱茵[lái yīn],萊茵[lái yīn]')).
+assert(celo('Rejno','rejn.R0o','莱茵河[Lái yīn Hé],萊茵河[Lái yīn Hé]')).
+assert(celo('Rejnland-Palatinato','rejnlandp.R0o','莱茵兰‐法尔茨州[lái yīn lán ‐ fǎ ěr cí zhōu],萊茵蘭‐法爾茨州[lái yīn lán ‐ fǎ ěr cí zhōu]')).
+assert(celo('Rejnland-Palatinato','rejnlandp.R0o','莱因普法尔兹州[lái yīn pǔ fǎ ěr zī zhōu],萊因普法爾茲州[lái yīn pǔ fǎ ěr zī zhōu]')).
+assert(celo(reko,'rek.0o','杠[gàng],槓[gàng]')).
+assert(celo(reklami,'reklam.0i','做广告[zuò guǎng gào],做廣告[zuò guǎng gào]')).
+assert(celo(reklami,'reklam.0i','推銷[tuī xiāo],推销[tuī xiāo]')).
+assert(celo(reklamilo,'reklam.0ilo','中間物[zhōng jiàn wù],中间物[zhōng jiàn wù]')).
+assert(celo(reklamilo,'reklam.0ilo','大众传媒[dà zhòng chuán méi],大眾傳媒[dà zhòng chuán méi]')).
+assert(celo(reklamilo,'reklam.0ilo','媒介物[méi jiè wù]')).
+assert(celo(reklamilo,'reklam.0ilo','广告媒介[guǎng gào méi jiè],廣告媒介[guǎng gào méi jiè]')).
+assert(celo(reklamilo,'reklam.0ilo','通訊媒體[tōng xùn méi tǐ],通讯媒体[tōng xùn méi tǐ]')).
+assert(celo(reklamilo,'reklam.0ilo','灵媒[líng méi],靈媒[líng méi]')).
+assert(celo(reklamo,'reklam.0o','广告[guǎng gào],廣告[guǎng gào]')).
+assert(celo(reklamo,'reklam.0o','平面广告[píng miàn guǎng gào],平面廣告[píng miàn guǎng gào]')).
+assert(celo(reklamacii,'reklamaci.0i','索賠[suǒ péi],索赔[suǒ péi]')).
+assert(celo(reklamacio,'reklamaci.0o','索賠[suǒ péi],索赔[suǒ péi]')).
+assert(celo(reklamacio,'reklamaci.0o','投訴[tóu sù],投诉[tóu sù]')).
+assert(celo(rekomendi,'rekome.0i','推荐[tuī jiàn],推薦[tuī jiàn]')).
+assert(celo(rekomendi,'rekome.0i','荐[jiàn],薦[jiàn]')).
+assert(celo(rekomendi,'rekome.0i','建議[jiàn yì],建议[jiàn yì]')).
+assert(celo(rekomendi,'rekome.0i','推介[tuī jiè]')).
+assert(celo(rekomendi,'rekome.0i','先容[xiān róng]')).
+assert(celo(rekomendo,'rekome.0o','建議[jiàn yì],建议[jiàn yì]')).
+assert(celo(rekomendo,'rekome.0o','推荐[tuī jiàn],推薦[tuī jiàn]')).
+assert(celo(rekomendo,'rekome.0o','哗然[huá rán],譁然[huá rán]')).
+retract(celo(rekomendo,'rekome.0o','哗然[huá rán],譁然[huá rán]')).
+assert(celo(malrekomendi,'rekome.mal0i','劝阻[quàn zǔ],勸阻[quàn zǔ]')).
+assert(celo(rekompenci,'rekomp.0i.io','奖[jiǎng],獎[jiǎng]')).
+assert(celo(rekompenci,'rekomp.0i.io','打賞[dǎ shǎng],打赏[dǎ shǎng]')).
+assert(celo(rekompenci,'rekomp.0i.iu','奖励[jiǎng lì],獎勵[jiǎng lì]')).
+assert(celo(rekompenci,'rekomp.0i.iu','犒賞[kào shǎng],犒赏[kào shǎng]')).
+assert(celo(rekompenci,'rekomp.0i.iu','鯠[lái]')).
+assert(celo(rekompenco,'rekomp.0o','回報[huí bào],回报[huí bào]')).
+assert(celo(rekompenco,'rekomp.0o','賞金[shǎng jīn],赏金[shǎng jīn]')).
+assert(celo(rekompenco,'rekomp.0o','薪酬[xīn chóu]')).
+assert(celo(rekordo,'rekord.0o','記錄[jì lù],记录[jì lù]')).
+assert(celo(rekordo,'rekord.0o','紀錄[jì lù],纪录[jì lù]')).
+assert(celo(rekrutigi,'rekrut.0igi','招募[zhāo mù]')).
+assert(celo(rekrutigi,'rekrut.0igi','招聘[zhāo pìn]')).
+assert(celo(rekrutigi,'rekrut.0igi','征才[zhēng cái],徵才[zhēng cái]')).
+assert(celo(rekrutigi,'rekrut.0igi','招人[zhāo rén]')).
+assert(celo(rekrutigi,'rekrut.0igi','募[mù]')).
+assert(celo(rekrutigi,'rekrut.0igi','招請[zhāo qǐng],招请[zhāo qǐng]')).
+assert(celo(rekrutigi,'rekrut.0igi','招录[zhāo lù],招錄[zhāo lù]')).
+assert(celo(rekruto,'rekrut.0o.MIL','新兵[xīn bīng]')).
+assert(celo(rekta,'rekt.0a','一径[yī jìng],一徑[yī jìng]')).
+assert(celo(rekta,'rekt.0a','俓[jìng],𠇹[jìng]')).
+assert(celo(rekta,'rekt.0a','挺[tǐng]')).
+assert(celo(rekta,'rekt.0a','照直[zhào zhí]')).
+assert(celo(rekta,'rekt.0a','直截了当[zhí jié liǎo dàng],直截了當[zhí jié liǎo dàng]')).
+assert(celo(rekta,'rekt.0a','直接[zhí jiē]')).
+assert(celo(rekta,'rekt.0a','迳直[jìng zhí],逕直[jìng zhí]')).
+assert(celo(rektigi,'rekt.0igi.TIP','对准[duì zhǔn],對準[duì zhǔn]')).
+assert(celo(rektigi,'rekt.0igi.TIP','排直[pái zhí]')).
+assert(celo(rektigi,'rekt.0igi.TIP','調直[diào zhí],调直[diào zhí]')).
+assert(celo(rektigilo,'rekt.0igilo','整流器[zhěng liú qì]')).
+assert(celo(rektigilo,'rekt.0igilo','拉直者[lā zhí zhě]')).
+assert(celo(rektigilo,'rekt.0igilo','改革者[gǎi gé zhě]')).
+assert(celo(rektigilo,'rekt.0igilo','矫正者[jiǎo zhèng zhě],矯正者[jiǎo zhèng zhě]')).
+retract(celo(rektigi,'rekt.0igi.TIP','調直[diào zhí],调直[diào zhí]')).
+retract(celo(rektigi,'rekt.0igi.TIP','排直[pái zhí]')).
+assert(celo(rektilo,'rekt.0ilo','直尺[zhí chǐ]')).
+assert(celo(rektilo,'rekt.0ilo','尺子[chǐ zi]')).
+assert(celo(rekto,'rekt.0o','直線[zhí xiàn],直线[zhí xiàn]')).
+assert(celo(duonrekto,'rekt.duon0o','射線[shè xiàn],射线[shè xiàn]')).
+assert(celo(duonrekto,'rekt.duon0o','半直線[bàn zhí xiàn],半直线[bàn zhí xiàn]')).
+assert(celo(duonrekto,'rekt.duon0o','半線[bàn xiàn],半线[bàn xiàn]')).
+assert(celo(elrektiĝi,'rekt.el0igxi','挺身[tǐng shēn]')).
+assert(celo('eŭlera rekto','rekt.euxlera0o','欧拉线[ōu lā xiàn],歐拉線[ōu lā xiàn]')).
+assert(celo(malrekta,'rekt.mal0a','曲[qū]')).
+assert(celo(malrekta,'rekt.mal0a','踠[wǎn]')).
+assert(celo(malrekta,'rekt.mal0a','間接[jiàn jiē],间接[jiàn jiē]')).
+assert(celo(malrekta,'rekt.mal0a','骫[wěi]')).
+assert(celo(malrekta,'rekt.mal0a','棩[yuān]')).
+assert(celo(nerekta,'rekt.ne0a','間接[jiàn jiē],间接[jiàn jiē]')).
+assert(celo(samrekta,'rekt.sam0a','共線[gòng xiàn],共线[gòng xiàn]')).
+assert(celo(rektifi,'','精餾[jīng liù],精馏[jīng liù]')).
+assert(celo(rektifilo,'rektif.0ilo','拉直者[lā zhí zhě]')).
+assert(celo(rektifilo,'rektif.0ilo','改革者[gǎi gé zhě]')).
+assert(celo(rektifilo,'rektif.0ilo','矫正者[jiǎo zhèng zhě],矯正者[jiǎo zhèng zhě]')).
+assert(celo(rektoro,'rektor.0o','教区长[jiào qū cháng],教區長[jiào qū cháng]')).
+assert(celo(rektumo,'rektum.0o','直肠[zhí cháng],直腸[zhí cháng]')).
+assert(celo(rektumo,'rektum.0o','肛門直腸[gāng mén zhí cháng],肛门直肠[gāng mén zhí cháng]')).
+assert(celo(rekursia,'rekursi.0a','递推[dì tuī],遞推[dì tuī]')).
+assert(celo(rekursia,'rekursi.0a','递归[dì guī],遞歸[dì guī]')).
+assert(celo(rekursio,'rekursi.0o','递推[dì tuī],遞推[dì tuī]')).
+assert(celo(rekursio,'rekursi.0o','递归[dì guī],遞歸[dì guī]')).
+assert(celo('parta rekursia funkcio','rekursi.mu0afunkcio','机能[jī néng],機能[jī néng]')).
+retract(celo('parta rekursia funkcio','rekursi.mu0afunkcio','机能[jī néng],機能[jī néng]')).
+assert(celo(rekviemo,'rekvie.0o','安魂弥撒[ān hún mí sǎ],安魂彌撒[ān hún mí sǎ]')).
+assert(celo(rekvizicio,'rekviz.0o','申請單[shēn qǐng dān],申请单[shēn qǐng dān]')).
+assert(celo(rekvizito,'rekvizit.0o','道具[dào jù]')).
+assert(celo(rekvizito,'rekvizit.0o','切末[qiè mo]')).
+assert(celo(rekvizito,'rekvizit.0o','必要物品[bì yào wù pǐn]')).
+assert(celo(rekvizito,'rekvizit.0o','需要品[xū yào pǐn]')).
+assert(celo(rekvizito,'rekvizit.0o','非要不可[fēi yào bu kě]')).
+assert(celo(relo,'rel.0o','軌[guǐ],轨[guǐ]')).
+assert(celo(relo,'rel.0o','鋼軌[gāng guǐ],钢轨[gāng guǐ]')).
+assert(celo(relo,'rel.0o','鐵軌[tiě guǐ],铁轨[tiě guǐ]')).
+assert(celo(relajo,'relajs.0o','繼電器[jì diàn qì],继电器[jì diàn qì]')).
+assert(celo(relajo,'relajs.0o','繼電器開關[jì diàn qì kāi guān],继电器开关[jì diàn qì kāi guān]')).
+assert(celo(relativa,'relati.0a','相对[xiāng duì],相對[xiāng duì]')).
+assert(celo(relativa,'relati.0a','較為[jiào wéi],较为[jiào wéi]')).
+assert(celo(relativismo,'relati.0ismo','相对主义[xiāng duì zhǔ yì],相對主義[xiāng duì zhǔ yì]')).
+assert(celo(relegacii,'relegaci.0i','赶走[gǎn zǒu],趕走[gǎn zǒu]')).
+assert(celo(relegacii,'relegaci.0i','放逐[fàng zhú]')).
+assert(celo(relegacii,'relegaci.0i','发配[fā pèi],發配[fā pèi]')).
+assert(celo(malaltreliefo,'relief.malalt0o','浅浮雕[qiǎn fú diāo],淺浮雕[qiǎn fú diāo]')).
+assert(celo(senreliefa,'relief.sen0a','平[píng]')).
+assert(celo(senreliefa,'relief.sen0a','平坦[píng tǎn]')).
+assert(celo(religia,'religi.0a','虔誠[qián chéng],虔诚[qián chéng]')).
+assert(celo(religio,'religi.0o','宗教[zōng jiào]')).
+assert(celo(religio,'religi.0o','教[jiào]')).
+assert(celo(religia,'','信教[xìn jiào]')).
+assert(celo(relikvo,'relikv.0o','剩餘物[shèng yú wù],剩馀物[shèng yú wù]')).
+assert(celo(relikvo,'relikv.0o','圣人的遗物[shèng rén de yí wù],聖人的遺物[shèng rén de yí wù]')).
+assert(celo(relikvo,'relikv.0o','圣骨[shèng gǔ],聖骨[shèng gǔ]')).
+assert(celo(relikvo,'relikv.0o','遗宝[yí bǎo],遺寶[yí bǎo]')).
+assert(celo(relikto,'','遗风[yí fēng],遺風[yí fēng]')).
+assert(celo(relikto,'','遗迹[yí jī],遺跡[yí jī]')).
+assert(celo(remi,'rem.0i','划船[huá chuán]')).
+assert(celo(remi,'rem.0i','一排[yī pái]')).
+assert(celo(remi,'rem.0i','划桨[huà jiǎng],劃槳[huà jiǎng]')).
+assert(celo(remi,'rem.0i','楫[jí]')).
+assert(celo(remilo,'rem.0ilo','枻[yì]')).
+assert(celo(remilo,'rem.0ilo','桨[jiǎng],槳[jiǎng]')).
+assert(celo(remilo,'rem.0ilo','楫[jí]')).
+assert(celo(postremilo,'rem.post0ilo','棹[zhào],櫂[zhào]')).
+assert(celo(remburi,'rembur.0i.KOMUNE','塞满[sāi mǎn],塞滿[sāi mǎn]')).
+assert(celo(remburi,'rembur.0i.KOMUNE','垫[diàn],墊[diàn]')).
+assert(celo(remizo,'remiz.0o','車庫[chē kù],车库[chē kù]')).
+assert(celo(remizo,'remiz.0o','船棚[chuán péng]')).
+assert(celo(remizo,'remiz.0o','車房[chē fáng],车房[chē fáng]')).
+assert(celo(remorki,'remork.0i','拖行[tuō xíng]')).
+assert(celo(remorki,'remork.0i','牵引[qiān yǐn],牽引[qiān yǐn]')).
+assert(celo(remorko,'remork.0o','拖車[tuō chē],拖车[tuō chē]')).
+assert(celo(remorko,'remork.0o','挂车[guà chē],掛車[guà chē]')).
+assert(celo(remparo,'rempar.0o','壁[bì]')).
+assert(celo(remparo,'rempar.0o','筑城[zhù chéng],築城[zhù chéng]')).
+assert(celo(reno,'ren.0o','肾脏[shèn zàng],腎臟[shèn zàng]')).
+assert(celo(reno,'ren.0o','肾[shèn],腎[shèn]')).
+assert(celo(reno,'ren.0o','腰子[yāo zi]')).
+assert(celo(rendevui,'rendev.0i','約會[yuē huì],约会[yuē huì]')).
+assert(celo(rendevui,'rendev.0i','約見[yuē jiàn],约见[yuē jiàn]')).
+assert(celo(rendevui,'rendev.0i','相約[xiāng yuē],相约[xiāng yuē]')).
+assert(celo(rendevui,'rendev.0i','預約[yù yuē],预约[yù yuē]')).
+assert(celo(rendevui,'rendev.0i','約[yuē],约[yuē]')).
+assert(celo(rendevuo,'rendev.0o','約會[yuē huì],约会[yuē huì]')).
+assert(celo(rendevuo,'rendev.0o','幽会[yōu huì],幽會[yōu huì]')).
+assert(celo(rendevuo,'rendev.0o','約[yuē],约[yuē]')).
+assert(celo(rendevuo,'rendev.0o','預約[yù yuē],预约[yù yuē]')).
+assert(celo(rendimenta,'rendiment.0a','裨[bì]')).
+assert(celo(rendimenta,'rendiment.0a','有効[yǒu xiào],有效[yǒu xiào]')).
+assert(celo(rendimenta,'rendiment.0a','有利可图[yǒu lì kě tú],有利可圖[yǒu lì kě tú]')).
+assert(celo(rendimento,'rendiment.0o','效率[xiào lù:]')).
+assert(celo(rendimento,'rendiment.0o','功效[gōng xiào]')).
+assert(celo(rendimento,'rendiment.0o','效益[xiào yì]')).
+assert(celo(rendimento,'rendiment.0o','投資回報[tóu zī huí bào],投资回报[tóu zī huí bào]')).
+assert(celo(rendimento,'rendiment.0o','产量[chǎn liàng],產量[chǎn liàng]')).
+assert(celo(altrendimenta,'rendiment.alt0a','高产[gāo chǎn],高產[gāo chǎn]')).
+assert(celo(renegato,'renega.0o','逆賊[nì zéi],逆贼[nì zéi]')).
+assert(celo(renegato,'renega.0o','变节者[biàn jié zhě],變節者[biàn jié zhě]')).
+assert(celo(renesanco,'renesa.0o','文艺复兴[Wén yì fù xīng],文藝復興[Wén yì fù xīng]')).
+assert(celo(renesanco,'renesa.0o','文艺复兴时期[wén yì fù xīng shí qī],文藝復興時期[wén yì fù xīng shí qī]')).
+assert(celo(renesanco,'renesa.0o','复兴时代[Fù xīng Shí dài],復興時代[Fù xīng Shí dài]')).
+assert(celo(renio,'reni.0o','錸[lái],铼[lái]')).
+assert(celo(renkonti,'renkon.0i','相遇[xiāng yù]')).
+assert(celo(renkonti,'renkon.0i','碰上[pèng shàng]')).
+assert(celo(renkonti,'renkon.0i','碰面[pèng miàn]')).
+assert(celo(renkonti,'renkon.0i','遇[yù]')).
+assert(celo(renkonti,'renkon.0i','遇見[yù jiàn],遇见[yù jiàn]')).
+assert(celo(renkonti,'renkon.0i','遭遇[zāo yù]')).
+assert(celo(renkonti,'','相会[xiāng huì],相會[xiāng huì]')).
+assert(celo(renkontiĝi,'renkon.0igxikun','巧合[qiǎo hé]')).
+assert(celo(renkontiĝi,'renkon.0igxikun','相遇[xiāng yù]')).
+assert(celo(renkontiĝi,'renkon.0igxikun','相会[xiāng huì],相會[xiāng huì]')).
+assert(celo(renkontiĝo,'renkon.0igxo','碰面[pèng miàn]')).
+assert(celo(renkontiĝo,'renkon.0igxo','会面[huì miàn],會面[huì miàn]')).
+assert(celo(renkontiĝo,'renkon.0igxo','相会[xiāng huì],相會[xiāng huì]')).
+assert(celo(renkontiĝo,'renkon.0igxo','碰头[pèng tóu],碰頭[pèng tóu]')).
+assert(celo(renkontiĝo,'renkon.0igxo.kunokazo','約會[yuē huì],约会[yuē huì]')).
+assert(celo(renkonto,'renkon.0o','会晤[huì wù],會晤[huì wù]')).
+assert(celo(renkonto,'renkon.0o','偶遇[ǒu yù]')).
+assert(celo(renkonto,'renkon.0o','相遇[xiāng yù]')).
+assert(celo(renkonto,'renkon.0o','相会[xiāng huì],相會[xiāng huì]')).
+assert(celo(renkonto,'renkon.0o','自会[zì huì],自會[zì huì]')).
+assert(celo(renminbio,'renminbi.0o','人民币[rén mín bì],人民幣[rén mín bì]')).
+assert(celo(renoma,'renom.0a','有声望[yǒu shēng wàng],有聲望[yǒu shēng wàng]')).
+assert(celo(renoma,'renom.0a','夸口[kuā kǒu],誇口[kuā kǒu]')).
+assert(celo(renoma,'renom.0a','久盛不衰[jiǔ shèng bù shuāi]')).
+assert(celo(renoma,'renom.0a','受到尊敬[shòu dào zūn jìng]')).
+assert(celo(renoma,'renom.0a','可敬[kě jìng]')).
+assert(celo(renoma,'renom.0a','有声誉[yǒu shēng yù],有聲譽[yǒu shēng yù]')).
+assert(celo(renomo,'renom.0o','名气[míng qì],名氣[míng qì]')).
+assert(celo(renomo,'renom.0o','名望[míng wàng]')).
+assert(celo(renomo,'renom.0o','盛誉[shèng yù],盛譽[shèng yù]')).
+assert(celo(rento,'rent.0o','年金[nián jīn]')).
+assert(celo(rento,'rent.0o','利润率[lì rùn lǜ],利潤率[lì rùn lǜ]')).
+assert(celo(rentgenio,'rentgeni.0o','錀[lún]')).
+assert(celo(renversaĵo,'renver.0ajxo.permuto','乱序[luàn xù],亂序[luàn xù]')).
+assert(celo(renversi,'renver.0i','掀翻[xiān fān]')).
+assert(celo(renversi,'renver.0i','倾[qīng],傾[qīng]')).
+assert(celo(renversi,'renver.0i','偾[fèn],僨[fèn]')).
+assert(celo(mondrenversa,'renver.mond0a','革命性[gé mìng xìng]')).
+assert(celo(ŝtatrenverso,'renver.sxtat0o','政变[zhèng biàn],政變[zhèng biàn]')).
+assert(celo(repertuaro,'repert.0o','保留剧目[bǎo liú jù mù],保留劇目[bǎo liú jù mù]')).
+assert(celo(repertuaro,'repert.0o','剧目[jù mù],劇目[jù mù]')).
+assert(celo(repertuaro,'repert.0o','彙編[huì biān],汇编[huì biān]')).
+assert(celo(repetitoro,'repetitor.0o','家教[jiā jiào]')).
+assert(celo(repetitoro,'repetitor.0o','家庭教师[jiā tíng jiào shī],家庭教師[jiā tíng jiào shī]')).
+assert(celo(repliki,'replik.0i','回答[huí dá]')).
+assert(celo(repliki,'replik.0i','应对[yìng duì],應對[yìng duì]')).
+assert(celo(repliki,'replik.0i','酬对[chóu duì],酬對[chóu duì]')).
+assert(celo(repliki,'replik.0i','应答[yìng dá],應答[yìng dá]')).
+assert(celo(reportero,'reporter.0o','記者[jì zhě],记者[jì zhě]')).
+assert(celo(represii,'represi.0i','压制[yā zhì],壓制[yā zhì]')).
+assert(celo(represii,'represi.0i','鎮壓[zhèn yā],镇压[zhèn yā]')).
+assert(celo(reprezalii,'reprezali.0i','報復[bào fù],报复[bào fù]')).
+assert(celo(reprezalio,'reprezali.0o.JUR','報復[bào fù],报复[bào fù]')).
+assert(celo(reprezentanto,'reprezent.0anto','代表[dài biǎo]')).
+assert(celo(reprezentanto,'reprezent.0anto','代理[dài lǐ]')).
+assert(celo(reprezentejo,'reprezent.0ejo','派出机构[pái chū jī gòu]')).
+assert(celo(reprezenti,'reprezent.0i','代表[dài biǎo]')).
+assert(celo(klasreprezentanto,'reprezent.klas0anto','班代[bān dài]')).
+assert(celo(klasreprezentanto,'reprezent.klas0anto','班長[bān zhǎng],班长[bān zhǎng]')).
+assert(celo(reptilio,'reptil.0o','爬虫[pá chóng],爬蟲[pá chóng]')).
+assert(celo(reptilio,'reptil.0o','爬虫类[pá chóng lèi],爬蟲類[pá chóng lèi]')).
+assert(celo(reptilio,'reptil.0o','爬行类[pá xíng lèi],爬行類[pá xíng lèi]')).
+assert(celo(reptilioj,'reptil.0oj','爬行动物[pá xíng dòng wù],爬行動物[pá xíng dòng wù]')).
+assert(celo(repudii,'repudi.0i','分手[fēn shǒu]')).
+assert(celo(reputacio,'reputa.0o','声誉[shēng yù],聲譽[shēng yù]')).
+assert(celo(reputacio,'reputa.0o','誉[yù],譽[yù]')).
+assert(celo(reputacio,'reputa.0o','名誉[míng yù],名譽[míng yù]')).
+assert(celo(reputacio,'reputa.0o','信誉[xìn yù],信譽[xìn yù]')).
+assert(celo(reputacio,'reputa.0o','名声[míng shēng],名聲[míng shēng]')).
+assert(celo(reputacio,'reputa.0o','名头[míng tou],名頭[míng tou]')).
+assert(celo(resonanco,'resona.0o','共鳴[gòng míng],共鸣[gòng míng]')).
+assert(celo(resonanco,'resona.0o','共振[gòng zhèn]')).
+assert(celo(resonanco,'resona.0o','諧振[xié zhèn],谐振[xié zhèn]')).
+assert(celo(respekta,'respek.0a','恭敬[gōng jìng]')).
+assert(celo(respekta,'respek.0a','恭[gōng]')).
+assert(celo(respekta,'respek.0a','肃[sù],肅[sù]')).
+assert(celo(respektege,'respek.0ege','恭敬[gōng jìng]')).
+assert(celo(respektege,'respek.0ege','肃然起敬[sù rán qǐ jìng],肅然起敬[sù rán qǐ jìng]')).
+assert(celo(respektegi,'respek.0egi','尊崇[zūn chóng]')).
+assert(celo(respektego,'respek.0ego','敬意[jìng yì]')).
+assert(celo(respektego,'respek.0ego','敬畏[jìng wèi]')).
+assert(celo(respekti,'respek.0i','翊[yì]')).
+assert(celo(respektinda,'respek.0inda','尊貴[zūn guì],尊贵[zūn guì]')).
+assert(celo(respektinda,'respek.0inda','本本分分[běn běn fèn fèn]')).
+assert(celo(respektinda,'respek.0inda','可敬[kě jìng]')).
+assert(celo(respekto,'respek.0o','敬意[jìng yì]')).
+assert(celo(respekto,'respek.0o','崇敬[chóng jìng]')).
+assert(celo(respekto,'respek.0o','尊重[zūn zhòng]')).
+assert(celo(malrespekti,'respek.mal0i','藐視[miǎo shì],藐视[miǎo shì]')).
+assert(celo(malrespekti,'respek.mal0i','鄙夷[bǐ yí]')).
+assert(celo(malrespekti,'respek.mal0i','鄙賤[bǐ jiàn],鄙贱[bǐ jiàn]')).
+assert(celo(malrespekti,'respek.mal0i','冒渎[mào dú],冒瀆[mào dú]')).
+assert(celo(malrespekti,'respek.mal0i','輕侮[qīng wǔ],轻侮[qīng wǔ]')).
+assert(celo(malrespekti,'respek.mal0i','小視[xiǎo shì],小视[xiǎo shì]')).
+assert(celo(malrespekti,'respek.mal0i','小覷[xiǎo qù],小觑[xiǎo qù]')).
+assert(celo(malrespekti,'respek.mal0i','看不起[kàn bu qǐ]')).
+assert(celo(malrespekti,'respek.mal0i','菲薄[fěi bó]')).
+assert(celo(malrespekti,'respek.mal0i','蔑視[miè shì],蔑视[miè shì]')).
+assert(celo(malrespekta,'','渎[dú],瀆[dú]')).
+assert(celo(memrespekto,'respek.mem0o','自尊[zì zūn]')).
+assert(celo(memrespekto,'respek.mem0o','自尊心[zì zūn xīn]')).
+assert(celo(memrespekto,'respek.mem0o','自愛[zì ài],自爱[zì ài]')).
+assert(celo('senrespekte al','respek.sen0eal','毫无顾虑[háo wú gù lǜ],毫無顧慮[háo wú gù lǜ]')).
+assert(celo(respektiva,'respek1.0a','各自[gè zì]')).
+assert(celo(responda,'','对应[duì yìng],對應[duì yìng]')).
+assert(celo(respondeco,'respon.0eco.intera','相等物[xiāng děng wù]')).
+assert(celo(respondeco,'respon.0eco.responso','职责[zhí zé],職責[zhí zé]')).
+assert(celo(respondeco,'respon.0eco.responso','責任[zé rèn],责任[zé rèn]')).
+assert(celo(respondeco,'respon.0eco.responso','干係[gān xì],干系[gān xì]')).
+assert(celo(respondeco,'respon.0eco.responso','荷[hè]')).
+assert(celo(respondeco,'respon.0eco.responso','說明原因[shuō míng yuán yīn],说明原因[shuō míng yuán yīn]')).
+assert(celo(respondi,'respon.0i','回答[huí dá]')).
+assert(celo(respondi,'respon.0i','解答[jiě dá]')).
+assert(celo(respondi,'respon.0i','响应[xiǎng yìng],響應[xiǎng yìng]')).
+assert(celo(respondi,'respon.0i','作答[zuò dá]')).
+assert(celo(respondi,'respon.0i','搭白[dā bái]')).
+assert(celo(respondi,'respon.0i','答[dá]')).
+assert(celo(respondi,'respon.0i','酬对[chóu duì],酬對[chóu duì]')).
+assert(celo(respondi,'respon.0i','应[yìng],應[yìng]')).
+assert(celo(respondi,'respon.0i','回信[huí xìn]')).
+assert(celo(respondi,'respon.0i','回应[huí yìng],回應[huí yìng]')).
+assert(celo(respondi,'respon.0i','应对[yìng duì],應對[yìng duì]')).
+assert(celo(respondi,'respon.0i.lauxi','符合[fú hé]')).
+assert(celo(respondi,'respon.0i.lauxi','相匹配[xiāng pī pèi]')).
+assert(celo(respondi,'respon.0i.reagi','响应[xiǎng yìng],響應[xiǎng yìng]')).
+assert(celo(respondi,'respon.0i.reagi','接[jiē]')).
+assert(celo(respondi,'respon.0i.responsi','可加解說[kě jiā jiě shuō],可加解说[kě jiā jiě shuō]')).
+assert(celo(respondi,'respon.0i.responsi','可說明[kě shuō míng],可说明[kě shuō míng]')).
+assert(celo(respondi,'respon.0i.responsi','职责[zhí zé],職責[zhí zé]')).
+assert(celo(respondaparato,'respon.0ilo.aparato','答录机[dá lù jī],答錄機[dá lù jī]')).
+assert(celo(respondaparato,'respon.0ilo.aparato','自动答应录音电话[zì dòng dá yìng lù yīn diàn huà],自動答應錄音電話[zì dòng dá yìng lù yīn diàn huà]')).
+assert(celo(respondaparato,'respon.0ilo.aparato','电话应答器[diàn huà yìng dā qì],電話應答器[diàn huà yìng dā qì]')).
+assert(celo(respondaparato,'respon.0ilo.aparato','电话应答机[diàn huà yìng dā jī],電話應答機[diàn huà yìng dā jī]')).
+assert(celo(respondaparato,'respon.0ilo.aparato','电话答录机[diàn huà dā lù jī],電話答錄機[diàn huà dā lù jī]')).
+assert(celo(respondaparato,'respon.0ilo.aparato','留言应答机[liú yán yìng dá jī],留言應答機[liú yán yìng dá jī]')).
+assert(celo(respondo,'respon.0o','回答[huí dá]')).
+assert(celo(respondo,'respon.0o','解答[jiě dá]')).
+assert(celo(respondo,'respon.0o','答[dá]')).
+assert(celo(respondo,'respon.0o','答案[dá àn]')).
+assert(celo(respondo,'respon.0o','回应[huí yìng],回應[huí yìng]')).
+assert(celo(respondo,'respon.0o','回話[huí huà],回话[huí huà]')).
+assert(celo(respondo,'respon.0o','应对[yìng duì],應對[yìng duì]')).
+assert(celo(respondo,'respon.0o','回覆[huí fù]')).
+assert(celo(responduma,'respon.pri0a0eca0uma','負責任[fù zé rèn],负责任[fù zé rèn]')).
+assert(celo(responduma,'respon.pri0a0eca0uma','主掌[zhǔ zhǎng]')).
+assert(celo(responduma,'respon.pri0a0eca0uma','有肩膀[yǒu jiān bǎng]')).
+assert(celo(responduma,'respon.pri0a0eca0uma','有責任[yǒu zé rèn],有责任[yǒu zé rèn]')).
+assert(celo(responduma,'respon.pri0a0eca0uma','主管[zhǔ guǎn]')).
+assert(celo(prirespondi,'respon.pri0i.responsi','职责[zhí zé],職責[zhí zé]')).
+assert(celo(prirespondi,'respon.pri0i.responsi','說明原因[shuō míng yuán yīn],说明原因[shuō míng yuán yīn]')).
+assert(celo(prirespondi,'respon.pri0i.responsi','可加解說[kě jiā jiě shuō],可加解说[kě jiā jiě shuō]')).
+assert(celo(prirespondi,'respon.pri0i.responsi','可說明[kě shuō míng],可说明[kě shuō míng]')).
+assert(celo(responduma,'','負有會計責任[fù yǒu kuài jì zé rèn],负有会计责任[fù yǒu kuài jì zé rèn]')).
+assert(celo(responduma,'','应负责[yìng fù zé],應負責[yìng fù zé]')).
+assert(celo(responduma,'','有責任[yǒu zé rèn],有责任[yǒu zé rèn]')).
+assert(celo(responsa,'respons.0a','主管[zhǔ guǎn]')).
+assert(celo(responsa,'respons.0a','职责[zhí zé],職責[zhí zé]')).
+assert(celo(responsa,'respons.0a','有責任[yǒu zé rèn],有责任[yǒu zé rèn]')).
+assert(celo(responsa,'respons.0a','主掌[zhǔ zhǎng]')).
+assert(celo(responsa,'respons.0a','可加解說[kě jiā jiě shuō],可加解说[kě jiā jiě shuō]')).
+assert(celo(responsa,'respons.0a','可說明[kě shuō míng],可说明[kě shuō míng]')).
+assert(celo(responsa,'respons.0a','說明原因[shuō míng yuán yīn],说明原因[shuō míng yuán yīn]')).
+assert(celo(responsi,'respons.0i','負有[fù yǒu],负有[fù yǒu]')).
+assert(celo(responsi,'respons.0i','职责[zhí zé],職責[zhí zé]')).
+assert(celo(responsi,'respons.0i','說明原因[shuō míng yuán yīn],说明原因[shuō míng yuán yīn]')).
+assert(celo(responsi,'respons.0i','負責任[fù zé rèn],负责任[fù zé rèn]')).
+assert(celo(responsi,'respons.0i','負責[fù zé],负责[fù zé]')).
+assert(celo(responsi,'respons.0i','可加解說[kě jiā jiě shuō],可加解说[kě jiā jiě shuō]')).
+assert(celo(responsi,'respons.0i','可說明[kě shuō míng],可说明[kě shuō míng]')).
+assert(celo(responso,'respons.0o','职责[zhí zé],職責[zhí zé]')).
+assert(celo(responso,'respons.0o','責任[zé rèn],责任[zé rèn]')).
+assert(celo(responso,'respons.0o','干係[gān xì],干系[gān xì]')).
+assert(celo(responso,'respons.0o','荷[hè]')).
+assert(celo(responsulo,'respons.0ulo','主管[zhǔ guǎn]')).
+assert(celo(responsulo,'respons.0ulo','負責人[fù zé rén],负责人[fù zé rén]')).
+assert(celo(respublikano,'respub.0ano','共和党[gòng hé dǎng],共和黨[gòng hé dǎng]')).
+assert(celo(respublikano,'respub.0ano','共和党人[gòng hé dǎng rén],共和黨人[gòng hé dǎng rén]')).
+assert(celo(respubliko,'respub.0o','共和[gòng hé]')).
+assert(celo(respubliko,'respub.0o','共和国[gòng hé guó],共和國[gòng hé guó]')).
+assert(celo(respubliko,'respub.0o','共和制[gòng hé zhì]')).
+assert(celo(respubliko,'respub.0o.partiano','共和[gòng hé]')).
+assert(celo(respubliko,'respub.0o.partiano','共和国[gòng hé guó],共和國[gòng hé guó]')).
+assert(celo(restadejo,'rest.0adejo','停留[tíng liú]')).
+assert(celo(restadejo,'rest.0adejo','住处[zhù chù],住處[zhù chù]')).
+assert(celo(restadejo,'rest.0adejo','停留的场所[tíng liú de chǎng suǒ],停留的場所[tíng liú de chǎng suǒ]')).
+assert(celo(restadejo,'rest.0adejo','等待的某处[děng dài de mǒu chù],等待的某處[děng dài de mǒu chù]')).
+assert(celo(restadejo,'rest.0adejo','逗留的地方[dòu liú de dì fang]')).
+assert(celo(restadejo,'rest.0adejo','家居[jiā jū]')).
+assert(celo(restadejo,'rest.0adejo','居所[jū suǒ]')).
+assert(celo(restadejo,'rest.0adejo','下落[xià luò]')).
+assert(celo(restadejo,'rest.0adejo','住宅[zhù zhái]')).
+assert(celo(restadejo,'rest.0adejo','去处[qù chù],去處[qù chù]')).
+assert(celo(restadejo,'rest.0adejo','所在之处[suǒ zài zhī chù],所在之處[suǒ zài zhī chù]')).
+assert(celo(restadi,'rest.0adi','逗留[dòu liú]')).
+assert(celo(restadi,'rest.0adi','停留[tíng liú]')).
+assert(celo(restadi,'rest.0adi','滞留[zhì liú],滯留[zhì liú]')).
+assert(celo(restado,'rest.0ado','停留[tíng liú]')).
+assert(celo(restado,'rest.0ado','停留期間[tíng liú qī jiān],停留期间[tíng liú qī jiān]')).
+assert(celo(restado,'rest.0ado','居住地[jū zhù de]')).
+assert(celo(restado,'rest.0ado','延緩[yán huǎn],延缓[yán huǎn]')).
+assert(celo(restaĵo,'rest.0ajxo','剩余[shèng yú],剩餘[shèng yú]')).
+assert(celo(restaĵo,'rest.0ajxo','余数[yú shù],餘數[yú shù]')).
+assert(celo(restaĵo,'rest.0ajxo','剩余物[shèng yú wù],剩餘物[shèng yú wù]')).
+assert(celo(resti,'rest.0i','待[dāi]')).
+assert(celo(resti,'rest.0i','借宿[jiè sù]')).
+assert(celo(resti,'rest.0i','停留[tíng liú]')).
+assert(celo(resti,'rest.0i','剩[shèng]')).
+assert(celo(resti,'rest.0i','剩下[shèng xià]')).
+assert(celo(resti,'rest.0i','呆[dāi]')).
+assert(celo(resti,'rest.0i','残留[cán liú],殘留[cán liú]')).
+assert(celo(resti,'rest.0i','呆在[dāi zài],獃在[dāi zài]')).
+assert(celo(resti,'rest.0i','留下[liú xià]')).
+assert(celo(resti,'rest.0i','逗留[dòu liú]')).
+assert(celo(restigi,'rest.0igi','丟[diū],丢[diū]')).
+assert(celo(restigi,'rest.0igi','遗[yí],遺[yí]')).
+assert(celo(resto,'rest.0o','剩余[shèng yú],剩餘[shèng yú]')).
+assert(celo(resto,'rest.0o','余数[yú shù],餘數[yú shù]')).
+assert(celo(resto,'rest.0o','剩余物[shèng yú wù],剩餘物[shèng yú wù]')).
+assert(celo(resto,'rest.0o','底子[dǐ zi]')).
+assert(celo(resto,'rest.0o','余剩[yú shèng],餘剩[yú shèng]')).
+assert(celo(resto,'rest.0o','残骸[cán hái],殘骸[cán hái]')).
+assert(celo(postresti,'rest.post0i.maldevanci','落后[luò hòu],落後[luò hòu]')).
+assert(celo(postresti,'rest.post0i.maldevanci','落伍[luò wǔ]')).
+assert(celo(postresti,'rest.post0i.maldevanci','残留[cán liú],殘留[cán liú]')).
+assert(celo(postresti,'rest.post0i.maldevanci','滞后[zhì hòu],滯後[zhì hòu]')).
+assert(celo(postresti,'rest.post0i.maldevanci','遗留下来[yí liú xia lai],遺留下來[yí liú xia lai]')).
+assert(celo(restaŭri,'restauxr.0i','修复[xiū fù],修復[xiū fù]')).
+assert(celo(restaŭri,'restauxr.0i','恢复[huī fù],恢復[huī fù]')).
+assert(celo(restaŭri,'restauxr.0i','整修[zhěng xiū]')).
+assert(celo(restrikti,'restrikt.0i','制約[zhì yuē],制约[zhì yuē]')).
+assert(celo(restrikti,'restrikt.0i','抑止[yì zhǐ]')).
+assert(celo(restrikti,'restrikt.0i','限制[xiàn zhì]')).
+assert(celo(resume,'resum.0e','綜上所述[zōng shàng suǒ shù],综上所述[zōng shàng suǒ shù]')).
+assert(celo(resume,'resum.0e','总括起来说[zǒng kuò qǐ lai shuō],總括起來說[zǒng kuò qǐ lai shuō]')).
+assert(celo(resume,'resum.0e','总而言之[zǒng ér yán zhī],總而言之[zǒng ér yán zhī]')).
+assert(celo(resumi,'resum.0i','綜上所述[zōng shàng suǒ shù],综上所述[zōng shàng suǒ shù]')).
+assert(celo(resumi,'resum.0i','归结[guī jié],歸結[guī jié]')).
+assert(celo(resumi,'resum.0i','概括[gài kuò]')).
+assert(celo(resumi,'resum.0i','綜述[zōng shù],综述[zōng shù]')).
+assert(celo(resumi,'resum.0i','綜合[zōng hé],综合[zōng hé]')).
+assert(celo(resumi,'resum.0i','綜[zōng],综[zōng]')).
+assert(celo(resumi,'resum.0i','总结[zǒng jié],總結[zǒng jié]')).
+assert(celo(resumo,'resum.0o','总结[zǒng jié],總結[zǒng jié]')).
+assert(celo(resumo,'resum.0o','摘要[zhāi yào]')).
+assert(celo(resumo,'resum.0o','提要[tí yào]')).
+assert(celo(resumo,'resum.0o','紀要[jì yào],纪要[jì yào]')).
+assert(celo(resurekti,'resurekt.0i','起死回生[qǐ sǐ huí shēng]')).
+assert(celo(resurekti,'resurekt.0i','苏生[sū shēng],蘇生[sū shēng]')).
+assert(celo(risurco,'resurs.0o','土地資源[tǔ dì zī yuán],土地资源[tǔ dì zī yuán]')).
+assert(celo(risurco,'resurs.0o','矿产资源[kuàng chǎn zī yuán],礦產資源[kuàng chǎn zī yuán]')).
+assert(celo(risurco,'resurs.0o','資[zī],资[zī]')).
+assert(celo(risurco,'resurs.0o','資源[zī yuán],资源[zī yuán]')).
+assert(celo(risurco,'resurs.0o','自然資源[zì rán zī yuán],自然资源[zì rán zī yuán]')).
+assert(celo(risurco,'resurs.0o','財力[cái lì],财力[cái lì]')).
+assert(celo(risurco,'resurs.0o','矿藏[kuàng cáng],礦藏[kuàng cáng]')).
+assert(celo(retano,'ret.0ano.KOMP','網民[wǎng mín],网民[wǎng mín]')).
+assert(celo(retejestro,'ret.0ejestro','網管[wǎng guǎn],网管[wǎng guǎn]')).
+assert(celo(retejestro,'ret.0ejestro','版主[bǎn zhǔ]')).
+assert(celo(retejestro,'ret.0ejestro','網站管理員[wǎng zhàn guǎn lǐ yuán],网站管理员[wǎng zhàn guǎn lǐ yuán]')).
+assert(celo(retejo,'ret.0ejo','網址[wǎng zhǐ],网址[wǎng zhǐ]')).
+assert(celo(retejo,'ret.0ejo','網頁[wǎng yè],网页[wǎng yè]')).
+assert(celo(retejo,'ret.0ejo','網站[wǎng zhàn],网站[wǎng zhàn]')).
+assert(celo(retejo,'ret.0ejo','站点[zhàn diǎn],站點[zhàn diǎn]')).
+assert(celo(retkamerao,'ret.0kamerao.KOMP','摄像头[shè xiàng tóu],攝像頭[shè xiàng tóu]')).
+assert(celo(retkamerao,'ret.0kamerao.KOMP','網絡攝像頭[wǎng luò shè xiàng tóu],网络摄像头[wǎng luò shè xiàng tóu]')).
+assert(celo(retkamerao,'ret.0kamerao.KOMP','網絡照相機[wǎng luò zhào xiāng jī],网络照相机[wǎng luò zhào xiāng jī]')).
+assert(celo(retkamerao,'ret.0kamerao.KOMP','視訊[shì xùn],视讯[shì xùn]')).
+assert(celo(retkamerao,'ret.0kamerao.KOMP','电脑照相机[diàn nǎo zhào xiāng jī],電腦照相機[diàn nǎo zhào xiāng jī]')).
+assert(celo(retkomerco,'ret.0komerco','电子商务[diàn zǐ shāng wù],電子商務[diàn zǐ shāng wù]')).
+assert(celo(retkomerco,'','电商[diàn shāng],電商[diàn shāng]')).
+assert(celo(reto,'ret.0o','網際[wǎng jì],网际[wǎng jì]')).
+assert(celo(reto,'ret.0o','罗网[luó wǎng],羅網[luó wǎng]')).
+assert(celo(reto,'ret.0o','網狀物[wǎng zhuàng wù],网状物[wǎng zhuàng wù]')).
+assert(celo(reto,'ret.0o','網[wǎng],网[wǎng]')).
+assert(celo(reto,'ret.0o','互联网络[hù lián wǎng luò],互聯網絡[hù lián wǎng luò]')).
+assert(celo(reto,'ret.0o','網絡[wǎng luò],网络[wǎng luò]')).
+assert(celo(reto,'ret.0o','广播网[guǎng bō wǎng],廣播網[guǎng bō wǎng]')).
+assert(celo(reto,'ret.0o','網路服務[wǎng lù fú wù],网路服务[wǎng lù fú wù]')).
+assert(celo(reto,'ret.0o','电网[diàn wǎng],電網[diàn wǎng]')).
+assert(celo(retpoŝto,'ret.0posxto','电子邮件[diàn zǐ yóu jiàn],電子郵件[diàn zǐ yóu jiàn]')).
+assert(celo(retpoŝto,'ret.0posxto','电邮[diàn yóu],電郵[diàn yóu]')).
+assert(celo(retpoŝto,'ret.0posxto','邮件[yóu jiàn],郵件[yóu jiàn]')).
+assert(celo(retumanto,'ret.0umanto','因特網用戶[yīn tè wǎng yòng hù],因特网用户[yīn tè wǎng yòng hù]')).
+assert(celo(retumano,'','網蟲[wǎng chóng],网虫[wǎng chóng]')).
+assert(celo(retumi,'ret.0umi','上網[shàng wǎng],上网[shàng wǎng]')).
+assert(celo(retumi,'ret.0umi','網上[wǎng shàng],网上[wǎng shàng]')).
+assert(celo(retumilo,'ret.0umilo','浏览器[liú lǎn qì],瀏覽器[liú lǎn qì]')).
+assert(celo(retumilo,'ret.0umilo','網絡瀏覽器[wǎng luò liú lǎn qì],网络浏览器[wǎng luò liú lǎn qì]')).
+assert(celo(retumilo,'ret.0umilo','浏览者[liú lǎn zhě],瀏覽者[liú lǎn zhě]')).
+assert(celo(retumilo,'ret.0umilo','網頁瀏覽器[wǎng yè liú lǎn qì],网页浏览器[wǎng yè liú lǎn qì]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','網際[wǎng jì],网际[wǎng jì]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','互联网[Hù lián wǎng],互聯網[Hù lián wǎng]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','網際網路[wǎng jì wǎng lù],网际网路[wǎng jì wǎng lù]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','电脑网[diàn nǎo wǎng],電腦網[diàn nǎo wǎng]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','国际互联网络[guó jì hù lián wǎng luò],國際互聯網絡[guó jì hù lián wǎng luò]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','因特網[Yīn tè wǎng],因特网[Yīn tè wǎng]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','国际互联网[guó jì hù lián wǎng],國際互聯網[guó jì hù lián wǎng]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','国际网络[guó jì wǎng luò],國際網絡[guó jì wǎng luò]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','網絡[Wǎng luò],网络[Wǎng luò]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','網路[wǎng lù],网路[wǎng lù]')).
+assert(celo('Interreto','ret.Inter0o.KOMP','網際網絡[wǎng jì wǎng luò],网际网络[wǎng jì wǎng luò]')).
+assert(celo('Reteto','ret.R0o','網罟座[Wǎng gǔ zuò],网罟座[Wǎng gǔ zuò]')).
+assert(celo(eksterrete,'ret.ekster0e.KOMP','脫機[tuō jī],脱机[tuō jī]')).
+assert(celo(eksterrete,'ret.ekster0e.KOMP','下線[xià xiàn],下线[xià xiàn]')).
+assert(celo(eksterrete,'ret.ekster0e.KOMP','落網[luò wǎng],落网[luò wǎng]')).
+assert(celo(eksterrete,'ret.ekster0e.KOMP','离线[lí xiàn],離線[lí xiàn]')).
+assert(celo(enretigi,'ret.en0igi.KOMP','上載[shàng zài],上载[shàng zài]')).
+assert(celo(fiŝreto,'ret.fisx0o','渔网[yú wǎng],漁網[yú wǎng]')).
+assert(celo(fiŝreto,'ret.fisx0o','罽[jì]')).
+assert(celo(fiŝreto,'ret.fisx0o','網羅[wǎng luó],网罗[wǎng luó]')).
+assert(celo(fiŝreto,'ret.fisx0o','罱[lǎn]')).
+assert(celo(fiŝreto,'ret.fisx0o','魚網[yú wǎng],鱼网[yú wǎng]')).
+assert(celo(interreto,'','公網[gōng wǎng],公网[gōng wǎng]')).
+assert(celo('komputila reto','ret.komputila0o','电脑网[diàn nǎo wǎng],電腦網[diàn nǎo wǎng]')).
+assert(celo('komputila reto','ret.komputila0o','电脑网路[diàn nǎo wǎng lù],電腦網路[diàn nǎo wǎng lù]')).
+assert(celo('komputila reto','ret.komputila0o','計算機網絡[jì suàn jī wǎng luò],计算机网络[jì suàn jī wǎng luò]')).
+assert(celo(latreto,'ret.lat0o','棚架格子[péng jià gé zi]')).
+assert(celo('loka reto','ret.loka_0o','区域网路[qū yù wǎng lù],區域網路[qū yù wǎng lù]')).
+assert(celo('loka reto','ret.loka_0o','区域网络[qū yù wǎng luò],區域網絡[qū yù wǎng luò]')).
+assert(celo('loka reto','ret.loka_0o','局域網[jú yù wǎng],局域网[jú yù wǎng]')).
+assert(celo('loka reto','ret.loka_0o','局域網絡[jú yù wǎng lào],局域网络[jú yù wǎng lào]')).
+assert(celo('malloka reto','ret.malloka_0o','广域网[guǎng yù wǎng],廣域網[guǎng yù wǎng]')).
+assert(celo('malloka reto','ret.malloka_0o','广域网路[guǎng yù wǎng lù],廣域網路[guǎng yù wǎng lù]')).
+assert(celo('malloka reto','ret.malloka_0o','公網[gōng wǎng],公网[gōng wǎng]')).
+assert(celo('sendrata reto','ret.sendrata_0o','无线网路[wú xiàn wǎng lù],無線網路[wú xiàn wǎng lù]')).
+assert(celo('socia retejo','ret.socia0ejo','社交網站[shè jiāo wǎng zhàn],社交网站[shè jiāo wǎng zhàn]')).
+assert(celo(retino,'retin.0o','視網膜[shì wǎng mó],视网膜[shì wǎng mó]')).
+assert(celo(retino,'retin.0o','網膜[wǎng mó],网膜[wǎng mó]')).
+assert(celo(retoriko,'retori.0o','詞藻[cí zǎo],词藻[cí zǎo]')).
+assert(celo(retoriko,'retori.0o','修辞[xiū cí],修辭[xiū cí]')).
+assert(celo(retoriko,'retori.0o','巧辩[qiǎo biàn],巧辯[qiǎo biàn]')).
+assert(celo(retoriko,'retori.0o','辞藻[cí zǎo],辭藻[cí zǎo]')).
+assert(celo(retorto,'retort.0o','应话[yìng huà],應話[yìng huà]')).
+assert(celo(retreto,'retret.0o','拉回[lā huí]')).
+assert(celo(retroe,'retro.0e','朝后[cháo hòu],朝後[cháo hòu]')).
+assert(celo(retroe,'retro.0e','向后[xiàng hòu],向後[xiàng hòu]')).
+assert(celo(retroe,'retro.0e','向后方[xiàng hòu fāng],向後方[xiàng hòu fāng]')).
+assert(celo(retroe,'retro.0e','向后面[xiàng hòu miàn],向後面[xiàng hòu miàn]')).
+assert(celo(retrospegulo,'retro.0spegulo','后视镜[hòu shì jìng],後視鏡[hòu shì jìng]')).
+assert(celo(retrospegulo,'retro.0spegulo','后照镜[hòu zhào jìng],後照鏡[hòu zhào jìng]')).
+assert(celo(retrocedi,'retroced.0i','撤退[chè tuì]')).
+assert(celo(retrocedi,'retroced.0i','退却[tuì què],退卻[tuì què]')).
+assert(celo(retrokupli,'retrokupl.0i','反饋[fǎn kuì],反馈[fǎn kuì]')).
+assert(celo(retrokuplo,'retrokupl.0o','回饋[huí kuì],回馈[huí kuì]')).
+assert(celo(retrokuplo,'retrokupl.0o','反饋[fǎn kuì],反馈[fǎn kuì]')).
+assert(celo(retrospektiva,'retros.0a','回眸[huí móu]')).
+assert(celo(retrospektivo,'retros.0o','回顧展[huí gù zhǎn],回顾展[huí gù zhǎn]')).
+assert(celo(retrospektivo,'retros.0o','回顧[huí gù],回顾[huí gù]')).
+assert(celo(retrospektivo,'retros.0o','回想[huí xiǎng]')).
+assert(celo(retroviruso,'retrovirus.0o','反轉錄病毒[fǎn zhuǎn lù bìng dú],反转录病毒[fǎn zhuǎn lù bìng dú]')).
+assert(celo(retroviruso,'retrovirus.0o','反录病毒[fǎn lù bìng dú],反錄病毒[fǎn lù bìng dú]')).
+assert(celo(retroviruso,'retrovirus.0o','逆轉錄病毒[nì zhuǎn lù bìng dú],逆转录病毒[nì zhuǎn lù bìng dú]')).
+assert(celo(retroviruso,'retrovirus.0o','逆轉錄病毒[nì zhuàn lù bìng dú],逆转录病毒[nì zhuàn lù bìng dú]')).
+assert(celo(reŭmatismo,'reuxma.0o','風濕病[fēng shī bìng],风湿病[fēng shī bìng]')).
+assert(celo(reŭmatismo,'reuxma.0o','風濕[fēng shī],风湿[fēng shī]')).
+assert(celo(reŭmatismo,'reuxma.0o','風濕症[fēng shī zhèng],风湿症[fēng shī zhèng]')).
+assert(celo(reva,'rev.0a','夢幻[mèng huàn],梦幻[mèng huàn]')).
+assert(celo(reva,'rev.0a','怔神儿[zhēng shén r],怔神兒[zhēng shén r]')).
+assert(celo(reva,'rev.0a','发呆[fā dāi],發呆[fā dāi]')).
+assert(celo(revema,'rev.0ema','醉心狂熱[zuì xīn kuáng rè]')).
+assert(celo(revi,'rev.0i','夢想[mèng xiǎng],梦想[mèng xiǎng]')).
+assert(celo(revi,'rev.0i','夢見[mèng jiàn],梦见[mèng jiàn]')).
+assert(celo(senrevigi,'rev.el0igi','使失望[shǐ shī wàng]')).
+assert(celo(senrevigi,'rev.el0igi','期待落空[qī dài là kòng]')).
+assert(celo(elreviĝi,'rev.el0igxi','幻滅[huàn miè],幻灭[huàn miè]')).
+assert(celo(senreviĝo,'rev.el0igxo','幻滅[huàn miè],幻灭[huàn miè]')).
+assert(celo(prirevi,'rev.pri0i','夢到[mèng dào],梦到[mèng dào]')).
+assert(celo(revelacii,'revela.0i','揭露[jiē lù]')).
+assert(celo(revelacii,'revela.0i','露[lòu]')).
+assert(celo(revelacio,'revela.0o','揭露[jiē lù]')).
+assert(celo(revizi,'revizi.0i.dogane','检验[jiǎn yàn],檢驗[jiǎn yàn]')).
+assert(celo(revizi,'revizi.0i.dogane','勘测[kān cè],勘測[kān cè]')).
+assert(celo(revizi,'revizi.0i.dogane','监[jiān],監[jiān]')).
+assert(celo(revizi,'revizi.0i.dogane','查看[chá kàn]')).
+assert(celo(revizi,'revizi.0i.dogane','检阅[jiǎn yuè],檢閱[jiǎn yuè]')).
+assert(celo(revizi,'revizi.0i.dogane','再审核[zài shěn hé],再審核[zài shěn hé]')).
+assert(celo(revizi,'revizi.0i.dogane','重新考察[chóng xīn kǎo chá]')).
+assert(celo(revizi,'revizi.0i.verkon','新修[xīn xiū]')).
+assert(celo(revizi,'revizi.0i.verkon','修正[xiū zhèng]')).
+assert(celo(revizi,'revizi.0i.verkon','覆核[fù hé]')).
+assert(celo(reviziismo,'revizi.0ismo','修正主义[xiū zhèng zhǔ yì],修正主義[xiū zhèng zhǔ yì]')).
+assert(celo(reviziismo,'revizi.0ismo','历史修正主义[lì shǐ xiū zhèng zhǔ yì],歷史修正主義[lì shǐ xiū zhèng zhǔ yì]')).
+assert(celo(reviziisto,'revizi.0isto','审计员[shěn jì yuán],審計員[shěn jì yuán]')).
+assert(celo(reviziisto,'revizi.0isto','校对员[jiào duì yuán],校對員[jiào duì yuán]')).
+assert(celo(reviziisto,'revizi.0isto','审稿[shěn gǎo],審稿[shěn gǎo]')).
+assert(celo(reviziisto,'revizi.0isto','校对者[jiào duì zhě],校對者[jiào duì zhě]')).
+assert(celo(reviziisto,'revizi.0isto','复查员[fù chá yuán],復查員[fù chá yuán]')).
+assert(celo(reviziisto,'revizi.0isto','复核人[fù hé rén],復核人[fù hé rén]')).
+assert(celo(reviziisto,'revizi.0isto','校訂者[jiào dìng zhě],校订者[jiào dìng zhě]')).
+assert(celo(reviziisto,'revizi.0isto','检验员[jiǎn yàn yuán],檢驗員[jiǎn yàn yuán]')).
+assert(celo(revizio,'revizi.0o.JUR','上訴[shàng sù],上诉[shàng sù]')).
+assert(celo(revizio,'revizi.0o.JUR','再审[zài shěn],再審[zài shěn]')).
+assert(celo(revizio,'revizi.0o.JUR','审计[shěn jì],審計[shěn jì]')).
+assert(celo(revizoro,'revizo.0o','审计员[shěn jì yuán],審計員[shěn jì yuán]')).
+assert(celo(revizoro,'revizo.0o','复查员[fù chá yuán],復查員[fù chá yuán]')).
+assert(celo(revizoro,'revizo.0o','复核人[fù hé rén],復核人[fù hé rén]')).
+assert(celo(revizoro,'revizo.0o','检验员[jiǎn yàn yuán],檢驗員[jiǎn yàn yuán]')).
+assert(celo(revolucii,'revolu.0i','反戈[fǎng ē]')).
+assert(celo(revoluciigi,'revolu.0igi','革命[gé mìng]')).
+assert(celo(revoluciulo,'revolu.0ulo.POL','革命家[gé mìng jiā]')).
+assert(celo(revoluciulo,'revolu.0ulo.POL','革命者[gé mìng zhě]')).
+assert(celo('industria revolucio','revolu.industria0o','产业革命[chǎn yè gé mìng],產業革命[chǎn yè gé mìng]')).
+assert(celo('industria revolucio','revolu.industria0o','工业革命[gōng yè gé mìng],工業革命[gōng yè gé mìng]')).
+assert(celo(kontraŭrevolucio,'revolu.kontraux0o','反革命[fǎn gé mìng]')).
+assert(celo(revolvero,'revolv.0o','左輪手槍[zuǒ lún shǒu qiāng],左轮手枪[zuǒ lún shǒu qiāng]')).
+assert(celo(revolvero,'revolv.0o','轉輪手槍[zhuàn lún shǒu qiāng],转轮手枪[zhuàn lún shǒu qiāng]')).
+assert(celo(revui,'revu.0i','检阅[jiǎn yuè],檢閱[jiǎn yuè]')).
+assert(celo(revui,'revu.0i','查看[chá kàn]')).
+assert(celo(revuo,'revu.0o.INF_gazeto','定期出版物[dìng qī chū bǎn wù]')).
+assert(celo(revuo,'revu.0o.INF_gazeto','木库[mù kù],木庫[mù kù]')).
+assert(celo(revuo,'revu.0o.INF_gazeto','杂志[zá zhì],雜誌[zá zhì]')).
+assert(celo(revuo,'revu.0o.MIL','閱兵[yuè bīng],阅兵[yuè bīng]')).
+assert(celo(rezerva,'','備用[bèi yòng],备用[bèi yòng]')).
+assert(celo(rezervano,'rezerv.0ano.MIL','預備役軍人[yù bèi yì jūn rén],预备役军人[yù bèi yì jūn rén]')).
+assert(celo(rezervano,'rezerv.0ano.MIL','在乡军人[zài xiāng jūn rén],在鄉軍人[zài xiāng jūn rén]')).
+assert(celo(rezervano,'rezerv.0ano.MIL','后备军人[hòu bèi jūn rén],後備軍人[hòu bèi jūn rén]')).
+assert(celo(rezervi,'rezerv.0i','储备[chǔ bèi],儲備[chǔ bèi]')).
+assert(celo(rezervi,'rezerv.0i','保留[bǎo liú]')).
+assert(celo(rezervisto,'rezerv.0isto.MIL','預備役軍人[yù bèi yì jūn rén],预备役军人[yù bèi yì jūn rén]')).
+assert(celo(rezervisto,'rezerv.0isto.MIL','在乡军人[zài xiāng jūn rén],在鄉軍人[zài xiāng jūn rén]')).
+assert(celo(rezervisto,'rezerv.0isto.MIL','后备军人[hòu bèi jūn rén],後備軍人[hòu bèi jūn rén]')).
+assert(celo(rezervo,'rezerv.0o','储备[chǔ bèi],儲備[chǔ bèi]')).
+assert(celo(rezervo,'rezerv.0o','后备[hòu bèi],後備[hòu bèi]')).
+assert(celo(rezervo,'rezerv.0o','公积金[gōng jī jīn],公積金[gōng jī jīn]')).
+assert(celo(rezervo,'rezerv.0o','存量[cún liàng]')).
+assert(celo(rezervo,'rezerv.0o','储备金[chǔ bèi jīn],儲備金[chǔ bèi jīn]')).
+assert(celo(rezervo,'rezerv.0o','准备金[zhǔn bèi jīn],準備金[zhǔn bèi jīn]')).
+assert(celo(rezervo,'rezerv.0o','續備軍[xù bèi jūn],续备军[xù bèi jūn]')).
+assert(celo(rezervulo,'rezerv.0ulo.SPO','替补队员[tì bǔ duì yuán],替補隊員[tì bǔ duì yuán]')).
+assert(celo(rezervulo,'rezerv.0ulo.SPO','候补[hòu bǔ],候補[hòu bǔ]')).
+assert(celo(naturrezervejo,'rezerv.natur0ejo','自然保护区[zì rán bǎo hù qū],自然保護區[zì rán bǎo hù qū]')).
+assert(celo(senrezerva,'rezerv.sen0a','无限制[wú xiàn zhì],無限制[wú xiàn zhì]')).
+assert(celo(senrezerva,'rezerv.sen0a','涵蓄[hán xù]')).
+assert(celo(senrezerva,'rezerv.sen0a','不問是非[bù wèn shì fēi],不问是非[bù wèn shì fēi]')).
+assert(celo(senrezerva,'rezerv.sen0a','阿莎力[ā shā lì]')).
+assert(celo(rezidejo,'rezid.0ejo.logxejo','寓[yù]')).
+assert(celo(rezidejo,'rezid.0ejo.logxejo','捨[shě],舍[shě]')).
+assert(celo(rezidejo,'rezid.0ejo.logxejo','寓所[yù suǒ]')).
+assert(celo(rezidejo,'rezid.0ejo.logxejo','固定住所[gù dìng zhù suǒ]')).
+assert(celo(rezidi,'rezid.0i.ofici','寓[yù]')).
+assert(celo(rezidi,'rezid.0i.ofici','居留[jū liú]')).
+assert(celo(rezidejo,'','居留[jū liú]')).
+assert(celo(rezidejo,'','下榻[xià tà]')).
+assert(celo(reziduo,'rezidu.0o','留数[liú shù],留數[liú shù]')).
+assert(celo(rezignebla,'rezign.0ebla','可放弃[kě fàng qì],可放棄[kě fàng qì]')).
+assert(celo(rezignemo,'rezign.0emo','失敗主義[shī bài zhǔ yì],失败主义[shī bài zhǔ yì]')).
+assert(celo(rezignemo,'rezign.0emo','死心[sǐ xīn]')).
+assert(celo(rezignemo,'rezign.0emo','听天由命[tìng tiān yóu mìng],聽天由命[tìng tiān yóu mìng]')).
+assert(celo(rezigni,'rezign.0i','放弃[fàng qì],放棄[fàng qì]')).
+assert(celo(rezigni,'rezign.0i','戒除[jiè chú]')).
+assert(celo(rezigni,'rezign.0i','捨棄[shě qì],舍弃[shě qì]')).
+assert(celo(rezigni,'rezign.0i','辞去[cí qù],辭去[cí qù]')).
+assert(celo(rezigni,'rezign.0i','丧送[sàng sòng],喪送[sàng sòng]')).
+assert(celo(rezigni,'rezign.0i','捐弃[juān qì],捐棄[juān qì]')).
+assert(celo(rezigno,'rezign.0o','誓絕[shì jué],誓绝[shì jué]')).
+assert(celo(rezignacii,'rezign1.0i','低头丧气[dī tóu sàng qì],低頭喪氣[dī tóu sàng qì]')).
+assert(celo(rezignacii,'rezign1.0i','辞去[cí qù],辭去[cí qù]')).
+assert(celo(rezignacii,'rezign1.0i','死心[sǐ xīn]')).
+assert(celo(rezino,'rezin.0o','树脂[shù zhī],樹脂[shù zhī]')).
+assert(celo(rezino,'rezin.0o','树胶[shù jiāo],樹膠[shù jiāo]')).
+assert(celo('sinteza rezino','rezin.arta0o','人造松香[rén zào sōng xiāng]')).
+assert(celo('sinteza rezino','rezin.arta0o','合成树脂[hé chéng shù zhī],合成樹脂[hé chéng shù zhī]')).
+assert(celo(epoksirezino,'rezin.epoksi0o','环氧树脂[huán yǎng shù zhī],環氧樹脂[huán yǎng shù zhī]')).
+assert(celo(rezistema,'rezist.0ema','結實[jiē shi],结实[jiē shi]')).
+assert(celo(rezistema,'rezist.0ema','松柏節操[sōng bó jié cāo],松柏节操[sōng bó jié cāo]')).
+assert(celo(rezistema,'rezist.0ema','強健[qiáng jiàn],强健[qiáng jiàn]')).
+assert(celo(rezistema,'rezist.0ema','坚贞[jiān zhēn],堅貞[jiān zhēn]')).
+assert(celo(rezistemo,'rezist.0emo','抗性[kàng xìng]')).
+assert(celo(rezistemo,'rezist.0emo','折射性[zhé shè xìng]')).
+assert(celo(rezisti,'rezist.0i','牴[dǐ]')).
+assert(celo(rezisti,'rezist.0i','觝[dǐ]')).
+assert(celo(rezisti,'rezist.0i','抵抗[dǐ kàng]')).
+assert(celo(rezisti,'rezist.0i','抵御[dǐ yù],抵禦[dǐ yù]')).
+assert(celo(rezisti,'rezist.0i','抗[kàng]')).
+assert(celo(rezisti,'rezist.0i','反抗[fǎn kàng]')).
+assert(celo(rezisti,'rezist.0i','拒[jù]')).
+assert(celo(rezisti,'rezist.0i','強忍[qiáng rěn],强忍[qiáng rěn]')).
+assert(celo(rezistilo,'rezist.0ilo','电阻[diàn zǔ],電阻[diàn zǔ]')).
+assert(celo(rezistilo,'rezist.0ilo','电阻器[diàn zǔ qì],電阻器[diàn zǔ qì]')).
+assert(celo(rezisto,'rezist.0o','电阻[diàn zǔ],電阻[diàn zǔ]')).
+assert(celo(nerezistebla,'rezist.ne0ebla','不能抵抗[bù néng dǐ kàng]')).
+assert(celo(nerezistebla,'rezist.ne0ebla','不可抗拒[bù kě kàng jù]')).
+assert(celo(nerezistebla,'rezist.ne0ebla','令人倾倒[lìng rén qīng dào],令人傾倒[lìng rén qīng dào]')).
+assert(celo(nerezistebla,'rezist.ne0ebla','令人折服的[lìng rén zhé fú de]')).
+assert(celo(nerezistebla,'rezist.ne0ebla','有巨大誘惑力[yǒu jù dà yòu huò lì],有巨大诱惑力[yǒu jù dà yòu huò lì]')).
+assert(celo(rezistanco,'rezist1.0o','电阻[diàn zǔ],電阻[diàn zǔ]')).
+assert(celo(rezolucio,'rezolu.0o','决议[jué yì],決議[jué yì]')).
+assert(celo(rezolucio,'rezolu.0o','决断[jué duàn],決斷[jué duàn]')).
+assert(celo(rezolucio,'rezolu.0o','心志[xīn zhì]')).
+assert(celo(rezolucio,'rezolu.0o','决心[jué xīn],決心[jué xīn]')).
+assert(celo(rezoluta,'rezolut.0a','坚定[jiān dìng],堅定[jiān dìng]')).
+assert(celo(rezoluta,'rezolut.0a','毅[yì]')).
+assert(celo(rezoluta,'rezolut.0a','决心[jué xīn],決心[jué xīn]')).
+assert(celo(rezoluta,'rezolut.0a','坚决[jiān jué],堅決[jiān jué]')).
+assert(celo(rezoluta,'rezolut.0a','亹[wěi]')).
+assert(celo(rezoni,'rezon.0i','推理[tuī lǐ]')).
+assert(celo(rezono,'rezon.0o','推理[tuī lǐ]')).
+assert(celo(rezono,'rezon.0o','思路[sī lù]')).
+assert(celo(rezonpovo,'rezon.0povo','判断力[pàn duàn lì],判斷力[pàn duàn lì]')).
+assert(celo(rezonpovo,'rezon.0povo','心窍[xīn qiào],心竅[xīn qiào]')).
+assert(celo(rezonpovo,'rezon.0povo','思維力[sī wéi lì],思维力[sī wéi lì]')).
+assert(celo(rezonpovo,'rezon.0povo','思考能力[sī kǎo néng lì]')).
+assert(celo(rezulte,'rezult.0e','所致[suǒ zhì]')).
+assert(celo(rezulte,'rezult.0e','結果[jié guǒ],结果[jié guǒ]')).
+assert(celo(rezulti,'rezult.0i','致使[zhì shǐ]')).
+assert(celo(rezultigi,'rezult.0igi','引发[yǐn fā],引發[yǐn fā]')).
+assert(celo(rezultigi,'rezult.0igi','引起[yǐn qǐ]')).
+assert(celo(rezultaĵo,'rezult.0o','成效[chéng xiào]')).
+assert(celo(rezultaĵo,'rezult.0o','結果[jié guǒ],结果[jié guǒ]')).
+assert(celo(rezultaĵo,'rezult.0o','成果[chéng guǒ]')).
+assert(celo(rezultaĵo,'rezult.0o','果[guǒ]')).
+assert(celo(rezultato,'rezult1.0o','产物[chǎn wù],產物[chǎn wù]')).
+assert(celo(rezultato,'rezult1.0o','果[guǒ]')).
