@@ -2170,3 +2170,352 @@ assert(celo(rompi,'romp.0i','打断[dǎ duàn],打斷[dǎ duàn]')).
 assert(celo(rompi,'romp.0i','打破[dǎ pò]')).
 assert(celo(rompi,'romp.0i','压碎[yā suì],壓碎[yā suì]')).
 assert(celo(rompi,'romp.0i','打碎[dǎ suì]')).
+assert(celo(rompiĝi,'romp.0igxi','撞毀[zhuàng huǐ],撞毁[zhuàng huǐ]')).
+assert(celo(rompiĝi,'romp.0igxi','冲垮[chōng kuǎ],衝垮[chōng kuǎ]')).
+assert(celo(rompiĝi,'romp.0igxi.KOMUNE','震裂[zhèn liè]')).
+assert(celo(rompiĝi,'romp.0igxi.KOMUNE','碎裂[suì liè]')).
+assert(celo(rompitaĵo,'romp.0itajxo','碎片[suì piàn]')).
+assert(celo(rompitaĵo,'romp.0itajxo','砟[zhǎ]')).
+assert(celo(rompitaĵo,'romp.0itajxo','瓣[bàn]')).
+assert(celo(rompo,'romp.0o','决裂[jué liè],決裂[jué liè]')).
+assert(celo(rompo,'romp.0o','隙[xì]')).
+assert(celo(rompo,'romp.0o','裂隙[liè xì]')).
+assert(celo(derompi,'romp.de0i.KOMUNE','突然停止[tú rán tíng zhǐ]')).
+assert(celo(disrompi,'romp.dis0i.KOMUNE','粉碎[fěn suì]')).
+assert(celo(disrompi,'romp.dis0i.KOMUNE','打破[dǎ pò]')).
+assert(celo(disrompi,'romp.dis0i.KOMUNE','打碎[dǎ suì]')).
+assert(celo(disrompi,'romp.dis0i.KOMUNE','摧毀[cuī huǐ],摧毁[cuī huǐ]')).
+assert(celo(disrompiĝi,'romp.dis0igxi.KOMUNE','崩[bēng]')).
+assert(celo(disrompiĝi,'romp.dis0igxi.KOMUNE','撐破[chēng pò],撑破[chēng pò]')).
+assert(celo(disrompiĝi,'romp.dis0igxi.KOMUNE','冲垮[chōng kuǎ],衝垮[chōng kuǎ]')).
+assert(celo(disrompiĝi,'romp.dis0igxi.KOMUNE','裂开[liè kāi],裂開[liè kāi]')).
+assert(celo(disrompiĝi,'romp.dis0igxi.KOMUNE','迸裂[bèng liè]')).
+assert(celo(enrompi,'romp.en0i','撞入[zhuàng rù]')).
+assert(celo(enrompi,'romp.en0i','破开[pò kāi],破開[pò kāi]')).
+assert(celo(enrompi,'romp.en0i','冲进[chōng jìn],衝進[chōng jìn]')).
+assert(celo(enrompi,'romp.en0i','撬門[qiào mén],撬门[qiào mén]')).
+assert(celo(enrompi,'romp.en0i','磨合[mò hé]')).
+assert(celo(enrompo,'romp.en0o','爆窃[bào qiè],爆竊[bào qiè]')).
+assert(celo(enrompo,'romp.en0o','窃案[qiè àn],竊案[qiè àn]')).
+assert(celo(rompiĝema,'romp.igxem0a','易碎[yì suì]')).
+assert(celo(rompiĝema,'romp.igxem0a','脆[cuì]')).
+assert(celo(rompiĝema,'romp.igxem0a','娇嫩[jiāo nen],嬌嫩[jiāo nen]')).
+assert(celo(rompiĝema,'romp.igxem0a','脆弱[cuì ruò]')).
+assert(celo(interrompi,'romp.inter0i','插話[chā huà],插话[chā huà]')).
+assert(celo(interrompi,'romp.inter0i','打断[dǎ duàn],打斷[dǎ duàn]')).
+assert(celo(interrompi,'romp.inter0i','間斷[jiàn duàn],间断[jiàn duàn]')).
+assert(celo(interrompi,'romp.inter0i','打岔[dǎ chà]')).
+assert(celo(interrompi,'romp.inter0i','中断[zhōng duàn],中斷[zhōng duàn]')).
+assert(celo(interrompi,'romp.inter0i','插嘴[chā zuǐ]')).
+assert(celo(kaprompa,'romp.kap0a','令人头痛[lìng rén tóu tòng],令人頭痛[lìng rén tóu tòng]')).
+assert(celo(kolrompa,'romp.kol0a','危险[wēi xiǎn],危險[wēi xiǎn]')).
+assert(celo(kolrompa,'romp.kol0a','致命[zhì mìng]')).
+assert(celo(langorompilo,'romp.lang0ilo','拗口令[ào kǒu lìng]')).
+assert(celo(langorompilo,'romp.lang0ilo','繞口令[rǎo kǒu lìng],绕口令[rǎo kǒu lìng]')).
+assert(celo(senrompa,'romp.sen0a','綿綿[mián mián],绵绵[mián mián]')).
+assert(celo(senrompa,'romp.sen0a','綿連[mián lián],绵连[mián lián]')).
+assert(celo(senrompa,'romp.sen0a','连绵[lián mián],連綿[lián mián]')).
+assert(celo(senrompa,'romp.sen0a','不間斷[bù jiān duàn],不间断[bù jiān duàn]')).
+assert(celo(senrompa,'romp.sen0a','不断[bù duàn],不斷[bù duàn]')).
+assert(celo(ŝiprompiĝo,'romp.sxip0igxo','船舶災難[chuán bó zāi nàn],船舶灾难[chuán bó zāi nàn]')).
+assert(celo(ŝiprompiĝo,'romp.sxip0igxo','沉船[chén chuán]')).
+assert(celo(trarompi,'romp.tra0i','突破[tū pò]')).
+assert(celo(trarompi,'romp.tra0i','攻破[gōng pò]')).
+assert(celo(trarompi,'romp.tra0i','冲破[chōng pò],衝破[chōng pò]')).
+assert(celo(trarompi,'romp.tra0i','突破瓶頸[tū pò píng jǐng],突破瓶颈[tū pò píng jǐng]')).
+assert(celo(ronda,'rond.0a','各个方向[gè ge fāng xiàng],各個方向[gè ge fāng xiàng]')).
+assert(celo(ronda,'rond.0a','圆[yuán],圓[yuán]')).
+assert(celo(ronda,'rond.0a','成圆形[chéng yuán xíng],成圓形[chéng yuán xíng]')).
+assert(celo(ronda,'rond.0a','圆形[yuán xíng],圓形[yuán xíng]')).
+assert(celo(ronda,'rond.0a','圜[yuán]')).
+assert(celo(rondigi,'rond.0igi','圆形[yuán xíng],圓形[yuán xíng]')).
+assert(celo(rondigi,'rond.0igi','圆圈[yuán quān],圓圈[yuán quān]')).
+assert(celo(rondigi,'rond.0igi','各个方向[gè ge fāng xiàng],各個方向[gè ge fāng xiàng]')).
+assert(celo(rondigi,'rond.0igi','弄圆[lòng yuán],弄圓[lòng yuán]')).
+assert(celo(rondigi,'rond.0igi','循环[xún huán],循環[xún huán]')).
+assert(celo(rondo,'rond.0o','圆形[yuán xíng],圓形[yuán xíng]')).
+assert(celo(rondo,'rond.0o','圈子[quān zi]')).
+assert(celo(rondo,'rond.0o','圈[quān]')).
+assert(celo(rondo,'rond.0o','圆圈[yuán quān],圓圈[yuán quān]')).
+assert(celo(trafikrondeto,'','环形路[huán xíng lù],環形路[huán xíng lù]')).
+assert(celo(trafikrondo,'rond.trafik0o','环岛[huán dǎo],環島[huán dǎo]')).
+assert(celo(trafikrondo,'rond.trafik0o','圆环[yuán huán],圓環[yuán huán]')).
+assert(celo(trafikrondo,'rond.trafik0o','回旋处[huí xuán chù],迴旋處[huí xuán chù]')).
+assert(celo(rodi,'rongx.0i','啃[kěn]')).
+assert(celo(rodi,'rongx.0i','啮[niè],囓[niè]')).
+assert(celo(rodi,'rongx.0i','咋[zé]')).
+assert(celo(rodi,'rongx.0i','齕[hé]')).
+assert(celo(rodi,'rongx.0i','齧咬[niè yǎo]')).
+assert(celo(rodi,'rongx.0i','啮[niè],嚙[niè]')).
+assert(celo(rodi,'rongx.0i','齕[hé],龁[hé]')).
+assert(celo(roduloj,'rongx.0uloj','啮齿类[niè chǐ lèi],嚙齒類[niè chǐ lèi]')).
+assert(celo(roduloj,'rongx.0uloj','啮齿目[niè chǐ mù],嚙齒目[niè chǐ mù]')).
+assert(celo(ĉirkaŭronĝi,'rongx.cxirkaux0i','咋[zé]')).
+assert(celo(ronki,'ronk.0i','齁[hōu]')).
+assert(celo(ronki,'ronk.0i','鼾[hān]')).
+assert(celo(ronki,'ronk.0i','打呼[dǎ hū]')).
+assert(celo(ronki,'ronk.0i','呼噜[hū lū],呼嚕[hū lū]')).
+assert(celo(ronki,'ronk.0i','打鼾[dǎ hān]')).
+assert(celo(ronki,'ronk.0i','鼾声[hān shēng],鼾聲[hān shēng]')).
+assert(celo(ronk,'','鼾声[hān shēng],鼾聲[hān shēng]')).
+assert(celo(ronrono,'','咕隆[gū lōng]')).
+assert(celo(rori,'ror.0i','吼[hǒu]')).
+assert(celo(rori,'ror.0i','咆[páo]')).
+assert(celo(rori,'ror.0i','吼叫[hǒu jiào]')).
+assert(celo(rori,'ror.0i','鬫[kàn]')).
+assert(celo(roro,'ror.0o','吽[hǒu]')).
+assert(celo(roro,'ror.0o','吼[hǒu]')).
+assert(celo(roro,'ror.0o','叫声[jiào shēng],叫聲[jiào shēng]')).
+assert(celo(roro,'ror.0o','吼声[hǒu shēng],吼聲[hǒu shēng]')).
+assert(celo(roro,'ror.0o','轟轟[hōng hōng],轰轰[hōng hōng]')).
+assert(celo(roro,'ror.0o','虓[xiāo]')).
+assert(celo(roso,'ros.0o','露水[lù shuǐ]')).
+assert(celo(rosino,'rosin.0o','葡萄乾[pú tao gān],葡萄干[pú tao gān]')).
+assert(celo(rosino,'rosin.0o','葡萄乾兒[pú tao gān r],葡萄干儿[pú tao gān r]')).
+assert(celo(rosino,'rosin.0o','葡萄乾[pú táo gān],葡萄干[pú táo gān]')).
+assert(celo(rosmaro,'rosmar.0o','海象[hǎi xiàng]')).
+assert(celo(rosmareno,'rosmar1.0o','迷迭香[mí dié xiāng]')).
+assert(celo(rostaĵo,'rost.0ajxo','烤肉[kǎo ròu]')).
+assert(celo(rosti,'rost.0i','炙[zhì]')).
+assert(celo(rosti,'rost.0i','烘烤[hōng kǎo]')).
+assert(celo(rosti,'rost.0i','炰[páo]')).
+assert(celo(rosti,'rost.0i','烧烤[shāo kǎo],燒烤[shāo kǎo]')).
+assert(celo(rosti,'rost.0i','煻[táng]')).
+assert(celo(rosti,'rost.0i','灴[hóng]')).
+assert(celo(rosti,'rost.0i','烤熟[kǎo shú]')).
+assert(celo(rosti,'rost.0i','焙[bèi]')).
+assert(celo(rostiĝi,'rost.0igxi','灴[hóng]')).
+assert(celo(rostpano,'rost.0pano','烤面包[kǎo miàn bāo],烤麵包[kǎo miàn bāo]')).
+assert(celo(rostpano,'rost.0pano','吐司[tǔ sī]')).
+assert(celo(rostpano,'rost.0pano','土司[tǔ sī]')).
+assert(celo(rostpano,'rost.0pano','多士[duō shì]')).
+assert(celo(rostpano,'rost.0pano','烘面包[hōng miàn bāo]')).
+assert(celo(kradrosti,'rost.krad0i','烘烤[hōng kǎo]')).
+assert(celo(kradrosti,'','烤肉[kǎo ròu]')).
+assert(celo(rostruloj,'rostr.0uloj','長鼻目[cháng bí mù],长鼻目[cháng bí mù]')).
+assert(celo(rostro,'','尖形嘴[jiān xíng zuǐ]')).
+assert(celo(rostro,'','長鼻[cháng bí],长鼻[cháng bí]')).
+assert(celo(rotestro,'rot.0estro','排長[pái zhǎng],排长[pái zhǎng]')).
+assert(celo(roto,'rot.0o.aro_de_kunirantoj','結黨[jié dǎng],结党[jié dǎng]')).
+assert(celo(rotacia,'rotaci.0a.TEK','可旋轉[kě xuán zhuǎn],可旋转[kě xuán zhuǎn]')).
+assert(celo(rotacia,'rotaci.0a.TEK','循环[xún huán],循環[xún huán]')).
+assert(celo(roto,'','连[lián],連[lián]')).
+assert(celo(rotacii,'rotaci.0i','打轉[dǎ zhuàn],打转[dǎ zhuàn]')).
+assert(celo(rotacii,'rotaci.0i','扭[niǔ]')).
+assert(celo(rotacii,'rotaci.0i','轉彎[zhuǎn wān],转弯[zhuǎn wān]')).
+assert(celo(rotacii,'rotaci.0i','回转[huí zhuǎn],迴轉[huí zhuǎn]')).
+assert(celo(rotacii,'rotaci.0i','循环[xún huán],循環[xún huán]')).
+assert(celo(rotacii,'rotaci.0i','輪[lún],轮[lún]')).
+assert(celo(rotacii,'rotaci.0i','雟[suí]')).
+assert(celo(rotacii,'rotaci.0i','輪轉[lún zhuàn],轮转[lún zhuàn]')).
+assert(celo(rotacio,'rotaci.0o.MAT','自轉[zì zhuàn],自转[zì zhuàn]')).
+assert(celo(rotacio,'rotaci.0o.TEKAST','自轉[zì zhuàn],自转[zì zhuàn]')).
+assert(celo(rotacio,'','旋轉運動[xuán zhuǎn yùn dòng],旋转运动[xuán zhuǎn yùn dòng]')).
+assert(celo(rotango,'rotang.0o','藤条[téng tiáo],藤條[téng tiáo]')).
+assert(celo('Roterdamo','roterdam.R0o','鹿特丹[Lù tè dān]')).
+assert(celo(rotoro,'rotor.0o','轉子[zhuàn zi],转子[zhuàn zi]')).
+assert(celo(rotoro,'rotor.0o','轉子[zhuàn zǐ],转子[zhuàn zǐ]')).
+assert(celo(rotoro,'rotor.0o','轉動件[zhuàn dòng jiàn],转动件[zhuàn dòng jiàn]')).
+assert(celo(rotoro,'rotor.0o','回轉軸[huí zhuǎn zhóu],回转轴[huí zhuǎn zhóu]')).
+assert(celo(rotoro,'rotor.0o','轉動體[zhuǎn dòng tǐ],转动体[zhuǎn dòng tǐ]')).
+assert(celo(roza,'roz.0a','桃色[táo sè]')).
+assert(celo(roza,'roz.0a.FIG','紅潤[hóng rùn],红润[hóng rùn]')).
+assert(celo(roza,'roz.0a.FIG','透紅[tòu hóng],透红[tòu hóng]')).
+assert(celo(roza,'roz.0a.FIG','玫瑰色[méi guī sè]')).
+assert(celo(rozeto,'roz.0eto','蔷薇结[qiáng wéi jié],薔薇結[qiáng wéi jié]')).
+assert(celo(rozeto,'roz.0eto','蔷薇花饰[qiáng wéi huā shì],薔薇花飾[qiáng wéi huā shì]')).
+assert(celo(rozeto,'roz.0eto','装饰圆窗[zhuāng shì yuán chuāng],裝飾圓窗[zhuāng shì yuán chuāng]')).
+assert(celo(rozkolora,'roz.0kolora','粉色[fěn sè]')).
+assert(celo(rozkolora,'roz.0kolora','粉紅[fěn hóng],粉红[fěn hóng]')).
+assert(celo(rozkolora,'roz.0kolora','石竹花[shí zhú huā]')).
+assert(celo(rozkolora,'roz.0kolora','桃紅[táo hóng],桃红[táo hóng]')).
+assert(celo(rozo,'roz.0o','玫瑰花[méi guī huā]')).
+assert(celo(rozo,'roz.0o','月季花[yuè jì huā]')).
+assert(celo(rozo,'roz.0o','玫[méi]')).
+assert(celo(rozo,'roz.0o','蔷薇[qiáng wéi],薔薇[qiáng wéi]')).
+assert(celo(rozarbeto,'roz.0ujo','蔷薇灌木[qiáng wéi guàn mù],薔薇灌木[qiáng wéi guàn mù]')).
+assert(celo(rozo,'','玫瑰[méi guī]')).
+assert(celo(duŝorozo,'roz.dusx0o','喷头[pēn tóu],噴頭[pēn tóu]')).
+assert(celo(marrozoj,'roz.mar0oj','海葵[hǎi kuí]')).
+assert(celo(marrozoj,'roz.mar0oj','海葵目[hǎi kuí mù]')).
+assert(celo(rozacoj,'rozac.0oj','蔷薇科[qiáng wéi kē],薔薇科[qiáng wéi kē]')).
+assert(celo(rozario,'rozari.0o.REL','念珠[niàn zhū]')).
+assert(celo(rozario,'rozari.0o.REL','玫瑰念珠[méi gui niàn zhū]')).
+assert(celo('Ruando','ruand.R0o','卢安达[Lú ān dá],盧安達[Lú ān dá]')).
+assert(celo('Ruando','ruand.R0o','卢旺达[Lú wàng dá],盧旺達[Lú wàng dá]')).
+assert(celo(rubejo,'rub.0ejo','收废站[shōu fèi zhàn],收廢站[shōu fèi zhàn]')).
+assert(celo(rubo,'rub.0o.forjxetajxoj','下脚料[xià jiǎo liào],下腳料[xià jiǎo liào]')).
+assert(celo(rubo,'rub.0o.ruineroj','瓦砾[wǎ lì],瓦礫[wǎ lì]')).
+assert(celo(rubo,'rub.0o.ruineroj','瓦砾堆[wǎ lì duī],瓦礫堆[wǎ lì duī]')).
+assert(celo(rubo,'rub.0o.ruineroj','残渣[cán zhā],殘渣[cán zhā]')).
+assert(celo(rubo,'rub.0o.senvalorajxoj','垃圾[lā jī]')).
+assert(celo(rubo,'rub.0o.senvalorajxoj','拉圾[lā jī]')).
+assert(celo(rubo,'rub.0o.senvalorajxoj','粪草[fèn cǎo],糞草[fèn cǎo]')).
+assert(celo(rubo,'rub.0o.senvalorajxoj','废料[fèi liào],廢料[fèi liào]')).
+assert(celo(rubo,'rub.0o.senvalorajxoj','废物[fèi wù],廢物[fèi wù]')).
+assert(celo(rubo,'rub.0o.senvalorajxoj','废弃物[fèi qì wù],廢棄物[fèi qì wù]')).
+assert(celo(rubujo,'rub.0ujo','垃圾箱[lā jī xiāng]')).
+assert(celo(rubujo,'rub.0ujo','垃圾桶[lā jī tǒng]')).
+assert(celo(rubujo,'rub.0ujo','垃圾筒[lā jī tǒng]')).
+assert(celo(ferrubo,'rub.fer0o','不値錢的東西[bù zhí qián de dōng xi],不值钱的东西[bù zhí qián de dōng xi]')).
+assert(celo(ferrubo,'rub.fer0o','剪報[jiǎn bào],剪报[jiǎn bào]')).
+assert(celo(ferrubo,'rub.fer0o','残余物[cán yú wù],殘餘物[cán yú wù]')).
+assert(celo(ferrubo,'rub.fer0o','零头[líng tóu],零頭[líng tóu]')).
+assert(celo(rubando,'ruband.0o.ornamo','带[dài],帶[dài]')).
+assert(celo(rubando,'ruband.0o.ornamo','丝带[sī dài],絲帶[sī dài]')).
+assert(celo(rubando,'ruband.0o.ornamo','綬帶[shòu dài],绶带[shòu dài]')).
+assert(celo(rubando,'ruband.0o.ornamo','緞帶[duàn dài],缎带[duàn dài]')).
+assert(celo(rubando,'ruband.0o.ornamo','色带[sè dài],色帶[sè dài]')).
+assert(celo(rubando,'ruband.0o.vindo','尿布[niào bù]')).
+assert(celo(brakrubando,'ruband.brak0o','手臂[shǒu bì]')).
+assert(celo(brakrubando,'ruband.brak0o','袖标[xiù biāo],袖標[xiù biāo]')).
+assert(celo(brakrubando,'ruband.brak0o','釧[chuàn],钏[chuàn]')).
+assert(celo('ŝtrumpa rubando','ruband.sxtrumpa_0o','袜带[wà dài],襪帶[wà dài]')).
+assert(celo(rubeno,'ruben.0o','紅寶石[hóng bǎo shí],红宝石[hóng bǎo shí]')).
+assert(celo(rubeolo,'rubeol.0o','德国麻疹[Dé guó má zhěn],德國麻疹[Dé guó má zhěn]')).
+assert(celo(rubeolo,'rubeol.0o','風疹[fēng zhěn],风疹[fēng zhěn]')).
+assert(celo(rubiacoj,'rubi.0oj','茜草科[qiàn cǎo kē]')).
+assert(celo(rubio,'rubi1.0o.genro','茜[qiàn]')).
+assert(celo(rubio,'rubi1.0o.genro','茜草[qiàn cǎo]')).
+assert(celo(rubio,'rubi1.0o.genro','茹藘[rú lú:]')).
+assert(celo(rubidio,'rubidi.0o','銣[rú],铷[rú]')).
+assert(celo(rublo,'rubl.0o','卢布[lú bù],盧布[lú bù]')).
+assert(celo(rubriko,'rubrik.0o','专栏[zhuān lán],專欄[zhuān lán]')).
+assert(celo(rubriko,'rubrik.0o','栏目[lán mù],欄目[lán mù]')).
+assert(celo(rubusbero,'rubus.0bero','黑莓子[hēi méi zi]')).
+assert(celo(rubuso,'rubus.0o','荆棘[jīng jí],荊棘[jīng jí]')).
+assert(celo(rubuso,'rubus.0o','蔂[léi],虆[léi]')).
+assert(celo(rubuso,'','荼蘼[tú mí]')).
+assert(celo(rubuso,'','黑莓[hēi méi]')).
+assert(celo(rudimenta,'rudime.0a','低級[dī jí],低级[dī jí]')).
+assert(celo(rudimenta,'rudime.0a','简陋[jiǎn lòu],簡陋[jiǎn lòu]')).
+assert(celo(ruditapo,'ruditap.0o','文蛤[wén gé]')).
+assert(celo('Rudolfo','rudolf.0o.NOM','魯道夫[lǔ dào fū],鲁道夫[lǔ dào fū]')).
+assert(celo(rudristo,'rudr.0isto','艄公[shāo gōng]')).
+assert(celo(rudro,'rudr.0o','舵[duò]')).
+assert(celo(rudro,'rudr.0o','船舵[chuán duò]')).
+assert(celo(rufa,'ruf.0a','紅頭[hóng tóu],红头[hóng tóu]')).
+assert(celo(rufa,'ruf.0a','紅髮[hóng fà],红发[hóng fà]')).
+assert(celo(rugbeo,'rugbe.0o','橄榄球[gǎn lǎn qiú],橄欖球[gǎn lǎn qiú]')).
+assert(celo(rugbeo,'rugbe.0o','英式橄榄球[Yīng shì gǎn lǎn qiú],英式橄欖球[Yīng shì gǎn lǎn qiú]')).
+assert(celo(ruĝiĝi,'rugx.0igxi','发红[fā hóng],發紅[fā hóng]')).
+assert(celo(ruĝiĝi,'rugx.0igxi','紅臉[hóng liǎn],红脸[hóng liǎn]')).
+assert(celo(ruĝiĝi,'rugx.0igxi','飛紅[fēi hóng],飞红[fēi hóng]')).
+assert(celo(ruĝiĝi,'rugx.0igxi','泛紅[fàn hóng],泛红[fàn hóng]')).
+assert(celo(ruĝiĝi,'rugx.0igxi','脸红[liǎn hóng],臉紅[liǎn hóng]')).
+assert(celo(ruĝiĝi,'rugx.0igxi','羞紅[xiū hóng],羞红[xiū hóng]')).
+assert(celo(ruĝiĝi,'rugx.0igxi','使紅[shǐ hóng],使红[shǐ hóng]')).
+assert(celo(ruĝiĝi,'rugx.0igxi','涨红[zhàng hóng],漲紅[zhàng hóng]')).
+assert(celo(ruĝvanga,'rugx.0vanga','紅潤[hóng rùn],红润[hóng rùn]')).
+assert(celo(transruĝa,'rugx.trans0a','紅外[hóng wài],红外[hóng wài]')).
+assert(celo(ruina,'ruin.0a','崩[bēng]')).
+assert(celo(ruina,'ruin.0a','坏掉[huài diào],壞掉[huài diào]')).
+assert(celo(ruinaĵo,'ruin.0ajxo','废墟[fèi xū],廢墟[fèi xū]')).
+assert(celo(ruinigi,'ruin.0igi','偾[fèn],僨[fèn]')).
+assert(celo(ruinigi,'ruin.0igi','残[cán],殘[cán]')).
+assert(celo(ruinigi,'ruin.0igi','窳敗[yǔ bài],窳败[yǔ bài]')).
+assert(celo(ruinigi,'ruin.0igi','崩[bēng]')).
+assert(celo(ruinigi,'ruin.0igi','糟蹋[zāo tà]')).
+assert(celo(ruino,'','故址[gù zhǐ]')).
+assert(celo(ruino,'','遗址[yí zhǐ],遺址[yí zhǐ]')).
+assert(celo(ruino,'','墟[xū]')).
+assert(celo(ruĵo,'rujx.0o','口紅[kǒu hóng],口红[kǒu hóng]')).
+assert(celo(rukt,'rukt.0','哕[huì],噦[huì]')).
+assert(celo(rukti,'rukt.0i','嗝[gé]')).
+assert(celo(rukti,'rukt.0i','嗳气[ǎi qì],噯氣[ǎi qì]')).
+assert(celo(rukto,'rukt.0o','飽嗝[bǎo gé],饱嗝[bǎo gé]')).
+assert(celo(rulado,'rul.0ado.KOMP','執行[zhí xíng],执行[zhí xíng]')).
+assert(celo(rulaĵo,'rul.0ajxo','卷[juǎn],捲[juǎn]')).
+assert(celo(rulaĵo,'rul.0ajxo','輥[gǔn],辊[gǔn]')).
+assert(celo(ruli,'rul.0i.KOMP','執行[zhí xíng],执行[zhí xíng]')).
+assert(celo(ruli,'rul.0i.KOMUNE','滚动[gǔn dòng],滾動[gǔn dòng]')).
+assert(celo(ruli,'rul.0i.KOMUNE','滚[gǔn],滾[gǔn]')).
+assert(celo(ruliĝi,'rul.0igxi','軲[gū],轱[gū]')).
+assert(celo(rulĵeti,'rul.0jxeti','礧[lèi]')).
+assert(celo(rulo,'rul.0o','滚子[gǔn zi],滾子[gǔn zi]')).
+assert(celo(rulo,'rul.0o','卷[juǎn]')).
+assert(celo(rulo,'rul.0o','纏[chán],缠[chán]')).
+assert(celo(rultempa,'rul.0tempa','运行时[yùn xíng shí],運行時[yùn xíng shí]')).
+assert(celo(rultempa,'rul.0tempa','运行时间[yùn xíng shí jiān],運行時間[yùn xíng shí jiān]')).
+assert(celo(rulumi,'rul.0umi','滚动[gǔn dòng],滾動[gǔn dòng]')).
+assert(celo(rulumskalo,'rul.0umskalo','滚动条[gǔn dòng tiáo],滾動條[gǔn dòng tiáo]')).
+assert(celo(kunruli,'rul.kun0i','打滚[dǎ gǔn],打滾[dǎ gǔn]')).
+assert(celo(kunruli,'rul.kun0i','卷[juǎn],捲[juǎn]')).
+assert(celo(kunruli,'rul.kun0i','縈[yíng],萦[yíng]')).
+assert(celo(kunruli,'rul.kun0i','纏[chán],缠[chán]')).
+assert(celo(kunruli,'rul.kun0i','蟠[pán]')).
+assert(celo(kunruliĝi,'rul.kun0igxi','蜷縮[quán suō],蜷缩[quán suō]')).
+assert(celo(kunruliĝi,'rul.kun0igxi','拳曲[quán qū]')).
+assert(celo(ruleto,'rulet.0o','罗盘度[luó pán dù],羅盤度[luó pán dù]')).
+assert(celo(ruleto,'rulet.0o','輪盤賭[lún pán dǔ],轮盘赌[lún pán dǔ]')).
+assert(celo(rumo,'rum.0o','兰姆酒[lán mǔ jiǔ],蘭姆酒[lán mǔ jiǔ]')).
+assert(celo(rumano,'ruman.0o','罗马尼亚人[luó mǎ ní yà rén],羅馬尼亞人[luó mǎ ní yà rén]')).
+assert(celo('Rumanujo','ruman.R0ujo','罗马尼亚[Luó mǎ ní yà],羅馬尼亞[Luó mǎ ní yà]')).
+assert(celo('Rumanio','rumani.R0o','罗马尼亚[Luó mǎ ní yà],羅馬尼亞[Luó mǎ ní yà]')).
+assert(celo(rumbo,'rumb1.0o.danco','伦巴[lún bā],倫巴[lún bā]')).
+assert(celo(rumekso,'rumeks.0o','蓫[zhǔ]')).
+assert(celo(rumori,'rumor.0i.SON','喧嚣[xuān xiāo],喧囂[xuān xiāo]')).
+assert(celo(rumoro,'rumor.0o','喧哗[xuān huá],喧嘩[xuān huá]')).
+assert(celo(rumoro,'rumor.0o','喧腾[xuān téng],喧騰[xuān téng]')).
+assert(celo(runo,'run.0o','卢恩字母[lú ēn zì mǔ],盧恩字母[lú ēn zì mǔ]')).
+assert(celo(runo,'run.0o','符文[fú wén]')).
+assert(celo(runo,'run.0o','如尼字母[rú ní zì mǔ]')).
+assert(celo(rundi,'rund.0i.MIL','巡逻[xún luó],巡邏[xún luó]')).
+assert(celo(rundo,'rund.0o.MIL','巡視圈[xún shì quān],巡视圈[xún shì quān]')).
+assert(celo(rundo,'rund.0o.MIL','巡逻区域[xún luó qū yù],巡邏區域[xún luó qū yù]')).
+assert(celo(rundo,'rund.0o.MIL','視察區[shì chá qū],视察区[shì chá qū]')).
+assert(celo(rundo,'rund1.0o.POL','輪[lún],轮[lún]')).
+assert(celo(rundo,'rund1.0o.SPO','围垦[wéi kěn],圍墾[wéi kěn]')).
+assert(celo(rundo,'rund1.0o.SPO','首回合[shǒu huí hé]')).
+assert(celo(rupio,'rupi.0o','卢比[lú bǐ],盧比[lú bǐ]')).
+assert(celo(rurikido,'rurik.0ido','留里克王朝[liú lǐ kè wáng cháo]')).
+assert(celo('Ruriko','rurik.0o','留里克[Liú lǐ kè]')).
+assert(celo(ruso,'rus.0o','俄[Á]')).
+assert(celo(ruso,'rus.0o','俄罗斯人[é luó sī rén],俄羅斯人[é luó sī rén]')).
+assert(celo(rusuja,'rus.0uja','俄罗斯[Á luó sī],俄羅斯[Á luó sī]')).
+retract(celo(rusuja,'rus.0uja','俄罗斯[Á luó sī],俄羅斯[Á luó sī]')).
+assert(celo('Rusa Federacio','rus.R0aFederacio','俄罗斯联邦[Á luó sī Lián bāng],俄羅斯聯邦[Á luó sī Lián bāng]')).
+assert(celo('Rusa Federacio','rus.R0aFederacio','俄联邦[Á Lián bāng],俄聯邦[Á Lián bāng]')).
+assert(celo('Rusa Federacio','rus.R0aFederacio','俄罗斯联邦[é luó sī lián bāng],俄羅斯聯邦[é luó sī lián bāng]')).
+assert(celo('Ruslanda Imperio','rus.R0aImperio','俄罗斯帝国[é luó sī dì guó],俄羅斯帝國[é luó sī dì guó]')).
+assert(celo('Ruslanda Imperio','rus.R0aImperio','俄罗斯帝国[Á luó sī Dì guó],俄羅斯帝國[Á luó sī Dì guó]')).
+assert(celo(rusino,'rus.in0o','俄罗斯人[é luó sī rén],俄羅斯人[é luó sī rén]')).
+assert(celo(rusti,'rust.0i','生銹[shēng xiù],生锈[shēng xiù]')).
+assert(celo(rusto,'rust.0o','鐵鏽[tiě xiù],铁锈[tiě xiù]')).
+assert(celo(rusto,'rust.0o','鏽[xiù],锈[xiù]')).
+assert(celo(rusto,'rust.0o','銹蝕[xiù shí],锈蚀[xiù shí]')).
+assert(celo(rustika,'rustik.0a','土头土脑[tǔ tóu tǔ nǎo],土頭土腦[tǔ tóu tǔ nǎo]')).
+assert(celo(rusulo,'rusul.0o','紅菇科[hóng gū kē],红菇科[hóng gū kē]')).
+assert(celo(rusulacoj,'rusulac.0oj','紅菇科[hóng gū kē],红菇科[hóng gū kē]')).
+assert(celo(rutacoj,'rutac.0oj','芸香科[yún xiāng kē]')).
+assert(celo(rutenio,'ruteni.0o','釕[liǎo],钌[liǎo]')).
+assert(celo(ruterfordio,'ruterfordi.0o','鑪[lú]')).
+assert(celo(ruterfordio,'ruterfordi.0o','鑪[lú],𬬻[lú]')).
+assert(celo(rutina,'rutin.0a','例行[lì xíng]')).
+assert(celo(rutino,'rutin.0o','定例[dìng lì]')).
+assert(celo(rutino,'rutin.0o','常务[cháng wù],常務[cháng wù]')).
+assert(celo(rutino,'rutin.0o','忕[shì]')).
+assert(celo(rutino,'rutin.0o','日常工作[rì cháng gōng zuò]')).
+assert(celo(rutino,'rutin.0o.PSI','俗事[sú shì]')).
+assert(celo(rutino,'','日常习惯[rì cháng xí guàn],日常習慣[rì cháng xí guàn]')).
+assert(celo(rutinulo,'rutin.0ulo','能人[néng rén]')).
+assert(celo(rutinulo,'rutin.0ulo','专业人士[zhuān yè rén shì],專業人士[zhuān yè rén shì]')).
+assert(celo(rutinulo,'rutin.0ulo','达人[dá rén],達人[dá rén]')).
+assert(celo(ruza,'ruz.0a','狡[jiǎo]')).
+assert(celo(ruza,'ruz.0a','狡詐[jiǎo zhà],狡诈[jiǎo zhà]')).
+assert(celo(ruza,'ruz.0a','毚[chán]')).
+assert(celo(ruza,'ruz.0a','狯[kuài],獪[kuài]')).
+assert(celo(ruza,'ruz.0a','猾[huá]')).
+assert(celo(ruza,'ruz.0a','詭[guǐ],诡[guǐ]')).
+assert(celo(ruza,'ruz.0a','黠[xiá]')).
+assert(celo(ruza,'ruz.0a','狡黠[jiǎo xiá]')).
+assert(celo(ruzi,'ruz.0i','詐[zhà],诈[zhà]')).
+assert(celo(ruzi,'ruz.0i','計謀[jì móu],计谋[jì móu]')).
+retract(celo(ruzi,'ruz.0i','計謀[jì móu],计谋[jì móu]')).
+assert(celo(ruzaĵo,'ruz.0o0ajxo','詭計[guǐ jì],诡计[guǐ jì]')).
+assert(celo(ruzaĵo,'ruz.0o0ajxo','花招[huā zhāo]')).
+assert(celo(ruzaĵo,'ruz.0o0ajxo','花样[huā yàng],花樣[huā yàng]')).
+assert(celo(ruzaĵo,'ruz.0o0ajxo','計謀[jì móu],计谋[jì móu]')).
+assert(celo(superruzi,'ruz.super0i','晁三暮四[zhāo sān mù sì]')).
+assert(celo(superruzi,'ruz.super0i','智勝[zhì shèng],智胜[zhì shèng]')).
+assert(celo(superruzi,'ruz.super0i','矇騙[mēng piàn],蒙骗[mēng piàn]')).
