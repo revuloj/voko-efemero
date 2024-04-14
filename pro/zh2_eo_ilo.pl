@@ -1,4 +1,4 @@
-% (c) 2023 Wolfram Diestel
+% (c) 2023-2024tWolfram Diestel
 % laŭ GPL 2.0
 %
 % helpas trovi ĉinajn tradukojn per manklisto eo_de kaj publika vortaro han_de (handedict)
@@ -78,9 +78,9 @@ sercho(Request) :-
 */
 
 % ŝanĝu sufikson _a al alia litero kiam vi prilaboras aliajn literojn!
-eo_def('vrt/eo_def_s.csv'). % eo-de/en/fr
-db_celo('pdb/eo_zh_s.db').
-csv_celo('vrt/eo_zh_s.csv').
+eo_def('vrt/eo_def_t.csv'). % eo-de/en/fr
+db_celo('pdb/eo_zh_t.db').
+csv_celo('vrt/eo_zh_t.csv').
 
 /**
  * Dialogo por aldono de tradukoj:
@@ -189,6 +189,7 @@ legu_eo(EoCsv) :-
         separator(9),     % uzu punktokomon kiel apartigilo de kampoj
         skip_header('#'), % ignoru kaplinion, enkondukitan per #
         convert(false),   % ne provu interpreti nombrojn ks.
+        ignore_quotes(true), % ne traktu citilojn kiel limigilo
         functor(eo)       % nomo de la predikato (~ tabelnomo)
     ]),
     % ni ricevis liston, kies unuopajn erojn
