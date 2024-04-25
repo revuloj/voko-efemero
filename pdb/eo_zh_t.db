@@ -1,0 +1,457 @@
+created(1713108798.3477337).
+assert(celo(tabo,'tab.0o','制表鍵[zhì biǎo jiàn],制表键[zhì biǎo jiàn]')).
+assert(celo(tabo,'tab.0o','制表符[zhì biǎo fú]')).
+assert(celo(tabako,'tabak.0o','烟草[yān cǎo],煙草[yān cǎo]')).
+assert(celo(tabako,'tabak.0o','淡巴菰[dàn bā gū]')).
+assert(celo(tabako,'tabak.0o','旱烟[hàn yān],旱煙[hàn yān]')).
+assert(celo(tabako,'tabak.0o','菸草[yān cǎo]')).
+assert(celo(tabakujo,'','鼻烟盒[bí yān hé],鼻煙盒[bí yān hé]')).
+assert(celo(maĉtabako,'tabak.macx0o','嚼烟[jiáo yān],嚼煙[jiáo yān]')).
+assert(celo(tabano,'taban.0o','蜚[fěi]')).
+assert(celo(tabano,'taban.0o','虻[méng],蝱[méng]')).
+assert(celo(tabano,'taban.0o','牛虻[niú méng]')).
+assert(celo(tabelo,'tabel.0o','对照表[duì zhào biǎo],對照表[duì zhào biǎo]')).
+assert(celo(tabelo,'tabel.0o','表格[biǎo gé]')).
+assert(celo(enhavtabelo,'tabel.enhav0o','目录[mù lù],目錄[mù lù]')).
+assert(celo(enhavtabelo,'tabel.enhav0o','篇目[piān mù]')).
+assert(celo(hortabelo,'tabel.hor0o','时刻表[shí kè biǎo],時刻表[shí kè biǎo]')).
+assert(celo(hortabelo,'tabel.hor0o','时程[shí chéng],時程[shí chéng]')).
+assert(celo(hortabelo,'tabel.hor0o','时间表[shí jiān biǎo],時間表[shí jiān biǎo]')).
+assert(celo(hortabelo,'tabel.hor0o','日程表[rì chéng biǎo]')).
+assert(celo(hortabelo,'tabel.hor0o','課程表[kè chéng biǎo],课程表[kè chéng biǎo]')).
+assert(celo(hortabelo,'tabel.hor0o','課表[kè biǎo],课表[kè biǎo]')).
+assert(celo(tablo,'tabl.0o','桌子[zhuō zi]')).
+assert(celo(tablo,'tabl.0o','肵[jìn]')).
+assert(celo(tabelto,'','几[jī]')).
+assert(celo(ĉetabliĝi,'tabl.al0igxi','入席[rù xí]')).
+assert(celo('komuna tablo','tabl.komuna0o.gasteja','自助餐[zì zhù cān]')).
+assert(celo('komuna tablo','tabl.komuna0o.gasteja','自助餐柜台[zì zhù cān guì tái],自助餐櫃台[zì zhù cān guì tái]')).
+assert(celo(labortablo,'tabl.labor0o.KOMP','桌面[zhuō miàn]')).
+assert(celo(labortablo,'tabl.labor0o.MEBL','书桌[shū zhuō],書桌[shū zhuō]')).
+assert(celo(labortablo,'tabl.labor0o.MEBL','办公桌[bàn gōng zhuō],辦公桌[bàn gōng zhuō]')).
+assert(celo(labortablo,'tabl.labor0o.MEBL','桌面[zhuō miàn]')).
+assert(celo(labortablo,'tabl.labor0o.MEBL','书案[shū àn],書案[shū àn]')).
+assert(celo(labortablo,'tabl.labor0o.MEBL','桌上型[zhuō shàng xíng]')).
+assert(celo(montrotablo,'tabl.montro0o','柜台[guì tái],櫃台[guì tái]')).
+assert(celo('ronda tablo','tabl.ronda0o.FRAZ','圆桌会议[yuán zhuō huì yì],圓桌會議[yuán zhuō huì yì]')).
+assert(celo('ronda tablo','tabl.ronda0o.FRAZ','圆桌骑士[yuán zhuō jì shì],圓桌騎士[yuán zhuō jì shì]')).
+assert(celo('ronda tablo','tabl.ronda0o.FRAZ','圆桌[yuán zhuō],圓桌[yuán zhuō]')).
+assert(celo(skribotablo,'tabl.skrib0o','书桌[shū zhuō],書桌[shū zhuō]')).
+assert(celo(skribotablo,'tabl.skrib0o','办公桌[bàn gōng zhuō],辦公桌[bàn gōng zhuō]')).
+assert(celo(skribotablo,'tabl.skrib0o','写字台[xiě zì tái],寫字台[xiě zì tái]')).
+assert(celo(skribotablo,'tabl.skrib0o','臺子[tái zi]')).
+assert(celo(skribotablo,'tabl.skrib0o','书案[shū àn],書案[shū àn]')).
+assert(celo(surtabligi,'tabl.sur0igi','摆桌子[bǎi zhuō zi],擺桌子[bǎi zhuō zi]')).
+assert(celo(surtabligi,'tabl.sur0igi','端飯[duān fàn],端饭[duān fàn]')).
+assert(celo(vendotablo,'','柜台[guì tái],櫃台[guì tái]')).
+assert(celo(verŝtablo,'tabl.versxo0o','吧台[bā tái]')).
+assert(celo(vitrotablo,'tabl.vitro0o','栏柜[lán guì],欄櫃[lán guì]')).
+assert(celo(tablojdo,'tablojd.0o','药片[yào piàn],藥片[yào piàn]')).
+assert(celo(tabua,'tabu.0a','被禁止[bèi jìn zhǐ]')).
+assert(celo(tabua,'tabu.0a','列为禁急[liè wéi jìn jì],列為禁急[liè wéi jìn jì]')).
+assert(celo(tabui,'tabu.0i','諱[huì],讳[huì]')).
+assert(celo(tabuo,'tabu.0o','忌諱[jì huì],忌讳[jì huì]')).
+assert(celo(tabuo,'tabu.0o','禁忌[jìn jì]')).
+assert(celo(tabuo,'tabu.0o','违碍[wéi ài],違礙[wéi ài]')).
+assert(celo(tabulaĵo,'tabul.0ajxo','包层[bāo céng],包層[bāo céng]')).
+assert(celo(tabulaĵo,'tabul.0ajxo.KOMUNE','包层[bāo céng],包層[bāo céng]')).
+assert(celo(tabulaĵo,'tabul.0ajxo.KOMUNE','飾闆[shì bǎn],饰板[shì bǎn]')).
+assert(celo(tabuleto,'tabul.0eto.skribtabulo','黑板[hēi bǎn]')).
+assert(celo(tabulo,'tabul.0o','木板[mù bǎn]')).
+assert(celo(tabulo,'tabul.0o','板[bǎn]')).
+assert(celo(tabulo,'tabul.0o','棋盘[qí pán],棋盤[qí pán]')).
+assert(celo(tabulo,'tabul.0o','整頁插圖[zhěng yè chā tú],整页插图[zhěng yè chā tú]')).
+assert(celo(tabulo,'tabul.0o','牌[pái]')).
+assert(celo(tabulo,'tabul.0o','跳板[tiào bǎn]')).
+assert(celo(anonctabulo,'tabul.anonc0o','广告栏[guǎng gào lán],廣告欄[guǎng gào lán]')).
+assert(celo(anonctabulo,'tabul.anonc0o','佈告欄[bù gào lán],布告栏[bù gào lán]')).
+assert(celo(anonctabulo,'tabul.anonc0o','公佈欄[gōng bù lán],公布栏[gōng bù lán]')).
+assert(celo(anonctabulo,'tabul.anonc0o','快報[kuài bào],快报[kuài bào]')).
+assert(celo(anonctabulo,'tabul.anonc0o.KOMUNE','指示者[zhǐ shì zhě]')).
+assert(celo(aviztabulo,'tabul.aviz0o.KOMUNE','看板[kàn bǎn],看闆[kàn bǎn]')).
+assert(celo(aviztabulo,'tabul.aviz0o.KOMUNE','信息載體[xìn xí zài tǐ],信息载体[xìn xí zài tǐ]')).
+assert(celo(celtabulo,'tabul.cel0o','靶[bǎ]')).
+assert(celo(celtabulo,'tabul.cel0o','堋[péng]')).
+assert(celo(gladotabulo,'tabul.glado0o','烫衣板[tàng yī bǎn],燙衣板[tàng yī bǎn]')).
+assert(celo(tranĉtabulo,'tabul.hak0o','菜板[cài bǎn]')).
+assert(celo(tranĉtabulo,'tabul.hak0o','菜墩子[cài dūn zi]')).
+assert(celo(memortabulo,'tabul.memor0o','金石[jīn shí]')).
+assert(celo(memortabulo,'tabul.memor0o','灵牌[líng pái],靈牌[líng pái]')).
+assert(celo(memortabulo,'tabul.memor0o','祢[mí],禰[mí]')).
+assert(celo(neĝtabulo,'tabul.negx0o','雪板[xuě bǎn]')).
+assert(celo(pastabulo,'tabul.pas0o','杠[gāng]')).
+assert(celo(pastabulo,'tabul.pas0o.ARKI','牏[tóu]')).
+assert(celo(pastabulo,'tabul.pas0o.ARKI','厚木板[hòu mù bǎn]')).
+assert(celo(tabulaĵo,'','鑲板[xiāng bǎn],镶板[xiāng bǎn]')).
+assert(celo(rultabulo,'tabul.rul0o','滑板[huá bǎn]')).
+assert(celo(rultabulo,'tabul.rul0o','滑雪板[huá xuě bǎn]')).
+assert(celo(saltotabulo,'tabul.salto0o','跳板[tiào bǎn]')).
+assert(celo(saltotabulo,'tabul.salto0o','弹跳板[tán tiào bǎn],彈跳板[tán tiào bǎn]')).
+assert(celo(plonĝtabulo,'','跳板[tiào bǎn]')).
+assert(celo(skribtabulo,'tabul.skrib0o','黑板[hēi bǎn]')).
+assert(celo(skribtabulo,'tabul.skrib0o','粉板[fěn bǎn]')).
+assert(celo(surfotabulo,'tabul.surf0o','冲浪板[chōng làng bǎn],衝浪板[chōng làng bǎn]')).
+assert(celo(veltabulo,'tabul.vel0o','冲浪板[chōng làng bǎn],衝浪板[chōng làng bǎn]')).
+assert(celo(veltabulo,'tabul.vel0o','風浪板[fēng làng bǎn],风浪板[fēng làng bǎn]')).
+assert(celo(tabureto,'tabure.0o','凳子[dèng zi]')).
+assert(celo(tabureto,'tabure.0o','脚凳[jiǎo dèng],腳凳[jiǎo dèng]')).
+assert(celo(tabureto,'tabure.0o','凳[dèng]')).
+assert(celo(tabureto,'tabure.0o','矮凳[ǎi dèng]')).
+assert(celo(taĉmento,'tacxme.0o','团队[tuán duì],團隊[tuán duì]')).
+assert(celo(taĉmento,'tacxme.0o','队[duì],隊[duì]')).
+assert(celo(tafto,'taft.0o','塔伕綢[tǎ fū chóu],塔夫绸[tǎ fū chóu]')).
+assert(celo(tafto,'taft.0o','塔夫綢[tǎ fū chóu],塔夫绸[tǎ fū chóu]')).
+assert(celo(tafto,'taft.0o','波紋縐絲織品[bō wén zhòu sī zhī pǐn],波纹绉丝织品[bō wén zhòu sī zhī pǐn]')).
+assert(celo(tage,'tag.0e','白天[bái tiān]')).
+assert(celo(tage,'tag.0e','白昼[bái zhòu],白晝[bái zhòu]')).
+assert(celo(tage,'tag.0e','日裡[rì lǐ],日里[rì lǐ]')).
+assert(celo('tage kaj nokte','tag.0ekajnokte','夜以繼日[yè yǐ jì rì],夜以继日[yè yǐ jì rì]')).
+assert(celo('tage kaj nokte','tag.0ekajnokte','日夜[rì yè]')).
+assert(celo('tage kaj nokte','tag.0ekajnokte','昼夜[zhòu yè],晝夜[zhòu yè]')).
+assert(celo('tage kaj nokte','tag.0ekajnokte','夜以繼日地[yè yǐ jì rì de],夜以继日地[yè yǐ jì rì de]')).
+assert(celo('tage kaj nokte','tag.0ekajnokte','沒日沒夜[méi rì méi yè],没日没夜[méi rì méi yè]')).
+assert(celo('Dankotago','tag.Danko0o','感恩節[gǎn ēn jié],感恩节[gǎn ēn jié]')).
+assert(celo('Dankotago','tag.Danko0o','收穫感恩節[shōu huò gǎn ēn jié],收获感恩节[shōu huò gǎn ēn jié]')).
+assert(celo('Dankotago','tag.Danko0o','收穫節[shōu huò jié],收获节[shōu huò jié]')).
+assert(celo('Dankotago','tag.Danko0o','感恩節[Gǎn ēn jié],感恩节[Gǎn ēn jié]')).
+assert(celo(antaŭtago,'tag.antaux0o','前一天[qián yī tiān]')).
+assert(celo('ĉi-tage','tag.cxi0e','今日[jīn rì]')).
+assert(celo(tagtaga,'tag.cxiu0a.KOMUNE','天天[tiān tiān]')).
+assert(celo(tagtaga,'tag.cxiu0a.KOMUNE','日常[rì cháng]')).
+assert(celo(tagtaga,'tag.cxiu0a.KOMUNE','逐日[zhú rì]')).
+assert(celo(tagtaga,'tag.cxiu0a.banala','平日[píng rì]')).
+assert(celo(ĉiutaga,'tag.cxiu0a','每日[měi rì]')).
+assert(celo(ĉiutaga,'tag.cxiu0a','日常[rì cháng]')).
+assert(celo(naskiĝtago,'tag.naskigx0o','誕[dàn],诞[dàn]')).
+assert(celo(naskiĝtago,'tag.naskigx0o','生辰[shēng chén]')).
+assert(celo(naskiĝtago,'tag.naskigx0o','誕辰[dàn chén],诞辰[dàn chén]')).
+assert(celo(naskiĝtago,'tag.naskigx0o','生日[shēng rì]')).
+assert(celo('sekvanta tago','tag.posta0o','翌日[yì rì]')).
+assert(celo(sekvatage,'tag.sekva0e','明日[míng rì]')).
+assert(celo(sekvatage,'tag.sekva0e','明天[míng tiān]')).
+assert(celo('tagaloga lingvo','tagalog.0alingvo','塔加洛語[tǎ jiā luò yǔ],塔加洛语[tǎ jiā luò yǔ]')).
+assert(celo('tagaloga lingvo','tagalog.0alingvo','他加祿語[tā jiā lù yǔ],他加禄语[tā jiā lù yǔ]')).
+assert(celo(taĝiko,'tagxik.0o','塔吉克人[Tǎ jí kè rén]')).
+assert(celo('Taĝikujo','tagxik.T0ujo.GEO','塔吉克斯坦[Tǎ jí kè sī tǎn]')).
+assert(celo('Taĝikio','tagxiki.T0o','塔吉克斯坦[tǎ jí kè sī tǎn]')).
+assert(celo('Tahitio','tahiti.0o','塔希提[tǎ xī tí]')).
+assert(celo('Tahitio','tahiti.0o','大溪地[dà xī dì]')).
+assert(celo(taĥikardio,'tahxikardi.0o','心动过速[xīn dòng guò sù],心動過速[xīn dòng guò sù]')).
+assert(celo(tajo,'taj.0o','泰国人[tài guó rén],泰國人[tài guó rén]')).
+assert(celo(tajo,'taj.0o','泰[tài]')).
+assert(celo('Tajlando','taj.T0lando','泰国[Tài guó],泰國[Tài guó]')).
+assert(celo(tajdo,'tajd.0o','潮水[cháo shuǐ]')).
+assert(celo(tajdo,'tajd.0o','海潮[hǎi cháo]')).
+assert(celo(tajdo,'tajd.0o','潮汐[cháo xì]')).
+assert(celo(naftotajdo,'tajd.nigra0o','漏油[lòu yóu]')).
+assert(celo(tajfuno,'tajfun.0o','台风[tái fēng],颱風[tái fēng]')).
+assert(celo(tajgo,'tajg.0o','泰加林[tài jiā lín]')).
+assert(celo(tajli,'tajl.0i','鉸[jiǎo],铰[jiǎo]')).
+assert(celo(tajli,'tajl.0i','剪出[jiǎn chū]')).
+assert(celo(entajlo,'tajl.en0o','栔[qì]')).
+assert(celo(entajlo,'tajl.en0o','切开[qiē kāi],切開[qiē kāi]')).
+assert(celo(tajlorejo,'tajlor.0ejo','女装裁缝[nǚ zhuāng cái feng],女裝裁縫[nǚ zhuāng cái feng]')).
+assert(celo(tajlorejo,'tajlor.0ejo','縫紉業[fèng rèn yè],缝纫业[fèng rèn yè]')).
+assert(celo(tajlorejo,'tajlor.0ejo','裁縫店[cái feng diàn],裁缝店[cái feng diàn]')).
+assert(celo(tajlori,'tajlor.0i','裁縫做[cái féng zuò],裁缝做[cái féng zuò]')).
+assert(celo(tajloro,'tajlor.0o','裁縫[cái féng],裁缝[cái féng]')).
+assert(celo(tajloro,'tajlor.0o','裁縫[cái feng],裁缝[cái feng]')).
+assert(celo(tajloro,'tajlor.0o','裁縫師[cái féng shī],裁缝师[cái féng shī]')).
+assert(celo(tajpi,'tajp.0i','打字[dǎ zì]')).
+assert(celo(tajpilo,'tajp.0ilo','打字机[dǎ zì jī],打字機[dǎ zì jī]')).
+assert(celo(tajpisto,'tajp.0isto','打字员[dǎ zì yuán],打字員[dǎ zì yuán]')).
+assert(celo('Tajpeo','tajpe.0o','台北[Tái běi],臺北[Tái běi]')).
+assert(celo('Tajvano','tajvan.0o','台湾[tái wān],台灣[tái wān]')).
+assert(celo(takelo,'takel.0o','滑輪[huá lún],滑轮[huá lún]')).
+assert(celo(taksi,'taks.0i','估[gū]')).
+assert(celo(taksi,'taks.0i','估計[gū jì],估计[gū jì]')).
+assert(celo(taksi,'taks.0i','估量[gū liang]')).
+assert(celo(taksi,'taks.0i','估值[gū zhí]')).
+assert(celo(taksi,'taks.0i','評價[píng jià],评价[píng jià]')).
+assert(celo(taksi,'taks.0i','掂[diān]')).
+assert(celo(taksi,'taks.0i','揆[kuí]')).
+assert(celo(takso,'taks.0o','估值[gū zhí]')).
+assert(celo(takso,'taks.0o','評估[píng gū],评估[píng gū]')).
+assert(celo(takso,'taks.0o','評鑒[píng jiàn],评鉴[píng jiàn]')).
+assert(celo(takso,'taks.0o','求值[qiú zhí]')).
+assert(celo(takso,'taks.0o','考評[kǎo píng],考评[kǎo píng]')).
+assert(celo(takso,'taks.0o','估测[gū cè],估測[gū cè]')).
+assert(celo(takso,'taks.0o','正确的判断[zhèng què de pàn duàn],正確的判斷[zhèng què de pàn duàn]')).
+assert(celo(takso,'taks.0o','鉴赏[jiàn shǎng],鑒賞[jiàn shǎng]')).
+assert(celo(mistaksi,'taks.mis0i','誤判[wù pàn],误判[wù pàn]')).
+assert(celo(nesubtaksebla,'taks.ne0ebla','无价[wú jià],無價[wú jià]')).
+assert(celo(nesubtaksebla,'taks.ne0ebla','无比地[wú bǐ de],無比地[wú bǐ de]')).
+assert(celo(nesubtaksebla,'taks.ne0ebla','无法对抗[wú fǎ duì kàng],無法對抗[wú fǎ duì kàng]')).
+assert(celo(nesubtaksebla,'taks.ne0ebla','絕代[jué dài],绝代[jué dài]')).
+assert(celo(nesubtaksebla,'taks.ne0ebla','絕無僅有[jué wú jǐn yǒu],绝无仅有[jué wú jǐn yǒu]')).
+assert(celo(nesubtaksebla,'taks.ne0ebla','非常宝贵[fēi cháng bǎo guì],非常寶貴[fēi cháng bǎo guì]')).
+assert(celo(nesubtaksebla,'taks.ne0ebla','出类[chū lèi],出類[chū lèi]')).
+assert(celo(nesubtaksebla,'taks.ne0ebla','沒的比[méi de bǐ]')).
+assert(celo(pritaksi,'taks.pri0i','掂[diān]')).
+assert(celo(pritaksi,'taks.pri0i','揣[chuǎi]')).
+assert(celo(subtaksi,'taks.sub0i','小看[xiǎo kàn]')).
+assert(celo(subtaksi,'taks.sub0i','小瞧[xiǎo qiáo]')).
+assert(celo(subtaksi,'taks.sub0i','低估[dī gū]')).
+assert(celo(supertaksi,'taks.super0i','高估[gāo gū]')).
+assert(celo(taksiisto,'taksi.0isto','出租車司機[chū zū chē sī jī],出租车司机[chū zū chē sī jī]')).
+assert(celo(taksiisto,'taksi.0isto','的哥[dī gē]')).
+assert(celo(taksio,'taksi.0o','出租汽車[chū zū qì chē],出租汽车[chū zū qì chē]')).
+assert(celo(taksio,'taksi.0o','出租車[chū zū chē],出租车[chū zū chē]')).
+assert(celo(taksio,'taksi.0o','計程車[jì chéng chē],计程车[jì chéng chē]')).
+assert(celo(taksio,'taksi.0o','的士[dī shì]')).
+assert(celo(taksiisto,'','的姐[dī jie]')).
+assert(celo(taksimetro,'taksimetr.0o','計價器[jì jià qì],计价器[jì jià qì]')).
+assert(celo(taksodio,'taksodi.0o','水松[shuǐ sōng]')).
+assert(celo(taksonomio,'','动植物分类[dòng zhí wù fēn lèi],動植物分類[dòng zhí wù fēn lèi]')).
+assert(celo(taksonomio,'','动物分类[dòng wù fēn lèi],動物分類[dòng wù fēn lèi]')).
+assert(celo(taksonomio,'','科学分类[kē xué fēn lèi],科學分類[kē xué fēn lèi]')).
+assert(celo(taksonomio,'','生物分类学[shēng wù fēn lèi xué],生物分類學[shēng wù fēn lèi xué]')).
+assert(celo(taksuso,'taksus.0o','紫杉木材[zǐ shā mù cái]')).
+assert(celo(takta,'takt.0a.MOR','婉轉[wǎn zhuǎn],婉转[wǎn zhuǎn]')).
+assert(celo(takta,'takt.0a.MOR','知趣[zhī qù]')).
+assert(celo(takta,'takt.0a.MOR','委婉[wěi wǎn]')).
+assert(celo(takto,'takt.0o','格律[gé lǜ]')).
+assert(celo(takto,'takt.0o','韵律[yùn lǜ],韻律[yùn lǜ]')).
+assert(celo(takto,'takt.0o','测时间[cè shí jiān],測時間[cè shí jiān]')).
+assert(celo(takto,'takt.0o','計時[jì shí],计时[jì shí]')).
+assert(celo(samtakta,'takt.sam0a','同步[tóng bù]')).
+assert(celo(sentakta,'takt.sen0a.MOR','沒心眼[méi xīn yǎn],没心眼[méi xīn yǎn]')).
+assert(celo(sentakta,'takt.sen0a.MOR','非礼[fēi lǐ],非禮[fēi lǐ]')).
+assert(celo(sentakta,'takt.sen0a.MOR','冒失[mào shi]')).
+assert(celo(taktiko,'taktik.0o','战术[zhàn shù],戰術[zhàn shù]')).
+assert(celo(talaro,'talar.0o','法衣[fǎ yī]')).
+assert(celo(talaro,'talar.0o','学位服[xué wèi fú],學位服[xué wèi fú]')).
+assert(celo(talasemio,'talasemi.0o','海洋性貧血[hǎi yáng xìng pín xuè],海洋性贫血[hǎi yáng xìng pín xuè]')).
+assert(celo(talasemio,'talasemi.0o','地中海貧血[Dì zhōng Hǎi pín xuè],地中海贫血[Dì zhōng Hǎi pín xuè]')).
+assert(celo(talenta,'talent.0a','有才华[yǒu cái huá],有才華[yǒu cái huá]')).
+assert(celo(talenta,'talent.0a','天才[tiān cái]')).
+assert(celo(talenta,'talent.0a','有天分[yǒu tiān fèn]')).
+assert(celo(talenta,'talent.0a','有才[yǒu cái]')).
+assert(celo(talento,'talent.0o','人才[rén cái]')).
+assert(celo(talento,'talent.0o','天分[tiān fèn]')).
+assert(celo(talento,'talent.0o','天才[tiān cái]')).
+assert(celo(talento,'talent.0o','才分[cái fèn]')).
+assert(celo(talento,'talent.0o','本領[běn lǐng],本领[běn lǐng]')).
+assert(celo(talento,'talent.0o','艺[yì],藝[yì]')).
+assert(celo(talentulo,'talent.0ulo','人才[rén cái]')).
+assert(celo(talentulo,'talent.0ulo','天才[tiān cái]')).
+assert(celo(talentulo,'talent.0ulo','奇才[qí cái]')).
+assert(celo(sentalenta,'talent.sen0a','低級[dī jí],低级[dī jí]')).
+assert(celo(sentalenta,'talent.sen0a','平平[píng píng]')).
+assert(celo(sentalenta,'talent.sen0a','平庸[píng yōng]')).
+assert(celo(sentalenta,'talent.sen0a','碌碌无为[lù lù wú wéi],碌碌無為[lù lù wú wéi]')).
+assert(celo(sentalenta,'talent.sen0a','較差[jiào chà],较差[jiào chà]')).
+assert(celo(sentalenteco,'talent.sen0eco','中路[zhōng lù]')).
+assert(celo('Taleso','tales.0o','泰勒斯[tài lēi sī]')).
+assert(celo(talio,'tali.0o','腰胯[yāo kuà]')).
+assert(celo(talio,'tali.0o','腰部[yāo bù]')).
+assert(celo(talio,'tali.0o','腰身[yāo shēn]')).
+assert(celo(talio,'tali.0o','腰肢[yāo zhī]')).
+assert(celo(talio,'tali.0o','腰間[yāo jiān],腰间[yāo jiān]')).
+assert(celo(talio,'tali2.0o','鎉[tà]')).
+assert(celo(talio,'tali2.0o','鉈[tā],铊[tā]')).
+assert(celo(talibo,'talib.0o','塔利班[Tǎ lì bān]')).
+assert(celo('Talino','talin.0o','塔林[tǎ lín]')).
+assert(celo(talismano,'talism.0o','符[fú]')).
+assert(celo(talismano,'talism.0o','护身符[hù shēn fú],護身符[hù shēn fú]')).
+assert(celo(talismano,'talism.0o','符咒[fú zhòu]')).
+assert(celo(talismano,'talism.0o','灵符[líng fú],靈符[líng fú]')).
+assert(celo(talismano,'talism.0o','护身符子[hù shēn fú zi],護身符子[hù shēn fú zi]')).
+assert(celo(talko,'talk.0o','滑石[huá shí]')).
+assert(celo(talko,'talk.0o','滑石粉[huá shí fěn]')).
+assert(celo(talmudo,'talmud.0o','塔木德[tǎ mù dé]')).
+assert(celo(talpo,'talp.0o','鼴[yǎn],鼹[yǎn]')).
+assert(celo(talpo,'talp.0o','鼢[fén]')).
+assert(celo(talpo,'talp.0o','黑痣[hēi zhì]')).
+assert(celo(talpo,'talp.0o','鼴鼠[yǎn shǔ],鼹鼠[yǎn shǔ]')).
+assert(celo(tamarindo,'tamari.0o','酸豆[suān dòu]')).
+assert(celo(tamarindo,'tamari.0o','罗望子[luó wàng zǐ],羅望子[luó wàng zǐ]')).
+assert(celo(tamarisko,'tamari1.0o','柽[chēng],檉[chēng]')).
+assert(celo(tamburi,'tambur.0i','击鼓[jí gǔ],擊鼓[jí gǔ]')).
+assert(celo(tamburi,'tambur.0i','敲击[qiāo jí],敲擊[qiāo jí]')).
+assert(celo(tamburisto,'tambur.0isto','鼓手[gǔ shǒu]')).
+assert(celo(tamburisto,'tambur.0isto','大吹大擂的人[dà chuī dà léi de rén]')).
+assert(celo(oreltamburo,'tambur.orel0o','耳膜[ěr mó]')).
+assert(celo(oreltamburo,'tambur.orel0o','絞盤頭[jiǎo pán tóu],绞盘头[jiǎo pán tóu]')).
+assert(celo(oreltamburo,'tambur.orel0o','鼓膜[gǔ mò]')).
+assert(celo(tamburino,'tambur1.0o','鈴鼓[líng gǔ],铃鼓[líng gǔ]')).
+assert(celo(tamiaso,'tamias.0o','花栗鼠[huā lì shǔ]')).
+assert(celo(tamiaso,'tamias.0o','花鼠[huā shǔ]')).
+assert(celo(tamiaso,'tamias.0o','花鼠属[huā shǔ shǔ],花鼠屬[huā shǔ shǔ]')).
+assert(celo(tamulo,'tamil.0o','泰米尔人[tài mǐ ěr rén],泰米爾人[tài mǐ ěr rén]')).
+assert(celo(tamulo,'tamil.0o','泰米尔[tài mǐ ěr],泰米爾[tài mǐ ěr]')).
+assert(celo('Tamilujo','tamil.0ujo','泰米尔纳德邦[tài mǐ ěr nà dé bāng],泰米爾納德邦[tài mǐ ěr nà dé bāng]')).
+assert(celo('Tamizo','tamiz.0o.rivero','泰晤士河[Tài wù shì Hé]')).
+assert(celo(tampono,'tampon.0o','卫生棉条[wèi shēng mián tiáo],衛生棉條[wèi shēng mián tiáo]')).
+assert(celo(tampono,'tampon.0o','止血栓[zhǐ xuè shuān]')).
+assert(celo(tamtamo,'tamtam.0o','鑼[luó],锣[luó]')).
+assert(celo(tamtamo,'tamtam.0o','馴順[xùn shùn],驯顺[xùn shùn]')).
+assert(celo(tanejo,'tan.0ejo','硝皮厂[xiāo pí chǎng],硝皮廠[xiāo pí chǎng]')).
+assert(celo(tani,'tan.0i','制革[zhì gé]')).
+assert(celo(tanilo,'tan.0ilo','鞣質[róu zhì],鞣质[róu zhì]')).
+assert(celo(tanilo,'tan.0ilo','栲胶[kǎo jiāo],栲膠[kǎo jiāo]')).
+assert(celo(tanilo,'tan.0ilo','鞣酸[róu suān]')).
+assert(celo(tanisto,'tan.0isto','制革技工[zhì gé jì gōng]')).
+assert(celo(tanisto,'tan.0isto','制革工人[zhì gé gōng rén],製革工人[zhì gé gōng rén]')).
+assert(celo('Tanatoso','tanatos.0o','塔納託斯[tǎ nà tuō sī],塔纳托斯[tǎ nà tuō sī]')).
+assert(celo('Tanatoso','tanatos.0o','撒那特斯[sǎ nà tè sī]')).
+assert(celo(tandemo,'tandem.0o','双人自行车[shuāng rén zì xíng chē],雙人自行車[shuāng rén zì xíng chē]')).
+assert(celo(tandemo,'tandem.0o','双座脚踏车[shuāng zuò jiǎo tà chē],雙座腳踏車[shuāng zuò jiǎo tà chē]')).
+assert(celo(tandemo,'tandem.0o','双座自行车[shuāng zuò zì xíng chē],雙座自行車[shuāng zuò zì xíng chē]')).
+assert(celo(tangi,'tang.0i.MAR','縱搖[zòng yáo],纵摇[zòng yáo]')).
+assert(celo(tango,'tang.0o.danco','探戈[tàn gē]')).
+assert(celo(tangento,'tangen.0o','切[qiē]')).
+assert(celo(tangento,'tangen.0o','正切[zhèng qiè]')).
+assert(celo(arkotangento,'tangen.ark0o','反正切[fǎn zhèng qiē]')).
+assert(celo(tanĝanta,'tangx.0a','切[qiē]')).
+assert(celo(tanĝanta,'tangx.0a','正切曲線圖[zhèng qiē qū xiàn tú],正切曲线图[zhèng qiē qū xiàn tú]')).
+assert(celo(tanĝanta,'tangx.0a','切向[qiē xiàng]')).
+assert(celo(tanĝanto,'tangx.0anto','切[qiē]')).
+assert(celo(tanino,'tanin.0o','鞣質[róu zhì],鞣质[róu zhì]')).
+assert(celo(tanino,'tanin.0o','栲胶[kǎo jiāo],栲膠[kǎo jiāo]')).
+assert(celo(tanino,'tanin.0o','鞣酸[róu suān]')).
+assert(celo(tanko,'tank.0o','坦克[tǎn kè]')).
+assert(celo(tankao,'tanka.0o','短歌[duǎn gē]')).
+assert(celo(tantalo,'tantal.0o','鉭[tǎn],钽[tǎn]')).
+assert(celo(tantrismo,'tantr.0ismo.HIN','密宗[mì zōng]')).
+assert(celo('Tanzanio','tanzani.T0o.GEOG','坦尚尼亚[Tǎn shàng ní yà],坦尚尼亞[Tǎn shàng ní yà]')).
+assert(celo('Tanzanio','tanzani.T0o.GEOG','坦桑尼亚[tǎn sāng ní yà],坦桑尼亞[tǎn sāng ní yà]')).
+assert(celo(tapeti,'tapet.0i','貼牆紙[tiē qiáng zhǐ],贴墙纸[tiē qiáng zhǐ]')).
+assert(celo(tapeto,'tapet.0o','墙纸[qiáng zhǐ],牆紙[qiáng zhǐ]')).
+assert(celo(tapeto,'tapet.0o','壁紙[bì zhǐ],壁纸[bì zhǐ]')).
+assert(celo(tapeto,'tapet.0o','糊墙纸[hú qiáng zhǐ],糊牆紙[hú qiáng zhǐ]')).
+assert(celo(tapioko,'tapiok.0o','木薯淀粉[mù shǔ diàn fěn],木薯澱粉[mù shǔ diàn fěn]')).
+assert(celo(tapiro,'tapir.0o','狴[bì]')).
+assert(celo(tapiro,'tapir.0o','貘[mò]')).
+assert(celo(tapiro,'tapir.0o','獏[mò]')).
+assert(celo(tapiŝo,'tapisx.0o','地毯[dì tǎn]')).
+assert(celo(tapiŝo,'tapisx.0o','毹[shū]')).
+assert(celo(tapiŝo,'tapisx.0o','卡垫[kǎ diàn],卡墊[kǎ diàn]')).
+assert(celo(tapiŝo,'tapisx.0o','氆氇[pǔ lū],氆氌[pǔ lū]')).
+assert(celo(tapiŝo,'tapisx.0o','絨氈[róng zhān],绒毡[róng zhān]')).
+assert(celo(tapiŝo,'tapisx.0o','鋪上一層[pù shàng yī céng],铺上一层[pù shàng yī céng]')).
+assert(celo(herbotapiŝo,'tapisx.herbo0o','草坪[cǎo píng]')).
+assert(celo(herbotapiŝo,'tapisx.herbo0o','草地[cǎo dì]')).
+assert(celo(kuntara,'tar.kun0a','毛重[máo zhòng]')).
+assert(celo(sentara,'tar.sen0a','净重[jìng zhòng],淨重[jìng zhòng]')).
+assert(celo(tarantelo,'tarant.0o','狼蛛[láng zhū]')).
+retract(celo(tarantelo,'tarant.0o','狼蛛[láng zhū]')).
+assert(celo(tarantulo,'tarant1.0o.luparaneo','捕鳥蛛[bǔ niǎo zhū],捕鸟蛛[bǔ niǎo zhū]')).
+assert(celo(tarantulo,'tarant1.0o.luparaneo','狼蛛[láng zhū]')).
+assert(celo(tardigradoj,'tardigrad.0oj','緩步動物門[huǎn bù dòng wù mén],缓步动物门[huǎn bù dòng wù mén]')).
+assert(celo(tarifo,'tarif.0o','費率[fèi lù:],费率[fèi lù:]')).
+assert(celo(tarifo,'tarif.0o','价格[jià gé],價格[jià gé]')).
+assert(celo(tarifo,'tarif.0o','价钱[jià qian],價錢[jià qian]')).
+assert(celo(taroko,'tarok.0o','塔罗卡[tǎ luó kǎ],塔羅卡[tǎ luó kǎ]')).
+assert(celo(taroko,'tarok.0o','塔罗[tǎ luó],塔羅[tǎ luó]')).
+assert(celo(tarso,'tars.0o','跗[fū]')).
+assert(celo(taso,'tas.0o','杯[bēi]')).
+assert(celo(taso,'tas.0o','盂[yú]')).
+assert(celo(taso,'tas.0o','杯子[bēi zi]')).
+assert(celo(subtaso,'tas.sub0o','小碟子[xiǎo dié zi]')).
+assert(celo(subtaso,'tas.sub0o','碟子[dié zi]')).
+assert(celo(taskaro,'task.0aro','議程[yì chéng],议程[yì chéng]')).
+assert(celo(taskaro,'task.0aro','任务书[rèn wù shū],任務書[rèn wù shū]')).
+assert(celo(tasko,'task.0o','任务[rèn wu],任務[rèn wu]')).
+assert(celo(tasko,'task.0o','使命[shǐ mìng]')).
+assert(celo(tasko,'task.0o','作业[zuò yè],作業[zuò yè]')).
+assert(celo(tasko,'task.0o','功課[gōng kè],功课[gōng kè]')).
+assert(celo(tasko,'task.0o','課題[kè tí],课题[kè tí]')).
+assert(celo(hejmtasko,'task.hejm0o','功課[gōng kè],功课[gōng kè]')).
+assert(celo(hejmtasko,'task.hejm0o','家庭作业[jiā tíng zuò yè],家庭作業[jiā tíng zuò yè]')).
+assert(celo(plurtaskado,'task.plur0ado','多工作业[duō gōng zuò yè],多工作業[duō gōng zuò yè]')).
+assert(celo(plurtaskado,'task.plur0ado','多任务处理[duō rèn wu chǔ lǐ],多任務處理[duō rèn wu chǔ lǐ]')).
+assert(celo('Tasmanio','tasmani.0o','塔州[Tǎ Zhōu]')).
+assert(celo('Tasmanio','tasmani.0o','塔斯曼尼亚[Tǎ sī màn ní yà],塔斯曼尼亞[Tǎ sī màn ní yà]')).
+assert(celo('Tasmanio','tasmani.0o','塔斯曼尼亚岛[Tǎ sī màn ní yà Dǎo],塔斯曼尼亞島[Tǎ sī màn ní yà Dǎo]')).
+assert(celo('Tasmanio','tasmani.0o','塔斯馬尼亞[Tǎ sī mǎ ní yà],塔斯马尼亚[Tǎ sī mǎ ní yà]')).
+assert(celo(taŝo,'tasx.0o','口袋[kǒu dài]')).
+assert(celo(taŝo,'tasx.0o','袋[dài]')).
+assert(celo(taŝo,'tasx.0o','包包[bāo bāo]')).
+assert(celo(taŝo,'tasx.0o','兜[dōu]')).
+assert(celo(aĉettaŝo,'tasx.acxet0o','購物袋[gòu wù dài],购物袋[gòu wù dài]')).
+assert(celo('Taŝkento','tasxkent.0o','塔什干[tǎ shí gān]')).
+assert(celo(tatamo,'tatam.0o','畳[dié]')).
+assert(celo(tatamo,'tatam.0o','叠席[dié xí],疊蓆[dié xí]')).
+assert(celo(tatamo,'tatam.0o','榻榻米[tā tā mǐ]')).
+assert(celo(tataro,'tatar.0o','鞑靼人[Dá dá rén],韃靼人[Dá dá rén]')).
+assert(celo(tataro,'tatar.0o','塔塔尔族[tǎ tǎ ěr zú],塔塔爾族[tǎ tǎ ěr zú]')).
+assert(celo(tataro,'tatar.0o','达子[dá zi],達子[dá zi]')).
+assert(celo('Tatarujo','tatar.T0ujo','鞑靼斯坦共和国[dá dá sī tǎn gòng hé guó],韃靼斯坦共和國[dá dá sī tǎn gòng hé guó]')).
+assert(celo('Tatario','tatari.0o','鞑靼斯坦共和国[dá dá sī tǎn gòng hé guó],韃靼斯坦共和國[dá dá sī tǎn gòng hé guó]')).
+assert(celo('Tatroj','tatr.0oj','塔特拉山[tǎ tè lā shān]')).
+assert(celo(tatuaĵo,'tatu.0ajxo','刺花[cì huā]')).
+assert(celo(tatuaĵo,'tatu.0ajxo','紋身[wén shēn],纹身[wén shēn]')).
+assert(celo(tatui,'tatu.0i','刺花[cì huā]')).
+assert(celo(tatui,'tatu.0i','紋身[wén shēn],纹身[wén shēn]')).
+assert(celo(tatui,'tatu.0i','刺花紋[cì huā wén],刺花纹[cì huā wén]')).
+assert(celo(tatui,'tatu.0i','刺靑[cì qīng],刺青[cì qīng]')).
+assert(celo(tatui,'tatu.0i','文身[wén shēn]')).
+assert(celo(taŭga,'tauxg.0a','合适[hé shì],合適[hé shì]')).
+assert(celo(taŭga,'tauxg.0a','啱[yān]')).
+assert(celo(taŭga,'tauxg.0a','适当[shì dàng],適當[shì dàng]')).
+assert(celo(taŭga,'tauxg.0a','得当[dé dàng],得當[dé dàng]')).
+assert(celo(taŭga,'tauxg.0a','适宜[shì yí],適宜[shì yí]')).
+assert(celo(taŭga,'tauxg.0a','帖[tiē]')).
+assert(celo(taŭga,'tauxg.0a','妥[tuǒ]')).
+assert(celo(taŭga,'tauxg.0a','宜[yí]')).
+assert(celo(taŭga,'tauxg.0a','适[shì],適[shì]')).
+assert(celo(taŭga,'tauxg.0a','恰当[qià dàng],恰當[qià dàng]')).
+assert(celo(taŭga,'tauxg.0a','合用[hé yòng]')).
+assert(celo(taŭga,'tauxg.0a','妥帖[tuǒ tiē]')).
+assert(celo(taŭgi,'tauxg.0i','合适[hé shì],合適[hé shì]')).
+assert(celo(taŭgi,'tauxg.0i','适合[shì hé],適合[shì hé]')).
+assert(celo(taŭgi,'tauxg.0i','宜于[yí yú],宜於[yí yú]')).
+assert(celo(taŭgi,'tauxg.0i','切合[qiè hé]')).
+assert(celo(sentaŭga,'tauxg.mal0a','不适当[bù shì dàng],不適當[bù shì dàng]')).
+assert(celo(sentaŭga,'tauxg.mal0a','不妥[bù tuǒ]')).
+assert(celo(sentaŭga,'tauxg.mal0a','不合适[bù hé shì],不合適[bù hé shì]')).
+assert(celo(sentaŭga,'tauxg.mal0a','不适用[bù shì yòng],不適用[bù shì yòng]')).
+assert(celo(sentaŭgulo,'tauxg.sen0ulo','小混混[xiǎo hùn hùn]')).
+assert(celo(sentaŭgulo,'tauxg.sen0ulo','二流子[èr liú zǐ]')).
+assert(celo(sentaŭgulo,'tauxg.sen0ulo','成績很差的學生[chéng jī hěn chā dì xué sheng],成绩很差的学生[chéng jī hěn chā dì xué sheng]')).
+assert(celo(sentaŭgulo,'tauxg.sen0ulo','沒用的人[méi yòng de rén],没用的人[méi yòng de rén]')).
+assert(celo(sentaŭgulo,'tauxg.sen0ulo','阿斗[a dòu],阿鬥[a dòu]')).
+assert(celo(taŭro,'tauxr.0o','公牛[gōng niú]')).
+assert(celo(taŭtologio,'tauxto.0o','同义反复[tóng yì fǎn fù],同義反復[tóng yì fǎn fù]')).
+assert(celo(taŭtologio,'tauxto.0o','重言式[chóng yán shì]')).
+assert(celo(taŭtologio,'tauxto.0o','冗詞[rǒng cí],冗词[rǒng cí]')).
+assert(celo(taverno,'tavern.0o','酒館[jiǔ guǎn],酒馆[jiǔ guǎn]')).
+assert(celo(taverno,'tavern.0o','酒鋪[jiǔ pù],酒铺[jiǔ pù]')).
+assert(celo(taverno,'tavern.0o','酒肆[jiǔ sì]')).
+assert(celo(tavoligi,'tavol.0igi','叠加[dié jiā],疊加[dié jiā]')).
+assert(celo(tavolo,'tavol.0o','层[céng],層[céng]')).
+assert(celo(tavolo,'tavol.0o','塗層[tú céng],涂层[tú céng]')).
+assert(celo(tavolo,'tavol.0o','图层[tú céng],圖層[tú céng]')).
+assert(celo(subtavolo,'tavol.sub0o','下层[xià céng],下層[xià céng]')).
+assert(celo(subtavolo,'tavol.sub0o','基材[jī cái]')).
+assert(celo(tertavolo,'tavol.ter0o','地层[dì céng],地層[dì céng]')).
+assert(celo(tertavolo,'tavol.ter0o','土层[tǔ céng],土層[tǔ céng]')).
+assert(celo(tearbo,'te.0arbo.australia','千层树[qiān céng shù],千層樹[qiān céng shù]')).
+assert(celo(tearbo,'te.0arbo.azia','茶树[chá shù],茶樹[chá shù]')).
+assert(celo(tearbo,'te.0arbo.azia','檟[jiǎ]')).
+assert(celo('ruĝa teo','te.nigra0o','紅茶[hóng chá],红茶[hóng chá]')).
+assert(celo('verda teo','te.verda0o','清茶[qīng chá]')).
+assert(celo(teama,'team.0a','集体[jí tǐ],集體[jí tǐ]')).
+assert(celo(teamo,'team.0o','团队[tuán duì],團隊[tuán duì]')).
+assert(celo(teamo,'team.0o','組[zǔ],组[zǔ]')).
+assert(celo(teamo,'team.0o','队[duì],隊[duì]')).
+assert(celo(samteamano,'team.sam0ano','队友[duì yǒu],隊友[duì yǒu]')).
+assert(celo(teatra,'teatr.0a','戏剧性[xì jù xìng],戲劇性[xì jù xìng]')).
+assert(celo(teatra,'teatr.0a.figure','戏剧化[xì jù huà],戲劇化[xì jù huà]')).
+assert(celo(teatra,'teatr.0a.figure','戏剧演出[xì jù yǎn chū],戲劇演出[xì jù yǎn chū]')).
+assert(celo(teatra,'teatr.0a.figure','演剧[yǎn jù],演劇[yǎn jù]')).
+assert(celo(teatraĵo,'teatr.0ajxo','剧[jù],劇[jù]')).
+assert(celo(teatraĵo,'teatr.0ajxo','戏[xì],戲[xì]')).
+assert(celo(teatro,'teatr.0o','剧场[jù chǎng],劇場[jù chǎng]')).
+assert(celo(teatro,'teatr.0o','戏院[xì yuàn],戲院[xì yuàn]')).
+assert(celo(teatro,'teatr.0o','剧院[jù yuàn],劇院[jù yuàn]')).
+assert(celo(teatro,'teatr.0o','戏剧[xì jù],戲劇[xì jù]')).
+assert(celo(teatro,'teatr.0o','話劇表演[huà jù biǎo yǎn],话剧表演[huà jù biǎo yǎn]')).
+assert(celo(kinoteatro,'teatr.film0o','影剧院[yǐng jù yuàn],影劇院[yǐng jù yuàn]')).
+assert(celo(kinoteatro,'teatr.film0o','电影院[diàn yǐng yuàn],電影院[diàn yǐng yuàn]')).
+assert(celo(kinoteatro,'teatr.film0o','影院[yǐng yuàn]')).
+assert(celo(ombroteatro,'teatr.ombro0o.TEA','皮影戏[pí yǐng xì],皮影戲[pí yǐng xì]')).
+assert(celo('pupa teatro','teatr.pup0o','木偶戏[mù ǒu xì],木偶戲[mù ǒu xì]')).
+assert(celo('pupa teatro','teatr.pup0o','傀儡戏[kuǐ lěi xì],傀儡戲[kuǐ lěi xì]')).
+assert(celo('Tebo','teb.0o','底比斯[dǐ bǐ sī]')).
