@@ -455,3 +455,93 @@ assert(celo(ombroteatro,'teatr.ombro0o.TEA','皮影戏[pí yǐng xì],皮影戲[
 assert(celo('pupa teatro','teatr.pup0o','木偶戏[mù ǒu xì],木偶戲[mù ǒu xì]')).
 assert(celo('pupa teatro','teatr.pup0o','傀儡戏[kuǐ lěi xì],傀儡戲[kuǐ lěi xì]')).
 assert(celo('Tebo','teb.0o','底比斯[dǐ bǐ sī]')).
+assert(celo(teda,'ted.0a','无聊[wú liáo],無聊[wú liáo]')).
+assert(celo(teda,'ted.0a','烦人[fán rén],煩人[fán rén]')).
+assert(celo(teda,'ted.0a','烦[fán],煩[fán]')).
+assert(celo(teda,'ted.0a','生厌[shēng yàn],生厭[shēng yàn]')).
+assert(celo(teda,'ted.0a','可气[kě qì],可氣[kě qì]')).
+assert(celo(teda,'ted.0a','恼人[nǎo rén],惱人[nǎo rén]')).
+assert(celo(teda,'ted.0a','討厭[tǎo yàn],讨厌[tǎo yàn]')).
+assert(celo(teda,'ted.0a','菐[pú]')).
+assert(celo(teda,'ted.0a','烦琐[fán suǒ],煩瑣[fán suǒ]')).
+assert(celo(tedi,'ted.0i','烦人[fán rén],煩人[fán rén]')).
+assert(celo(tedi,'ted.0i','累[lèi]')).
+assert(celo(tedi,'ted.0i','騷擾[sāo rǎo],骚扰[sāo rǎo]')).
+assert(celo(tedi,'ted.0i','使人疲劳[shǐ rén pí láo],使人疲勞[shǐ rén pí láo]')).
+assert(celo(tediĝi,'ted.0igxi','厌倦[yàn juàn],厭倦[yàn juàn]')).
+assert(celo(tedo,'ted.0o','不高兴[bù gāo xìng],不高興[bù gāo xìng]')).
+assert(celo(tedo,'ted.0o','无聊[wú liáo],無聊[wú liáo]')).
+assert(celo(tedo,'ted.0o','腻烦[nì fan],膩煩[nì fan]')).
+assert(celo(teflono,'teflon.0o','特富龍[tè fù lóng],特富龙[tè fù lóng]')).
+assert(celo(teflono,'teflon.0o','鐵袱龍[tiě fú lóng],铁袱龙[tiě fú lóng]')).
+assert(celo(teflono,'teflon.0o','塑料王[sù liào wáng]')).
+assert(celo(teflono,'teflon.0o','鐵氟龍[Tiě fú lóng],铁氟龙[Tiě fú lóng]')).
+assert(celo(tegaĵo,'teg.0ajxo.tego','塗層[tú céng],涂层[tú céng]')).
+assert(celo(tegaĵo,'teg.0ajxo.tego','外面[wài miàn]')).
+assert(celo(tegaĵo,'teg.0ajxo.tego','蒙皮[méng pí]')).
+assert(celo(tegaĵo,'teg.0ajxo.tego','衣子[yī zǐ]')).
+assert(celo(tegi,'teg.0i','盖[gài],蓋[gài]')).
+assert(celo(tegi,'teg.0i','焘[dào],燾[dào]')).
+assert(celo(tegi,'teg.0i','笼罩[lǒng zhào],籠罩[lǒng zhào]')).
+assert(celo(tegi,'teg.0i','覆[fù]')).
+assert(celo(tegi,'teg.0i','覆盖[fù gài],覆蓋[fù gài]')).
+assert(celo(tegi,'teg.0i','幪[méng]')).
+assert(celo(tegilo,'teg.0ilo','塗層[tú céng],涂层[tú céng]')).
+assert(celo(tegilo,'teg.0ilo','套子[tào zi]')).
+assert(celo(tego,'teg.0o','塗層[tú céng],涂层[tú céng]')).
+assert(celo(tego,'teg.0o','笼[lǒng],籠[lǒng]')).
+assert(celo(tego,'teg.0o','蒙皮[méng pí]')).
+assert(celo(tego,'teg.0o','衣子[yī zǐ]')).
+assert(celo(tegmenti,'tegmen.0i','加盖[jiā gài],加蓋[jiā gài]')).
+assert(celo(tegmento,'tegmen.0o','屋頂[wū dǐng],屋顶[wū dǐng]')).
+assert(celo(tegmento,'tegmen.0o','房頂[fáng dǐng],房顶[fáng dǐng]')).
+assert(celo(tegmento,'tegmen.0o','屋面[wū miàn]')).
+assert(celo(tegmento,'tegmen.0o','頂蓋[dǐng gài],顶盖[dǐng gài]')).
+assert(celo(tegmento,'tegmen.0o','棚頂[péng dǐng],棚顶[péng dǐng]')).
+assert(celo('subtegmenta ĉambro','','頂樓[dǐng lóu],顶楼[dǐng lóu]')).
+assert(celo(subtegmentejo,'tegmen.sub0o','頂樓[dǐng lóu],顶楼[dǐng lóu]')).
+assert(celo(tegolisto,'tegol.0isto','屋面鋪瓦工[wū miàn pù wǎ gōng],屋面铺瓦工[wū miàn pù wǎ gōng]')).
+assert(celo(tegmentisto,'','屋面鋪瓦工[wū miàn pù wǎ gōng],屋面铺瓦工[wū miàn pù wǎ gōng]')).
+assert(celo(tegolo,'tegol.0o','瓦[wǎ]')).
+assert(celo(tegolo,'tegol.0o','盖瓦[gài wǎ],蓋瓦[gài wǎ]')).
+assert(celo(tegolo,'tegol.0o','木瓦[mù wǎ]')).
+assert(celo(tegolo,'tegol.0o','屋瓦[wū wǎ]')).
+assert(celo('Teguo','tegu.0o','大邱[Dà qiū]')).
+assert(celo('Tegucigalpo','tegucigalp.0o','特古西加尔巴[Tè gǔ xī jiā ěr bā],特古西加爾巴[Tè gǔ xī jiā ěr bā]')).
+assert(celo('Tegucigalpo','tegucigalp.0o','德古西加巴[Dé gǔ xī jiā bā]')).
+assert(celo('Tehrano','teheran.0o','伊朗首都[yī lǎng shǒu dū]')).
+assert(celo('Tehrano','teheran.0o','德黑兰[dé hè lán],德黑蘭[dé hè lán]')).
+assert(celo(teknika,'tehxnik.0a','技术性[jì shù xìng],技術性[jì shù xìng]')).
+assert(celo(teknika,'tehxnik.0a','技术上[jì shù shàng],技術上[jì shù shàng]')).
+assert(celo(teknikisto,'tehxnik.0isto','技术员[jì shù yuán],技術員[jì shù yuán]')).
+assert(celo(teknikisto,'tehxnik.0isto','技师[jì shī],技師[jì shī]')).
+assert(celo(teknikisto,'tehxnik.0isto','技术人员[jì shù rén yuán],技術人員[jì shù rén yuán]')).
+assert(celo(tekniko,'tehxnik.0o','技法[jì fǎ]')).
+assert(celo(tekniko,'tehxnik.0o','技术[jì shù],技術[jì shù]')).
+assert(celo(tekniko,'tehxnik.0o','术[shù],術[shù]')).
+assert(celo(tekniko,'tehxnik.0o','技术规格[jì shù guī gé],技術規格[jì shù guī gé]')).
+assert(celo(elektrotekniko,'tehxnik.elektro0o','电气工程[diàn qì gōng chéng],電氣工程[diàn qì gōng chéng]')).
+assert(celo(elektrotekniko,'tehxnik.elektro0o','电子工程[diàn zǐ gōng chéng],電子工程[diàn zǐ gōng chéng]')).
+assert(celo(gentekniko,'tehxnik.gen0o','基因技术[jī yīn jì shù],基因技術[jī yīn jì shù]')).
+assert(celo(gentekniko,'tehxnik.gen0o','基因工程[jī yīn gōng chéng]')).
+assert(celo(gentekniko,'tehxnik.gen0o','遗传工程[yí chuán gōng chéng],遺傳工程[yí chuán gōng chéng]')).
+assert(celo(gentekniko,'tehxnik.gen0o','轉基因工程[zhuǎn jī yīn gōng chéng],转基因工程[zhuǎn jī yīn gōng chéng]')).
+assert(celo(teĥnikumo,'tehxnikum.0o','工业学校[gōng yè xué xiào],工業學校[gōng yè xué xiào]')).
+assert(celo(teĥnikumo,'tehxnikum.0o','工艺学院[gōng yì xué yuàn],工藝學院[gōng yì xué yuàn]')).
+assert(celo(teĥnikumo,'tehxnikum.0o','技术专科学校[jì shù zhuān kē xué xiào],技術專科學校[jì shù zhuān kē xué xiào]')).
+assert(celo(teĥnikumo,'tehxnikum.0o','工学院[gōng xué yuàn],工學院[gōng xué yuàn]')).
+assert(celo(teknokrataro,'tehxnokrat.0aro','唯技术论者[wěi jì shù lùn zhě],唯技術論者[wěi jì shù lùn zhě]')).
+assert(celo(teknokrataro,'tehxnokrat.0aro','科技主义者[kē jì zhǔ yì zhě],科技主義者[kē jì zhǔ yì zhě]')).
+assert(celo(teknokrataro,'tehxnokrat.0aro','技术官僚[jì shù guān liáo],技術官僚[jì shù guān liáo]')).
+assert(celo(teknokrato,'tehxnokrat.0o','技术官僚[jì shù guān liáo],技術官僚[jì shù guān liáo]')).
+assert(celo(teknokrato,'tehxnokrat.0o','唯技术论者[wěi jì shù lùn zhě],唯技術論者[wěi jì shù lùn zhě]')).
+assert(celo(teknokrato,'tehxnokrat.0o','科技主义者[kē jì zhǔ yì zhě],科技主義者[kē jì zhǔ yì zhě]')).
+assert(celo(teĥnologo,'tehxnolog.0o','技术[jì shù],技術[jì shù]')).
+retract(celo(teĥnologo,'tehxnolog.0o','技术[jì shù],技術[jì shù]')).
+assert(celo(teknologia,'tehxnologi.0a','高技术[gāo jì shù],高技術[gāo jì shù]')).
+assert(celo(teknologia,'tehxnologi.0a','高科技[gāo kē jì]')).
+assert(celo(teknologio,'tehxnologi.0o','技术[jì shù],技術[jì shù]')).
+assert(celo(teknologio,'tehxnologi.0o','工艺[gōng yì],工藝[gōng yì]')).
+assert(celo(teknologio,'tehxnologi.0o','科企[kē qǐ]')).
+assert(celo(teino,'tein.0o','咖啡因[kā fēi yīn]')).
+assert(celo(teismo,'teism.0o','有神論[yǒu shén lùn],有神论[yǒu shén lùn]')).
