@@ -545,3 +545,72 @@ assert(celo(teknologio,'tehxnologi.0o','工艺[gōng yì],工藝[gōng yì]')).
 assert(celo(teknologio,'tehxnologi.0o','科企[kē qǐ]')).
 assert(celo(teino,'tein.0o','咖啡因[kā fēi yīn]')).
 assert(celo(teismo,'teism.0o','有神論[yǒu shén lùn],有神论[yǒu shén lùn]')).
+assert(celo(teko,'tek.0o.KOMUNE','公文包[gōng wén bāo]')).
+assert(celo(teko,'tek.0o.KOMUNE','公事包[gōng shì bāo]')).
+assert(celo(teko,'tek.0o.KOMUNE','书包[shū bāo],書包[shū bāo]')).
+assert(celo(teko,'tek.0o.KOMUNE','皮包[pí bāo]')).
+assert(celo(teko,'tek.0o.KOMUNE','手提皮包[shǒu tí pí bāo]')).
+assert(celo(tekilo,'tekil.0o','龍舌蘭酒[lóng shé lán jiǔ],龙舌兰酒[lóng shé lán jiǔ]')).
+assert(celo(tekno,'tekn.0o','鐵克諾音樂[tiě kè nuò yīn yuè],铁克诺音乐[tiě kè nuò yīn yuè]')).
+assert(celo(teĥnecio,'tekneci.0o','鍀[dé],锝[dé]')).
+assert(celo(teĥnecio,'tekneci.0o','鎝[tǎ]')).
+assert(celo(teksaĵo,'teks.0ajxo','織物[zhī wù],织物[zhī wù]')).
+assert(celo(teksaĵo,'teks.0ajxo','面料[miàn liào]')).
+assert(celo(teksaĵo,'teks.0ajxo','網狀編織法[wǎng zhuàng biān zhī fǎ],网状编织法[wǎng zhuàng biān zhī fǎ]')).
+assert(celo(teksaĵo,'teks.0ajxo','質地[zhí dì],质地[zhí dì]')).
+assert(celo(teksi,'teks.0i','織[zhī],织[zhī]')).
+assert(celo(teksi,'teks.0i','織造[zhī zào],织造[zhī zào]')).
+assert(celo(teksi,'teks.0i','編織[biān zhī],编织[biān zhī]')).
+assert(celo(teksi,'teks.0i','織布[zhī bù],织布[zhī bù]')).
+assert(celo(teksi,'teks.0i','布紋[bù wén],布纹[bù wén]')).
+assert(celo(teksi,'teks.0i','横摆[héng bǎi],橫擺[héng bǎi]')).
+assert(celo(teksi,'teks.0i','横摆运动[héng bǎi yùn dòng],橫擺運動[héng bǎi yùn dòng]')).
+assert(celo(teksi,'teks.0i','結網[jié wǎng],结网[jié wǎng]')).
+assert(celo(teksi,'teks.0i','紝織[rèn zhī],纴织[rèn zhī]')).
+assert(celo(teksilo,'teks.0ilo','織機[zhī jī],织机[zhī jī]')).
+assert(celo(teksisto,'teks.0isto','紡織者[fǎng zhī zhě],纺织者[fǎng zhī zhě]')).
+assert(celo('Tut-Tera Teksaĵo','teks.Tut_Tera_0ajxo','万维天罗地网[Wàn wéi Tiān luó Dì wǎng],萬維天羅地網[Wàn wéi Tiān luó Dì wǎng]')).
+assert(celo('Tut-Tera Teksaĵo','teks.Tut_Tera_0ajxo','万维网[Wàn wéi wǎng],萬維網[Wàn wéi wǎng]')).
+assert(celo('Teksaso','teksas.0o','德克萨斯[Dé kè sà sī],德克薩斯[Dé kè sà sī]')).
+assert(celo('Teksaso','teksas.0o','得克萨斯州[Dé kè sà sī zhōu],得克薩斯州[Dé kè sà sī zhōu]')).
+assert(celo(tekstaro,'tekst.0aro','彙編[huì biān],汇编[huì biān]')).
+assert(celo(tekstaro,'tekst.0aro','大全[dà quán]')).
+assert(celo(tekstaro,'tekst.0aro','語料[yǔ liào],语料[yǔ liào]')).
+assert(celo(tekstero,'tekst.0ero','片断[piàn duàn],片斷[piàn duàn]')).
+assert(celo(tekstero,'tekst.0ero','片段[piàn duàn]')).
+assert(celo(teksti,'tekst.0i','原文是[yuán wén shì]')).
+assert(celo(teksti,'tekst.0i','原話是[yuán huà shì],原话是[yuán huà shì]')).
+assert(celo(teksti,'tekst.0i','說明如下[shuō míng rú xià],说明如下[shuō míng rú xià]')).
+assert(celo(teksto,'tekst.0o','本文[běn wén]')).
+assert(celo(teksto,'tekst.0o','文本[wén běn]')).
+assert(celo(kunteksto,'tekst.kun0o','語境[yǔ jìng],语境[yǔ jìng]')).
+assert(celo(kunteksto,'tekst.kun0o','上下文[shàng xià wén]')).
+assert(celo(subteksto,'tekst.sub0o','副标题[fù biāo tí],副標題[fù biāo tí]')).
+assert(celo(subteksto,'tekst.sub0o','副題[fù tí],副题[fù tí]')).
+assert(celo(subteksto,'tekst.sub0o','字幕[zì mù]')).
+assert(celo(teksturo,'tekstur.0o','質地[zhì dì],质地[zhì dì]')).
+assert(celo(teksturo,'tekstur.0o','肌理[jī lǐ]')).
+assert(celo(tektono,'tekton.0o','柚木[yòu mù]')).
+assert(celo(tektonika,'tekton1.0a','筑造[zhú zào]')).
+assert(celo(tekvondo,'tekvond.0o','跆拳道[tái quán dào]')).
+assert(celo('Tel-Avivo','telaviv.0o','特拉維夫[Tè lā wéi fū],特拉维夫[Tè lā wéi fū]')).
+assert(celo(telefona,'telefo.0a.per','用电话[yòng diàn huà],用電話[yòng diàn huà]')).
+assert(celo(telefona,'telefo.0a.per','电告[diàn gào],電告[diàn gào]')).
+assert(celo(telefonejo,'telefo.0ejo','电话亭[diàn huà tíng],電話亭[diàn huà tíng]')).
+assert(celo(telefonejo,'telefo.0ejo','公用电话亭[gōng yòng diàn huà tíng],公用電話亭[gōng yòng diàn huà tíng]')).
+assert(celo(telefoni,'telefo.0i','打电话[dǎ diàn huà],打電話[dǎ diàn huà]')).
+assert(celo(telefoni,'telefo.0i','致电[zhì diàn],致電[zhì diàn]')).
+assert(celo(telefoni,'telefo.0i','通話[tōng huà],通话[tōng huà]')).
+assert(celo(telefonisto,'telefo.0isto','女电话接线员[nǚ diàn huà jiē xiàn yuán],女電話接線員[nǚ diàn huà jiē xiàn yuán]')).
+assert(celo(telefonnumero,'telefo.0numero','电话[diàn huà],電話[diàn huà]')).
+assert(celo(telefonnumero,'telefo.0numero','电话号码[diàn huà hào mǎ],電話號碼[diàn huà hào mǎ]')).
+assert(celo(telefonvoko,'telefo.al0ado','电话[diàn huà],電話[diàn huà]')).
+assert(celo(telefonvoko,'telefo.al0ado','召唤[zhào huàn],召喚[zhào huàn]')).
+assert(celo('inteligenta telefono','telefo.lerta0o','智能手机[zhì néng shǒu jī],智能手機[zhì néng shǒu jī]')).
+assert(celo('inteligenta telefono','telefo.lerta0o','智慧型手机[zhì huì xíng shǒu jī],智慧型手機[zhì huì xíng shǒu jī]')).
+assert(celo('inteligenta telefono','telefo.lerta0o','智慧型电话[zhì huì xíng diàn huà],智慧型電話[zhì huì xíng diàn huà]')).
+assert(celo('sendrata telefono','telefo.posx0o','手机[shǒu jī],手機[shǒu jī]')).
+assert(celo('sendrata telefono','telefo.posx0o','移动式电话[yí dòng shì diàn huà],移動式電話[yí dòng shì diàn huà]')).
+assert(celo('sendrata telefono','telefo.posx0o','移动电话[yí dòng diàn huà],移動電話[yí dòng diàn huà]')).
+assert(celo('sendrata telefono','telefo.posx0o','无线电话[wú xiàn diàn huà],無線電話[wú xiàn diàn huà]')).
+assert(celo(strattelefono,'','公用电话亭[gōng yòng diàn huà tíng],公用電話亭[gōng yòng diàn huà tíng]')).
