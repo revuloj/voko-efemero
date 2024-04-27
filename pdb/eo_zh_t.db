@@ -614,3 +614,79 @@ assert(celo('sendrata telefono','telefo.posx0o','移动式电话[yí dòng shì 
 assert(celo('sendrata telefono','telefo.posx0o','移动电话[yí dòng diàn huà],移動電話[yí dòng diàn huà]')).
 assert(celo('sendrata telefono','telefo.posx0o','无线电话[wú xiàn diàn huà],無線電話[wú xiàn diàn huà]')).
 assert(celo(strattelefono,'','公用电话亭[gōng yòng diàn huà tíng],公用電話亭[gōng yòng diàn huà tíng]')).
+assert(celo(telegrafe,'telegr.0e','用电报[yòng diàn bào],用電報[yòng diàn bào]')).
+assert(celo(telegrafejo,'telegr.0ejo','电报局[diàn bào jú],電報局[diàn bào jú]')).
+assert(celo(telegrafi,'telegr.0i','发了电报[fā le diàn bào],發了電報[fā le diàn bào]')).
+assert(celo(telegrafo,'telegr.0o','电报[diàn bào],電報[diàn bào]')).
+assert(celo(telegrafo,'telegr.0o','电报机[diàn bào jī],電報機[diàn bào jī]')).
+assert(celo('optika telegrafo','telegr.optika0o','旗語[qí yǔ],旗语[qí yǔ]')).
+assert(celo(telegramo,'telegr1.0o','电报[diàn bào],電報[diàn bào]')).
+assert(celo(telekomunikado,'teleko.0ado','电信[diàn xìn],電信[diàn xìn]')).
+assert(celo(telekomunikado,'teleko.0ado','电讯[diàn xùn],電訊[diàn xùn]')).
+assert(celo(telekomunikado,'teleko.0ado','电讯工程[diàn xùn gōng chéng],電訊工程[diàn xùn gōng chéng]')).
+assert(celo(telegrafio,'','电讯[diàn xùn],電訊[diàn xùn]')).
+assert(celo(telekopiilo,'telekopi.0ilo','传真机[chuán zhēn jī],傳真機[chuán zhēn jī]')).
+assert(celo(telekopio,'telekopi.0o','传真[chuán zhēn],傳真[chuán zhēn]')).
+assert(celo(telemetrio,'telemetri.0o','遙測[yáo cè],遥测[yáo cè]')).
+assert(celo(telemetrio,'telemetri.0o','遙測技術[yáo cè jì shù],遥测技术[yáo cè jì shù]')).
+assert(celo(telemetrio,'telemetri.0o','遙測裝置[yáo cè zhuāng zhì],遥测装置[yáo cè zhuāng zhì]')).
+assert(celo(telemetrio,'telemetri.0o','远动[yuǎn dòng],遠動[yuǎn dòng]')).
+assert(celo(telemezurado,'telemezur.0o','遙測[yáo cè],遥测[yáo cè]')).
+assert(celo(telemezuro,'telemezur.0o','遙測[yáo cè],遥测[yáo cè]')).
+assert(celo(teleobjektivo,'teleobjektiv.0o','長槍短炮[cháng qiāng duǎn pào],长枪短炮[cháng qiāng duǎn pào]')).
+assert(celo(telepatio,'telepa.0o','传心术[chuán xīn shù],傳心術[chuán xīn shù]')).
+assert(celo(telepatio,'telepa.0o','心电感应[xīn diàn gǎn yìng],心電感應[xīn diàn gǎn yìng]')).
+assert(celo(telepatio,'telepa.0o','心灵感应[xīn líng gǎn yìng],心靈感應[xīn líng gǎn yìng]')).
+assert(celo(telero,'teler.0o','碟[dié]')).
+assert(celo(telero,'teler.0o','盘子[pán zi],盤子[pán zi]')).
+assert(celo(telero,'teler.0o','盘[pán],盤[pán]')).
+assert(celo(telero,'teler.0o','卡西[kǎ xī]')).
+retract(celo(telero,'teler.0o','卡西[kǎ xī]')).
+assert(celo(teleregi,'telereg.0i','遙控[yáo kòng],遥控[yáo kòng]')).
+assert(celo(teleregilo,'telereg.0ilo','遙控器[yáo kòng qì],遥控器[yáo kòng qì]')).
+assert(celo(teleregilo,'telereg.0ilo','遙控[yáo kòng],遥控[yáo kòng]')).
+assert(celo(teleregilo,'telereg.0ilo','遙控操作[yáo kòng cāo zuò],遥控操作[yáo kòng cāo zuò]')).
+assert(celo(teleskopo,'telesk.0o','望远镜[wàng yuǎn jìng],望遠鏡[wàng yuǎn jìng]')).
+assert(celo('Teleskopo','telesk.T0o','望远镜座[Wàng yuǎn jìng zuò],望遠鏡座[Wàng yuǎn jìng zuò]')).
+assert(celo(radioteleskopo,'telesk.radi0o','射电望远镜[shè diàn wàng yuǎn jìng],射電望遠鏡[shè diàn wàng yuǎn jìng]')).
+assert(celo(televidaĵo,'televid.0ajxo','电视节目[diàn shì jié mù],電視節目[diàn shì jié mù]')).
+assert(celo(televidaĵo,'televid.0ajxo','節目[jié mù],节目[jié mù]')).
+assert(celo(televidaĵo,'televid.0ajxo.TEL','电视广播[diàn shì guǎng bō],電視廣播[diàn shì guǎng bō]')).
+assert(celo(televidi,'televid.0i','收看[shōu kàn]')).
+assert(celo(televidi,'televid.0i','收視[shōu shì],收视[shōu shì]')).
+assert(celo(televidilo,'televid.0ilo','电视机[diàn shì jī],電視機[diàn shì jī]')).
+assert(celo(televido,'televid.0o','电视[diàn shì],電視[diàn shì]')).
+assert(celo(televidprogramo,'televid.0programo','电视节目[diàn shì jié mù],電視節目[diàn shì jié mù]')).
+assert(celo(televidprogramo,'televid.0programo','电视[diàn shì],電視[diàn shì]')).
+assert(celo('kabla televido','televid.kabla0o','有線電視[yǒu xiàn diàn shì],有线电视[yǒu xiàn diàn shì]')).
+assert(celo(televizio,'televizi.0o','电视[diàn shì],電視[diàn shì]')).
+assert(celo(telfero,'telfer.0o.TRA','索道[suǒ dào]')).
+assert(celo(telfero,'telfer.0o.TRA','纜車[lǎn chē],缆车[lǎn chē]')).
+assert(celo(telomero,'telomer.0o','端粒[duān lì]')).
+assert(celo(telugua,'telugu.0a','泰卢固语[tài lú gù yǔ],泰盧固語[tài lú gù yǔ]')).
+assert(celo(teluro,'telur.0o','碲[dì]')).
+assert(celo(temaro,'tem.0aro.KOMUNE','主題[zhǔ tí],主题[zhǔ tí]')).
+assert(celo(temaro,'tem.0aro.KOMUNE','議題[yì tí],议题[yì tí]')).
+assert(celo(temo,'tem.0o','主題[zhǔ tí],主题[zhǔ tí]')).
+assert(celo(temo,'tem.0o','題目[tí mù],题目[tí mù]')).
+assert(celo(temo,'tem.0o','議題[yì tí],议题[yì tí]')).
+assert(celo(temo,'tem.0o','事由[shì yóu]')).
+assert(celo(temo,'tem.0o','学科[xué kē],學科[xué kē]')).
+assert(celo(temo,'tem.0o','課題[kè tí],课题[kè tí]')).
+assert(celo(temo,'tem.0o','关于[guān yú],關於[guān yú]')).
+assert(celo(temo,'tem.0o','母題[mǔ tí],母题[mǔ tí]')).
+assert(celo(teamaro,'','主題區[zhǔ tí qū],主题区[zhǔ tí qū]')).
+assert(celo(teamaro,'','題目範圍[tí mù fàn wéi],题目范围[tí mù fàn wéi]')).
+assert(celo(ekstertema,'tem.ekster0a','无关宏旨[wú guān hóng zhǐ],無關宏旨[wú guān hóng zhǐ]')).
+assert(celo(pritemi,'tem.pri0i','事关[shì guān],事關[shì guān]')).
+assert(celo(pritemi,'tem.pri0i','有关[yǒu guān],有關[yǒu guān]')).
+assert(celo(pritemi,'tem.pri0i','涉及[shè jí]')).
+assert(celo(pritemi,'tem.pri0i','关系[guān xi],關係[guān xi]')).
+assert(celo(tembro,'tembr.0o','音質[yīn zhì],音质[yīn zhì]')).
+assert(celo(tembro,'tembr.0o','声线[shēng xiàn],聲線[shēng xiàn]')).
+assert(celo(tembro,'tembr.0o','音色[yīn sè]')).
+assert(celo(temerara,'temerar.0a','大胆[dà dǎn],大膽[dà dǎn]')).
+assert(celo(temerara,'temerar.0a','魯莽[lǔ mǎng],鲁莽[lǔ mǎng]')).
+assert(celo('Temistoklo','temistokl.0o','地米斯托克利[de mǐ sī tuō kè lì],地米斯託克利[de mǐ sī tuō kè lì]')).
+assert(celo(tempaltempa,'temp.0al0a','間歇[jiàn xiē],间歇[jiàn xiē]')).
+assert(celo(tempaltempa,'temp.0al0a','偶尔[ǒu ěr],偶爾[ǒu ěr]')).
