@@ -690,3 +690,348 @@ assert(celo(temerara,'temerar.0a','魯莽[lǔ mǎng],鲁莽[lǔ mǎng]')).
 assert(celo('Temistoklo','temistokl.0o','地米斯托克利[de mǐ sī tuō kè lì],地米斯託克利[de mǐ sī tuō kè lì]')).
 assert(celo(tempaltempa,'temp.0al0a','間歇[jiàn xiē],间歇[jiàn xiē]')).
 assert(celo(tempaltempa,'temp.0al0a','偶尔[ǒu ěr],偶爾[ǒu ěr]')).
+assert(celo(antaŭtempa,'temp.antaux0a','先期[xiān qī]')).
+assert(celo(antaŭtempa,'temp.antaux0a','为时过早[wéi shí guò zǎo],為時過早[wéi shí guò zǎo]')).
+assert(celo(antaŭtempa,'temp.antaux0a','不适时[bù shì shí],不適時[bù shì shí]')).
+assert(celo('detempe de','temp.de0ede','以來[yǐ lái],以来[yǐ lái]')).
+assert(celo('detempe de','temp.de0ede','从那时起[cóng nà shí qǐ],從那時起[cóng nà shí qǐ]')).
+assert(celo('detempe de','temp.de0ede','打从[dǎ cóng],打從[dǎ cóng]')).
+assert(celo('detempe de','temp.de0ede','自从[zì cóng],自從[zì cóng]')).
+assert(celo(certatempe,'temp.de0oal0o','不时[bù shí],不時[bù shí]')).
+assert(celo(certatempe,'temp.de0oal0o','时而[shí ér],時而[shí ér]')).
+assert(celo(certatempe,'temp.de0oal0o','偶尔[ǒu ěr],偶爾[ǒu ěr]')).
+assert(celo(certatempe,'temp.de0oal0o','隔三差五[gé sān chà wǔ]')).
+assert(celo(certatempe,'temp.de0oal0o','偶而[ǒu ér]')).
+assert(celo(certatempe,'temp.de0oal0o','时不时[shí bù shí],時不時[shí bù shí]')).
+assert(celo(certatempe,'temp.de0oal0o','間或[jiàn huò],间或[jiàn huò]')).
+assert(celo(certatempe,'temp.de0oal0o','有时[yǒu shí],有時[yǒu shí]')).
+assert(celo(certatempe,'temp.de0oal0o','間或時而[jiàn huò shí ér],间或时而[jiàn huò shí ér]')).
+assert(celo(dumtempa,'temp.dum0a','暂时[zàn shí],暫時[zàn shí]')).
+assert(celo(dumtempa,'temp.dum0a','过渡[guò dù],過渡[guò dù]')).
+assert(celo(dumtempa,'temp.dum0a','一时[yī shí],一時[yī shí]')).
+assert(celo(duoniĝotempo,'temp.duonigxo0o','半衰期[bàn shuāi qī]')).
+assert(celo(ekstempa,'temp.eks0a','老式[lǎo shì]')).
+assert(celo(ekstempa,'temp.eks0a','陈旧[chén jiù],陳舊[chén jiù]')).
+assert(celo(ekstempa,'temp.eks0a','昔[xī]')).
+assert(celo(fikstempo,'temp.fiks0o','截止期限[jié zhǐ qī xiàn]')).
+assert(celo(fikstempo,'temp.fiks0o','最后期限[zuì hòu qī xiàn],最後期限[zuì hòu qī xiàn]')).
+assert(celo(fikstempo,'temp.fiks0o','期限[qī xiàn]')).
+assert(celo(fikstempo,'temp.fiks0o','限期[xiàn qī]')).
+assert(celo(fikstempo,'temp.fiks0o','死線[sǐ xiàn],死线[sǐ xiàn]')).
+assert(celo(ĝustatempe,'temp.gxusta0e','适时[shì shí],適時[shì shí]')).
+assert(celo(ĝustatempe,'temp.gxusta0e','及时[jí shí],及時[jí shí]')).
+assert(celo(ĝustatempe,'temp.gxusta0e','应时[yìng shí],應時[yìng shí]')).
+assert(celo(ĝustatempe,'temp.gxusta0e','按时[àn shí],按時[àn shí]')).
+assert(celo(ĝustatempe,'temp.gxusta0e','有及[yǒu jí]')).
+assert(celo(lastatempe,'temp.lasta0e','近來[jìn lái],近来[jìn lái]')).
+assert(celo(lastatempe,'temp.lasta0e','迩来[ěr lái],邇來[ěr lái]')).
+assert(celo(lastatempe,'temp.lasta0e','晚近[wǎn jìn]')).
+assert(celo(lastatempe,'temp.lasta0e','前一向[qián yī xiàng]')).
+assert(celo(lastatempe,'temp.lasta0e','前段时间[qián duàn shí jiān],前段時間[qián duàn shí jiān]')).
+assert(celo(lastatempe,'temp.lasta0e','日來[rì lái],日来[rì lái]')).
+assert(celo(lastatempe,'temp.lasta0e','近日[jìn rì]')).
+assert(celo(libertempo,'temp.liber0o','暇[xiá]')).
+assert(celo(libertempo,'temp.liber0o','业余时间[yè yú shí jiān],業餘時間[yè yú shí jiān]')).
+assert(celo(libertempo,'temp.liber0o','空儿[kòng r],空兒[kòng r]')).
+assert(celo(libertempo,'temp.liber0o','空暇[kòng xiá]')).
+assert(celo(longatempe,'temp.long0e','良久[liáng jiǔ]')).
+assert(celo(longatempe,'temp.long0e','長久[cháng jiǔ],长久[cháng jiǔ]')).
+assert(celo(longatempe,'temp.long0e','久長[jiǔ cháng],久长[jiǔ cháng]')).
+assert(celo(longatempe,'temp.long0e','悠久[yōu jiǔ]')).
+assert(celo(longatempe,'temp.long0e','久[jiǔ]')).
+assert(celo(longatempe,'temp.long0e','半响[bàn xiǎng],半響[bàn xiǎng]')).
+assert(celo(nuntempo,'temp.nun0o','当今[dāng jīn],當今[dāng jīn]')).
+assert(celo(nuntempo,'temp.nun0o','今[jīn]')).
+assert(celo(nuntempo,'temp.nun0o','现状[xiàn zhuàng],現狀[xiàn zhuàng]')).
+assert(celo(pratempo,'temp.pra0o','古早[gǔ zǎo]')).
+assert(celo(pratempo,'temp.pra0o','古昔[gǔ xī]')).
+assert(celo(provotempo,'temp.prov0o','試用期[shì yòng qī],试用期[shì yòng qī]')).
+assert(celo(realtempa,'temp.real0a','实时[shí shí],實時[shí shí]')).
+assert(celo(realtempa,'temp.real0a','即时制[jí shí zhì],即時制[jí shí zhì]')).
+assert(celo(samtempa,'temp.sam0a','同步[tóng bù]')).
+assert(celo(samtempa,'temp.sam0a','同期[tóng qī]')).
+assert(celo(samtempa,'temp.sam0a','共时[gòng shí],共時[gòng shí]')).
+assert(celo(samtempa,'temp.sam0a','兼[jiān]')).
+assert(celo(samtempa,'temp.sam0a','同日[tóng rì]')).
+assert(celo(samtempa,'temp.sam0a','同时期[tóng shí qī],同時期[tóng shí qī]')).
+assert(celo(samtempa,'temp.sam0a','一齊[yī qí],一齐[yī qí]')).
+assert(celo(samtempa,'temp.sam0a','同时[tóng shí],同時[tóng shí]')).
+assert(celo(samtempano,'temp.sam0ano','同齡人[tóng líng rén],同龄人[tóng líng rén]')).
+assert(celo(samtempano,'temp.sam0ano','同代人[tóng dài rén]')).
+assert(celo(samtempano,'temp.sam0ano','流輩[liú bèi],流辈[liú bèi]')).
+assert(celo(samtempano,'temp.sam0ano','同时代人[tóng shí dài rén],同時代人[tóng shí dài rén]')).
+assert(celo(samtempano,'temp.sam0ano','同时代的人[tóng shí dài de rén],同時代的人[tóng shí dài de rén]')).
+assert(celo('samtempe kun','temp.sam0ekun','同时[tóng shí],同時[tóng shí]')).
+assert(celo('samtempe kun','temp.sam0ekun','与此同时[yǔ cǐ tóng shí],與此同時[yǔ cǐ tóng shí]')).
+assert(celo(siatempe,'temp.sia0e','在适当的时候[zài shì dàng dì shí hòu],在適當的時候[zài shì dàng dì shí hòu]')).
+assert(celo(siatempe,'temp.sia0e','当时[dāng shí],當時[dāng shí]')).
+assert(celo(siatempe,'temp.sia0e','与此同时[yǔ cǐ tóng shí],與此同時[yǔ cǐ tóng shí]')).
+assert(celo('somera tempo','temp.somera0o','夏令[xià lìng]')).
+assert(celo('somera tempo','temp.somera0o','夏[xià]')).
+assert(celo('somera tempo','temp.somera0o.KAL','夏令时[xià lìng shí],夏令時[xià lìng shí]')).
+assert(celo('somera tempo','temp.somera0o.KAL','夏时制[xià shí zhì],夏時制[xià shí zhì]')).
+assert(celo(spacotempo,'temp.spaco0o','时空[shí kōng],時空[shí kōng]')).
+assert(celo('vintra tempo','temp.vintra0o','冬[dōng]')).
+assert(celo('vintra tempo','temp.vintra0o','冬季[dōng jì]')).
+assert(celo('vintra tempo','temp.vintra0o','冬令时[dōng lìng shí],冬令時[dōng lìng shí]')).
+assert(celo('vintra tempo','temp.vintra0o','冬天的时候[dōng tiān de shí hòu],冬天的時候[dōng tiān de shí hòu]')).
+assert(celo('vintra tempo','temp.vintra0o','灰飛之際[huī fēi zhī jì],灰飞之际[huī fēi zhī jì]')).
+assert(celo(vivtempo,'temp.viv0o','輩[bèi],辈[bèi]')).
+assert(celo(vivtempo,'temp.viv0o','世[shì]')).
+assert(celo(vivtempo,'temp.viv0o','使用年限[shǐ yòng nián xiàn]')).
+assert(celo(vivtempo,'temp.viv0o','使用壽命[shǐ yòng shòu mìng],使用寿命[shǐ yòng shòu mìng]')).
+assert(celo(vivtempo,'temp.viv0o','輩子[bèi zi],辈子[bèi zi]')).
+assert(celo(temperamento,'temper.0o','性情[xìng qíng]')).
+assert(celo(temperamento,'temper.0o','脾气[pí qi],脾氣[pí qi]')).
+assert(celo(temperamento,'temper.0o','心性[xīn xìng]')).
+assert(celo(temperamento,'temper.0o','性格[xìng gé]')).
+assert(celo(temperamento,'temper.0o','意气[yì qì],意氣[yì qì]')).
+assert(celo(temperaturo,'temper1.0o','温度[wēn dù],溫度[wēn dù]')).
+assert(celo(temperaturo,'temper1.0o','温[wēn],溫[wēn]')).
+assert(celo(temperaturo,'temper1.0o','气温[qì wēn],氣溫[qì wēn]')).
+assert(celo(alttemperatura,'temper1.alt0a','高温[gāo wēn],高溫[gāo wēn]')).
+assert(celo(tempesto,'tempes.0o','風暴[fēng bào],风暴[fēng bào]')).
+assert(celo(tempesto,'tempes.0o','涷[dōng]')).
+assert(celo(tempesto,'tempes.0o','狂風吹襲[kuáng fēng chuī xí],狂风吹袭[kuáng fēng chuī xí]')).
+assert(celo(tempesto,'tempes.0o','暴風驟雨[bào fēng zhòu yǔ],暴风骤雨[bào fēng zhòu yǔ]')).
+assert(celo(tempesto,'tempes.0o','雷雨[léi yǔ]')).
+assert(celo(tempesto,'tempes.0o','庙堂[miào táng],廟堂[miào táng]')).
+retract(celo(tempesto,'tempes.0o','庙堂[miào táng],廟堂[miào táng]')).
+assert(celo(tempio,'tempi.0o','太阳穴[tài yáng xué],太陽穴[tài yáng xué]')).
+assert(celo(temporalo,'temporal.0o','顳骨[niè gǔ],颞骨[niè gǔ]')).
+assert(celo(temporalo,'temporal.0o','顬[rú],颥[rú]')).
+assert(celo(tenadi,'ten.0adi','拘守[jū shǒu]')).
+assert(celo(tenadi,'ten.0adi','坚持[jiān chí],堅持[jiān chí]')).
+assert(celo(tenanto,'ten.0anto','持有人[chí yǒu rén]')).
+assert(celo(tenegi,'ten.0egi','黏住[nián zhù]')).
+assert(celo(tenejo,'ten.0ejo','仓库[cāng kù],倉庫[cāng kù]')).
+assert(celo(tenejo,'ten.0ejo','栈[zhàn],棧[zhàn]')).
+assert(celo(tenejo,'ten.0ejo','藏[zàng]')).
+assert(celo(teni,'ten.0i','佔有[zhàn yǒu],占有[zhàn yǒu]')).
+assert(celo(teni,'ten.0i','扣留[kòu liú]')).
+assert(celo(teni,'ten.0i','保有[bǎo yǒu]')).
+assert(celo(teni,'ten.0i','握[wò]')).
+assert(celo(teniĝi,'ten.0igxi.en_ia_pozicio','頤養[yí yǎng],颐养[yí yǎng]')).
+assert(celo(teniĝi,'ten.0igxi.en_ia_pozicio','熬过[áo guò],熬過[áo guò]')).
+assert(celo(teniĝo,'ten.0igxo','体态[tǐ tài],體態[tǐ tài]')).
+assert(celo(teniĝo,'ten.0igxo','意态[yì tài],意態[yì tài]')).
+assert(celo(teniĝo,'ten.0igxo','姿势[zī shì],姿勢[zī shì]')).
+assert(celo(teniĝo,'ten.0igxo','行止[xíng zhǐ]')).
+assert(celo(tenilo,'ten.0ilo.enmana','把柄[bǎ bǐng]')).
+assert(celo(tenilo,'ten.0ilo.enmana','把手[bǎ shǒu]')).
+assert(celo(tenilo,'ten.0ilo.enmana','柄[bǐng]')).
+assert(celo(tenilo,'ten.0ilo.enmana','把手[bǎ shou]')).
+assert(celo(tenilo,'ten.0ilo.enmana','抦[bǐng]')).
+assert(celo(tenilo,'ten.0ilo.enmana','手把[shǒu bà]')).
+assert(celo(tenilo,'ten.0ilo.enmana','把[bà]')).
+assert(celo(tenilo,'ten.0ilo.enmana','把子[bà zi]')).
+assert(celo(tenilo,'ten.0ilo.enmana','抓紧[zhuā jǐn],抓緊[zhuā jǐn]')).
+assert(celo(tenilo,'ten.0ilo.enmana','拉手[lā shǒu]')).
+assert(celo(tenilo,'ten.0ilo.enmana','攥[zuàn]')).
+assert(celo(teno,'','拿着[ná zhe],拿著[ná zhe]')).
+assert(celo(tenujo,'ten.0ujo','容器[róng qì]')).
+assert(celo(tenujo,'ten.0ujo','陂[pí]')).
+assert(celo(tenujo,'ten.0ujo','凵[kǎn]')).
+assert(celo(tenujo,'ten.0ujo','盦[ān]')).
+assert(celo(alteniĝi,'ten.al0igxi','粘[zhān]')).
+assert(celo(alteniĝi,'ten.al0igxi','粘貼[zhān tiē],粘贴[zhān tiē]')).
+assert(celo(alteniĝi,'ten.al0igxi','黏附[nián fù]')).
+assert(celo(bontenado,'ten.bon0ado','保养[bǎo yǎng],保養[bǎo yǎng]')).
+assert(celo(bontenado,'ten.bon0ado','維修[wéi xiū],维修[wéi xiū]')).
+assert(celo(bontenado,'ten.bon0ado.KOMUNE','照料[zhào liào]')).
+assert(celo(bonteni,'ten.bon0i','保全[bǎo quán]')).
+assert(celo(bonteni,'ten.bon0i','保持[bǎo chí]')).
+assert(celo(bonteni,'ten.bon0i','維[wéi],维[wéi]')).
+assert(celo(bonteni,'ten.bon0i','保养[bǎo yǎng],保養[bǎo yǎng]')).
+assert(celo(ĉirkaŭteni,'ten.cxirkaux0i','环住[huán zhù],環住[huán zhù]')).
+assert(celo(deteni,'ten.de0i','遏止[è zhǐ]')).
+assert(celo(deteni,'ten.de0i','阻[zǔ]')).
+assert(celo(deteni,'ten.de0i','傺[chì]')).
+assert(celo(eltenemo,'ten.el0emo','底气[dǐ qì],底氣[dǐ qì]')).
+assert(celo(eltenemo,'ten.el0emo','耐力[nài lì]')).
+assert(celo(eltenemo,'ten.el0emo','忍耐[rěn nài]')).
+assert(celo(elteni,'ten.el0i','忍[rěn]')).
+assert(celo(elteni,'ten.el0i','禁[jīn]')).
+assert(celo(elteni,'ten.el0i','孳[zī]')).
+assert(celo(elteni,'ten.el0i','忍耐[rěn nài]')).
+assert(celo(elteni,'ten.el0i','挨[ái]')).
+assert(celo(enteni,'ten.en0i','內含[nèi hán],内含[nèi hán]')).
+assert(celo(enteni,'ten.en0i','包括[bāo kuò]')).
+assert(celo(enteni,'ten.en0i','归入[guī rù],歸入[guī rù]')).
+assert(celo(enteni,'ten.en0i','包含[bāo hán]')).
+assert(celo(enteni,'ten.en0i','含有[hán yǒu]')).
+assert(celo(enteni,'ten.en0i','韞[yùn],韫[yùn]')).
+assert(celo(enteni,'ten.en0i','內裝有[nèi zhuāng yǒu],内装有[nèi zhuāng yǒu]')).
+assert(celo(enteni,'ten.en0i','包括有[bāo kuò yǒu]')).
+assert(celo(enteno,'ten.en0o','含量[hán liàng]')).
+assert(celo(glacitenejo,'ten.glaci0ejo','冷藏箱[lěng cáng xiāng]')).
+assert(celo(glacitenejo,'ten.glaci0ejo','冷冻库[lěng dòng kù],冷凍庫[lěng dòng kù]')).
+assert(celo(kunteniĝi,'ten.kun0igxi','黏着[nián zhuó],黏著[nián zhuó]')).
+assert(celo(reteni,'ten.re0i','憋[biē]')).
+assert(celo(reteni,'ten.re0i','克制[kè zhì]')).
+assert(celo(reteni,'ten.re0i','遏止[è zhǐ]')).
+assert(celo(reteni,'ten.re0i','不予[bù yú]')).
+assert(celo(reteni,'ten.re0i','敛[liàn],斂[liàn]')).
+assert(celo(reteni,'ten.re0i','羁[jī],覊[jī]')).
+assert(celo(reteni,'ten.re0i','抑[yì]')).
+assert(celo(reteni,'ten.re0i','遏[è]')).
+assert(celo('sin teni','ten.sin0i.dauxri','坚守[jiān shǒu],堅守[jiān shǒu]')).
+assert(celo('sin teni','ten.sin0i.dauxri','忍耐[rěn nài]')).
+assert(celo(sinteno,'ten.sin0o','姿态[zī tài],姿態[zī tài]')).
+assert(celo(sinteno,'ten.sin0o','架势[jià shi],架勢[jià shi]')).
+assert(celo(sinteno,'ten.sin0o','站姿[zhàn zī]')).
+assert(celo(sindetenema,'ten.sinde0ema','內斂[nèi liǎn],内敛[nèi liǎn]')).
+assert(celo(sindetenema,'ten.sinde0ema','含蓄[hán xù]')).
+assert(celo(sindetenema,'ten.sinde0ema','慎重[shèn zhòng]')).
+assert(celo(sindetenema,'ten.sinde0ema','慎[shèn]')).
+assert(celo(sindetenema,'ten.sinde0ema','謹慎[jǐn shèn],谨慎[jǐn shèn]')).
+assert(celo(sindetenema,'ten.sinde0ema','腼腆[miǎn tiǎn],靦腆[miǎn tiǎn]')).
+assert(celo(sindetenema,'ten.sinde0ema','娇羞[jiāo xiū],嬌羞[jiāo xiū]')).
+assert(celo(sindetenema,'ten.sinde0ema','拘謹[jū jǐn],拘谨[jū jǐn]')).
+assert(celo(deteniĝi,'ten.sinde0i.KOMUNE','抵挡[dǐ dǎng],抵擋[dǐ dǎng]')).
+assert(celo(deteniĝi,'ten.sinde0i.KOMUNE','踌躇不前[chóu chú bù qián],躊躇不前[chóu chú bù qián]')).
+assert(celo(deteniĝi,'ten.sinde0i.POL','禁戒[jìn jiè]')).
+assert(celo(deteniĝi,'ten.sinde0i.POL','弃权[qì quán],棄權[qì quán]')).
+assert(celo(sindeteno,'ten.sinde0o.KOMUNE','克制[kè zhì]')).
+assert(celo(subtenanto,'ten.sub0anto.KOMUNE','愛好者[ài hào zhě],爱好者[ài hào zhě]')).
+assert(celo(subtenanto,'ten.sub0anto.KOMUNE','同情者[tóng qíng zhě]')).
+assert(celo(subtenanto,'ten.sub0anto.KOMUNE','捍卫者[hàn wèi zhě],捍衛者[hàn wèi zhě]')).
+assert(celo(subtenanto,'ten.sub0anto.KOMUNE','支持者[zhī chí zhě]')).
+assert(celo(subteni,'ten.sub0i','撐腰[chēng yāo],撑腰[chēng yāo]')).
+assert(celo(subteni,'ten.sub0i','支持[zhī chí]')).
+assert(celo(subteni,'ten.sub0i','支援[zhī yuán]')).
+assert(celo(subteni,'ten.sub0i','支撐[zhī chēng],支撑[zhī chēng]')).
+assert(celo(subteni,'ten.sub0i','扶持[fú chí]')).
+assert(celo(subteni,'ten.sub0i','推戴[tuī dài]')).
+assert(celo(subteni,'ten.sub0i','搘[zhī]')).
+assert(celo(subteni,'ten.sub0i','搀扶[chān fú],攙扶[chān fú]')).
+assert(celo(subteni,'ten.sub0i','牮[jiàn]')).
+assert(celo(subteni,'ten.sub0i','扶[fú]')).
+assert(celo(subtenilo,'ten.sub0ilo','后盾[hòu dùn],後盾[hòu dùn]')).
+assert(celo(subtenilo,'ten.sub0ilo','支架[zhī jià]')).
+assert(celo(subtenilo,'ten.sub0ilo','橕[chēng]')).
+assert(celo(subteno,'ten.sub0o','后援[hòu yuán],後援[hòu yuán]')).
+assert(celo(subteno,'ten.sub0o','支承[zhī chéng]')).
+assert(celo(subteno,'ten.sub0o','光顧[guāng gù],光顾[guāng gù]')).
+assert(celo(subteno,'ten.sub0o','依托[yī tuō],依託[yī tuō]')).
+assert(celo(ŝraŭbtenilo,'ten.sxrauxb0ilo.junto','平鉗[píng qián],平钳[píng qián]')).
+assert(celo(ŝraŭbtenilo,'ten.sxrauxb0ilo.junto','老虎鉗[lǎo hǔ qián],老虎钳[lǎo hǔ qián]')).
+assert(celo(ŝraŭbtenilo,'ten.sxrauxb0ilo.junto','虎鉗[hǔ qián],虎钳[hǔ qián]')).
+assert(celo(ŝraŭbtenilo,'ten.sxrauxb0ilo.junto','鉗住[qián zhù],钳住[qián zhù]')).
+assert(celo(vivteni,'ten.viv0i','頤[yí],颐[yí]')).
+assert(celo(vivteni,'ten.viv0i','养[yǎng],養[yǎng]')).
+assert(celo(vivteni,'ten.viv0i','供养[gòng yǎng],供養[gòng yǎng]')).
+assert(celo(vivteni,'ten.viv0i','哺育[bǔ yù]')).
+assert(celo(vivteni,'ten.viv0i','抚养[fǔ yǎng],撫養[fǔ yǎng]')).
+assert(celo(tenaca,'tenac.0a','結實[jiē shi],结实[jiē shi]')).
+assert(celo(tenaca,'tenac.0a','佶[jí]')).
+assert(celo(tenaca,'tenac.0a','耐用[nài yòng]')).
+assert(celo(tenaca,'tenac.0a','劲[jìng],勁[jìng]')).
+assert(celo(tenaca,'tenac.0a','健壮[jiàn zhuàng],健壯[jiàn zhuàng]')).
+assert(celo(tenaca,'tenac.0a','強健[qiáng jiàn],强健[qiáng jiàn]')).
+assert(celo(tenaca,'tenac.0a','松柏節操[sōng bó jié cāo],松柏节操[sōng bó jié cāo]')).
+assert(celo(tenajlo,'tenajl.0o','鉗[qián],钳[qián]')).
+assert(celo(tenajlo,'tenajl.0o','鉗子[qián zi],钳子[qián zi]')).
+assert(celo(tenajlo,'tenajl.0o','拑[qián]')).
+assert(celo(tenajlo,'tenajl.0o','箝[qián]')).
+assert(celo(tenajlo,'tenajl.0o','夹钳[jiā qián],夾鉗[jiā qián]')).
+assert(celo(tenajlo,'tenajl.0o','鉗板[qián bǎn],钳板[qián bǎn]')).
+assert(celo(tendaro,'tend.0aro','營地[yíng dì],营地[yíng dì]')).
+assert(celo(tendaro,'tend.0aro','阵营[zhèn yíng],陣營[zhèn yíng]')).
+assert(celo(tendaro,'tend.0aro','宿營地[sù yíng dì],宿营地[sù yíng dì]')).
+assert(celo(tendo,'tend.0o','帐篷[zhàng peng],帳篷[zhàng peng]')).
+assert(celo(tendo,'tend.0o','營帳[yíng zhàng],营帐[yíng zhàng]')).
+assert(celo(tendo,'tend.0o','幄[wò]')).
+assert(celo(tendo,'tend.0o','帐幕[zhàng mù],帳幕[zhàng mù]')).
+assert(celo(tendo,'tend.0o','帐蓬[zhàng peng],帳蓬[zhàng peng]')).
+assert(celo(tendumejo,'tend.0umejo','宿營地[sù yíng dì],宿营地[sù yíng dì]')).
+assert(celo(tendumejo,'tend.0umejo','宿營場地[sù yíng chǎng dì],宿营场地[sù yíng chǎng dì]')).
+assert(celo(tendumejo,'tend.0umejo','露營地[lù yíng dì],露营地[lù yíng dì]')).
+assert(celo(tendumi,'tend.0umi','露營[lù yíng],露营[lù yíng]')).
+assert(celo(tendumi,'tend.0umi','阵营[zhèn yíng],陣營[zhèn yíng]')).
+assert(celo(tendumi,'tend.0umi','宿營[sù yíng],宿营[sù yíng]')).
+assert(celo(tendumi,'tend.0umi','野營[yě yíng],野营[yě yíng]')).
+assert(celo(tendumi,'tend.0umi','營地[yíng dì],营地[yíng dì]')).
+assert(celo(tendeno,'tenden.0o','腱[jiàn]')).
+assert(celo(tendeno,'tenden.0o','筋[jīn]')).
+assert(celo(tendeno,'tenden.0o','腱鞘[jiàn qiào]')).
+assert(celo(tendeno,'tenden.0o','腱子[jiàn zi]')).
+assert(celo(tendeno,'tenden.0o','肌腱[jī jiàn]')).
+assert(celo(tendumi,'','幄[wò]')).
+assert(celo(tendenca,'tenden1.0a','宣传性[xuān chuán xìng],宣傳性[xuān chuán xìng]')).
+assert(celo(tendenca,'tenden1.0a','有倾向性[yǒu qīng xiàng xìng],有傾向性[yǒu qīng xiàng xìng]')).
+assert(celo(tendenca,'tenden1.0a','符合发展趋势[fú hé fā zhǎn qū shì],符合發展趨勢[fú hé fā zhǎn qū shì]')).
+assert(celo(tendenca,'tenden1.0a','随发展趋势[suí fā zhǎn qū shì],隨發展趨勢[suí fā zhǎn qū shì]')).
+assert(celo(tendenci,'tenden1.0i','趋于[qū yú],趨於[qū yú]')).
+assert(celo(tendenco,'tenden1.0o','倾向[qīng xiàng],傾向[qīng xiàng]')).
+assert(celo(tendenco,'tenden1.0o','趋势[qū shì],趨勢[qū shì]')).
+assert(celo(tendenco,'tenden1.0o','势[shì],勢[shì]')).
+assert(celo(tendenco,'tenden1.0o','势头[shì tóu],勢頭[shì tóu]')).
+assert(celo(tendenco,'tenden1.0o','动向[dòng xiàng],動向[dòng xiàng]')).
+assert(celo(tendenco,'tenden1.0o','走势[zǒu shì],走勢[zǒu shì]')).
+assert(celo(tendenco,'tenden1.0o','走向[zǒu xiàng]')).
+assert(celo(tenebra,'tenebr.0a','黑暗[hēi àn]')).
+assert(celo(tenebra,'tenebr.0a','灰溜溜地[huī liū liū de]')).
+assert(celo(tenebro,'tenebr.0o','黑暗[hēi àn]')).
+assert(celo(tenera,'tener.0a','温存[wēn cún],溫存[wēn cún]')).
+assert(celo(tenera,'tener.0a','繾[qiǎn],缱[qiǎn]')).
+assert(celo(tenera,'tener.0a','柔情[róu qíng]')).
+assert(celo(tenera,'tener.0a','体贴[tǐ tiē],體貼[tǐ tiē]')).
+assert(celo(tenera,'tener.0a','細嫩[xì nèn],细嫩[xì nèn]')).
+assert(celo(tenera,'tener.0a','柔和[róu hé]')).
+assert(celo('Tenesio','tenesi.0o','田納西[Tián nà xī],田纳西[Tián nà xī]')).
+assert(celo('Tenesio','tenesi.0o','田納西州[Tián nà xī zhōu],田纳西州[Tián nà xī zhōu]')).
+assert(celo(tenio,'teni.0o','絛蟲[tāo chóng],绦虫[tāo chóng]')).
+assert(celo(tenisejo,'tenis.0ejo','網球場[wǎng qiú chǎng],网球场[wǎng qiú chǎng]')).
+assert(celo(tenisejo,'tenis.0ejo','硬地球场[yìng dì qiú chǎng],硬地球場[yìng dì qiú chǎng]')).
+assert(celo(teniso,'tenis.0o','網球[wǎng qiú],网球[wǎng qiú]')).
+assert(celo(tabloteniso,'tenis.tablo0o','乒乓球[pīng pāng qiú]')).
+assert(celo(tenono,'tenon.0o','枘[ruì]')).
+assert(celo(tenono,'tenon.0o','榫[sǔn]')).
+assert(celo(tenoro,'tenor.0o','男高音[nán gāo yīn]')).
+assert(celo(tensio,'tensi.0o','电压[diàn yā],電壓[diàn yā]')).
+assert(celo(tensio,'tensi.0o','应力[yìng lì],應力[yìng lì]')).
+assert(celo(tensio,'tensi.0o','敌对关系[dí duì guān xi],敵對關係[dí duì guān xi]')).
+assert(celo(tensio,'tensi.0o','紧张关系[jǐn zhāng guān xi],緊張關係[jǐn zhāng guān xi]')).
+assert(celo(tensio,'tensi.0o','张力[zhāng lì],張力[zhāng lì]')).
+assert(celo('kontinua tensio','tensi.kontinua0o','直流电压电位[zhí liú diàn yā diàn wèi],直流電壓電位[zhí liú diàn yā diàn wèi]')).
+assert(celo(tenta,'tent.0a','吸引人[xī yǐn rén]')).
+assert(celo(tenta,'tent.0a','妖媚[yāo mèi]')).
+assert(celo(tenta,'tent.0a','迷人[mí rén]')).
+assert(celo(tenta,'tent.0a','誘惑地[yòu huò de],诱惑地[yòu huò de]')).
+assert(celo(tenta,'tent.0a','放浪的[fàng làng de]')).
+assert(celo(tenta,'tent.0a','風騷[fēng sāo],风骚[fēng sāo]')).
+assert(celo(tentado,'tent.0ado','誘惑力[yòu huò lì],诱惑力[yòu huò lì]')).
+assert(celo(tenti,'tent.0i','勾引[gōu yǐn]')).
+assert(celo(tenti,'tent.0i','誘姦[yòu jiān],诱奸[yòu jiān]')).
+assert(celo(tenti,'tent.0i','誂[tiǎo]')).
+assert(celo(tenti,'tent.0i','吸引[xī yǐn]')).
+assert(celo(tenti,'tent.0i','引來[yǐn lái],引来[yǐn lái]')).
+assert(celo(tenti,'tent.0i','拉拢[lā lǒng],拉攏[lā lǒng]')).
+assert(celo(tenti,'tent.0i','招來[zhāo lái],招来[zhāo lái]')).
+assert(celo(tentiĝi,'tent.0igxi','动心[dòng xīn],動心[dòng xīn]')).
+assert(celo(tento,'tent.0o','誘惑力[yòu huò lì],诱惑力[yòu huò lì]')).
+assert(celo(tentaklo,'tentakl.0o','触手[chù shǒu],觸手[chù shǒu]')).
+assert(celo(tentaklo,'tentakl.0o','触腕[chù wàn],觸腕[chù wàn]')).
+assert(celo(teokratio,'teokra.0o','神治[shén zhì]')).
+assert(celo(teokratio,'teokra.0o','神权统治[shén quán tǒng zhì],神權統治[shén quán tǒng zhì]')).
+assert(celo(teokratio,'teokra.0o','神权政治[shén quán zhèng zhì],神權政治[shén quán zhèng zhì]')).
+assert(celo(teologo,'teolog.0o','神学家[shén xué jiā],神學家[shén xué jiā]')).
+assert(celo(teologo,'teolog.0o','神学研究者[shén xué yán jiù zhě],神學研究者[shén xué yán jiù zhě]')).
+assert(celo(teologo,'teolog.0o','神学者[shén xué zhě],神學者[shén xué zhě]')).
+assert(celo(teologiisto,'teolog1.0isto','神学家[shén xué jiā],神學家[shén xué jiā]')).
+assert(celo(teologiisto,'teolog1.0isto','神学研究者[shén xué yán jiù zhě],神學研究者[shén xué yán jiù zhě]')).
+assert(celo(teologiisto,'teolog1.0isto','神学者[shén xué zhě],神學者[shén xué zhě]')).
+assert(celo(teologio,'teolog1.0o','神学[shén xué],神學[shén xué]')).
+assert(celo(teologio,'','宗教体系[zōng jiào tǐ xì],宗教體系[zōng jiào tǐ xì]')).
+assert(celo(teoremo,'teorem.0o','定理[dìng lǐ]')).
+assert(celo(teoria,'teori.0a','理論上[lǐ lùn shàng],理论上[lǐ lùn shàng]')).
+assert(celo(teoria,'teori.0a','假設性[jiǎ shè xìng],假设性[jiǎ shè xìng]')).
+assert(celo(teoriisto,'teori.0isto','理論家[lǐ lùn jiā],理论家[lǐ lùn jiā]')).
+assert(celo(teorio,'teori.0o','理論[lǐ lùn],理论[lǐ lùn]')).
+assert(celo(teorio,'teori.0o','論[lùn],论[lùn]')).
+assert(celo(teorio,'teori.0o','理念[lǐ niàn]')).
+assert(celo(teorio,'teori.0o','学说[xué shuō],學說[xué shuō]')).
+assert(celo(teorio,'teori.0o','哲理[zhé lǐ]')).
+assert(celo(teorio,'teori.0o','外部經濟理論[wài bù jīng jì lǐ lùn],外部经济理论[wài bù jīng jì lǐ lùn]')).
+assert(celo(teorio,'teori.0o','經濟理論[jīng jì lǐ lùn],经济理论[jīng jì lǐ lùn]')).
