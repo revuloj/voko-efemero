@@ -1498,3 +1498,71 @@ assert(celo(tio,'tio.0','这个[zhè ge],這個[zhè ge]')).
 assert(celo(tiom,'tiom.0','这么多[zhè me duō],這麼多[zhè me duō]')).
 assert(celo(tiom,'tiom.0','那么多[nà me duō],那麼多[nà me duō]')).
 assert(celo(tiom,'tiom.0.grado','甚而至于[shèn ér zhì yú],甚而至於[shèn ér zhì yú]')).
+assert(celo('tiom ke','tiom.0ke','甚而至于[shèn ér zhì yú],甚而至於[shèn ér zhì yú]')).
+assert(celo('tiom ke','tiom.0ke','甚至于[shèn zhì yú],甚至於[shèn zhì yú]')).
+assert(celo('tiom ke','tiom.0ke','甚至[shèn zhì]')).
+assert(celo('tiom ke','tiom.0ke','足以[zú yǐ]')).
+assert(celo('ĝis tiom ke','tiom.gxis0ke','甚至[shèn zhì]')).
+assert(celo(tipa,'tip.0a','典型[diǎn xíng]')).
+assert(celo(tipa,'tip.0a','代表性[dài biǎo xìng]')).
+assert(celo(tipa,'tip.0a','地道[dì dao]')).
+assert(celo(tiparo,'tip.0aro','字型[zì xíng]')).
+assert(celo(tipo,'tip.0o','类型[lèi xíng],類型[lèi xíng]')).
+assert(celo(tipo,'tip.0o','样式[yàng shì],樣式[yàng shì]')).
+assert(celo(tipo,'tip.0o','典型[diǎn xíng]')).
+assert(celo(tipo,'tip.0o','型[xíng]')).
+assert(celo(tipo,'tip.0o','型态[xíng tài],型態[xíng tài]')).
+assert(celo(pratipo,'tip.pra0o','原型[yuán xíng]')).
+assert(celo(prestipo,'tip.pres0o.metala','印刷活字[yìn shuà huó zì]')).
+assert(celo(tipografio,'tipogr.0o','字体排印学[zì tǐ pái yìn xué],字體排印學[zì tǐ pái yìn xué]')).
+assert(celo(tipografio,'tipogr.0o','印刷术[yìn shuā shù],印刷術[yìn shuā shù]')).
+assert(celo(tipometro,'tipome.0o','活字量規[huó zì liàng guī],活字量规[huó zì liàng guī]')).
+assert(celo(tiri,'tir.0i','拖[tuō]')).
+assert(celo(tiri,'tir.0i','拖曳[tuō yè]')).
+assert(celo(tiri,'tir.0i','拉[lā]')).
+assert(celo(tiri,'tir.0i','拉扯[lā che]')).
+assert(celo(tiri,'tir.0i','掎[jǐ]')).
+assert(celo(tiri,'tir.0i','挽[wǎn],輓[wǎn]')).
+assert(celo(tiri,'tir.0i','拽[zhuài]')).
+assert(celo(tirilo,'tir.0ilo','拖曳机[tuō yè jī],拖曳機[tuō yè jī]')).
+assert(celo(tirado,'tir.0o','抓地力[zhuā dì lì]')).
+assert(celo(altiri,'tir.al0i','引來[yǐn lái],引来[yǐn lái]')).
+assert(celo(altiri,'tir.al0i','吸引[xī yǐn]')).
+assert(celo(detiri,'tir.de0i.forigi0ante','搣[miè]')).
+assert(celo(detiri,'tir.de0i.forigi0ante','减[jiǎn],減[jiǎn]')).
+assert(celo(detiri,'tir.de0i.forigi0ante','刨[páo]')).
+assert(celo(detiri,'tir.de0i.forigi0ante','剝膜[bō mó],剥膜[bō mó]')).
+assert(celo(detiri,'tir.de0i.forigi0ante','少于[shǎo yú],少於[shǎo yú]')).
+assert(celo(detiri,'tir.de0i.forigi0ante','扣除[kòu chú]')).
+assert(celo(detiri,'tir.de0i.forigi0ante','拆去[chāi qù]')).
+assert(celo(detiri,'tir.de0i.forigi0ante','排版校样[pái bǎn xiào yàng],排版校樣[pái bǎn xiào yàng]')).
+assert(celo(detiri,'tir.de0i.forigi0ante','减去[jiǎn qù],減去[jiǎn qù]')).
+assert(celo(eltiraĵo,'tir.el0ajxo','引出[yǐn chū]')).
+assert(celo(eltiraĵo,'tir.el0ajxo','摘录[zhāi lù],摘錄[zhāi lù]')).
+assert(celo(eltiraĵo,'tir.el0ajxo','節選[jié xuǎn],节选[jié xuǎn]')).
+assert(celo(eltiraĵo,'tir.el0ajxo','說法[shuō fa],说法[shuō fa]')).
+assert(celo(eltiraĵo,'tir.el0ajxo','片段[piàn duàn]')).
+assert(celo(eltiri,'tir.el0i','抽[chōu]')).
+assert(celo(eltiri,'tir.el0i','提取[tí qǔ]')).
+assert(celo(eltiri,'tir.el0i','提炼[tí liàn],提煉[tí liàn]')).
+assert(celo(eltiri,'tir.el0i','取出[qǔ chū]')).
+assert(celo(eltiri,'tir.el0i','摘录[zhāi lù],摘錄[zhāi lù]')).
+assert(celo(kuntiri,'tir.kun0i','收紧[shōu jǐn],收緊[shōu jǐn]')).
+assert(celo(kuntiri,'tir.kun0i','縮緊[suō jǐn],缩紧[suō jǐn]')).
+assert(celo(kuntiriĝi,'tir.kun0igxi','收縮[shōu suō],收缩[shōu suō]')).
+assert(celo(posttiri,'tir.post0i','扡[chǐ]')).
+assert(celo(posttiri,'tir.post0i','拖拉[tuō lā]')).
+assert(celo(posttiri,'tir.post0i','拖行[tuō xíng]')).
+assert(celo(retiri,'tir.re0i','掣[chè]')).
+assert(celo(retiri,'tir.re0i','撤下[chè xià]')).
+assert(celo(retiri,'tir.re0i','吊銷[diào xiāo],吊销[diào xiāo]')).
+assert(celo(sangeltiro,'tir.sangel0o.MED','抽血[chōu xiě]')).
+assert(celo(sangeltiro,'tir.sangel0o.MED','刺絡[cì lào],刺络[cì lào]')).
+assert(celo(tiraljoro,'tiraljor.0o.gvatpafisto','狙击手[jū jī shǒu],狙擊手[jū jī shǒu]')).
+assert(celo(tiraljoro,'tiraljor.0o.gvatpafisto','冷箭[lěng jiàn]')).
+assert(celo(tirana,'tiran.0a','无道[wú dào],無道[wú dào]')).
+assert(celo(tirana,'tiran.0a','強橫[qiáng hèng],强横[qiáng hèng]')).
+assert(celo(tirana,'tiran.0a','专制[zhuān zhì],專制[zhuān zhì]')).
+assert(celo(tirana,'tiran.0a','兇戾[xiōng lì],凶戾[xiōng lì]')).
+assert(celo(tirana,'tiran.0a','暴虐[bào nu:è]')).
+assert(celo(tirana,'tiran.0a','虐[nu:è]')).
