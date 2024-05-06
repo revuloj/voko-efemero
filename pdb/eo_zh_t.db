@@ -1566,3 +1566,286 @@ assert(celo(tirana,'tiran.0a','专制[zhuān zhì],專制[zhuān zhì]')).
 assert(celo(tirana,'tiran.0a','兇戾[xiōng lì],凶戾[xiōng lì]')).
 assert(celo(tirana,'tiran.0a','暴虐[bào nu:è]')).
 assert(celo(tirana,'tiran.0a','虐[nu:è]')).
+assert(celo(tiraneco,'tiran.0eco','专制统治[zhuān zhì tǒng zhì],專制統治[zhuān zhì tǒng zhì]')).
+assert(celo(tiraneco,'tiran.0eco','苛政[kē zhèng]')).
+assert(celo(tirani,'tiran.0i','霸[bà]')).
+assert(celo(tirani,'tiran.0i','横行霸道[héng xíng bà dào],橫行霸道[héng xíng bà dào]')).
+assert(celo(tirani,'tiran.0i','凌虐[líng nu:è],淩虐[líng nu:è]')).
+assert(celo(tirani,'tiran.0i','霸凌[bà líng]')).
+assert(celo(tirano,'tiran.0o','霸[bà]')).
+assert(celo(tirano,'tiran.0o','暴君[bào jūn]')).
+assert(celo('Tirano','tiran1.0o','地拉那[Dì lā nà]')).
+assert(celo(tiroido,'tiroid.0o','甲状腺[jiǎ zhuàng xiàn],甲狀腺[jiǎ zhuàng xiàn]')).
+assert(celo(tiroido,'tiroid.0o','甲状软骨[jiǎ zhuàng ruǎn gǔ],甲狀軟骨[jiǎ zhuàng ruǎn gǔ]')).
+assert(celo(tiroido,'tiroid.0o','甲状[jiǎ zhuàng],甲狀[jiǎ zhuàng]')).
+assert(celo('Tirolo','tirol.0o','提罗尔[tí luó ěr],提羅爾[tí luó ěr]')).
+assert(celo(tirozino,'tirozin.0o','酪氨酸[lào ān suān]')).
+assert(celo(titano,'titan.0o','土卫六[tǔ wèi liù],土衛六[tǔ wèi liù]')).
+assert(celo(titano,'titan.0o','泰坦[tài tǎn]')).
+assert(celo(titano,'titan1.0o','鈦[tài],钛[tài]')).
+assert(celo('Titikako','titikak.0o','的的喀喀湖[Dì dì kā kā Hú]')).
+assert(celo(titoli,'titol.0i.RANG','称作[chèn zuò],稱作[chèn zuò]')).
+assert(celo(titoli,'titol.0i.TIP','取名为[qǔ míng wéi],取名為[qǔ míng wéi]')).
+assert(celo(titolo,'titol.0o','称谓[chēng wèi],稱謂[chēng wèi]')).
+assert(celo(titolo,'titol.0o','头衔[tóu xián],頭銜[tóu xián]')).
+assert(celo(titolo,'titol.0o','称号[chēng hào],稱號[chēng hào]')).
+assert(celo(titolo,'titol.0o','职称[zhí chēng],職稱[zhí chēng]')).
+assert(celo(titolo,'titol.0o','名衔[míng xián],名銜[míng xián]')).
+assert(celo(titolo,'titol.0o','名义[míng yì],名義[míng yì]')).
+assert(celo(titolo,'titol.0o','名号[míng hào],名號[míng hào]')).
+assert(celo(subtitolo,'titol.sub0o','副标题[fù biāo tí],副標題[fù biāo tí]')).
+assert(celo(subtitolo,'titol.sub0o','字幕[zì mù]')).
+assert(celo(subtitolo,'titol.sub0o','副題[fù tí],副题[fù tí]')).
+assert(celo(tiu,'tiu.0','这个[zhè ge],這個[zhè ge]')).
+assert(celo(tiu,'','那个[nà ge],那個[nà ge]')).
+assert(celo('tiu ĉi','tiu.cxi0','此[cǐ]')).
+assert(celo('tiu ĉi','tiu.cxi0','这位[zhè wèi],這位[zhè wèi]')).
+assert(celo(tizano,'tizan.0o','熬煮[áo zhǔ]')).
+assert(celo(tjurka,'tjurk.0a','突厥[Tū jué]')).
+assert(celo('tjurka lingvo','tjurk.0alingvo','突厥語族[tú jué yǔ zú],突厥语族[tú jué yǔ zú]')).
+assert(celo(toasto,'toast.0o.rostpano','烤面包[kǎo miàn bāo],烤麵包[kǎo miàn bāo]')).
+assert(celo(toasto,'toast.0o.rostpano','多士[duō shì]')).
+assert(celo(toasto,'toast.0o.rostpano','烘面包[hōng miàn bāo]')).
+assert(celo('Tobio','tobi.0o','托毕亚斯[tuō bì yǎ sī],托畢亞斯[tuō bì yǎ sī]')).
+assert(celo(tobogano,'tobogan.0o','溜滑梯[liū huá tī]')).
+assert(celo(tobogano,'tobogan.0o','滑梯[huá tī]')).
+assert(celo(tobogano,'tobogan.0o','滑槽[huá cáo]')).
+assert(celo(reltobogano,'tobogan.rel0o','环行滑车[huán xíng huá chē],環行滑車[huán xíng huá chē]')).
+assert(celo(reltobogano,'tobogan.rel0o','过山车[guò shān chē],過山車[guò shān chē]')).
+assert(celo(reltobogano,'tobogan.rel0o','云霄飞车[yún xiāo fēi chē],雲霄飛車[yún xiāo fēi chē]')).
+assert(celo(tofo,'tof.0o','凝灰岩[níng huī yán]')).
+assert(celo(kalktofo,'tof.kalko0o','鈣華[gài huá],钙华[gài huá]')).
+assert(celo(kalktofo,'tof.kalko0o','石灰华[shí huī huá],石灰華[shí huī huá]')).
+assert(celo(kalktofo,'tof.kalko0o','洞石[dòng shí]')).
+assert(celo(tofuo,'tofu.0o','豆腐[dòu fu]')).
+assert(celo('Togolando','togo.T0olando','多哥[Duō gē]')).
+assert(celo('Togolando','togo.T0olando','多哥兰[duō gē lán],多哥蘭[duō gē lán]')).
+assert(celo(tohuvabohuo,'tohuvabohu.0o','大混乱[dà hùn luàn],大混亂[dà hùn luàn]')).
+assert(celo(tohuvabohuo,'tohuvabohu.0o','混沌[hùn dùn]')).
+assert(celo('Tokajo','tokaj.0o','托凯[Tuō kǎi],托凱[Tuō kǎi]')).
+assert(celo('Tokajo','tokaj.0o','鬼怪[guǐ guài]')).
+retract(celo('Tokajo','tokaj.0o','鬼怪[guǐ guài]')).
+assert(celo(tokato,'tokat.0o','触技曲[chù jì qǔ],觸技曲[chù jì qǔ]')).
+assert(celo(tokato,'tokat.0o','托卡塔曲[tuō kǎ tǎ qǔ],託卡塔曲[tuō kǎ tǎ qǔ]')).
+assert(celo(tokato,'tokat.0o','托卡塔[tuō kǎ tǎ]')).
+assert(celo(toksa,'toks.0a.MED','有毒[yǒu dú]')).
+assert(celo(toksa,'toks.0a.MED','中毒性[zhòng dú xìng]')).
+assert(celo(toksaĵo,'toks.0ajxo','有毒物質[yǒu dú wù zhì],有毒物质[yǒu dú wù zhì]')).
+assert(celo(toksaĵo,'toks.0ajxo','毒素[dú sù]')).
+assert(celo(sentoksigo,'toks.sen0igo','排毒[pái dú]')).
+assert(celo(maltoksigo,'toks.sen0igo','去毒[qù dú]')).
+assert(celo(toksino,'toksin.0o','毒素[dú sù]')).
+assert(celo(tolaĵo,'tol.0ajxo','絺[chī]')).
+assert(celo(tolaĵo,'tol.0ajxo','亚麻布[yà má bù],亞麻布[yà má bù]')).
+assert(celo(tolo,'tol.0o','亚麻布[yà má bù],亞麻布[yà má bù]')).
+assert(celo('Toledo','toled.0o','托莱多[Tuō lái duō],托萊多[Tuō lái duō]')).
+assert(celo(tolerebla,'toler.0ebla','可容忍[kě róng rěn]')).
+assert(celo(tolerema,'toler.0ema','宽容[kuān róng],寬容[kuān róng]')).
+assert(celo(tolerema,'toler.0ema','包容[bāo róng]')).
+assert(celo(tolero,'toler.0o','宽容[kuān róng],寬容[kuān róng]')).
+assert(celo(tolero,'toler.0o','裕度[yù dù]')).
+assert(celo(tolero,'toler.0o','公差容許誤差[gōng chā róng xǔ wù chā],公差容许误差[gōng chā róng xǔ wù chā]')).
+assert(celo(netolerebla,'toler.ne0ebla','容不得[róng bu dé]')).
+assert(celo(netolerebla,'toler.ne0ebla','无法忍受[wú fǎ rěn shòu],無法忍受[wú fǎ rěn shòu]')).
+assert(celo(netolerebla,'toler.ne0ebla','要不得[yào bu de]')).
+assert(celo(netolerema,'toler.ne0ema','容不得[róng bu dé]')).
+assert(celo(netolerema,'toler.ne0ema','不宽容[bù kuān róng],不寬容[bù kuān róng]')).
+assert(celo(netolerema,'toler.ne0ema','心窄[xīn zhǎi]')).
+assert(celo(tolueno,'toluen.0o','甲苯[jiǎ běn]')).
+assert(celo('Tomaso','tomas.0o','托馬斯[Tuō mǎ sī],托马斯[Tuō mǎ sī]')).
+assert(celo('Tomaso','tomas.0o','汤玛斯[tāng mǎ sī],湯瑪斯[tāng mǎ sī]')).
+assert(celo('Tomaso','tomas.0o','托马斯[tuō mǎ sī],託馬斯[tuō mǎ sī]')).
+assert(celo(tomato,'tomat.0o','番茄[fān qié]')).
+assert(celo(tomato,'tomat.0o','西紅柿[xī hóng shì],西红柿[xī hóng shì]')).
+assert(celo(tomato,'tomat.0o','蕃茄[fān qié]')).
+assert(celo(tombejo,'tomb.0ejo','墓地[mù dì]')).
+assert(celo(tombejo,'tomb.0ejo','坟茔[fén yíng],墳塋[fén yíng]')).
+assert(celo(tombejo,'tomb.0ejo','公墓[gōng mù]')).
+assert(celo(tombejo,'tomb.0ejo','墓园[mù yuán],墓園[mù yuán]')).
+assert(celo(tombejo,'tomb.0ejo','墓场[mù chǎng],墓場[mù chǎng]')).
+assert(celo(tombejo,'tomb.0ejo','坟地[fén dì],墳地[fén dì]')).
+assert(celo(tombejo,'tomb.0ejo','陵园[líng yuán],陵園[líng yuán]')).
+assert(celo(tombo,'tomb.0o','坟[fén],墳[fén]')).
+assert(celo(tombo,'tomb.0o','坟墓[fén mù],墳墓[fén mù]')).
+assert(celo(tombo,'tomb.0o','墓[mù]')).
+assert(celo(tombo,'tomb.0o','圹[kuàng],壙[kuàng]')).
+assert(celo(tombo,'tomb.0o','墦[fán]')).
+assert(celo(tombo,'tomb.0o','坟穴[fén xué],墳穴[fén xué]')).
+assert(celo(tombo,'tomb.0o','墓穴[mù xué]')).
+assert(celo(tombo,'tomb.0o','坆[fén]')).
+assert(celo(tombo,'tomb.0o','塋[yíng],茔[yíng]')).
+assert(celo(entombigi,'tomb.en0igi','埋葬[mái zàng]')).
+assert(celo(entombigi,'tomb.en0igi','葬[zàng]')).
+assert(celo(entombigi,'tomb.en0igi','安葬[ān zàng]')).
+assert(celo(entombigi,'tomb.en0igi','瘗[yì],瘞[yì]')).
+assert(celo(entombigo,'tomb.en0igo','葬礼[zàng lǐ],葬禮[zàng lǐ]')).
+assert(celo(entombigo,'tomb.en0igo','墓[mù]')).
+assert(celo(entombigo,'tomb.en0igo','丧葬[sāng zàng],喪葬[sāng zàng]')).
+assert(celo(tono,'ton.0o','口气[kǒu qì],口氣[kǒu qì]')).
+assert(celo(tono,'ton.0o','声[shēng],聲[shēng]')).
+assert(celo(tono,'ton.0o','声调[shēng diào],聲調[shēng diào]')).
+assert(celo(tono,'ton.0o','色調[sè diào],色调[sè diào]')).
+assert(celo(tono,'ton.0o','調門[diào mén],调门[diào mén]')).
+assert(celo(tono,'ton.0o','音調[yīn diào],音调[yīn diào]')).
+assert(celo(tono,'ton.0o','音[yīn]')).
+assert(celo(unutona,'ton.unu0a','单调[dān diào],單調[dān diào]')).
+assert(celo(unutona,'ton.unu0a','亘古不变[gèn gǔ bù biàn],亙古不變[gèn gǔ bù biàn]')).
+assert(celo(unutona,'ton.unu0a','单调乏味[dān diào fá wèi],單調乏味[dān diào fá wèi]')).
+assert(celo(tonalo,'tonal.0o','乐音[yuè yīn],樂音[yuè yīn]')).
+assert(celo(tonalo,'tonal.0o','調門[diào mén],调门[diào mén]')).
+assert(celo(tonalo,'tonal.0o','口气[kǒu qì],口氣[kǒu qì]')).
+assert(celo(tondi,'tond.0i','剪[jiǎn]')).
+assert(celo(tondilo,'tond.0ilo','剪刀[jiǎn dāo]')).
+assert(celo(tondilo,'tond.0ilo','揃[jiān]')).
+assert(celo(ĉirkaŭtondi,'tond.cxirkaux0i','刓[wán]')).
+assert(celo(fortondi,'tond.de0i','斩断[zhǎn duàn],斬斷[zhǎn duàn]')).
+assert(celo(razentondilo,'tond.gazon0ilo','草坪机[cǎo píng jī],草坪機[cǎo píng jī]')).
+assert(celo(razentondilo,'tond.gazon0ilo','草坪割草机[cǎo píng gē cǎo jī],草坪割草機[cǎo píng gē cǎo jī]')).
+assert(celo(razentondilo,'tond.gazon0ilo','刈草机[yì cǎo jī],刈草機[yì cǎo jī]')).
+assert(celo(razentondilo,'tond.gazon0ilo','剪草机[jiǎn cǎo jī],剪草機[jiǎn cǎo jī]')).
+assert(celo(razentondilo,'tond.gazon0ilo','割草机[gē cǎo jī],割草機[gē cǎo jī]')).
+assert(celo(razentondilo,'tond.gazon0ilo','修剪草坪[cǎo píng xiū jiǎn]')).
+retract(celo(razentondilo,'tond.gazon0ilo','修剪草坪[cǎo píng xiū jiǎn]')).
+assert(celo(tondri,'tondr.0i','打雷[dǎ léi]')).
+assert(celo(tondri,'tondr.0i','雷声[léi shēng],雷聲[léi shēng]')).
+assert(celo(tondri,'tondr.0i','雷鳴[léi míng],雷鸣[léi míng]')).
+assert(celo(tondri,'tondr.0i','砰[pēng]')).
+assert(celo(tondro,'tondr.0o','霹雳[pī lì],霹靂[pī lì]')).
+assert(celo(tondro,'tondr.0o','霹[pī]')).
+assert(celo(tondro,'tondr.0o','雷声[léi shēng],雷聲[léi shēng]')).
+assert(celo(tondro,'tondr.0o','靐[bìng]')).
+assert(celo(tondro,'tondr.0o','雷[léi]')).
+assert(celo(tondro,'tondr.0o','霹雷[pī léi]')).
+assert(celo(tondro,'tondr.0o','雷鳴[léi míng],雷鸣[léi míng]')).
+assert(celo(tondro,'tondr.0o','砰[pēng]')).
+assert(celo(tondro,'tondr.0o','磤[yǐn]')).
+assert(celo(fulmotondro,'tondr.fulmo0o','雷雨[léi yǔ]')).
+assert(celo(fulmotondro,'tondr.fulmo0o','西北雨[xī běi yǔ]')).
+assert(celo(fulmotondro,'tondr.fulmo0o','狂風暴雨[kuáng fēng bào yǔ],狂风暴雨[kuáng fēng bào yǔ]')).
+assert(celo(fulmotondro,'tondr.fulmo0o','雷暴雨[léi bào yǔ]')).
+assert(celo('Tongo','tong.T0o','汤加群岛[Tāng jiā Qún dǎo],湯加群島[Tāng jiā Qún dǎo]')).
+assert(celo('Tongo','tong.T0o','汤加王国[tāng jiā wáng guó],湯加王國[tāng jiā wáng guó]')).
+assert(celo(tonika,'tonik.0a','补品[bǔ pǐn],補品[bǔ pǐn]')).
+assert(celo(toniko,'tonik.0o.KUI','汤力水[tāng lì shuǐ],湯力水[tāng lì shuǐ]')).
+assert(celo(toniko,'tonik.0o.KUI','滋补品[zī bǔ pǐn],滋補品[zī bǔ pǐn]')).
+assert(celo(tonsilo,'tonsil.0o','扁桃腺[biǎn táo xiàn]')).
+assert(celo(tonsilo,'tonsil.0o','扁桃体[biǎn táo tǐ],扁桃體[biǎn táo tǐ]')).
+assert(celo(tonsuri,'tonsur.0i','剃度[tì dù]')).
+assert(celo(tonsuro,'tonsur.0o','剃度[tì dù]')).
+assert(celo(topazo,'topaz.0o','黃玉[huáng yù],黄玉[huáng yù]')).
+assert(celo(topazo,'topaz.0o','紅璧璽[hóng bì xǐ],红璧玺[hóng bì xǐ]')).
+assert(celo(topazo,'topaz.0o','茶晶[chá jīng]')).
+assert(celo(topazo,'topaz.0o','黃晶[huáng jīng],黄晶[huáng jīng]')).
+assert(celo(topinamburo,'topinambur.0o','洋姜[yáng jiāng],洋薑[yáng jiāng]')).
+assert(celo(topinamburo,'topinambur.0o','菊芋[jú yù]')).
+assert(celo(topinamburo,'topinambur.0o','洋姜[yáng jiāng]')).
+assert(celo(topografio,'topogr.0o','地形[dì xíng]')).
+assert(celo(topologio,'topolo.0o','拓扑[tuò pū],拓撲[tuò pū]')).
+assert(celo(toponimo,'toponim.0o','地名[dì míng]')).
+assert(celo(toro,'tor.0o','环面[huán miàn],環面[huán miàn]')).
+assert(celo('Torao','tora.0o','摩西五經[mó xī wǔ jīng],摩西五经[mó xī wǔ jīng]')).
+assert(celo(torako,'torak.0o.ANA','胸[xiōng]')).
+assert(celo(torako,'torak.0o.ANA','胸廓[xiōng kuò]')).
+assert(celo(torako,'torak.0o.ANA','膛[táng]')).
+assert(celo(torako,'torak.0o.ANA','胸腔[xiōng qiāng]')).
+assert(celo(torako,'torak.0o.ANA','胸部[xiōng bù]')).
+assert(celo(kaptorako,'torak.kap0o','头胸部[tóu xiōng bù],頭胸部[tóu xiōng bù]')).
+assert(celo(torĉo,'torcx.0o','火把[huǒ bǎ]')).
+assert(celo(torĉo,'torcx.0o','炬[jù]')).
+assert(celo(torĉo,'torcx.0o','火炬[huǒ jù]')).
+assert(celo(torĉo,'torcx.0o','松明[sōng míng]')).
+assert(celo(torĉo,'torcx.0o','熜[zǒng]')).
+assert(celo(torĉo,'torcx.0o','有装饰的大烛台[yǒu zhuāng shì de dài zhú tái],有裝飾的大燭台[yǒu zhuāng shì de dài zhú tái]')).
+assert(celo(torĉo,'torcx.0o','火榘[huǒ jǔ],火矩[huǒ jǔ]')).
+assert(celo(torda,'tord.0a','紾[zhěn]')).
+assert(celo(torda,'tord.0a','哩溜歪斜[lī liū wāi xié]')).
+assert(celo(torda,'tord.0a','弯曲[wān qū],彎曲[wān qū]')).
+assert(celo(torda,'tord.0a','挛[luán],攣[luán]')).
+assert(celo(tordi,'tord.0i','捩[liè]')).
+assert(celo(tordi,'tord.0i','扭曲[niǔ qū]')).
+assert(celo(tordi,'tord.0i','肙[yuān]')).
+assert(celo(distordi,'tord.dis0i','扭曲[niǔ qū]')).
+assert(celo(distordi,'tord.dis0i','使失真[shǐ shī zhēn]')).
+assert(celo(distordi,'tord.dis0i','使变形[shǐ biàn xíng],使變形[shǐ biàn xíng]')).
+assert(celo(distordi,'tord.dis0i','使难看[shǐ nán kàn],使難看[shǐ nán kàn]')).
+assert(celo(distordi,'tord.dis0i','走样[zǒu yàng],走樣[zǒu yàng]')).
+assert(celo(distordi,'tord.dis0i','弄歪[nòng wāi]')).
+assert(celo(kuntordi,'tord.kun0i','交錯[jiāo cuò],交错[jiāo cuò]')).
+assert(celo(premtordi,'tord.prem0i','拧[níng],擰[níng]')).
+assert(celo(premtordi,'tord.prem0i','絞[jiǎo],绞[jiǎo]')).
+assert(celo(premtordi,'tord.prem0i','扭乾[niǔ gān],扭干[niǔ gān]')).
+assert(celo(premtordi,'tord.prem0i','拧干[níng gān],擰乾[níng gān]')).
+assert(celo(premtordi,'tord.prem0i','手扭[shǒu niǔ]')).
+assert(celo(premtordi,'tord.prem0i','拧挤[níng jǐ],擰擠[níng jǐ]')).
+assert(celo(premtordi,'tord.prem0i','絞乾[jiǎo gān],绞干[jiǎo gān]')).
+assert(celo(toreadoro,'toread.0o','斗牛士[dòu niú shì],鬥牛士[dòu niú shì]')).
+assert(celo(torenta,'torent.0a','滔滔[tāo tāo]')).
+assert(celo(torenta,'torent.0a','駛流[shǐ liú],驶流[shǐ liú]')).
+assert(celo(torenti,'torent.0i','倾注[qīng zhù],傾注[qīng zhù]')).
+assert(celo(torenti,'torent.0i','流[liú]')).
+assert(celo(torenti,'torent.0i','涌流[yǒng liú]')).
+assert(celo(torento,'torent.0o','涧流[jiàn liú],澗流[jiàn liú]')).
+assert(celo(torento,'torent.0o','急流[jí liú]')).
+assert(celo(torento,'torent.0o','激流[jī liú]')).
+assert(celo(torento,'torent.0o','山洪[shān hóng]')).
+assert(celo(torfokampo,'torf.0ejo','泥煤沼[ní méi zhǎo]')).
+assert(celo(torfo,'torf.0o','泥炭[ní tàn]')).
+assert(celo(torfo,'torf.0o','泥煤[ní méi]')).
+assert(celo(torio,'tori.0o','釷[tǔ],钍[tǔ]')).
+assert(celo('Torino','torin.0o','都灵[Dū líng],都靈[Dū líng]')).
+assert(celo(torni,'torn.0i.argilon','制陶[zhì táo],製陶[zhì táo]')).
+assert(celo(torni,'torn.0i.argilon','拉坯[lā pī]')).
+assert(celo(tornmaŝino,'torn.0ilo.argilo','轆轤[lù lu],辘轳[lù lu]')).
+assert(celo(tornmaŝino,'torn.0ilo.trancxi','車床[chē chuáng],车床[chē chuáng]')).
+assert(celo(tornmaŝino,'torn.0ilo.trancxi','鏇床[xuàn chuáng],镟床[xuàn chuáng]')).
+assert(celo(torni,'','鏇[xuàn],镟[xuàn]')).
+assert(celo(tornisto,'torn.0isto.metiisto','鏇木工[xuàn mù gōng],镟木工[xuàn mù gōng]')).
+assert(celo(tornisto,'','車工[chē gōng],车工[chē gōng]')).
+assert(celo(pottornilo,'torn.pot0ilo','轆轤[lù lu],辘轳[lù lu]')).
+assert(celo(tornado,'tornad.0o','龍捲風[lóng juǎn fēng],龙卷风[lóng juǎn fēng]')).
+assert(celo(tornado,'tornad.0o','卷扬[juǎn yáng],捲揚[juǎn yáng]')).
+assert(celo(tornado,'tornad.0o','卷风[juǎn fēng],捲風[juǎn fēng]')).
+assert(celo(tornado,'tornad.0o','旋風[xuàn fēng],旋风[xuàn fēng]')).
+assert(celo(tornado,'tornad.0o','龍捲[lóng juǎn],龙卷[lóng juǎn]')).
+assert(celo('Toronto','toront.0o','多伦多[Duō lún duō],多倫多[Duō lún duō]')).
+assert(celo(torpedo,'torped.0o','魚雷[yú léi],鱼雷[yú léi]')).
+assert(celo(torporo,'torpor.0o.KOMUNE','冻僵[dòng jiāng],凍殭[dòng jiāng]')).
+assert(celo(torso,'tors.0o','上身[shàng shēn]')).
+assert(celo(torturejo,'tortur.0ejo','刑堂[xíng táng]')).
+assert(celo(torturi,'tortur.0i','严刑拷打[yán xíng kǎo dǎ],嚴刑拷打[yán xíng kǎo dǎ]')).
+assert(celo(torturi,'tortur.0i','毒刑[dú xíng]')).
+assert(celo(torturi,'tortur.0i','揉搓[róu cuo]')).
+assert(celo(torturi,'tortur.0i','磨折[mó zhé]')).
+assert(celo(torturilo,'tortur.0ilo','刑具[xíng jù]')).
+assert(celo(torturisto,'tortur.0isto','使苦痛的人[shǐ kǔ tòng de rén]')).
+assert(celo(torturisto,'tortur.0isto','拷打者[kǎo dǎ zhě]')).
+assert(celo(torturisto,'tortur.0isto','施刑者[shī xíng zhě]')).
+assert(celo(torturisto,'tortur.0isto','虐待者[nüè dài zhě]')).
+assert(celo(torturisto,'tortur.0isto','迫害者[pò hài zhě]')).
+assert(celo(torturo,'tortur.0o','严刑拷打[yán xíng kǎo dǎ],嚴刑拷打[yán xíng kǎo dǎ]')).
+assert(celo(torturo,'tortur.0o','毒刑[dú xíng]')).
+assert(celo(torturo,'tortur.0o.JUR','刑具[xíng jù]')).
+assert(celo('Toskanio','toskani.0o','托斯卡纳[tuō sī kǎ nà],託斯卡納[tuō sī kǎ nà]')).
+assert(celo('Toskanujo','','托斯卡纳[tuō sī kǎ nà],託斯卡納[tuō sī kǎ nà]')).
+assert(celo(tosti,'tost.0i','乾杯[gān bēi],干杯[gān bēi]')).
+assert(celo(tosti,'tost.0i','敬酒[jìng jiǔ]')).
+assert(celo(tosti,'tost.0i','举杯[jǔ bēi],舉杯[jǔ bēi]')).
+assert(celo(tosto,'tost.0o','祝酒[zhù jiǔ]')).
+assert(celo(tosto,'tost.0o','敬酒[jìng jiǔ]')).
+assert(celo(tosto,'tost.0o','乾杯[gān bēi],干杯[gān bēi]')).
+assert(celo(totala,'total.0a','全部[quán bù]')).
+assert(celo(totala,'total.0a','全面[quán miàn]')).
+assert(celo(totala,'total.0a','完全[wán quán]')).
+assert(celo(totala,'total.0a','全盘[quán pán],全盤[quán pán]')).
+assert(celo(totalismo,'total.0ismo','极权主义[jí quán zhǔ yì],極權主義[jí quán zhǔ yì]')).
+assert(celo(totalismo,'total.0ismo','极权社会[jí quán shè huì],極權社會[jí quán shè huì]')).
+assert(celo(totalo,'total.0o','全部[quán bù]')).
+assert(celo(totalo,'total.0o','累計[lěi jì],累计[lěi jì]')).
+assert(celo(totalo,'total.0o','总计[zǒng jì],總計[zǒng jì]')).
+assert(celo(totalo,'total.0o','总体[zǒng tǐ],總體[zǒng tǐ]')).
+assert(celo(totemismo,'totem.0ismo','图腾[tú téng],圖騰[tú téng]')).
+assert(celo(totemismo,'totem.0ismo','图腾崇拜[tú téng chóng bài],圖騰崇拜[tú téng chóng bài]')).
+assert(celo(totemo,'totem.0o','图腾[tú téng],圖騰[tú téng]')).
+assert(celo(tpr,'tpr.0','咑[dā]')).
+assert(celo(tra,'tra.0','藉着[jiè zhe],藉著[jiè zhe]')).
+assert(celo(tra,'tra.0','經過[jīng guò],经过[jīng guò]')).
