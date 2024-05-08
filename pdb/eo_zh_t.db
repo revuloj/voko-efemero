@@ -1849,3 +1849,92 @@ assert(celo(totemo,'totem.0o','图腾[tú téng],圖騰[tú téng]')).
 assert(celo(tpr,'tpr.0','咑[dā]')).
 assert(celo(tra,'tra.0','藉着[jiè zhe],藉著[jiè zhe]')).
 assert(celo(tra,'tra.0','經過[jīng guò],经过[jīng guò]')).
+assert(celo(trae,'tra.0e','穿透[chuān tòu]')).
+assert(celo(traigi,'tra.0igi','貫穿[guàn chuān],贯穿[guàn chuān]')).
+assert(celo(traiĝi,'tra.0igxi','通行[tōng xíng]')).
+assert(celo(traiĝi,'tra.0igxi','得到通过[dé dào tōng guò],得到通過[dé dào tōng guò]')).
+assert(celo(traiĝi,'','擐[huàn]')).
+assert(celo('tra inter','tra.0inter','介于[jiè yú],介於[jiè yú]')).
+assert(celo(trabaĵo,'trab.0aro','棚架[péng jià]')).
+assert(celo(trabaĵo,'trab.0aro','鷹架[yīng jià],鹰架[yīng jià]')).
+assert(celo(trabo,'trab.0o','椽[chuán]')).
+assert(celo(trabo,'trab.0o','梁[liáng],樑[liáng]')).
+assert(celo(trabanto,'traban.0o','卫星[wèi xīng],衛星[wèi xīng]')).
+assert(celo('Trabanto','traban.T0o.auxto','拖笨車[tuō bèn chē],拖笨车[tuō bèn chē]')).
+assert(celo('Trabanto','traban.T0o.auxto','特拉比[tè lā bǐ]')).
+assert(celo(tradicia,'tradic.0a','传统[chuán tǒng],傳統[chuán tǒng]')).
+assert(celo(tradicii,'tradic.0i','流传[liú chuán],流傳[liú chuán]')).
+assert(celo(tradicio,'tradic.0o','传统[chuán tǒng],傳統[chuán tǒng]')).
+assert(celo(tradukaĵo,'traduk.0ajxo','譯文[yì wén],译文[yì wén]')).
+assert(celo(tradukaĵo,'traduk.0ajxo','譯本[yì běn],译本[yì běn]')).
+assert(celo(tradukanto,'traduk.0anto','翻譯[fān yì],翻译[fān yì]')).
+assert(celo(tradukanto,'traduk.0anto','譯員[yì yuán],译员[yì yuán]')).
+assert(celo(tradukanto,'traduk.0anto','譯者[yì zhě],译者[yì zhě]')).
+assert(celo(tradukanto,'traduk.0anto','翻譯者[fān yì zhě],翻译者[fān yì zhě]')).
+assert(celo(tradukanto,'traduk.0anto','口譯員[kǒu yì yuán],口译员[kǒu yì yuán]')).
+assert(celo(tradukanto,'traduk.0anto','翻譯員[fān yì yuán],翻译员[fān yì yuán]')).
+assert(celo(tradukanto,'traduk.0anto','口头翻译[kǒu tóu fān yì],口頭翻譯[kǒu tóu fān yì]')).
+assert(celo(tradukanto,'traduk.0anto','笔译员[bǐ yì yuán],筆譯員[bǐ yì yuán]')).
+assert(celo(tradukanto,'traduk.0anto','通譯[tōng yì],通译[tōng yì]')).
+assert(celo(traduki,'traduk.0i','編譯[biān yì],编译[biān yì]')).
+assert(celo(traduki,'traduk.0i','繙[fān]')).
+assert(celo(traduki,'traduk.0i','譯[yì],译[yì]')).
+assert(celo(traduki,'traduk.0i','传译[chuán yì],傳譯[chuán yì]')).
+assert(celo(traduki,'traduk.0i','翻[fān]')).
+assert(celo(traduki,'traduk.0i','譯寫[yì xiě],译写[yì xiě]')).
+assert(celo(tradukilo,'traduk.0ilo','編譯器[biān yì qì],编译器[biān yì qì]')).
+assert(celo(tradukilo,'traduk.0ilo','編輯家[biān jí jiā],编辑家[biān jí jiā]')).
+assert(celo(tradukisto,'traduk.0isto','翻譯[fān yì],翻译[fān yì]')).
+assert(celo(tradukisto,'traduk.0isto','譯員[yì yuán],译员[yì yuán]')).
+assert(celo(tradukisto,'traduk.0isto','譯者[yì zhě],译者[yì zhě]')).
+assert(celo(tradukisto,'traduk.0isto','翻譯者[fān yì zhě],翻译者[fān yì zhě]')).
+assert(celo(tradukisto,'traduk.0isto','翻譯員[fān yì yuán],翻译员[fān yì yuán]')).
+assert(celo(tradukisto,'traduk.0isto','口譯員[kǒu yì yuán],口译员[kǒu yì yuán]')).
+assert(celo(tradukisto,'traduk.0isto','口头翻译[kǒu tóu fān yì],口頭翻譯[kǒu tóu fān yì]')).
+assert(celo(tradukisto,'traduk.0isto','笔译员[bǐ yì yuán],筆譯員[bǐ yì yuán]')).
+assert(celo(tradukisto,'traduk.0isto','通譯[tōng yì],通译[tōng yì]')).
+assert(celo(traduko,'traduk.0o','譯文[yì wén],译文[yì wén]')).
+assert(celo(traduko,'traduk.0o','譯本[yì běn],译本[yì běn]')).
+assert(celo(buŝtraduki,'traduk.busx0i','譯[yì],译[yì]')).
+assert(celo(buŝtraduki,'traduk.busx0i','口譯[kǒu yì],口译[kǒu yì]')).
+assert(celo(trafa,'traf.0a','恰当[qià dàng],恰當[qià dàng]')).
+assert(celo(trafa,'traf.0a','中肯[zhòng kěn]')).
+assert(celo(trafa,'traf.0a','确切[què qiè],確切[què qiè]')).
+assert(celo(trafeco,'traf.0eco','精密度[jīng mì dù]')).
+assert(celo(trafeco,'traf.0eco','精度[jīng dù]')).
+assert(celo(trafeco,'traf.0eco','精确度[jīng què dù],精確度[jīng què dù]')).
+assert(celo(trafeco,'traf.0eco','精确性[jīng què xìng],精確性[jīng què xìng]')).
+assert(celo(trafi,'traf.0i','搢[jìn]')).
+assert(celo(trafi,'traf.0i','相逢[xiāng féng]')).
+assert(celo(trafi,'traf.0i','偶遇[ǒu yù]')).
+assert(celo(trafi,'traf.0i','刜[fú]')).
+assert(celo(trafi,'traf.0i','摷[jiǎo]')).
+assert(celo(trafi,'traf.0i','不期而遇[bù qī ér yù]')).
+assert(celo(trafi,'traf.0i','中[zhòng]')).
+assert(celo(trafi,'traf.0i','到一起[dào yì qǐ]')).
+assert(celo(trafi,'traf.0i','怡然[yí rán]')).
+assert(celo(trafi,'traf.0i','正中要害[zhèng zhōng yào hài]')).
+assert(celo(trafi,'traf.0i','猜中[cāi zhōng]')).
+assert(celo(trafi,'traf.0i','着边[zháo biān],著邊[zháo biān]')).
+assert(celo(trafi,'traf.0i','被侮辱[bèi wǔ rù]')).
+assert(celo(trafi,'traf.0i','被冒犯[bèi mào fàn]')).
+assert(celo(trafi,'traf.0i','遇上[yù shàng]')).
+assert(celo(trafi,'traf.0i','会晤[huì wù],會晤[huì wù]')).
+assert(celo(trafo,'traf.0o','点击数[diǎn jī shù],點擊數[diǎn jī shù]')).
+assert(celo(trafo,'traf.0o','偶遇[ǒu yù]')).
+assert(celo(trafo,'traf.0o','邂逅[xiè hòu]')).
+assert(celo(trafpovo,'','有效射程[yǒu xiào shè chéng]')).
+assert(celo(maltrafi,'traf.mal0i','蹉[cuō]')).
+assert(celo(maltrafi,'traf.mal0i','失約[shī yuē],失约[shī yuē]')).
+assert(celo(maltrafi,'traf.mal0i','落空[luò kōng]')).
+assert(celo(maltrafi,'traf.mal0i','落空[luò kòng]')).
+assert(celo(trafiki,'trafik.0i','流通[liú tōng]')).
+assert(celo(trafiki,'trafik.0i','行駛[xíng shǐ],行驶[xíng shǐ]')).
+assert(celo(trafikilo,'trafik.0ilo','交通工具[jiāo tōng gōng jù]')).
+assert(celo(trafiko,'trafik.0o','車流[chē liú],车流[chē liú]')).
+assert(celo(trafiko,'trafik.0o','交通[jiāo tōng]')).
+assert(celo(tragedia,'traged.0a','惨[cǎn],慘[cǎn]')).
+assert(celo(tragedia,'traged.0a','可悲[kě bēi]')).
+assert(celo(tragedia,'traged.0a','悲剧性[bēi jù xìng],悲劇性[bēi jù xìng]')).
+assert(celo(tragedia,'traged.0a','悲怆[bēi chuàng],悲愴[bēi chuàng]')).
+assert(celo(tragedia,'traged.0a','悲惨[bēi cǎn],悲慘[bēi cǎn]')).
