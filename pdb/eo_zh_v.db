@@ -1,0 +1,128 @@
+created(1715347229.0687013).
+assert(celo(vaĉi,'vacx.0i','守望[shǒu wàng]')).
+assert(celo(vaĉi,'vacx.0i','放哨[fàng shào]')).
+assert(celo(vadejo,'vad.0ejo.SPO','浅水池[qiǎn shuǐ chí],淺水池[qiǎn shuǐ chí]')).
+assert(celo(vadejo,'vad.0ejo.SPO','气水池[qì shuǐ chí],氣水池[qì shuǐ chí]')).
+assert(celo(vadejo,'vad.0ejo.travadejo','涉过[shè guò],涉過[shè guò]')).
+assert(celo(vadi,'vad.0i.KOMUNE','蹚[tāng]')).
+assert(celo(vadi,'vad.0i.KOMUNE','在水步行[zài shuǐ bù xíng]')).
+assert(celo(travadejo,'vad.tra0ejo','津[jīn]')).
+assert(celo(travadejo,'vad.tra0ejo','涉过[shè guò],涉過[shè guò]')).
+assert(celo('Vaduzo','vaduz.0o','瓦都兹[Wǎ dū zī],瓦都茲[Wǎ dū zī]')).
+assert(celo('Vaduzo','vaduz.0o','瓦杜兹[Wǎ dù zī],瓦杜茲[Wǎ dù zī]')).
+assert(celo(vaflo,'vafl.0o','华夫[huá fū],華夫[huá fū]')).
+assert(celo(vaflo,'vafl.0o','松饼[sōng bǐng],鬆餅[sōng bǐng]')).
+assert(celo(vaflo,'vafl.0o','窝夫[wō fū],窩夫[wō fū]')).
+assert(celo(vaflo,'vafl.0o','威化餅[wēi huà bǐng],威化饼[wēi huà bǐng]')).
+assert(celo(vaflo,'vafl.0o','烘餅[hōng bǐng],烘饼[hōng bǐng]')).
+assert(celo(vaflo,'vafl.0o','华夫饼[huá fū bǐng],華夫餅[huá fū bǐng]')).
+assert(celo(vaflo,'vafl.0o','薄餅乾[báo bǐng gān],薄饼干[báo bǐng gān]')).
+assert(celo(vagi,'vag.0i','漫游[màn yóu],漫遊[màn yóu]')).
+assert(celo(vagi,'vag.0i','敖[áo]')).
+assert(celo(vagi,'vag.0i','浪荡[làng dàng],浪蕩[làng dàng]')).
+assert(celo(vagi,'vag.0i','逛逛[guàng guang]')).
+assert(celo(vagi,'vag.0i','游荡[yóu dàng],遊蕩[yóu dàng]')).
+assert(celo(vagi,'vag.0i','神聊[shén liáo]')).
+assert(celo(vagado,'vag.0o','流浪[liú làng]')).
+assert(celo(forvagi,'vag.for0i','离题[lí tí],離題[lí tí]')).
+assert(celo(forvagi,'vag.for0i','漫无边际[màn wú biān jì],漫無邊際[màn wú biān jì]')).
+assert(celo(gapvagi,'vag.gap0i','遛[liù]')).
+assert(celo(gapvagi,'vag.gap0i','閑逛[xián guàng],闲逛[xián guàng]')).
+assert(celo(gapvagi,'vag.gap0i','徐步[xú bù]')).
+assert(celo(gapvagi,'vag.gap0i','蹓[liù]')).
+assert(celo(gapvagi,'vag.gap0i','溜达[liù da],溜達[liù da]')).
+assert(celo(gapvagi,'vag.gap0i','忀[xiāng]')).
+assert(celo(vagabondi,'vagabond.0i','流浪[liú làng]')).
+assert(celo(vagabondo,'vagabond.0o','流浪汉[liú làng hàn],流浪漢[liú làng hàn]')).
+assert(celo(vagabondo,'vagabond.0o','漂泊[piāo bó]')).
+assert(celo(vagabondo,'vagabond.0o','游民[yóu mín],遊民[yóu mín]')).
+assert(celo(vagabondo,'vagabond.0o','浪人[làng rén]')).
+assert(celo(vagabondo,'vagabond.0o','吉普賽[jí pǔ sài],吉普赛[jí pǔ sài]')).
+assert(celo(vagabondo,'vagabond.0o','流浪者[liú làng zhě]')).
+assert(celo('Vagaduguo','vagadugu.0o.cxefurbo','瓦加杜古[Wǎ jiā dù gǔ]')).
+assert(celo(vagino,'vagin.0o','膣[zhì]')).
+assert(celo(vagino,'vagin.0o','阴道[yīn dào],陰道[yīn dào]')).
+assert(celo(vagino,'vagin.0o','蜜穴[mì xué]')).
+assert(celo(manĝvagono,'vagon.mangx0o','餐車[cān chē],餐车[cān chē]')).
+assert(celo(vaĝrajana,'vagxrajan.0a','金刚乘[jīn gāng chéng],金剛乘[jīn gāng chéng]')).
+assert(celo('Vaĝrajano','vagxrajan.0o','密宗[Mì zōng]')).
+assert(celo(vajco,'vajc.0o','台虎钳[tái hǔ qián],臺虎鉗[tái hǔ qián]')).
+assert(celo(vajco,'vajc.0o','平鉗[píng qián],平钳[píng qián]')).
+assert(celo(vajco,'vajc.0o','老虎鉗[lǎo hǔ qián],老虎钳[lǎo hǔ qián]')).
+assert(celo(vajco,'vajc.0o','虎鉗[hǔ qián],虎钳[hǔ qián]')).
+assert(celo('Vajmaro','vajmar.0o.urbo','魏玛[Wèi mǎ],魏瑪[Wèi mǎ]')).
+assert(celo('Vajmaro','vajmar.0o.urbo','威玛[Wēi mǎ],威瑪[Wēi mǎ]')).
+assert(celo('Vajomingo','vajoming.0o','怀俄明州[Huái é míng zhōu],懷俄明州[Huái é míng zhōu]')).
+assert(celo('Vajomingo','vajoming.0o','怀俄明[Huái é míng],懷俄明[Huái é míng]')).
+assert(celo(vaka,'vak.0a','空[kòng]')).
+assert(celo(vaka,'vak.0a','閒[xián]')).
+assert(celo(vaka,'vak.0a','沒人住[méi rén zhù],没人住[méi rén zhù]')).
+assert(celo(vakcinado,'vakcin.0ado','接种[jiē zhòng],接種[jiē zhòng]')).
+assert(celo(vakcini,'vakcin.0i','接种[jiē zhòng],接種[jiē zhòng]')).
+assert(celo(vakcino,'vakcin.0o','疫苗[yì miáo]')).
+assert(celo(vakcino,'vakcin.0o','菌苗[jūn miáo]')).
+assert(celo(vakcino,'vakcin.0o','痘苗[dòu miáo]')).
+assert(celo(vakcinio,'vakcin1.0o','越橘[yuè jú]')).
+assert(celo(vakcinio,'vakcin1.0o','蓝莓[lán méi],藍莓[lán méi]')).
+assert(celo(vakcinio,'vakcin1.0o','小紅莓[xiǎo hóng méi],小红莓[xiǎo hóng méi]')).
+assert(celo(vakcinio,'vakcin1.0o','蔓越橘[màn yuè jú]')).
+assert(celo(vakcinio,'vakcin1.0o','曼越橘[màn yuè jú]')).
+assert(celo(vakero,'vaker.0o','牛仔[niú zǎi]')).
+assert(celo(vakero,'vaker.0o','牛郎[niú láng]')).
+assert(celo(vaksumi,'vaks.0i','打蜡[dǎ là],打蠟[dǎ là]')).
+assert(celo(vakso,'vaks.0o','蜡[là],蠟[là]')).
+assert(celo(orelvakso,'vaks.orel0o','聍[níng],聹[níng]')).
+assert(celo(vakuigi,'vaku.0igi','疏散[shū sàn]')).
+assert(celo(vakuo,'vaku.0o','真空[zhēn kōng]')).
+assert(celo(vakuolo,'vakuol.0o','液泡[yè pào]')).
+assert(celo(vakuolo,'vakuol.0o','液胞[yè bāo]')).
+assert(celo(vakuo,'','空性[kōng xìng]')).
+assert(celo(valo,'val.0o','山谷[shān gǔ]')).
+assert(celo(valo,'val.0o','峪[yù]')).
+assert(celo(valo,'val.0o','嶰[xiè]')).
+assert(celo(valo,'val.0o','谷地[gǔ dì]')).
+assert(celo('Valo de la Reĝoj','val.0odelaregxoj','帝王谷[dì wáng gǔ]')).
+assert(celo('Silicia Valo','val.silicia0o','硅谷[Guī gǔ]')).
+assert(celo('Valencio','valenci.0o','瓦伦西亚[wǎ lún xī yà],瓦倫西亞[wǎ lún xī yà]')).
+assert(celo('Valencio','valenci.0o','巴伦西亚[bā lún xī yà],巴倫西亞[bā lún xī yà]')).
+assert(celo(valento,'valent.0o','配价[pèi jià],配價[pèi jià]')).
+assert(celo(valento,'valent.0o','化合价[huà hé jià],化合價[huà hé jià]')).
+assert(celo('tago de Valenteno','valenten.tagode0o','情人節[Qíng rén jié],情人节[Qíng rén jié]')).
+assert(celo(valeriano,'valerian.0o','纈草[xié cǎo],缬草[xié cǎo]')).
+assert(celo(valeriano,'valerian.0o','頡草[xié cǎo],颉草[xié cǎo]')).
+assert(celo('Valhalo','valhal.0o','英灵殿[yīng líng diàn],英靈殿[yīng líng diàn]')).
+assert(celo(valideco,'valid.0o','有效性[yǒu xiào xìng]')).
+assert(celo(valideco,'valid.0o','真实性[zhēn shí xìng],真實性[zhēn shí xìng]')).
+assert(celo(valideco,'valid.0o','效力[xiào lì]')).
+assert(celo(valideco,'','生效[shēng xiào]')).
+assert(celo(malvalidigi,'valid.mal0igi','使无效[shǐ wú xiào],使無效[shǐ wú xiào]')).
+assert(celo(malvalidigi,'valid.mal0igi','使貶值[shǐ biǎn zhí],使贬值[shǐ biǎn zhí]')).
+assert(celo(malvalidigi,'valid.mal0igi','取消[qǔ xiāo]')).
+assert(celo(nevalida,'valid.ne0a','屆滿[jiè mǎn],届满[jiè mǎn]')).
+assert(celo(valizo,'valiz.0o','箱子[xiāng zi]')).
+assert(celo(valizo,'valiz.0o','提箱[tí xiāng]')).
+assert(celo(valizo,'valiz.0o','行李箱[xíng li xiāng]')).
+assert(celo(valizo,'valiz.0o','手提箱[shǒu tí xiāng]')).
+assert(celo(valizo,'valiz.0o','皮箱[pí xiāng]')).
+assert(celo('Valonujo','valon.V0ujo','瓦隆[wǎ lóng]')).
+assert(celo('Valonio','valoni.0o','瓦隆[wǎ lóng]')).
+assert(celo(valora,'valor.0a','貴重[guì zhòng],贵重[guì zhòng]')).
+assert(celo(valora,'valor.0a','昂貴[áng guì],昂贵[áng guì]')).
+assert(celo(valora,'valor.0a','超值[chāo zhí]')).
+assert(celo(valora,'valor.0a.altvalora','値錢[zhí qián],值钱[zhí qián]')).
+assert(celo(valora,'valor.0a.altvalora','很有价值[hěn yǒu jià zhí],很有價值[hěn yǒu jià zhí]')).
+assert(celo(valora,'valor.0a.altvalora','有价值[yǒu jià zhí],有價值[yǒu jià zhí]')).
+assert(celo(valoraĵo,'valor.0ajxo','貴重[guì zhòng],贵重[guì zhòng]')).
+assert(celo(valoraĵo,'valor.0ajxo','錢物[qián wù],钱物[qián wù]')).
+assert(celo(valori,'valor.0i','值得[zhí de]')).
+assert(celo(valori,'valor.0i','价值[jià zhí],價值[jià zhí]')).
+assert(celo(valori,'valor.0i','值[zhí]')).
+assert(celo(valori,'valor.0i','配称[pèi chèn],配稱[pèi chèn]')).
+assert(celo(valori,'valor.0i','划得來[huá de lái],划得来[huá de lái]')).
+retract(celo(valori,'valor.0i','配称[pèi chèn],配稱[pèi chèn]')).
+assert(celo(valoro,'valor.0o','价值[jià zhí],價值[jià zhí]')).
+assert(celo(valoro,'valor.0o','值[zhí]')).
+assert(celo(valoro,'valor.0o','价[jià],價[jià]')).
+assert(celo(valoro,'valor.0o','价[jià]')).
+assert(celo(valoro,'valor.0o','数值[shù zhí],數值[shù zhí]')).
+assert(celo(valoraĵo,'','細軟[xì ruǎn],细软[xì ruǎn]')).
