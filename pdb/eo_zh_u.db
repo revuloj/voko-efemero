@@ -1,0 +1,396 @@
+created(1715339302.6486106).
+assert(celo(udono,'udon.0o','乌龙面[wū lóng miàn],烏龍麵[wū lóng miàn]')).
+assert(celo(udono,'udon.0o','乌冬面[wū dōng miàn],烏冬麵[wū dōng miàn]')).
+assert(celo('Ueno','uen.0o.kvartalo','上野[Shàng yě]')).
+assert(celo('Ugando','ugand.U0o.GEOG','乌干达[Wū gān dá],烏干達[Wū gān dá]')).
+assert(celo(ugviso,'ugvis.0o','日本树莺[Rì běn shù yīng],日本樹鶯[Rì běn shù yīng]')).
+assert(celo(ujo,'uj.0o','盦[ān]')).
+assert(celo(ujo,'uj.0o','容器[róng qì]')).
+assert(celo(ujo,'','鍋子[guō zi],锅子[guō zi]')).
+assert(celo(ujo,'','陂[pí]')).
+assert(celo(ujo,'','盂[yú]')).
+assert(celo(ujo,'','壶[hú],壺[hú]')).
+assert(celo(ujutna,'ujutn.0a','舒适[shū shì],舒適[shū shì]')).
+assert(celo(ujutna,'ujutn.0a','从从容容[cóng cóng róng róng],從從容容[cóng cóng róng róng]')).
+assert(celo(ujutna,'ujutn.0a','暖烘烘[nuǎn hōng hōng]')).
+assert(celo(ujutna,'ujutn.0a','暖融融[nuǎn róng róng]')).
+assert(celo(ujutna,'ujutn.0a','舒心[shū xīn]')).
+assert(celo(ujutna,'ujutn.0a','舒适地[shū shì de],舒適地[shū shì de]')).
+retract(celo(ujutna,'ujutn.0a','从从容容[cóng cóng róng róng],從從容容[cóng cóng róng róng]')).
+assert(celo('Ukrainio','ukraini.0o','乌克兰[Wū kè lán],烏克蘭[Wū kè lán]')).
+assert(celo('Ukrainio','ukraini.0o','位于欧洲东南方[wèi yú ōu zhōu dōng nán fāng],位於歐洲東南方[wèi yú ōu zhōu dōng nán fāng]')).
+assert(celo('Ukrainio','ukraini.0o','基輔是其首都[jī fǔ shì qí shǒu dū],基辅是其首都[jī fǔ shì qí shǒu dū]')).
+assert(celo('Ukrainio','ukraini.0o','壽命很短就結束[shòu mìng hěn duǎn jiù jié shù],寿命很短就结束[shòu mìng hěn duǎn jiù jié shù]')).
+assert(celo(ukrajna,'ukrajn.0a','位于欧洲东南方[wèi yú ōu zhōu dōng nán fāng],位於歐洲東南方[wèi yú ōu zhōu dōng nán fāng]')).
+assert(celo(ukrajna,'ukrajn.0a','基輔是其首都[jī fǔ shì qí shǒu dū],基辅是其首都[jī fǔ shì qí shǒu dū]')).
+assert(celo(ukrajna,'ukrajn.0a','壽命很短就結束[shòu mìng hěn duǎn jiù jié shù],寿命很短就结束[shòu mìng hěn duǎn jiù jié shù]')).
+assert(celo(ukrajno,'ukrajn.0o.homo','乌克兰人[wū kè lán rén],烏克蘭人[wū kè lán rén]')).
+assert(celo('Ukrajnujo','ukrajn.U0ujo','乌克兰[Wū kè lán],烏克蘭[Wū kè lán]')).
+assert(celo('Ukrajnujo','ukrajn.U0ujo','位于欧洲东南方[wèi yú ōu zhōu dōng nán fāng],位於歐洲東南方[wèi yú ōu zhōu dōng nán fāng]')).
+assert(celo('Ukrajnujo','ukrajn.U0ujo','基輔是其首都[jī fǔ shì qí shǒu dū],基辅是其首都[jī fǔ shì qí shǒu dū]')).
+assert(celo('Ukrajnujo','ukrajn.U0ujo','壽命很短就結束[shòu mìng hěn duǎn jiù jié shù],寿命很短就结束[shòu mìng hěn duǎn jiù jié shù]')).
+assert(celo(ukulelo,'ukulel.0o','尤克里里[yóu kè lǐ lǐ]')).
+assert(celo(ukulelo,'ukulel.0o','乌克丽丽[wū kè lì lì],烏克麗麗[wū kè lì lì]')).
+assert(celo(ukulelo,'ukulel.0o','夏威夷吉他[xià wēi yí jí tā]')).
+assert(celo(ukulelo,'ukulel.0o','夏威夷的四弦琴[xià wēi yí de sì xián qín],夏威夷的四絃琴[xià wēi yí de sì xián qín]')).
+assert(celo(ukulelo,'ukulel.0o','尤克里里琴[yóu kè lǐ lǐ qín]')).
+assert(celo(ulo,'ul.0o','小伙子[xiǎo huǒ zi]')).
+assert(celo(ulo,'ul.0o','个人[gè rén],個人[gè rén]')).
+assert(celo(ulo,'ul.0o','个体[gè tǐ],個體[gè tǐ]')).
+assert(celo(ulo,'ul.0o','人士[rén shì]')).
+assert(celo('Ulambano','ulamban.0o','万灵节[wàn líng jié],萬靈節[wàn líng jié]')).
+assert(celo('Ulanbatoro','ulanbator.0o.cxefurbo','乌兰巴托[Wū lán bā tuō],烏蘭巴托[Wū lán bā tuō]')).
+assert(celo(ulcero,'ulcer.0o','溃疡[kuì yáng],潰瘍[kuì yáng]')).
+assert(celo(ulcero,'ulcer.0o','疠[lì],癘[lì]')).
+assert(celo(ulcero,'ulcer.0o','疡[yáng],瘍[yáng]')).
+assert(celo(ulcero,'ulcer.0o','疮[chuāng],瘡[chuāng]')).
+assert(celo('Uliso','ulis.0o','尤利西斯[Yóu lì xī sī]')).
+assert(celo(ulmo,'ulm.0o','榆[yú]')).
+assert(celo(ulmo,'ulm.0o','榆树[yú shù],榆樹[yú shù]')).
+assert(celo(ulno,'uln.0o.kubutosto','尺骨[chǐ gǔ]')).
+assert(celo(ulno,'uln.0o.kubutosto','肘尺[zhǒu chǐ]')).
+assert(celo('Ulstero','ulster.0o.regiono','阿尔斯特[ā ěr sī tè],阿爾斯特[ā ěr sī tè]')).
+assert(celo(ultimato,'ultima.0o','最后通牒[zuì hòu tōng dié],最後通牒[zuì hòu tōng dié]')).
+assert(celo(ultimato,'ultima.0o','哀的美敦书[āi dì měi dūn shū],哀的美敦書[āi dì měi dūn shū]')).
+assert(celo('ultra-','ultra.0','超[chāo]')).
+assert(celo(ultramaro,'ultram.0o','极浓海蓝[jí nóng hǎi lán],極濃海藍[jí nóng hǎi lán]')).
+assert(celo(ultramaro,'ultram.0o','佛青[fú qīng],彿靑[fú qīng]')).
+assert(celo(ultramaro,'ultram.0o','深蓝青[shēn lán qīng],深藍青[shēn lán qīng]')).
+assert(celo(ultramaro,'ultram.0o','群靑[qún qīng],群青[qún qīng]')).
+assert(celo(ultrasono,'ultrason.0o','超声[chāo shēng],超聲[chāo shēng]')).
+assert(celo(ultrasono,'ultrason.0o','超音波[chāo yīn bō]')).
+assert(celo(ultrasono,'ultrason.0o','超声波[chāo shēng bō],超聲波[chāo shēng bō]')).
+assert(celo(ultraviola,'ultraviol.0a','紫外[zǐ wài]')).
+assert(celo(ululi,'ulul.0i.ZOO_lupo','嚎[háo]')).
+assert(celo(ululi,'ulul.0i.ZOO_lupo','号叫[háo jiào],號叫[háo jiào]')).
+assert(celo(umilo,'','玩意[wán yì]')).
+assert(celo(umbelo,'umbel.0o','伞形花序[sǎn xíng huā xù],傘形花序[sǎn xíng huā xù]')).
+assert(celo(umbelo,'umbel.0o','伞状花序[sǎn zhuàng huā xù],傘狀花序[sǎn zhuàng huā xù]')).
+assert(celo(umbeliferoj,'umbelifer.0oj','伞形科[sǎn xíng kē],傘形科[sǎn xíng kē]')).
+assert(celo('umbilika ŝnuro','umbili.0asxnuro','脐带[qí dài],臍帶[qí dài]')).
+assert(celo(umbilikistino,'umbili.0istino','助产士[zhù chǎn shì],助產士[zhù chǎn shì]')).
+assert(celo(umbilikistino,'umbili.0istino','接生婆[jiē shēng pó]')).
+assert(celo(umbilikistino,'umbili.0istino','产婆[chǎn pó],產婆[chǎn pó]')).
+assert(celo(umbiliko,'umbili.0o.ANA','脐[qí],臍[qí]')).
+assert(celo(umbiliko,'umbili.0o.ANA','肚脐[dù qí],肚臍[dù qí]')).
+assert(celo(umbiliko,'umbili.0o.ANA','肚脐眼[dù qí yǎn],肚臍眼[dù qí yǎn]')).
+assert(celo(umearbo,'ume.0arbo','梅子[méi zi]')).
+assert(celo(umearbo,'ume.0arbo','梅[méi],槑[méi]')).
+assert(celo(umeo,'ume.0o.KUI','梅[méi]')).
+assert(celo(umlaŭto,'umlauxt.0o','分音符[fēn yīn fú]')).
+assert(celo(unco,'unc.0o','盎司[àng sī]')).
+assert(celo(unco,'unc.0o','啢[liǎng]')).
+assert(celo(unco,'unc.0o','安士[ān shì]')).
+assert(celo('Unesko','unesk.0o','教科文組織[Jiào Kē Wén Zǔ zhī],教科文组织[Jiào Kē Wén Zǔ zhī]')).
+assert(celo(ungego,'ung.0ego','爪[zhuǎ]')).
+assert(celo(ungego,'ung.0ego','爪子[zhuǎ zi]')).
+assert(celo(ungo,'ung.0o','爪子[zhuǎ zi]')).
+assert(celo(ungo,'ung.0o','指甲[zhǐ jia]')).
+assert(celo(ungvento,'ungven.0o','药膏[yào gāo],藥膏[yào gāo]')).
+assert(celo(ungvento,'ungven.0o','軟膏[ruǎn gāo],软膏[ruǎn gāo]')).
+assert(celo(unio,'uni.0o','統一[tǒng yī],统一[tǒng yī]')).
+assert(celo(unio,'uni.0o','联盟[lián méng],聯盟[lián méng]')).
+assert(celo('Eŭropa Unio','uni.Euxropa_U0o','欧盟[Āu méng],歐盟[Āu méng]')).
+assert(celo('Eŭropa Unio','uni.Euxropa_U0o','欧洲联盟[ōu zhōu lián méng],歐洲聯盟[ōu zhōu lián méng]')).
+assert(celo(unika,'unik.0a','空前絕後[kōng qián jué hòu],空前绝后[kōng qián jué hòu]')).
+assert(celo(unika,'unik.0a','独特[dú tè],獨特[dú tè]')).
+assert(celo(unika,'unik.0a','一枝独秀[yī zhī dú xiù],一枝獨秀[yī zhī dú xiù]')).
+assert(celo(unika,'unik.0a','別具風姿[bié jù fēng zī],别具风姿[bié jù fēng zī]')).
+assert(celo(unika,'unik.0a','无双[wú shuāng],無雙[wú shuāng]')).
+assert(celo(unikaĵo,'unik.0ajxo','单本[dān běn],單本[dān běn]')).
+assert(celo('Unikodo','unikod.0o','統一碼[tǒng yī mǎ],统一码[tǒng yī mǎ]')).
+assert(celo('Unikodo','unikod.0o','单一码[dān yī mǎ],單一碼[dān yī mǎ]')).
+assert(celo('Unikodo','unikod.0o','万国码[wàn guó mǎ],萬國碼[wàn guó mǎ]')).
+assert(celo(unikorno,'unikorn.0o','廌[zhì]')).
+assert(celo(unikorno,'unikorn.0o','独角兽[dú jiǎo shòu],獨角獸[dú jiǎo shòu]')).
+assert(celo(unikorno,'unikorn.0o','麒[qí]')).
+assert(celo(unikorno,'unikorn.0o','麟[lín]')).
+assert(celo(unisono,'unison.0o','全体一致[quán tǐ yī zhì],全體一致[quán tǐ yī zhì]')).
+assert(celo(unisono,'unison.0o','沒有異議[méi yǒu yì yì],没有异议[méi yǒu yì yì]')).
+assert(celo(unisono,'unison.0o','一致[yī zhì]')).
+assert(celo(universa,'univer.0a','普[pǔ]')).
+assert(celo(universa,'univer.0a','万能[wàn néng],萬能[wàn néng]')).
+assert(celo(universa,'univer.0a','宇宙[yǔ zhòu]')).
+assert(celo(universa,'univer.0a','普适[pǔ shì],普適[pǔ shì]')).
+assert(celo(universo,'univer.0o','宇宙[yǔ zhòu]')).
+assert(celo('paralela universo','univer.paralela0o','平行时空[píng xíng shí kōng],平行時空[píng xíng shí kōng]')).
+assert(celo(universala,'univer1.0a','普遍[pǔ biàn]')).
+assert(celo(universala,'univer1.0a','普遍性[pǔ biàn xìng]')).
+assert(celo(universala,'univer1.0a','普[pǔ]')).
+assert(celo(universala,'univer1.0a','万能[wàn néng],萬能[wàn néng]')).
+assert(celo(universala,'univer1.0a','百科[bǎi kē]')).
+assert(celo(universala,'univer1.0a','万有[wàn yǒu],萬有[wàn yǒu]')).
+assert(celo(universala,'univer1.0a','共通[gòng tōng]')).
+assert(celo(universalismo,'univer1.0ismo','普遍性[pǔ biàn xìng]')).
+assert(celo('universitata parko','univer2.0aareo','校园[xiào yuán],校園[xiào yuán]')).
+assert(celo('universitata parko','univer2.0aareo','校区[xiào qū],校區[xiào qū]')).
+assert(celo(universitato,'univer2.0o','大学[dà xué],大學[dà xué]')).
+assert(celo(universitato,'univer2.0o','高校[gāo xiào]')).
+assert(celo(unkti,'unkt.0i','抹油[mǒ yóu]')).
+assert(celo(unkti,'unkt.0i','膏立[gào lì]')).
+assert(celo(unu,'unu.0','一[yī]')).
+assert(celo('unu al la alia','unu.0_la_alian','互相[hù xiāng]')).
+assert(celo('unu al la alia','unu.0_la_alian','彼此[bǐ cǐ]')).
+assert(celo('unu post unu','unu.0_post_la_alia','一递一个[yī dì yī gè],一遞一個[yī dì yī gè]')).
+assert(celo('unu post unu','unu.0_post_la_alia','依次[yī cì]')).
+assert(celo('unu post unu','unu.0_post_la_alia','先后[xiān hòu],先後[xiān hòu]')).
+assert(celo('unu post unu','unu.0_post_la_alia','逐个[zhú gè],逐個[zhú gè]')).
+assert(celo('unu post unu','unu.0_post_la_alia','重重[chóng chóng]')).
+assert(celo(unuavenaĵo,'unu.0avenajxo','初[chū]')).
+retract(celo(unuavenaĵo,'unu.0avenajxo','初[chū]')).
+assert(celo(unue,'unu.0e','起初[qǐ chū]')).
+assert(celo(unue,'unu.0e','先[xiān]')).
+assert(celo(unue,'unu.0e','其一[qí yī]')).
+assert(celo(unue,'unu.0e','首次[shǒu cì]')).
+assert(celo(unue,'unu.0e','首先[shǒu xiān]')).
+assert(celo(unue,'unu.0e','原本[yuán běn]')).
+assert(celo(unue,'unu.0e','理由之一是[lǐ yóu zhī yī shì]')).
+assert(celo(unue,'unu.0e','跑道头滑行道[pǎo dào tóu huá xíng dào],跑道頭滑行道[pǎo dào tóu huá xíng dào]')).
+assert(celo(unueco,'unu.0eco','統一性[tǒng yī xìng],统一性[tǒng yī xìng]')).
+assert(celo(unueco,'unu.0eco','团结[tuán jié],團結[tuán jié]')).
+assert(celo(unueco,'unu.0eco','最小单位[zuì xiǎo dān wèi],最小單位[zuì xiǎo dān wèi]')).
+assert(celo(unuigi,'unu.0igi','团结[tuán jié],團結[tuán jié]')).
+assert(celo(unuigi,'unu.0igi','拧成一股绳[níng chéng yī gǔ shéng],擰成一股繩[níng chéng yī gǔ shéng]')).
+assert(celo(unuigi,'unu.0igi','結合[jié hé],结合[jié hé]')).
+assert(celo(unuigi,'unu.0igi','联[lián],聯[lián]')).
+assert(celo(unuiĝi,'unu.0igxi','团结[tuán jié],團結[tuán jié]')).
+assert(celo(unuo,'unu.0o','单位[dān wèi],單位[dān wèi]')).
+assert(celo(unuo,'unu.0o','統一性[tǒng yī xìng],统一性[tǒng yī xìng]')).
+assert(celo('imaginara unuo','unu.imaginara0o','虚单位[xū dān wèi],虛單位[xū dān wèi]')).
+assert(celo('imaginara unuo','unu.imaginara0o','虚数单位[xū shù dān wèi],虛數單位[xū shù dān wèi]')).
+assert(celo(malunueco,'unu.mal0eco','不調和[bù tiáo hé],不调和[bù tiáo hé]')).
+assert(celo(mezurunuo,'unu.mezur0o','单位[dān wèi],單位[dān wèi]')).
+assert(celo(monunuo,'unu.mon0o','貨幣[huò bì],货币[huò bì]')).
+assert(celo(subunuo,'unu.sub0o','計量單位[jì liàng dān wèi],计量单位[jì liàng dān wèi]')).
+retract(celo(subunuo,'unu.sub0o','計量單位[jì liàng dān wèi],计量单位[jì liàng dān wèi]')).
+assert(celo(subunuo,'','亚单位[yà dān wèi],亞單位[yà dān wèi]')).
+assert(celo(unuciklo,'unucikl.0o','单轮车[dān lún chē],單輪車[dān lún chē]')).
+assert(celo(unuciklo,'unucikl.0o','独轮车[dú lún chē],獨輪車[dú lún chē]')).
+assert(celo('Upsalo','upsal.0o','乌普萨拉[Wū pǔ sà lā],烏普薩拉[Wū pǔ sà lā]')).
+assert(celo(upsilono,'upsilon.0o','宇普西龍[yǔ pǔ xī lóng],宇普西龙[yǔ pǔ xī lóng]')).
+assert(celo(upupo,'upup.0o.birdo','鵀[rèn]')).
+assert(celo(upupo,'','戴勝[dài shèng],戴胜[dài shèng]')).
+assert(celo(upupo,'','鵖[bī]')).
+assert(celo(upupo,'','鵖鴔[bī fú]')).
+assert(celo(uro,'ur.0o','原牛[yuán niú]')).
+assert(celo(uracilo,'uracil.0o','尿嘧啶[suī mì dìng]')).
+assert(celo(uragana,'uragan.0a.KOMUNE','沺[tián]')).
+assert(celo(uragani,'uragan.0i','風暴狂風[fēng bào kuáng fēng],风暴狂风[fēng bào kuáng fēng]')).
+assert(celo(uragani,'uragan.0i','狂吼[kuáng hǒu]')).
+assert(celo(uragani,'uragan.0i','狂号[kuáng hào],狂號[kuáng hào]')).
+assert(celo(uragano,'uragan.0o','颶風[jù fēng],飓风[jù fēng]')).
+assert(celo(uragano,'uragan.0o','狂飆[kuáng biāo],狂飙[kuáng biāo]')).
+assert(celo(uragano,'uragan.0o','颶[jù],飓[jù]')).
+assert(celo(uragano,'uragan.0o','飈[biāo],飚[biāo]')).
+assert(celo(uragano,'uragan.0o','热带性风暴[rè dài xìng fēng bào],熱帶性风暴[rè dài xìng fēng bào]')).
+assert(celo('Uralo','ural.U0o','乌拉尔[wū lā ěr],烏拉爾[wū lā ěr]')).
+assert(celo('Uralo','ural.U0o','乌拉尔山脉[wū lā ěr shān mài],烏拉爾山脈[wū lā ěr shān mài]')).
+assert(celo('Uralo','ural.U0o','乌拉尔河[wū lā ěr hé],烏拉爾河[wū lā ěr hé]')).
+assert(celo('urala lingvo','','乌拉尔语系[wū lā ěr yǔ xì],烏拉爾語系[wū lā ěr yǔ xì]')).
+assert(celo(uranio,'urani.0o','鈾[yóu],铀[yóu]')).
+assert(celo(urbego,'urb.0ego','大都市[dà dū shì]')).
+assert(celo(urbego,'urb.0ego','大城市[dà chéng shì]')).
+assert(celo(urbego,'urb.0ego','都市[dū shì]')).
+assert(celo(urbestro,'urb.0estro','市長[shì zhǎng],市长[shì zhǎng]')).
+assert(celo(urbestro,'urb.0estro','鎮長[zhèn zhǎng],镇长[zhèn zhǎng]')).
+assert(celo(urbeto,'urb.0eto','市鎮[shì zhèn],市镇[shì zhèn]')).
+assert(celo(urbeto,'urb.0eto','小城[xiǎo chéng]')).
+assert(celo(urbeto,'urb.0eto','小鎮[xiǎo zhèn],小镇[xiǎo zhèn]')).
+assert(celo(urbeto,'urb.0eto','集鎮[jí zhèn],集镇[jí zhèn]')).
+assert(celo('Ho-Ĉi-Min-Urbo','urb.Ho_Cxi_Min_0o','胡志明市[Hú Zhì míng Shì]')).
+assert(celo('Kaburbo','urb.Kab0o','开普敦[Kāi pǔ dūn],開普敦[Kāi pǔ dūn]')).
+assert(celo('Liberurbo','urb.Liber0o','利伯維爾[lì bó wéi ěr],利伯维尔[lì bó wéi ěr]')).
+assert(celo('Urbano','','乌尔巴诺[wū ěr bā nuò],烏爾巴諾[wū ěr bā nuò]')).
+assert(celo(antaŭurbo,'urb.antaux0o','郊区[jiāo qū],郊區[jiāo qū]')).
+assert(celo(antaŭurbo,'urb.antaux0o','市郊[shì jiāo]')).
+assert(celo(antaŭurbo,'urb.antaux0o','郊[jiāo]')).
+assert(celo(antaŭurbo,'urb.antaux0o','城郊[chéng jiāo]')).
+assert(celo(antaŭurbo,'urb.antaux0o','郛[fú]')).
+assert(celo(antaŭurbo,'urb.antaux0o','郊外[jiāo wài]')).
+assert(celo(antaŭurbo,'urb.antaux0o','近郊[jìn jiāo]')).
+assert(celo(ĉefurbo,'urb.cxef0o','首都[shǒu dū]')).
+assert(celo(ĉefurbo,'urb.cxef0o','都[dū]')).
+assert(celo(ĉefurbo,'urb.cxef0o','都城[dū chéng]')).
+assert(celo(ĉirkaŭurbo,'urb.cxirkaux0o','城郊[chéng jiāo]')).
+assert(celo(ĉirkaŭurbo,'urb.cxirkaux0o','市郊[shì jiāo]')).
+assert(celo(ĉirkaŭurbo,'urb.cxirkaux0o','郊区[jiāo qū],郊區[jiāo qū]')).
+assert(celo(ĉirkaŭurbo,'urb.cxirkaux0o','郊外[jiāo wài]')).
+assert(celo(havenurbo,'urb.haven0o','埠[bù]')).
+assert(celo(havenurbo,'urb.haven0o','港埠[gǎng fù]')).
+assert(celo(havenurbo,'urb.haven0o','港口城市[gǎng kǒu chéng shì]')).
+assert(celo(ladurbo,'urb.lad0o','下挫[xià cuò]')).
+assert(celo(ladurbo,'urb.lad0o','貧民區[pín mín qū],贫民区[pín mín qū]')).
+retract(celo(ladurbo,'urb.lad0o','下挫[xià cuò]')).
+assert(celo(milionurbo,'urb.milion0o','大都市[dà dū shì]')).
+assert(celo(naskiĝurbo,'urb.naskigx0o','出生地[chū shēng dì]')).
+assert(celo(naskiĝurbo,'urb.naskigx0o','出生地点[chū shēng dì diǎn],出生地點[chū shēng dì diǎn]')).
+assert(celo(naskiĝurbo,'urb.naskigx0o','故土[gù tǔ]')).
+assert(celo(urbanizi,'urbaniz.0i','城市化[chéng shì huà]')).
+assert(celo('Urduo','urd.0o.lingvo','乌尔都语[Wū ěr dū yǔ],烏爾都語[Wū ěr dū yǔ]')).
+assert(celo(uretero,'ureter.0o','輸尿管[shū niào guǎn],输尿管[shū niào guǎn]')).
+assert(celo(uretro,'uretr.0o','尿道[niào dào]')).
+assert(celo(urĝa,'urgx.0a','加急[jiā jí]')).
+assert(celo(urĝa,'urgx.0a','紧急[jǐn jí],緊急[jǐn jí]')).
+assert(celo(urĝa,'urgx.0a','促[cù]')).
+assert(celo(urĝa,'urgx.0a','倥[kǒng]')).
+assert(celo(urĝa,'urgx.0a','偲[sī]')).
+assert(celo(urĝa,'urgx.0a','急[jí]')).
+assert(celo(urĝa,'urgx.0a','急迫[jí pò]')).
+assert(celo(urĝa,'urgx.0a','絿[qiú]')).
+assert(celo(urĝa,'urgx.0a','紧迫[jǐn pò],緊迫[jǐn pò]')).
+assert(celo(urĝa,'urgx.0a','急着[jí zhe],急著[jí zhe]')).
+assert(celo(urĝi,'urgx.0i','敦促[dūn cù]')).
+assert(celo(urĝigi,'urgx.0igi.igi_urgxa','提前[tí qián]')).
+assert(celo(urĝigi,'urgx.0igi.igi_urgxa','加快[jiā kuài]')).
+assert(celo(urĝigi,'urgx.0igi.igi_urgxa','加紧[jiā jǐn],加緊[jiā jǐn]')).
+assert(celo(urĝo,'urgx.0o','赶[gǎn]')).
+assert(celo(urĝo,'urgx.0o','赶快[gǎn kuài],趕快[gǎn kuài]')).
+assert(celo(urĝo,'urgx.0o','紧迫[jǐn pò],緊迫[jǐn pò]')).
+assert(celo(mergulo,'uri.0o','海鴉屬[hǎi yā shǔ],海鸦属[hǎi yā shǔ]')).
+assert(celo(urinado,'urin.0ado','泌尿[mì niào]')).
+assert(celo(urinado,'urin.0ado','排尿[pái niào]')).
+assert(celo(urini,'urin.0i','小便[xiǎo biàn]')).
+assert(celo(urini,'urin.0i','尿[niào]')).
+assert(celo(urini,'urin.0i','溲[sōu]')).
+assert(celo(urini,'urin.0i','泌尿[mì niào]')).
+assert(celo(urino,'urin.0o','尿[niào]')).
+assert(celo(urino,'urin.0o','尿液[niào yè]')).
+assert(celo(urino,'urin.0o','尿[suī]')).
+assert(celo(urino,'urin.0o','尿样[suī yàng],尿樣[suī yàng]')).
+assert(celo(urino,'urin.0o','小恭[xiǎo gōng]')).
+assert(celo(urno,'urn.0o','瓮[wèng]')).
+assert(celo(urno,'urn.0o','骨坛[gǔ tán],骨罈[gǔ tán]')).
+assert(celo(urno,'urn.0o','甕[wèng]')).
+assert(celo(urno,'urn.0o','票箱[piào xiāng]')).
+assert(celo(urno,'urn.0o','罋[wèng]')).
+assert(celo(urodeloj,'urodel.0oj','有尾目[yǒu wěi mù]')).
+assert(celo(urogalo,'urogal.0o','西方松雞[xī fāng sōng jī],西方松鸡[xī fāng sōng jī]')).
+assert(celo(urogalo,'urogal.0o','水雞[shuǐ jī],水鸡[shuǐ jī]')).
+assert(celo('Granda Ursino','urs.GrandaU0ino','北斗星[běi dǒu xīng]')).
+assert(celo('Malgranda Ursino','urs.MalgrandaU0ino.AST','小熊座[xiǎo xióng zuò]')).
+assert(celo('blanka urso','urs.blanka0o','白熊[bái xióng]')).
+assert(celo('blanka urso','urs.blanka0o','北极熊[běi jí xióng],北極熊[běi jí xióng]')).
+assert(celo(lavurso,'urs.lav0o','浣熊[huǎn xióng]')).
+assert(celo(urtiko,'urtik.0o','异株荨麻[yì zhū qián má],異株蕁麻[yì zhū qián má]')).
+assert(celo(urtiko,'urtik.0o','䕭[qián]')).
+assert(celo(urtiko,'urtik.0o','荨[xún],蕁[xún]')).
+assert(celo(urtikacoj,'urtika.0oj','荨麻目[xún má mù],蕁麻目[xún má mù]')).
+assert(celo(urugvajano,'urugvaj.0ano','乌拉圭人[wū lā guī rén],烏拉圭人[wū lā guī rén]')).
+assert(celo('Urugvajo','urugvaj.U0o','乌拉圭[Wū lā guī],烏拉圭[Wū lā guī]')).
+assert(celo(usona,'uson.0a','美国人[Měi guó rén],美國人[Měi guó rén]')).
+assert(celo('Utaho','utah.0o','犹他[Yóu tā],猶他[Yóu tā]')).
+assert(celo('Utaho','utah.0o','犹他州[Yóu tā zhōu],猶他州[Yóu tā zhōu]')).
+assert(celo('Utarpradeŝo','utarpradesx.0o','北方邦[Běi fāng bāng]')).
+assert(celo('Utarakando','','北安查尔邦[běi ān chá ěr bāng],北安查爾邦[běi ān chá ěr bāng]')).
+assert(celo(uterkolo,'uter.0kolo','宫颈[gōng jǐng],宮頸[gōng jǐng]')).
+assert(celo(uterkolo,'uter.0kolo','子宫颈[zǐ gōng jǐng],子宮頸[zǐ gōng jǐng]')).
+assert(celo(utero,'uter.0o','子宫[zǐ gōng],子宮[zǐ gōng]')).
+assert(celo(utero,'uter.0o','胞宫[bāo gōng],胞宮[bāo gōng]')).
+assert(celo(utero,'uter.0o','娘胎[niáng tāi]')).
+assert(celo(utila,'util.0a','管用[guǎn yòng]')).
+assert(celo(utila,'util.0a','有用[yǒu yòng]')).
+assert(celo(utila,'util.0a','有益[yǒu yì]')).
+assert(celo(utila,'util.0a','中用[zhòng yòng]')).
+assert(celo(utila,'util.0a','中用[zhōng yòng]')).
+assert(celo(utila,'util.0a','便于使用[biàn yú shǐ yòng],便於使用[biàn yú shǐ yòng]')).
+assert(celo(utileco,'util.0eco','效用[xiào yòng]')).
+assert(celo(utileco,'util.0eco','用[yòng]')).
+assert(celo(utileco,'util.0eco','用处[yòng chu],用處[yòng chu]')).
+assert(celo(utili,'util.0i','裨益[bì yì]')).
+assert(celo(utili,'util.0i','有利于[yǒu lì yú],有利於[yǒu lì yú]')).
+assert(celo(utili,'util.0i','助于[zhù yú],助於[zhù yú]')).
+assert(celo(utiligi,'util.0igi','施用[shī yòng]')).
+assert(celo(utiligi,'util.0igi','运用[yùn yòng],運用[yùn yòng]')).
+assert(celo(utiligi,'util.0igi','利用[lì yòng]')).
+assert(celo(utilismo,'util.0ismo','功利主义[gōng lì zhǔ yì],功利主義[gōng lì zhǔ yì]')).
+assert(celo(utilismo,'util.0ismo','实利主义[shí lì zhǔ yì],實利主義[shí lì zhǔ yì]')).
+assert(celo(utilo,'util.0o','裨益[bì yì]')).
+assert(celo(utilo,'util.0o','用[yòng]')).
+assert(celo(malutila,'util.mal0a','不利[bù lì]')).
+assert(celo(malutila,'util.mal0a','不良[bù liáng]')).
+assert(celo(malutila,'util.mal0a','存有偏見[cún yǒu piān jiàn],存有偏见[cún yǒu piān jiàn]')).
+assert(celo(malutilo,'util.mal0o','缺点[quē diǎn],缺點[quē diǎn]')).
+assert(celo(malutilo,'util.mal0o','弊[bì]')).
+assert(celo(malutilo,'util.mal0o','弊病[bì bìng]')).
+assert(celo(senutila,'util.ne0asen0a','寙[yǔ]')).
+assert(celo(senutila,'util.ne0asen0a','于事无补[yú shì wú bǔ],於事無補[yú shì wú bǔ]')).
+assert(celo(senutila,'util.ne0asen0a','沒用[méi yòng],没用[méi yòng]')).
+assert(celo(senutila,'util.ne0asen0a','无用[wú yòng],無用[wú yòng]')).
+assert(celo(senutila,'util.ne0asen0a','不稂不莠[bù láng bù yǒu]')).
+assert(celo(senutila,'util.ne0asen0a','窳[yǔ]')).
+assert(celo(senutila,'util.ne0asen0a','不当事[bù dāng shì],不當事[bù dāng shì]')).
+assert(celo(senutila,'util.ne0asen0a','不能用[bù néng yòng]')).
+assert(celo(senutila,'util.ne0asen0a','烂泥扶不上墙[làn ní fú bù shàng qiáng],爛泥扶不上牆[làn ní fú bù shàng qiáng]')).
+assert(celo(utopio,'utopi.0o','桃花源[táo huā yuán]')).
+assert(celo(utopio,'utopi.0o','理想国[lǐ xiǎng guó],理想國[lǐ xiǎng guó]')).
+assert(celo(utopio,'utopi.0o','乌托邦[wū tuō bāng],烏托邦[wū tuō bāng]')).
+assert(celo(kontraŭutopio,'utopi.mal0o','反乌托邦[fǎn wū tuō bāng],反烏托邦[fǎn wū tuō bāng]')).
+assert(celo('Utreĥto','utrehxt.U0o','乌德勒支[wū dé lè zhī],烏德勒支[wū dé lè zhī]')).
+assert(celo(uvo,'uv.0o.KUI','葡[pú]')).
+assert(celo(uvo,'uv.0o.KUI','萄[táo]')).
+assert(celo(uverturo,'uvertu.0o','序曲[xù qǔ]')).
+assert(celo(uvulo,'uvul.0o','小舌[xiǎo shé]')).
+assert(celo(uvulo,'uvul.0o','悬雍垂[xuán yōng chuí],懸雍垂[xuán yōng chuí]')).
+assert(celo(uzado,'uz.0ado','用法[yòng fǎ]')).
+assert(celo(uzaĵo,'uz.0ajxo','用具[yòng jù]')).
+assert(celo(uzaĵo,'','用品[yòng pǐn]')).
+assert(celo(uzaĵo,'','消費資料[xiāo fèi zī liào],消费资料[xiāo fèi zī liào]')).
+assert(celo(uzanto,'uz.0anto','用戶[yòng hù],用户[yòng hù]')).
+assert(celo(uzanto,'uz.0anto','使用者[shǐ yòng zhě]')).
+assert(celo(uzanto,'uz.0anto','施手术者[shī shǒu shù zhě],施手術者[shī shǒu shù zhě]')).
+assert(celo(uzanto,'uz.0anto','运输行业者[yùn shū háng yè zhě],運輸行業者[yùn shū háng yè zhě]')).
+assert(celo(uzanto,'uz.0anto','电话接线生[diàn huà jiē xiàn shēng],電話接線生[diàn huà jiē xiàn shēng]')).
+assert(celo(uzebla,'uz.0ebla','使得[shǐ de]')).
+assert(celo(uzebla,'uz.0ebla','可利用[kě lì yòng]')).
+assert(celo(uzebla,'uz.0ebla','合用[hé yòng]')).
+assert(celo(uzebla,'uz.0ebla','中用[zhòng yòng]')).
+assert(celo(uzi,'uz.0i','以[yǐ]')).
+assert(celo(uzi,'uz.0i','使用[shǐ yòng]')).
+assert(celo(uzi,'uz.0i','利用[lì yòng]')).
+assert(celo(uzi,'uz.0i','施用[shī yòng]')).
+assert(celo(uzi,'uz.0i','用[yòng]')).
+assert(celo(uzi,'uz.0i','运[yùn],運[yùn]')).
+assert(celo(uzinda,'uz.0inda','有用[yǒu yòng]')).
+assert(celo(uzinda,'uz.0inda','管用[guǎn yòng]')).
+assert(celo(uzinda,'uz.0inda','有益[yǒu yì]')).
+assert(celo(uzo,'uz.0o','用法[yòng fǎ]')).
+assert(celo(uzo,'uz.0o','用途[yòng tú]')).
+assert(celo(eluzi,'uz.el0i.elcxerpi','勋绩[xūn jī],勳績[xūn jī]')).
+assert(celo(eluzi,'uz.el0i.elcxerpi','朘[juān]')).
+assert(celo(eluzi,'','耗[hào]')).
+assert(celo(foruzi,'uz.for0i','罄[qìng]')).
+assert(celo(foruzi,'uz.for0i','耗尽[hào jìn],耗盡[hào jìn]')).
+assert(celo(foruzi,'uz.for0i','尽[jìn],盡[jìn]')).
+assert(celo(fruktuzo,'uz.frukt0o','用益物权[yòng yì wù quán],用益物權[yòng yì wù quán]')).
+assert(celo(fruktuzo,'uz.frukt0o','受益权[shòu yì quán],受益權[shòu yì quán]')).
+assert(celo(kunuzi,'uz.kun0i','合用[hé yòng]')).
+assert(celo(kunuzi,'uz.kun0i','共享[gòng xiǎng]')).
+assert(celo(kunuzi,'uz.kun0i','分享[fēn xiǎng]')).
+assert(celo(malbonuzi,'uz.mis0i','滥用[làn yòng],濫用[làn yòng]')).
+assert(celo(malbonuzi,'uz.mis0i','錯用[cuò yòng],错用[cuò yòng]')).
+assert(celo(malbonuzi,'uz.mis0i','誶[suì],谇[suì]')).
+assert(celo(trouzi,'uz.tro0i','浪費[làng fèi],浪费[làng fèi]')).
+assert(celo(trouzi,'uz.tro0i','滥施[làn shī],濫施[làn shī]')).
+assert(celo(trouzi,'uz.tro0i','糟踏[zāo tà]')).
+assert(celo(unuuza,'uz.unu0a','一次性[yī cì xìng]')).
+assert(celo(uzanco,'uzanc.0o','习俗[xí sú],習俗[xí sú]')).
+assert(celo(uzanco,'uzanc.0o','風俗[fēng sú],风俗[fēng sú]')).
+assert(celo(uzanco,'uzanc.0o','俗[sú]')).
+assert(celo(uzanco,'uzanc.0o','惯例[guàn lì],慣例[guàn lì]')).
+assert(celo(uzanco,'uzanc.0o','風氣[fēng qì],风气[fēng qì]')).
+assert(celo(uzbeko,'uzbek.0o','乌滋别克[Wū zī bié kè],烏滋別克[Wū zī bié kè]')).
+assert(celo(uzbeko,'uzbek.0o','乌兹别克人[Wū zī bié kè rén],烏茲別克人[Wū zī bié kè rén]')).
+assert(celo('Uzbeko','','乌滋别克[Wū zī bié kè],烏滋別克[Wū zī bié kè]')).
+assert(celo('Uzbekujo','uzbek.U0ujo','乌滋别克斯坦[Wū zī bié kè sī tǎn],烏滋別克斯坦[Wū zī bié kè sī tǎn]')).
+assert(celo('Uzbekujo','uzbek.U0ujo','乌兹别克[wū zī bié kè],烏茲別克[wū zī bié kè]')).
+assert(celo(uzino,'uzin.0o','鑄工車間[zhù gōng chē jiān],铸工车间[zhù gōng chē jiān]')).
+assert(celo(uzino,'uzin.0o','生产中心[shēng chǎn zhōng xīn],生產中心[shēng chǎn zhōng xīn]')).
+assert(celo(uzino,'uzin.0o','生产厂[shēng chǎn chǎng],生產廠[shēng chǎn chǎng]')).
+assert(celo(uzuro,'uzur.0o','高利[gāo lì]')).
+assert(celo(uzurpi,'uzurp.0i','僣[jiàn]')).
+assert(celo(uzurpi,'uzurp.0i','篡[cuàn]')).
+assert(celo(uzurpi,'uzurp.0i','僭[jiàn]')).
+assert(celo(uzurpi,'uzurp.0i','霸佔[bà zhàn],霸占[bà zhàn]')).
+assert(celo(uzurpulo,'uzurp.0ulo','僭主[jiàn zhǔ]')).
+assert(celo(uzurpulo,'uzurp.0ulo','篡賊[cuàn zéi],篡贼[cuàn zéi]')).
+assert(celo(uzurpulo,'uzurp.0ulo','佔有者[zhàn yǒu zhě],占有者[zhàn yǒu zhě]')).
