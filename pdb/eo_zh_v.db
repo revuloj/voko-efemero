@@ -474,3 +474,422 @@ assert(celo(vato,'vat.0o','棉絮[mián xù]')).
 assert(celo(vato,'vat.0o','棉花[mián hua]')).
 assert(celo(vato,'vat.0o','脫脂棉[tuō zhī mián],脱脂棉[tuō zhī mián]')).
 assert(celo(vato,'vat.0o','药棉[yào mián],藥棉[yào mián]')).
+assert(celo(sukervato,'vat.suker0o','棉花糖[mián huā táng]')).
+assert(celo(vatto,'vat1.v0o','瓦特[wǎ tè]')).
+assert(celo('Vatikana','vatikan.0a','梵諦岡[Fàn dì gāng],梵谛冈[Fàn dì gāng]')).
+assert(celo('Vatikano','','梵帝冈[Fàn dì gāng],梵帝岡[Fàn dì gāng]')).
+assert(celo('Vatikano','vatikan.V0o','梵蒂冈[fàn dì gāng],梵蒂岡[fàn dì gāng]')).
+assert(celo('Vatikano','vatikan.V0o','梵諦岡[Fàn dì gāng],梵谛冈[Fàn dì gāng]')).
+assert(celo('Vatikano','vatikan.V0o','梵帝冈[Fàn dì gāng],梵帝岡[Fàn dì gāng]')).
+retract(celo('Vatikana','vatikan.0a','梵諦岡[Fàn dì gāng],梵谛冈[Fàn dì gāng]')).
+assert(celo('Vaŭdo','vauxd.0o','沃州[Wò zhōu]')).
+assert(celo(vazaro,'vaz.0aro','盘碗[pán wǎn],盤碗[pán wǎn]')).
+assert(celo(vazaro,'vaz.0aro','陶器[táo qì]')).
+assert(celo(vazlavmaŝino,'vaz.0lavilo','洗碗机[xǐ wǎn jī],洗碗機[xǐ wǎn jī]')).
+assert(celo(vazo,'vaz.0o','甒[wǔ]')).
+assert(celo(noktovazo,'vaz.nokto0o','夜壶[yè hú],夜壺[yè hú]')).
+assert(celo(vazelino,'vazeli.0o','凡士林[fán shì lín]')).
+assert(celo(ve,'ve.0.bedauxrinde','呜呼[wū hū],嗚呼[wū hū]')).
+assert(celo(ve,'ve.0.bedauxrinde','嗟[jiē]')).
+assert(celo(ve,'ve.0.bedauxrinde','哎哟[āi yō],哎喲[āi yō]')).
+assert(celo(vea,'ve.0a','忧伤[yōu shāng],憂傷[yōu shāng]')).
+assert(celo(vei,'ve.0i','哭喊[kū hǎn]')).
+assert(celo(vei,'ve.0i','怨声[yuàn shēng],怨聲[yuàn shēng]')).
+assert(celo(vei,'ve.0i','慨叹[kǎi tàn],慨嘆[kǎi tàn]')).
+assert(celo(veo,'ve.0o','悲啼[bēi tí]')).
+assert(celo(hejmveo,'ve.hejm0o','想家[xiǎng jiā]')).
+assert(celo(hejmveo,'ve.hejm0o','思家[sī jiā],想家[sī jiā]')).
+assert(celo(hejmveo,'ve.hejm0o','思乡病[sī xiāng bìng],思鄉病[sī xiāng bìng]')).
+assert(celo(hejmveo,'ve.hejm0o','乡思[xiāng sī],鄉思[xiāng sī]')).
+assert(celo(hejmveo,'ve.hejm0o','乡愁[xiāng chóu],鄉愁[xiāng chóu]')).
+assert(celo(vedo,'ved.0o','吠陀[fèi tuó]')).
+assert(celo(vefto,'veft.0o','緯紗[wěi shā],纬纱[wěi shā]')).
+assert(celo(vefto,'','緯線設置[wěi xiàn shè zhì],纬线设置[wěi xiàn shè zhì]')).
+assert(celo(vegana,'vegan.0a','純素食[chún sù shí],纯素食[chún sù shí]')).
+assert(celo(vegana,'vegan.0a','全素[quán sù]')).
+assert(celo(veganismo,'vegan.0ismo','純素食主義[chún sù shí zhǔ yì],纯素食主义[chún sù shí zhǔ yì]')).
+assert(celo(vegano,'vegan.0o','純素食者[chún sù shí zhě],纯素食者[chún sù shí zhě]')).
+assert(celo(vegetaĵaro,'veget.0ajxaro','植被[zhí bèi]')).
+assert(celo(vegetaĵaro,'veget.0ajxaro','草木[cǎo mù]')).
+assert(celo(vegetaĵaro,'veget.0ajxaro','植物群[zhí wù qún]')).
+assert(celo(vegetaĵa,'','植物性[zhí wù xìng]')).
+assert(celo(vegetaĵo,'veget.0ajxo','植物[zhí wù]')).
+assert(celo(vegeti,'veget.0i','長贅疣[zhǎng zhuì yóu],长赘疣[zhǎng zhuì yóu]')).
+assert(celo('ĉambra vegetaĵo','veget.cxambra0ajxo','室內盆栽[shì nèi pén zāi],室内盆栽[shì nèi pén zāi]')).
+assert(celo('vegetala regno','','植被[zhí bèi]')).
+assert(celo(vegetalaro,'vegeta.0aro','植被[zhí bèi]')).
+assert(celo(vegetalaro,'vegeta.0aro','草木[cǎo mù]')).
+assert(celo(vegetalaro,'vegeta.0aro','植物群[zhí wù qún]')).
+assert(celo(vegetalo,'vegeta.0o','植物[zhí wù]')).
+assert(celo(vegetara,'vegeta2.0a','素食[sù shí]')).
+assert(celo(vegetarano,'vegeta2.0ano','素食者[sù shí zhě]')).
+assert(celo(vegetarano,'vegeta2.0ano','吃素的人[chī sù de rén]')).
+assert(celo(vegetarano,'vegeta2.0ano','吃素者[chī sù zhě]')).
+assert(celo(vegetarano,'vegeta2.0ano','素食主义者[sù shí zhǔ yì zhě],素食主義者[sù shí zhǔ yì zhě]')).
+assert(celo(vegetaranismo,'','素食主义[sù shí zhǔ yì],素食主義[sù shí zhǔ yì]')).
+assert(celo(vegetarismo,'vegeta2.0ismo','素食主义[sù shí zhǔ yì],素食主義[sù shí zhǔ yì]')).
+assert(celo(vegetativa,'','植物性[zhí wù xìng]')).
+assert(celo(vehiklo,'vehikl.0o','运在工具[yùn zài gōng jù],運在工具[yùn zài gōng jù]')).
+assert(celo(vejĉii,'vejcxi.0i','弈[yì]')).
+assert(celo(vejno,'vejn.0o','青筋[qīng jīn]')).
+assert(celo(vejno,'vejn.0o','紋理[wén lǐ],纹理[wén lǐ]')).
+assert(celo(vejno,'vejn.0o','静脉[jìng mài],靜脈[jìng mài]')).
+assert(celo(vejno,'vejn.0o','玟[wén]')).
+assert(celo(vejno,'vejn.0o','紋縷[wén lǔ:],纹缕[wén lǔ:]')).
+assert(celo(veki,'vek.0i','唤醒[huàn xǐng],喚醒[huàn xǐng]')).
+assert(celo(veki,'vek.0i','憬[jǐng]')).
+assert(celo(veki,'vek.0i','叫醒[jiào xǐng]')).
+assert(celo(vekiĝi,'vek.0igxi','醒[xǐng]')).
+assert(celo(vekiĝi,'vek.0igxi','寤[wù]')).
+assert(celo(vekiĝi,'vek.0igxi','苏醒[sū xǐng],蘇醒[sū xǐng]')).
+assert(celo(vekiĝi,'vek.0igxi','覺悟[jué wù],觉悟[jué wù]')).
+assert(celo(vekiĝi,'vek.0igxi','覺醒[jué xǐng],觉醒[jué xǐng]')).
+assert(celo(vekiĝi,'vek.0igxi','睡醒[shuì xǐng]')).
+assert(celo(veksilologio,'veksilol1.0o','旗帜学[qí zhì xué],旗幟學[qí zhì xué]')).
+assert(celo(vekto,'vekt.0o.pesila','平衡吊梁[píng héng diào liáng],平衡弔梁[píng héng diào liáng]')).
+assert(celo(vektora,'vektor.0a','向量[xiàng liàng]')).
+assert(celo(vektoro,'vektor.0o','向量[xiàng liàng]')).
+assert(celo(vektoro,'vektor.0o','矢量[shǐ liàng]')).
+assert(celo(nulvektoro,'vektor.nul0o','零向量[líng xiàng liàng]')).
+assert(celo(velaro,'velar.0o','舌根音[shé gēn yīn]')).
+assert(celo(velaro,'velar.0o','軟齶音[ruǎn è yīn],软腭音[ruǎn è yīn]')).
+assert(celo(veli,'vel.0i','篷[péng]')).
+assert(celo(veli,'vel.0i','駕帆船[jià fān chuán],驾帆船[jià fān chuán]')).
+assert(celo(velo,'vel.0o.SHI','帆[fān]')).
+assert(celo(velo,'vel.0o.SHI','篷[péng]')).
+assert(celo(velo,'vel.0o.SHI','蓬[péng]')).
+assert(celo(velsono,'vel.0sono','軟齶音[ruǎn è yīn],软腭音[ruǎn è yīn]')).
+assert(celo(velsono,'vel.0sono','舌根音[shé gēn yīn]')).
+assert(celo('Velaro','vel.V0aro','船帆座[Chuán fān zuò]')).
+assert(celo(veldi,'veld.0i','焊接[hàn jiē]')).
+assert(celo(veldi,'veld.0i','烧焊[shāo hàn],燒焊[shāo hàn]')).
+assert(celo(veldisto,'veld.0isto','电焊工人[diàn hàn gōng rén],電焊工人[diàn hàn gōng rén]')).
+assert(celo(veldo,'veld.0o.TEK','焊缝[hàn fèng]')).
+assert(celo(veleno,'velen.0o','上等皮紙[shàng děng pí zhǐ],上等皮纸[shàng děng pí zhǐ]')).
+assert(celo(veleno,'velen.0o','皮紙文書[pí zhǐ wén shū],皮纸文书[pí zhǐ wén shū]')).
+assert(celo('Velingtono','velington.0o','惠灵顿[Huì líng dùn],惠靈頓[Huì líng dùn]')).
+assert(celo(velka,'velk.0a','乾枯[gān kū],干枯[gān kū]')).
+assert(celo(velka,'velk.0a','凋[diāo]')).
+assert(celo(velka,'velk.0a','枯槁[kū gǎo]')).
+assert(celo(velki,'velk.0i','萎[wěi]')).
+assert(celo(velki,'velk.0i','枯乾[kū gān],枯干[kū gān]')).
+assert(celo(forvelki,'velk.for0i','萎[wěi]')).
+assert(celo(velocipedo,'veloci.0o','脚踏车[jiǎo tà chē],腳踏車[jiǎo tà chē]')).
+assert(celo(velocipedo,'veloci.0o','鐵馬[tiě mǎ],铁马[tiě mǎ]')).
+assert(celo(veluro,'velur.0o','立絨[lì róng],立绒[lì róng]')).
+assert(celo(veluro,'velur.0o','天鵝絨[tiān é róng],天鹅绒[tiān é róng]')).
+assert(celo(veluro,'velur.0o','丝绒[sī róng],絲絨[sī róng]')).
+assert(celo(veni,'ven.0i','出自[chū zì]')).
+assert(celo(veni,'ven.0i','來到[lái dào],来到[lái dào]')).
+assert(celo(venigi,'ven.0igi','召集[zhào jí]')).
+assert(celo(venonta,'ven.0onta','其次[qí cì]')).
+assert(celo(venonta,'ven.0onta','下一次[xià yī cì]')).
+assert(celo(venonta,'ven.0onta','接下來[jiē xià lái],接下来[jiē xià lái]')).
+assert(celo(venonta,'ven.0onta','未來[wèi lái],未来[wèi lái]')).
+assert(celo(venonta,'ven.0onta','作为结果[zuò wéi jié guǒ],作為結果[zuò wéi jié guǒ]')).
+assert(celo(venonta,'ven.0onta','接下來[jiē xia lai],接下来[jiē xia lai]')).
+assert(celo(alveni,'ven.al0i','到达[dào dá],到達[dào dá]')).
+assert(celo(alveni,'ven.al0i','來到[lái dào],来到[lái dào]')).
+assert(celo(alveni,'ven.al0i','瀳[jiàn]')).
+assert(celo(alveni,'ven.al0i','抵达[dǐ dá],抵達[dǐ dá]')).
+assert(celo(alveni,'ven.al0i','臻[zhēn]')).
+assert(celo(alveni,'ven.al0i','到來[dào lái],到来[dào lái]')).
+assert(celo(alveni,'ven.al0i','抵[dǐ]')).
+assert(celo(alveno,'ven.al0o','到來[dào lái],到来[dào lái]')).
+assert(celo(alveno,'ven.al0o','入列[rù liè]')).
+assert(celo(bonvenigi,'ven.bon0igi','欢迎[huān yíng],歡迎[huān yíng]')).
+assert(celo(bonvenigi,'ven.bon0igi','迎[yíng]')).
+assert(celo(bonvenigi,'ven.bon0igi','迎接[yíng jiē]')).
+assert(celo(bonvenigi,'ven.bon0igi','迎接[yíng jie]')).
+assert(celo(bonvenigi,'ven.bon0igi','相迎[xiāng yíng]')).
+assert(celo(ĉefkunveno,'ven.cxefkun0o','大会[dà huì],大會[dà huì]')).
+assert(celo(ĉefkunveno,'ven.cxefkun0o','年度大会[nián dù dà huì],年度大會[nián dù dà huì]')).
+assert(celo(ĉefkunveno,'ven.cxefkun0o','年会[nián huì],年會[nián huì]')).
+assert(celo(ĉefkunveno,'ven.cxefkun0o','全体会议[quán tǐ huì yì],全體會議[quán tǐ huì yì]')).
+assert(celo(datreveno,'ven.datre0o','周年[zhōu nián],週年[zhōu nián]')).
+assert(celo(deveni,'ven.de0i','出自[chū zì]')).
+assert(celo(deveno,'ven.de0o','源流[yuán liú]')).
+assert(celo(deveno,'ven.de0o','源泉[yuán quán]')).
+assert(celo(deveno,'ven.de0o','根底[gēn dǐ]')).
+assert(celo(deveno,'ven.de0o','根源[gēn yuán]')).
+assert(celo(deveno,'ven.de0o','來源[lái yuán],来源[lái yuán]')).
+assert(celo(deveno,'ven.de0o','來歷[lái lì],来历[lái lì]')).
+assert(celo(deveno,'ven.de0o','身分[shēn fèn]')).
+assert(celo(deveno,'ven.de0o','原产地[yuán chǎn dì],原產地[yuán chǎn dì]')).
+assert(celo(deveno,'ven.de0o','老家[lǎo jiā]')).
+assert(celo(deveno,'ven.de0o','來源國[lái yuán guó],来源国[lái yuán guó]')).
+assert(celo(enveni,'ven.en0i','进来[jìn lái],進來[jìn lái]')).
+assert(celo(interveni,'ven.inter0i','干涉[gān shè]')).
+assert(celo(interveni,'ven.inter0i','插手[chā shǒu]')).
+assert(celo(interveni,'ven.inter0i','干扰[gān rǎo],干擾[gān rǎo]')).
+assert(celo(interveni,'ven.inter0i','介入[jiè rù]')).
+assert(celo(kunveni,'ven.kun0i','聚集[jù jí]')).
+assert(celo(kunveni,'ven.kun0i','会聚[huì jù],會聚[huì jù]')).
+assert(celo(kunveni,'ven.kun0i','集合[jí hé]')).
+assert(celo(kunveni,'ven.kun0i','相聚[xiāng jù]')).
+assert(celo(kunveni,'ven.kun0i','攒聚[cuán jù],攢聚[cuán jù]')).
+assert(celo(kunveni,'ven.kun0i','攒集[cuán jí],攢集[cuán jí]')).
+assert(celo(kunveni,'ven.kun0i','聚[jù]')).
+assert(celo(kunveni,'ven.kun0i','聚首[jù shǒu]')).
+assert(celo(kunveno,'ven.kun0o','会议[huì yì],會議[huì yì]')).
+assert(celo(kunveno,'ven.kun0o','聚会[jù huì],聚會[jù huì]')).
+assert(celo(kunveno,'ven.kun0o','会面[huì miàn],會面[huì miàn]')).
+assert(celo(kunveno,'ven.kun0o','会上[huì shàng],會上[huì shàng]')).
+assert(celo(novalveninto,'ven.noval0into','新人[xīn rén]')).
+assert(celo(novalveninto,'ven.noval0into','新丁[xīn dīng]')).
+assert(celo(novalveninto,'ven.noval0into','新生[xīn shēng]')).
+assert(celo(novalveninto,'ven.noval0into','新來的人[xīn lái de rén],新来的人[xīn lái de rén]')).
+assert(celo(novalveninto,'ven.noval0into','新客[xīn kè]')).
+assert(celo(novalveninto,'ven.noval0into','新进入者[xīn jìn rù zhě],新進入者[xīn jìn rù zhě]')).
+assert(celo(pintkunveno,'ven.pintkun0o','峰会[fēng huì],峰會[fēng huì]')).
+assert(celo(pintkunveno,'ven.pintkun0o','高峰会议[gāo fēng huì yì],高峰會議[gāo fēng huì yì]')).
+assert(celo(pintkunveno,'ven.pintkun0o','首脑会议[shǒu nǎo huì yì],首腦會議[shǒu nǎo huì yì]')).
+assert(celo(postveni,'ven.post0i','后续[hòu xù],後續[hòu xù]')).
+assert(celo(postveni,'ven.post0i','佸[huó]')).
+assert(celo(reveni,'ven.re0i','回归[huí guī],回歸[huí guī]')).
+assert(celo(reveni,'ven.re0i','回來[huí lai],回来[huí lai]')).
+assert(celo(reveni,'ven.re0i','返回[fǎn huí]')).
+assert(celo(reveni,'ven.re0i','重回[chóng huí]')).
+assert(celo(reveni,'ven.re0i','回去[huí qu]')).
+assert(celo(reveni,'ven.re0i','归来[guī lái],歸來[guī lái]')).
+assert(celo(reveno,'ven.re0o','归来[guī lái],歸來[guī lái]')).
+assert(celo(samdevena,'ven.samde0a','一脈相承[yī mài xiāng chéng],一脉相承[yī mài xiāng chéng]')).
+assert(celo(videokunveno,'ven.videkun0o','視頻會議[shì pín huì yì],视频会议[shì pín huì yì]')).
+assert(celo(videokunveno,'ven.videkun0o','影像会议[yǐng xiàng huì yì],影像會議[yǐng xiàng huì yì]')).
+assert(celo(vendado,'vend.0ado','經貿[jīng mào],经贸[jīng mào]')).
+assert(celo(vendado,'vend.0ado','貿[mào],贸[mào]')).
+assert(celo(vendisto,'vend.0isto','卖家[mài jiā],賣家[mài jiā]')).
+assert(celo(vendisto,'vend.0isto','推銷員[tuī xiāo yuán],推销员[tuī xiāo yuán]')).
+assert(celo(vendisto,'vend.0isto','營業員[yíng yè yuán],营业员[yíng yè yuán]')).
+assert(celo(vendisto,'vend.0isto','卖主[mài zhǔ],賣主[mài zhǔ]')).
+assert(celo(vendisto,'vend.0isto','銷售員[xiāo shòu yuán],销售员[xiāo shòu yuán]')).
+assert(celo(vendisto,'vend.0isto','售貨員[shòu huò yuán],售货员[shòu huò yuán]')).
+assert(celo(vendisto,'vend.0isto','卖方[mài fāng],賣方[mài fāng]')).
+assert(celo(vendisto,'vend.0isto','店员[diàn yuán],店員[diàn yuán]')).
+assert(celo(vendo,'vend.0o','銷路[xiāo lù],销路[xiāo lù]')).
+assert(celo(vendo,'vend.0o','營業部[yíng yè bù],营业部[yíng yè bù]')).
+assert(celo(vendo,'vend.0o','銷售部[xiāo shòu bù],销售部[xiāo shòu bù]')).
+assert(celo(vendo,'vend.0o','銷售[xiāo shòu],销售[xiāo shòu]')).
+assert(celo(ĉiovendejo,'vend.cxio0ejo','百貨店[bǎi huò diàn],百货店[bǎi huò diàn]')).
+assert(celo(ĉiovendejo,'vend.cxio0ejo','商场[shāng chǎng],商場[shāng chǎng]')).
+assert(celo(ĉiovendejo,'vend.cxio0ejo','百貨公司[bǎi huò gōng sī],百货公司[bǎi huò gōng sī]')).
+assert(celo(ĉiovendejo,'vend.cxio0ejo','百貨商店[bǎi huò shāng diàn],百货商店[bǎi huò shāng diàn]')).
+assert(celo(ĉiovendejo,'vend.cxio0ejo','百貨大樓[bǎi huò dà lóu],百货大楼[bǎi huò dà lóu]')).
+assert(celo(detalvendisto,'vend.detal0isto','零售商[líng shòu shāng]')).
+assert(celo(detalvendisto,'vend.detal0isto','分銷商[fēn xiāo shāng],分销商[fēn xiāo shāng]')).
+assert(celo(detalvendisto,'vend.detal0isto','个体商店[gè tǐ shāng diàn],個體商店[gè tǐ shāng diàn]')).
+assert(celo(detalvendisto,'vend.detal0isto','零售貿易售貨員[líng shòu mào yì shòu huò yuán],零售贸易售货员[líng shòu mào yì shòu huò yuán]')).
+assert(celo(elvendi,'vend.dis0i','售完[shòu wán]')).
+assert(celo(elvendi,'vend.dis0i','卖完[mài wán],賣完[mài wán]')).
+assert(celo(forvendi,'vend.for0i','卖掉[mài diào],賣掉[mài diào]')).
+assert(celo(revendi,'vend.re0i','轉手[zhuǎn shǒu],转手[zhuǎn shǒu]')).
+assert(celo(revendi,'vend.re0i','轉賣[zhuǎn mài],转卖[zhuǎn mài]')).
+assert(celo(vendejego,'vend.super0ejo','超市[chāo shì]')).
+assert(celo(vendejego,'vend.super0ejo','超級市場[chāo jí shì chǎng],超级市场[chāo jí shì chǎng]')).
+assert(celo(vendejego,'vend.super0ejo','自选商场[zì xuǎn shāng chǎng],自選商場[zì xuǎn shāng chǎng]')).
+assert(celo('Sankta Vendredo','vendre.sankta_0o','受难节[shòu nàn jié],受難節[shòu nàn jié]')).
+assert(celo('Sankta Vendredo','vendre.sankta_0o','耶稣受难日[yē sū shòu nàn rì],耶穌受難日[yē sū shòu nàn rì]')).
+assert(celo('Sankta Vendredo','vendre.sankta_0o','耶稣受难节[yē sū shòu nàn jié],耶穌受難節[yē sū shòu nàn jié]')).
+assert(celo('Venecio','veneci.0o','威尼斯[Wēi ní sī]')).
+assert(celo(venena,'venen.0a','毒[dú]')).
+assert(celo(venena,'venen.0a','有毒[yǒu dú]')).
+assert(celo(venena,'venen.0a','鴆[zhèn],鸩[zhèn]')).
+assert(celo(venena,'venen.0a','酖[zhèn]')).
+assert(celo(venena,'venen.0a','毒液[dú yè]')).
+assert(celo(venena,'venen.0a','分泌毒液[fēn mì dú yè]')).
+assert(celo(venena,'venen.0a','中毒性[zhòng dú xìng]')).
+assert(celo(veneni,'venen.0i','毒[dú]')).
+assert(celo(veneni,'venen.0i','酖[zhèn]')).
+assert(celo(veneni,'venen.0i','鴆[zhèn],鸩[zhèn]')).
+assert(celo(veneni,'venen.0i','下毒[xià dú]')).
+assert(celo(veneni,'venen.0i','下药[xià yào],下藥[xià yào]')).
+assert(celo(veneni,'venen.0i','屠毒[tú dú]')).
+assert(celo(veneniĝo,'venen.0igxo.KOMUNE','中毒[zhòng dú]')).
+assert(celo(veneno,'venen.0o','毒[dú]')).
+assert(celo(veneno,'venen.0o','毒剂[dú jì],毒劑[dú jì]')).
+assert(celo(veneno,'venen.0o','屠毒[tú dú]')).
+assert(celo(veneno,'venen.0o','毒液[dú yè]')).
+assert(celo(kontraŭveneno,'venen.kontraux0o','解药[jiě yào],解藥[jiě yào]')).
+assert(celo(kontraŭveneno,'venen.kontraux0o','解毒剂[jiě dú jì],解毒劑[jiě dú jì]')).
+assert(celo(kontraŭveneno,'venen.kontraux0o','反作用剂[fǎn zuò yòng jì],反作用劑[fǎn zuò yòng jì]')).
+assert(celo(venerea,'vener.0a','性传播[xìng chuán bō],性傳播[xìng chuán bō]')).
+assert(celo('Venero','vener1.0o','金星[jīn xīng]')).
+assert(celo('Venero','vener1.0o','維納斯[Wéi nà sī],维纳斯[Wéi nà sī]')).
+assert(celo(venezuelano,'venezuel.0ano','委內瑞拉人[wěi nèi ruì lā rén],委内瑞拉人[wěi nèi ruì lā rén]')).
+assert(celo('Venezuelo','venezuel.V0o','委內瑞拉[Wěi nèi ruì lā],委内瑞拉[Wěi nèi ruì lā]')).
+assert(celo(venĝemo,'vengx.0emo','報復心[bào fù xīn],报复心[bào fù xīn]')).
+assert(celo(venĝi,'vengx.0i','复仇[fù chóu],復仇[fù chóu]')).
+assert(celo(venĝi,'vengx.0i','報仇[bào chóu],报仇[bào chóu]')).
+assert(celo(venĝi,'vengx.0i','報復[bào fù],报复[bào fù]')).
+assert(celo(venĝi,'vengx.0i','有正义感[yǒu zhèng yì gǎn],有正義感[yǒu zhèng yì gǎn]')).
+assert(celo(venĝo,'vengx.0o','复仇[fù chóu],復仇[fù chóu]')).
+assert(celo(venki,'venk.0i','战胜[zhàn shèng],戰勝[zhàn shèng]')).
+assert(celo(venki,'venk.0i','打敗[dǎ bài],打败[dǎ bài]')).
+assert(celo(venki,'venk.0i','贏[yíng],赢[yíng]')).
+assert(celo(venki,'venk.0i','勝[shèng],胜[shèng]')).
+assert(celo(venko,'venk.0o','告捷[gào jié]')).
+assert(celo(venko,'venk.0o','勝[shèng],胜[shèng]')).
+assert(celo(venko,'venk.0o','勝利[shèng lì],胜利[shèng lì]')).
+assert(celo(venko,'venk.0o','捷[jié]')).
+assert(celo(venko,'venk.0o','勝仗[shèng zhàng],胜仗[shèng zhàng]')).
+assert(celo(egalvenko,'venk.egal0o','平局[píng jú]')).
+assert(celo(malvenki,'venk.mal0i','敗[bài],败[bài]')).
+assert(celo(malvenki,'venk.mal0i','失敗[shī bài],失败[shī bài]')).
+assert(celo(malvenki,'venk.mal0i','战败[zhàn bài],戰敗[zhàn bài]')).
+assert(celo(malvenki,'venk.mal0i','負[fù],负[fù]')).
+assert(celo(malvenki,'venk.mal0i','受打击[shòu dǎ jī],受打擊[shòu dǎ jī]')).
+assert(celo(malvenki,'venk.mal0i','垮台[kuǎ tái]')).
+assert(celo(malvenko,'venk.mal0o','敗[bài],败[bài]')).
+assert(celo(malvenko,'venk.mal0o','失敗[shī bài],失败[shī bài]')).
+assert(celo(malvenko,'venk.mal0o','敗仗[bài zhàng],败仗[bài zhàng]')).
+assert(celo(nevenkebla,'venk.ne0ebla','无敌[wú dí],無敵[wú dí]')).
+assert(celo(nevenkebla,'venk.ne0ebla','战无不胜[zhàn wú bù shèng],戰無不勝[zhàn wú bù shèng]')).
+assert(celo(venta,'vent.0a','有風[yǒu fēng],有风[yǒu fēng]')).
+assert(celo(ventego,'vent.0ego','風暴[fēng bào],风暴[fēng bào]')).
+assert(celo(ventego,'vent.0ego','狂風[kuáng fēng],狂风[kuáng fēng]')).
+assert(celo(ventego,'vent.0ego','暴風[bào fēng],暴风[bào fēng]')).
+assert(celo(venti,'vent.0i','刮风[guā fēng],颳風[guā fēng]')).
+assert(celo(venti,'vent.0i','刮[guā],颳[guā]')).
+assert(celo(ventumi,'vent.0umi','排气[pái qì],排氣[pái qì]')).
+assert(celo(ventumi,'vent.0umi','换气[huàn qì],換氣[huàn qì]')).
+assert(celo(ventumi,'vent.0umi','透气[tòu qì],透氣[tòu qì]')).
+assert(celo(ventumi,'vent.0umi','通气[tōng qì],通氣[tōng qì]')).
+assert(celo(ventumi,'vent.0umi.AGR','去虚存真[qù xū cún zhēn],去虛存真[qù xū cún zhēn]')).
+assert(celo(ventumi,'vent.0umi.AGR','去伪存真[qù wěi cún zhēn],去偽存真[qù wěi cún zhēn]')).
+assert(celo(ventumilo,'vent.0umilo','扇[shàn]')).
+assert(celo(ventumilo,'vent.0umilo','扇子[shàn zi]')).
+assert(celo(ventumilo,'vent.0umilo','搧[shān]')).
+assert(celo(disventigi,'vent.dis0igxi.KOMUNE','消失飛散[xiāo shī fēi sàn],消失飞散[xiāo shī fēi sàn]')).
+assert(celo(ventoli,'ventol.0i','通气[tōng qì],通氣[tōng qì]')).
+assert(celo(ventoli,'ventol.0i','通風[tōng fēng],通风[tōng fēng]')).
+assert(celo(ventoli,'ventol.0i','排气[pái qì],排氣[pái qì]')).
+assert(celo(ventoli,'ventol.0i','换气[huàn qì],換氣[huàn qì]')).
+assert(celo(ventolilo,'ventol.0ilo','風機[fēng jī],风机[fēng jī]')).
+assert(celo(ventolilo,'ventol.0ilo','电风扇[diàn fēng shàn],電風扇[diàn fēng shàn]')).
+assert(celo(ventolilo,'ventol.0ilo','风扇[fēng shàn]')).
+assert(celo(ventro,'ventr.0o','肚子[dù zi]')).
+assert(celo(ventro,'ventr.0o','肚[dù]')).
+assert(celo(ventro,'ventr.0o','肚皮[dù pí]')).
+assert(celo(ventro,'ventr.0o','腹[fù]')).
+assert(celo(ventro,'ventr.0o','腹部[fù bù]')).
+assert(celo(ventriklo,'ventri.0o','脑室[nǎo shì],腦室[nǎo shì]')).
+assert(celo(ventriklo,'ventri.0o','心室[xīn shì]')).
+assert(celo('Venuso','venus.0o','金星[jīn xīng]')).
+assert(celo('Venuso','venus.0o','維納斯[Wéi nà sī],维纳斯[Wéi nà sī]')).
+assert(celo('Venuso','venus.0o','启明星[qǐ míng xīng],啟明星[qǐ míng xīng]')).
+assert(celo(veprejo,'vepr.0ejo','荆棘[jīng jí],荊棘[jīng jí]')).
+assert(celo(veprejo,'vepr.0ejo','树丛[shù cóng],樹叢[shù cóng]')).
+assert(celo(veprejo,'vepr.0ejo','矮树[ǎi shù],矮樹[ǎi shù]')).
+assert(celo(veprejo,'vepr.0ejo','灌丛[guàn cóng],灌叢[guàn cóng]')).
+assert(celo(vepro,'vepr.0o','矮林[ǎi lín]')).
+assert(celo(vepro,'vepr.0o','丛[cóng],叢[cóng]')).
+assert(celo(vepro,'vepr.0o','下层丛林[xià céng cóng lín],下層叢林[xià céng cóng lín]')).
+assert(celo(ververa,'ver.00a','属实[shǔ shí],屬實[shǔ shí]')).
+assert(celo(ververa,'ver.00a','真实[zhēn shí],真實[zhēn shí]')).
+assert(celo(ververa,'ver.00a','真正[zhēn zhèng]')).
+assert(celo(ververe,'ver.00e','千真万确[qiān zhēn wàn què],千真萬確[qiān zhēn wàn què]')).
+assert(celo(ververe,'ver.00e','真真[zhēn zhēn]')).
+assert(celo(vera,'ver.0a','实[shí],實[shí]')).
+assert(celo(vera,'ver.0a','属实[shǔ shí],屬實[shǔ shí]')).
+assert(celo(vera,'ver.0a','确实[què shí],確實[què shí]')).
+assert(celo(vera,'ver.0a','真实[zhēn shí],真實[zhēn shí]')).
+assert(celo(vera,'ver.0a','真格[zhēn gé]')).
+assert(celo(vera,'ver.0a','洵[xún]')).
+assert(celo(vera,'ver.0a','实在[shí zài],實在[shí zài]')).
+assert(celo(veraĵo,'ver.0ajxo','实话[shí huà],實話[shí huà]')).
+assert(celo(veraĵo,'ver.0ajxo','真理[zhēn lǐ]')).
+assert(celo(veraĵo,'ver.0ajxo','现实[xiàn shí],現實[xiàn shí]')).
+assert(celo(veraĵo,'ver.0ajxo','实事[shí shì],實事[shí shì]')).
+assert(celo(veraĵo,'ver.0ajxo','实情[shí qíng],實情[shí qíng]')).
+assert(celo(verama,'ver.0ama','誠實[chéng shí],诚实[chéng shí]')).
+assert(celo(verama,'ver.0ama','实事求是[shí shì qiú shì],實事求是[shí shì qiú shì]')).
+assert(celo(verama,'ver.0ama','热爱真理[rè ài zhēn lǐ],熱愛真理[rè ài zhēn lǐ]')).
+assert(celo(vere,'ver.0e','实在[shí zài],實在[shí zài]')).
+assert(celo(vere,'ver.0e','事实上[shì shí shàng],事實上[shì shí shàng]')).
+assert(celo(vere,'ver.0e','果真[guǒ zhēn]')).
+assert(celo(vere,'ver.0e','誠[chéng],诚[chéng]')).
+assert(celo(vere,'ver.0e','真真[zhēn zhēn]')).
+assert(celo(vere,'ver.0e','的确[dí què],的確[dí què]')).
+assert(celo(vere,'ver.0e','洵[xún]')).
+assert(celo(vere,'ver.0e','确实[què shí],確實[què shí]')).
+assert(celo(vereco,'ver.0eco','真实性[zhēn shí xìng],真實性[zhēn shí xìng]')).
+assert(celo(vereco,'ver.0eco','真話[zhēn huà],真话[zhēn huà]')).
+assert(celo(vereco,'ver.0eco','真誠[zhēn chéng],真诚[zhēn chéng]')).
+assert(celo(verema,'ver.0ema','誠實[chéng shí],诚实[chéng shí]')).
+assert(celo(veremo,'ver.0emo','真挚[zhēn zhì],真摯[zhēn zhì]')).
+assert(celo(veremo,'ver.0emo','真誠[zhēn chéng],真诚[zhēn chéng]')).
+assert(celo(vero,'ver.0o','实话[shí huà],實話[shí huà]')).
+assert(celo(vero,'ver.0o','真理[zhēn lǐ]')).
+assert(celo(vero,'ver.0o','真話[zhēn huà],真话[zhēn huà]')).
+assert(celo(envere,'ver.en0e','实际上[shí jì shàng],實際上[shí jì shàng]')).
+assert(celo(envere,'ver.en0e','事实上[shì shí shàng],事實上[shì shí shàng]')).
+assert(celo(envere,'ver.en0e','实则[shí zé],實則[shí zé]')).
+assert(celo(envere,'ver.en0e','真真[zhēn zhēn]')).
+assert(celo(envere,'ver.en0e','說真的[shuō zhēn de],说真的[shuō zhēn de]')).
+assert(celo(kontraŭvera,'ver.mal0a','虚假[xū jiǎ],虛假[xū jiǎ]')).
+assert(celo(kontraŭvera,'ver.mal0a','违心[wéi xīn],違心[wéi xīn]')).
+assert(celo(kontraŭvera,'ver.mal0a','贗[yàn],赝[yàn]')).
+assert(celo(plivere,'ver.pli0e','其实[qí shí],其實[qí shí]')).
+assert(celo(plivere,'ver.pli0e','而是[ér shì]')).
+assert(celo(verando,'verand.0o','廊[láng]')).
+assert(celo(verando,'verand.0o','走廊[zǒu láng]')).
+assert(celo(verando,'verand.0o','庑[wǔ],廡[wǔ]')).
+assert(celo(verbo,'verb.0o','动词[dòng cí],動詞[dòng cí]')).
+assert(celo(helpverbo,'verb.help0o','助动词[zhù dòng cí],助動詞[zhù dòng cí]')).
+assert(celo(verdaĵo,'verd.0ajxo','綠色商品[lǜ sè shāng pǐn],绿色商品[lǜ sè shāng pǐn]')).
+assert(celo(verdi,'','綠葉[lǜ yè],绿叶[lǜ yè]')).
+assert(celo(ĉiamverda,'verd.cxiam0a','常綠[cháng lù:],常绿[cháng lù:]')).
+assert(celo(ĉiamverda,'verd.cxiam0a','常青[cháng qīng]')).
+assert(celo(ĉiamverda,'verd.cxiam0a','常綠[cháng lǜ],常绿[cháng lǜ]')).
+assert(celo(ĉiamverda,'verd.cxiam0a','四季常綠[sì jì cháng lǜ],四季常绿[sì jì cháng lǜ]')).
+assert(celo(ĉiamverda,'verd.cxiam0a','常靑[cháng qīng],常青[cháng qīng]')).
+assert(celo(verdigro,'verdig.0o.kolorilo','銅青[tóng qīng],铜青[tóng qīng]')).
+assert(celo(verdigro,'verdig.0o.kolorilo','銅綠[tóng lù:],铜绿[tóng lù:]')).
+assert(celo(verdigro,'verdig.0o.kolorilo','銅鏽[tóng xiù],铜锈[tóng xiù]')).
+assert(celo(verdigro,'verdig.0o.kolorilo','乙酸銅[yǐ suān tóng],乙酸铜[yǐ suān tóng]')).
+assert(celo(verdikti,'verdik.0i','判决[pàn jué],判決[pàn jué]')).
+assert(celo(verdikto,'verdik.0o','判决[pàn jué],判決[pàn jué]')).
+assert(celo(verdikto,'verdik.0o','断语[duàn yǔ],斷語[duàn yǔ]')).
+assert(celo(verdikti,'','定讞[dìng yàn],定谳[dìng yàn]')).
+assert(celo(vergi,'verg.0i','杖[zhàng]')).
+assert(celo(verkaro,'verk.0aro','全集[quán jí]')).
+assert(celo(verkejo,'verk.0ejo','作坊[zuō fang]')).
+assert(celo(verkejo,'verk.0ejo','工坊[gōng fáng]')).
+assert(celo(verki,'verk.0i','編[biān],编[biān]')).
+assert(celo(verki,'verk.0i','譜寫[pǔ xiě],谱写[pǔ xiě]')).
+assert(celo(verki,'verk.0i','編寫[biān xiě],编写[biān xiě]')).
+assert(celo(verki,'verk.0i','撰写[zhuàn xiě],撰寫[zhuàn xiě]')).
+assert(celo(verki,'verk.0i','撰[zhuàn],譔[zhuàn]')).
+assert(celo(verki,'verk.0i','作曲[zuò qǔ]')).
+assert(celo(verki,'verk.0i','撰述[zhuàn shù]')).
+assert(celo(verkilo,'verk.0ilo','文书处理[wén shū chǔ lǐ],文書處理[wén shū chǔ lǐ]')).
+assert(celo(verkisto,'verk.0isto','作家[zuò jiā]')).
+assert(celo(verkisto,'verk.0isto','艺术家[yì shù jiā],藝術家[yì shù jiā]')).
+assert(celo(verkisto,'verk.0isto','艺员[yì yuán],藝員[yì yuán]')).
+assert(celo(verkisto,'verk.0isto','美术家[měi shù jiā],美術家[měi shù jiā]')).
+assert(celo(verkisto,'verk.0isto','演奏家[yǎn zòu jiā]')).
+assert(celo(verkisto,'verk.0isto','作者[zuò zhě]')).
+assert(celo(verkisto,'verk.0isto','笔者[bǐ zhě],筆者[bǐ zhě]')).
+assert(celo(verko,'verk.0o','作品[zuò pǐn]')).
+assert(celo(verko,'verk.0o','著作[zhù zuò]')).
+assert(celo(verko,'verk.0o','工艺品[gōng yì pǐn],工藝品[gōng yì pǐn]')).
+assert(celo(verko,'verk.0o','論著[lùn zhù],论著[lùn zhù]')).
+assert(celo(verko,'verk.0o','着作[zhù zuò],著作[zhù zuò]')).
+assert(celo(referencverko,'verk.referenc0o','参考书[cān kǎo shū],參考書[cān kǎo shū]')).
+assert(celo(fadenvermoj,'verm.faden0oj','線蟲動物門[xiàn chóng dòng wù mén],线虫动物门[xiàn chóng dòng wù mén]')).
+assert(celo(fadenvermoj,'verm.faden0oj','線蟲[xiàn chóng],线虫[xiàn chóng]')).
+assert(celo(platvermoj,'verm.plat0oj','扁形动物[biǎn xíng dòng wù],扁形動物[biǎn xíng dòng wù]')).
+assert(celo(platvermoj,'verm.plat0oj','扁形动物门[piān xíng dòng wù mén],扁形動物門[piān xíng dòng wù mén]')).
+assert(celo(ringovermoj,'verm.ringo0oj','环节动物门[huán jié dòng wù mén],環節動物門[huán jié dòng wù mén]')).
+assert(celo(tervermo,'verm.ter0o','蚓[yǐn]')).
+assert(celo(tervermo,'verm.ter0o','螾[yǐn]')).
+assert(celo(zonovermoj,'verm.zono0oj','蛭綱[zhì gāng],蛭纲[zhì gāng]')).
+assert(celo(vermiĉelo,'vermicxel.0o','粉丝[fěn sī],粉絲[fěn sī]')).
+assert(celo(vermiĉelo,'vermicxel.0o','粉条[fěn tiáo],粉條[fěn tiáo]')).
+assert(celo(vermiljona,'vermiljon.0a','中国红[Zhōng guó hóng],中國紅[Zhōng guó hóng]')).
+assert(celo(vermiljona,'','朱[zhū]')).
+assert(celo(vermiljona,'','朱紅[zhū hóng],朱红[zhū hóng]')).
+assert(celo(vermiljono,'vermiljon.0o','丹[dān]')).
+assert(celo('Vermonto','vermont.0o','佛蒙特[Fó méng tè]')).
+assert(celo('Vermonto','vermont.0o','佛蒙特州[Fó méng tè zhōu]')).
+assert(celo(vermuto,'vermut.0o.KUI','威末酒[wēi mò jiǔ]')).
