@@ -1178,3 +1178,185 @@ assert(celo(vice,'vic.0e','一连[yī lián],一連[yī lián]')).
 assert(celo(vice,'vic.0e','挨次[āi cì]')).
 assert(celo(vice,'vic.0e','一字[yī zì]')).
 assert(celo(vice,'vic.0e','一字儿[yī zì r],一字兒[yī zì r]')).
+assert(celo(vicigi,'vic.0igi','挡[dàng],擋[dàng]')).
+assert(celo(vicigi,'vic.0igi.KOMUNE','列[liè]')).
+assert(celo(viciĝi,'vic.0igxi','排成行[pái chéng háng]')).
+assert(celo(vico,'vic.0o','行列[háng liè]')).
+assert(celo(vico,'vic.0o','行[háng]')).
+assert(celo(vico,'vic.0o','列[liè]')).
+assert(celo(vico,'vic.0o','排[pái]')).
+assert(celo(viculo,'vic.0ulo','副总[fù zǒng],副總[fù zǒng]')).
+assert(celo(viculo,'vic.0ulo','任副职者[rèn fù zhí zhě],任副職者[rèn fù zhí zhě]')).
+assert(celo(vicumi,'vic.0umi','排队[pái duì],排隊[pái duì]')).
+assert(celo(alviciĝi,'vic.al0igxi','附和[fù hè]')).
+assert(celo(alviciĝi,'vic.al0igxi','結盟[jié méng],结盟[jié méng]')).
+assert(celo(alviciĝi,'vic.al0igxi.KOMUNE','归附[guī fù],歸附[guī fù]')).
+assert(celo(anservice,'vic.anser0e','成一列縱隊[chéng yī liè zōng duì],成一列纵队[chéng yī liè zōng duì]')).
+assert(celo('aritmetika vico','vic.aritmetika0o','算术数列[suàn shù shù liè],算術數列[suàn shù shù liè]')).
+assert(celo(atendovico,'vic.atendo0o','排队[pái duì],排隊[pái duì]')).
+assert(celo(atendovico,'vic.atendo0o','等候的队列[děng hòu de duì liè],等候的隊列[děng hòu de duì liè]')).
+assert(celo(alviciĝi,'','排队[pái duì],排隊[pái duì]')).
+assert(celo('finilonga vico','vic.finia0o','有限級數[yǒu xiàn jí shù],有限级数[yǒu xiàn jí shù]')).
+assert(celo('geometria vico','vic.geometria0o','几何级数[jǐ hé jí shù],幾何級數[jǐ hé jí shù]')).
+assert(celo(laŭvice,'vic.laux0e','輪番[lún fān],轮番[lún fān]')).
+assert(celo(laŭvice,'vic.laux0e','先后[xiān hòu],先後[xiān hòu]')).
+assert(celo(laŭvice,'vic.laux0e','依次[yī cì]')).
+assert(celo(laŭvice,'vic.laux0e','一递一个[yī dì yī gè],一遞一個[yī dì yī gè]')).
+assert(celo(laŭvice,'vic.laux0e','次第[cì dì]')).
+assert(celo(laŭvice,'vic.laux0e','陆陆续续[lù lù xù xù],陸陸續續[lù lù xù xù]')).
+assert(celo(laŭvice,'vic.laux0e','順次[shùn cì],顺次[shùn cì]')).
+assert(celo(laŭvice,'vic.laux0e','接二连三[jiē èr lián sān],接二連三[jiē èr lián sān]')).
+assert(celo(laŭvice,'vic.laux0e','相繼[xiāng jì],相继[xiāng jì]')).
+assert(celo(survicigi,'vic.sur0igi.KOMUNE','串[chuàn]')).
+assert(celo(survicigi,'vic.sur0igi.KOMUNE','紉[rèn],纫[rèn]')).
+assert(celo(unuavice,'vic.unua0e','在先[zài xiān]')).
+assert(celo(unuavice,'vic.unua0e','首先[shǒu xiān]')).
+assert(celo(vicio,'vici.0o','薇[wéi]')).
+assert(celo(vicio,'vici.0o','野豌豆[yě wān dòu]')).
+assert(celo(vidado,'vid.0ado','視覺[shì jué],视觉[shì jué]')).
+assert(celo(vidado,'vid.0ado','目光[mù guāng]')).
+assert(celo(vidado,'vid.0ado','視力[shì lì],视力[shì lì]')).
+assert(celo(vidado,'vid.0ado','眼界[yǎn jiè]')).
+assert(celo(vidado,'vid.0ado','眼神[yǎn shén]')).
+assert(celo(vidado,'vid.0ado','眼光[yǎn guāng]')).
+assert(celo(vidaĵo,'vid.0ajxo','外觀[wài guān],外观[wài guān]')).
+assert(celo(vidaĵo,'vid.0ajxo','風光[fēng guāng],风光[fēng guāng]')).
+assert(celo(vidaĵo,'vid.0ajxo','景象[jǐng xiàng]')).
+assert(celo(vidaĵo,'vid.0ajxo','戏[xì],戲[xì]')).
+assert(celo(vidaĵo,'vid.0ajxo','表演[biǎo yǎn]')).
+assert(celo(vidalvide,'vid.0al0e','对面[duì miàn],對面[duì miàn]')).
+assert(celo(vidalvide,'vid.0al0e','面对面[miàn duì miàn],面對面[miàn duì miàn]')).
+assert(celo(vidalvide,'vid.0al0e','相向[xiāng xiàng]')).
+assert(celo(vidalvide,'vid.0al0e','当面[dāng miàn],當面[dāng miàn]')).
+assert(celo(vidalvide,'vid.0al0e','相对[xiāng duì],相對[xiāng duì]')).
+assert(celo(vidalvide,'vid.0al0e','零距离[líng jù lí],零距離[líng jù lí]')).
+assert(celo(videbla,'vid.0ebla','能見度[néng jiàn dù],能见度[néng jiàn dù]')).
+assert(celo(videbla,'vid.0ebla','有形[yǒu xíng]')).
+assert(celo(videbla,'vid.0ebla','看得見[kàn dé jiàn],看得见[kàn dé jiàn]')).
+assert(celo(videbla,'vid.0ebla','显[xiǎn],顯[xiǎn]')).
+assert(celo(videjo,'vid.0ejo','視點[shì diǎn],视点[shì diǎn]')).
+assert(celo(videjo,'vid.0ejo','瞭望台[liào wàng tái],瞭望臺[liào wàng tái]')).
+assert(celo(videjo,'vid.0ejo','觀象臺[guān xiàng tái],观象台[guān xiàng tái]')).
+assert(celo(videjo,'vid.0ejo','觀景陽台[guān jǐng yáng tái],观景阳台[guān jǐng yáng tái]')).
+assert(celo(videjo,'vid.0ejo','瞭望台[liào wàng tái]')).
+assert(celo(videjo,'vid.0ejo','觀景處[guān jǐng chù],观景处[guān jǐng chù]')).
+assert(celo(videjo,'vid.0ejo','觀景台[guān jǐng tái],观景台[guān jǐng tái]')).
+assert(celo(vidi,'vid.0i','瞧見[qiáo jiàn],瞧见[qiáo jiàn]')).
+assert(celo(vidi,'vid.0i','看到[kàn dào]')).
+assert(celo(vidi,'vid.0i','見到[jiàn dào],见到[jiàn dào]')).
+assert(celo(vidi,'vid.0i','看見[kàn jiàn],看见[kàn jiàn]')).
+assert(celo(vidi,'vid.0i','觀看[guān kàn],观看[guān kàn]')).
+assert(celo(vidigi,'vid.0igi','摆明[bǎi míng],擺明[bǎi míng]')).
+assert(celo(vidigi,'vid.0igi','表现[biǎo xiàn],表現[biǎo xiàn]')).
+assert(celo(vidigi,'vid.0igi','表示[biǎo shì]')).
+assert(celo(vidigi,'vid.0igi','所示[suǒ shì]')).
+assert(celo(vidigi,'vid.0igi','出示[chū shì]')).
+assert(celo(vidiĝi,'vid.0igxi','呈现[chéng xiàn],呈現[chéng xiàn]')).
+assert(celo(vidiĝi,'vid.0igxi','見[xiàn],见[xiàn]')).
+assert(celo(vidiĝi,'vid.0igxi','出來[chū lái],出来[chū lái]')).
+assert(celo(vidiĝi,'vid.0igxi','泛起[fàn qǐ]')).
+assert(celo(vidiĝi,'vid.0igxi','显露[xiǎn lù],顯露[xiǎn lù]')).
+assert(celo(vidiĝi,'vid.0igxi','出现[chū xiàn],出現[chū xiàn]')).
+assert(celo(vidiĝi,'vid.0igxi','显得[xiǎn de],顯得[xiǎn de]')).
+assert(celo(vidindaĵo,'vid.0indajxo','名勝[míng shèng],名胜[míng shèng]')).
+assert(celo(vidindaĵo,'vid.0indajxo','名勝古跡[míng shèng gǔ jì],名胜古迹[míng shèng gǔ jì]')).
+assert(celo(vidindaĵo,'vid.0indajxo','旅游胜地[lǚ yóu shèng dì],旅遊勝地[lǚ yóu shèng dì]')).
+assert(celo(vido,'vid.0o','看法[kàn fǎ]')).
+assert(celo(vido,'vid.0o','風光[fēng guāng],风光[fēng guāng]')).
+assert(celo(vido,'vid.0o','眼神[yǎn shén]')).
+assert(celo(vido,'vid.0o','景致[jǐng zhì]')).
+assert(celo(vido,'vid.0o','目力[mù lì]')).
+assert(celo(vido,'vid.0o','觀點[guān diǎn],观点[guān diǎn]')).
+assert(celo(vidkapablo,'vid.0povo','視覺[shì jué],视觉[shì jué]')).
+assert(celo(vidkapablo,'vid.0povo','眼力[yǎn lì]')).
+assert(celo(akravida,'vid.akra0a','哲[zhé],喆[zhé]')).
+assert(celo(akravida,'vid.akra0a','明察秋毫[míng chá qiū háo]')).
+assert(celo(antaŭvidebla,'vid.antaux0ebla','可預見[kě yù jiàn],可预见[kě yù jiàn]')).
+assert(celo(antaŭvidebla,'vid.antaux0ebla','可預言[kě yù yán],可预言[kě yù yán]')).
+assert(celo(antaŭvidema,'vid.antaux0ema','先知先覺[xiān zhī xiān jué],先知先觉[xiān zhī xiān jué]')).
+assert(celo(antaŭvidema,'vid.antaux0ema','前瞻[qián zhān]')).
+assert(celo(antaŭvidema,'vid.antaux0ema.KOMUNE','能預料[néng yù liào],能预料[néng yù liào]')).
+assert(celo(antaŭvidi,'vid.antaux0i','預見[yù jiàn],预见[yù jiàn]')).
+assert(celo(antaŭvidi,'vid.antaux0i','預測[yù cè],预测[yù cè]')).
+assert(celo(antaŭvidi,'vid.antaux0i','逆料[nì liào]')).
+assert(celo(antaŭvidi,'vid.antaux0i','卜[bǔ]')).
+assert(celo(aŭdvida,'vid.auxd0a','声像[shēng xiàng],聲像[shēng xiàng]')).
+assert(celo(aŭdvida,'vid.auxd0a','直觀[zhí guān],直观[zhí guān]')).
+assert(celo(aŭdvida,'vid.auxd0a','音像[yīn xiàng]')).
+assert(celo(aŭdvida,'vid.auxd0a','視聽[shì tīng],视听[shì tīng]')).
+assert(celo(ekvidi,'vid.ek0i','瞥見[piē jiàn],瞥见[piē jiàn]')).
+assert(celo(ekvidi,'vid.ek0i','看見[kàn jiàn],看见[kàn jiàn]')).
+assert(celo(ekvidi,'vid.ek0i','看到[kàn dào]')).
+assert(celo(ekvidi,'vid.ek0i','望見[wàng jiàn],望见[wàng jiàn]')).
+assert(celo(ekvidi,'vid.ek0i','发觉[fā jué],發覺[fā jué]')).
+assert(celo(ekvidi,'vid.ek0i','覯[gòu],觏[gòu]')).
+assert(celo(ekvidi,'vid.ek0i','覺察[jué chá],觉察[jué chá]')).
+assert(celo(ekvidi,'vid.ek0i','察覺[chá jué],察觉[chá jué]')).
+assert(celo(envido,'vid.en0o','通达[tōng dá],通達[tōng dá]')).
+assert(celo(ĝisrevidi,'vid.gxisre0i','告辞[gào cí],告辭[gào cí]')).
+assert(celo(ĝisrevidi,'vid.gxisre0i','道別[dào bié],道别[dào bié]')).
+assert(celo(ĝisrevidi,'vid.gxisre0i','告別[gào bié],告别[gào bié]')).
+assert(celo(ĝisrevidi,'vid.gxisre0i','挥别[huī bié],揮別[huī bié]')).
+assert(celo(ĝisrevidi,'vid.gxisre0i','送別[sòng bié],送别[sòng bié]')).
+assert(celo(ĝisrevidi,'vid.gxisre0i','辞行[cí xíng],辭行[cí xíng]')).
+assert(celo(intervidiĝi,'vid.inter0igxi','相見[xiāng jiàn],相见[xiāng jiàn]')).
+assert(celo(klarvida,'vid.klar0a.PSI','明察秋毫[míng chá qiū háo]')).
+assert(celo(klarvida,'vid.klar0a.PSI','慧[huì]')).
+assert(celo(klarvida,'vid.klar0a.PSI','睿[ruì]')).
+assert(celo(netravidebla,'vid.netra0ebla','捉摸不定[zhuō mó bù dìng]')).
+assert(celo(netravidebla,'vid.netra0ebla','瓀[ruǎn]')).
+assert(celo(netravidebla,'vid.netra0ebla','混浊[hún zhuó],混濁[hún zhuó]')).
+assert(celo(netravidebla,'vid.netra0ebla','不能透过[bù néng tòu guò],不能透過[bù néng tòu guò]')).
+assert(celo(netravidebla,'vid.netra0ebla','不通透[bù tōng tòu]')).
+assert(celo(netravidebla,'vid.netra0ebla','透不过[tòu bù guò],透不過[tòu bù guò]')).
+assert(celo(nigrevidulo,'vid.nigre0ulo','忧时之士[yōu shí zhī shì],憂時之士[yōu shí zhī shì]')).
+assert(celo(pretervidi,'vid.preter0i','失掉[shī diào]')).
+assert(celo(pretervidi,'vid.preter0i','視而不見[shì ér bù jiàn],视而不见[shì ér bù jiàn]')).
+assert(celo(revidi,'vid.re0i.KOMUNE','团聚[tuán jù],團聚[tuán jù]')).
+assert(celo(revidi,'vid.re0i.KOMUNE','重逢[chóng féng]')).
+assert(celo(revidi,'vid.re0i.trakorekti','复审[fù shěn],復審[fù shěn]')).
+assert(celo(revidi,'vid.re0i.trakorekti','审阅[shěn yuè],審閱[shěn yuè]')).
+assert(celo(travidebla,'vid.tra0ebla','透明[tòu míng]')).
+assert(celo(travidebla,'','冏彻[jiǒng chè],冏徹[jiǒng chè]')).
+assert(celo(travidi,'vid.tra0i','看穿[kàn chuān]')).
+assert(celo(travidi,'vid.tra0i','看透[kàn tòu]')).
+assert(celo(travidi,'vid.tra0i','識破[shì pò],识破[shì pò]')).
+assert(celo(videaĵo,'vide.0ajxo','录制视频片断[lù zhì shì pín piàn duàn],錄製視頻片斷[lù zhì shì pín piàn duàn]')).
+assert(celo(videaĵo,'vide.0ajxo','录像[lù xiàng],錄像[lù xiàng]')).
+assert(celo(videaĵo,'vide.0ajxo','动态影像[dòng tài yǐng xiàng],動態影像[dòng tài yǐng xiàng]')).
+assert(celo(videaĵo,'vide.0ajxo','視頻消息[shì pín xiāo xí],视频消息[shì pín xiāo xí]')).
+assert(celo(videaĵo,'vide.0ajxo','視頻錄像[shì pín lù xiàng],视频录像[shì pín lù xiàng]')).
+assert(celo(video,'vide.0o','視頻[shì pín],视频[shì pín]')).
+assert(celo(video,'vide.0o','动态影像[dòng tài yǐng xiàng],動態影像[dòng tài yǐng xiàng]')).
+assert(celo(video,'vide.0o','視像[shì xiàng],视像[shì xiàng]')).
+assert(celo(muzikvideo,'vide.muzik0o','音乐电视[yīn yuè diàn shì],音樂電視[yīn yuè diàn shì]')).
+assert(celo(muzikvideo,'vide.muzik0o','音乐录影带[yīn yuè lù yǐng dài],音樂錄影帶[yīn yuè lù yǐng dài]')).
+assert(celo(vidvino,'vidv.0ino','孀[shuāng]')).
+assert(celo(vidvino,'vidv.0ino','嫠[lí]')).
+assert(celo(vidvino,'vidv.0ino','寡妇[guǎ fu],寡婦[guǎ fu]')).
+assert(celo(vidvino,'vidv.0ino','遗孀[yí shuāng],遺孀[yí shuāng]')).
+assert(celo(vidvo,'vidv.0o','孀[shuāng]')).
+assert(celo(vidvo,'vidv.0o','鰥[guān],鳏[guān]')).
+assert(celo('Vieno','vien.0o','維也納[Wéi yě nà],维也纳[Wéi yě nà]')).
+assert(celo(vifio,'vifi.0o','无线热点[wú xiàn rè diǎn],無線熱點[wú xiàn rè diǎn]')).
+assert(celo(vigili,'vigil.0i','待命[dài mìng]')).
+assert(celo(vigla,'vigl.0a','活跃[huó yuè],活躍[huó yuè]')).
+assert(celo(vigla,'vigl.0a','活泼[huó po],活潑[huó po]')).
+assert(celo(vigla,'vigl.0a','热烈[rè liè],熱烈[rè liè]')).
+assert(celo(vigla,'vigl.0a','輕快[qīng kuài],轻快[qīng kuài]')).
+assert(celo(vigla,'vigl.0a','灵[líng],靈[líng]')).
+assert(celo(vigla,'vigl.0a','乖覺[guāi jué],乖觉[guāi jué]')).
+assert(celo(vigla,'vigl.0a.atenta','惺惺[xīng xīng]')).
+assert(celo(vigla,'vigl.0a.fresxa','活蹦乱跳[huó bèng luàn tiào],活蹦亂跳[huó bèng luàn tiào]')).
+assert(celo(vigle,'vigl.0e','大力[dà lì]')).
+assert(celo(vigli,'','专注[zhuān zhù],專注[zhuān zhù]')).
+assert(celo(vigli,'','守望[shǒu wàng]')).
+assert(celo(vigli,'','惺惺[xīng xīng]')).
+assert(celo(vigliga,'vigl.0iga.KOMUNE','食慾大開[shí yù dài kāi],食欲大开[shí yù dài kāi]')).
+assert(celo(vigligi,'vigl.0igi','活跃[huó yuè],活躍[huó yuè]')).
+assert(celo(vigligi,'vigl.0igi','搞活[gǎo huó]')).
+assert(celo(vigligi,'vigl.0igi.KOMUNE','激扬[jī yáng],激揚[jī yáng]')).
+assert(celo(vigligi,'vigl.0igi.KOMUNE','勉励[miǎn lì],勉勵[miǎn lì]')).
+assert(celo(vigligi,'vigl.0igi.KOMUNE','促动[cù dòng],促動[cù dòng]')).
+assert(celo(vigliĝi,'vigl.0igxi','振作[zhèn zuò]')).
+assert(celo(vigliĝi,'vigl.0igxi.KOMUNE','睡醒[shuì xǐng]')).
