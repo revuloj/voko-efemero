@@ -893,3 +893,288 @@ assert(celo(vermiljono,'vermiljon.0o','丹[dān]')).
 assert(celo('Vermonto','vermont.0o','佛蒙特[Fó méng tè]')).
 assert(celo('Vermonto','vermont.0o','佛蒙特州[Fó méng tè zhōu]')).
 assert(celo(vermuto,'vermut.0o.KUI','威末酒[wēi mò jiǔ]')).
+assert(celo(verniero,'vernier.0o','游标[yóu biāo],游標[yóu biāo]')).
+assert(celo(verniero,'vernier.0o','卡尺[kǎ chǐ]')).
+assert(celo(verniero,'vernier.0o','游标[yóu biāo],遊標[yóu biāo]')).
+assert(celo(vernisi,'vernis.0i','使上当[shǐ shàng dāng],使上當[shǐ shàng dāng]')).
+assert(celo(vernisi,'vernis.0i','塗漆[tú qī],涂漆[tú qī]')).
+assert(celo(vernisi,'vernis.0i','凡立水[fán lì shuǐ]')).
+assert(celo(verniso,'vernis.0o','油光漆[yóu guāng qī]')).
+assert(celo(verniso,'vernis.0o','光油塗層[guāng yóu tú céng],光油涂层[guāng yóu tú céng]')).
+assert(celo(verniso,'vernis.0o','凡立水[fán lì shuǐ]')).
+assert(celo(ungoverniso,'vernis.ungo0o','指甲油[zhǐ jia yóu]')).
+assert(celo('Verono','veron.0o','維羅納[Wéi luó nà],维罗纳[Wéi luó nà]')).
+assert(celo(versaĵo,'vers.0ajxo','詩[shī],诗[shī]')).
+assert(celo(versaĵo,'vers.0ajxo','詩句[shī jù],诗句[shī jù]')).
+assert(celo(versaĵo,'vers.0ajxo','韵文[yùn wén],韻文[yùn wén]')).
+assert(celo(versaĵo,'vers.0ajxo','詩歌[shī gē],诗歌[shī gē]')).
+assert(celo(versaĵo,'vers.0ajxo','用詩表達[yòng shī biǎo dá],用诗表达[yòng shī biǎo dá]')).
+assert(celo(versaĵo,'vers.0ajxo','頌詞[sòng cí],颂词[sòng cí]')).
+assert(celo(versero,'vers.0ero','音步[yīn bù]')).
+assert(celo(versisto,'vers.0isto','作詩者[zuò shī zhě],作诗者[zuò shī zhě]')).
+assert(celo(versisto,'vers.0isto','韵诗作者[yùn shī zuò zhě],韻詩作者[yùn shī zuò zhě]')).
+assert(celo(verso,'vers.0o','詩詞[shī cí],诗词[shī cí]')).
+assert(celo(verso,'vers.0o','詩句[shī jù],诗句[shī jù]')).
+assert(celo(verso,'vers.0o','紋[wén],纹[wén]')).
+assert(celo(unuverso,'vers.unu0o','短笑話[duǎn xiào huà],短笑话[duǎn xiào huà]')).
+assert(celo('Versajlo','versajl.0o.urbo','凡尔赛[fán ěr sài],凡爾賽[fán ěr sài]')).
+assert(celo(versalo,'versal.0o.TIP','大写字体[dà xiě zì tǐ],大寫字體[dà xiě zì tǐ]')).
+assert(celo(versio,'versi.0o','版[bǎn]')).
+assert(celo(versio,'versi.0o.eldono','版本[bǎn běn]')).
+assert(celo(versio,'versi.0o.versio','文本[wén běn]')).
+assert(celo(verŝi,'versx.0i','灌[guàn]')).
+assert(celo(verŝi,'versx.0i','浇[jiāo],澆[jiāo]')).
+assert(celo(verŝi,'versx.0i','注人[zhù rén]')).
+assert(celo(verŝi,'versx.0i','斟[zhēn]')).
+assert(celo(verŝi,'versx.0i','倾注[qīng zhù],傾注[qīng zhù]')).
+assert(celo('Verŝisto','versx.V0isto','宝瓶[Bǎo píng],寶瓶[Bǎo píng]')).
+assert(celo('Verŝisto','','水瓶座[Shuǐ píng zuò]')).
+assert(celo(disverŝi,'versx.dis0i','撒[sǎ]')).
+assert(celo(elverŝi,'versx.el0i','倾[qīng],傾[qīng]')).
+assert(celo(elverŝi,'versx.el0i','倒入[dǎo rù]')).
+assert(celo(elverŝi,'versx.el0i','浇注[jiāo zhù],澆注[jiāo zhù]')).
+assert(celo(enverŝi,'versx.en0i','汋[zhuó]')).
+assert(celo(enverŝi,'versx.en0i','倒进[dào jìn],倒進[dào jìn]')).
+assert(celo(surverŝi,'versx.pri0i','注人[zhù rén]')).
+assert(celo(surverŝi,'versx.pri0i','浇[jiāo],澆[jiāo]')).
+assert(celo(surverŝi,'versx.pri0i','淋[lín]')).
+assert(celo(surverŝi,'versx.pri0i','洒了水[sǎ liǎo shuǐ]')).
+assert(celo(surverŝi,'versx.pri0i','洒水[sǎ shuǐ]')).
+assert(celo(sangoverŝado,'versx.sango0o.masakro','流血[liú xiě]')).
+assert(celo(sangoverŝado,'versx.sango0o.masakro','血刃[xuè rèn]')).
+assert(celo(superverŝi,'versx.super0i','滔[tāo]')).
+assert(celo(superverŝi,'versx.super0i','洚[jiàng]')).
+assert(celo(superverŝi,'versx.super0i','溢出[yì chū]')).
+assert(celo(superverŝi,'versx.super0i','沒[mò],没[mò]')).
+assert(celo(verto,'vert.0o','头顶[tóu dǐng],頭頂[tóu dǐng]')).
+assert(celo(verto,'vert.0o','頂點[dǐng diǎn],顶点[dǐng diǎn]')).
+assert(celo(verto,'vert.0o','顛[diān],颠[diān]')).
+assert(celo(vertago,'vertag.0o','短腿猎犬[duǎn tuǐ liè quǎn],短腿獵犬[duǎn tuǐ liè quǎn]')).
+assert(celo(vertebra,'verteb.0a','脊椎[jǐ zhuī]')).
+assert(celo(vertebraro,'verteb.0aro','脊柱[jǐ zhù]')).
+assert(celo(vertebraro,'verteb.0aro','脊梁[jǐ liáng]')).
+assert(celo(vertebraro,'verteb.0aro','脊椎[jǐ zhuī]')).
+assert(celo(vertebraro,'verteb.0aro','骨干[gǔ gàn],骨幹[gǔ gàn]')).
+assert(celo(vertebraro,'verteb.0aro','膂[lǔ:]')).
+assert(celo(vertebraro,'verteb.0aro','脊椎骨[jǐ zhuī gǔ]')).
+assert(celo(vertebraro,'verteb.0aro','脊梁骨[jǐ liáng gǔ]')).
+assert(celo(vertebro,'verteb.0o','脊椎[jǐ zhuī]')).
+assert(celo(vertebro,'verteb.0o','椎[zhuī]')).
+assert(celo(vertebro,'verteb.0o','椎骨[zhuī gǔ]')).
+assert(celo(vertebrulo,'verteb.0ulo','脊椎动物[jǐ zhuī dòng wù],脊椎動物[jǐ zhuī dòng wù]')).
+assert(celo(senvertebruloj,'verteb.sen0uloj','无脊椎[wú jǐ zhuī],無脊椎[wú jǐ zhuī]')).
+assert(celo(senvertebruloj,'verteb.sen0uloj','无脊椎动物[wú jǐ zhuī dòng wù],無脊椎動物[wú jǐ zhuī dòng wù]')).
+assert(celo(vertico,'vertic.0o.grafeo','楞[léng]')).
+assert(celo(vertico,'vertic.0o.grafeo','角点[jiǎo diǎn],角點[jiǎo diǎn]')).
+assert(celo(vertiĝi,'vertigx.0i','眩晕[xuàn yùn],眩暈[xuàn yùn]')).
+assert(celo(vertiĝi,'vertigx.0i','令人眼花繚亂[lìng rén yǎn huā liáo luàn],令人眼花缭乱[lìng rén yǎn huā liáo luàn]')).
+assert(celo(vertiĝi,'vertigx.0i','晕高儿[yùn gāo r],暈高兒[yùn gāo r]')).
+assert(celo(vertiĝi,'vertigx.0i','头昏眼暗[tóu hūn yǎn àn],頭昏眼暗[tóu hūn yǎn àn]')).
+assert(celo(vertiĝo,'vertigx.0o','眩晕[xuàn yùn],眩暈[xuàn yùn]')).
+assert(celo(vertiĝo,'vertigx.0o','头昏[tóu hūn],頭昏[tóu hūn]')).
+assert(celo(vertikala,'vertik.0a','立式[lì shì]')).
+assert(celo(vertikala,'vertik.0a','竖[shù],豎[shù]')).
+assert(celo(vertikala,'vertik.0a','垂直[chuí zhí]')).
+assert(celo(vertikala,'vertik.0a','鉛垂的[qiān chuí de],铅垂的[qiān chuí de]')).
+assert(celo(vertikala,'vertik.0a','頂點的[dǐng diǎn de],顶点的[dǐng diǎn de]')).
+assert(celo(vertikala,'vertik.0a','立[lì]')).
+assert(celo(vertikalo,'','鉛垂線[qiān chuí xiàn],铅垂线[qiān chuí xiàn]')).
+assert(celo(vertikalo,'','竖[shù],豎[shù]')).
+assert(celo(veruko,'veruk.0o','瘊[hóu]')).
+assert(celo(veruko,'veruk.0o','疣[yóu]')).
+assert(celo(veruko,'veruk.0o','贅疣[zhuì yóu],赘疣[zhuì yóu]')).
+assert(celo(verva,'verv.0a','雄浑[xióng hún],雄渾[xióng hún]')).
+assert(celo(verva,'verv.0a','如火[rú huǒ]')).
+assert(celo(verva,'verv.0a','充满活力[chōng mǎn huó lì],充滿活力[chōng mǎn huó lì]')).
+assert(celo(verva,'verv.0a','生动活泼[shēng dòng huó po],生動活潑[shēng dòng huó po]')).
+assert(celo(vervo,'verv.0o.KOMUNE','热心[rè xīn],熱心[rè xīn]')).
+assert(celo(vervo,'verv.0o.KOMUNE','热风[rè fēng],熱風[rè fēng]')).
+assert(celo(vespo,'vesp.0o','黃蜂[huáng fēng],黄蜂[huáng fēng]')).
+assert(celo(vespo,'vesp.0o','馬蜂[mǎ fēng],马蜂[mǎ fēng]')).
+assert(celo(vespo,'vesp.0o','胡蜂[hú fēng]')).
+assert(celo(vespedoj,'vesped.0oj','胡蜂科[hú fēng kē]')).
+assert(celo('Silvestra vespero','vesper.Novjara_0o','除夕之夜[chú xì zhī yè]')).
+assert(celo('Silvestra vespero','vesper.Novjara_0o','除夕夜[chú xì yè]')).
+assert(celo('Silvestra vespero','vesper.Novjara_0o','除夕晚[chú xì wǎn]')).
+assert(celo('Silvestra vespero','vesper.Novjara_0o','新年前夕[xīn nián qián xì]')).
+assert(celo('Silvestra vespero','vesper.Novjara_0o','岁除[suì chú],歲除[suì chú]')).
+assert(celo(antaŭvespero,'vesper.antaux0o','前夕[qián xì]')).
+assert(celo(antaŭvespero,'vesper.antaux0o','前夜[qián yè]')).
+assert(celo(antaŭvespero,'vesper.antaux0o','夕[xī]')).
+assert(celo(antaŭvespero,'vesper.antaux0o','暮[mù]')).
+assert(celo(antaŭvespero,'vesper.antaux0o','末期[mò qī]')).
+assert(celo('sankta vespero','vesper.sankta0o','平安夜[píng ān yè]')).
+assert(celo('sankta vespero','vesper.sankta0o','圣诞夜[shèng dàn yè],聖誕夜[shèng dàn yè]')).
+assert(celo('sankta vespero','vesper.sankta0o','圣诞前夜[shèng dàn qián yè],聖誕前夜[shèng dàn qián yè]')).
+assert(celo('sankta vespero','vesper.sankta0o','圣诞节前夕[shèng dàn jié qián xī],聖誕節前夕[shèng dàn jié qián xī]')).
+assert(celo(vesperto,'vesper1.0o','蝙[biān]')).
+assert(celo(vesperto,'vesper1.0o','蝙蝠[biān fú]')).
+assert(celo(vesperto,'vesper1.0o','蝠[fú]')).
+assert(celo(vespertoj,'','翼手目[yì shǒu mù]')).
+assert(celo(vespro,'vespr.0o','晚祷[wǎn dǎo],晚禱[wǎn dǎo]')).
+assert(celo(vespro,'vespr.0o','晚課[wǎn kè],晚课[wǎn kè]')).
+assert(celo(vestaĵo,'vest.0ajxo','衣衫[yī shān]')).
+assert(celo(vestaĵo,'vest.0ajxo','衣物[yī wù]')).
+assert(celo(vestejo,'vest.0ejo','更衣室[gēng yī shì]')).
+assert(celo(vestejo,'vest.0ejo','衣帽間[yī mào jiān],衣帽间[yī mào jiān]')).
+assert(celo(vesti,'vest.0i','穿上[chuān shang]')).
+assert(celo(vesti,'vest.0i','穿[chuān]')).
+assert(celo(vesti,'vest.0i','穿戴[chuān dài]')).
+assert(celo(vesti,'vest.0i','穿衣[chuān yī]')).
+assert(celo(vesto,'vest.0o','服装[fú zhuāng],服裝[fú zhuāng]')).
+assert(celo(vesto,'vest.0o','衣服[yī fu]')).
+assert(celo(vesto,'vest.0o','服[fú]')).
+assert(celo(vesto,'vest.0o','穿衣[chuān yī]')).
+assert(celo(vesto,'vest.0o','衣衫[yī shān]')).
+assert(celo(vesto,'vest.0o','裳[cháng]')).
+assert(celo(laborvesto,'vest.labor0o','工作服[gōng zuò fú]')).
+assert(celo(noktovesto,'vest.nokto0o','睡衣[shuì yī]')).
+assert(celo(vesto,'','衣[yī]')).
+assert(celo(piedvesto,'vest.pied0o','鞋子[xié zi]')).
+assert(celo(piedvesto,'vest.pied0o','鞋履[xié lǔ:]')).
+assert(celo(piedvesto,'vest.pied0o','鞋类[xié lèi],鞋類[xié lèi]')).
+assert(celo(senvestigi,'vest.sen0igi','脫衣服[tuō yī fú],脱衣服[tuō yī fú]')).
+assert(celo(senvestigi,'vest.sen0igi','宽衣解带[kuān yī jiě dài],寬衣解帶[kuān yī jiě dài]')).
+assert(celo(senvestigi,'vest.sen0igi','褫[chǐ]')).
+assert(celo(senvestiĝi,'vest.sen0igxi','脫衣服[tuō yī fú],脱衣服[tuō yī fú]')).
+assert(celo(senvestiĝi,'vest.sen0igxi','裎[chéng]')).
+assert(celo(subvesto,'vest.sub0o','內衣[nèi yī],内衣[nèi yī]')).
+assert(celo(subvesto,'vest.sub0o','裳[cháng]')).
+assert(celo(subvesto,'vest.sub0o','貼身衣[tiē shēn yī],贴身衣[tiē shēn yī]')).
+assert(celo(subvesto,'vest.sub0o','衬衣[chèn yī],襯衣[chèn yī]')).
+assert(celo(supervesto,'vest.super0o','外衣[wài yī]')).
+assert(celo(supervesto,'vest.super0o','大氅[dà chǎng]')).
+assert(celo(supervesto,'vest.super0o','大衣[dà yī]')).
+assert(celo(supervesto,'vest.super0o','氅[chǎng]')).
+assert(celo(supervesto,'vest.super0o','上衣[shàng yī]')).
+assert(celo(survesto,'vest.sur0o','大氅[dà chǎng]')).
+assert(celo(survesto,'vest.sur0o','氅[chǎng]')).
+assert(celo('Vestfalio','vestfali.0o','威斯特法伦[wēi sī tè fǎ lún],威斯特法倫[wēi sī tè fǎ lún]')).
+assert(celo('Vestfalio','vestfali.0o','西發里亞[xī fā lǐ yà]')).
+assert(celo('Nordrejn-Vestfalio','vestfali.Nordrejn0o','北威州[Běi wēi zhōu]')).
+assert(celo('Nordrejn-Vestfalio','vestfali.Nordrejn0o','北莱茵·威斯特法伦州[Běi lái yīn · Wēi sī tè fǎ lún zhōu],北萊茵·威斯特法倫州[Běi lái yīn · Wēi sī tè fǎ lún zhōu]')).
+assert(celo(vestiblo,'vestib.0o.ANA','套間[tào jiān],套间[tào jiān]')).
+assert(celo(vestiblo,'vestib.0o.ANA','玄关[xuán guān],玄關[xuán guān]')).
+assert(celo(vestiblo,'vestib.0o.ANA','前院[qián yuàn]')).
+assert(celo(vestiĝo,'vestigx.0o','遗迹[yí jī],遺跡[yí jī]')).
+assert(celo(vestiĝo,'vestigx.0o','遗址[yí zhǐ],遺址[yí zhǐ]')).
+assert(celo(vestiĝo,'vestigx.0o','古跡[gǔ jì],古迹[gǔ jì]')).
+assert(celo(vestiĝo,'vestigx.0o','遗迹[yí jì],遺跡[yí jì]')).
+assert(celo('Vestminstro','vestminstr.0o','西敏[Xī mǐn]')).
+assert(celo(veŝto,'vesxt.0o','裲[liǎng]')).
+assert(celo(vete,'vet.0e.FIG','竞相[jìng xiāng],競相[jìng xiāng]')).
+assert(celo(veti,'vet.0i','賭約[dǔ yuē],赌约[dǔ yuē]')).
+assert(celo(veti,'vet.0i','投注[tóu zhù]')).
+assert(celo(veti,'vet.0i','打賭[dǎ dǔ],打赌[dǎ dǔ]')).
+assert(celo(veti,'vet.0i','賭[dǔ],赌[dǔ]')).
+assert(celo(veti,'vet.0i','賭博[dǔ bó],赌博[dǔ bó]')).
+assert(celo(veto,'vet.0o','打賭[dǎ dǔ],打赌[dǎ dǔ]')).
+assert(celo(misvetero,'veter.mis0o','恶劣天气[è liè tiān qì],惡劣天氣[è liè tiān qì]')).
+assert(celo(misvetero,'veter.mis0o','大发雷霆[dà fā léi tíng],大發雷霆[dà fā léi tíng]')).
+assert(celo(misvetero,'veter.mis0o','天气恶劣[tiān qì è liè],天氣惡劣[tiān qì è liè]')).
+assert(celo(misvetero,'veter.mis0o','成語大發雷霆[chéng yǔ dà fā léi tíng],成语大发雷霆[chéng yǔ dà fā léi tíng]')).
+assert(celo(veterano,'vetera.0o','榮民[róng mín],荣民[róng mín]')).
+assert(celo(veterano,'vetera.0o','老兵[lǎo bīng]')).
+assert(celo(veterano,'vetera.0o','退伍军人[tuì wǔ jūn rén],退伍軍人[tuì wǔ jūn rén]')).
+assert(celo(veterinaro,'veteri.0o','兽医[shòu yī],獸醫[shòu yī]')).
+assert(celo(vetoi,'veto.0i','否决[fǒu jué],否決[fǒu jué]')).
+assert(celo(vetoo,'veto.0o','否决权[fǒu jué quán],否決權[fǒu jué quán]')).
+assert(celo(vetoo,'veto.0o','否决[pǐ jué],否決[pǐ jué]')).
+assert(celo(vetoo,'veto.0o','否決[fǒu jué]')).
+assert(celo(vetoo,'veto.0o','否决票[fǒu jué piào],否決票[fǒu jué piào]')).
+assert(celo(veturejo,'vetur.0ejo.sxoseo','車行道[chē xíng dào],车行道[chē xíng dào]')).
+assert(celo(veturejo,'vetur.0ejo.sxoseo','机动车道[jī dòng chē dào],機動車道[jī dòng chē dào]')).
+assert(celo(veturejo,'vetur.0ejo.sxoseo','行車道[xíng chē dào],行车道[xíng chē dào]')).
+assert(celo(veturejo,'vetur.0ejo.sxoseo','路基[lù jī]')).
+assert(celo(veturi,'vetur.0i.TRA','徂[cú]')).
+assert(celo(veturi,'vetur.0i.TRA','旅行[lǔ: xíng]')).
+assert(celo(veturigi,'vetur.0igi.TRA','搬运[bān yùn],搬運[bān yùn]')).
+assert(celo(veturigi,'vetur.0igi.TRA','摙[liǎn]')).
+assert(celo(veturigi,'vetur.0igi.TRA','运输[yùn shū],運輸[yùn shū]')).
+assert(celo(veturigi,'vetur.0igi.TRA','运送[yùn sòng],運送[yùn sòng]')).
+assert(celo(veturi,'','乘車[chéng chē],乘车[chéng chē]')).
+assert(celo(veturi,'','駕車[jià chē],驾车[jià chē]')).
+assert(celo(veturigisto,'vetur.0igisto','駕駛員[jià shǐ yuán],驾驶员[jià shǐ yuán]')).
+assert(celo(veturigisto,'vetur.0igisto','司机[sī jī],司機[sī jī]')).
+assert(celo(veturigisto,'vetur.0igisto','馬車伕[mǎ chē fu],马车夫[mǎ chē fu]')).
+assert(celo(veturilaro,'vetur.0ilaro','全部車輛[quán bù chē liàng],全部车辆[quán bù chē liàng]')).
+assert(celo(veturilaro,'vetur.0ilaro','护航机组[hù háng jī zǔ],護航機組[hù háng jī zǔ]')).
+assert(celo(veturilaro,'vetur.0ilaro','护航船队[hù háng chuán duì],護航船隊[hù háng chuán duì]')).
+assert(celo(veturilaro,'vetur.0ilaro','护送车队[hù sòng chē duì],護送車隊[hù sòng chē duì]')).
+assert(celo(ĉirkaŭveturi,'vetur.cxirkaux0i.absolute','交馳[jiāo chí],交驰[jiāo chí]')).
+assert(celo(ĉirkaŭveturi,'vetur.cxirkaux0i.kun_objekto','兜圈子[dōu quān zi]')).
+assert(celo(ĉirkaŭveturi,'vetur.cxirkaux0i.kun_objekto','繞圈子[rào quān zi],绕圈子[rào quān zi]')).
+assert(celo(ĉirkaŭveturi,'vetur.cxirkaux0i.kun_objekto','环绕[huán rào],環繞[huán rào]')).
+assert(celo(ĉirkaŭveturi,'vetur.cxirkaux0i.kun_objekto','盘旋[pán xuán],盤旋[pán xuán]')).
+assert(celo(veturi,'','乘坐[chéng zuò]')).
+assert(celo(veturi,'','开车[kāi chē],開車[kāi chē]')).
+assert(celo(elveturi,'vetur.el0i.KOMUNE','开走[kāi zǒu],開走[kāi zǒu]')).
+assert(celo(enveturi,'vetur.en0i','縮回[suō huí],缩回[suō huí]')).
+assert(celo(enveturi,'vetur.en0i','塞入[sāi rù]')).
+assert(celo(enveturi,'vetur.en0i','跑入[pǎo rù]')).
+assert(celo(glitveturilo,'vetur.glit0ilo','橇[qiāo]')).
+assert(celo(glitveturilo,'vetur.glit0ilo','冰橇[bīng qiāo]')).
+assert(celo(glitveturilo,'vetur.glit0ilo','雪橇[xuě qiāo]')).
+assert(celo(glitveturilo,'vetur.glit0ilo','扒犁[pá li]')).
+assert(celo(glitveturilo,'vetur.glit0ilo','爬犁[pá lí]')).
+assert(celo(spacveturilo,'vetur.kosmo0ilo','飛船[fēi chuán],飞船[fēi chuán]')).
+assert(celo(spacveturilo,'vetur.kosmo0ilo','太空飛船[tài kōng fēi chuán],太空飞船[tài kōng fēi chuán]')).
+assert(celo(spacveturilo,'vetur.kosmo0ilo','航天器[háng tiān qì]')).
+assert(celo(spacveturilo,'vetur.kosmo0ilo','宇宙飛船[yǔ zhòu fēi chuán],宇宙飞船[yǔ zhòu fēi chuán]')).
+assert(celo(petveturi,'vetur.pet0i','便車[biàn chē],便车[biàn chē]')).
+assert(celo(postveturilo,'vetur.post0ilo','拖車[tuō chē],拖车[tuō chē]')).
+assert(celo(postveturilo,'vetur.post0ilo','挂车[guà chē],掛車[guà chē]')).
+assert(celo(reveturi,'vetur.re0i','駛回[shǐ huí],驶回[shǐ huí]')).
+assert(celo(surveturi,'vetur.sur0i.iun','撞倒[zhuàng dǎo]')).
+assert(celo(surveturi,'vetur.sur0i.iun','撞死[zhuàng sǐ]')).
+assert(celo(ŝarĝveturilo,'vetur.sxargx0ilo','載貨汽車[zài huò qì chē],载货汽车[zài huò qì chē]')).
+assert(celo(ŝarĝveturilo,'vetur.sxargx0ilo','大型貨車[dà xíng huò chē],大型货车[dà xíng huò chē]')).
+assert(celo(ŝarĝveturilo,'vetur.sxargx0ilo','載重汽車[zài zhòng qì chē],载重汽车[zài zhòng qì chē]')).
+assert(celo(ŝarĝveturilo,'vetur.sxargx0ilo','卡車[kǎ chē],卡车[kǎ chē]')).
+assert(celo(traveturi,'vetur.tra0i','通行[tōng xíng]')).
+assert(celo(traveturi,'vetur.tra0i','擐[huàn]')).
+assert(celo('Vezero','vezer.0o','威悉河[wēi xī hé]')).
+assert(celo(veziko,'vezik.0o','凸泡[tū pào]')).
+assert(celo(veziko,'vezik.0o','水泡[shuǐ pào]')).
+assert(celo(veziko,'vezik.0o','胞囊[bāo náng]')).
+assert(celo(veziko,'vezik.0o','水疱[shuǐ pào],水皰[shuǐ pào]')).
+assert(celo(veziko,'vezik.0o','胱[guāng]')).
+assert(celo(veziko,'vezik.0o','脬[pāo]')).
+assert(celo(veziko,'vezik.0o','膀[páng]')).
+assert(celo(haŭtveziko,'vezik.hauxt0o','疱[pào],皰[pào]')).
+assert(celo(haŭtveziko,'vezik.hauxt0o','水泡[shuǐ pào]')).
+assert(celo(naĝveziko,'vezik.nagxo0o','鰾[biào],鳔[biào]')).
+assert(celo(urinveziko,'vezik.urina0o','膀胱[páng guāng]')).
+assert(celo(urinveziko,'vezik.urina0o','膀胱[pǎng guāng]')).
+assert(celo(vi,'vi.0','貴方[guì fāng],贵方[guì fāng]')).
+assert(celo(vi,'vi.0','倷[nǎi]')).
+assert(celo(vi,'vi.0','你[nǐ]')).
+assert(celo(via,'vi.0a','你的[nǐ de]')).
+assert(celo(viadukto,'viaduk.0o','高架桥[gāo jià qiáo],高架橋[gāo jià qiáo]')).
+assert(celo(viandejo,'viand.0ejo','肉販[ròu fàn],肉贩[ròu fàn]')).
+assert(celo(hakviando,'viand.hak0ajxo','肉糜[ròu mí]')).
+assert(celo(hakviando,'viand.hak0ajxo','肉餡[ròu xiàn],肉馅[ròu xiàn]')).
+assert(celo(hakviando,'viand.hak0ajxo','醢[hǎi]')).
+assert(celo(hakviando,'viand.hak0ajxo','絞肉[jiǎo ròu],绞肉[jiǎo ròu]')).
+assert(celo(hakviando,'viand.hak0ajxo','肉末[ròu mò]')).
+assert(celo(hakviandaĵo,'viand.hak0ajxo','肉饼[ròu bǐng]')).
+assert(celo(hakviandaĵo,'viand.hak0ajxo','肉圆[ròu yuán],肉圓[ròu yuán]')).
+assert(celo(hakviandaĵo,'viand.hak0ajxo','煎肉餅[jiān ròu bǐng],煎肉饼[jiān ròu bǐng]')).
+assert(celo(viatiko,'viatik.0o','最后晚餐[zuì hòu wǎn cān],最後晚餐[zuì hòu wǎn cān]')).
+assert(celo(viatiko,'viatik.0o','圣餐礼[shèng cān lǐ],聖餐禮[shèng cān lǐ]')).
+assert(celo(vibri,'vibr.0i','顫動[chàn dòng],颤动[chàn dòng]')).
+assert(celo(vibri,'vibr.0i','振动[zhèn dòng],振動[zhèn dòng]')).
+assert(celo(vibri,'vibr.0i','振荡[zhèn dàng],振蕩[zhèn dàng]')).
+assert(celo(vibri,'vibr.0i','震[zhèn]')).
+assert(celo(vibri,'vibr.0i','抖动[dǒu dòng],抖動[dǒu dòng]')).
+assert(celo(vibri,'vibr.0i','震盪[zhèn dàng],震荡[zhèn dàng]')).
+assert(celo(vibri,'vibr.0i','震荡[zhèn dàng],震蕩[zhèn dàng]')).
+assert(celo(vibrigi,'','震动[zhèn dòng],震動[zhèn dòng]')).
+assert(celo(vibro,'vibr.0o','振荡[zhèn dàng],振蕩[zhèn dàng]')).
+assert(celo(vibro,'vibr.0o','震盪[zhèn dàng],震荡[zhèn dàng]')).
+assert(celo('vic-','vic.0.POL','副总[fù zǒng],副總[fù zǒng]')).
+assert(celo(vice,'vic.0e','接连[jiē lián],接連[jiē lián]')).
+assert(celo(vice,'vic.0e','一连[yī lián],一連[yī lián]')).
+assert(celo(vice,'vic.0e','挨次[āi cì]')).
+assert(celo(vice,'vic.0e','一字[yī zì]')).
+assert(celo(vice,'vic.0e','一字儿[yī zì r],一字兒[yī zì r]')).
