@@ -1461,3 +1461,273 @@ assert(celo(vinjeto,'vinjet.0o','花紋[huā wén],花纹[huā wén]')).
 retract(celo(vinjeto,'vinjet.0o','花紋[huā wén],花纹[huā wén]')).
 assert(celo(vinkti,'vinkt.0i.niti','使固定[shǐ gù dìng]')).
 assert(celo(vinkti,'vinkt.0i.niti','鉚[mǎo],铆[mǎo]')).
+assert(celo(vintra,'vintr.0a','寒冬[hán dōng]')).
+assert(celo(vintra,'vintr.0a','像冬天[xiàng dōng tiān]')).
+assert(celo(vintro,'vintr.0o','冬天[dōng tiān]')).
+assert(celo(vintro,'vintr.0o','冬季[dōng jì]')).
+assert(celo(vintro,'vintr.0o','冬[dōng]')).
+assert(celo(vintro,'vintr.0o','冬令[dōng lìng]')).
+assert(celo(vintri,'vintr.tra0i','蛰[zhé],蟄[zhé]')).
+assert(celo(vintri,'vintr.tra0i','越冬[yuè dōng]')).
+assert(celo(vintri,'vintr.tra0i','蛰[zhí],蟄[zhí]')).
+assert(celo(viola,'viol.0a.KOL','紫[zǐ]')).
+assert(celo(viola,'viol.0a.KOL','紫罗兰色[zǐ luó lán sè],紫羅蘭色[zǐ luó lán sè]')).
+assert(celo(viola,'viol.0a.KOL','堇色[jǐn sè]')).
+assert(celo(viola,'viol.0a.KOL','紫色[zǐ sè]')).
+assert(celo(viola,'viol.0a.KOL','紺[gàn],绀[gàn]')).
+assert(celo(violego,'viol.0ego','三色紫罗兰[sān sè zǐ luó lán],三色紫羅蘭[sān sè zǐ luó lán]')).
+assert(celo(violego,'viol.0ego','同性恋的男人[tóng xìng liàn de nán rén],同性戀的男人[tóng xìng liàn de nán rén]')).
+assert(celo(violego,'viol.0ego','脂粉气的男子[zhī fěn qì de nán zǐ],脂粉氣的男子[zhī fěn qì de nán zǐ]')).
+assert(celo(violkolora,'viol.0kolora','紫[zǐ]')).
+assert(celo(violkolora,'viol.0kolora','菫[jǐn]')).
+assert(celo(violkolora,'viol.0kolora','紫罗兰色[zǐ luó lán sè],紫羅蘭色[zǐ luó lán sè]')).
+assert(celo(violkolora,'viol.0kolora','堇色[jǐn sè]')).
+assert(celo(violkolora,'viol.0kolora','紫色[zǐ sè]')).
+assert(celo(violkolora,'viol.0kolora','紺[gàn],绀[gàn]')).
+assert(celo(violkoloro,'viol.0koloro','堇色[jǐn sè]')).
+assert(celo(violkoloro,'viol.0koloro','紫色[zǐ sè]')).
+assert(celo(violo,'viol.0o','紫罗兰色[zǐ luó lán sè],紫羅蘭色[zǐ luó lán sè]')).
+assert(celo(violo,'viol.0o','堇菜[jǐn cài]')).
+assert(celo(transviola,'viol.trans0a','紫外[zǐ wài]')).
+assert(celo(violenta,'violent.0a','強暴[qiáng bào],强暴[qiáng bào]')).
+assert(celo(violenta,'violent.0a','兇悍[xiōng hàn],凶悍[xiōng hàn]')).
+assert(celo(violenta,'violent.0a','兇猛[xiōng měng],凶猛[xiōng měng]')).
+assert(celo(violento,'violent.0o','強暴[qiáng bào],强暴[qiáng bào]')).
+assert(celo(violento,'violent.0o','暴力[bào lì]')).
+assert(celo(violonisto,'violon.0isto','小提琴手[xiǎo tí qín shǒu]')).
+assert(celo(violonisto,'violon.0isto','愛玩樂者[ài wán lè zhě],爱玩乐者[ài wán lè zhě]')).
+assert(celo(violonisto,'violon.0isto','拉小提琴者[lā xiǎo tí qín zhě]')).
+assert(celo(violono,'violon.0o','小提琴[xiǎo tí qín]')).
+assert(celo(violono,'violon.0o','梵哑铃[fàn yǎ líng],梵啞鈴[fàn yǎ líng]')).
+assert(celo(violono,'violon.0o','梵婀玲[fàn ē líng]')).
+assert(celo(violonĉelo,'violon1.0o','大提琴[dà tí qín]')).
+assert(celo(vipi,'vip.0i','鞭[biān]')).
+assert(celo(vipi,'vip.0i','扬鞭[yáng biān],揚鞭[yáng biān]')).
+assert(celo(vipi,'vip.0i','棰[chuí]')).
+assert(celo(vipo,'vip.0o','馬鞭[mǎ biān],马鞭[mǎ biān]')).
+assert(celo(vipo,'vip.0o','鞭子[biān zi]')).
+assert(celo(vipo,'vip.0o','皮鞭[pí biān]')).
+assert(celo(vipo,'vip.0o','鞭[biān]')).
+assert(celo(vipo,'vip.0o','鞭子[biān zǐ]')).
+assert(celo(rajdvipo,'','馬鞭[mǎ biān],马鞭[mǎ biān]')).
+assert(celo(vipuro,'vipur.0o','蝰蛇[kuí shé]')).
+assert(celo(vipuro,'vipur.0o.ZOO','阴险恶毒的人[yīn xiǎn è dú de rén],陰險惡毒的人[yīn xiǎn è dú de rén]')).
+assert(celo(vira,'vir.0a','阳刚[yáng gāng],陽剛[yáng gāng]')).
+assert(celo(vira,'vir.0a','阳性[yáng xìng],陽性[yáng xìng]')).
+assert(celo(vira,'vir.0a','男性[nán xìng]')).
+assert(celo(vira,'vir.0a','男子气[nán zǐ qì],男子氣[nán zǐ qì]')).
+assert(celo(vira,'vir.0a','雄[xióng]')).
+assert(celo(vira,'vir.0a','雄性[xióng xìng]')).
+assert(celo(vira,'vir.0a','男生[nán shēng]')).
+assert(celo(vireco,'vir.0eco','阳刚[yáng gāng],陽剛[yáng gāng]')).
+assert(celo(vireco,'vir.0eco','大丈夫气概[dài zhàng fu qì gài],大丈夫氣概[dài zhàng fu qì gài]')).
+assert(celo(vireco,'vir.0eco','男子气概[nán zǐ qì gài],男子氣概[nán zǐ qì gài]')).
+assert(celo(virilo,'vir.0ilo.AMOR','阳具[yáng jù],陽具[yáng jù]')).
+assert(celo(virineco,'vir.0ineco','女人味[nǚ rén wèi]')).
+assert(celo(virineco,'vir.0ineco','女人气质[nǚ rén qì zhí],女人氣質[nǚ rén qì zhí]')).
+assert(celo(virinismo,'vir.0inismo','女性主义[nǔ: xìng zhǔ yì],女性主義[nǔ: xìng zhǔ yì]')).
+assert(celo(virinismo,'vir.0inismo','女权主义[nǔ: quán zhǔ yì],女權主義[nǔ: quán zhǔ yì]')).
+assert(celo(virinismo,'vir.0inismo','妇女运动[fù nǔ: yùn dòng],婦女運動[fù nǔ: yùn dòng]')).
+assert(celo(virinismo,'vir.0inismo','女性主义[nǚ xìng zhǔ yì],女性主義[nǚ xìng zhǔ yì]')).
+assert(celo(virinismo,'vir.0inismo','女权主义[nǚ quán zhǔ yì],女權主義[nǚ quán zhǔ yì]')).
+assert(celo(virino,'vir.0ino','姬[jī]')).
+assert(celo(virino,'vir.0ino','妇[fù],婦[fù]')).
+assert(celo(virino,'vir.0ino','巾帼[jīn guó],巾幗[jīn guó]')).
+assert(celo(virino,'vir.0ino','女[nǔ:]')).
+assert(celo(virino,'vir.0ino','女人[nǔ: rén]')).
+assert(celo(virino,'vir.0ino','女同胞[nǔ: tóng bāo]')).
+assert(celo(virino,'vir.0ino','女子[nǔ: zǐ]')).
+assert(celo(virino,'vir.0ino','女性[nǔ: xìng]')).
+assert(celo(virino,'vir.0ino','女的[nǔ: de]')).
+assert(celo(virino,'vir.0ino','妇女[fù nǔ:],婦女[fù nǔ:]')).
+assert(celo(viro,'vir.0o','男士[nán shì]')).
+assert(celo(viro,'vir.0o','男同胞[nán tóng bāo]')).
+assert(celo(viro,'vir.0o','夫[fū]')).
+assert(celo(viro,'vir.0o','汉子[hàn zi],漢子[hàn zi]')).
+assert(celo(viro,'vir.0o','男的[nán de]')).
+assert(celo(viro,'vir.0o','男子[nán zǐ]')).
+assert(celo(viro,'vir.0o','男性[nán xìng]')).
+assert(celo(virga,'virg.0a','童身[tóng shēn]')).
+assert(celo(virga,'virg.0a','完璧之身[wán bì zhī shēn]')).
+assert(celo(virgeco,'virg.0eco','童身[tóng shēn]')).
+assert(celo(virgulino,'virg.0ulino','处女[chǔ nǚ],處女[chǔ nǚ]')).
+assert(celo(virgulino,'virg.0ulino','仙女座[xiān nǚ zuò]')).
+assert(celo(virgulo,'virg.0ulo','童男[tóng nán]')).
+assert(celo(virgulo,'virg.0ulo','处男[chǔ nán],處男[chǔ nán]')).
+assert(celo(virgulino,'','处女[chǔ nǔ:],處女[chǔ nǔ:]')).
+assert(celo(virgulino,'','黃花姑娘[huáng huā gū niang],黄花姑娘[huáng huā gū niang]')).
+assert(celo('Virgulino','virg.V0ulino','处女座[Chǔ nǔ: zuò],處女座[Chǔ nǔ: zuò]')).
+assert(celo(malvirgigi,'virg.mal0igi','破瓜[pò guā]')).
+assert(celo(malvirgigi,'virg.mal0igi','开苞[kāi bāo],開苞[kāi bāo]')).
+assert(celo('Virginio','virgini.0o','佛吉尼亚[Fú jí ní yà],佛吉尼亞[Fú jí ní yà]')).
+assert(celo('Virginio','virgini.0o','弗吉尼亚州[Fú jí ní yà zhōu],弗吉尼亞州[Fú jí ní yà zhōu]')).
+assert(celo('Virginio','virgini.0o','弗州[Fú zhōu]')).
+assert(celo('Okcidentvirginio','virgini.okcidenta0o','西弗吉尼亚[Xī Fú jí ní yà],西弗吉尼亞[Xī Fú jí ní yà]')).
+assert(celo('Okcidentvirginio','virgini.okcidenta0o','西弗吉尼亚州[Xī Fú jí ní yà zhōu],西弗吉尼亞州[Xī Fú jí ní yà zhōu]')).
+assert(celo(virta,'virt.0a','賢[xián],贤[xián]')).
+assert(celo(virta,'virt.0a','有德行[yǒu dé xíng]')).
+assert(celo(virta,'virt.0a','腆[tiǎn]')).
+assert(celo(virta,'virt.0a','懿[yì]')).
+assert(celo(virta,'virt.0a','賢淑[xián shū],贤淑[xián shū]')).
+assert(celo(virto,'virt.0o','美德[měi dé]')).
+assert(celo(virto,'virt.0o','德[dé]')).
+assert(celo(virtulo,'virt.0ulo','君子[jūn zǐ]')).
+assert(celo(malvirta,'virt.mal0a','莠[yǒu]')).
+assert(celo(malvirto,'virt.mal0o','恶习[è xí],惡習[è xí]')).
+assert(celo(malvirtulo,'virt.mal0ulo','坏人[huài rén],壞人[huài rén]')).
+assert(celo(malvirtulo,'virt.mal0ulo','色鬼[sè guǐ]')).
+assert(celo(virtuala,'virtua.0a','虚拟[xū nǐ],虛擬[xū nǐ]')).
+assert(celo(virtuala,'virtua.0a','假想[jiǎ xiǎng]')).
+assert(celo(virtuala,'virtua.0a','无形[wú xíng],無形[wú xíng]')).
+assert(celo(virtuozo,'virtuo.0o','演奏家[yǎn zòu jiā]')).
+assert(celo(virtuozo,'virtuo.0o','技艺名家[jì yì míng jiā],技藝名家[jì yì míng jiā]')).
+assert(celo(kontraŭvirusilo,'virus.kontraux0ilo','杀毒软件[shā dú ruǎn jiàn],殺毒軟件[shā dú ruǎn jiàn]')).
+assert(celo(kontraŭvirusilo,'virus.kontraux0ilo','杀毒[shā dú],殺毒[shā dú]')).
+assert(celo(kontraŭvirusilo,'virus.kontraux0ilo','防病毒[fáng bìng dú]')).
+assert(celo(kontraŭvirusilo,'virus.kontraux0ilo','反病毒[fǎn bìng dú]')).
+assert(celo(kontraŭvirusilo,'virus.kontraux0ilo','杀软[shā ruǎn],殺軟[shā ruǎn]')).
+assert(celo(kontraŭvirusilo,'virus.kontraux0ilo','防毒軟件[fáng dú ruǎn jiàn],防毒软件[fáng dú ruǎn jiàn]')).
+assert(celo(viscero,'viscer.0o','脏[zàng],臟[zàng]')).
+assert(celo(viscero,'viscer.0o','腑[fǔ]')).
+assert(celo(viscero,'viscer.0o','內臟[nèi zàng],内脏[nèi zàng]')).
+assert(celo(visko,'visk.0o','槲寄生[hú jì shēng]')).
+assert(celo(viskio,'viski.0o','威士忌[wēi shì jì]')).
+assert(celo(viskio,'viski.0o','威士忌酒[wēi shì jì jiǔ]')).
+assert(celo('Viskonsino','viskonsin.0o','威斯康辛[Wēi sī kāng xīn]')).
+assert(celo('Viskonsino','viskonsin.0o','威斯康星[Wēi sī kāng xīng]')).
+assert(celo('Viskonsino','viskonsin.0o','威斯康星州[Wēi sī kāng xīng zhōu]')).
+assert(celo(viskozo,'viskoz.0o.KEM','黏胶[nián jiāo],黏膠[nián jiāo]')).
+assert(celo(viskozo,'viskoz.0o.KEM','黏胶液[nián jiāo yè],黏膠液[nián jiāo yè]')).
+assert(celo(viskozo,'viskoz.0o.KEM','粘胶纤维[zhān jiāo xiān wéi],粘膠纖維[zhān jiāo xiān wéi]')).
+assert(celo(viskozo,'viskoz.0o.KEM','黏胶纤维[nián jiāo xiān wéi],黏膠纖維[nián jiāo xiān wéi]')).
+retract(celo(viskozo,'viskoz.0o.KEM','黏胶纤维[nián jiāo xiān wéi],黏膠纖維[nián jiāo xiān wéi]')).
+assert(celo(viskoza,'viskoz1.0a.neflua','黏滑[nián huá]')).
+assert(celo(viskoza,'viskoz1.0a.neflua','黏滞[nián zhì],黏滯[nián zhì]')).
+assert(celo(viskoza,'viskoz1.0a.neflua','粘稠[nián chóu]')).
+assert(celo(viskoza,'viskoz1.0a.neflua','糊糊[hú hu]')).
+assert(celo(viskoza,'viskoz1.0a.neflua','半流的[bàn liú de]')).
+assert(celo(viskoza,'viskoz1.0a.neflua','稠厚的[chóu hòu de]')).
+assert(celo(viskoza,'viskoz1.0a.neflua','黏稠[nián chóu]')).
+assert(celo(viskoza,'viskoz1.0a.neflua','硬墨[yìng mò]')).
+retract(celo(viskoza,'viskoz1.0a.neflua','硬墨[yìng mò]')).
+assert(celo(visterio,'visteri.0o','紫藤[zǐ téng]')).
+assert(celo(viŝi,'visx.0i','揩拭[kāi shì]')).
+assert(celo(viŝi,'visx.0i','揩擦[kāi cā]')).
+assert(celo(viŝi,'visx.0i','擦抹[cā mǒ]')).
+assert(celo(viŝi,'visx.0i','擦掉[cā diào]')).
+assert(celo(viŝi,'visx.0i','拭除[shì chú]')).
+assert(celo(viŝi,'visx.0i','擦拭[cā shì]')).
+assert(celo(viŝi,'visx.0i','揾[wèn],搵[wèn]')).
+assert(celo(viŝi,'visx.0i','擦[cā]')).
+assert(celo(viŝilo,'visx.0ilo','巾[jīn]')).
+assert(celo(deviŝi,'visx.de0i','抹掉[mǒ diào]')).
+assert(celo(deviŝi,'visx.de0i','抹[mā]')).
+assert(celo(deviŝi,'visx.de0i','揩擦[kāi cā]')).
+assert(celo(deviŝi,'visx.de0i','擦刷[cā shuà]')).
+assert(celo(deviŝi,'visx.de0i','拭除[shì chú]')).
+assert(celo(elviŝi,'visx.el0i.MOV','抹掉[mǒ diào]')).
+assert(celo(forviŝi,'visx.for0i','抹掉[mǒ diào]')).
+assert(celo(forviŝi,'visx.for0i','幯[jié]')).
+assert(celo(forviŝi,'visx.for0i','揾[wèn],搵[wèn]')).
+assert(celo(forviŝi,'visx.for0i','删掉[shān diào],刪掉[shān diào]')).
+assert(celo(glacoviŝilo,'visx.glaco0ilo','雨刷[yǔ shuā]')).
+assert(celo(neforviŝebla,'visx.nefor0ebla','不可磨滅[bù kě mó miè],不可磨灭[bù kě mó miè]')).
+assert(celo(neforviŝebla,'visx.nefor0ebla','不可磨滅的[bù kě mó miè de],不可磨灭的[bù kě mó miè de]')).
+assert(celo(neforviŝebla,'visx.nefor0ebla','不能抹杀[bù néng mǒ shā],不能抹殺[bù néng mǒ shā]')).
+assert(celo(neforviŝebla,'visx.nefor0ebla','压不住[yā bu zhù],壓不住[yā bu zhù]')).
+assert(celo(neforviŝebla,'visx.nefor0ebla','抹不掉[mǒ bù diào]')).
+assert(celo(neforviŝebla,'visx.nefor0ebla','不能消除[bù néng xiāo chú]')).
+assert(celo(polvoviŝilo,'visx.polvo0ilo','笰[fú]')).
+assert(celo('Viŝnuo','visxnu.0o','毗湿奴[pí shī nú],毗濕奴[pí shī nú]')).
+assert(celo(vito,'vit.0o','葡萄树[pú táo shù],葡萄樹[pú táo shù]')).
+assert(celo(vitamino,'vitamin.0o','維他命[wéi tā mìng],维他命[wéi tā mìng]')).
+assert(celo(vitamino,'vitamin.0o','維生素[wéi shēng sù],维生素[wéi shēng sù]')).
+assert(celo('Vittenberg','vitenberg.0o.urbo','維滕貝格[wéi téng bèi gé],维滕贝格[wéi téng bèi gé]')).
+assert(celo('Vittenberg','vitenberg.0o.urbo','維騰堡[wéi téng bǎo],维腾堡[wéi téng bǎo]')).
+assert(celo(vitra,'vitr.0a','玻璃似[bō li sì]')).
+assert(celo(vitrego,'vitr.0ego','橱窗[chú chuāng],櫥窗[chú chuāng]')).
+assert(celo(vitrego,'vitr.0ego','展覽櫥窗[zhǎn lǎn chú chuāng],展览橱窗[zhǎn lǎn chú chuāng]')).
+assert(celo(vitro,'vitr.0o','玻璃[bō li]')).
+assert(celo(vitro,'vitr.0o','玻[bō]')).
+assert(celo(vitro,'vitr.0o','璃[lí]')).
+assert(celo('pligrandiga vitro','vitr.grandiga0o','放大鏡[fàng dà jìng],放大镜[fàng dà jìng]')).
+assert(celo('pligrandiga vitro','vitr.grandiga0o','強力放大鏡[qiáng lì fàng dà jìng],强力放大镜[qiáng lì fàng dà jìng]')).
+assert(celo(okulvitroj,'vitr.okul0oj','眼鏡[yǎn jìng],眼镜[yǎn jìng]')).
+assert(celo(okulvitroj,'vitr.okul0oj','老花鏡[lǎo huā jìng],老花镜[lǎo huā jìng]')).
+assert(celo(okulvitroj,'vitr.okul0oj','玻璃鏡片[bō li jìng piàn],玻璃镜片[bō li jìng piàn]')).
+assert(celo(viva,'viv.0a','活着[huó zhe],活著[huó zhe]')).
+assert(celo(viva,'viv.0a','有生命[yǒu shēng mìng]')).
+assert(celo(viva,'viv.0a','有生气[yǒu shēng qì],有生氣[yǒu shēng qì]')).
+assert(celo(viva,'viv.0a','活生生[huó shēng shēng]')).
+assert(celo(viva,'viv.0a','神气[shén qì],神氣[shén qì]')).
+assert(celo(viva,'viv.0a','活态[huó tài],活態[huó tài]')).
+assert(celo(viva,'viv.0a','传神[chuán shén],傳神[chuán shén]')).
+assert(celo(viva,'viv.0a','存活[cún huó]')).
+assert(celo(vivaĵo,'viv.0ajxo','生灵[shēng líng],生靈[shēng líng]')).
+assert(celo(vivaĵo,'viv.0ajxo','创造物[chuàng zào wù],創造物[chuàng zào wù]')).
+assert(celo(viveco,'viv.0eco','生气[shēng qì],生氣[shēng qì]')).
+assert(celo(viveco,'viv.0eco','活力[huó lì]')).
+assert(celo(viveco,'viv.0eco','元气[yuán qì],元氣[yuán qì]')).
+assert(celo(viveco,'viv.0eco','生命力[shēng mìng lì]')).
+assert(celo(viveco,'viv.0eco','生意[shēng yì]')).
+assert(celo(vivigi,'viv.0igi','活跃[huó yuè],活躍[huó yuè]')).
+assert(celo(vivigi,'viv.0igi','搞活[gǎo huó]')).
+assert(celo(vivipova,'viv.0pova','能生存[néng shēng cún]')).
+assert(celo(vivipova,'viv.0pova','能生育[néng shēng yù]')).
+assert(celo(vivipova,'viv.0pova','能养活[néng yǎng huo],能養活[néng yǎng huo]')).
+assert(celo(vivulo,'viv.0ulo','生灵[shēng líng],生靈[shēng líng]')).
+assert(celo(vivukrio,'viv.0uo','讙[huān]')).
+assert(celo(dumviva,'viv.dum0a','終身[zhōng shēn],终身[zhōng shēn]')).
+assert(celo(kunvivanto,'viv.kun0anto.kamarado','伴侣[bàn lǔ:],伴侶[bàn lǔ:]')).
+assert(celo(kunvivanto,'viv.kun0anto.kamarado','老伴[lǎo bàn]')).
+assert(celo(kunvivanto,'viv.kun0anto.kamarado','伙伴[huǒ bàn]')).
+assert(celo(kunvivanto,'viv.kun0anto.kamarado','伴[bàn]')).
+assert(celo(kunvivanto,'viv.kun0anto.kamarado','俦[chóu],儔[chóu]')).
+assert(celo(kunvivanto,'viv.kun0anto.kamarado','俪[lì],儷[lì]')).
+assert(celo(kunvivi,'viv.kun0i','同居[tóng jū]')).
+assert(celo(kunvivi,'viv.kun0i','一起生活[yī qǐ shēng huó]')).
+assert(celo(kunvivi,'viv.kun0i','局住[jú zhù]')).
+assert(celo(kunvivado,'viv.kun0o','共同生活[gòng tóng shēng huó]')).
+assert(celo(longviva,'viv.long0a','長壽[cháng shòu],长寿[cháng shòu]')).
+assert(celo(longviva,'viv.long0a','耐用[nài yòng]')).
+assert(celo(longviva,'viv.long0a','壽命長[shòu mìng cháng],寿命长[shòu mìng cháng]')).
+assert(celo(malviva,'viv.mal0a','死了[sǐ le]')).
+assert(celo(porvivo,'viv.por0ajxo','贍養[shàn yǎng],赡养[shàn yǎng]')).
+assert(celo(postvivi,'viv.post0i','幸存[xìng cún]')).
+assert(celo(postvivi,'viv.post0i','生还[shēng huán],生還[shēng huán]')).
+assert(celo(postvivi,'viv.post0i','残存[cán cún],殘存[cán cún]')).
+assert(celo(postvivi,'viv.post0i','存[cún]')).
+assert(celo(postvivi,'viv.post0i','生存[shēng cún]')).
+assert(celo(revivigi,'viv.re0igi','再生[zài shēng]')).
+assert(celo(reviviĝi,'viv.re0igxi','复苏[fù sū],復蘇[fù sū]')).
+assert(celo(reviviĝi,'viv.re0igxi','苏生[sū shēng],蘇生[sū shēng]')).
+assert(celo(reviviĝi,'viv.re0igxi','起死回生[qǐ sǐ huí shēng]')).
+assert(celo(reviviĝi,'viv.re0igxi','复活[fù huó],復活[fù huó]')).
+assert(celo(reviviĝo,'viv.re0igxo','更生[gēng shēng]')).
+assert(celo(reviviĝo,'viv.re0igxo','复活[fù huó],復活[fù huó]')).
+assert(celo(senviva,'viv.sen0a','死寂[sǐ jí]')).
+assert(celo(senviva,'viv.sen0a','毫无生气[háo wú shēng qì],毫無生氣[háo wú shēng qì]')).
+assert(celo(senviva,'viv.sen0a','沒有生命[méi yǒu shēng mìng],没有生命[méi yǒu shēng mìng]')).
+assert(celo(senvivaĵo,'viv.sen0ajxo','玩艺[wán yì],玩藝[wán yì]')).
+assert(celo(senviviĝi,'viv.sen0igxi','丧命[sàng mìng],喪命[sàng mìng]')).
+assert(celo(senviviĝi,'viv.sen0igxi','丧生[sàng shēng],喪生[sàng shēng]')).
+assert(celo(senviviĝi,'viv.sen0igxi','丧身[sàng shēn],喪身[sàng shēn]')).
+assert(celo(supervivi,'viv.super0i','幸存[xìng cún]')).
+assert(celo(supervivi,'viv.super0i','生还[shēng huán],生還[shēng huán]')).
+assert(celo(travivi,'viv.tra0i.sperti','經歷[jīng lì],经历[jīng lì]')).
+assert(celo(travivi,'viv.tra0i.sperti','体验[tǐ yàn],體驗[tǐ yàn]')).
+assert(celo(travivi,'viv.tra0i.sperti','历练[lì liàn],歷練[lì liàn]')).
+assert(celo(travivaĵo,'viv.tra0o','經歷[jīng lì],经历[jīng lì]')).
+assert(celo(travivaĵo,'viv.tra0o','閱歷[yuè lì],阅历[yuè lì]')).
+assert(celo(travivaĵo,'viv.tra0o','見識[jiàn shi],见识[jiàn shi]')).
+assert(celo(transvivi,'viv.trans0i','經歷[jīng lì],经历[jīng lì]')).
+assert(celo(transvivi,'viv.trans0i','幸存[xìng cún]')).
+assert(celo(transvivi,'viv.trans0i','生还[shēng huán],生還[shēng huán]')).
+assert(celo(vivero,'viver.0o','麝香猫[shè xiāng māo],麝香貓[shè xiāng māo]')).
+assert(celo(vivero,'viver.0o','麝猫[shè māo],麝貓[shè māo]')).
+assert(celo(vivero,'viver.0o','灵猫[líng māo],靈貓[líng māo]')).
+assert(celo(vivero,'viver.0o','果子狸[guó zǐ māo]')).
+assert(celo(vizo,'viz.0o','签证[qiān zhèng],簽證[qiān zhèng]')).
+assert(celo(vizaĝalvizaĝe,'vizagx.0al0e','相向[xiāng xiàng]')).
+assert(celo(vizaĝalvizaĝe,'vizagx.0al0e','零距离[líng jù lí],零距離[líng jù lí]')).
+assert(celo(vizaĝalvizaĝe,'vizagx.0al0e','覿[dí],觌[dí]')).
