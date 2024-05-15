@@ -1360,3 +1360,104 @@ assert(celo(vigligi,'vigl.0igi.KOMUNE','勉励[miǎn lì],勉勵[miǎn lì]')).
 assert(celo(vigligi,'vigl.0igi.KOMUNE','促动[cù dòng],促動[cù dòng]')).
 assert(celo(vigliĝi,'vigl.0igxi','振作[zhèn zuò]')).
 assert(celo(vigliĝi,'vigl.0igxi.KOMUNE','睡醒[shuì xǐng]')).
+assert(celo(vigleco,'vigl.0o','戒心[jiè xīn]')).
+assert(celo(vigleco,'vigl.0o','生气[shēng qì],生氣[shēng qì]')).
+assert(celo(vigleco,'vigl.0o','翛[shù]')).
+assert(celo(malvigla,'vigl.mal0a','怠惰[dài duò]')).
+assert(celo(malvigla,'vigl.mal0a','慢轉[màn zhuǎn],慢转[màn zhuǎn]')).
+assert(celo(malvigla,'vigl.mal0a','苶[nié]')).
+assert(celo(malvigli,'vigl.mal0i','犯困[fàn kùn]')).
+assert(celo(malvigligi,'vigl.mal0igi','使人疲劳[shǐ rén pí láo],使人疲勞[shǐ rén pí láo]')).
+assert(celo(malvigligi,'vigl.mal0igi','使困倦[shǐ kùn juàn]')).
+assert(celo(malvigligi,'vigl.mal0igi','使疲倦[shǐ pí juàn]')).
+assert(celo(malvigligi,'vigl.mal0igi','精疲力尽[jīng pí lì jìn],精疲力盡[jīng pí lì jìn]')).
+assert(celo(malvigligi,'vigl.mal0igi','疲倦[pí juàn]')).
+assert(celo(malvigleco,'vigl.mal0o','倦意[juàn yì]')).
+assert(celo(malvigleco,'vigl.mal0o','惯性原理[guàn xìng yuán lǐ],慣性原理[guàn xìng yuán lǐ]')).
+assert(celo(revigligi,'vigl.re0igi','搞活[gǎo huó]')).
+assert(celo(revigliĝi,'vigl.re0igxi','恢复[huī fù],恢復[huī fù]')).
+assert(celo(revigliĝi,'vigl.re0igxi','很快恢复过来[hěn kuài huī fù guò lái],很快恢復過來[hěn kuài huī fù guò lái]')).
+assert(celo(vikio,'viki.0o','維基[wéi jī],维基[wéi jī]')).
+assert(celo(vikingo,'viking.0o','維京人[Wéi jīng rén],维京人[Wéi jīng rén]')).
+assert(celo(viktimigi,'viktim.0igi','害人[hài rén]')).
+assert(celo(viktimo,'viktim.0o','伤亡[shāng wáng],傷亡[shāng wáng]')).
+assert(celo(viktimo,'viktim.0o','伤者[shāng zhě],傷者[shāng zhě]')).
+assert(celo(viktimo,'viktim.0o','受害人[shòu hài rén]')).
+assert(celo(viktimo,'viktim.0o','死难者[sǐ nán zhě],死難者[sǐ nán zhě]')).
+assert(celo(viktimo,'viktim.0o','遇难者[yù nàn zhě],遇難者[yù nàn zhě]')).
+assert(celo(viktimo,'viktim.0o','受害者[shòu hài zhě]')).
+assert(celo('Viktoro','viktor.0o','維克多[wéi kè duō],维克多[wéi kè duō]')).
+assert(celo('Viktoro','viktor.0o','維克托[Wéi kè tuō],维克托[Wéi kè tuō]')).
+assert(celo('Viktorio','viktori.0o.cxefurbo','維多利亞[Wéi duō lì yà],维多利亚[Wéi duō lì yà]')).
+assert(celo('Viktorio','viktori.0o.cxefurbo','維多利亞州[Wéi duō lì yà zhōu],维多利亚州[Wéi duō lì yà zhōu]')).
+assert(celo('Viktorio','viktori.0o.lago','維多利亞湖[Wéi duō lì yà Hú],维多利亚湖[Wéi duō lì yà Hú]')).
+assert(celo(vila,'vil.0a','毵[sān],毿[sān]')).
+assert(celo(vila,'vil.0a','髟[biāo]')).
+assert(celo(vilo,'vil.0o','絨毛[róng máo],绒毛[róng máo]')).
+assert(celo(vilo,'vil.0o','長茸毛[zhǎng róng máo],长茸毛[zhǎng róng máo]')).
+assert(celo(vilao,'vila.0o','別墅[bié shù],别墅[bié shù]')).
+assert(celo(vilao,'vila.0o','墅[shù]')).
+assert(celo(vilao,'vila.0o','別莊[bié zhuāng],别庄[bié zhuāng]')).
+assert(celo(vilaĝano,'vilagx.0ano','村民[cūn mín]')).
+assert(celo(vilaĝano,'vilagx.0ano','裡人[lǐ rén],里人[lǐ rén]')).
+assert(celo(vilaĝano,'vilagx.0ano','乡下人[xiāng xià rén],鄉下人[xiāng xià rén]')).
+assert(celo(vilaĝo,'vilagx.0o','村庄[cūn zhuāng],村莊[cūn zhuāng]')).
+assert(celo(vilaĝo,'vilagx.0o','邑[yì]')).
+assert(celo(vilaĝo,'vilagx.0o','庄[zhuāng],莊[zhuāng]')).
+assert(celo(vilaĝo,'vilagx.0o','农村[nóng cūn],農村[nóng cūn]')).
+assert(celo(vilaĝo,'vilagx.0o','屯[tún]')).
+assert(celo(vilaĝo,'vilagx.0o','村子[cūn zi]')).
+assert(celo(vilaĝo,'vilagx.0o','村里[cūn lǐ]')).
+assert(celo(vilaĝo,'vilagx.0o','閈[hàn]')).
+assert(celo(vilaĝo,'vilagx.0o','庉[dùn]')).
+assert(celo(vilaĝo,'vilagx.0o','村[cūn]')).
+assert(celo(vilaĝo,'vilagx.0o','鄕[xiāng]')).
+assert(celo('Vilniuso','viln.0o.cxefurbo','維爾紐斯[wéi ěr niǔ sī],维尔纽斯[wéi ěr niǔ sī]')).
+assert(celo(vimeno,'vimen.0o','柳条[liǔ tiáo],柳條[liǔ tiáo]')).
+assert(celo(vimplo,'vimpl.0o','旛[fān]')).
+assert(celo(vinberujo,'vin.0berarbo','小广播[xiǎo guǎng bō],小廣播[xiǎo guǎng bō]')).
+assert(celo(vinberujo,'vin.0berarbo','葡萄树[pú táo shù],葡萄樹[pú táo shù]')).
+assert(celo(vinberujo,'vin.0berarbo','葡萄[pú táo]')).
+assert(celo(vinberĝardeno,'vin.0bergxardeno','葡萄园[pú táo yuán],葡萄園[pú táo yuán]')).
+assert(celo(vinberĝardeno,'vin.0bergxardeno','葡萄山[pú táo shān]')).
+assert(celo(vinberĝardeno,'vin.0bergxardeno','葡萄种植园[pú táo zhòng zhí yuán],葡萄種植園[pú táo zhòng zhí yuán]')).
+assert(celo(vinejo,'vin.0ejo','酒肆[jiǔ sì]')).
+assert(celo(vinisto,'vin.0isto','葡萄农[pú táo nóng],葡萄農[pú táo nóng]')).
+assert(celo(vinisto,'vin.0isto','种采葡萄者[zhǒng cǎi pú táo zhě],種採葡萄者[zhǒng cǎi pú táo zhě]')).
+assert(celo(mielvino,'vin.miel0o','蜂蜜酒[fēng mì jiǔ]')).
+assert(celo(palmvino,'vin.palmo0o','棕榈汁[zōng lǘ zhī],棕櫚汁[zōng lǘ zhī]')).
+assert(celo(palmvino,'vin.palmo0o','棕榈酒[zōng lǘ jiǔ],棕櫚酒[zōng lǘ jiǔ]')).
+assert(celo(pomvino,'vin.pom0o','苹果酒[píng guǒ jiǔ],蘋果酒[píng guǒ jiǔ]')).
+assert(celo(ŝaŭmvino,'vin.sxauxm0o','起泡酒[qǐ pào jiǔ]')).
+assert(celo(ŝaŭmvino,'vin.sxauxm0o','香槟酒[xiāng bīn jiǔ],香檳酒[xiāng bīn jiǔ]')).
+assert(celo(ŝaŭmvino,'vin.sxauxm0o','香槟[xiāng bīn],香檳[xiāng bīn]')).
+assert(celo(ŝaŭmvino,'vin.sxauxm0o','含二氧化碳的酒[hán èr yǎng huà tàn de jiǔ]')).
+assert(celo(ŝaŭmvino,'','汽酒[qì jiǔ]')).
+assert(celo(vinagro,'vinagr.0o','白醋[bái cù]')).
+assert(celo(vinagro,'vinagr.0o','食醋[shí cù]')).
+assert(celo(vinao,'','尼亚[ní yà],尼亞[ní yà]')).
+assert(celo('Vincento','vincent.0o','文森特[wén sēn tè]')).
+assert(celo(vinĉo,'vincx.0o','絞車[jiǎo chē],绞车[jiǎo chē]')).
+assert(celo(vindaĵo,'vind.0ajxo','尿布[niào bù]')).
+assert(celo(vindaĵo,'vind.0ajxo','尿片[niào piàn]')).
+assert(celo(vindaĵo,'vind.0ajxo','尿片[suī piàn]')).
+assert(celo(vindaĵo,'vind.0ajxo','褯[jiè]')).
+assert(celo(vindaĵo,'vind.0ajxo','襁褓[qiǎng bǎo]')).
+assert(celo(vindaĵo,'vind.0ajxo','裼[tì]')).
+assert(celo(vindo,'vind.0o','綁帶[bǎng dài],绑带[bǎng dài]')).
+assert(celo(vindo,'vind.0o','尿布[niào bù]')).
+assert(celo(vindo,'vind.0o','尿片[suī piàn]')).
+assert(celo(vindo,'vind.0o','襁褓[qiǎng bǎo]')).
+assert(celo(vindo,'vind.0o','裼[tì]')).
+assert(celo(vindotablo,'','尿垫[niào diàn],尿墊[niào diàn]')).
+assert(celo(vindotuko,'vind.0otuko','襁褓[qiǎng bǎo]')).
+assert(celo(vindaso,'vindas.0o','轆[lù],辘[lù]')).
+assert(celo(vindaso,'vindas.0o','轤[lú],轳[lú]')).
+assert(celo(vindaso,'vindas.0o','絞車[jiǎo chē],绞车[jiǎo chē]')).
+assert(celo('Vindhuko','vindhuk.0o','温得和克[Wēn dé hé kè],溫得和克[Wēn dé hé kè]')).
+assert(celo('Vindozo','vindoz.0o','視窗[Shì chuāng],视窗[Shì chuāng]')).
+assert(celo(vinilo,'vinil.0o','黑胶[hēi jiāo],黑膠[hēi jiāo]')).
+assert(celo(vinjeto,'vinjet.0o','花紋[huā wén],花纹[huā wén]')).
+retract(celo(vinjeto,'vinjet.0o','花紋[huā wén],花纹[huā wén]')).
+assert(celo(vinkti,'vinkt.0i.niti','使固定[shǐ gù dìng]')).
+assert(celo(vinkti,'vinkt.0i.niti','鉚[mǎo],铆[mǎo]')).
