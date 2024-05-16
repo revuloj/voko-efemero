@@ -1731,3 +1731,113 @@ assert(celo(vizo,'viz.0o','签证[qiān zhèng],簽證[qiān zhèng]')).
 assert(celo(vizaĝalvizaĝe,'vizagx.0al0e','相向[xiāng xiàng]')).
 assert(celo(vizaĝalvizaĝe,'vizagx.0al0e','零距离[líng jù lí],零距離[líng jù lí]')).
 assert(celo(vizaĝalvizaĝe,'vizagx.0al0e','覿[dí],觌[dí]')).
+assert(celo(vizaĝo,'vizagx.0o','面容[miàn róng]')).
+assert(celo(vizaĝo,'vizagx.0o.ANA','脸面[liǎn miàn],臉面[liǎn miàn]')).
+assert(celo(vizaĝo,'vizagx.0o.ANA','脸庞[liǎn páng],臉龐[liǎn páng]')).
+assert(celo(vizaĝo,'vizagx.0o.ANA','面孔[miàn kǒng]')).
+assert(celo(vizaĝo,'vizagx.0o.ANA','脸孔[liǎn kǒng],臉孔[liǎn kǒng]')).
+assert(celo(vizaĝo,'vizagx.0o.ANA','脸部[liǎn bù],臉部[liǎn bù]')).
+assert(celo(vizaĝo,'vizagx.0o.ANA','面部[miàn bù]')).
+assert(celo(vizaĝo,'vizagx.0o.ANA','面容[miàn róng]')).
+assert(celo(vizaĝo,'vizagx.0o.ANA','气色[qì sè],氣色[qì sè]')).
+assert(celo(vizaĝo,'vizagx.0o.ANA','容貌[róng mào]')).
+assert(celo('Vizbadeno','vizbaden.V0o','威斯巴登[wēi sī bā dēng]')).
+assert(celo(vizii,'vizi.0i','心血來潮[xīn xuè lái cháo],心血来潮[xīn xuè lái cháo]')).
+assert(celo(vizio,'vizi.0o.FIG','眼光[yǎn guāng]')).
+assert(celo(vizio,'vizi.0o.FIG','远见[yuǎn jiàn],遠見[yuǎn jiàn]')).
+assert(celo(viziisto,'vizi.0ulo.KOMUNE','夢想者[mèng xiǎng zhě],梦想者[mèng xiǎng zhě]')).
+assert(celo(viziisto,'vizi.0ulo.KOMUNE','好幻想的人[hǎo huàn xiǎng de rén]')).
+assert(celo(viziisto,'vizi.0ulo.KOMUNE','幻想家[huàn xiǎng jiā]')).
+assert(celo(vizio,'','影像[yǐng xiàng]')).
+assert(celo(viziulo,'vizi.0ulo.KOMUNE','預言家[yù yán jiā],预言家[yù yán jiā]')).
+assert(celo(viziulo,'vizi.0ulo.KOMUNE','优秀的策划者[yōu xiù de cè huà zhě],優秀的策劃者[yōu xiù de cè huà zhě]')).
+assert(celo(viziulo,'vizi.0ulo.KOMUNE','幕后操作的人[mù hòu cāo zuò de rén],幕後操作的人[mù hòu cāo zuò de rén]')).
+assert(celo(viziero,'vizier.0o','面罩[miàn zhào]')).
+assert(celo(viziero,'vizier.0o.kaska','取景器[qǔ jǐng qì]')).
+assert(celo(viziero,'vizier.0o.kaska','后视[hòu shì],後視[hòu shì]')).
+retract(celo(viziero,'vizier.0o.kaska','取景器[qǔ jǐng qì]')).
+assert(celo(vizitadi,'vizit.0adi','常去[cháng qù]')).
+assert(celo(vizitadi,'vizit.0adi','交往[jiāo wǎng]')).
+assert(celo(vizitadi,'vizit.0adi','來往[lái wǎng],来往[lái wǎng]')).
+assert(celo(vizitanto,'vizit.0anto','來訪者[lái fǎng zhě],来访者[lái fǎng zhě]')).
+assert(celo(vizitanto,'vizit.0anto','來賓[lái bīn],来宾[lái bīn]')).
+assert(celo(vizitanto,'vizit.0anto','訪客[fǎng kè],访客[fǎng kè]')).
+assert(celo(vizitanto,'vizit.0anto','上門[shàng mén],上门[shàng mén]')).
+retract(celo(vizitanto,'vizit.0anto','上門[shàng mén],上门[shàng mén]')).
+assert(celo(viziti,'vizit.0i','造訪[zào fǎng],造访[zào fǎng]')).
+assert(celo(viziti,'vizit.0i','探望[tàn wàng]')).
+assert(celo(viziti,'vizit.0i','参观[cān guān],參觀[cān guān]')).
+assert(celo(viziti,'vizit.0i','訪客[fǎng kè],访客[fǎng kè]')).
+assert(celo(viziti,'vizit.0i','訪[fǎng],访[fǎng]')).
+assert(celo(viziti,'vizit.0i','走訪[zǒu fǎng],走访[zǒu fǎng]')).
+assert(celo(vizito,'vizit.0o','來訪[lái fǎng],来访[lái fǎng]')).
+assert(celo(vizito,'vizit.0o','探訪[tàn fǎng],探访[tàn fǎng]')).
+assert(celo('Vjentjano','vjentian.0o','永珍[yǒng zhēn]')).
+assert(celo('Vjentjano','vjentian.0o','万象[wàn xiàng],萬象[wàn xiàng]')).
+assert(celo('Vjetnamio','vjetnami.V0o','越南民主共和国[yuè nán mín zhǔ gòng hé guó],越南民主共和國[yuè nán mín zhǔ gòng hé guó]')).
+assert(celo(voĉa,'vocx.0a.FON','口头[kǒu tóu],口頭[kǒu tóu]')).
+assert(celo(voĉdoni,'vocx.0doni','投票[tóu piào]')).
+assert(celo(voĉdoni,'vocx.0doni','表决[biǎo jué],表決[biǎo jué]')).
+assert(celo(voĉe,'vocx.0e.KOMUNE','用声音[yòng shēng yīn],用聲音[yòng shēng yīn]')).
+assert(celo(voĉi,'vocx.0i','投票[tóu piào]')).
+assert(celo(voĉi,'vocx.0i','表决[biǎo jué],表決[biǎo jué]')).
+assert(celo(voĉkordo,'vocx.0kordo','发声器官[fā shēng qì guān],發聲器官[fā shēng qì guān]')).
+assert(celo(voĉkordo,'vocx.0kordo','发音器官[fā yīn qì guān],發音器官[fā yīn qì guān]')).
+assert(celo(voĉo,'vocx.0o','嗓[sǎng]')).
+assert(celo(voĉo,'vocx.0o','嗓門[sǎng mén],嗓门[sǎng mén]')).
+assert(celo(voĉo,'vocx.0o','嗓音[sǎng yīn]')).
+assert(celo(voĉo,'vocx.0o','声[shēng],聲[shēng]')).
+assert(celo(voĉo,'vocx.0o','声音[shēng yīn],聲音[shēng yīn]')).
+assert(celo(duonvoĉe,'vocx.duon0e','低低切切[dī dī qiè qiè]')).
+assert(celo(duonvoĉe,'vocx.duon0e','低声[dī shēng],低聲[dī shēng]')).
+assert(celo(duonvoĉe,'vocx.duon0e','小声[xiǎo shēng],小聲[xiǎo shēng]')).
+assert(celo(duonvoĉe,'vocx.duon0e','悄声[qiǎo shēng],悄聲[qiǎo shēng]')).
+assert(celo(duonvoĉe,'vocx.duon0e','低声细语[dī shēng xì yǔ],低聲細語[dī shēng xì yǔ]')).
+assert(celo('klarigi la voĉon','vocx.klarigila0on','清嗓[qīng sǎng]')).
+assert(celo('klarigi la voĉon','vocx.klarigila0on','清嗓子[qīng sǎng zi]')).
+assert(celo(plurvoĉe,'vocx.plur0e','复调[fù diào],復調[fù diào]')).
+assert(celo(unuvoĉa,'vocx.unu0a','全场一致[quán chǎng yī zhì],全場一致[quán chǎng yī zhì]')).
+assert(celo(unuvoĉa,'vocx.unu0a','满场一致[mǎn chǎng yī zhì],滿場一致[mǎn chǎng yī zhì]')).
+assert(celo(unuvoĉa,'vocx.unu0a','众口一词[zhòng kǒu yī cí],眾口一詞[zhòng kǒu yī cí]')).
+assert(celo(unuvoĉa,'vocx.unu0a','众口同声[zhòng kǒu tóng shēng],眾口同聲[zhòng kǒu tóng shēng]')).
+assert(celo(vodko,'vodk.0o.KUI','伏特加[fú tè jiā]')).
+assert(celo('Voduismo','vodu.0ismo','伏都教[Fú dū jiào]')).
+assert(celo('Voduismo','vodu.0ismo','巫毒显示芯片[wū dú xiǎn shì xìn piàn],巫毒顯示芯片[wū dú xiǎn shì xìn piàn]')).
+assert(celo('Voduismo','vodu.0ismo','伏都教[fú dū jiào]')).
+assert(celo('Voduismo','vodu.0ismo','巫毒教[Wū dú jiào]')).
+assert(celo('Vogezoj','vogez.0oj','孚日[Fú rì]')).
+assert(celo(vojeto,'voj.0eto','小径[xiǎo jìng],小徑[xiǎo jìng]')).
+assert(celo(voji,'voj.0i','行走[xíng zǒu]')).
+assert(celo(vojo,'voj.0o','蹊径[xī jìng],蹊徑[xī jìng]')).
+assert(celo(vojo,'voj.0o','途径[tú jìng],途徑[tú jìng]')).
+assert(celo(vojo,'voj.0o','路程[lù chéng]')).
+assert(celo(vojo,'voj.0o','阡[qiān]')).
+assert(celo(akvovojo,'voj.akvo0o','水路[shuǐ lù]')).
+assert(celo(akvovojo,'voj.akvo0o','渠道[qú dào]')).
+assert(celo(aŭtovojo,'voj.auxto0o','高速公路[gāo sù gōng lù]')).
+assert(celo(biciklovojo,'voj.biciklo0o','单车径[dān chē jìng],單車徑[dān chē jìng]')).
+assert(celo(biciklovojo,'voj.biciklo0o','自行車道[zì xíng chē dào],自行车道[zì xíng chē dào]')).
+assert(celo(ĉirkaŭvojo,'voj.cxirkaux0o.TRA','繞道[rào dào],绕道[rào dào]')).
+assert(celo(ĉirkaŭvoko,'','弯路[wān lù],彎路[wān lù]')).
+assert(celo(devojiĝi,'voj.de0igxi','迷途[mí tú]')).
+assert(celo(devojiĝi,'voj.de0igxi','迷津[mí jīn]')).
+assert(celo(devojiĝi,'voj.de0igxi','偏离[piān lí],偏離[piān lí]')).
+assert(celo(disvojiĝo,'voj.dis0igxo','丫[yā]')).
+assert(celo(disvojiĝo,'voj.dis0igxo','岔[chà]')).
+assert(celo(disvojiĝo,'voj.dis0igxo','交叉路口[jiāo chā lù kǒu]')).
+assert(celo(disvojiĝo,'voj.dis0igxo','岔路口[chà lù kǒu]')).
+assert(celo(disvojiĝo,'voj.dis0igxo','桠[yā],椏[yā]')).
+assert(celo(fervojisto,'voj.fer0isto','鐵路工人[tiě lù gōng rén],铁路工人[tiě lù gōng rén]')).
+assert(celo(fervojo,'voj.fer0o.FER','鐵路[tiě lù],铁路[tiě lù]')).
+assert(celo(fervojo,'voj.fer0o.FER','鐵道[tiě dào],铁道[tiě dào]')).
+assert(celo('fermita vojo','voj.fermita0o','閉環[bì huán],闭环[bì huán]')).
+assert(celo(glitvojo,'voj.glit0o','溜滑梯[liū huá tī]')).
+assert(celo(glitvojo,'voj.glit0o','滑梯[huá tī]')).
+assert(celo(glitvojo,'voj.glit0o','滑槽[huá cáo]')).
+assert(celo(glitvojo,'voj.glit0o','斜道[xié dào]')).
+retract(celo(glitvojo,'voj.glit0o','斜道[xié dào]')).
+assert(celo(haŭlvojo,'voj.hauxl0o','縴道[qiàn dào],纤道[qiàn dào]')).
+assert(celo(kablovojo,'voj.kablo0o.TRA','纜車[lǎn chē],缆车[lǎn chē]')).
+assert(celo(piedvojo,'voj.pied0o','步道[bù dào]')).
+assert(celo(piedvojo,'voj.pied0o','小径[xiǎo jìng],小徑[xiǎo jìng]')).
+assert(celo(piedvojo,'voj.pied0o','小道[xiǎo dào]')).
