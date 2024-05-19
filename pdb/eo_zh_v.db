@@ -2112,3 +2112,85 @@ assert(celo(vringi,'vring.0i','絞乾[jiǎo gān],绞干[jiǎo gān]')).
 assert(celo(elvringi,'vring.el0i','榨取[zhà qǔ]')).
 assert(celo(elvringi,'vring.el0i','压榨[yā zhà],壓榨[yā zhà]')).
 assert(celo('Vroclavo','vroclav.0o.urbo','弗罗茨瓦夫[fú luó cí wǎ fū],弗羅茨瓦夫[fú luó cí wǎ fū]')).
+assert(celo(vuali,'vual.0i','幔子[màn zi]')).
+assert(celo(vuali,'vual.0i','羃[mì]')).
+assert(celo(vualo,'vual.0o','面紗[miàn shā],面纱[miàn shā]')).
+assert(celo(senvuala,'vual.sen0a','不加粉飾[bù jiā fěn shì],不加粉饰[bù jiā fěn shì]')).
+assert(celo(senvuala,'vual.sen0a','坦率[tǎn shuài]')).
+assert(celo(senvuala,'vual.sen0a','仅仅地[jǐn jǐn de],僅僅地[jǐn jǐn de]')).
+assert(celo(senvuala,'vual.sen0a','坦率地[tǎn shuài de]')).
+assert(celo(senvuala,'vual.sen0a','坦白來說[tǎn bái lái shuō],坦白来说[tǎn bái lái shuō]')).
+assert(celo(senvualigi,'vual.sen0igi','說破[shuō pò],说破[shuō pò]')).
+assert(celo(senvualigi,'vual.sen0igi','透露[tòu lù]')).
+assert(celo(senvualigi,'vual.sen0igi','揭破[jiē pò]')).
+assert(celo(senvualigi,'vual.sen0igi','揭穿[jiē chuān]')).
+assert(celo(senvualigi,'vual.sen0igi','揭开[jiē kāi],揭開[jiē kāi]')).
+assert(celo(senvualigi,'vual.sen0igi','泄露[xiè lù]')).
+assert(celo(senvualigi,'vual.sen0igi','公諸於眾[gōng zhū yú zhòng],公诸于众[gōng zhū yú zhòng]')).
+assert(celo('Vulfilo','vulfil.0o','乌尔菲拉[wū ěr fēi lā],烏爾菲拉[wū ěr fēi lā]')).
+assert(celo(vulgara,'vulgar.0a','俗气[sú qì],俗氣[sú qì]')).
+assert(celo(vulgara,'vulgar.0a','卑[bēi]')).
+assert(celo(vulgara,'vulgar.0a','恶俗[è sú],惡俗[è sú]')).
+assert(celo(vulgara,'vulgar.0a','俚[lǐ]')).
+assert(celo(vulgara,'vulgar.0a','不雅[bù yǎ]')).
+assert(celo(vulgara,'vulgar.0a','低俗[dī sú]')).
+assert(celo(malvulgara,'vulgar.mal0a','講究[jiǎng jiu],讲究[jiǎng jiu]')).
+assert(celo(malvulgara,'vulgar.mal0a','典雅[diǎn yǎ]')).
+assert(celo(malvulgara,'vulgar.mal0a','大方[dà fang]')).
+assert(celo(malvulgara,'vulgar.mal0a','彬[bīn]')).
+assert(celo(malvulgara,'vulgar.mal0a','脫俗[tuō sú],脱俗[tuō sú]')).
+assert(celo('Vulgato','vulgat.0o','武加大譯本[wǔ jiā dà yì běn],武加大译本[wǔ jiā dà yì běn]')).
+assert(celo(vulkano,'vulkan.0o','火山[huǒ shān]')).
+assert(celo(vulkano,'vulkan.0o','火神[huǒ shén]')).
+assert(celo(vulkanizi,'vulkan1.0i','硫化[liú huà]')).
+assert(celo(vulpo,'vulp.0o','狐狸[hú li]')).
+assert(celo('Vulpino','vulp.V0ino','狐狸座[Hú li zuò]')).
+assert(celo(vulturo,'vultur.0o.akcipitredo','老雕[lǎo diāo],老鵰[lǎo diāo]')).
+assert(celo(vulturo,'vultur.0o.akcipitredo','雕[diāo],鵰[diāo]')).
+assert(celo(vulturo,'vultur.0o.akcipitredo','鷲鳥[jiù niǎo],鹫鸟[jiù niǎo]')).
+assert(celo(vulvo,'vulv.0o','外阴[wài yīn],外陰[wài yīn]')).
+assert(celo(vulvo,'vulv.0o','女阴[nǔ: yīn],女陰[nǔ: yīn]')).
+assert(celo(vulvo,'vulv.0o','阴户[yīn hù],陰戶[yīn hù]')).
+assert(celo(vulvo,'vulv.0o','阴道口[yīn dào kǒu],陰道口[yīn dào kǒu]')).
+assert(celo(vulvo,'vulv.0o','阴门[yīn mén],陰門[yīn mén]')).
+assert(celo(vulvo,'vulv.0o','女阴[nǚ yīn],女陰[nǚ yīn]')).
+assert(celo(vulvo,'vulv.0o','女性外生殖器[nǚ xìng wài shēng zhí qì]')).
+assert(celo(vulvo,'vulv.0o','女性阴部[nǚ xìng yīn bù],女性陰部[nǚ xìng yīn bù]')).
+assert(celo(vulvo,'vulv.0o','屄屄[bī bī]')).
+assert(celo('vunda loko','vund.0aloko','痛处[tòng chù],痛處[tòng chù]')).
+assert(celo('vunda loko','vund.0aloko.ebla','弱点[ruò diǎn],弱點[ruò diǎn]')).
+assert(celo('vunda loko','vund.0aloko.ebla','缺点[quē diǎn],缺點[quē diǎn]')).
+assert(celo('vunda loko','vund.0aloko.ebla','軟肋[ruǎn lèi],软肋[ruǎn lèi]')).
+assert(celo('vunda loko','vund.0aloko.ebla','軟肋[ruǎn lè],软肋[ruǎn lè]')).
+assert(celo(vundi,'vund.0i','伤[shāng],傷[shāng]')).
+assert(celo(vundi,'vund.0i','惎[jì]')).
+assert(celo(vundi,'vund.0i','刿[guì],劌[guì]')).
+assert(celo(vundi,'vund.0i','伤员[shāng yuán],傷員[shāng yuán]')).
+assert(celo(vundiĝi,'vund.0igxi','摔伤[shuāi shāng],摔傷[shuāi shāng]')).
+assert(celo(vundoloko,'vund.0loko','痛处[tòng chù],痛處[tòng chù]')).
+assert(celo(vundo,'vund.0o','伤[shāng],傷[shāng]')).
+assert(celo(vundo,'vund.0o','伤口[shāng kǒu],傷口[shāng kǒu]')).
+assert(celo(vundo,'vund.0o','外伤[wài shāng],外傷[wài shāng]')).
+assert(celo(vundo,'vund.0o','创伤[chuāng shāng],創傷[chuāng shāng]')).
+assert(celo(vundo,'vund.0o','创[chuāng],創[chuāng]')).
+assert(celo(vundo,'vund.0o','痍[yí]')).
+assert(celo(brulvundi,'vund.brul0i','烫伤[tàng shāng],燙傷[tàng shāng]')).
+assert(celo(frostovundo,'vund.frosto0o','冻伤[dòng shāng],凍傷[dòng shāng]')).
+assert(celo(frostovundo,'vund.frosto0o','瘃[zhú]')).
+assert(celo(frostovundo,'vund.frosto0o','冻疮[dòng chuāng],凍瘡[dòng chuāng]')).
+assert(celo(frostovundo,'vund.frosto0o','霜害[shuāng hài]')).
+assert(celo(gratvundi,'vund.grat0i','划[huá],劃[huá]')).
+assert(celo(skrapvundo,'vund.skrap0o','磨伤[mó shāng],磨傷[mó shāng]')).
+assert(celo(tranĉvundi,'vund.trancx0i','割[gē]')).
+assert(celo(tranĉvundi,'vund.trancx0i','划[huá],劃[huá]')).
+assert(celo(gratvundi,'','划伤[huá shāng],劃傷[huá shāng]')).
+assert(celo(tranĉvundo,'vund.trancx0o','伤口[shāng kǒu],傷口[shāng kǒu]')).
+assert(celo(tranĉvundo,'vund.trancx0o','刀口[dāo kǒu]')).
+assert(celo(tranĉvundo,'vund.trancx0o','栔[qì]')).
+assert(celo(tranĉvundo,'vund.trancx0o','刀伤[dāo shāng],刀傷[dāo shāng]')).
+assert(celo('Virtembergo','vurtemberg.0o','符腾堡[Fú téng bǎo],符騰堡[Fú téng bǎo]')).
+assert(celo('Badeno-Virtembergo','vurtemberg.Baden0o','巴登符滕堡州[bā dēng fú téng bǎo zhōu]')).
+assert(celo('Badeno-Virtembergo','vurtemberg.Baden0o','巴登符腾堡[bā dēng fú téng bǎo],巴登符騰堡[bā dēng fú téng bǎo]')).
+assert(celo(vuvuzelo,'vuvuzel.0o','呜呜祖拉[wū wū zǔ lā],嗚嗚祖拉[wū wū zǔ lā]')).
+assert(celo(vuvuzelo,'vuvuzel.0o','嗡嗡祖拉[wēng wēng zǔ lā]')).
+assert(celo('Badeno-Virtembergo','','巴符州[bā fú zhōu]')).
