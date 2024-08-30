@@ -1,0 +1,833 @@
+Acor/o/j
+Adelajd/o
+Aden/o
+Adriatik/o
+afgan/o
+Afgan/uj/o
+afgan/a
+Afrik/o
+Centr‑Afrik/o
+Okcident‑Afrik/o
+Sud‑Afrik/o
+Akad/o
+akad/an/o
+akad/a
+Alask/o
+Aleksandri/o
+Alp/o/j
+Alt/a/j Alp/o/j
+Mar/bord/a/j Alp/o/j
+Alzac/o
+alzac/an/o
+alzac/a
+Amazon/o
+Amerik/o
+Centr‑Amerik/o
+Nord‑Amerik/o
+Sud‑Amerik/o
+Amsterdam/o
+And/o/j
+Andor/o
+Angol/o
+Antigv/o
+Antigv/o kaj Barbud/o
+Antil/o/j
+Grand/a/j Antil/o/j
+Mal/grand/a/j Antil/o/j
+Antverpen/o
+Apolon/o
+arb/o
+Nigr/a Arb/ar/o
+Argentin/o
+Asiri/o
+asiri/an/o
+asiri/a
+Aten/o
+Aŭgsburg/o
+aŭstr/o
+Aŭstr/uj/o
+aŭstr/a
+Aŭstr/a Imperi/o
+Aŭstr/uj/o‑Hungar/uj/o
+Mal/supr/a Aŭstr/uj/o
+Supr/a Aŭstr/uj/o
+Aŭstronezi/o
+aŭstronezi/a
+Azerbajĝan/o
+azerbajĝan/an/o
+azerbajĝan/a
+Okcident/a Azerbajĝan/o
+Orient/a Azerbajĝan/o
+Azi/o
+Mal/grand‑Azi/o
+Orient‑Azi/o
+Sud‑Azi/o
+aztek/o
+aztek/a
+Babilon/o
+babilon/an/o
+babilon/a
+Bagdad/o
+Baham/o/j
+Grand/a Baham/o
+Balkan/o
+balkan/a
+balt/o
+Balt/uj/o
+balt/a
+balt/a/j lingv/o/j
+Bangladeŝ/o
+Bankok/o
+bantu/o
+bantu/a
+Barat/o
+Barbad/o
+Barbud/o
+Barcelon/o
+Barejn/o
+baŝkir/o
+Baŝkir/uj/o
+baŝkir/a
+bavar/o
+Bavar/uj/o
+bavar/a
+Belfast/o
+Beliz/o
+belorus/o
+Belorus/uj/o
+belorus/a
+bengal/o
+Bengal/land/o
+Okcident/a Bengal/land/o
+bengal/a
+Benin/o
+Beograd/o
+Bergen/o
+Bern/o
+Bisaŭ/o
+Bizanc/o
+Bjalistok/o
+Bocvan/o
+Bogot/o
+bohem/o
+Bohem/uj/o
+Bolonj/o
+Bon/aer/o
+bord/o
+Ebur‑Bord/o
+Lazur/a Bord/o
+Borne/o
+bosn/o
+Bosn/uj/o
+Bosn/uj/o kaj Hercegovin/o
+bosn/a
+Bospor/o
+Boston/o
+Brajton/o
+Bratislav/o
+Brazavil/o
+Brazilj/o
+breton/o
+Breton/uj/o
+breton/a
+Brunej/o
+brunej/an/o
+brunej/a
+Brusel/o
+Budapeŝt/o
+Bukareŝt/o
+Burkin/o
+Burund/o
+Butan/o
+Cezar/o
+cezar/a
+Ĉad/o
+ĉeĉen/o
+Ĉeĉen/uj/o
+ĉeĉen/a
+ĉeĥ/o
+Ĉeĥ/uj/o
+ĉeĥ/a
+Ĉenaj/o
+Ĉikag/o
+Ĉili/o
+ĉin/o
+Hind/o/ĉin/uj/o
+ĉuvaŝ/o
+Ĉuvaŝ/uj/o
+ĉuvaŝ/a
+Dak/o
+Dalas/o
+Damask/o
+Dancig/o
+Danub/o
+Delhi/o
+Nov‑Delhi/o
+Dominik/o
+Dominik/a Respublik/o
+dravid/o
+dravid/a
+dravid/a/j lingv/o/j
+Dresden/o
+Dublin/o
+Edinburg/o
+Ege/o
+egipt/o
+Egipt/uj/o
+egipt/a
+Elam/o
+elam/an/o
+elam/a
+emir/o
+emir/land/o
+Unu/iĝ/int/a/j Arab/a/j Emir/land/o/j
+era/o
+ni/a era/o
+Eritre/o
+etrusk/o
+Etrusk/uj/o
+etrusk/a
+Eŭfrat/o
+Eŭrop/o
+Mez‑Eŭrop/o
+hind/eŭrop/a/j lingv/o/j
+eŭsk/o
+Eŭsk/uj/o
+eŭsk/a
+fenic/o
+Fenic/uj/o
+fenic/a
+Fiĝi/o
+fiĝi/an/o
+fiĝi/a
+Filadelfi/o
+Filipin/o/j
+filipin/an/o
+filipin/a
+filiŝt/o
+Filiŝt/uj/o
+finn/o
+Finn/land/o
+finn/a
+flandr/o
+Flandr/uj/o
+flandr/a
+Florenc/o
+Florid/o
+Fortalez/o
+Frankfurt/o
+Friul/o
+friul/an/o
+friul/a
+Gabon/o
+gael/o
+gael/a
+Gaj/o
+galeg/o
+Galeg/uj/o
+galeg/a
+Galici/o
+Galile/o
+Gambi/o
+Gana/o
+Gang/o
+gaŭl/o
+Gaŭl/uj/o
+gaŭl/a
+Gdansk/o
+golf/o
+Aden/a Golf/o
+Alask/a Golf/o
+Bengal/a Golf/o
+Gvine/a Golf/o
+Kaliforni/a Golf/o
+Meksik/a Golf/o
+Oman/a Golf/o
+Pers/a Golf/o
+Taj/land/a Golf/o
+got/o
+got/a
+Gotenburg/o
+Gregori/o
+gregori/a
+gregori/a kalendar/o
+Grenad/o
+Grenadin/o/j
+Grizon/o
+Gronland/o
+gronland/an/o
+gronland/a
+guĝarat/o
+Guĝarat/land/o
+guĝarat/a
+Gujan/o
+Franc/a Gujan/o
+Gvadelup/o
+gvadelup/an/o
+gvadelup/a
+Gvine/o
+Gvine/o‑Bisaŭ/o
+Ekvator/a Gvine/o
+Nov‑Gvine/o
+Ĝakart/o
+Ĝenev/o
+ĝerman/o
+Ĝerman/uj/o
+ĝerman/a
+Ĝibraltar/o
+Ĝibuti/o
+Hag/o
+Haiti/o
+haiti/an/o
+haiti/a
+Hamburg/o
+Hanoj/o
+Havaj/o
+havaj/an/o
+havaj/a
+Havan/o
+Helsink/o
+Hercegovin/o
+Himalaj/o
+hind/o
+Hind/uj/o
+Brit/a Hind/uj/o
+Nederland/a Hind/uj/o
+hind/a
+hindi/a
+hindu/o
+hindu/ism/o
+Hiroŝim/o
+Holand/o
+Nord‑Holand/o
+Sud‑Holand/o
+Hondur/o
+Honkong/o
+Honŝu/o
+hun/o
+ĥalde/o
+Ĥalde/uj/o
+ĥalde/a
+iber/o
+Iber/uj/o
+iber/a
+imperi/o
+Akad/a Imperi/o
+Babilon/a Imperi/o
+Bizanc/a Imperi/o
+Inka/a Imperi/o
+Otoman/a Imperi/o
+Pers/a Imperi/o
+Rom/a Imperi/o
+Indonezi/o
+indonezi/an/o
+indonezi/a
+Indus/o
+inka/o
+inka/a
+insul/o
+Arab/a Du/on/insul/o
+Balkan/a Du/on/insul/o
+Iber/a Du/on/insul/o
+Ital/a Du/on/insul/o
+Kaliforni/a Du/on/insul/o
+Kore/a Du/on/insul/o
+Havaj/a Insul/ar/o
+Kajman/a Insul/ar/o
+inuit/o
+islam/o
+islam/an/o
+Istanbul/o
+Jamajk/o
+jamajk/an/o
+jamajk/a
+Jav/o
+jav/an/o
+jav/a
+Jemen/o
+Jerusalem/o
+Jokoham/o
+Jordan/o
+Jordani/o
+Jork/o
+Nov‑Jork/o
+jorub/o
+Jorub/o/land/o, Jorub/uj/o
+jorub/a
+jugoslav/o
+Jugoslav/uj/o
+jugoslav/a
+Juli/o
+juli/a kalendar/o
+Juli/in/o
+Kaboverd/o
+kaboverd/an/o
+kaboverd/a
+Kair/o
+kajman/o
+Kaliforni/o
+Mal/supr/a Kaliforni/o
+Sud/a Mal/supr/a Kaliforni/o
+Kamboĝ/o
+Kamerun/o
+Kanton/o
+Karaĉi/o
+karib/o
+ĉef/ter/a karib/o
+insul/a karib/o
+karib/a
+Karpat/o/j
+kartvel/o
+Kartvel/uj/o
+kartvel/a
+Kaspi/o
+Kaŝmir/o
+kaŝmir/an/o
+kaŝmir/a
+katalun/o
+Katalun/uj/o
+katalun/a
+Katar/o
+Katmandu/o
+Kaŭkaz/o
+kaŭkaz/a
+Kaŭkazi/o
+kazaĥ/o
+Kazaĥ/uj/o
+kazaĥ/a
+Kebek/o
+Kebeki/o
+kelt/o
+kelt/a
+Kembriĝ/o
+Kenj/o
+kimr/o
+Kimr/uj/o
+kimr/a
+Nova Sud‑Kimr/uj/o
+Kinŝas/o
+Kiot/o
+Kipr/o
+kirgiz/o
+Kirgiz/uj/o
+kirgiz/a
+Kiribat/o
+Kolkat/o
+Kolombi/o
+Kolonj/o
+Kolorad/o
+Kolumb/o
+Komor/o/j
+Grand/a Komor/o
+komor/an/o
+komor/a
+Kong/o
+Konstantinopol/o
+kontinent/o
+sub/kontinent/o
+hind/a sub/kontinent/o
+Kopenhag/o
+kore/o
+Kore/uj/o
+Nord‑Kore/uj/o
+Sud‑Kore/uj/o
+kore/a
+Kornval/o
+kornval/an/o
+kornval/a
+Korsik/o
+korsik/an/o
+Sud‑Korsik/o
+Supr/a Korsik/o
+korsik/a
+Kosov/o
+Krakov/o
+Krime/o
+Kristofor/o
+Sankt/a Kristofor/o
+Sankt/a Kristofor/o kaj Nevis/o
+kroat/o
+Kroat/uj/o
+kroat/a
+serb/o/kroat/a
+kurd/o
+Kurd/uj/o
+kurd/a
+Kuvajt/o
+lag/o
+Galile/a Lag/o
+Lagos/o
+Laos/o
+Latin/o
+latin/a
+ latin/id/a/j lingv/o/j
+Lesb/o
+lesb/an/in/o
+Lesot/o
+Liĥtenŝtejn/o
+Lill/o
+Lisbon/o
+litov/o
+Litov/uj/o
+litov/a
+Loren/o
+Losanĝeles/o
+Lucern/o
+Luci/o
+Sankt/a Luci/o
+sankt/a/luci/an/o
+sankt/a/luci/a
+Luksemburg/o
+luksemburg/an/o
+luksemburg/a
+Madagaskar/o
+Madrid/o
+maja/o
+maja/a
+Majenc/o
+Majn/o
+Majot/o
+makedon/o
+Makedon/uj/o
+Nord‑Makedon/uj/o
+makedon/a
+malaj/o
+malaj/a
+Malajzi/o
+Malavi/o
+Maldiv/o/j
+maldiv/an/o
+maldiv/a
+Mali/o
+Malt/o
+malt/an/o
+malt/a
+Manil/o
+mar/o
+Arab/a Mar/o
+Balt/a Mar/o
+Blank/a Mar/o
+Ege/a Mar/o
+Filipin/a Mar/o
+Flav/a Mar/o
+Japan/a Mar/o
+Karib/a Mar/o
+Kaspi/a Mar/o
+Koral/a Mar/o
+Marmor/a Mar/o
+Mort/a Mar/o
+Nigr/a Mar/o
+Nord/a Mar/o
+Orient/ĉin/a Mar/o
+Ruĝ/a Mar/o
+Sud/ĉin/a Mar/o
+Maraton/o
+maraton/o
+Marsejl/o
+Marŝal/o/j
+marŝal/an/o
+marŝal/a
+Martinik/o
+martinik/an/o
+martinik/a
+maŭr/o
+Maŭrici/o
+maŭrici/an/o
+maŭrici/a
+Maŭritani/o
+Meksik/o
+Nov‑Meksik/o
+Melanezi/o
+Mezopotami/o
+Mikronezi/o
+Milan/o
+moldav/o
+Moldav/uj/o
+moldav/a
+Monak/o
+mongol/o
+Mongol/uj/o
+mongol/a
+mont/o
+Blank/a Mont/o
+Rok/a Mont/ar/o
+Montenegr/o
+montenegr/an/o
+montenegr/a
+Montevide/o
+Montpelier/o
+Montreal/o
+Moravi/o
+Moskv/o
+Mozambik/o
+Mumbaj/o
+Munken/o
+Nagasak/o
+Namibi/o
+Napol/o
+napol/an/o
+napol/a
+Naur/o
+naur/an/o
+naur/a
+Nepal/o
+nepal/an/o
+nepal/a
+Nevis/o
+Niĝer/o
+Niĝeri/o
+Nil/o
+Blank/a Nil/o
+Blu/a Nil/o
+Nurenberg/o
+ocean/o
+Arkt/a Ocean/o
+Hind/a Ocean/o
+Sud/a Ocean/o
+Oceani/o
+Odes/o
+Odr/o
+okcitan/o
+Okcitan/uj/o
+okcitan/a
+Okinav/o
+okinav/an/o
+okinav/a
+Oksford/o
+Olimp/o
+Olimpi/o
+Olimpi/a/j lud/o/j
+Oman/o
+Osak/o
+Osl/o
+otoman/o
+otoman/a
+Palaŭ/o
+palaŭ/an/o
+palaŭ/a
+Palestin/o
+Papu/o
+Papu/o‑Nov‑Gvine/o
+papu/a/j lingv/o/j
+Parnas/o
+Pekin/o
+Pensilvani/o
+pers/o
+Pers/uj/o
+pers/a
+Peterburg/o
+Pirene/o/j
+Alt/a/j Pirene/o/j 
+Atlantik/a/j Pirene/o/j 
+Orient/a/j Pirene/o/j 
+portugal/o
+Portugal/uj/o
+portugal/a
+Prag/o
+Principe/o
+prus/o
+Prus/uj/o
+prus/a
+Raŭm/o
+regn/o
+Hungar/a Regn/o
+Rom/a Regn/o
+Rejkjavik/o
+Rejn/o
+Supr/a Rejn/o
+Mal/supr/a Rejn/o
+Reuni/o
+reuni/an/o
+reuni/a
+Riodeĵanejr/o
+Rom/o
+romanĉ/o
+Romanĉ/uj/o
+romanĉ/a
+Roterdam/o
+Ruand/o
+Sahar/o
+saks/o
+Saks/uj/o
+Mal/supr/a Saks/uj/o
+Salomon/o/j
+Salvador/o
+Samarkand/o
+Samo/o
+samo/an/o
+samo/a
+Sanfrancisk/o
+Sanmarin/o
+Sanpaŭl/o
+Sanskrit/o
+sanskrit/a
+sanskrit/id/a/j lingv/o/j
+Santiag/o
+Santome/o
+Santome/o kaj Principe/o
+Sapf/o
+Sarajev/o
+sargas/o
+Saud/o
+Saud/a Arab/uj/o
+saud/arab/uj/an/o
+saud/a
+Sejŝel/o/j
+Senegal/o
+serb/o
+Serb/uj/o
+serb/a
+Seul/o
+Siberi/o
+Sicili/o
+sicili/an/o
+sicili/a
+Sieraleon/o
+Silezi/o
+silezi/an/o
+silezi/a
+Mal/supr/a Silezi/o
+Singapur/o
+skandinav/o
+Skandinav/uj/o
+skandinav/a
+skot/o
+Skot/land/o
+skot/a
+slav/o
+slav/a
+slovak/o
+Slovak/uj/o
+slovak/a
+ĉeĥ/o/slovak/o
+Ĉeĥ/o/slovak/uj/o
+ĉeĥ/o/slovak/a
+sloven/o
+Sloven/uj/o
+sloven/a
+Sofi/o
+Sofi/o‑Urb/o
+somal/o
+Somal/uj/o
+somal/a
+sovet/o
+sovet/a
+Sovet/a Uni/o, Sovet‑Uni/o
+Soveti/o
+soveti/a
+Srilank/o
+status/o
+Stokholm/o
+Strasburg/o
+Sudan/o
+Sud‑Sudan/o
+Sumatr/o
+Sumer/o
+sumer/an/o
+sumer/a
+Surinam/o
+suveren/o
+svazi/o
+Svazi/land/o
+svazi/a
+svis/o
+Svis/land/o, Svis/uj/o
+svis/a
+Ŝanhaj/o
+Ŝem/o
+ŝem/id/o
+ŝem/id/a
+ŝem/id/a/j lingv/o/j
+Ŝetland/o
+taĝik/o
+Taĝik/uj/o
+taĝik/a
+taj/o
+Taj/land/o
+taj/a
+Tajvan/o
+tamil/o
+Tamil/land/o
+tamil/a
+Tamiz/o
+Tampere/o
+Tanzani/o
+Tasmani/o
+tatar/o
+Tatar/uj/o
+tatar/a
+Teheran/o
+Teksas/o
+Telaviv/o
+Tibet/o
+tibet/an/o
+tibet/a
+Tigris/o
+Timor/o
+Okcident/a Timor/o
+Orient/a Timor/o
+tjurk/o
+tjurk/a
+Tobag/o
+Tog/o
+Tog/o/land/o
+Toki/o
+Tong/o
+tong/an/o
+tong/a
+Torin/o
+Toront/o
+trak/o
+Trak/uj/o
+Trinidad/o
+Trinidad/o kaj Tobag/o
+turkmen/o
+Turkmen/uj/o
+turkmen/a
+Tuval/o
+tuval/an/o
+tuval/a
+Ugand/o
+ujgur/o
+ujgur/a
+ukrain/o
+Ukrain/uj/o
+ukrain/a
+Ulanbator/o
+Upsal/o
+Ural/o
+uzbek/o
+Uzbek/uj/o
+uzbek/a
+Valenci/o
+valon/o
+Valon/uj/o
+valon/a
+vandal/o
+vandal/ism/o
+Vankuver/o
+Vanuatu/o
+Varn/o
+Vatikan/o
+Veneci/o
+veneci/an/o
+veneci/a
+Vien/o
+viking/o
+viking/a
+Vincent/o
+Sankt/a Vincent/o
+Sankt/a Vincent/o kaj Grenadin/o/j
+vjetnam/o
+Vjetnam/uj/o
+vjetnam/a
+Vogez/o/j
+Volg/o
+Zagreb/o
+Zambi/o
+Zanzibar/o
+Zeland/o
+Nov‑Zeland/o
+Zeŭs/o
+Zimbabv/o
+Zurik/o
