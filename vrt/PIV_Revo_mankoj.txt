@@ -15,6 +15,7 @@ ZOO kakapo, papago la: Strigops habroptilus
 ZOO impalo, de: Impala (antilopo)
 ZOO feneko, de: Fennek
 ZOO estrildo, de: Astrilde, afrik. Prachtfink
+ZOO drongo, de: Drongo, Dicrurinae, birdo
 ZOO cefalofo, de: Ducker (antilopo)
 ZOO agistrodono, de: Dreieckskopfottern, la: Agkistrodon
 TIP postero, de: Poster (artafiŝo)
@@ -28,7 +29,10 @@ TEKS eskarpeno, de: Pumps (danc-ŝuo, Absatzschuh)
 TEKS epitrakelio, TEKS, KRI, de: Epitrachelion (ortodoksa stolo)
 TEKS burkino, de: Burkini
 TEK vitrofibro, de: Glasfaser
+TEK engobo, de: Engobe, malseka argila maso uzata ceramikado
+TEK dolbio (Dolby?)
 TEK ĉipo (Revo: ico)
+TEK alniko, magneta alojo, de: Alnico
 stolemo (?Amnéville, sed devus esti majuskla?)
 SPO velodromo, de: Velodrom, Radrennbahn
 SPO piafo (ĉevalpaŝo?)
@@ -38,18 +42,15 @@ SPO ĝuĝicuo (de: Jiu Jitsu?)
 SPO futsalo, de: Futsal (hala piedpilkludo)
 SPO flipo (vd. https://eo.wikipedia.org/wiki/Arta_sketado -  tiuj saltoj nomiĝas akslo, flipo, luco, ritbergo, salĉo kaj tulupo)
 SPO flipero, de: Flipper
+SPO ekspandro, de: Expander
 SPO derbio, de: Derby
-splanknoptozo, ?? σπλαγχνόπτης (Splanchnoptes)?
 SCI logopedio, de: Logopädie
 SCI izopleto, de: Isoplethe (Isolinie mit 2 abh. Größen)
 SCI FLAM-analizo, de: SWOT-Analyse
-ritualo, de: Ritual (ritaĵo?)
-riletoj
 RET Vibero, de: Viber (chat, Rakuten)
 RET Vacapo, de: Whatsapp
 RET Uzreto, de: Usenet
 RET Instagramo, socia reto de la firmao Facebook
-resolucio (vd. PIV)
 REL piaristoj, de: Piaristen
 REL mikvo, de: Mikwe (juda rita bano)
 REL micvo, de: Mitzwa
@@ -58,8 +59,8 @@ REL katolikoso, ortodoksa patriarko
 REL Jom-Kipuro, juda festotago de: Jom Kippur/Versöhnungstag
 REL Fatimo, de: Fátima (REL, GEOG portugala pilgrimejo)
 REL dulio, de: Dulia (Heiligenverehrung)
+REL Dagono, de: Dagon
 REL Abrakso, Abraxas, persa dio
-reflacio, de: Reflation
 PSI pedofilo, de: Pedophile
 PSI I-Kvo, de: IQ
 POL Padanio (it: Padania, de: Padanien, Propaganda Lega Nord)
@@ -67,16 +68,13 @@ POL muĝahido, de: Mudschahid, Gotteskrieger
 POL intifado, de: Intifada
 POL ĥuralo, la unuĉambra parlamento de Mongolio
 POL ĥunto, de: Junta
-pojntero, de: English Pointer (hundoraso)
-opuza (op'uz'a? en: share)
-MUZ olifanto (ebura trumpeto)
-neokomio
 MUZ trenco, de: Trance (muzistilo)
 MUZ soulo, de: Soul (muzik.)
 MUZ salso, de: Salsa (muzikstilo)
 MUZ rokabilo, de: Rockabilly (muzikstilo)
 MUZ pasodoblo, de: asodoble (danco)
 MUZ pasakaljo, de: Passacaglia (danco)
+MUZ olifanto (ebura trumpeto)
 MUZ mambao, de: Mamba (ĉu danco aŭ serpento, ambaŭ?)
 MUZ kaĉuĉo de: Cachucha (andaluza soldanco)
 MUZ habanero, de: Habanera (danco)
@@ -85,12 +83,15 @@ MUZ domro, de: Domra (Musikinstr.)
 MUZ diksilando, de: Dixieland
 MUZ denco
 MIT eŭhemerismo (Viki: evemerismo), den: Euhemerism (interpreto de mitologio)
+MIT Dejmoso, MIT, aST, de: Deimos
 MIN piemontito, de: Piemontit
 MIN pelito, de: Pelit (sedimento)
 MIN labradorito, iu blueta minerlamiksaĵo, de: Labradorit 
 MIN felsito, de: Felsit (ŝtono)
 MIN fakolito, de: Chabasit var. Phacolit
 MIN eŭksenito, de: Euxenit-(Y) (Min.)
+MIN dolerito, de: Dolerit (subvulk. Gestein)
+MIL gelignito, MIL, KEM, de: Gelignit (eksplodaĵo)
 MIL gardio, de: Wache (= gardisto, gvardio?)
 MED vazektomio, de: Vasektomie, Vasoresektion (forigo de angioj)
 MED sikozo, de: Sykose ("trofunkcio" en homeopatio)
@@ -114,14 +115,15 @@ MED eritromicino, de: Erythromycin (antibiotiko)
 MED eritrasmo, de: Erythrasma (Hautkrankheit)
 MED botokso, de: Botox
 MED bajpaso, de: Bypass
+MED atopio, de: Atopie
+MED atelektazio, de: Atelektasis, Atelektase
 MED alkaptonurio, de: Alkaptonurie (Stoffw.krankheit)
+MED agenezio, de: Agenesie, organmanko
 MED adrenergia, de: adrenergisch (Med.)
-macevo
-locio, de: Lotion
-lobulario
+MED ablefario, de: Ablepharie, palpebromanko
+MED abiotrofio, MED, AGR nl: abiotrofie, malsano/anomalio de malgranda cerbo ĉe hejmbestoj
 LIN paragogo, de: Paragoge, Epithese (lingv. finsonaldono)
 LIN majeŭtiko, de: Mäeutik (greka lingvo)
-likida (de: liquide; ~a kapitalo, ~~ "likvidebla"?)
 KUI tiramiso (var: ..suo, de: Tiramisu)
 KUI spiso, de: Bratspieß (=turn-rostilo)
 KUI ŝoĉuo, de: Shōchū (=japana "vodko")
@@ -141,6 +143,8 @@ KUI gio, de: Ghee (= butergraso, Butterreinfett)
 KUI gazpaĉo, de: Gazpacho (hispana malvarma legomsupo)
 KUI cukinio, de: Zucchini (=kukurbeto)
 KUI ĉorizo, de: Chorizo
+KUI ĉimarono (pt: Chimarrão, = amar-mateo)
+KUI ĉiĉo, de: Chicha
 KRI soteriologio, de: Soteriologie (savteologio)
 KRI latrio, de: Latrie (Verehrung der Dreifaltigkeit)
 KOMP viŝsigno, de: Wischgeste
@@ -152,15 +156,12 @@ KOMP i-Podo
 KOMP erarpepo
 KOMP apleto, de: Applet
 KOMP androjdo, de: Android
-kislevo, de: Kislew (hebrea monato)
-kibinoj (?? GEOG Ĥibinoj, t.e. murmanska montaro, de: Chibinen?)
 KEM ununpentio, de: Moscovium
 KEM mefedrono (KEM, MED: Mephedron)
 KEM laktamo, la: Lactam de: Laktam
 KEM kopernikio (Revo: kopernicio)
 KEM glifosato, de: Glyphosat
 KEM darmstatio (Revo: darmŝtatio)
-jamadoro (?sovaĝa bonsajo Yamadoro?)
 HIS Ŝoaho, de: Schoa, Holocaust
 HIS Piastoj, de: Piasten (pola dinastio)
 HIS lotofagoj (? de: Lotophagen, Lotosesser - popolo ĉe Homero)
@@ -170,8 +171,6 @@ HIS Halikarnaso, antikva urbo kun mondmiraklo (maŭzoleo), de: Halikarnassos
 HIS  sekeloj, sin. sikuloj, de: Szekler
 HIN njajo, de: Nyaya, unu el la ses klasikaj filozofisistemoj
 HIN jaĝurvedo, unu el la kvar vedoj, de: Yajurveda
-ĥaĉkaro, de: Chatschkar (memorŝtono)
-Golemo, de: Golem
 GEOL stalagnato, de: Stalagnat, Sintersäule (kuniĝo de stalagtito kun stalagmito)
 GEOL neogeno, de: Neogen (geol. periodo)
 GEOL diaklazo, de: Kluft (Geologie)
@@ -190,17 +189,17 @@ GEOG Fajumo, de: al-Fayyūm (egipta urbo)
 GEOG Estremaduro, de: Estremadura (iama portugala provinco)
 GEOG Eskorialo, de: El Escorial (urbo ĉe Madrido)
 GEOG Divalo
+GEOG Cebuo, de: Cebu, insulo
 GEOG Benguelo, de: Benguela, okcidentangola havenurbo
 GEOG Arhuzo, da: Århus
-gelignito, de: Gelignit (eksplodaĵo)
 FIZL retikulocito, de: Retikulozyt (juna eritrocito)
 FIZL policitemio, de: Polyzythämie (troo da eritrocitoj)
 FIZL agonisto, de: Agonist ()= "mal-antagonisto"; muskolo/nervo malaktivigita per aktiveco de ĝia antagonisto
 FIZ procio (izotopo de hidrogeno)
 FIZ nuklido, de: Nuklid
+FIZ anergio, de:Anergie?
 FIL palingenezo de: Palingenese
 FER maglevo (ŝvebotrajno, Maglev)
-eŭlogio, de: Trauerrede, en: eulogy, Viki: elogio
 ETN polaboj, de: Polaben (okcidentslava tribo)
 ETN ovamboj, de: Ovambo (Namibia socia grupo)
 ETN ostjakoj, de: Ostjaken, siberia(j) popolo(j)
@@ -209,38 +208,17 @@ ETN mohikanoj, en: Mohican
 ETN kaĵuno: etno en Luiziano
 ETN ĥakasoj, de: Chakassen (etno en Rusujo)
 ETN dajakoj, de: Dayak (Ethnie)
-eskimohundo, de: Schlittenhund
-eristiko, de: Eristik (disputarto)
-epikardio (de: Epikard?)
-epiciklo
-entazo
-engramo
-engobo
-endometro
-elemio
-ekspandro SPO de: Expander
 EKON zolotniko, de: Solotnik (masunuo ~ 4,2g)
 EKON tugriko, de: Tugrik (mongola valuto)
+EKON reflacio, de: Reflation
 EKON portfolio, de: Portfolio
 EKON pjaso, (?) de: Kyat (valuto)
 EKON pengo, de: Pengő (monunuo)
 EKON pajso (kupra monero kiu antaŭe egalis al 1/64 parto de rupio)
 EKON nultrumo (valuto de Butano)
+EKON likida (de: liquide; ~a kapitalo, ~~ "likvidebla"?)
 EKON cedio, de: Cedi (ganaa monunuo)
-efendio, de: Efendi, Effendi
-drumlino, de: Drumlin (Hist, Geol.? aŭ"drum line"?)
-drongo (de: Drongo, Dicrurinae)
-dolerito, de: Dolerit (subvulk. Gestein)
-dolbio (Dolby?)
-dekupaĝo, fr: découpage (distranĉo…?)
-Dejmoso
-Daŝbogo
-Dagono, de: Dagon
-dagobo, de: Dagoba
-ĉimarono (pt: Chimarrão, = amar-mateo)
-ĉiĉo, de: Chicha
-Cebuo
-ĉagro
+BUD ĉagro
 BOT zizanio, de: Wasserreis (Zizania) 
 BOT zanikelio la: Zannichellia (genro)
 BOT viktoriao, g. Victoria
@@ -253,22 +231,30 @@ BOT aceno, de: Stachelnüßchen
 BIB Siraĥo, de: Jesus Sirach (malfrua skribo de Malnova Testamento)
 BELE rengao, de: Renga (japana ĉenpoemo)
 BELA sgrafito, de: Sgraffito (murornamo)
-bastonsako
-bankstero, de: Bankster, krima/senmorala bankisto
-aŭtokefalio
-atopio, de: Atopie
-atelektazio, de: Atelektasis, Atelektase
+BELA dekupaĝo, (??) fr: découpage (distranĉo…?), de: Decoupage
 AST evekto, de: Evektion? (perturbo de la lunorbito)
+AST epiciklo
 AST celostato, de: Zölostat (Astron. Nachführgerät)
 ARKI gavito, de: Gawit (Arch. enpreĝeja loko)
-areolo, de: Mamille
-anergio, de:Anergie?
+ARKI dagobo, de: Dagoba
 ANA mucinoj, de: Mucine
 ANA idioblastoj, ANA, GEOL grajneca mineral/histstrukturo (enfermaĵo?)
-alniko, magneta alojo, de: Alnico
-agenezio, de: Agenesie
-ablefario, de: Ablepharie
-abiotrofio, nl: abiotrofie, malsano/anomalio de malgranda cerbo ĉe hejmbestoj
+ANA endometro
+ANA areolo, de: Mamille
+000 ritualo, de: Ritual (ritaĵo?)
+000 resolucio (vd. PIV)
+000 pojntero, de: English Pointer (hundoraso)
+000 opuza (op'uz'a? en: share)
+000 locio, de: Lotion
+000 kislevo, de: Kislew (hebrea monato)
+000 ĥaĉkaro, de: Chatschkar (memorŝtono)
+000 Golemo, de: Golem
+000 eŭlogio, de: Trauerrede, en: eulogy, Viki: elogio
+000 eskimohundo, de: Schlittenhund
+000 eristiko, de: Eristik (disputarto)
+000 elemio, de: Elemi, iu el bonodoraj oleorezion de g. Burseraceae
+000 efendio, de: Efendi, Effendi, turka titolo/alparolo
+000 bankstero, de: Bankster, krima/senmorala bankisto
 +receptoro, de: Rezeptor
 +lambado, de: Lambada (brazila pardanco)
 +kraktiko, de: Krähenwürger, lat: Cracticus (birdo)
@@ -301,6 +287,20 @@ abiotrofio, nl: abiotrofie, malsano/anomalio de malgranda cerbo ĉe hejmbestoj
 *hobito, de: Hobbit
 *gejfobio, de: Homopobie
 *ciberspaco, de: Cyberspace
+??? splanknoptozo, ?? σπλαγχνόπτης (Splanchnoptes)?
+??? riletoj
+??? neokomio
+??? macevo
+??? lobulario
+??? kibinoj (?? GEOG Ĥibinoj, t.e. murmanska montaro, de: Chibinen?)
+??? jamadoro (?sovaĝa bonsajo Yamadoro?)
+??? epikardio (de: Epikard?)
+??? entazo ?de: Entasis ~ Anspannung...ARKI?)
+??? engramo
+??? drumlino, de: Drumlin (Hist, Geol.? aŭ "drum line"?)
+??? Daŝbogo
+??? bastonsako
+??? aŭtokefalio
 -vuvuzelo-
 -vifio-
 -vegano-
