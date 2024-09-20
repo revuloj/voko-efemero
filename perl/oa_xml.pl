@@ -36,7 +36,13 @@ my @artikoloj = @ARGV;
 my $ofc_xpath = XML::LibXML::XPathExpression
     ->new(".//ofc");
 
-my @kapvortoj = read_txt($listo);
+my $OA; # hash: rad->[v1,v2,...]
+read_txt($listo);
+
+if ($debug) {
+    my $afgan = $OA->{afgan};
+    print(join(',',@{$afgan})."\n");
+}
 
 my $dosiero;
 my %radikoj;
@@ -117,6 +123,8 @@ sub process_art {
     # kaj provos aldoni <ofc>$OA</ofc>
     for my $k (keys(%drvmap)) {
         print "kap: |$k|...\n" if ($debug);
+        my @kapvortoj = oa_rad(@rad);
+        print "oa: ".join(',',@kapvortoj)."\n" if ($debug);
         if( $k ~~ @kapvortoj ) {
             my $mod = aldonu_ofc($k);
             $modified ||= $mod;            
@@ -180,6 +188,17 @@ sub aldonu_ofc {
     return $modified;
 }
 
+sub oa_rad {
+    # trovu en OA vortojn sur unu el la donitaj radikoj
+    my @rad = @_;
+    my @vortoj = ();
+    for my $r (@rad) {
+        my $rad = lc($r->textContent);
+        push @vortoj, @{$OA->{$rad}};
+    }
+    return @vortoj;
+}
+
 # eltrovu atributon var el <rad resp. <tld
 sub var_key {
     my $el = shift;
@@ -206,7 +225,7 @@ sub make_el{
 # kreu unuopan ofc-elementon
 sub make_ofc {
     my $el = make_el('ofc');
-    $el->appendText = $OA;
+    $el->appendText($OA);
     return $el;
 }
 
@@ -259,7 +278,24 @@ sub read_txt {
     my @vortoj = <$TXT>; 
     close $TXT;
 
-    return @vortoj;
+    for my $v (@vortoj) {
+        chomp $v;
+        my @parts = split(/[\s\-]/,$v); 
+        my $last = $parts[-1];
+        my @vparts = split('/',$last);
+        my $rad = lc($vparts[0]);
+
+        print "OA: ".$rad."\n" if ($debug);
+
+        #unless ($OA->{$rad}) {
+        #    $OA->{$rad} = [$v]
+        #} else {
+        my @vj = @{$OA->{$rad}};
+        $v =~ s|/||g;
+        push @vj, ($v);
+        $OA->{$rad} = \@vj;
+        #};
+    }
 }
 
 #sub dump_kapvortoj {
