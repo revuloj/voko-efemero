@@ -16,11 +16,12 @@ ZOO impalo, de: Impala (antilopo)
 ZOO feneko, de: Fennek
 ZOO estrildo, de: Astrilde, afrik. Prachtfink
 ZOO drongo, de: Drongo, Dicrurinae, birdo
+ZOO ĉagro, la Tschagra, birdogenro
 ZOO cefalofo, de: Ducker (antilopo)
 ZOO agistrodono, de: Dreieckskopfottern, la: Agkistrodon
 TIP postero, de: Poster (artafiŝo)
 TEL zapado, channel surfing (kanalumado)
-TEKS pompono, de: Pompon (Bummel...?)
+TEKS pompono, de: Pompon (Bummel...?), globkvasto
 TEKS petikoto, de: Petticoat (subjupo)
 TEKS lodeno, en: loden (de: Loden, lanŝtofo?)
 TEKS gingamo, de: Gingham, Bauernkaro, Vichy-Muster
@@ -29,7 +30,7 @@ TEKS eskarpeno, de: Pumps (danc-ŝuo, Absatzschuh)
 TEKS epitrakelio, TEKS, KRI, de: Epitrachelion (ortodoksa stolo)
 TEKS burkino, de: Burkini
 TEK vitrofibro, de: Glasfaser
-TEK engobo, de: Engobe, malseka argila maso uzata ceramikado
+// TEK engobo, de: Engobe, malseka argila maso uzata ĉe ceramikado
 TEK dolbio (Dolby?)
 TEK ĉipo (Revo: ico)
 TEK alniko, magneta alojo, de: Alnico
@@ -52,20 +53,20 @@ RET Vacapo, de: Whatsapp
 RET Uzreto, de: Usenet
 RET Instagramo, socia reto de la firmao Facebook
 REL piaristoj, de: Piaristen
-REL mikvo, de: Mikwe (juda rita bano)
-REL micvo, de: Mitzwa
-REL mezuzo, de: Mesusa
+// REL mikvo, de: Mikwe (juda rita bano)
+REL micvo, de: Mitzwa, religia ordono en judismo
+REL mezuzo, de: Mesusa, skatolo kun sankta juda skribo ĉe la pordofosto
 REL katolikoso, ortodoksa patriarko
-REL Jom-Kipuro, juda festotago de: Jom Kippur/Versöhnungstag
+//REL Jom-Kipuro, Revo: Jomkipuro, juda festotago de: Jom Kippur/Versöhnungstag
 REL Fatimo, de: Fátima (REL, GEOG portugala pilgrimejo)
 REL dulio, de: Dulia (Heiligenverehrung)
 REL Dagono, de: Dagon
-REL Abrakso, Abraxas, persa dio
+//REL Abrakso, Abraxas, persa dio
 PSI pedofilo, de: Pedophile
 PSI I-Kvo, de: IQ
 POL Padanio (it: Padania, de: Padanien, Propaganda Lega Nord)
 POL muĝahido, de: Mudschahid, Gotteskrieger
-POL intifado, de: Intifada
+//POL intifado, de: Intifada, ribelo de palestinaj araboj kontraŭ israela okupo
 POL ĥuralo, la unuĉambra parlamento de Mongolio
 POL ĥunto, de: Junta
 MUZ trenco, de: Trance (muzistilo)
@@ -124,40 +125,41 @@ MED ablefario, de: Ablepharie, palpebromanko
 MED abiotrofio, MED, AGR nl: abiotrofie, malsano/anomalio de malgranda cerbo ĉe hejmbestoj
 LIN paragogo, de: Paragoge, Epithese (lingv. finsonaldono)
 LIN majeŭtiko, de: Mäeutik (greka lingvo)
-KUI tiramiso (var: ..suo, de: Tiramisu)
+//KUI espreso, forta vaporita kafo
+//KUI tiramiso (var: tiramisuo, de: Tiramisu)
 KUI spiso, de: Bratspieß (=turn-rostilo)
-KUI ŝoĉuo, de: Shōchū (=japana "vodko")
-KUI rokforto, de: Roquefort (fromaĝo)
-KUI rikoto, de: Ricotta (freŝ/blank-fromaĝo)
+KUI ŝoĉuo, de: Shōchū (=japana "vodko"/brando)
+//KUI rokforto, de: Roquefort (rokforta fromaĝo)
+KUI rikoto, de: Ricotta (selakta fromaĝo)
 KUI ratatujo, de: Ratatouille
 KUI rakijo, de: Rakija (brando)
 KUI pelelo, de: Pale Ale (angla biero)
 KUI orĝado, de: Horchata (migdallakto)
 KUI margarito (Revo: nomo, ĉu pico?)
-KUI lazanjo, de: Lasagne
+//KUI lazanjo, PIV: lasanjo, de: Lasagne
 KUI kormao, hinda manĝaĵo, de: Korma
 KUI kajao, kokosmarmelado, de: Kaya
 KUI haluŝkoj, slovaka terpomaĵo
-KUI hallumio, fromaĝo
-KUI gio, de: Ghee (= butergraso, Butterreinfett)
+KUI hallumio, Viki: halumo, de: Halloumi, rostebla fromaĝo
+KUI gio, =butergraso, de: Butterschamlz, Butterreinfett, Ghee
 KUI gazpaĉo, de: Gazpacho (hispana malvarma legomsupo)
 KUI cukinio, de: Zucchini (=kukurbeto)
 KUI ĉorizo, de: Chorizo
 KUI ĉimarono (pt: Chimarrão, = amar-mateo)
-KUI ĉiĉo, de: Chicha
+KUI ĉiĉo, de: Chicha, sudamerika biero fermentinta per salivo
 KRI soteriologio, de: Soteriologie (savteologio)
 KRI latrio, de: Latrie (Verehrung der Dreifaltigkeit)
-KOMP viŝsigno, de: Wischgeste
+//KOMP viŝsigno, de: Löschzeichen, en: erase character (DEL)
 KOMP Vikivortaro
-KOMP pelilo (ĉu de: Treiber?)
+//KOMP pelilo (ĉu de: Treiber?)
 KOMP iPodo muzikludilo de la firmao Apple
 KOMP ifono (Revo: iFono)
 KOMP i-Podo
-KOMP erarpepo
+KOMP erarpepo, en: error alert, pl: ostrzeżenie o błędzie
 KOMP apleto, de: Applet
-KOMP androjdo, de: Android
-KEM ununpentio, de: Moscovium
-KEM mefedrono (KEM, MED: Mephedron)
+// KOMP androjdo, Revo,PIV: Androido, de: Android
+// KEM ununpentio, Revo, PIV: moskovio, de: Moscovium
+KEM mefedrono (KEM, MED: Mephedron), psikaktiva substanco
 KEM laktamo, la: Lactam de: Laktam
 KEM kopernikio (Revo: kopernicio)
 KEM glifosato, de: Glyphosat
@@ -218,14 +220,13 @@ EKON pajso (kupra monero kiu antaŭe egalis al 1/64 parto de rupio)
 EKON nultrumo (valuto de Butano)
 EKON likida (de: liquide; ~a kapitalo, ~~ "likvidebla"?)
 EKON cedio, de: Cedi (ganaa monunuo)
-BUD ĉagro
 BOT zizanio, de: Wasserreis (Zizania) 
 BOT zanikelio la: Zannichellia (genro)
 BOT viktoriao, g. Victoria
 BOT sugio, de: Sicheltanne
-BOT stevio, de: Stevia
+//BOT stevio, de: Stevia
 BOT hakvecio, de: Schaftdolde (Hacquetia)
-BOT eŭrialo, de: Euryale (plantgenro)
+BOT eŭrialo, de: Euryale (plantgenro), cit: http://esperanto.cri.cn/2841/2019/01/04/173s202852.htm
 BOT erukastro, de: Hundsrauke (Erucastrum)
 BOT aceno, de: Stachelnüßchen   
 BIB Siraĥo, de: Jesus Sirach (malfrua skribo de Malnova Testamento)
@@ -239,16 +240,16 @@ ARKI gavito, de: Gawit (Arch. enpreĝeja loko)
 ARKI dagobo, de: Dagoba
 ANA mucinoj, de: Mucine
 ANA idioblastoj, ANA, GEOL grajneca mineral/histstrukturo (enfermaĵo?)
-ANA endometro
+ANA endometro (?Endometrium, kp endometrito?)
 ANA areolo, de: Mamille
 000 ritualo, de: Ritual (ritaĵo?)
 000 resolucio (vd. PIV)
 000 pojntero, de: English Pointer (hundoraso)
 000 opuza (op'uz'a? en: share)
 000 locio, de: Lotion
-000 kislevo, de: Kislew (hebrea monato)
+//000 kislevo, de: Kislew (hebrea monato)
 000 ĥaĉkaro, de: Chatschkar (memorŝtono)
-000 Golemo, de: Golem
+//000 Golemo, de: Golem
 000 eŭlogio, de: Trauerrede, en: eulogy, Viki: elogio
 000 eskimohundo, de: Schlittenhund
 000 eristiko, de: Eristik (disputarto)
