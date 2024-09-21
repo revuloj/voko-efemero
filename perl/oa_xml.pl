@@ -21,7 +21,7 @@ binmode(STDOUT, "encoding(UTF-8)");
 
 my $debug = 1;
 
-my $OA = '10';
+my $oa = '10';
 my $listo = '../../voko-efemero/vrt/OA10.txt';
 
 unless ($#ARGV>-1) {
@@ -159,11 +159,11 @@ sub aldonu_ofc {
         # se jes ni ne tuŝos ĝin.
         my $ofc = $el->find($ofc_xpath);
         
-        if ($ofc && $el->textContent eq $OA) {
+        if ($ofc) { # && $el->textContent eq $OA) {
 
             # se jam enestas iuj tradukoj ni ne aldonas...
             $ignore = 1;
-            print "!!! jam enestas ofc '$OA' !!!\n" if ($debug);
+            print "!!! jam enestas ofc '$oa' en '$k' !!!\n" if ($debug);
 
         } else {
             # ne enestas jam tradukoj serĉu kie enŝovi la novan tradukon
@@ -175,7 +175,9 @@ sub aldonu_ofc {
 
             for $ch ($el->childNodes()) {
                 if ($ch->nodeName eq 'kap') {
-                    $ch->insertBefore($ofc,$ch->firstChild);
+                    $ch->insertBefore($te,$ch->firstChild);
+
+                    print "$k: +ofc ".$oa."\n";
                     $inserted = 1;
                     $modified = 1;
 
@@ -225,7 +227,7 @@ sub make_el{
 # kreu unuopan ofc-elementon
 sub make_ofc {
     my $el = make_el('ofc');
-    $el->appendText($OA);
+    $el->appendText($oa);
     return $el;
 }
 
@@ -243,7 +245,12 @@ sub extract_kap {
         # se la ido estas tildo, ni anstataŭigu per la koncerna radiko / variaĵo
         if ($ch->nodeName eq 'tld') {            
             print "\n".$radikoj->{var_key($ch)}."\n" if ($debug); 
-            $res .= $radikoj->{var_key($ch)}
+            my $tld = $radikoj->{var_key($ch)};
+            my $lit = $ch->attributes()->getNamedItem('lit');
+            if ($lit) {
+                $tld = $lit->textContent . substr($tld,1)
+            };
+            $res .= $tld; 
         # se temas pri variaĵo ni rikure vokas extract_kap por trakti ĝin
         } elsif ($ch->nodeName eq 'var') {
             my $var = extract_kap($ch);
