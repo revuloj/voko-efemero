@@ -75,6 +75,7 @@ sub process_art {
 
     %radikoj = ();
     %drvmap = ();
+    %kapmap = ();
     %mrkmap = ();
 
     # load XML
@@ -106,10 +107,16 @@ sub process_art {
         print var_key($rad).": ".$rad->textContent()."\n" if ($debug);
     }
         
+    # trovu kapojn de la artikolo
+    for my $a ($doc->findnodes('//art')) {
+        extract_kap($a);
+    }
+
     # trovu kapojn de derivaĵoj kaj anstataŭigu tildojn
     for my $d ($doc->findnodes('//drv')) {
         extract_kap($d);
     }
+    print "kap: ".join(';',keys(%kapmap))."\n" if ($debug);
     print "drv: ".join(';',keys(%drvmap))."\n" if ($debug);
 
     # trovu ĉiujn elementojn kun @mrk
@@ -249,6 +256,9 @@ sub extract_kap {
             my $var = extract_kap($ch);
             # registru la derivaĵon ($node) sub la nomo $var
             $drvmap{$var} = $node;
+        # se temas pri radiko ni aldonas ĝian text-enhavon
+        } elsif ($ch->nodeName eq 'rad') {
+            my $res .= $ch->textContent();        
         # tekstojn kaj literunuojn ni kolektas kiel tekstenhavo
         } elsif ($ch->nodeType eq XML_TEXT_NODE || $ch->nodeType eq XML_ENTITY_REF_NODE) {
             print $ch."\n" if ($debug);
@@ -262,6 +272,7 @@ sub extract_kap {
     # registru la derivaĵon ($node) sub la kapvorto $res
     $res =~ s/^\s+|\s+$//sg;
     $drvmap{$res} = $node if ($node->nodeName() eq 'drv');
+    $kapmap{$res} = $node if ($node->nodeName() eq 'art');
     return $res;
 }
 
