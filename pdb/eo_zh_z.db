@@ -1,0 +1,188 @@
+created(1716117745.883023).
+assert(celo('Zagrebo','zagreb.0o.cxefurbo','札格雷布[Zhá gé léi bù]')).
+assert(celo('Zagrebo','zagreb.0o.cxefurbo','札格拉布[Zhá gé lā bù]')).
+assert(celo('Zagrebo','zagreb.0o.cxefurbo','札格瑞布[Zhá gé ruì bù]')).
+assert(celo('Zagrebo','zagreb.0o.cxefurbo','萨格勒布[Sà gé lè bù],薩格勒布[Sà gé lè bù]')).
+assert(celo(zakusko,'zakusk.0o','一小片[yì xiǎo piàn]')).
+assert(celo(zakusko,'zakusk.0o','細屑[xì xiè],细屑[xì xiè]')).
+assert(celo(zakusko,'zakusk.0o','点心[diǎn xīn],點心[diǎn xīn]')).
+assert(celo('Zambio','zambi.Z0o','贊比亞[Zàn bǐ yà],赞比亚[Zàn bǐ yà]')).
+assert(celo('Zambio','zambi.Z0o','尚比亚[Shàng bǐ yà],尚比亞[Shàng bǐ yà]')).
+assert(celo(zantoksilo,'zantoksil.0o.BOT','樧[shā]')).
+assert(celo(zantoksilo,'zantoksil.0o.BOT','藙[yì]')).
+assert(celo('Zanzibaro','zanzibar.0o','桑給巴爾[Sāng jǐ bā ěr],桑给巴尔[Sāng jǐ bā ěr]')).
+assert(celo('Zanzibaro','zanzibar.0o','桑給巴爾[sāng gěi bā ěr],桑给巴尔[sāng gěi bā ěr]')).
+assert(celo('Zaratuŝtro','zaratusxtr.0o','琐罗亚斯特[Suǒ luó yà sī tè],瑣羅亞斯特[Suǒ luó yà sī tè]')).
+assert(celo(zebro,'zebr.0o','斑馬[bān mǎ],斑马[bān mǎ]')).
+assert(celo(zebuo,'zebu.0o','犎[fēng]')).
+assert(celo(zefiro,'zefir.0o','徐風[xú fēng],徐风[xú fēng]')).
+assert(celo(zefiro,'zefir.0o','細薄[xì bó],细薄[xì bó]')).
+assert(celo(zelkovo,'zelkov.0o','槻[guī]')).
+assert(celo(zelkovo,'zelkov.0o','椐[jū]')).
+assert(celo(zelkovo,'zelkov.0o','橥[zhū],櫫[zhū]')).
+assert(celo(zelkovo,'zelkov.0o','榉树[jǔ shù],櫸樹[jǔ shù]')).
+assert(celo(zenito,'zenit.0o','天頂[tiān dǐng],天顶[tiān dǐng]')).
+assert(celo(zenito,'zenit.0o','日中[rì zhōng]')).
+assert(celo(zenito,'zenit.0o','尖端[jiān duān]')).
+assert(celo(zepelino,'zepelin.0o','齊柏林[qí bó lín],齐柏林[qí bó lín]')).
+assert(celo(zepelino,'zepelin.0o','齊柏林飛船[qí bó lín fēi chuán],齐柏林飞船[qí bó lín fēi chuán]')).
+assert(celo(zepelino,'zepelin.0o','齊柏林飛艇[qí bó lín fēi tǐng],齐柏林飞艇[qí bó lín fēi tǐng]')).
+assert(celo(zeto,'zet.0o','截塔[jié tǎ]')).
+assert(celo(zeto,'zet.0o','泽塔[zé tǎ],澤塔[zé tǎ]')).
+assert(celo(zibelo,'zibel.0o','黑貂[hēi diāo]')).
+assert(celo(zibelo,'zibel.0o','黑貂皮[hēi diāo pí]')).
+assert(celo(zibeto,'zibet.0o','麝猫[shè māo],麝貓[shè māo]')).
+assert(celo(zibeto,'zibet.0o','灵猫[líng māo],靈貓[líng māo]')).
+assert(celo(zibeto,'zibet.0o','麝香猫[shè xiāng māo],麝香貓[shè xiāng māo]')).
+assert(celo(zibeto,'zibet.0o','果子狸[guó zǐ māo]')).
+assert(celo(zigomo,'zigom.0o','顴骨[quán gǔ],颧骨[quán gǔ]')).
+assert(celo(zigomo,'zigom.0o','馗[kuí]')).
+assert(celo(zigomo,'zigom.0o','顴[quán],颧[quán]')).
+assert(celo(zigoto,'zigot.0o','合子[hé zǐ]')).
+assert(celo(zigoto,'zigot.0o','受精卵[shòu jīng luǎn]')).
+assert(celo(zigurato,'zigurat.0o','金字形神塔[jīn zì xíng shén tǎ]')).
+assert(celo(zigzagi,'zigzag.0i','蛇行[shé xíng]')).
+assert(celo(zigzagi,'zigzag.0i','弯曲[wān qū],彎曲[wān qū]')).
+assert(celo(zigzago,'zigzag.0o','之字形[zhī zì xíng]')).
+assert(celo(zigzago,'zigzag.0o','之字路[zhī zì lù]')).
+assert(celo(zigzago,'zigzag.0o','鋸齒形[jù chǐ xíng],锯齿形[jù chǐ xíng]')).
+assert(celo(zigzago,'zigzag.0o','蜿蜒曲折[wān yán qū zhé]')).
+assert(celo('Zimbabvo','zimbabv.Z0o','津巴布韋[Jīn bā bù wéi],津巴布韦[Jīn bā bù wéi]')).
+assert(celo('Zimbabvo','zimbabv.Z0o','津巴布韋共和國[jīn bā bù wéi gòng hé guó],津巴布韦共和国[jīn bā bù wéi gòng hé guó]')).
+assert(celo(zingibro,'zingib.0o','姜[jiāng],薑[jiāng]')).
+assert(celo(zingibro,'zingib.0o','蘅[héng]')).
+assert(celo(zingibro,'zingib.0o','姜[jiāng]')).
+assert(celo(zingibro,'zingib.0o','生姜[shēng jiāng]')).
+assert(celo(zingibro,'zingib.0o','薑黃色[jiāng huáng sè],薑黄色[jiāng huáng sè]')).
+assert(celo(zingibracoj,'zingib1.0oj','姜科[jiāng kē],薑科[jiāng kē]')).
+assert(celo(zinki,'zink.0i','鍍鋅[dù xīn],镀锌[dù xīn]')).
+assert(celo(zinko,'zink.0o','鋅[xīn],锌[xīn]')).
+assert(celo(zinko,'zink.0o','白鉛[bái qiān],白铅[bái qiān]')).
+retract(celo(zinko,'zink.0o','白鉛[bái qiān],白铅[bái qiān]')).
+assert(celo(zipo,'zip.0o','拉鏈[lā liàn],拉链[lā liàn]')).
+assert(celo(zipo,'zip.0o','拉鎖[lā suǒ],拉锁[lā suǒ]')).
+assert(celo(zirkono,'zirkon.0o','鋯石[gào shí],锆石[gào shí]')).
+assert(celo(zirkonio,'zirkoni.0o.dioksido','鋯[gào],锆[gào]')).
+assert(celo(zizelo,'zizel.0o','黃鼠屬[huáng shǔ shǔ],黄鼠属[huáng shǔ shǔ]')).
+assert(celo(zizifo,'zizif.0o.genro','棯[rěn]')).
+assert(celo(zizifo,'zizif.0o.genro','枣树[zǎo shù],棗樹[zǎo shù]')).
+assert(celo(zizifo,'zizif.0o.genro','果味胶糖[guǒ wèi jiāo táng],果味膠糖[guǒ wèi jiāo táng]')).
+assert(celo(zoo,'zo.0o','动物园[dòng wù yuán],動物園[dòng wù yuán]')).
+assert(celo(zodiako,'zodiak.0o','黃道十二宮[huáng dào shí èr gōng],黄道十二宫[huáng dào shí èr gōng]')).
+assert(celo(zodiako,'zodiak.0o','属相[shǔ xiàng],屬相[shǔ xiàng]')).
+assert(celo(zomi,'zom.0i','变焦[biàn jiāo],變焦[biàn jiāo]')).
+assert(celo(zomi,'zom.0i','变焦距[biàn jiāo jù],變焦距[biàn jiāo jù]')).
+assert(celo(zomo,'zom.0o','变焦镜头[biàn jiāo jìng tóu],變焦鏡頭[biàn jiāo jìng tóu]')).
+assert(celo(zomo,'zom.0o','变焦距镜头[biàn jiāo jù jìng tóu],變焦距鏡頭[biàn jiāo jù jìng tóu]')).
+assert(celo(zombio,'zombi.0o','活尸[huó shī],活屍[huó shī]')).
+assert(celo(zombio,'zombi.0o','丧尸[sāng shī],喪屍[sāng shī]')).
+assert(celo(zono,'zon.0o','带[dài],帶[dài]')).
+assert(celo(zono,'zon.0o','腰带[yāo dài],腰帶[yāo dài]')).
+assert(celo(zono,'zon.0o','区域[qū yù],區域[qū yù]')).
+assert(celo(zono,'zon.0o','地带[dì dài],地帶[dì dài]')).
+assert(celo(horzono,'zon.hor0o','时区[shí qū],時區[shí qū]')).
+assert(celo(kapzono,'zon.kap0o','发箍[fà gū],髮箍[fà gū]')).
+assert(celo(kapzono,'zon.kap0o','一字巾[yī zì jīn]')).
+assert(celo(kolzono,'zon.kol0o','硬領[yìng lǐng],硬领[yìng lǐng]')).
+assert(celo(kolzono,'zon.kol0o','褽[wèi]')).
+assert(celo(mamzono,'zon.mam0o','文胸[wén xiōng]')).
+assert(celo(mamzono,'zon.mam0o','胸罩[xiōng zhào]')).
+assert(celo(mamzono,'zon.mam0o','乳罩[rǔ zhào]')).
+assert(celo(mamzono,'zon.mam0o','奶罩[nǎi zhào]')).
+assert(celo(savzono,'zon.sav0o','救生圈[jiù shēng quān]')).
+assert(celo(savzono,'zon.sav0o','軟木浮圈[ruǎn mù fú quān],软木浮圈[ruǎn mù fú quān]')).
+assert(celo(sekurzono,'zon.sekur0o','安全带[ān quán dài],安全帶[ān quán dài]')).
+assert(celo(ŝelkozono,'zon.sxelk0o','挽具[wǎn jù]')).
+assert(celo(ŝelkozono,'zon.sxelk0o','馬具[mǎ jù],马具[mǎ jù]')).
+assert(celo(ŝultrozono,'zon.sxultro0o','吊带[diào dài],吊帶[diào dài]')).
+assert(celo(terzono,'zon.ter0o.GEOG','气候带[qì hòu dài],氣候帶[qì hòu dài]')).
+assert(celo(zoofito,'zoofit.0o','植虫类[zhí chóng lèi],植蟲類[zhí chóng lèi]')).
+assert(celo(zoofito,'zoofit.0o','象植物的动物[xiàng zhí wù de dòng wù],象植物的動物[xiàng zhí wù de dòng wù]')).
+assert(celo(zoologio,'zoolog1.0o','动物学[dòng wù xué],動物學[dòng wù xué]')).
+assert(celo(zorga,'zorg.0a','細心[xì xīn],细心[xì xīn]')).
+assert(celo(zorga,'zorg.0a','嫈[yīng]')).
+assert(celo(zorga,'zorg.0a','細緻[xì zhì],细致[xì zhì]')).
+assert(celo(zorga,'zorg.0a','剀[kǎi],剴[kǎi]')).
+assert(celo(zorga,'zorg.0a','精細[jīng xì],精细[jīng xì]')).
+assert(celo(zorga,'zorg.0a','周密[zhōu mì]')).
+assert(celo(zorga,'zorg.0a','审[shěn],審[shěn]')).
+assert(celo(zorga,'zorg.0a','仔[zǐ]')).
+assert(celo(zorga,'zorg.0a','細細[xì xì],细细[xì xì]')).
+assert(celo(zorga,'zorg.0a','謹[jǐn],谨[jǐn]')).
+assert(celo(zorga,'zorg.0a','廑[jǐn]')).
+assert(celo(zorga,'zorg.0a','小心翼翼[xiǎo xīn yì yì]')).
+assert(celo(zorga,'zorg.0a','毖[bì]')).
+assert(celo(zorga,'zorg.0a','仔細[zǐ xì],仔细[zǐ xì]')).
+assert(celo(zorga,'zorg.0a','整密[zhěng mì]')).
+assert(celo(zorga,'zorg.0a','苦心[kǔ xīn]')).
+assert(celo(prizorganto,'zorg.0anto','监护人[jiān hù rén],監護人[jiān hù rén]')).
+assert(celo(prizorganto,'zorg.0anto','女护理员[nǚ hù lǐ yuán],女護理員[nǚ hù lǐ yuán]')).
+assert(celo(prizorganto,'zorg.0anto','护理员[hù lǐ yuán],護理員[hù lǐ yuán]')).
+assert(celo(prizorganto,'zorg.0anto','男护士[nán hù shi],男護士[nán hù shi]')).
+assert(celo(zorgato,'','不拘[bù jū]')).
+assert(celo(zorgema,'zorg.0ema','細心[xì xīn],细心[xì xīn]')).
+assert(celo(zorgema,'zorg.0ema','嫈[yīng]')).
+assert(celo(zorgema,'zorg.0ema','审[shěn],審[shěn]')).
+assert(celo(zorgema,'zorg.0ema','担心[dān xīn],擔心[dān xīn]')).
+assert(celo(zorgema,'zorg.0ema','剀[kǎi],剴[kǎi]')).
+assert(celo(zorgema,'zorg.0ema','廑[jǐn]')).
+assert(celo(zorgema,'zorg.0ema','細緻[xì zhì],细致[xì zhì]')).
+assert(celo(zorgema,'zorg.0ema','周密[zhōu mì]')).
+assert(celo(zorgema,'zorg.0ema','精細[jīng xì],精细[jīng xì]')).
+assert(celo(zorgema,'zorg.0ema','兢[jīng]')).
+assert(celo(zorga,'','不安[bù ān]')).
+assert(celo(zorgi,'zorg.0i','过问[guò wèn],過問[guò wèn]')).
+assert(celo(zorgi,'zorg.0i','关怀[guān huái],關懷[guān huái]')).
+assert(celo(zorgi,'zorg.0i','顧[gù],顾[gù]')).
+assert(celo(zorgi,'zorg.0i','伏侍[fú shi]')).
+assert(celo(zorgi,'zorg.0i','操神[cāo shén]')).
+assert(celo(zorgi,'zorg.0i','照应[zhào ying],照應[zhào ying]')).
+assert(celo(zorgi,'zorg.0i','照料[zhào liào]')).
+assert(celo(zorgi,'zorg.0i','照顧[zhào gu],照顾[zhào gu]')).
+assert(celo(zorgi,'zorg.0i','調訓[tiáo xùn],调训[tiáo xùn]')).
+assert(celo(zorgi,'zorg.0i','顧盼[gù pàn],顾盼[gù pàn]')).
+assert(celo(zorgi,'zorg.0i.maltrankvili','忧虑[yōu lù:],憂慮[yōu lù:]')).
+assert(celo(zorgi,'zorg.0i.maltrankvili','烦恼[fán nǎo],煩惱[fán nǎo]')).
+assert(celo(zorgi,'','担心[dān xīn],擔心[dān xīn]')).
+assert(celo(zorgo,'zorg.0o','后顾之忧[hòu gù zhī yōu],後顧之憂[hòu gù zhī yōu]')).
+assert(celo(zorgo,'zorg.0o','提心[tí xīn]')).
+assert(celo(zorgo,'zorg.0o','照料[zhào liào]')).
+assert(celo(zorgo,'zorg.0o','烦心事[fán xīn shì],煩心事[fán xīn shì]')).
+assert(celo(zorgo,'zorg.0o','挂念[guà niàn],掛念[guà niàn]')).
+assert(celo(zorgo,'zorg.0o','烦恼[fán nǎo],煩惱[fán nǎo]')).
+assert(celo(antaŭzorgi,'zorg.antaux0i','防備[fáng bèi],防备[fáng bèi]')).
+assert(celo(antaŭzorgi,'zorg.antaux0i','防止[fáng zhǐ]')).
+assert(celo(domzorgisto,'zorg.dom0isto','礼宾员[lǐ bīn yuán],禮賓員[lǐ bīn yuán]')).
+assert(celo(domzorgisto,'zorg.dom0isto','物业管理人员[wù yè guǎn lǐ rén yuán],物業管理人員[wù yè guǎn lǐ rén yuán]')).
+assert(celo(nezorgema,'zorg.ne0ema','漫不經心[màn bù jīng xīn],漫不经心[màn bù jīng xīn]')).
+assert(celo(nezorgema,'zorg.ne0ema','跅[tuò]')).
+assert(celo(nezorgema,'zorg.ne0ema','含糊[hán hu]')).
+assert(celo(nezorgema,'zorg.ne0ema','遢[tà]')).
+assert(celo(nezorgema,'zorg.ne0ema','漫不經意[màn bù jīng yì],漫不经意[màn bù jīng yì]')).
+assert(celo(nezorgema,'zorg.ne0ema','粗心[cū xīn]')).
+assert(celo(nezorgema,'zorg.ne0ema','馬虎[mǎ hu],马虎[mǎ hu]')).
+assert(celo(nezorgema,'zorg.ne0ema','馬馬虎虎[mǎ ma hū hū],马马虎虎[mǎ ma hū hū]')).
+assert(celo(nezorgema,'zorg.ne0ema','草率[cǎo shuài]')).
+assert(celo(prizorgi,'zorg.pri0i','服侍[fú shi]')).
+assert(celo(prizorgi,'zorg.pri0i','照应[zhào ying],照應[zhào ying]')).
+assert(celo(prizorgi,'zorg.pri0i','照看[zhào kàn]')).
+assert(celo(prizorgi,'zorg.pri0i','照顧[zhào gu],照顾[zhào gu]')).
+assert(celo(senzorga,'zorg.sen0a','无忧无虑[wú yōu wú lǜ],無憂無慮[wú yōu wú lǜ]')).
+assert(celo(senzorga,'zorg.sen0a','自由自在[zì yóu zì zài]')).
+assert(celo(senzorga,'zorg.sen0a','暢快[chàng kuài],畅快[chàng kuài]')).
+assert(celo(zorio,'zori.0o','人字拖鞋[rén zì tuō xié]')).
+assert(celo(zorio,'zori.0o','夹脚拖鞋[jiá jiǎo tuō xié],夾腳拖鞋[jiá jiǎo tuō xié]')).
+assert(celo(zorio,'zori.0o','夹脚拖[jiā jiǎo tuō],夾腳拖[jiā jiǎo tuō]')).
+assert(celo(zorio,'zori.0o','人字拖[rén zì tuō]')).
+assert(celo(zuluo,'zulu.0o','祖魯[Zǔ lǔ],祖鲁[Zǔ lǔ]')).
+assert(celo(zuluo,'zulu.0o','祖魯人[Zǔ lǔ rén],祖鲁人[Zǔ lǔ rén]')).
+assert(celo(zumado,'zum.0ado','嗡[wēng]')).
+assert(celo(zumado,'zum.0ado','嗡嗡[wēng wēng]')).
+assert(celo(zumado,'zum.0ado','哼声[hēng shēng],哼聲[hēng shēng]')).
+assert(celo(zumado,'zum.0ado','嗡嗡叫[wēng wēng jiào]')).
+assert(celo(zumegi,'zum.0egi.KOMUNE','嗡嗡声[wēng wēng shēng],嗡嗡聲[wēng wēng shēng]')).
+assert(celo(zumegi,'zum.0egi.KOMUNE','謍[yíng]')).
+assert(celo(zumegi,'zum.0egi.KOMUNE','哼声[hēng shēng],哼聲[hēng shēng]')).
+assert(celo(zumegi,'zum.0egi.KOMUNE','嗡嗡叫[wēng wēng jiào]')).
+assert(celo(zumi,'zum.0i','嗡[wēng]')).
+assert(celo(zzz,'zzz.0','虿[chài],蠆[chài]')).
