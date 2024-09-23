@@ -22,10 +22,10 @@ ZOO agistrodono, de: Dreieckskopfottern, la: Agkistrodon
 TIP postero, de: Poster (artafiŝo)
 TEL zapado, channel surfing (kanalumado)
 TEKS pompono, de: Pompon (Bummel...?), globkvasto
-TEKS petikoto, de: Petticoat (subjupo)
+TEKS petikoto, de: Petticoat, tula subjupo
 TEKS lodeno, en: loden (de: Loden, lanŝtofo?)
 TEKS gingamo, de: Gingham, Bauernkaro, Vichy-Muster
-TEKS fliso, de: Fleece, en: fleece (sinteza/poliestra ŝtofo)
+TEKS fliso, de: Fleece, en: fleece (sinteza/poliestra ŝtofo raŭka, t.e. lansimila)
 TEKS eskarpeno, de: Pumps (danc-ŝuo, Absatzschuh)
 TEKS epitrakelio, TEKS, KRI, de: Epitrachelion (ortodoksa stolo)
 TEKS burkino, de: Burkini
