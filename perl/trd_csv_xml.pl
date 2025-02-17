@@ -147,7 +147,7 @@ sub process_art {
     # Ni trairu ilin kaj se ili ankoraŭ ne havas tiulingvan tradukon, sed
     # ni havas el la CSV-dosiero, ni aldonos tiujn
 
-    # unue trkuru ĉiujn elmentojn kun @mrk, se ni rimarkis 3-kolumn CSV
+    # unue trakuru ĉiujn elmentojn kun @mrk, se ni rimarkis 3-kolumnan CSV
     if ($kun_mrk) {
         for my $m (keys(%mrkmap)) {
             print "mrk: |$m|...\n" if ($debug);
@@ -159,7 +159,7 @@ sub process_art {
         }
     }
 
-    # Laŭ kapvortoj ni rigardu ĉu estas tradukoj  por tiuj kaj se jes ni iru al drv
+    # Laŭ kapvortoj ni rigardu ĉu estas tradukoj por tiuj kaj se jes ni iru al drv
     # kaj provos aldoni la tradukojn inter la aliaj lingvoj laŭalfabete
     for my $k (keys(%drvmap)) {
         print "kap: |$k|...\n" if ($debug);
@@ -411,8 +411,9 @@ sub read_csv {
     $kun_mrk = ($kolumnoj == 3); 
 
     for $r (@$recs) {
-        # s ni havas markon en la dua kolumkno ni uzos tiun kiel indekso
         my $eo; my $trd;
+        # se ni havas markon en la dua kolumno ni uzos tiun kiel indekso
+        # aliokaze ni uzas la kapvorton en la unua kolumno kiel indekso
         if ($kun_mrk) {
             $eo = $r->[1]||$r->[0];
             $trd = $r->[2];

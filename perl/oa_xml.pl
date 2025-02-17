@@ -19,7 +19,7 @@ use XML::LibXML;
 use utf8;
 binmode(STDOUT, "encoding(UTF-8)");
 
-my $debug = 1;
+my $debug = 0; # 0..2
 
 my $oa = '10';
 my $listo = '../../voko-efemero/vrt/OA10.txt';
@@ -75,6 +75,7 @@ sub process_art {
 
     %radikoj = ();
     %drvmap = ();
+    %kapmap = ();
     %mrkmap = ();
 
     # load XML
@@ -106,10 +107,16 @@ sub process_art {
         print var_key($rad).": ".$rad->textContent()."\n" if ($debug);
     }
         
+    # trovu kapojn de la artikolo
+    for my $a ($doc->findnodes('//art')) {
+        extract_kap($a);
+    }
+
     # trovu kapojn de derivaĵoj kaj anstataŭigu tildojn
     for my $d ($doc->findnodes('//drv')) {
         extract_kap($d);
     }
+    print "kap: ".join(';',keys(%kapmap))."\n" if ($debug);
     print "drv: ".join(';',keys(%drvmap))."\n" if ($debug);
 
     # trovu ĉiujn elementojn kun @mrk
@@ -119,17 +126,36 @@ sub process_art {
         }
     }   
 
-    # Laŭ kapvortoj ni rigardu ĉu estas en la listo oficialaj kaj se jes ni iru al drv
+    my @kapvortoj = oa_rad(@rad);
+    print "oa: ".join(',',@kapvortoj)."\n" if ($debug);
+
+    # Laŭ kapvortoj art/kap ni rigardu ĉu estas en la listo oficialaj kaj se jes ni iru al drv
     # kaj provos aldoni <ofc>$OA</ofc>
-    for my $k (keys(%drvmap)) {
-        print "kap: |$k|...\n" if ($debug);
-        my @kapvortoj = oa_rad(@rad);
-        print "oa: ".join(',',@kapvortoj)."\n" if ($debug);
+    for my $k (keys(%kapmap)) {
+        print "art/kap: |$k|...\n" if ($debug);
         if( $k ~~ @kapvortoj ) {
-            my $mod = aldonu_ofc($k);
-            $modified ||= $mod;            
+            my $mod = aldonu_ofc($k,\%kapmap);
+            $modified ||= $mod;      
+
+            # forigu por ne aldonu al la egala drv poste
+            @kapvortoj = grep {$_ ne $k} @kapvortoj;      
         }
     }
+
+    # Laŭ kapvortoj drv/kap ni rigardu ĉu estas en la listo oficialaj kaj se jes ni iru al drv
+    # kaj provos aldoni <ofc>$OA</ofc>
+    for my $k (keys(%drvmap)) {
+        print "drv/kap: |$k|...\n" if ($debug);
+        if( $k ~~ @kapvortoj ) {
+            my $mod = aldonu_ofc($k,\%drvmap);
+            $modified ||= $mod;    
+
+            # forigu por fine vidu la netraktitajn
+            @kapvortoj = grep {$_ ne $k} @kapvortoj;      
+        }
+    }
+
+    print "NETROVITA: ".join(',',@kapvortoj)."\n" if (@kapvortoj);
 
     # nur skribu, se ni efektive aldonis tradukojn, ĉar
     # ankaŭ ŝanĝiĝas iom linirompado kaj kodado de unikodaj literoj en la XML
@@ -146,8 +172,9 @@ WRITE:
 sub aldonu_ofc {
     # kap
     my $k = shift;
+    my $map = shift;
 
-    my $el = %drvmap{$k};
+    my $el = $map->{$k};
     my $modified = 0;
 
     if ($el) {
@@ -242,6 +269,7 @@ sub extract_kap {
     print "kap: ".$kap if ($debug);
 
     for my $ch ($kap->childNodes()) {
+        print "ch ".$ch->nodeName.": ".$ch->textContent()."\n" if ($debug>=2);
         # se la ido estas tildo, ni anstataŭigu per la koncerna radiko / variaĵo
         if ($ch->nodeName eq 'tld') {            
             print "\n".$radikoj->{var_key($ch)}."\n" if ($debug); 
@@ -256,11 +284,14 @@ sub extract_kap {
             my $var = extract_kap($ch);
             # registru la derivaĵon ($node) sub la nomo $var
             $drvmap{$var} = $node;
+        # se temas pri radiko ni aldonas ĝian text-enhavon
+        } elsif ($ch->nodeName eq 'rad') {
+            $res .= $ch->textContent();        
         # tekstojn kaj literunuojn ni kolektas kiel tekstenhavo
         } elsif ($ch->nodeType eq XML_TEXT_NODE || $ch->nodeType eq XML_ENTITY_REF_NODE) {
             print $ch."\n" if ($debug);
             my $cnt = $ch->textContent();
-            $cnt =~ s/,//g;
+            $cnt =~ s/[\/,]//g;
             $res .= $cnt;
         } else {
             print "NT: ".$ch->nodeType."\n" if ($debug && $ch->nodeType ne XML_ELEMENT_NODE);
@@ -269,6 +300,7 @@ sub extract_kap {
     # registru la derivaĵon ($node) sub la kapvorto $res
     $res =~ s/^\s+|\s+$//sg;
     $drvmap{$res} = $node if ($node->nodeName() eq 'drv');
+    $kapmap{$res} = $node if ($node->nodeName() eq 'art');
     return $res;
 }
 
