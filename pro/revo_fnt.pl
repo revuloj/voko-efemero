@@ -1,9 +1,10 @@
 :- use_module(library(sgml)).
 :- use_module(library(xpath)).
 
-:- dynamic radiko/3.
+:- dynamic radiko/2.
 
 revo_xml('./xml/*.xml').
+radik_dosiero('vrt/revo_rad.pl').
 
 /**
 Ekstraktas la radikkon kune kun fontindikoj el Revo-artikoloj sub ./xml
@@ -57,23 +58,9 @@ skribu_radikojn :-
   ).
 
 skribu_radikojn(Out) :-
-  setof(
-    Rad-(Ofc,Spec), % ordigu oficialecon antaŭ vortspeco por havi '' post la oficialaj!
-    radiko(Rad,Spec,Ofc),
-    Chiuj),
-  %keysort(Chiuj,Ordigitaj),
-  reverse(Chiuj,Renversitaj),
   forall(
-    member(R-(O_,S),Renversitaj), % renversu por ke "senil" analiziĝu antaŭ "sen/il" ktp.
-    % format(Out,'r(''~w'',~w) --> "~w".~n',[R,S,R])
-    (
-      vrt_ofc(O_,O),
-      once((
-        r(R,S,O) % se estas en la baza vortaro ne skribu al revo-vortaro
-        ;
-        format(Out,'r(~q,~q,~q).~n',[R,S,O]) 
-      ))
-    )
+    radiko(R,F),
+    format(Out,'r(~q,~q).~n',[R,F]) 
   ).
 
 
@@ -97,12 +84,12 @@ revo_art(Dosiero) :-
   load_xml_file(Dosiero,DOM),
   catch(
     (
-      revo_rad(DOM,Radiko,Ofc),!, % enestu nur unu, 
+      revo_rad(DOM,Radiko,Fnt),!, % enestu nur unu, 
                 % do ni ne plu serĉas aliajn radikojn //art/kap/rad 
 
       % ne jam preta, teste... var - TIEL NI TROVOS NUR UNU var! sed foje enestas du!
       once((
-        revo_var(DOM,VarRad,VOfc) %, format('DBG var: ~w: ~w~n',[Dosiero,VarRad])
+        revo_var(DOM,VarRad,VFnt) %, format('DBG var: ~w: ~w~n',[Dosiero,VarRad])
         ; true
       ))
           
@@ -115,90 +102,35 @@ revo_art(Dosiero) :-
   ),
 
   % memoru la rezulton de la analizo kiel faktoj
-  assert_vorto(DOM,Radiko,Speco,Ofc),
-  (nonvar(VarRad) -> assert_vorto(DOM,VarRad,Speco,VOfc); true).
+  assertz(radiko(Radiko,Fnt)),
+  (nonvar(VarRad) -> assertz(radiko(VarRad,VFnt)); true).
 
 
-assert_vorto(DOM,Radiko,Speco,Ofc) :-
-  %%assert_radiko(DOM,Radiko,Speco),
-  ofc_vrt(Ofc,OVrt),!,
-  assertz(radiko(Radiko,Speco,OVrt)).
-
-
-revo_rad(DOM,Radiko,Ofc) :-
+revo_rad(DOM,Radiko,Fnt) :-
   xpath(DOM,//art/kap,Kap),
   xpath(Kap,rad(normalize_space),Radiko),
-  atom_length(Radiko,L), 
-  %(L=<1 
-  %  -> throw(averto('ellasante unuliteran radikon')) % ne akceptu radikojn unuliterajn
-  %  ; true
-  %),
-
-  % ni bezonos la unua derivaĵon en la artikolo
-  % por analizi EVI, vorspecon, klasojn
-  xpath(DOM,//drv(1),Drv),
 
   % eltrovu la oficialecon
   once((
-    xpath(Kap,ofc(normalize_space),Ofc)
+    xpath(Kap,fnt/bib(normalize_space),Fnt)
     ;
-  % evitindecon de neoficialaj vortoj (en drv[1] aŭ drv[1]/snc[1] ni tie notas kiel 'e')
-    xpath(Drv,uzo(@tip=stl,text),'EVI'),
-    Ofc = 'e'
-    ;
-    xpath(Drv,snc(1)/uzo(@tip=stl,text),'EVI'),
-    Ofc = 'e'
-    ;
-    % nek oficiala nek evitinda:
-    Ofc=''
+    % ne havas vnt/bib
+    Fnt=''
   )).
 
 
-revo_var(DOM,VarRad,Ofc) :-
+revo_var(DOM,VarRad,VFnt) :-
   xpath(DOM,//art/kap/var/kap,Kap),
   xpath(Kap,rad(normalize_space),VarRad),
-  atom_length(VarRad,L), 
-  (L=<1 
-    -> throw(averto('ignoras unuliteran radikon')) % ne akceptu radikojn unuliterajn
-    ; true
-  ),
 
   % eltrovu la oficialecon
   once((
-    xpath(Kap,ofc(normalize_space),Ofc)
+    xpath(Kap,fnt/bib(normalize_space),VFnt)
     ;
-%%    % PLIBONIGU: la sekvan ni jam faras en revo_rad, ĉu ni fakte ripetu tie ĉi?
-%%    % evitindecon de neoficialaj vortoj (en drv[1] aŭ drv[1]/snc[1] ni tie notas kiel 'e')
-%%    xpath(DOM,//drv(1),Drv),
-%%    (
-%%      xpath(Drv,uzo(@tip=stl,text),'EVI');
-%%      xpath(Drv,snc(1)/uzo(@tip=stl,text),'EVI')
-%%    ),
-%%    Ofc = 'e'
-%%    ;
-%%    % nek oficiala nek evitinda:
-    Ofc=''
+    VFnt=''
   )).
 
-
-% ĉar ni inverse ordigos la vortaron ni
-% uzos signojn por oficialeco, kiuj en
-% Askio estas en la dezirata loko:
-% ! = evitinda
-% + = vorto neoficiale aldonita
-% 1-9, 1953 ks = per oficiala aldono
-% F = fundamenta
-ofc_vrt('*','F').
-ofc_vrt('','+').
-ofc_vrt('e','!').
-ofc_vrt(O,O) :- nonvar(O).
-ofc_vrt(_,'+').
-
-% retraduki F -> * antaŭ sekurigi!
-vrt_ofc('F','*').
-vrt_ofc(O,O).
-
-    
+  
 test(X) :- 
  xpath(element(kap, [], ['\n  ', element(rad, [], [abaĵur]), '/o ', element(fnt, [], [element(bib, [], [...])]), '\n']), self, X).
 
