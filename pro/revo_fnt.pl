@@ -1,9 +1,13 @@
 :- use_module(library(sgml)).
 :- use_module(library(xpath)).
+:- use_module(library(http/json)).
 
 :- dynamic radiko/2.
 
 revo_xml('./xml/*.xml').
+jed_file('./vrt/juerg_eo_de.json').
+fde_file('./vrt/fundamento.json').
+
 radik_dosiero('vrt/revo_rad.pl').
 
 /**
@@ -40,6 +44,22 @@ revo_trasercho :-
         handle_exception(Dosiero,Exc)
       )
    ).
+
+
+read_fde :-
+  fde_file(JF),
+  open(JF,read,Stream,[]),
+  json_read(Stream,json(FdE)),
+  parse_fde(FdE),
+  close(Stream).
+
+read_jed :-
+  jed_file(JF),
+  open(JF,read,Stream,[]),
+  json_read(Stream,json(JED)),
+  parse_jed(JED),
+  close(Stream).
+
 
 %! skribu is det.
 %
@@ -129,6 +149,25 @@ revo_var(DOM,VarRad,VFnt) :-
     ;
     VFnt=''
   )).
+
+
+parse_fde(JList) :-
+  retractall(jed(_)),
+  forall(
+    member(R=Ref,JList),
+    % TODO: asertu nur tiujn, kiu havas iun UV... en Ref
+    % kaj forigu la parton post \' (finaĵon)
+    assertz(fde(R))
+  ).
+
+
+parse_jed(JList) :-
+  retractall(jed(_)),
+  forall(
+    member(R=_,JList),
+    % TODO: forigu komencan '-' kaj finan -a, -o, -i
+    assertz(jed(R))
+  ).
 
   
 test(X) :- 
