@@ -2,11 +2,13 @@
 :- use_module(library(xpath)).
 :- use_module(library(http/json)).
 
-:- dynamic radiko/2.
+:- dynamic radiko/2, fde/1, jed/1, pvee/1.
 
 revo_xml('./xml/*.xml').
-jed_file('./vrt/juerg_eo_de.json').
 fde_file('./vrt/fundamento.json').
+jed_file('./vrt/juerg_eo_de.json').
+% vd https://arkivo.esperanto-france.org/divers/pvee/pvee.htm
+pvee_file('./vrt/pvee_a-z_utf8.html').
 
 radik_dosiero('vrt/revo_rad.pl').
 
@@ -60,6 +62,10 @@ read_jed :-
   parse_jed(JED),
   close(Stream).
 
+read_pvee :-
+  pvee_file(XV),
+  load_html(file(XV),DOM,[]),
+  parse_pvee(DOM).
 
 %! skribu is det.
 %
@@ -154,21 +160,48 @@ revo_var(DOM,VarRad,VFnt) :-
 parse_fde(JList) :-
   retractall(jed(_)),
   forall(
-    member(R=Ref,JList),
+    member(V=Ref,JList),
     % TODO: asertu nur tiujn, kiu havas iun UV... en Ref
-    % kaj forigu la parton post \' (finaĵon)
-    assertz(fde(R))
+    (      
+      % kaj forigu la parton post \' (finaĵon)    
+      norm_rad(V,'''',Rad),
+      assertz(fde(Rad))
+    )
   ).
 
 
 parse_jed(JList) :-
   retractall(jed(_)),
   forall(
-    member(R=_,JList),
-    % TODO: forigu komencan '-' kaj finan -a, -o, -i
-    assertz(jed(R))
+    member(V=_,JList),
+    (
+      % TODO: forigu komencan '-'?
+      % forigu finan -a, -o, -i
+      norm_rad(V,'-',Rad),
+      assertz(jed(Rad))
+    )
   ).
 
+parse_pvee(DOM) :-
+  retractall(pvee(_)),
+  forall(
+    xpath(DOM,//dt/a(normalize_space),A),
+    (
+      norm_rad(A,'’',Rad),
+      assertz(pvee(Rad))
+    )
+  ).
+
+norm_rad(Vrt,Sep,Rad) :-
+  downcase_atom(Vrt,Min),
+  once((
+    atomic_list_concat([Rad,F],Sep,Min),
+    member(F,[a,o,i,e])
+    ;
+    atomic_list_concat([Rad,''],Sep,Min)
+    ;
+    Rad = Min
+  )).
   
 test(X) :- 
  xpath(element(kap, [], ['\n  ', element(rad, [], [abaĵur]), '/o ', element(fnt, [], [element(bib, [], [...])]), '\n']), self, X).
