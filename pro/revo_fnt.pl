@@ -2,7 +2,7 @@
 :- use_module(library(xpath)).
 :- use_module(library(http/json)).
 
-:- dynamic radiko/2, fde/1, jed/1, pvee/1.
+:- dynamic radiko/2, uv/1, jed/1, pvee/1.
 
 revo_xml('./xml/*.xml').
 fde_file('./vrt/fundamento.json').
@@ -18,13 +18,27 @@ Ekstraktas la radikkon kune kun fontindikoj el Revo-artikoloj sub ./xml
 
 
 revo_fnt :-
-  revo_trasercho, 
+  read_revo, 
   skribu.
 
-%! revo_trasercho is det.
-%
+read :-
+  read_fde,
+  read_jed,
+  read_pvee,
+  writeln("revo xml..."),
+  read_revo.
 
-revo_trasercho :-
+manko_uv(V) :-
+  uv(V), \+ radiko(V,'UV').
+
+manko_jed(V) :-
+  jed(V), \+ uv(V), \+ radiko(V,'JED').
+
+manko_pvee(V) :-
+  pvee(V), \+ uv(V), \+jed(V), \+ radiko(V,'PVEF').
+  
+
+read_revo :-
   retractall(radiko(_,_)),
 
   revo_xml(Xml),
@@ -161,47 +175,63 @@ parse_fde(JList) :-
   retractall(jed(_)),
   forall(
     member(V=Ref,JList),
-    % TODO: asertu nur tiujn, kiu havas iun UV... en Ref
-    (      
+    once((      
+      % asertu nur tiujn, kiu havas iun UV... en Ref
+      uv_ref(Ref),
       % kaj forigu la parton post \' (finaĵon)    
       norm_rad(V,'''',Rad),
-      assertz(fde(Rad))
-    )
+      assertz(uv(Rad))
+      ;
+      true
+    ))
   ).
 
+uv_ref(Ref) :-
+  member(R,Ref),
+  sub_atom(R,0,2,_,uv).
 
 parse_jed(JList) :-
   retractall(jed(_)),
   forall(
     member(V=_,JList),
-    (
+    once((
       % TODO: forigu komencan '-'?
       % forigu finan -a, -o, -i
       norm_rad(V,'-',Rad),
       assertz(jed(Rad))
-    )
+      ;
+      true
+    ))
   ).
 
 parse_pvee(DOM) :-
   retractall(pvee(_)),
   forall(
     xpath(DOM,//dt/a(normalize_space),A),
-    (
-      norm_rad(A,'’',Rad),
+    once((
+      norm_min_rad(A,'’',Rad),
       assertz(pvee(Rad))
-    )
+      ;
+      true
+    ))
   ).
 
 norm_rad(Vrt,Sep,Rad) :-
-  downcase_atom(Vrt,Min),
   once((
-    atomic_list_concat([Rad,F],Sep,Min),
-    member(F,[a,o,i,e])
+    atomic_list_concat([Rad,F],Sep,Vrt),
+    member(F,[a,o,oj,i,e])
     ;
-    atomic_list_concat([Rad,''],Sep,Min)
+    atomic_list_concat([Rad,'o','j'],Sep,Vrt)
     ;
-    Rad = Min
+    atomic_list_concat([Rad,''],Sep,Vrt)
+    ;
+    Rad = Vrt
   )).
+
+
+norm_min_rad(Vrt,Sep,Rad) :-
+  downcase_atom(Vrt,Min),
+  norm_rad(Min,Sep,Rad).
   
 test(X) :- 
  xpath(element(kap, [], ['\n  ', element(rad, [], [abaĵur]), '/o ', element(fnt, [], [element(bib, [], [...])]), '\n']), self, X).
