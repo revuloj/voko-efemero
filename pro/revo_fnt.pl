@@ -28,6 +28,31 @@ read :-
   writeln("revo xml..."),
   read_revo.
 
+plej_frua_fonto(V,Fnt) :-
+  radiko(V,_),
+  once((
+    uv(V), Fnt='UV'
+    ;
+    jed(V), Fnt='JED'
+    ;
+    pvee(V), Fnt='PVEF'
+  )).
+
+fonto_korektenda(V,Fnt) :-
+  plej_frua_fonto(V,Fnt),
+  radiko(V,F1),
+  F1 \= Fnt.
+
+ne_en_revo(V,Fnt) :-  
+  (
+    uv(V), Fnt='UV'
+    ;
+    jed(V), Fnt='JED'
+    ;
+    pvee(V), Fnt='PVEF'
+  ),
+  \+ radiko(V,_).
+
 manko_uv(V) :-
   uv(V), \+ radiko(V,'UV').
 
@@ -197,7 +222,7 @@ parse_jed(JList) :-
     once((
       % TODO: forigu komencan '-'?
       % forigu finan -a, -o, -i
-      norm_rad(V,'-',Rad),
+      norm_rad(V,'‑',Rad),
       assertz(jed(Rad))
       ;
       true
