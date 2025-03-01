@@ -2,7 +2,7 @@
 :- use_module(library(xpath)).
 :- use_module(library(http/json)).
 
-:- dynamic radiko/2, uv/1, jed/1, pvee/1.
+:- dynamic radiko/3, uv/1, jed/1, pvee/1.
 
 revo_xml('./xml/*.xml').
 fde_file('./vrt/fundamento.json').
@@ -10,16 +10,18 @@ jed_file('./vrt/juerg_eo_de.json').
 % vd https://arkivo.esperanto-france.org/divers/pvee/pvee.htm
 pvee_file('./vrt/pvee_a-z_utf8.html').
 
+fnt_korekto('./vrt/revo_fnt_korektoj.csv').
+
 radik_dosiero('vrt/revo_rad.pl').
 
 /**
-Ekstraktas la radikkon kune kun fontindikoj el Revo-artikoloj sub ./xml
+Ekstraktas la radikon kune kun fontindikoj el Revo-artikoloj sub ./xml
 */
 
 
-revo_fnt :-
-  read_revo, 
-  skribu.
+%%revo_fnt :-
+%%  read_revo, 
+%%  skribu.
 
 read :-
   read_fde,
@@ -28,8 +30,8 @@ read :-
   writeln("revo xml..."),
   read_revo.
 
-plej_frua_fonto(V,Fnt) :-
-  radiko(V,_),
+plej_frua_fonto(V,Fnt,Dos) :-
+  radiko(V,_,Dos),
   once((
     uv(V), Fnt='UV'
     ;
@@ -38,10 +40,18 @@ plej_frua_fonto(V,Fnt) :-
     pvee(V), Fnt='PVEF'
   )).
 
-fonto_korektenda(V,Fnt) :-
-  plej_frua_fonto(V,Fnt),
-  radiko(V,F1),
+fonto_korektenda(V,Fnt,Dos) :-
+  radiko(V,F1,Dos),
+  plej_frua_fonto(V,Fnt,Dos),
   F1 \= Fnt.
+
+
+fonto_korektenda_2(V,Fnt,Dos) :-
+  radiko(V,F1,Dos),
+  atom_length(V,L), L>2,
+  plej_frua_fonto(V,Fnt,Dos),
+  F1 \= Fnt.
+  
 
 ne_en_revo(V,Fnt) :-  
   (
@@ -51,20 +61,20 @@ ne_en_revo(V,Fnt) :-
     ;
     pvee(V), Fnt='PVEF'
   ),
-  \+ radiko(V,_).
+  \+ radiko(V,_,_).
 
-manko_uv(V) :-
-  uv(V), \+ radiko(V,'UV').
+manko_uv(V,Dos) :-
+  uv(V), \+ radiko(V,'UV',Dos).
 
-manko_jed(V) :-
-  jed(V), \+ uv(V), \+ radiko(V,'JED').
+manko_jed(V,Dos) :-
+  jed(V), \+ uv(V), \+ radiko(V,'JED',Dos).
 
-manko_pvee(V) :-
-  pvee(V), \+ uv(V), \+jed(V), \+ radiko(V,'PVEF').
+manko_pvee(V,Dos) :-
+  pvee(V), \+ uv(V), \+jed(V), \+ radiko(V,'PVEF',Dos).
   
 
 read_revo :-
-  retractall(radiko(_,_)),
+  retractall(radiko(_,_,_)),
 
   revo_xml(Xml),
 %  atom_concat(Pado,'/*.xml',XMLDosieroj),
@@ -109,25 +119,36 @@ read_pvee :-
 %! skribu is det.
 %
 
-skribu :-
-  skribu_radikojn.
-
-
-skribu_radikojn :-
-  radik_dosiero(Dos),
+skribu_fnt_korektojn :-
+  fnt_korekto(Dos),
   format('skribas al ''~w''...~n',[Dos]),
   setup_call_cleanup(
     open(Dos,write,Out),
-    skribu_radikojn(Out),
+    forall(fonto_korektenda_2(V,F,D),
+      csv_write_stream(Out, [fnt(V,F,D)], [separator(0';)])),
     close(Out)
   ).
 
-skribu_radikojn(Out) :-
-  forall(
-    radiko(R,F),
-    format(Out,'r(~q,~q).~n',[R,F]) 
-  ).
 
+%%skribu :-
+%%  skribu_radikojn.
+%%
+%%
+%%skribu_radikojn :-
+%%  radik_dosiero(Dos),
+%%  format('skribas al ''~w''...~n',[Dos]),
+%%  setup_call_cleanup(
+%%    open(Dos,write,Out),
+%%    skribu_radikojn(Out),
+%%    close(Out)
+%%  ).
+%%
+%%skribu_radikojn(Out) :-
+%%  forall(
+%%    radiko(R,F,D),
+%%    format(Out,'r(~q,~q,~q).~n',[R,F,D]) 
+%%  ).
+%%
 
 
 handle_exception(Dosiero,Exception) :-
@@ -147,6 +168,7 @@ handle_exception(Dosiero,Exception) :-
 
 revo_art(Dosiero) :-
   load_xml_file(Dosiero,DOM),
+  dos_mrk(Dosiero,DosMrk),
   catch(
     (
       revo_rad(DOM,Radiko,Fnt),!, % enestu nur unu, 
@@ -167,9 +189,12 @@ revo_art(Dosiero) :-
   ),
 
   % memoru la rezulton de la analizo kiel faktoj
-  assertz(radiko(Radiko,Fnt)),
-  (nonvar(VarRad) -> assertz(radiko(VarRad,VFnt)); true).
+  assertz(radiko(Radiko,Fnt,DosMrk)),
+  (nonvar(VarRad) -> assertz(radiko(VarRad,VFnt,DosMrk)); true).
 
+dos_mrk(Dosiero,Dos) :-
+  file_base_name(Dosiero,F),
+  file_name_extension(Dos,_,F).
 
 revo_rad(DOM,Radiko,Fnt) :-
   xpath(DOM,//art/kap,Kap),
