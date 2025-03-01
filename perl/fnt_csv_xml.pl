@@ -104,8 +104,6 @@ sub process_art {
         
     print "kap: ".join(';',keys(%kapmap))."\n" if ($debug);
 
-    my $fnt = $fontoj->{$dosiero};
-
     # Nun ni scias la elementojn, kiuj povus akcepti fontojn 
     # Ni trairu ilin kaj se ili ankoraŭ ne havas la ĝustan laŭ la CSV-dosiero, ni ŝanĝos tiujn
 
@@ -134,78 +132,50 @@ WRITE:
 
 sub aldonu_fnt_al {
     # mrk/kap, tradukoj
-    my ($rad,$node,$fnt) = @_;
+    my ($rad,$kap,$fnt) = @_;
 
-    my $te;
-    my $el;
+    my $novfnt = $fontoj->{$dosiero}->{$rad};
     my $modified = 0;
 
-    print "- trd: ".join(',',@t)."\n" if ($debug);
-
-    # markon ni rekonas per komenco de dosiernomo + punkto
-    if ($k =~ /^$dosiero\./) {
-        $el = %mrkmap{$k};
+    if ($fnt) {
+        $modified = replace_fnt($fnt,$novfnt);
     } else {
-        $el = %kapmap{$k};
+        $modified = insert_fnt($kap,$novfnt);
     }
-
-    if ($el) {
-
-        my $inserted = 0;
-        my $ignore = 0;
-
-        # unue ni kontrolu ĉu en la derivaĵo jam estas tradukoj de tiu lingvo
-        # se jes ni ne tuŝos ĝin.
-        my $trd_en_el = $el->find($trd_xpath);
-        
-        if ($trd_en_el) {
-
-            # se jam enestas iuj tradukoj ni ne aldonas...
-            $ignore = 1;
-            print "!!! jam enestas trd '$lingvo' !!!\n" if ($debug);
-
-        } else {
-            # ne enestas jam tradukoj serĉu kie enŝovi la novan tradukon
-
-            # kreu <trd> aŭ <trdgrp>
-            #my @t = split(/\s*,\s*/,$t);
-            my $te, $nl;
-            if ($#t < 1) {
-                $te = make_trd(@t);            
-            } else {
-                $te = make_trdgrp(@t);
-            }
-            $nl = XML::LibXML::Text->new("\n  ");
-
-            for $ch ($el->childNodes()) {
-                if ($ch->nodeName eq 'trd' || $ch->nodeName eq 'trdgrp') {
-                    my $l = attr($ch,'lng');
-
-                    if ($l gt $lingvo) {
-                        # aldonu novajn tradukojn antaŭ la nuna
-                        $el->insertBefore($te,$ch);
-                        $el->insertBefore($nl,$ch);
-                        $inserted = 1;
-                        $modified = 1;
-
-                        print "+ $te\n...\n" if ($debug);
-                        last;
-                    }                
-                    print "  $ch\n" if ($debug);
-                }
-            } # for
-            if (! $inserted && ! $ignore) {
-                # aldonu fine, se ne jam antaŭe troviĝis loko por enŝovi
-                $el->appendText("  ");
-                $el->appendChild($te);
-                $el->appendText("\n");
-                $modified = 1;
-            }
-        } # else
-    } # if $el
 
     return $modified;
 }
+
+sub replace_fnt {
+    ($fnt,$nov) = @_;
+
+    $tnov = XML::LibXML::Text->new($nov);
+
+    for my $ch ($fnt->childNodes()) {
+        if ($ch->nodeName eq 'bib') {                    
+            $bib = make_el('bib');
+            $bib->appendText($tnov);
+            $fnt->replaceChild($bib,$ch);
+            return 1;
+        } elsif ($ch->nodeType eq XML_TEXT_NODE && $ch->textContent() eq 'Z') {
+            $fnt->replaceChild($tnov,$ch);
+            return 1;
+        }
+    }
+}
+
+sub insert_fnt {
+    ($knode,$nov) = @_;
+
+    $fnt = make_el('fnt');
+    $bib = make_el('bib');
+    $bib->appendText($nov);
+    $fnt->appendChilde($bib);
+
+    $knode->appendChild($fnt);
+    return 1;
+}
+
 
 # eltrovu atributon var el <rad resp. <tld
 sub var_key {
@@ -253,9 +223,9 @@ sub extract_kap {
         #    # registru la derivaĵon ($node) sub la nomo $var
         #    $drvmap{$var} = $node;
         ## tekstojn kaj literunuojn ni kolektas kiel tekstenhavo
-        } elsif ($ch->nodeType eq 'fnt') {
-            my $f = extract_text($ch);
-            push(@fnt,$f);
+        } elsif ($ch->nodeName eq 'fnt') {
+            #my $f = extract_fnt($ch);
+            push(@fnt,$ch);
         } else {
             print "NT: ".$ch->nodeType."\n" if ($debug && $ch->nodeType ne XML_ELEMENT_NODE);
         }
