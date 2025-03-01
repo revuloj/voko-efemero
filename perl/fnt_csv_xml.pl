@@ -57,12 +57,17 @@ for $art (@artikoloj) {
     if ($art =~ /([a-z0-9]+)\.xml/) {
         $dosiero = $1;
     };
-    process_art($art);
+
+    my $novfnt = $fontoj->{$dosiero};
+
+    if ($novfnt) {
+        process_art($art);
+    }
 }
 
 sub process_art {
     my $artikolo = shift;
-    
+   
     # ni reskribas ĉion al la sama artikolo, kiam ni
     # uzas git-versiadon!
     my $artout = $artikolo; #.".out";
@@ -110,12 +115,11 @@ sub process_art {
     # Laŭ kapvortoj ni rigardu ĉu estas tradukoj por tiuj kaj se jes ni iru al drv
     # kaj provos aldoni la tradukojn inter la aliaj lingvoj laŭalfabete
     for my $rad (keys(%kapmap)) {
-        print "rad: |$rad|...\n" if ($debug);
+        print "rad: |$rad|...\n" if ($debug);        
         my $f = $kapmap{$rad};
-        if ($f->[1]) {
-            my $mod = aldonu_fnt_al($rad,$f->[0],$f->[1]);
-            $modified ||= $mod;            
-        }
+
+        my $mod = aldonu_fnt_al($rad,$f->[0],$f->[1]);
+        $modified ||= $mod;            
     }
 
     # nur skribu, se ni efektive aldonis tradukojn, ĉar
@@ -135,6 +139,8 @@ sub aldonu_fnt_al {
     my ($rad,$kap,$fnt) = @_;
 
     my $novfnt = $fontoj->{$dosiero}->{$rad};
+    unless ($novfnt) { return 0}
+
     my $modified = 0;
 
     if ($fnt) {
@@ -170,7 +176,7 @@ sub insert_fnt {
     $fnt = make_el('fnt');
     $bib = make_el('bib');
     $bib->appendText($nov);
-    $fnt->appendChilde($bib);
+    $fnt->appendChild($bib);
 
     $knode->appendChild($fnt);
     return 1;
