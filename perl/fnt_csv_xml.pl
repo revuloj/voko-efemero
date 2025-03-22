@@ -18,7 +18,7 @@ use Text::CSV qw( csv );
 use utf8;
 binmode(STDOUT, "encoding(UTF-8)");
 
-my $debug = 1;
+my $debug = 0;
 
 unless ($#ARGV>=1) {
     #print($#ARGV);
@@ -164,7 +164,9 @@ sub replace_fnt {
             $fnt->replaceChild($bib,$ch);
             return 1;
         } elsif ($ch->nodeType eq XML_TEXT_NODE && $ch->textContent() eq 'Z') {
-            $fnt->replaceChild($tnov,$ch);
+            $bib = make_el('bib');
+            $bib->appendText($tnov);
+            $fnt->replaceChild($bib,$ch);
             return 1;
         }
     }
