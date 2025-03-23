@@ -1,10 +1,12 @@
 :- use_module(library(sgml)).
 :- use_module(library(xpath)).
 :- use_module(library(http/json)).
+:- use_module(library(pcre)).
 
 :- dynamic bl/4.
 
 bl_file('./vrt/bonalingvo.html').
+bl_csv('./vrt/bonalingvo.csv').
 
 
 read_bl :-
@@ -12,6 +14,14 @@ read_bl :-
     load_html(BL,DOM,[]),
     parse_bl(DOM).
 
+
+write_bl :-
+    bl_csv(CSV),
+    setup_call_cleanup(
+        open(CSV, write, Out),
+        forall(bl(C1,C2,C3,C4),
+            csv_write_stream(Out, [row(C1,C2,C3,C4)], [])),
+        close(Out)).
 
 parse_bl(DOM) :-
     retractall(bl(_,_,_,_)),
@@ -36,7 +46,8 @@ parse_dt_dd([element(dt,_,DT),element(dd,_,DD)|Difinoj]) :-
 
 parse_entry(DT,DD) :-
     parse_dt(DT,Kap,Dis,Fnt),
-    assertz(bl(Kap,Dis,Fnt,DD)).
+    parse_dd(DD,DD_),
+    assertz(bl(Kap,Dis,Fnt,DD_)).
 
 parse_dt(DT,Kap,Dis,Fnt) :-
     % kapvorto
@@ -52,12 +63,17 @@ parse_dt(DT,Kap,Dis,Fnt) :-
         select(F,DT2,_),
         atom(F),
         sub_atom(F,B,1,_,']'),
-        B1 is B-1,
-        sub_atom(F,1,B1,_,Fnt)
+        B1 is B-2,
+        sub_atom(F,2,B1,_,Fnt)
         ;
         Fnt=''
     )).
 
-% parse_dd(DD,[]) :-
+parse_dd(DD,Parsed) :-
+    exclude(is_i,DD,L),
+    atomic_list_concat(L,S),
+    re_replace("\'\s+"/g,"\'",S,S1),
+    re_replace("[\s\n]+"/g," ",S1,S2),
+    re_replace("^\s*p","P",S2,Parsed).
 
-
+is_i(I) :- I = element(i,_,_).
