@@ -74,6 +74,7 @@ parse_dd(DD,Parsed) :-
     atomic_list_concat(L,S),
     re_replace("\'\s+"/g,"\'",S,S1),
     re_replace("[\s\n]+"/g," ",S1,S2),
-    re_replace("^\s*p","P",S2,Parsed).
+    re_replace("^\s*p","P",S2,S3),
+    re_replace("^\s*a","A",S3,Parsed).
 
 is_i(I) :- I = element(i,_,_).
